@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '967',
+  'Cf-Ray' => '83165dd3d5f423c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By Facility; Clinical Performance
+    [sitename] => giftednurses
+    [spec] => Mother/Baby
+    [assignmentid] => 525544
+    [workerID] => 235212
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10791
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-09-11
+    [workerLastName] => Hutson
+    [shiftNum] => 5
+    [workerFirstName] => Ariel
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:45
+    [whenmodified] => December, 06 2023 12:49:36
+    [daysPerWeek] => 3
+    [orderNote] => BR:$90lRS:133302lFTK:GiftTC(signed)
+Orient:$20lNonBill:36hrs are billable at 70%
+    [guaranteedMinimum] => 
+    [workerEmail] => hutsonariel@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => CHRISTUS Children's Hospital of San Antonio
+    [shiftDateEnd] => 2023-12-05
+    [shiftStartTime] => 19:15
+    [subjectID] => 
+)

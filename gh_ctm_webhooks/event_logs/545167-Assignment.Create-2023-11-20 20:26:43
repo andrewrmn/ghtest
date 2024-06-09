@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '24',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8248',
+  'Cf-Ray' => '82936df4108e494d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Please read before submitting:**Traveler must meet all minimum requirements below to be consider.**Do not submit traveler who have or will have expiring licenses and/or certifications during time frame of entire assignment. Traveler will automatically be declined.**Only submit traveler who can work schedule in posting and interested in the unit.Nurses on this 25-bed unit are integral team members of The Joint Commission-certified Comprehensive Stroke Unit, caring for patients with ischemic and hemorrhagic strokes. They also specialize in treating and managing patients with head and spinal cord injuries, elective spine cases, tumors of the central nervous system, cerebral aneurysms, multiple sclerosis, Guillain-Barre, and various neurodegenerative diseases. Nurses are also involved in the evaluation and treatment of patients with seizure disorders in our Level 4 Comprehensive Epilepsy Monitoring Program, which is a sub-unit within the total 25 beds.Minimum Requirements:  Facility Requirement:    Traveler must have permanent address outside50mile radius of Madison (address must be included in       traveler's profile).  Experience:    Neurosurgery experiencepreferred.Traveler must have completed two years of acute care       experience within last 3 years.   Traveler must have experience in an Academic Level 1 -       Trauma center or similar size hospital.   Successfully completed traveler assignment       (13 weeks).  Licensure and Certification:   Traveler must have WI nursing license or compact       license from their permanent address state.   BLS   must       be certified through American Heart Association ONLY  Reference   Needs 2 references from recent work       environment/assignments (supervisor or manager only).  Telemetry    Traveler must have Basic Arrhythmia experience. Traveler will be required to pass UW Health Telemetry test prior to being cleared to start (not for clinic positions).UW Health Recruitment will send instructions to traveler 2-3 weeks prior to start date.  Floating    Travelers       are the first to float to floors working with children up to 1 year of       age and/or based on the traveler's competency skills/experience. The Traveler may       have shifts scheduled in multiple units, depending on the current       staffing needs and/or different locations within the       organization.       During the traveler s assignment, if the primary unit no longer has a       need, shifts will be re-assigned to another unit in order to complete       contract. Location:University Hospital, 600 Highland Ave, Madison, WI 53792Parking:Permit required through UW Transportation. University Hospitalin Madison is a Magnet -designated facility that sranked Wisconsin s #1 hospitaland considered one of the nation's leading hospitals, teaching institutions and referral centers.   Additional Information: 	UW Health is moving away from using outdated file formats for Microsoft (Word, PowerPoint, and Excel). Profiles will need to be submitted in the following format: .docx, .xlsx and .pptx file types or our IS department will be blocking them and we will no longer receive the files nor able to forward internal to our hiring managers.-------------------------------------   	QuantiFERON/TSpot results will NOT be accepted for any reason   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 545167
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3538
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => November, 20 2023 15:26:43
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261944 ;Status=Open;Association=UW Health ;Client=UW Health University Hospital ;City=Madison ;State=WI ;Zip=53792 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Nursing ;Specialty=Telemetry Med / Surg, Neurology, Med-surg Adult ;Unit=Telemetry Med / Surg, Neurology, Med-surg Adult ;Shift=36 hrs/week, Day & Night rotation, 8/12 hr shifts, 7-1930, 19-0730 every other weekend rotation, and some holidays.;# of Postions=3;Guaranteed Hours=36;Type=Travel;BillRate=$108.00;OTRate=118 ;OTRules=By The Week, after 40, ;CallbackRate=108 (All Inclusive Rate) ;HolidayRate=118 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=Please read before submitting:**Traveler must meet all minimum requirements below to be consider.**Do not submit traveler who have or will have expiring licenses and/or certifications during time frame of entire assignment. Traveler will automatically be declined.**Only submit traveler who can work schedule in posting and interested in the unit.Nurses on this 25-bed unit are integral team members of The Joint Commission-certified Comprehensive Stroke Unit, caring for patients with ischemic and hemorrhagic strokes. They also specialize in treating and managing patients with head and spinal cord injuries, elective spine cases, tumors of the central nervous system, cerebral aneurysms, multiple sclerosis, Guillain-Barre, and various neurodegenerative diseases. Nurses are also involved in the evaluation and treatment of patients with seizure disorders in our Level 4 Comprehensive Epilepsy Monitoring Program, which is a sub-unit within the total 25 beds.Minimum Requirements:  Facility Requirement:    Traveler must have permanent address outside50mile radius of Madison (address must be included in       traveler's profile).  Experience:    Neurosurgery experiencepreferred.Traveler must have completed two years of acute care       experience within last 3 years.   Traveler must have experience in an Academic Level 1 -       Trauma center or similar size hospital.   Successfully completed traveler assignment       (13 weeks).  Licensure and Certification:   Traveler must have WI nursing license or compact       license from their permanent address state.   BLS   must       be certified through American Heart Association ONLY  Reference   Needs 2 references from recent work       environment/assignments (supervisor or manager only).  Telemetry    Traveler must have Basic Arrhythmia experience. Traveler will be required to pass UW Health Telemetry test prior to being cleared to start (not for clinic positions).UW Health Recruitment will send instructions to traveler 2-3 weeks prior to start date.  Floating    Travelers       are the first to float to floors working with children up to 1 year of       age and/or based on the traveler's competency skills/experience. The Traveler may       have shifts scheduled in multiple units, depending on the current       staffing needs and/or different locations within the       organization.       During the traveler s assignment, if the primary unit no longer has a       need, shifts will be re-assigned to another unit in order to complete       contract. Location:University Hospital, 600 Highland Ave, Madison, WI 53792Parking:Permit required through UW Transportation. University Hospitalin Madison is a Magnet -designated facility that sranked Wisconsin s #1 hospitaland considered one of the nation's leading hospitals, teaching institutions and referral centers.   Additional Information: 	UW Health is moving away from using outdated file formats for Microsoft (Word, PowerPoint, and Excel). Profiles will need to be submitted in the following format: .docx, .xlsx and .pptx file types or our IS department will be blocking them and we will no longer receive the files nor able to forward internal to our hiring managers.-------------------------------------   	QuantiFERON/TSpot results will NOT be accepted for any reason   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261944;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 108
+    [facilityName] => University of Wisconsin Hospital and Clinics
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,92 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3552',
+  'Cf-Ray' => '8299ee6672301464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Cath Lab
+DEC SD
+2 YR Exp
+TRAVEL EXPERIENCE REQ
+4/10s Days
+Week days, on call rotation - call is every 4th weekend During the week call starts at 5p-6:30am. 
+BCLS, ACLS Req
+Skills: Vents, IV, Circulate, tele, PA lines, balloon pumps, conscious sedation
+EMR: CERNER
+
+ Modified Time:12/11/2023 8:00:00 AM
+ Account Manager: Amber Lawrence Qualivis
+ Account Manager Email: amber.lawrence@qualivis.com
+ COVID-19 Vaccine: Unknown
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceSSN - YesDOB - YesRTO - Yes# of jobs in system we can sub   no limitRequires 1 year experienceLicense in hand or compact required at submissionLocal Mile Radius Rule   no limitReferences Required   1 reference &nbsp;Local Rules   accepted at same rateFloating: travelers may float to different unitCopy of Certifications   not required for submittalNo specific charting is requiredBill rate (for hospitals that use bidding system)   rate postedBackground Policy to be noted prior to submission   facility is lenient, will have to reach out once offeredReturn Staff Policy   no specified policy in place
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 545331
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13280
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 21 2023 10:22:45
+    [daysPerWeek] => 4
+    [orderNote] => Source=AYA;SourceID=2312628 ;Status=Open;Association=Qualivis EPA ;Client=Blanchard Valley Hospital ;City=Findlay ;State=OH ;Zip=45840-1299 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Registered Nurse ;Specialty=Cath Lab ;Unit=Cath Lab, 4300 ;Shift=Day 4x10-Hour (06:30 - 17:00);# of Postions=1;Type=Travel;BillRate=$110.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Cath Lab
+DEC SD
+2 YR Exp
+TRAVEL EXPERIENCE REQ
+4/10s Days
+Week days, on call rotation - call is every 4th weekend During the week call starts at 5p-6:30am. 
+BCLS, ACLS Req
+Skills: Vents, IV, Circulate, tele, PA lines, balloon pumps, conscious sedation
+EMR: CERNER
+
+ Modified Time:12/11/2023 8:00:00 AM
+ Account Manager: Amber Lawrence Qualivis
+ Account Manager Email: amber.lawrence@qualivis.com
+ COVID-19 Vaccine: Unknown
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceSSN - YesDOB - YesRTO - Yes# of jobs in system we can sub   no limitRequires 1 year experienceLicense in hand or compact required at submissionLocal Mile Radius Rule   no limitReferences Required   1 reference &nbsp;Local Rules   accepted at same rateFloating: travelers may float to different unitCopy of Certifications   not required for submittalNo specific charting is requiredBill rate (for hospitals that use bidding system)   rate postedBackground Policy to be noted prior to submission   facility is lenient, will have to reach out once offeredReturn Staff Policy   no specified policy in place ;url=https://app.ayaconnect.com/index.html#/vendor/job/2312628/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => Blanchard Valley Hospital TRAVEL
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

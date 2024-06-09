@@ -1,0 +1,72 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2084',
+  'Cf-Ray' => '82b30d0bb0d9183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+Detar
+Shift: Nights
+Start: ASAP
+Rate: $140/hrparseGeneralComments Comments
+.bd_title { font-weight: bold }
+Recent resignations have occurred within the ICU, travel nurses are necessary during the search for permanent employees. Positions are for nights only, please.  Contact: Jasmine Rivera Resource Manager: Christopher Stearns
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 357690
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9491
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-03-28
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 24 2023 11:32:48
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=568584 ;Status=Open;Association=CHS ;Client=DeTar Healthcare System ;City=Victoria ;State=TX ;Zip=77904 ;Start=3/28/2022;End=6/27/2022;Duration=91;Cert=CHS Travel:Registered Nurse (RN) / ICU - NIGHTS (568584) ;Specialty=1031: INTENSIVE CARE UNIT ;Unit=INTENSIVE CARE UNIT ;Shift=Nights;# of Postions=1;Type=Travel;BillRate=$140.00;minBillRate=$140.00;Description=Position Description
+Detar
+Shift: Nights
+Start: ASAP
+Rate: $140/hrparseGeneralComments Comments
+.bd_title { font-weight: bold }
+Recent resignations have occurred within the ICU, travel nurses are necessary during the search for permanent employees. Positions are for nights only, please.  Contact: Jasmine Rivera Resource Manager: Christopher Stearns ;Buyer=Jasmine Rivera ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=568584#!/position/manage/568584;VMSPositionType=Travel minPayRate=$140.00;maxPayRate=$140.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 140
+    [facilityName] => DeTar Hospital - North 
+    [shiftDateEnd] => 2022-06-27
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

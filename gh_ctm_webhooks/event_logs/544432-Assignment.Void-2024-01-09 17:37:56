@@ -1,0 +1,193 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5190',
+  'Cf-Ray' => '842e737550271830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Data Collection:
+
+Unit Information:
+ Respiratory Therapy Adult
+
+Location: 
+
+Address: 7700 Floyd Curl Dr. San Antonio, TX 78229
+
+Floor:
+
+Building:
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Pedi ED   around 30 beds, PICU   24 beds, PIMC   24 beds, Pedi Surg   24 beds, Pedi Onc/BMT   24 beds, Level 4 NICU   92 bedsNumber of Staff   6-12 per shiftType of staff:Day Shift   1 Supervisor/TL, 0.5 ED, 2-4 NICU, 1.5-2 PICU, 0.5-4.5 floorsNight Shift - samePatient Ratios   30-40 units of therapy per shiftType of equipment   Servo U ventilator with NAVA, Avea Ventilator, V60 noninvasive, Vapotherm, Blender HFNC, Vest CPT, Redbox IPV, MetaNeb, Cough Assist, Percussor CPTEMR - Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+
+6 months   1 year PICU or Level 3/Level 4 NICU experience
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+
+
+List typical procedures performed on unit(s): 
+
+
+ Nebulizer therapy, airway clearance, BiPAP, ventilator, HFNC, bronch assist, ABG
+
+Best personality Fit:
+
+Team player, able to work with others, flexible
+REQUIRED CERTIFICATIONS:
+CRT or RRT, Texas RCP license, BLS, ACLS, NRP, PALS
+Floating Area(s):
+Voluntary to float to adults
+Dress Code: 
+Scrub Color/Attire -
+ olive/sage scrub top, black scrub bottom, will accept all black (olive/sage hard to find at times)
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+
+
+
+
+
+Weekends and On call(if any)
+At least 4 weekend shifts per 4 week schedule, does not have to be every other Sat/Sun
+ General Comments
+ No. of Positions: 0/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 544432
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2855
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-22
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RRT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 09 2024 12:37:55
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771485 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=METHODIST CHILDREN'S HOSPITAL ;City=SAN ANTONIO ;State=TX ;Zip=78229 ;Start=12/5/2023;End=3/5/2024;Duration=91;Cert=RRT ;Specialty=Respiratory Therapy ;Unit=SAN ANTONIO DIVISION (39) ;Shift=7:00PM – 7:00AM ;# of Postions=0;Type=Travel;BillRate=$60.00;minBillRate=$60.00;OTRate=75 ;CallbackRate=75 ;HolidayRate=75 ;Description=Description:Data Collection:
+
+Unit Information:
+ Respiratory Therapy Adult
+
+Location: 
+
+Address: 7700 Floyd Curl Dr. San Antonio, TX 78229
+
+Floor:
+
+Building:
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Pedi ED   around 30 beds, PICU   24 beds, PIMC   24 beds, Pedi Surg   24 beds, Pedi Onc/BMT   24 beds, Level 4 NICU   92 bedsNumber of Staff   6-12 per shiftType of staff:Day Shift   1 Supervisor/TL, 0.5 ED, 2-4 NICU, 1.5-2 PICU, 0.5-4.5 floorsNight Shift - samePatient Ratios   30-40 units of therapy per shiftType of equipment   Servo U ventilator with NAVA, Avea Ventilator, V60 noninvasive, Vapotherm, Blender HFNC, Vest CPT, Redbox IPV, MetaNeb, Cough Assist, Percussor CPTEMR - Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+
+6 months   1 year PICU or Level 3/Level 4 NICU experience
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+
+
+List typical procedures performed on unit(s): 
+
+
+ Nebulizer therapy, airway clearance, BiPAP, ventilator, HFNC, bronch assist, ABG
+
+Best personality Fit:
+
+Team player, able to work with others, flexible
+REQUIRED CERTIFICATIONS:
+CRT or RRT, Texas RCP license, BLS, ACLS, NRP, PALS
+Floating Area(s):
+Voluntary to float to adults
+Dress Code: 
+Scrub Color/Attire -
+ olive/sage scrub top, black scrub bottom, will accept all black (olive/sage hard to find at times)
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+
+
+
+
+
+Weekends and On call(if any)
+At least 4 weekend shifts per 4 week schedule, does not have to be every other Sat/Sun
+ General Comments
+ No. of Positions: 0/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/771485;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 60
+    [facilityName] => Methodist Children's Hospital
+    [shiftDateEnd] => 2024-04-22
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

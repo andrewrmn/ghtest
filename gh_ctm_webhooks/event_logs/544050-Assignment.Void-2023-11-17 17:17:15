@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2631',
+  'Cf-Ray' => '8279a048a03f23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 5x 8hrs day/evening shift (0700-1530 or 1100-1930). 40 hours guaranteed. Some calls will be required.  Must have Surgical tech certification (CST).Must have strong Ortho experience.   Additional Information:There will be up to 36 hours of call off available to the facility at no cost during the course of the assignment.  Please ensure attention to requested facility start date.   Any candidate that is submitted with start dates more than 2 weeks after requested start date will be automatically declined.   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 544050
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 2192
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:30
+    [whenmodified] => November, 17 2023 12:17:14
+    [daysPerWeek] => 5
+    [orderNote] => Source=Medefis5;SourceID=261572 ;Status=Open;Association=MarinHealth Medical Center ;Client=MarinHealth Medical Center ;City=Greenbrae ;State=CA ;Zip=94904 ;Start=11/13/2023;End=2/12/2024;Duration=91;Cert=Nursing ;Specialty=OR Technologist, Operating Room / Scrub ;Unit=OR Technologist, Operating Room / Scrub ;Shift=5x 8hrs day/evening shift (0700-1530 or 1100-1930) ;# of Postions=2;Guaranteed Hours=40;Type=Travel;BillRate=$95.00;OTRate=105 ;OTRules=By The Week, after 40, ;CallbackRate=105 (All Inclusive Rate + $10) ;HolidayRate=105 (All Inclusive Rate + $10) ;OnCallRateDescription=$7 per hour pager ;Description=5x 8hrs day/evening shift (0700-1530 or 1100-1930). 40 hours guaranteed. Some calls will be required.  Must have Surgical tech certification (CST).Must have strong Ortho experience.   Additional Information:There will be up to 36 hours of call off available to the facility at no cost during the course of the assignment.  Please ensure attention to requested facility start date.   Any candidate that is submitted with start dates more than 2 weeks after requested start date will be automatically declined.   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261572;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Marin General Hospital Travel
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

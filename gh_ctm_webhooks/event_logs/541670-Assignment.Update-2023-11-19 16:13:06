@@ -1,0 +1,117 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7870',
+  'Cf-Ray' => '8289bd08244e1464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Performs patient therapy treatments and related activities; performs radiation treatments in accordance with established protocols, assists the physicians in patient treatments, maintains patient records as required, assures that the patient's clinical history is complete, completes associated paperwork, performs QA/QC equipment tests, performs simulator procedures when required, maintains and adheres to accepted sterile techniques and provides clean environment within examination area, shares emergency call as required.   Demonstrates the knowledge and skills necessary to provide care appropriate to the age of the patients served; also demonstrates knowledge of the principles of growth and development and possesses the ability to assess data reflective of the patient's status and interprets the appropriate information needed to identify each patient's requirements relative to his/her age specific needs, and to provide the care needed. Reports directly to the Chief Physicist and Radiation Oncology Manager.
+
+Skills: Skills:     Radiation treatment setup and performance     Proper operation of Linear Accelerators     Fabrication of immobilization devices     CT Simulation performance and operation     IGRT application and performance     IMRT application and performance     Stereotactic Radiosurgery operation and performance     Proper positioning of patients for treatment and simulation procedures     Able to properly record treatment of patient's chart as required     Understands departmental policy for reporting and recording errors in treatment set-up and appropriate     action for correcting errors including reporting errors to chief physicist/staff physicist.     Properly reviews patient chart prior to setup and understands patient positioning, collimator settings,     SAD/SSD, and treatment technique     Demonstrates knowledge of when physician is needed for patient treatment as dictated by protocol     Demonstrates knowledge and proper protocol for irradiating blood.Mental DemandsAbility to perform as a team member, cooperate with others, follow directions precisely, demonstrate, initiative,set priorities, and function under stress.  Must be detail oriented.
+Physical DemandsConstant walking, balancing, standing, turning, reaching, lifting, carrying, pushing, pulling, handling, hand and finger movements, wrist movements, sensory discrimination. Frequent stooping, sitting. Occasional running, climbing, crawling, crouching. Rarely kneeling, throwing.  Must be able to use visual acuity for close paperwork, color vision, depth perception. Hearing acuity for conversation, telephone, background noise. Must be able to lift, handle, push, pull up to 50 pounds. Must be able to operate blood pressure machine, IV pump, heart monitor, suction machine one touch, and other pertinent assistive devices.
+ Required
+	
+	  ARIA SYSTEMS
+	   RADIATION TREATMENT
+	  
+	
+	
+	
+	Additional
+
+Education: Graduate of an approved AMA school of radiation technology.  Registered by the ARRT in Radiation Therapy.
+
+;Languages: 
+ 
+English
+&nbsp;Read
+&nbsp;Write
+&nbsp;Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: Clinical
+    [sitename] => giftednurses
+    [spec] => Radiation
+    [assignmentid] => 541670
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 14016
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-03
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Radiation Therapist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 19 2023 11:12:25
+    [daysPerWeek] => 4
+    [orderNote] => Source=Wand;SourceID=27095555 ;Status=Pending;Client=Forrest County General Hospital ;City=Hattiesburg
+ Hattiesburg ;State=MS ;Zip=39401 39401 ;Start=10/29/2023;End=1/27/2024;Duration=90;Cert=Clinical ;Specialty=Radiation Therapy Tech ;Unit=Radiology- Oncology 						: 4140 Radiology- Oncology  : 4140 ;Shift=Days 5x10 Hr;# of Postions=1;Guaranteed Hours=40.00;Type=Travel;BillRate=$95.00;Description=Performs patient therapy treatments and related activities; performs radiation treatments in accordance with established protocols, assists the physicians in patient treatments, maintains patient records as required, assures that the patient's clinical history is complete, completes associated paperwork, performs QA/QC equipment tests, performs simulator procedures when required, maintains and adheres to accepted sterile techniques and provides clean environment within examination area, shares emergency call as required.   Demonstrates the knowledge and skills necessary to provide care appropriate to the age of the patients served; also demonstrates knowledge of the principles of growth and development and possesses the ability to assess data reflective of the patient's status and interprets the appropriate information needed to identify each patient's requirements relative to his/her age specific needs, and to provide the care needed. Reports directly to the Chief Physicist and Radiation Oncology Manager.
+
+Skills: Skills:     Radiation treatment setup and performance     Proper operation of Linear Accelerators     Fabrication of immobilization devices     CT Simulation performance and operation     IGRT application and performance     IMRT application and performance     Stereotactic Radiosurgery operation and performance     Proper positioning of patients for treatment and simulation procedures     Able to properly record treatment of patient's chart as required     Understands departmental policy for reporting and recording errors in treatment set-up and appropriate     action for correcting errors including reporting errors to chief physicist/staff physicist.     Properly reviews patient chart prior to setup and understands patient positioning, collimator settings,     SAD/SSD, and treatment technique     Demonstrates knowledge of when physician is needed for patient treatment as dictated by protocol     Demonstrates knowledge and proper protocol for irradiating blood.Mental DemandsAbility to perform as a team member, cooperate with others, follow directions precisely, demonstrate, initiative,set priorities, and function under stress.  Must be detail oriented.
+Physical DemandsConstant walking, balancing, standing, turning, reaching, lifting, carrying, pushing, pulling, handling, hand and finger movements, wrist movements, sensory discrimination. Frequent stooping, sitting. Occasional running, climbing, crawling, crouching. Rarely kneeling, throwing.  Must be able to use visual acuity for close paperwork, color vision, depth perception. Hearing acuity for conversation, telephone, background noise. Must be able to lift, handle, push, pull up to 50 pounds. Must be able to operate blood pressure machine, IV pump, heart monitor, suction machine one touch, and other pertinent assistive devices.
+ Required
+	
+	  ARIA SYSTEMS
+	   RADIATION TREATMENT
+	  
+	
+	
+	
+	Additional
+
+Education: Graduate of an approved AMA school of radiation technology.  Registered by the ARRT in Radiation Therapy.
+
+;Languages: 
+ 
+English
+&nbsp;Read
+&nbsp;Write
+&nbsp;Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: Clinical ;url=https://prowand.pro-unlimited.com/supplier/standard/requisition/req_geninfo_view.html?id=27095555&type=REQUISITION&reqProfile=true;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Forrest General Hospital TRAVEL (RS)
+    [shiftDateEnd] => 2024-03-02
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

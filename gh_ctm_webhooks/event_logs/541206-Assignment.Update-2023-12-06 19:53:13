@@ -1,0 +1,104 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6427',
+  'Cf-Ray' => '831712e3232b23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Cleveland Clinic Main Campus CVOR RN circulator. Scrub experience is a plus. Circulate Cardiac, Thoracic Surgery.
+Day shift - 3x13's!!
+MUST HAVE 18 months recent CVOR experience.
+MUST HAVE min 18 months PERM experience in specialty applying for PRIOR to travel.
+MUST HAVE PERM OHIO LICENSE OR COMPACT STATE IN HAND
+AHA - BLS required
+Orientation time (32-40hrs) will be paid at 50% of base hourly rate
+ECG and SafeMedicate assessments will be completed during orientation, an acceptable score is required.
+Qualivis   Lotus will be used for submitting hours worked
+
+
+ Modified Time:12/1/2023 12:00:00 AM
+
+ Account Manager: Makayla McMillen
+
+ Account Manager Email: Makayla.McMillen@Qualivis.com
+
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+
+ Flu Vaccine: Unknown
+ Submittals:Low
+
+ Submittal Details: #Tier3 Travel CompliancePLEASE USE ALL BELOW SUB REQUIREMENT INSTRUCTIONS:(please submit profiles to Makayla.McMillen@Qualivis.com and cc Alanna.Rivera@qualivis.com)EFFECTIVE 9/30: Nurses and CSTs are EXEMPT from Nicotine Free Facility Requirements. All other travelers (aside from Nurses and CSTs) MUST BE NICOTINE FREE- No Exceptions! -Negative 10 Panel + Nicotine (Cotinine) Drug screen required within 12 months of start. Must be updated annually.All RTO to be discussed during interview and must be included at time of submissionIMPORTANT - BCI/FBI prints are time Sensitive - Must completed within 48 Hours of signing contract.Submission Requirements:*Standard Qualivis Cover sheet completed and filled in*Please submit candidate's interview availability within the cover sheet in the notes sectionMust have a PERMANENT Ohio license in hand at time of submission. Compact licenses are accepted for any starts 1/1/23 and forward.*BG hits of any kind are reviewed by the facility but will not accept any traveler with an open case*Min 18 months PERM experience in specialty applying for PRIOR to travel.*TWO references from a manager, ANM, supervisor or director in the specialty applying for are REQUIRED to qualify for submission. Please no co-worker references, these will not be considered, and profile will be rejected. References must be from assignments worked in the past 12 months.*Required certs need to be ACTIVE - nothing pending*PERM candidates cannot return to CC hospitals for 1 YEAR from their previous end date.*PBDS Assessment   waived. ECG rhythm recognition test and safeMedicate will be completed during orientation, an acceptable score on both assessments is required.
+    [sitename] => giftednurses
+    [spec] => CVOR
+    [assignmentid] => 541206
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3528
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 21:00
+    [whenmodified] => December, 06 2023 14:53:12
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2287703 ;Status=Open;Association=Qualivis Ohio ;Client=The Cleveland Clinic ;City=Cleveland ;State=OH ;Zip=44195 ;Start=12/1/2023;End=3/1/2024;Duration=91;Cert=Registered Nurse ;Specialty=CVOR ;Unit=Cardiac OR, 1002-1000-33032 ;Shift=Day 3x12-Hour (09:00 - 21:30);# of Postions=4;Type=Travel;BillRate=$125.00;OTRules=40 total hours in 1 week : 1.3% ;Orientation=40 ;Description=Cleveland Clinic Main Campus CVOR RN circulator. Scrub experience is a plus. Circulate Cardiac, Thoracic Surgery.
+Day shift - 3x13's!!
+MUST HAVE 18 months recent CVOR experience.
+MUST HAVE min 18 months PERM experience in specialty applying for PRIOR to travel.
+MUST HAVE PERM OHIO LICENSE OR COMPACT STATE IN HAND
+AHA - BLS required
+Orientation time (32-40hrs) will be paid at 50% of base hourly rate
+ECG and SafeMedicate assessments will be completed during orientation, an acceptable score is required.
+Qualivis   Lotus will be used for submitting hours worked
+
+
+ Modified Time:12/1/2023 12:00:00 AM
+
+ Account Manager: Makayla McMillen
+
+ Account Manager Email: Makayla.McMillen@Qualivis.com
+
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+
+ Flu Vaccine: Unknown
+ Submittals:Low
+
+ Submittal Details: #Tier3 Travel CompliancePLEASE USE ALL BELOW SUB REQUIREMENT INSTRUCTIONS:(please submit profiles to Makayla.McMillen@Qualivis.com and cc Alanna.Rivera@qualivis.com)EFFECTIVE 9/30: Nurses and CSTs are EXEMPT from Nicotine Free Facility Requirements. All other travelers (aside from Nurses and CSTs) MUST BE NICOTINE FREE- No Exceptions! -Negative 10 Panel + Nicotine (Cotinine) Drug screen required within 12 months of start. Must be updated annually.All RTO to be discussed during interview and must be included at time of submissionIMPORTANT - BCI/FBI prints are time Sensitive - Must completed within 48 Hours of signing contract.Submission Requirements:*Standard Qualivis Cover sheet completed and filled in*Please submit candidate's interview availability within the cover sheet in the notes sectionMust have a PERMANENT Ohio license in hand at time of submission. Compact licenses are accepted for any starts 1/1/23 and forward.*BG hits of any kind are reviewed by the facility but will not accept any traveler with an open case*Min 18 months PERM experience in specialty applying for PRIOR to travel.*TWO references from a manager, ANM, supervisor or director in the specialty applying for are REQUIRED to qualify for submission. Please no co-worker references, these will not be considered, and profile will be rejected. References must be from assignments worked in the past 12 months.*Required certs need to be ACTIVE - nothing pending*PERM candidates cannot return to CC hospitals for 1 YEAR from their previous end date.*PBDS Assessment   waived. ECG rhythm recognition test and safeMedicate will be completed during orientation, an acceptable score on both assessments is required. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2287703/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 125
+    [facilityName] => Cleveland Clinic - Main Campus
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 09:00
+    [subjectID] => 
+)

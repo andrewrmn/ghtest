@@ -1,0 +1,70 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3328',
+  'Cf-Ray' => '8289978bc33c1836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+The PCU/Telemetry Registered Nurse holds shift accountability for providing care to patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The Registered Nurse demonstrates critical thinking skills, scientific judgment and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care.
+13 week contract36 hours guaranteed3/12 hr shifts, rotating weekendsMust take Covid patients,Willing to float Med/Surg and sister hospital AZ license BLS & ACLS 2  years of Tele experienceCerner experience is preferred.parseGeneralComments Comments
+.bd_title { font-weight: bold }
+PCR 2022-018
+Nights Contact: Nancy Thomas Resource Manager: Nancy Thomas
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 352071
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-02-21
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 19 2023 10:47:10
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=572301 ;Status=Open;Association=CHS ;Client=Oro Valley Hospital ;City=Oro Valley ;State=AZ ;Zip=85755 ;Start=2/21/2022;End=5/23/2022;Duration=91;Cert=CHS Travel:Registered Nurse (RN) / Telemetry (Tele) (572301) ;Specialty=1022: MED/SURG/TELE UNIT ;Unit=MED/SURG/TELE UNIT ;Shift=7:00 PM - 7:00 AM;# of Postions=1;Type=Travel;BillRate=$165.00;Description=Position Description
+The PCU/Telemetry Registered Nurse holds shift accountability for providing care to patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The Registered Nurse demonstrates critical thinking skills, scientific judgment and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care.
+13 week contract36 hours guaranteed3/12 hr shifts, rotating weekendsMust take Covid patients,Willing to float Med/Surg and sister hospital AZ license BLS & ACLS 2  years of Tele experienceCerner experience is preferred.parseGeneralComments Comments
+.bd_title { font-weight: bold }
+PCR 2022-018
+Nights Contact: Nancy Thomas Resource Manager: Nancy Thomas ;Buyer=Nancy Thomas ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=572301#!/position/manage/572301;VMSPositionType=Travel InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 165
+    [facilityName] => Northwest Medical Center of Oro Valley
+    [shiftDateEnd] => 2022-05-23
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

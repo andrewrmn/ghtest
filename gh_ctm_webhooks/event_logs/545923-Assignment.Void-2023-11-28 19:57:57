@@ -1,0 +1,207 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '23',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5115',
+  'Cf-Ray' => '82d52ed046ae4949-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Hospital:
+ HCA Healthcare Kingwood
+
+Location: Kingwood
+
+Address: 22999 US-59 N, Kingwood, TX 77339
+
+Unit: 4ST/ Cardiac IMU
+
+Building: South Tower
+
+
+
+
+General Information
+
+Unit Specifics: 
+Number of Beds : 36Patient Ratios : 4:1Unit staffing description- 1 US and 2-3 PCTType of equipment : SCD, IV, Chest Tubes, Drains, CVC, HD, FC, Telemetry MonitoringDocumentation system: MeditechScheduling requirements: FT 12 hour x 3 days; rotating weekendsFloating policy: as indicated based on house needsPatient Experience requirements: Cardiology
+Hospital Specifics-
+Certifications: none
+Hiring profile
+
+Requested Skill Set: dysrhythmia interpretation, medication administration, trach care
+
+
+
+
+Must have: Telemetry experience, IV skill, medication administration, physical assessment, wound care, central line care, HD line care, chest tube care, trach care, phlebotomy experience. 
+
+
+
+
+
+
+
+Advanced skills needed: telemetry basics
+
+
+
+
+
+
+
+Procedures performed on unit: 
+Venipuncture, wound care, dressing changes
+
+
+
+
+
+
+
+Certifications Required: RN
+
+
+
+
+
+
+
+Dress Code: (Required uniform)
+
+Royal blue scrubs
+Unit Guidelines/Policies: Please attach unit specific policies and guidelines.
+Shift is 7-7; expected arrival is 0645/1845.
+Awards/Recognition: 
+Please include anything that you would like prospective candidates to be aware of, such as, links to videos that feature the department, outstanding department/team awards.
+
+
+Any additional information that would entice a worker to select your unit for their assignment: 
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc. 
+Brand new unit with VIP suites
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 545923
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5429
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 28 2023 14:57:56
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=757620 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA Houston Kingwood ;City=Kingwood ;State=TX ;Zip=77339 ;Start=9/27/2023;End=12/27/2023;Duration=91;Cert=RN ;Specialty=Tele ;Unit=GULF COAST DIVISION (14) ;Shift=7:00PM-7:00AM;# of Postions=1;Type=Travel;BillRate=$70.00;OTRate=78 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Hospital:
+ HCA Healthcare Kingwood
+
+Location: Kingwood
+
+Address: 22999 US-59 N, Kingwood, TX 77339
+
+Unit: 4ST/ Cardiac IMU
+
+Building: South Tower
+
+
+
+
+General Information
+
+Unit Specifics: 
+Number of Beds : 36Patient Ratios : 4:1Unit staffing description- 1 US and 2-3 PCTType of equipment : SCD, IV, Chest Tubes, Drains, CVC, HD, FC, Telemetry MonitoringDocumentation system: MeditechScheduling requirements: FT 12 hour x 3 days; rotating weekendsFloating policy: as indicated based on house needsPatient Experience requirements: Cardiology
+Hospital Specifics-
+Certifications: none
+Hiring profile
+
+Requested Skill Set: dysrhythmia interpretation, medication administration, trach care
+
+
+
+
+Must have: Telemetry experience, IV skill, medication administration, physical assessment, wound care, central line care, HD line care, chest tube care, trach care, phlebotomy experience. 
+
+
+
+
+
+
+
+Advanced skills needed: telemetry basics
+
+
+
+
+
+
+
+Procedures performed on unit: 
+Venipuncture, wound care, dressing changes
+
+
+
+
+
+
+
+Certifications Required: RN
+
+
+
+
+
+
+
+Dress Code: (Required uniform)
+
+Royal blue scrubs
+Unit Guidelines/Policies: Please attach unit specific policies and guidelines.
+Shift is 7-7; expected arrival is 0645/1845.
+Awards/Recognition: 
+Please include anything that you would like prospective candidates to be aware of, such as, links to videos that feature the department, outstanding department/team awards.
+
+
+Any additional information that would entice a worker to select your unit for their assignment: 
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc. 
+Brand new unit with VIP suites
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/757620;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => KINGWOOD MEDICAL CENTER - TX
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

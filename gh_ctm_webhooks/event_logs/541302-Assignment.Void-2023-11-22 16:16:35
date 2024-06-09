@@ -1,0 +1,200 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4446',
+  'Cf-Ray' => '82a27a4944391842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN ED
+11A - 11P
+
+13 WEEKS
+
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS/ACLS/PALS REQUIRED
+ General CommentsUnit Information:
+ Emergency Department
+
+Location: CJW Johnston Willis 
+
+Address: 1401 Johnston-Willis Drive, Richmond, VA 23235
+
+Floor: 1st floor 
+
+Building: Main Hospital
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   24 beds, 5 fast track Number of Staff   shift dependentType of staff:Day Shift   1 charge nurse, 4-9 nurses depending on time of day.
+ We flex in staff with volume and arrival patterns.
+ Utilize techs and paramedics tooNight Shift   1 charge nurse 9-4 nurses depending on time of day and arrival pattern.
+ Utilize techs and paramedics. Patient Ratios   4:1EMR   Meditech
+
+
+
+Shift Specifics: All shifts are variable   Days: 7a/9a/11a, Evenings: 11a/1p/3p &amp; Nights: 7p start.
+
+
+
+
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+BLSACLSPALSTNCC
+
+
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+NIHSS
+ENPC
+CPI
+
+Best personality Fit:
+
+Hard worker, critical thinking, outgoing
+Floating Areas:
+none
+Dress Code: 
+Scrub Color/Attire -
+ navy 
+
+
+
+Weekends and On call(if any)
+Every other if necessary   no on call
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 541302
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5508
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => November, 22 2023 11:16:34
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771094 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=CJW MEDICAL -JOHNSTON-WILLIS CAMPUS VA ;City=RICHMOND ;State=VA ;Zip=23235 ;Start=11/26/2023;End=2/25/2024;Duration=91;Cert=RN ;Specialty=Emergency Dept ;Unit=CAPITAL DIVISION (20) ;Shift=11A-11P;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=88 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL RN ED
+11A - 11P
+
+13 WEEKS
+
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS/ACLS/PALS REQUIRED
+ General CommentsUnit Information:
+ Emergency Department
+
+Location: CJW Johnston Willis 
+
+Address: 1401 Johnston-Willis Drive, Richmond, VA 23235
+
+Floor: 1st floor 
+
+Building: Main Hospital
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   24 beds, 5 fast track Number of Staff   shift dependentType of staff:Day Shift   1 charge nurse, 4-9 nurses depending on time of day.
+ We flex in staff with volume and arrival patterns.
+ Utilize techs and paramedics tooNight Shift   1 charge nurse 9-4 nurses depending on time of day and arrival pattern.
+ Utilize techs and paramedics. Patient Ratios   4:1EMR   Meditech
+
+
+
+Shift Specifics: All shifts are variable   Days: 7a/9a/11a, Evenings: 11a/1p/3p &amp; Nights: 7p start.
+
+
+
+
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+BLSACLSPALSTNCC
+
+
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+NIHSS
+ENPC
+CPI
+
+Best personality Fit:
+
+Hard worker, critical thinking, outgoing
+Floating Areas:
+none
+Dress Code: 
+Scrub Color/Attire -
+ navy 
+
+
+
+Weekends and On call(if any)
+Every other if necessary   no on call
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/771094;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => CJW Johnston-Willis Hospital
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

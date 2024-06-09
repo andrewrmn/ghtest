@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '884',
+  'Cf-Ray' => '853deb42b78123c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 349440
+    [workerID] => 167950
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 36
+    [facilityID] => 13586
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-02-14
+    [workerLastName] => Pellegrin
+    [shiftNum] => 5
+    [workerFirstName] => Kaytlin
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => February, 11 2024 11:20:23
+    [daysPerWeek] => 3
+    [orderNote] => Bill: $120 | Local: $78
+OT/Holi: 1.5x|ChrgDf: P$1/B$3
+    [guaranteedMinimum] => 
+    [workerEmail] => kaytlindanielle@hotmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 135
+    [facilityName] => Ochsner Lafayette General Medical Center
+    [shiftDateEnd] => 2022-03-12
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

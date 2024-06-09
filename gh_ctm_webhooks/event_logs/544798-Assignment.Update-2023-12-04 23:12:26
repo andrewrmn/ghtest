@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1370',
+  'Cf-Ray' => '8307bbee819c1832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 weeks
+36 hrs/wk
+7a-7:30p
+EOW
+CA RN/BLS
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544798
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 1477
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 04 2023 18:11:45
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48439 ;Status=Open;Association=Trinity Health ;Client=CA - Saint Agnes Medical Center ;City=Fresno ;State=CA ;Zip=93720 ;Start=12/10/2023;End=3/9/2024;Duration=90;Cert=RN Medical / Surgical ;Specialty=Surgical Unit 5M-2 & 6N ;Unit=*Registered Nurse-Med Surg-Surgical Unit 5M-2 & 6N ;Shift=7a7p;# of Postions=1;Type=Travel;BillRate=$94.00;OTRate=122.20 ;ChargeRate=97.00 ;CallbackRate=122.20 ;HolidayRate=122.20 ;Description=13 weeks
+36 hrs/wk
+7a-7:30p
+EOW
+CA RN/BLS ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 94
+    [facilityName] => Saint Agnes Medical Center TRAVEL
+    [shiftDateEnd] => 2024-03-23
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

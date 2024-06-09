@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4049',
+  'Cf-Ray' => '83b2153707b61464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => The Job:RN provide direct patient care using the nursing process in accordance with applicable scope and standards of practice and with the policies, values, and mission of the organization.Work Schedule:Full Time Nights-12 hour shiftsLocation: HospitalResponsibilities:-Plans, implements, and evaluates patient care plans based on patient assessment to optimize outcomes and maximize available resources.-Monitors, records, and communicates patient condition as appropriate.-Collaborates as needed across disciplines to coordinate patient care, including patient transfer, discharge, referral and spiritual/psychosocial support needs.-Evaluates learning needs of patient and/or family and provides patient/family education appropriate to age, culture, condition, and circumstances.-Effectively delegates patient care to ancillary personnel. May precept student nurses and new hires.-Within scope of job, requires critical thinking skills, decisive judgement and the ability to work with minimal supervision. Must be able to work in a fast-paced environment and take appropriate action.Requirements:-Bachelor s Degree in nursing (or its equivalent).-Current unrestricted licensure in the State of Colorado as a Registered Nurse.-Minimum Experience: Two (2) years.-BLS Healthcare Provider (upon hire)   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 541278
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2316
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-14
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 25 2023 10:22:52
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=260669 ;Status=Open;Association=Community Hospital ;Client=Community Hospital ;City=Grand Junction ;State=CO ;Zip=81505 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Nursing ;Specialty=Med-surg Adult ;Unit=Med-surg Adult ;Shift=Night Shift;# of Postions=4;Guaranteed Hours=32;Type=Travel;BillRate=$100.00;OTRate=100 ;OTRules=By The Week, after 40, ;CallbackRate=100 (All Inclusive Rate) ;HolidayRate=100 (All Inclusive Rate) ;OnCallRateDescription=$2 per hour pager ;Description=The Job:RN provide direct patient care using the nursing process in accordance with applicable scope and standards of practice and with the policies, values, and mission of the organization.Work Schedule:Full Time Nights-12 hour shiftsLocation: HospitalResponsibilities:-Plans, implements, and evaluates patient care plans based on patient assessment to optimize outcomes and maximize available resources.-Monitors, records, and communicates patient condition as appropriate.-Collaborates as needed across disciplines to coordinate patient care, including patient transfer, discharge, referral and spiritual/psychosocial support needs.-Evaluates learning needs of patient and/or family and provides patient/family education appropriate to age, culture, condition, and circumstances.-Effectively delegates patient care to ancillary personnel. May precept student nurses and new hires.-Within scope of job, requires critical thinking skills, decisive judgement and the ability to work with minimal supervision. Must be able to work in a fast-paced environment and take appropriate action.Requirements:-Bachelor s Degree in nursing (or its equivalent).-Current unrestricted licensure in the State of Colorado as a Registered Nurse.-Minimum Experience: Two (2) years.-BLS Healthcare Provider (upon hire)   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260669;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Community Hospital
+    [shiftDateEnd] => 2024-04-14
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

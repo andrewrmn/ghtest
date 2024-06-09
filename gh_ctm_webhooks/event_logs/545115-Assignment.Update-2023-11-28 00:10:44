@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '20',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3096',
+  'Cf-Ray' => '82ce63b7266c493d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Hours: 7pm-7:30am 12hr shifts/3 days per week. occasional weekends  or holidays as needed (days may rotate depending on needs for the week)Staff Nurse- ICU RN for the ICU department prefer experience with:/Pulmonary Artery Catheters, Intra-aortic Balloon Pumps, Acute Renal Failure, Stroke patients and the use of TPA. To assume the responsibilities and accountability of a clinically proficient nurse for promoting and assuring patient centered care. To integrate professional abilities for the overall planning, delivery, coordination and evaluation of patient care. Current BLS/ACLS validation; PALSGraduation from an accredited school of nursing. RN License either from the Iowa Board of Nursing or one recognized by the IBN as valid to practice nursing in the State of Iowa.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 545115
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9980
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 27 2023 19:10:43
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261921 ;Status=Open;Association=Mercy Iowa City ;Client=Mercy Iowa City ;City=Iowa City ;State=IA ;Zip=52245 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Nursing ;Specialty=Intensive Care / Coronary Nurse (ICU) ;Unit=Intensive Care / Coronary Nurse (ICU) ;Shift=3 12 hour night shifts per week, days vary and includes weekends and holidays Nurse will float as needed. ;# of Postions=2;Type=Travel;BillRate=$100.00;OTRate=110 ;OTRules=By The Week, after 40, ;CallbackRate=100 (All Inclusive Rate) ;HolidayRate=100 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=Hours: 7pm-7:30am 12hr shifts/3 days per week. occasional weekends  or holidays as needed (days may rotate depending on needs for the week)Staff Nurse- ICU RN for the ICU department prefer experience with:/Pulmonary Artery Catheters, Intra-aortic Balloon Pumps, Acute Renal Failure, Stroke patients and the use of TPA. To assume the responsibilities and accountability of a clinically proficient nurse for promoting and assuring patient centered care. To integrate professional abilities for the overall planning, delivery, coordination and evaluation of patient care. Current BLS/ACLS validation; PALSGraduation from an accredited school of nursing. RN License either from the Iowa Board of Nursing or one recognized by the IBN as valid to practice nursing in the State of Iowa.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261921;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Mercy Iowa City
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

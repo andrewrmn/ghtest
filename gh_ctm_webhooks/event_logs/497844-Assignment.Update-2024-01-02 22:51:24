@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '908',
+  'Cf-Ray' => '83f69106d6e377ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By Facility; Behavioral Performance
+    [sitename] => giftednurses
+    [spec] => School
+    [assignmentid] => 497844
+    [workerID] => 259330
+    [WorkerContactNo] => 614-867-7668
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 37.5
+    [facilityID] => 13897
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-08-21
+    [workerLastName] => Ashley
+    [shiftNum] => 1
+    [workerFirstName] => Sariah
+    [cert] => RBT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 14:00
+    [whenmodified] => January, 02 2024 17:51:23
+    [daysPerWeek] => 5
+    [orderNote] => BR:$56lRS:127741
+FTK:GiftTC(Signed) Reg 37.5 hrs
+    [guaranteedMinimum] => 
+    [workerEmail] => sariahashley@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 56
+    [facilityName] => Washtenaw ISD
+    [shiftDateEnd] => 2023-12-18
+    [shiftStartTime] => 07:30
+    [subjectID] => 
+)

@@ -1,0 +1,72 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '963',
+  'Cf-Ray' => '8515a841679e23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 401845
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 13566
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 1
+    [bonus] => 
+    [shiftDateStart] => 2024-02-26
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => MedSurg Oncol 3S
+    [Subject] => 
+    [shiftEndTime] => 06:30
+    [whenmodified] => February, 06 2024 14:04:08
+    [daysPerWeek] => 4
+    [orderNote] => MS Oncology Nights - 36 or 48 hrs accepted
+BLS
+8 Week Contract
+Requirements:
+BLS
+1yr - 18 months experience
+
+Bill Rate:
+
+$95.00
+Duration:
+
+8 weeks
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 95
+    [facilityName] => Kaweah Health Medical Center TRAVEL
+    [shiftDateEnd] => 2024-04-21
+    [shiftStartTime] => 18:00
+    [subjectID] => 
+)

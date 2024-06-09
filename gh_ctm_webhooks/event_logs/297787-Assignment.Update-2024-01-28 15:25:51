@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3228',
+  'Cf-Ray' => '84ca401d63ae183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 10/18/2021 1505 MDTJackie Pittmann
+                            
+                            
+                                $165 - postpartum/Mother-Baby unit. These are the details:   2 for the day shift and 2 for the night shift   No on call   Knowledgeable of Mother and Baby care, must have NRP   Sophia Jones will review profiles. Must be willing to float to sister facilities only when necessary. Navy Blue scrubs. Covid 19 vaccince required- COVID Vaccine Compliance Requirement for all of Ascension Locations: NO Declinations allowed per our contract. Candidates must by fully Vaccinated or have the Johnson & Johnson (1 Vaccination)  by 11/12/21 or Moderna -OR- Pfizer 1st Vaccination by 11/11/21. 2nd Dose should be calendared/scheduled in accordance to these timeframes (Pfizer 21 days), (Moderna 28 days).  There will not be any acceptations.
+ RatePlan:AH-Covid 19 RN rates (8-25-2021)
+    [sitename] => giftednurses
+    [spec] => Mother/Baby
+    [assignmentid] => 297787
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13445
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-11-15
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 28 2024 10:25:06
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;SourceID=9517040 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Medical Center ;City=Austin ;State=TX ;Zip=78701 ;Start=11/15/2021;End=2/13/2022;Duration=91;Cert=RN ;Specialty=M ;Unit=SMC 2 - Maternity ;Shift=AM 12.00 Hrs;# of Postions=1;Type=Travel;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=10/18/2021 1505 MDTJackie Pittmann
+                            
+                            
+                                $165 - postpartum/Mother-Baby unit. These are the details:   2 for the day shift and 2 for the night shift   No on call   Knowledgeable of Mother and Baby care, must have NRP   Sophia Jones will review profiles. Must be willing to float to sister facilities only when necessary. Navy Blue scrubs. Covid 19 vaccince required- COVID Vaccine Compliance Requirement for all of Ascension Locations: NO Declinations allowed per our contract. Candidates must by fully Vaccinated or have the Johnson & Johnson (1 Vaccination)  by 11/12/21 or Moderna -OR- Pfizer 1st Vaccination by 11/11/21. 2nd Dose should be calendared/scheduled in accordance to these timeframes (Pfizer 21 days), (Moderna 28 days).  There will not be any acceptations.
+ RatePlan:AH-Covid 19 RN rates (8-25-2021) ;url=https://automated.shiftwise.net/esp/order.aspx?order_id=FECB2C99B4C21A58E0CACC57DF5D5817;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => Ascension Seton Medical Center Austin
+    [shiftDateEnd] => 2022-02-13
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,65 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '980',
+  'Cf-Ray' => '82fd4262b2d71465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => Interventional Radiology
+    [assignmentid] => 544285
+    [workerID] => 204256
+    [WorkerContactNo] => 337-280-6304
+    [housingNote] => Scrub Color: TBD
+Approved Time Off: None. 
+Orientation Pay: $20.00
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13235
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-09
+    [workerLastName] => Broussard
+    [shiftNum] => 2
+    [workerFirstName] => Lauren
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 03 2023 11:41:48
+    [daysPerWeek] => 5
+    [orderNote] => FTK: Kronos
+Chrg:P$1/B$2-OnCl:P$7/B$9
+Ornt:$20/NB:8hr
+BR $90
+    [guaranteedMinimum] => 
+    [workerEmail] => laurenbrou3@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => INTEGRIS Baptist Medical Center Travel
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

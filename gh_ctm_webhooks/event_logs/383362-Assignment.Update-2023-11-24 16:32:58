@@ -1,0 +1,72 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3173',
+  'Cf-Ray' => '82b30d0e22831836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+DeTar HealthCare System
+Shift: TBD
+Start: ASAP
+Rate: $90
+The Respiratory Therapist is either registered or certified by the National Board of Respiratory Care to provide Cardiopulmonary Services.  The Respiratory Therapist is responsible for following protocols approved by the medical staff and department policy and procedures in order to provide timely diagnostic and therapeutic services to both inpatients and outpatients.  Responsibilities include: assisting physicians with invasive and non-invasive procedures, delivery of medicated aerosols via medical compressed gas, maintaining airways, ventilator management, insertion of arterial lines, intubations, pulmonary function studies, cardiac and pulmonary stress tests, and blood gases.parseGeneralComments Comments
+.bd_title { font-weight: bold } Contact: Yudline Baronville Resource Manager: Victoria Escamilla
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 383362
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9491
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-06-06
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RRT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 24 2023 11:32:48
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=613338 ;Status=Open;Association=CHS ;Client=DeTar Healthcare System ;City=Victoria ;State=TX ;Zip=77904 ;Start=6/6/2022;End=9/5/2022;Duration=91;Cert=CHS Travel:Registered Respiratory Therapist (RRT)## (613338) ;Specialty=1171: RESPIRATORY THERAPY ;Unit=RESPIRATORY THERAPY ;Shift=TBD;# of Postions=1;Type=Travel;BillRate=$90.00;minBillRate=$90.00;Description=Position Description
+DeTar HealthCare System
+Shift: TBD
+Start: ASAP
+Rate: $90
+The Respiratory Therapist is either registered or certified by the National Board of Respiratory Care to provide Cardiopulmonary Services.  The Respiratory Therapist is responsible for following protocols approved by the medical staff and department policy and procedures in order to provide timely diagnostic and therapeutic services to both inpatients and outpatients.  Responsibilities include: assisting physicians with invasive and non-invasive procedures, delivery of medicated aerosols via medical compressed gas, maintaining airways, ventilator management, insertion of arterial lines, intubations, pulmonary function studies, cardiac and pulmonary stress tests, and blood gases.parseGeneralComments Comments
+.bd_title { font-weight: bold } Contact: Yudline Baronville Resource Manager: Victoria Escamilla ;Buyer=Yudline Baronville ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=613338#!/position/manage/613338;VMSPositionType=Travel minPayRate=$90.00;maxPayRate=$90.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => DeTar Hospital - North 
+    [shiftDateEnd] => 2022-09-05
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,119 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4805',
+  'Cf-Ray' => '827513ff45b31832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => The RN functions within the full scope of licensure to implement the nursing process. The RN will assess patient and family needs, develop a plan of care based on assessment, direct implementation of the plans of care for a group of patients, collaborate with the charge nurse and care team, and evaluate effectiveness of the care plan. Duties will include administration of medications, performing prescribed treatments, managing medical equipment, assisting with patient ADL (activities of daily living) including lifting, turning, and mobilizing patients. The RN assures that physiological, psychosocial, safety, learning, rehabilitative, spiritual, cultural, and self-care needs of patients and families are addressed. 
+ Schedule Notes:Night shift   1845-0715
+
+Skills: RN License - REQUIREDBLS - REQUIREDAcute care experience - Highly desired : 1 YearsACLS - REQUIREDNIHSS - Highly desired
+ Required
+	
+	  RN LICENSE
+	   ACLS
+	  
+	
+	
+	
+	Additional
+
+Education: BSN - Highly desired
+This is the pay range that RightSourcing (a part of Magnit) reasonably expects to pay someone for this position, however, as a supplier your expected pay range may vary and/or include certain benefits like: Stipends (for clinical traveler workers only), Medical, Dental, Vision, 401K [include any compulsory benefits such as commissions, incentive bonuses, etc. if applicable]. Pay range (USD)78 hrly - (USD)116 hrly
+
+;Languages: 
+ 
+English
+ Read
+ Write
+ Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: SVH-DPC-Nursing-Travel
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 538168
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 12757
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 16 2023 23:02:25
+    [daysPerWeek] => 3
+    [orderNote] => Source=Wand;SourceID=25203189 ;Status=Pending;Client=Sutter Health ;City=Modesto ;State=CA ;Zip=95355 ;Start=12/11/2023;End=3/9/2024;Duration=89;Cert=SVH-DPC-Nursing-Travel ;Specialty=RN - MS Tele - Float Pool- MMC - PM ;Unit=SUT Central Valley Hosp*MMC-MED-SURG-Float Pool 						: 200*106174    		                SUT Central Valley Hosp SUT Central Valley Hosp*MMC-MED-SURG-Float Pool  : 200*106174   SUT Central Valley Hosp ;Shift=Night shift – 1845-0715 Night shift – 1845-0715 5x12 Hr;# of Postions=10;Guaranteed Hours=36.00;Type=Travel;BillRate=$118.59;Description=The RN functions within the full scope of licensure to implement the nursing process. The RN will assess patient and family needs, develop a plan of care based on assessment, direct implementation of the plans of care for a group of patients, collaborate with the charge nurse and care team, and evaluate effectiveness of the care plan. Duties will include administration of medications, performing prescribed treatments, managing medical equipment, assisting with patient ADL (activities of daily living) including lifting, turning, and mobilizing patients. The RN assures that physiological, psychosocial, safety, learning, rehabilitative, spiritual, cultural, and self-care needs of patients and families are addressed. 
+ Schedule Notes:Night shift   1845-0715
+
+Skills: RN License - REQUIREDBLS - REQUIREDAcute care experience - Highly desired : 1 YearsACLS - REQUIREDNIHSS - Highly desired
+ Required
+	
+	  RN LICENSE
+	   ACLS
+	  
+	
+	
+	
+	Additional
+
+Education: BSN - Highly desired
+This is the pay range that RightSourcing (a part of Magnit) reasonably expects to pay someone for this position, however, as a supplier your expected pay range may vary and/or include certain benefits like: Stipends (for clinical traveler workers only), Medical, Dental, Vision, 401K [include any compulsory benefits such as commissions, incentive bonuses, etc. if applicable]. Pay range (USD)78 hrly - (USD)116 hrly
+
+;Languages: 
+ 
+English
+ Read
+ Write
+ Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: SVH-DPC-Nursing-Travel ;url=https://prowand.pro-unlimited.com/supplier/standard/requisition/req_geninfo_view.html?id=25203189&type=REQUISITION&reqProfile=true;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 118.59
+    [facilityName] => Sutter Health - Memorial Medical Center RS Travel
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

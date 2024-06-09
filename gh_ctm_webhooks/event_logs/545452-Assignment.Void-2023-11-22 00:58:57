@@ -1,0 +1,85 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3363',
+  'Cf-Ray' => '829d3a1ca4e81832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Weekend Nights - Friday, Saturday, Sunday
+
+7PM-7AM
+
+Bill rate is $90
+
+The Respiratory Therapist is either registered or certified by the National Board of Respiratory Care to provide Cardiopulmonary Services. The Respiratory Therapist is responsible for following protocols approved by the medical staff and department policy and procedures in order to provide timely diagnostic and therapeutic services to both inpatients and outpatients. Responsibilities include: assisting physicians with invasive and non-invasive procedures, delivery of medicated aerosols via medical compressed gas, maintaining airways, ventilator management, insertion of arterial lines, intubations, pulmonary function studies, cardiac and pulmonary stress tests, and blood gases.
+ General CommentsCertifications and experience required for position:  NM RT License; RT Registration; Current BLS, ACLS, PALS, NRP Certification
+
+
+2 years experience
+ No. of Positions: 1/1.
+ Position creation reason:Replacement of Perm Staff
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 545452
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9807
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RRT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 21 2023 19:58:57
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=777170 ;Status=Open;Association=QHCCS, LLC ;Client=Mimbres Memorial Hospital ;City=Deming ;State=NM ;Zip=88030 ;Start=12/11/2023;End=3/10/2024;Duration=91;Cert=RRT ;Specialty=Respiratory Therapy ;Unit=EXT-Other (911) ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Weekend Nights - Friday, Saturday, Sunday
+
+7PM-7AM
+
+Bill rate is $90
+
+The Respiratory Therapist is either registered or certified by the National Board of Respiratory Care to provide Cardiopulmonary Services. The Respiratory Therapist is responsible for following protocols approved by the medical staff and department policy and procedures in order to provide timely diagnostic and therapeutic services to both inpatients and outpatients. Responsibilities include: assisting physicians with invasive and non-invasive procedures, delivery of medicated aerosols via medical compressed gas, maintaining airways, ventilator management, insertion of arterial lines, intubations, pulmonary function studies, cardiac and pulmonary stress tests, and blood gases.
+ General CommentsCertifications and experience required for position:  NM RT License; RT Registration; Current BLS, ACLS, PALS, NRP Certification
+
+
+2 years experience
+ No. of Positions: 1/1.
+ Position creation reason:Replacement of Perm Staff ;url=https://vendor.healthtrustws.com/positions/777170;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Mimbres Memorial Hospital - Travel
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

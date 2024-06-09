@@ -1,0 +1,89 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '27',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2669',
+  'Cf-Ray' => '83206f46e6f34959-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Experience with the following equipment and software is preferred:
+Ultrasound Tech (2 years exp)
+Weekdays Only
+8D
+Must be able to start on 12/11
+
+
+
+ Modified Time:12/18/2023 12:00:00 AM
+ Account Manager: Veronica Crespo
+ Account Manager Email: Veronica.Crespo@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceRTORequires specific amount of exp. - 2 yearsValid State License (required at time of submission) - preferredReferences Required - 2 years in specialty being submitted for.Return Staff Policy: gone 1 year to return as a traveler
+    [sitename] => giftednurses
+    [spec] => Ultrasound Tech
+    [assignmentid] => 546210
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 11293
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Ultrasound Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => December, 07 2023 18:09:09
+    [daysPerWeek] => 5
+    [orderNote] => Source=AYA;SourceID=2316709 ;Status=Open;Association=Qualivis EPA ;Client=Valor Health ;City=Emmett ;State=ID ;Zip=83617-2715 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Radiology / Cardiology ;Specialty=Ultrasound Tech - General ;Unit=Radiology, 6410 ;Shift=Day 5x8-Hour (07:00 - 15:00);# of Postions=1;Type=Travel;BillRate=$105.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Experience with the following equipment and software is preferred:
+Ultrasound Tech (2 years exp)
+Weekdays Only
+8D
+Must be able to start on 12/11
+
+
+
+ Modified Time:12/18/2023 12:00:00 AM
+ Account Manager: Veronica Crespo
+ Account Manager Email: Veronica.Crespo@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceRTORequires specific amount of exp. - 2 yearsValid State License (required at time of submission) - preferredReferences Required - 2 years in specialty being submitted for.Return Staff Policy: gone 1 year to return as a traveler ;url=https://app.ayaconnect.com/index.html#/vendor/job/2316709/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Valor Health Travel
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

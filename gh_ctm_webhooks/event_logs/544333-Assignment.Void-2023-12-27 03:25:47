@@ -1,0 +1,339 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6032',
+  'Cf-Ray' => '83be7552e7dd6a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:BACKFILL - CONTRACT - CVCST - OR (701) - 13 WEEKS - 6:30AM-3:00PM
+ON CALL REQ
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 544333
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5500
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-14
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 26 2023 22:25:46
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=775707 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=ST. DAVID'S MEDICAL CENTER TX ;City=AUSTIN ;State=TX ;Zip=78705 ;Start=12/21/2023;End=3/21/2024;Duration=91;Cert=CST/ORT ;Specialty=OR ;Unit=CENTRAL AND WEST TEXAS DIVISION (50) ;Shift=6:30AM-5:00PM;# of Postions=1;Type=Travel;BillRate=$80.00;minBillRate=$80.00;OTRate=88 ;CallbackRate=88 ;HolidayRate=88 ;Description=Description:BACKFILL - CONTRACT - CVCST - OR (701) - 13 WEEKS - 6:30AM-5PM
+ON CALL REQ
+MUST HAVE STRONG CARDIAC AND VASCULAR SURGICAL SKILLS
+ General CommentsUnit Profiles:
+  
+The purpose of a unit profile is to help provide an exceptional understanding of the unit.
+ Profiles will include location, number of beds, patient rations, and other unique details to assist recruiting professional in effectively and efficiently identifying highly qualified staff. 
+
+Below you will find a data collection tool to help you identify essential data needed to complete your profile.
+ 
+  
+
+
+  
+Data Collection:
+          Unit Information:
+   Operating Room              Location: St. David s Medical Center 919 E.   32nd St., Austin, TX              
+Building: Main   Building 
+         
+Floor: 2nd   floor 
+             Order Detail:             Facility Department   Number: 70179   Discipline: RN s and   Certified Surgical
+ Technicians ;   Cardiac RN and CST    Quantity:   Target Start Date:   Shift:    Call Requirements   4 to 5   shifts per 6 week period min. and 4 to 5 late shifts per 6 week period.    Weekends: Shifts available                General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   22 OR s ; Not a   trauma hospital 
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   80 
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   (example 1 charge, 3 RN, 2 CNA, and 1-3 sitters) Staff to run 22   OR s.
+ One team in house at all   times.
+ 
+   
+o
+
+
+   Night Shift   1 Team in house 24/7 
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   1:1
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   Robotics, Cardiac,   Vascular, Neuro, Spine, Oncology, Orthopedics, Plastics, Urology, GYN 
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech
+   
+ 
+
+
+
+
+
+
+
+   Permanent Positions on Unit Avaliable?   (Y/N)   Y; surgical technicians, Night Shift Weekend 
+             Typical hiring profile             Skill Set Most recruited for:
+   (Travel RNs, local CNAs and sitters)
+   CST s and RN   night weekend    
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+Certification is a MUST for CST s
+   
+ 
+
+
+
+
+
+
+
+   Neuro/Spine   experience 
+   
+ 
+
+
+
+
+
+
+
+   For   Cardiac Service line   MUST have CARDIAC experience 
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   Multiple   service lines; ortho, neuro, general, robotic 
+
+    
+
+
+
+
+
+
+
+   
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+Appy s, Chole s, Spine fusion, Total Joints,   Crani s, Mastectomies, DIEP Flaps 
+
+    
+
+
+
+
+
+
+
+   
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Flexible, team work,   self-directed, positive
+   
+ 
+
+
+
+
+
+
+
+   
+
+             
+Dress Code: Include requirements, but most of   all not acceptable attire.
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color -
+ We provide scrubs.
+ Closed toe and heeled shoes required     non-slip 
+    
+
+
+
+
+
+
+
+   
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+
+
+             Awards/Recognition: 
+Feel free to include items such as   links to videos that feature the department, outstanding department/team   awards, reigning annual chili cook-off winners, etc.
+    
+ 
+
+
+
+
+
+
+
+   
+Birthday of the month, Dept recognition by peers/leaders,   brag board.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.
+ *Remember it is a very   competitive market any information you can provide will help attract talent.
+   Low turnover, transitioned 4 contract labor staff to permanent!
+ Team work!
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/775707;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => St. David's Medical Center Travel
+    [shiftDateEnd] => 2024-04-14
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

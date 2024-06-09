@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '968',
+  'Cf-Ray' => '8545aa81f6bd23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By Facility; Behavioral Performance
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 536614
+    [workerID] => 95239
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3338
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-05
+    [workerLastName] => Jordan
+    [shiftNum] => 5
+    [workerFirstName] => Renaldo
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => February, 12 2024 09:54:17
+    [daysPerWeek] => 3
+    [orderNote] => BR:$85lRS:135576
+ChrgDf:P$1/B$3lOnCl:P$10/B$18
+NO ORIENTATION NEEDED
+FTK: Kronos
+    [guaranteedMinimum] => 
+    [workerEmail] => renaldomjordan@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Terrebonne General Medical Center-Travel
+    [shiftDateEnd] => 2024-01-25
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

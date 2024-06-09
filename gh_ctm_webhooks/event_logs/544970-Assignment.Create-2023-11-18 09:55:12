@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1259',
+  'Cf-Ray' => '827f562156bd6a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => LRM 00469082
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 544970
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15857
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 18 2023 04:55:11
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48463 ;Status=Open;Association=Trinity Health ;Client=OH - Mount Carmel Grove City ;City=Grove City ;State=OH ;Zip=43123 ;Start=1/7/2024;End=4/6/2024;Duration=90;Cert=RN Emergency Room ;Specialty=Emergency Department ;Unit=*Registered Nurse-ER-Emergency Department ;Shift=7p7a;# of Postions=1;Type=Travel;BillRate=$89.00;OTRate=115.70 ;ChargeRate=92.00 ;CallbackRate=115.70 ;HolidayRate=115.70 ;Description=LRM 00469082 ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 89
+    [facilityName] => Mount Carmel Grove City
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

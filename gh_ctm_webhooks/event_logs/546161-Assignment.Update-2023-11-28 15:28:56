@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '21',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '905',
+  'Cf-Ray' => '82d3a4be53cb4941-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 546161
+    [workerID] => 208959
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 16050
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => Laxa
+    [shiftNum] => 4
+    [workerFirstName] => Joel
+    [cert] => RN
+    [floorDesc] => Intensive Care
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 28 2023 10:28:55
+    [daysPerWeek] => 3
+    [orderNote] => FTK: API Reports
+Chrg:P$1/B$3-OnCl:P$10/B$18
+Ornt:$24/NB:12hr-POT:$66.34>40hr
+BR:$115
+    [guaranteedMinimum] => 
+    [workerEmail] => tag23xy@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 115
+    [facilityName] => AHS - Overlook Medical Center
+    [shiftDateEnd] => 2024-02-03
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

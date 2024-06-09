@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2547',
+  'Cf-Ray' => '8315c9683242183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DEPARTMENT DESCRIPTIONThe Medical Surgical unit specializes in the care of acutely ill adults and of those who require surgery both emergent and elective. Medical Surgical patients are given the highest standards of professional care by registered nurses and nurse assistants. Specialty certification in Medical Surgical Nursing is strongly encouraged and supported.EXPERIENCE/EDUCATION/QUALIFICATIONSCurrent unencumbered Oregon RN license required upon submission.Healthcare Provider Level AHA BLS required upon submission.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544172
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6357
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 06 2023 11:08:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=258960 ;Status=Open;Association=Samaritan Health Services ;Client=Samaritan Albany General Hospital ;City=Albany ;State=OR ;Zip=97321 ;Start=9/29/2023;End=12/29/2023;Duration=91;Cert=Nursing ;Specialty=Med-surg Adult ;Unit=Med-surg Adult ;Shift=Nights (1900-0730) rotating weekends;# of Postions=3;Guaranteed Hours=36;Type=Travel;BillRate=$90.00;OTRate=100 ;OTRules=By The Week, after 40, ;CallbackRate=90 (All Inclusive Rate) ;HolidayRate=100 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=DEPARTMENT DESCRIPTIONThe Medical Surgical unit specializes in the care of acutely ill adults and of those who require surgery both emergent and elective. Medical Surgical patients are given the highest standards of professional care by registered nurses and nurse assistants. Specialty certification in Medical Surgical Nursing is strongly encouraged and supported.EXPERIENCE/EDUCATION/QUALIFICATIONSCurrent unencumbered Oregon RN license required upon submission.Healthcare Provider Level AHA BLS required upon submission.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/258960;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Samaritan Albany General Hospital
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

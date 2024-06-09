@@ -1,0 +1,71 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1688',
+  'Cf-Ray' => '82cc025c36fb1830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL OR SCRUB TECH
+06:45AM 07:15PM13 WEEKS
+
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIRED
+BLS REQUIRED
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 526958
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2870
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-09
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:15
+    [whenmodified] => November, 27 2023 12:14:44
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=733924 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=TriCities Hospital fka John Randolph Medical Center ;City=HOPEWELL ;State=VA ;Zip=23860 ;Start=11/9/2023;End=2/8/2024;Duration=91;Cert=CST/ORT ;Specialty=OR ;Unit=CAPITAL DIVISION (20) ;Shift=6:45AM- 7:15PM;# of Postions=1;Type=Travel;BillRate=$70.00;OTRate=78 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL OR SCRUB TECH
+06:45AM 07:15PM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDVA STATE LICENSE REQUIRED
+BLS REQUIRED
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/733924;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => John Randolph Medical Center
+    [shiftDateEnd] => 2024-02-08
+    [shiftStartTime] => 06:45
+    [subjectID] => 
+)

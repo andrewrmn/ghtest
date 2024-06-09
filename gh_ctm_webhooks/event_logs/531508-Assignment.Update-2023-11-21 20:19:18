@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '22',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '975',
+  'Cf-Ray' => '829ba07445b24945-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By Facility; Client Budgetary/Financial Reason
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 531508
+    [workerID] => 52472
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5053
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-23
+    [workerLastName] => Mawhee
+    [shiftNum] => 5
+    [workerFirstName] => Colette
+    [cert] => RN
+    [floorDesc] => MEDSurg 5ABD
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 21 2023 15:19:17
+    [daysPerWeek] => 3
+    [orderNote] => BR:$100lRS:134588lFTK:Kronos
+OnCl:P$2/B$3
+Orient:$20lNonBill:16hrs
+    [guaranteedMinimum] => 
+    [workerEmail] => sunrisern2012@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Banner - Boswell Medical Center TRAVEL
+    [shiftDateEnd] => 2023-11-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

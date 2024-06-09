@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '43',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '921',
+  'Cf-Ray' => '831f3454c6e11840-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Start/End Date Change
+    [sitename] => giftednurses
+    [spec] => LTAC
+    [assignmentid] => 529090
+    [workerID] => 48850
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8180
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-01
+    [workerLastName] => Davis-Lopes
+    [shiftNum] => 4
+    [workerFirstName] => Andrea
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 07 2023 14:34:08
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$77lRS:134113lFTK:Kronos
+Orient:$20lNonBill:12hrs
+    [guaranteedMinimum] => 
+    [workerEmail] => andreadavislopes@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 77
+    [facilityName] => Select Specialty Atlanta/Midtown - TRAVEL
+    [shiftDateEnd] => 2024-01-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

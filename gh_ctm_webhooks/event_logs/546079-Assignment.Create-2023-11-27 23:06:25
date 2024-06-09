@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7957',
+  'Cf-Ray' => '82ce058265d91842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => This position requires rotational scheduling and on-call (night, weekend, and holiday) coverage upon successful completion of established didactic and clinical requirements, required exams, and the discretion of the OR SCN.  Position requirements include, performing basic duties of a surgical technologist.  Assist with positioning, surgical prepping, and draping of the surgical patient. Responsibilities include setting up an operating room before surgery and ensuring all needed equipment and instrumentation is available and in working condition for the scheduled surgical procedure. Surgical specialties include: General Surgery, Orthopedic, Otolaryngology, Ophthalmology, Obstetrics and Gynecology, Podiatry, Urology, etc. for adult and pediatric patients. Basic Life Support (BLS) from the American Heart Association is required.  Surgical Technologist certification preferred.*COVID 19 vaccination is MANDATORY and worker must be fully vaccinated 2 weeks prior to start date. Declination is considered for Medical reasons ONLY with appropriate documentation and is subject to confirmation & review. Tuba City Regional Health Care Corporation, a JCAHO accredited health center, provides services to a 4,400 square mile area and serves as a referral center for the western part of the Navajo and Hopi Reservations. The hospital was constructed in 1975 with a bed capacity of 73. Services provided to the community include comprehensive inpatient/outpatient emergency services, dental and ophthalmology services, orthopedics, OB/GYN, oral surgery, eye surgery and urological procedures. Approximately 49% of the surgeries performed are out patient/ambulatory surgical procedures. Learn more about our organization. The Tuba City Regional Health Care Corporation is located in Northwestern Arizona on the land known as the Colorado Plateau. This semi-desert landscape varies in elevation from 4,400 in the Little Colorado River Valley to nearly 7,000 feet at Preston Mesa. The unique community of Tuba City offers a culturally rich environment. The Native American tribes located and served here are the Navajo, Hopi, and Southern Paiute. This mixture along with Anglo, Hispanic, and African American employees of the hospital and school systems make a pleasantly diverse community. The staff of medical providers includes surgeons, general medical officers, internal medicine, psychiatrists, pediatricians, family practice physicians, obstetricians, ENT specialists, orthopedic surgeons, and urologists. Dental staff includes general dentists, endodontists, oral and maxillofacial surgeons, pediatric dentists, dental assistants and hygienists. The nursing staff includes registered nurses, licensed practical nurses, nursing assistants, community health nurses, nurse practitioners, nurse midwives, CRNA, and community health medics.   Additional Information:ORIENTATION: Every two (2) weeks only. COVID EXEMPTIONS: We do not accept religious exemptions. If a candidate submits for a medical exemption, we will have to get approval from our medical review board to proceed with onboarding. HOUSING APPLICATION: must be submitted 2 weeks prior to start date - form uploaded in Medefis   Position Urgency:Normal Billing string = Tuba City Regional
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 546079
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 1338
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-20
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 27 2023 18:06:24
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=260489 ;Status=Open;Association=Tuba City Regional ;Client=Tuba City Regional ;City=Tuba City ;State=AZ ;Zip=86045 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=Nursing ;Specialty=Surgical Technologist ;Unit=Surgical Technologist ;Shift=We work 10s currently. 0630 -1700. Call is 1 to 2 shifts per week. Techs and Nurses self-schedule.;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$90.00;OTRate=100 ;OTRules=By The Week, after 40, ;CallbackRate=90 (All Inclusive Rate) ;HolidayRate=90 (All Inclusive Rate) ;OnCallRateDescription=$7 per hour pager ;Description=This position requires rotational scheduling and on-call (night, weekend, and holiday) coverage upon successful completion of established didactic and clinical requirements, required exams, and the discretion of the OR SCN.  Position requirements include, performing basic duties of a surgical technologist.  Assist with positioning, surgical prepping, and draping of the surgical patient. Responsibilities include setting up an operating room before surgery and ensuring all needed equipment and instrumentation is available and in working condition for the scheduled surgical procedure. Surgical specialties include: General Surgery, Orthopedic, Otolaryngology, Ophthalmology, Obstetrics and Gynecology, Podiatry, Urology, etc. for adult and pediatric patients. Basic Life Support (BLS) from the American Heart Association is required.  Surgical Technologist certification preferred.*COVID 19 vaccination is MANDATORY and worker must be fully vaccinated 2 weeks prior to start date. Declination is considered for Medical reasons ONLY with appropriate documentation and is subject to confirmation & review. Tuba City Regional Health Care Corporation, a JCAHO accredited health center, provides services to a 4,400 square mile area and serves as a referral center for the western part of the Navajo and Hopi Reservations. The hospital was constructed in 1975 with a bed capacity of 73. Services provided to the community include comprehensive inpatient/outpatient emergency services, dental and ophthalmology services, orthopedics, OB/GYN, oral surgery, eye surgery and urological procedures. Approximately 49% of the surgeries performed are out patient/ambulatory surgical procedures. Learn more about our organization. The Tuba City Regional Health Care Corporation is located in Northwestern Arizona on the land known as the Colorado Plateau. This semi-desert landscape varies in elevation from 4,400 in the Little Colorado River Valley to nearly 7,000 feet at Preston Mesa. The unique community of Tuba City offers a culturally rich environment. The Native American tribes located and served here are the Navajo, Hopi, and Southern Paiute. This mixture along with Anglo, Hispanic, and African American employees of the hospital and school systems make a pleasantly diverse community. The staff of medical providers includes surgeons, general medical officers, internal medicine, psychiatrists, pediatricians, family practice physicians, obstetricians, ENT specialists, orthopedic surgeons, and urologists. Dental staff includes general dentists, endodontists, oral and maxillofacial surgeons, pediatric dentists, dental assistants and hygienists. The nursing staff includes registered nurses, licensed practical nurses, nursing assistants, community health nurses, nurse practitioners, nurse midwives, CRNA, and community health medics.   Additional Information:ORIENTATION: Every two (2) weeks only. COVID EXEMPTIONS: We do not accept religious exemptions. If a candidate submits for a medical exemption, we will have to get approval from our medical review board to proceed with onboarding. HOUSING APPLICATION: must be submitted 2 weeks prior to start date - form uploaded in Medefis   Position Urgency:Normal Billing string = Tuba City Regional ;url=https://vms.medefis5.com/jobs/260489;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Tuba City Regional
+    [shiftDateEnd] => 2024-02-19
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

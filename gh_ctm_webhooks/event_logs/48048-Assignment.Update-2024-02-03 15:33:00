@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1592',
+  'Cf-Ray' => '84fbbad4b30923b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 01/15/2019 0702 MSTCerville Exavier					Experience Pediatric CVOR Nurse needed. 10H Shifts, variable days. Variable case volumes. Call cover required. IVS to interview via montage. NM to make final offer.https://secure.shiftwise.net/esp/order.aspx?order_id=D6906CD8E8CE7417 
+    [sitename] => giftednurses
+    [spec] => CVOR
+    [assignmentid] => 48048
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2478
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-02-25
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => February, 03 2024 10:32:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;ID=0;SourceID=7946519;Status=Open;Client=AH: Dell Children's Medical Center;City=Austin;State=TX;Start=2/4/2019;End=5/6/2019;Duration=92;Cert=RN;Specialty=CVOR;Unit=DCMC Surgical Services;Shift=AM 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$80.32;Description=01/15/2019 0702 MSTCerville Exavier					Experience Pediatric CVOR Nurse needed. 10H Shifts, variable days. Variable case volumes. Call cover required. IVS to interview via montage. NM to make final offer.https://secure.shiftwise.net/esp/order.aspx?order_id=D6906CD8E8CE7417;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80.32
+    [facilityName] => Dell Children's Medical Center
+    [shiftDateEnd] => 2019-05-27
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

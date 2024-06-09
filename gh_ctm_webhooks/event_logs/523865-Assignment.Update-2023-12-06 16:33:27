@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '945',
+  'Cf-Ray' => '8315ee3f94cc6a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Bill Rate Change to $103.00 - Effective 11/26.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 523865
+    [workerID] => 180983
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 36
+    [facilityID] => 15898
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-01
+    [workerLastName] => Orozco
+    [shiftNum] => 4
+    [workerFirstName] => Frances
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 06 2023 11:33:26
+    [daysPerWeek] => 3
+    [orderNote] => BR:$103lRS:133033lFTK:GiftTC/Kronos. 
+Effective 11/26. Bill Rate 103. Pay 66
+    [guaranteedMinimum] => 
+    [workerEmail] => forozco031@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 103
+    [facilityName] => Brookdale Hospital Medical Center (RS)
+    [shiftDateEnd] => 2023-12-30
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

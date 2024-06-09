@@ -1,0 +1,83 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3738',
+  'Cf-Ray' => '827b09f9f4a5183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:Join us to open a new hospital in Holly Springs, NC, Part of UNC Rex. Opens end of Sept, so orientation will start at UNC Rex in Raleigh.
+Complete Description:UNC Rex Holly Springs Hospital surgical services department performs both inpatient and outpatient procedures on adult populations. We have 3 Operating Rooms and 1 procedure room. The UNC REX Holly Springs OR nurses and surgical techs are responsible providing intraoperative care for a variety of service lines including, general, orthopedics, ophthalmology, GYN, neurology, vascular and endoscopy. Our highest priority is patient safety and providing exceptional patient care every day to every patient.
+Requisition Comments:Client Offers! Candidates will be reviewed/interviewed by MGR
+
+Traveler is expected to float to like acuities or less if needed
+
+Must include RTO in submittal in order to be honored at time of offer
+Scheduling Details:4 - 10 Hour Shifts 07:00-17:00 Blocked (any days)
+
+Weekend Req: See below
+Call Req: 4 weekends on call (0700 Saturday through 0700 Monday) in 13 week contract and 1 weeknight on-call per week (1700-0700).
+    [sitename] => giftednurses
+    [spec] => ORT
+    [assignmentid] => 544896
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 15689
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => ORT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:30
+    [whenmodified] => November, 17 2023 16:24:09
+    [daysPerWeek] => 4
+    [orderNote] => Source=PeopleFluent;SourceID=725066 ;Status=Open;Association=Surgical Services - UNC Rex Holly Springs, 104 - 210533 - 1100 ;Client=UNC Health ;Start=12/11/2023;End=3/9/2024;Duration=89;Cert=ST ;Specialty=OR Tech ;Unit=ST - Operating Room - Days - UNC Rex Holly Springs ;Shift=4x10.0 4 - 10 Hour Shifts 07:00-17:00 Blocked (any days)
+
+Weekend Req: See below
+Call Req: 4 weekends on call (0700 Saturday through 0700 Monday) in 13 week contract and 1 weeknight on-call per week (1700-0700).;# of Postions=1;Type=Travel;BillRate=$68.00;Description=Short Description:Join us to open a new hospital in Holly Springs, NC, Part of UNC Rex. Opens end of Sept, so orientation will start at UNC Rex in Raleigh.
+Complete Description:UNC Rex Holly Springs Hospital surgical services department performs both inpatient and outpatient procedures on adult populations. We have 3 Operating Rooms and 1 procedure room. The UNC REX Holly Springs OR nurses and surgical techs are responsible providing intraoperative care for a variety of service lines including, general, orthopedics, ophthalmology, GYN, neurology, vascular and endoscopy. Our highest priority is patient safety and providing exceptional patient care every day to every patient.
+Requisition Comments:Client Offers! Candidates will be reviewed/interviewed by MGR
+
+Traveler is expected to float to like acuities or less if needed
+
+Must include RTO in submittal in order to be honored at time of offer
+Scheduling Details:4 - 10 Hour Shifts 07:00-17:00 Blocked (any days)
+
+Weekend Req: See below
+Call Req: 4 weekends on call (0700 Saturday through 0700 Monday) in 13 week contract and 1 weeknight on-call per week (1700-0700). ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=725066;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 68
+    [facilityName] => UNC Health Rex Holly Springs
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

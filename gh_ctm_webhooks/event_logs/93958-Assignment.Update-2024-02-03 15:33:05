@@ -1,0 +1,66 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2071',
+  'Cf-Ray' => '84fbbaf3e7f623b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 12/05/2019 1525 MSTCerville Exavier
+                            
+                            
+                                Looking for strong peds RT travelers. Must be Pediatric ICU and Pediatric Cardiac ICU trained. Return travelers in good standing always welcome. min of 2yrs exp. required. PALS req. IVS to interview via montage and NM to make final offer.
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 93958
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2478
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-01-20
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RRT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => February, 03 2024 10:32:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=Shiftwise;ID=0;SourceID=8486140;Status=Open;Association=CCS WFS: Seton HealthCare Network;Client=AH: Dell Children's Medical Center;City=Austin;State=TX;Zip=78723;Start=12/16/2019;End=3/28/2020;Duration=104;Cert=Respiratory Therapist;Specialty=Respiratory Therapist Reg;Unit=DCMC Respiratory Therapy;Shift=NOC 12.00 Hrs;# of Postions=1;Type=Travel;OTRate= ;OTRules= ;ChargeRate= ;CallbackRate= ;CallbackRate= ;HolidayRate= ;OnCallRateDescription= ;Orientation= ;Description=12/05/2019 1525 MSTCerville Exavier
+                            
+                            
+                                Looking for strong peds RT travelers. Must be Pediatric ICU and Pediatric Cardiac ICU trained. Return travelers in good standing always welcome. min of 2yrs exp. required. PALS req. IVS to interview via montage and NM to make final offer.;Buyer= ;VMSPositionType= AvgHoursPerWeek= InterviewRequired=False;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 
+    [facilityName] => Dell Children's Medical Center
+    [shiftDateEnd] => 2020-05-02
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

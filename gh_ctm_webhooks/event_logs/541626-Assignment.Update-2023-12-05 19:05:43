@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '978',
+  'Cf-Ray' => '830e8fecf43e1465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: End Date Change
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 541626
+    [workerID] => 331888
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 16046
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-13
+    [workerLastName] => Federico
+    [shiftNum] => 5
+    [workerFirstName] => Frank
+    [cert] => RRT
+    [floorDesc] => Respiratory
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 05 2023 14:05:42
+    [daysPerWeek] => 3
+    [orderNote] => BR:$100 lRS:136171					
+ChrgDf:P$1 /B$3 lOnCl:P$10 /B$18			
+Orient:$20  lNonBill:12 hrs  
+FTK:API Reports
+    [guaranteedMinimum] => 
+    [workerEmail] => frankfederico33@hotmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => AHS - Morristown Medical Center
+    [shiftDateEnd] => 2023-12-15
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

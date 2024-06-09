@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '973',
+  'Cf-Ray' => '82e43c26f5de6a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Start/End Date Change
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 543698
+    [workerID] => 167137
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 13566
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => Bostick
+    [shiftNum] => 5
+    [workerFirstName] => Beverly
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 30 2023 10:48:29
+    [daysPerWeek] => 3
+    [orderNote] => BR:$105lRS:136572
+Orient:$105lNonBil:16hrs
+FTK: Kronos (unsigned paper card only used as backup in case Kronos is down)
+    [guaranteedMinimum] => 
+    [workerEmail] => beverlybostick95@gmail.com
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 105
+    [facilityName] => Kaweah Health Medical Center TRAVEL
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

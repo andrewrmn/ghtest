@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2389',
+  'Cf-Ray' => '84ca459236f26a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 07/23/2021 1309 MDTJackie Pittmann
+                            
+                            
+                                Bill rate $115  for 48 hours. Bill rate $105 for 36 hours. Candidate will go through IVS. If 2 + years exp and no time off requested automatic offers will be given. Time off will need to be approved by Seton. Please make sure your profiles are IVS ready!Bill Rate $115 for 48 hours
+ RatePlan:AH-Rapid Response (Covid19) MAY 1
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 251341
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9547
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-08-16
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 28 2024 10:29:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;SourceID=9354487 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Medical Center - Williamson ;City=Round Rock ;State=TX ;Zip=78665 ;Start=8/16/2021;End=11/14/2021;Duration=91;Cert=RN ;Specialty=ICU ;Unit=SMCW ICU ;Shift=NOC 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$115.00;minBillRate=$95.00;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=07/23/2021 1309 MDTJackie Pittmann
+                            
+                            
+                                Bill rate $115  for 48 hours. Bill rate $105 for 36 hours. Candidate will go through IVS. If 2 + years exp and no time off requested automatic offers will be given. Time off will need to be approved by Seton. Please make sure your profiles are IVS ready!Bill Rate $115 for 48 hours
+ RatePlan:AH-Rapid Response (Covid19) MAY 1 ;url=https://automated.shiftwise.net/esp/order.aspx?order_id=46629C71755527BBAE8223BE306CC327;minPayRate=$115.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 115
+    [facilityName] => Ascension Seton Williamson Hospital
+    [shiftDateEnd] => 2021-11-14
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

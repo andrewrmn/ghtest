@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '946',
+  'Cf-Ray' => '8363351df50723c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Last shift worked was 10-22-23
+    [sitename] => giftednurses
+    [spec] => Sterile Processing Tech 
+    [assignmentid] => 529959
+    [workerID] => 224106
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15968
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-01
+    [workerLastName] => McQueen
+    [shiftNum] => 5
+    [workerFirstName] => April
+    [cert] => Sterile Processing Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 15 2023 20:38:32
+    [daysPerWeek] => 3
+    [orderNote] => BR:$53lRS:134268
+ChrgDf:P$1/B$3lFTK:Kronos
+    [guaranteedMinimum] => 
+    [workerEmail] => tsiml2s2d@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 53
+    [facilityName] => Our Lady of the Lake Regional Medical Center TRAVEL (HM)
+    [shiftDateEnd] => 2023-10-28
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

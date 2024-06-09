@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '26',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '944',
+  'Cf-Ray' => '83bc150230464955-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: End Date Change. Updated end date to 12/23 per dispo. kt
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 521751
+    [workerID] => 274244
+    [WorkerContactNo] => 201-240-0767
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 16046
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-09-11
+    [workerLastName] => Rouilli
+    [shiftNum] => 1
+    [workerFirstName] => Jane
+    [cert] => RN
+    [floorDesc] => OR
+    [Subject] => 
+    [shiftEndTime] => 15:30
+    [whenmodified] => December, 26 2023 15:30:30
+    [daysPerWeek] => 5
+    [orderNote] => EXTENSION 
+BR:$150lRS:132618lFTK:API 
+ChrgDiff:P$1/B$3lOnCl:P$10/B$18
+    [guaranteedMinimum] => 
+    [workerEmail] => jrouilli@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 150
+    [facilityName] => AHS - Morristown Medical Center
+    [shiftDateEnd] => 2023-12-23
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

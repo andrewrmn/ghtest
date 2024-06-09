@@ -1,0 +1,111 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '27',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '10648',
+  'Cf-Ray' => '82d3dea595244959-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Job SummaryThe registered nurse assesses, plans, implements, evaluates, and supervises individual patient care using the nursing process. Accepts responsibility for direction of co-workers and delegation of role appropriate tasks in the implementation of care. Performs all duties and responsibilities in accordance to the established FMC policies, procedures and guidelines.Job QualificationsEducation:   Associate degree in nursing. Bachelor s degree in nursing preferred.Licensure/Certification: Valid license to practice in the State of Ohio. CPR  ACLS required.Experience:  Previous Registered Nursing experience preferred.Job-related Skills:  Strong interpersonal and communication skills; Problem-solve and facilitate resolution to issues; demonstrates ability to handle multiple priorities; Make independent decisions. Critical thinking skills.Organizational Expectations and Responsibilities:1. Mission and Service Values
+a. Empathy   Demonstrates a willingness to understand others  perspectives, without labeling or judging; treats others with compassion and is personally engaged in providing patient and family-centered care.
+
+b. Integrity Takes responsibility for own words and actions; has passion and courage to do the right thing; delivers on promises and commitments; is honest and achieves excellence in all things through ethical and legal behavior.
+
+c. Stewardship Uses FMC resources wisely; respects the time and resources of patients, family and peers; shows pride in FMC and gives back to the Center and community with time, talent and /or money.
+
+d. Agility Demonstrates courage to take initiative to find creative solutions; anticipates concerns and responds promptly; minimizes bureaucracy and explores opportunity for growth.
+
+e. Teamwork Works collaboratively, not in silos; treats others with courtesy and respect; assumes good intent and welcomes differing viewpoints; creates a spirit of belonging and fellowship within FMC; embraces the FMC culture.2. Commitment and Engagement
+
+a. Quality Demonstrates commitment to improve individual performance and contributes to team accomplishments and quality improvement initiatives.
+
+b. Safety Creates and maintains a safe and clean work environment and reports unsafe conditions to the appropriate individuals.
+
+c. Service Recognizes and anticipates the needs of customers and strives to surpass customer expectations; utilizes AIDET, TeamSTEPPS and other tools to avoid and/or resolve concerns with the best possible outcome.
+
+d. Sustainability Demonstrates timely, accurate and cost-conscious use of resources in the daily work.3. Personal Engagement
+
+a. Organization Commitment Complies with FMC policies, procedures, work instructions and guidelines; reports compliance or ethical concerns to appropriate personnel; does not gossip but works to create a positive work experience with others.
+
+b. Personal Commitment Demonstrates ownership of the job; willing to step up and help others; works across departmental lines; is fully present at work physically and emotionally; maximizes own talents and that of others.
+
+c. Personal Growth Demonstrates a commitment to ongoing learning; completes all mandatory education and participates in learning events/opportunities/experiences to enhance on-the-job performance.Essential Job FunctionsJob Expectations and Responsibilities:4. Assesses, plans, implements and evaluates nursing care of each patient according to the nursing process.  Provides quality care based on assessment      needs and established plan of care/pathway.  Provides education for the patient and      family/significant other from admission through discharge process.  Provides thorough, concise, accurate and      legible documentation of the nursing process/pathway.  Notifies physician of pertinent      observations and changes in the status of the patient.  Administers medications and performs      treatments in an accurate safe manner.  Implements physician orders as written.  Assures equipment and supplies are readily      available for patient care, reporting malfunctions to proper department. 
+
+Physical Capacity DemandHeavy Work: Exerting 50 to 100 pounds of force occasionally and/or 25 to 50 pounds of force frequently, and/or 10 to 20 pounds of force constantly to move objects. Physical demand requirements are in excess of those for Medium Work. Position may require frequent patient handling activity   Additional Information:All travelers must have a permanent address of 50 miles or more to qualify as a traveler.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545314
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5990
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 28 2023 11:08:27
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261979 ;Status=Open;Association=Fairfield Medical Center ;Client=Fairfield Medical Center ;City=Lancaster ;State=OH ;Zip=43130 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Nursing ;Specialty=Med-surg Adult ;Unit=Med-surg Adult ;Shift=7 PM - 7:30 AM;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$90.00;OTRate=90 ;OTRules=By The Week, after 40, ;HolidayRate=90 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=Job SummaryThe registered nurse assesses, plans, implements, evaluates, and supervises individual patient care using the nursing process. Accepts responsibility for direction of co-workers and delegation of role appropriate tasks in the implementation of care. Performs all duties and responsibilities in accordance to the established FMC policies, procedures and guidelines.Job QualificationsEducation:   Associate degree in nursing. Bachelor s degree in nursing preferred.Licensure/Certification: Valid license to practice in the State of Ohio. CPR  ACLS required.Experience:  Previous Registered Nursing experience preferred.Job-related Skills:  Strong interpersonal and communication skills; Problem-solve and facilitate resolution to issues; demonstrates ability to handle multiple priorities; Make independent decisions. Critical thinking skills.Organizational Expectations and Responsibilities:1. Mission and Service Values
+a. Empathy   Demonstrates a willingness to understand others  perspectives, without labeling or judging; treats others with compassion and is personally engaged in providing patient and family-centered care.
+
+b. Integrity Takes responsibility for own words and actions; has passion and courage to do the right thing; delivers on promises and commitments; is honest and achieves excellence in all things through ethical and legal behavior.
+
+c. Stewardship Uses FMC resources wisely; respects the time and resources of patients, family and peers; shows pride in FMC and gives back to the Center and community with time, talent and /or money.
+
+d. Agility Demonstrates courage to take initiative to find creative solutions; anticipates concerns and responds promptly; minimizes bureaucracy and explores opportunity for growth.
+
+e. Teamwork Works collaboratively, not in silos; treats others with courtesy and respect; assumes good intent and welcomes differing viewpoints; creates a spirit of belonging and fellowship within FMC; embraces the FMC culture.2. Commitment and Engagement
+
+a. Quality Demonstrates commitment to improve individual performance and contributes to team accomplishments and quality improvement initiatives.
+
+b. Safety Creates and maintains a safe and clean work environment and reports unsafe conditions to the appropriate individuals.
+
+c. Service Recognizes and anticipates the needs of customers and strives to surpass customer expectations; utilizes AIDET, TeamSTEPPS and other tools to avoid and/or resolve concerns with the best possible outcome.
+
+d. Sustainability Demonstrates timely, accurate and cost-conscious use of resources in the daily work.3. Personal Engagement
+
+a. Organization Commitment Complies with FMC policies, procedures, work instructions and guidelines; reports compliance or ethical concerns to appropriate personnel; does not gossip but works to create a positive work experience with others.
+
+b. Personal Commitment Demonstrates ownership of the job; willing to step up and help others; works across departmental lines; is fully present at work physically and emotionally; maximizes own talents and that of others.
+
+c. Personal Growth Demonstrates a commitment to ongoing learning; completes all mandatory education and participates in learning events/opportunities/experiences to enhance on-the-job performance.Essential Job FunctionsJob Expectations and Responsibilities:4. Assesses, plans, implements and evaluates nursing care of each patient according to the nursing process.  Provides quality care based on assessment      needs and established plan of care/pathway.  Provides education for the patient and      family/significant other from admission through discharge process.  Provides thorough, concise, accurate and      legible documentation of the nursing process/pathway.  Notifies physician of pertinent      observations and changes in the status of the patient.  Administers medications and performs      treatments in an accurate safe manner.  Implements physician orders as written.  Assures equipment and supplies are readily      available for patient care, reporting malfunctions to proper department. 
+
+Physical Capacity DemandHeavy Work: Exerting 50 to 100 pounds of force occasionally and/or 25 to 50 pounds of force frequently, and/or 10 to 20 pounds of force constantly to move objects. Physical demand requirements are in excess of those for Medium Work. Position may require frequent patient handling activity   Additional Information:All travelers must have a permanent address of 50 miles or more to qualify as a traveler.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261979;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Fairfield Medical Center
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

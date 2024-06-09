@@ -1,0 +1,72 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2783',
+  'Cf-Ray' => '82b30d099737183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+DETAR
+Shift: Days (8hr w/ call)
+Start: ASAP
+Rate: $155/hrparseGeneralComments Comments
+.bd_title { font-weight: bold }
+The Cath Lab is losing an RN to a leave, they will be in an operational crisis and are in dire need of help.  This is going to leave only 1 nurse and it will be impossible to run 2 rooms. The current traveler will be leaving the first week of December and will not be renewing his contract. He is carrying us right now with Jennifer Lopez but he can not function independently. There are currently 2 FT RN's and 1 FT Rad Tech positions posted with no viable candidates at this time.   Contact: Christopher Stearns Resource Manager: Christopher Stearns
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 345592
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 9491
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-03-28
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 24 2023 11:32:48
+    [daysPerWeek] => 5
+    [orderNote] => Source=Parallon;SourceID=539318 ;Status=Open;Association=CHS ;Client=DeTar Healthcare System ;City=Victoria ;State=TX ;Zip=77904 ;Start=2/28/2022;End=5/30/2022;Duration=91;Cert=CHS Travel:Registered Nurse (RN) / Cath Lab - Days (539318) ;Specialty=1106: CARDIO-CATH LAB ;Unit=CARDIO-CATH LAB ;Shift=Days (8hr w/ call);# of Postions=1;Type=Travel;BillRate=$155.00;minBillRate=$155.00;Description=Position Description
+DETAR
+Shift: Days (8hr w/ call)
+Start: ASAP
+Rate: $155/hrparseGeneralComments Comments
+.bd_title { font-weight: bold }
+The Cath Lab is losing an RN to a leave, they will be in an operational crisis and are in dire need of help.  This is going to leave only 1 nurse and it will be impossible to run 2 rooms. The current traveler will be leaving the first week of December and will not be renewing his contract. He is carrying us right now with Jennifer Lopez but he can not function independently. There are currently 2 FT RN's and 1 FT Rad Tech positions posted with no viable candidates at this time.   Contact: Christopher Stearns Resource Manager: Christopher Stearns ;Buyer=Christopher Stearns ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=539318#!/position/manage/539318;VMSPositionType=Travel minPayRate=$155.00;maxPayRate=$155.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 155
+    [facilityName] => DeTar Hospital - North 
+    [shiftDateEnd] => 2022-06-27
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

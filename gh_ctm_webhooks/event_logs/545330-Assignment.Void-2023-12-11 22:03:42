@@ -1,0 +1,67 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '990',
+  'Cf-Ray' => '834104e2138c1464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545330
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 16046
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 1
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => Davino 1
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 11 2023 17:03:41
+    [daysPerWeek] => 3
+    [orderNote] => Ortho Unit
+13-weeks
+36 hrs
+Must have EPIC experience
+RN must work every other holiday as needed
+RN must work every other weekend as needed.
+RN may float to like units as needed
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => AHS - Morristown Medical Center
+    [shiftDateEnd] => 2024-04-07
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,70 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1216',
+  'Cf-Ray' => '82918186a7416a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => School - Teletherapy
+    [assignmentid] => 542042
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Contract
+    [hoursPerWeek] => 37.5
+    [facilityID] => 16196
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-29
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => SLP
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 20 2023 09:50:33
+    [daysPerWeek] => 5
+    [orderNote] => TELE SLP needed in Spartanburg, SC
+Spartanburg School District 2 
+ASAP - May 24th 2024
+37.5 hours per week
+55 students in caseload; elementary
+Need to have ASHA and SC LLR; will not take pending license
+SC Educator's certification CAN be pending
+Teletherapy is not preferred but will be considered 
+ZOOM is the teletherapy platform that current teletherapists use
+Bill rate: $88 per hour
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Spartanburg School District 2
+    [shiftDateEnd] => 2024-05-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

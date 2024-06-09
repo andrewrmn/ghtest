@@ -1,0 +1,67 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1583',
+  'Cf-Ray' => '828d739fc1974951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:ASAP START
+Looking for 2 Med Surg RN's with pediatric/ adult experience.
+2 - Night shifts 7p-7a Need to be filled now.BILL RATE: $75
+ General Comments
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 536081
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8284
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 19 2023 22:01:59
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=742624 ;Status=Open;Association=Community Health Systems ;Client=Carlsbad Medical Center ;City=Carlsbad ;State=NM ;Zip=88220 ;Start=8/28/2023;End=11/27/2023;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=EXT-Other (911) ;Shift=7p-7a;7p-7a;# of Postions=12;Type=Travel;BillRate=$75.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:ASAP START
+Looking for 2 Med Surg RN's with pediatric/ adult experience.
+2 - Night shifts 7p-7a Need to be filled now.BILL RATE: $75
+ General Comments ;url=https://vendor.healthtrustws.com/positions/742624;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Carlsbad Medical Center
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

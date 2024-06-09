@@ -1,0 +1,64 @@
+@at-root :root{
+  --heading-1-font-size: 48px;
+  --heading-1-line-height: 1.2;
+
+  --heading-large-font-size: 40px;
+  --heading-large-line-height: 1.2;
+
+  --heading-2-font-size: 24px;
+  --heading-2-line-height: 1.2;
+
+  --heading-3-font-size: 16px;
+  --heading-3-line-height: 1.2;
+
+  --heading-color: #{$color-dark-teal};
+  --heading-link-hover-color: #{$color-teal};
+
+  @media screen and (max-width: 700px){
+    --heading-1-font-size: 40px;
+    --heading-large-font-size: 32px;
+    --heading-2-font-size: 20px;
+  }
+}
+
+.inverted-colors{
+  color: white;
+  --heading-color: white;
+  --heading-link-hover-color: white;
+}
+
+.resetType{
+  @include resetFont;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+@mixin capHeight{
+  margin: -0.13em 0;
+}
+
+@mixin heading( $name, $variable ) {
+  .t-#{$name} {
+    color: var(--heading-color);
+    font-family: 'futura-pt', sans-serif;
+    font-size: var(--heading-#{$variable}-font-size);
+    line-height: var(--heading-#{$variable}-line-height);
+    letter-spacing: -0.01em;
+    font-weight: bold;
+    @include capHeight;
+
+    a{
+      color: inherit !important;
+
+      &:hover{
+        color: var(--heading-link-hover-color) !important;
+      }
+    }
+
+    @content;
+  }
+}
+@include heading('h1', '1');
+@include heading('h2', '2');
+@include heading('h3', '3');
+@include heading('large', 'large');

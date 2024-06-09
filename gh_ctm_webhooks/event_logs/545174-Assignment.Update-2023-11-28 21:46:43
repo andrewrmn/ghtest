@@ -1,0 +1,462 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5669',
+  'Cf-Ray' => '82d5ce24e6a023c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Unit Information:
+   Radiology             Location: Doctors Regional             
+Address: 3315 S   Alameda Ave Corpus Christi,TX 78411
+         
+Floor: First
+             
+Building: Main   Hospital
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+   Number of Beds -3
+   
+ 
+
+
+
+
+
+
+   Number of Staff   3
+   
+ 
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+   Day Shift   3 X-ray Techs, 1   Transporter, 1 Secretary, 1 Manager
+   
+o
+
+   Night Shift   2 X-ray Techs, 1   Transporter
+   
+ 
+
+
+
+
+
+
+   Patient Ratios   N/A
+   
+ 
+
+
+
+
+
+
+   Type of equipment   Digital GE
+   
+ 
+
+
+
+
+
+
+   EMR -
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+ candidates   without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+   OR C-arm   cases 
+   
+ 
+
+
+
+
+
+
+   Fluoro   exams
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+   
+Trauma
+    
+
+
+
+
+
+
+   
+   List typical procedures performed on unit(s): 
+    
+
+
+
+
+
+
+   
+
+    
+
+
+
+
+
+
+   
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+   
+Self starter/team player
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+   CPR, TMB, ARRT(R)
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+   X-ray and OR
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+   Scrub Color/Attire -
+ Hunter green
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+   
+
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+   Rotating call, weekends a must
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 545174
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1303
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-05
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 28 2023 16:46:42
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=769917 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=DOCTORS REGIONAL MEDICAL CENTER ;City=Corpus Christi ;State=TX ;Zip=78411 ;Start=12/5/2023;End=2/20/2024;Duration=77;Cert=Rad Tech ;Specialty=Radiology ;Unit=GULF COAST DIVISION (14) ;Shift=7PM - 7AM;# of Postions=1;Type=Travel;BillRate=$85.00;OTRate=93 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Unit Information:
+   Radiology             Location: Doctors Regional             
+Address: 3315 S   Alameda Ave Corpus Christi,TX 78411
+         
+Floor: First
+             
+Building: Main   Hospital
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+   Number of Beds -3
+   
+ 
+
+
+
+
+
+
+   Number of Staff   3
+   
+ 
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+   Day Shift   3 X-ray Techs, 1   Transporter, 1 Secretary, 1 Manager
+   
+o
+
+   Night Shift   2 X-ray Techs, 1   Transporter
+   
+ 
+
+
+
+
+
+
+   Patient Ratios   N/A
+   
+ 
+
+
+
+
+
+
+   Type of equipment   Digital GE
+   
+ 
+
+
+
+
+
+
+   EMR -
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+ candidates   without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+   OR C-arm   cases 
+   
+ 
+
+
+
+
+
+
+   Fluoro   exams
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+   
+Trauma
+    
+
+
+
+
+
+
+   
+   List typical procedures performed on unit(s): 
+    
+
+
+
+
+
+
+   
+
+    
+
+
+
+
+
+
+   
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+   
+Self starter/team player
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+   CPR, TMB, ARRT(R)
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+   X-ray and OR
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+   Scrub Color/Attire -
+ Hunter green
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+   
+
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+   Rotating call, weekends a must
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/769917;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => Corpus Christi Medical Center - Doctors Regional Parallon Travel
+    [shiftDateEnd] => 2024-02-20
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

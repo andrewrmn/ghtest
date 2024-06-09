@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '890',
+  'Cf-Ray' => '829b9bd372ff183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 545426
+    [workerID] => 269382
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3338
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => Woodfield
+    [shiftNum] => 5
+    [workerFirstName] => Eric
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 21 2023 15:16:07
+    [daysPerWeek] => 3
+    [orderNote] => FTK: Kronos
+Chrg:P$1/B$3-OnCl:P$10/B$18
+Ornt:$20/NB:8hr
+BR:$85
+    [guaranteedMinimum] => 
+    [workerEmail] => eric.woodfield@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Terrebonne General Medical Center-Travel
+    [shiftDateEnd] => 2024-03-02
+    [shiftStartTime] => 18:45
+    [subjectID] => 
+)

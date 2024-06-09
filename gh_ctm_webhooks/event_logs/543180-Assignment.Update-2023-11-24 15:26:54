@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1553',
+  'Cf-Ray' => '82b2ac43d00c1466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:CONTRACT - CARDIAC CATH TECH (746) - 7AM-5PM
+ON CALL IS REQUIRED
+REQ:
+ RT or RCIS
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 543180
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5555
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Cath Lab Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 24 2023 10:26:13
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=769113 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=ROUND ROCK MEDICAL CENTER TX ;City=ROUND ROCK ;State=TX ;Zip=78681 ;Start=11/13/2023;End=2/5/2024;Duration=84;Cert=Cardiac Cath Lab Tech ;Specialty=Cardiac Cath Lab ;Unit=CENTRAL AND WEST TEXAS DIVISION (50) ;Shift=7:00AM - 5:00PM;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=98 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:CONTRACT - CARDIAC CATH TECH (746) - 7AM-5PM
+ON CALL IS REQUIRED
+REQ:
+ RT or RCIS
+ General Comments ;url=https://vendor.healthtrustws.com/positions/769113;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Round Rock Medical Center Travel
+    [shiftDateEnd] => 2024-03-03
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

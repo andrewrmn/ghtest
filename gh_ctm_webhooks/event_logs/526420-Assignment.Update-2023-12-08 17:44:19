@@ -1,0 +1,190 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6652',
+  'Cf-Ray' => '8326d0ce94696a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name
+
+5 East General Surgery - South - RN - Mercy Hospital South
+
+Organization
+
+Mercy
+
+Facility
+
+Mercy Hospital South
+
+Unit
+
+Surgical Unit
+
+Cost Center
+
+15-446041
+
+
+
+
+
+Shift
+
+night
+
+Shifts per week
+
+3
+
+Hours per shift
+
+12
+EXPERIENCE
+Years of Experience
+
+One Year Plus
+
+Specialties
+
+Med-Surg
+-
+required
+
+
+Technologies
+CERTIFICATIONS
+Certifications
+
+ACLS
+-
+preferred
+BLS
+-
+required
+TNCC
+-
+preferred
+
+DESCRIPTION
+Unit: 5 East Speciality: RN Location: Mercy South The RN is responsible for using the Nursing Process to meet the needs of patients according to the professional standards of nursing care.The RN assures that the philosophy, mission, goals and objectives, policies and procedures of the Nursing Department and Mercy Ozark are followed. The RN is responsible for the quality of care of patients; delegates appropriately and directs staff in the delivery of care; assumes responsibility for the appropriate utilization of resources; collaborates with medical staff and others in provision of care; is sensitive to the needs of patients, families and fellow co-workers, plans and provides professional nursing care for patients in accordance with age specific needs; plans and provides professional nursing care for patients in accordance with any identified cultural diversity needs (such as religions, lifestyles, beliefs, physical capabilities and cultures); plans and provides professional nursing care for patients by assuring approbate and effective pain management; assess, report and assist any patients that present with evidence of abuse and /or neglect; and supports the mission of MHTM. Co-workers are expected to abide by Mercy Ozark safety and infection control policies to maintain a safe environment for patients and co workers Competent to provide nursing services to the age of the specific population of assigned areas. Including Pediatric, Adolescent and Geriatric Patients, Special Care Unit Emergency Room, Endoscopy, PAR and may be asked to train for Surgery. Accompany critical patient transport with the EMS. Qualifications Education: Graduation from an approved school of nursing. Licensure: Current RN licensure by the Arkansas State Board of Nursing. Experience: Entry level. Certifications: BLS required on hire. ACLS, PALS, and TNCC required within 6 months of hire date.
+ General CommentsCrisis Credentialing will apply to this position.
+ If you have any questions or for further details, please follow up with the HWS Program Team
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 526420
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15624
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-25
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 08 2023 12:44:18
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=752486 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital South ;City=Saint Louis ;State=MO ;Zip=63128 ;Start=8/28/2023;End=11/27/2023;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=Mercy ;Shift=19:00-07:00;# of Postions=2;Type=Travel;BillRate=$80.00;minBillRate=$80.00;OTRate=88 ;CallbackRate=88 ;HolidayRate=88 ;Orientation=0 ;Description=Description:Name
+
+5 East General Surgery - South - RN - Mercy Hospital South
+
+Organization
+
+Mercy
+
+Facility
+
+Mercy Hospital South
+
+Unit
+
+Surgical Unit
+
+Cost Center
+
+15-446041
+
+
+
+
+
+Shift
+
+night
+
+Shifts per week
+
+3
+
+Hours per shift
+
+12
+EXPERIENCE
+Years of Experience
+
+One Year Plus
+
+Specialties
+
+Med-Surg
+-
+required
+
+
+Technologies
+CERTIFICATIONS
+Certifications
+
+ACLS
+-
+preferred
+BLS
+-
+required
+TNCC
+-
+preferred
+
+DESCRIPTION
+Unit: 5 East Speciality: RN Location: Mercy South The RN is responsible for using the Nursing Process to meet the needs of patients according to the professional standards of nursing care.The RN assures that the philosophy, mission, goals and objectives, policies and procedures of the Nursing Department and Mercy Ozark are followed. The RN is responsible for the quality of care of patients; delegates appropriately and directs staff in the delivery of care; assumes responsibility for the appropriate utilization of resources; collaborates with medical staff and others in provision of care; is sensitive to the needs of patients, families and fellow co-workers, plans and provides professional nursing care for patients in accordance with age specific needs; plans and provides professional nursing care for patients in accordance with any identified cultural diversity needs (such as religions, lifestyles, beliefs, physical capabilities and cultures); plans and provides professional nursing care for patients by assuring approbate and effective pain management; assess, report and assist any patients that present with evidence of abuse and /or neglect; and supports the mission of MHTM. Co-workers are expected to abide by Mercy Ozark safety and infection control policies to maintain a safe environment for patients and co workers Competent to provide nursing services to the age of the specific population of assigned areas. Including Pediatric, Adolescent and Geriatric Patients, Special Care Unit Emergency Room, Endoscopy, PAR and may be asked to train for Surgery. Accompany critical patient transport with the EMS. Qualifications Education: Graduation from an approved school of nursing. Licensure: Current RN licensure by the Arkansas State Board of Nursing. Experience: Entry level. Certifications: BLS required on hire. ACLS, PALS, and TNCC required within 6 months of hire date.
+ General CommentsCrisis Credentialing will apply to this position.
+ If you have any questions or for further details, please follow up with the HWS Program Team
+ No. of Positions: 2/2.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/752486;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital South - Travel
+    [shiftDateEnd] => 2024-03-25
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

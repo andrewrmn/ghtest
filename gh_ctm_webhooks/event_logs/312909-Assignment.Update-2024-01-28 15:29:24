@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2265',
+  'Cf-Ray' => '84ca454e73d81842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 11/16/2021 1448 CSTJackie Pittmann
+                            
+                            
+                                $165 36 or 48 hours. 2 years exp. Cerner exp a plus. All travelers must be willing to float. Must be vaccinated.All candidates must be fully vaccinated with COVID 19 and Flu prior to submission and must include proof of both in submission packets.
+ RatePlan:AH-Covid 19 RN rates (8-25-2021)
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 312909
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9548
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-12-06
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => January, 28 2024 10:29:16
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;SourceID=9572609 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Hays Medical Center ;City=Kyle ;State=TX ;Zip=78640 ;Start=12/6/2021;End=3/5/2022;Duration=90;Cert=RN ;Specialty=ICU ;Unit=SMCH Neonatal ;Shift=NOC;# of Postions=1;Type=Travel;BillRate=$165.00;minBillRate=$165.00;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=11/16/2021 1448 CSTJackie Pittmann
+                            
+                            
+                                $165 36 or 48 hours. 2 years exp. Cerner exp a plus. All travelers must be willing to float. Must be vaccinated.All candidates must be fully vaccinated with COVID 19 and Flu prior to submission and must include proof of both in submission packets.
+ RatePlan:AH-Covid 19 RN rates (8-25-2021) ;url=https://automated.shiftwise.net/esp/order.aspx?order_id=C26F5E8050212A4049372A5B07821BC4;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 165
+    [facilityName] => Ascension Seton Hays
+    [shiftDateEnd] => 2022-03-05
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

@@ -1,0 +1,70 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '21',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1464',
+  'Cf-Ray' => '82d47c75a3274941-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => School
+    [assignmentid] => 540023
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Contract
+    [hoursPerWeek] => 37.5
+    [facilityID] => 16142
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-13
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Paraprofessional
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 28 2023 12:56:11
+    [daysPerWeek] => 5
+    [orderNote] => Gulf Gate Elementary	Sarasota, FL	ESE Pre-K Aide (Health Needs)	PK	 
+Fruitville Elementary	Sarasota, FL	ESE Aide- ASD	PK	 
+Fruitville Elementary	Sarasota, FL	ESE Aide- ASD	K-1st	 
+Fruitville Elementary	Sarasota, FL	ESE Aide- ASD	2nd-3rd	 
+Fruitville Elementary	Sarasota, FL	ESE Aide- ASD (1:1)	5th	 
+Laurel Nokomis School	Nokomis, FL	Paraprofessional Behavior Tech - ASD	PK-5	 
+Garden Elementary	Venice, FL	ESE Aide- EBD	K-3rd	 
+Wilkinson Elementary	Sarasota, FL	ESE Aide- EBD	Intermediate	 
+Wilkinson Elementary	Sarasota, FL	ESE Aide- EBD	Intermediate	 
+Cranberry Elementary	North Port, FL	ESE Aide	3rd
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 38
+    [facilityName] => Sarasota County Schools
+    [shiftDateEnd] => 2024-05-23
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

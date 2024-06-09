@@ -1,0 +1,92 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3596',
+  'Cf-Ray' => '82b30d07d45023c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+DeTar Healthcare System
+Shift: TBDStart: ASAPRate: $100parseGeneralComments Comments
+.bd_title { font-weight: bold }
+Reason for opening (special, internal vacancy, leave coverage) 
+          		******************************************************************************* 
+          		How long has it been open? 
+          		Will position be required to float to other units? 
+          		Number of beds in your facility? 
+          		Years of experience required? 
+          		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) 
+          		Willing to review clinicians with pending state license? 
+          		Is there anyone in the past that has worked for you that you would consider rehiring? 
+          		What is the work schedule for this position? (days needed, hours or shift) 
+			EMR for your facility: 
+          		Scrub colors / dress code: 
+			Parking location:  Contact: Yudline Baronville Resource Manager: Victoria Escamilla
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 383515
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9491
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-06-06
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 24 2023 11:32:48
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=613348 ;Status=Open;Association=CHS ;Client=DeTar Healthcare System ;City=Victoria ;State=TX ;Zip=77904 ;Start=6/6/2022;End=9/5/2022;Duration=91;Cert=CHS Travel:Registered Nurse (RN) / Medical Surgical## (613348) ;Specialty=1001: MED/SURG (UNIT/FLOOR 6) ;Unit=MED/SURG (UNIT/FLOOR 6) ;Shift=TBDStart: ASAPRate: $100;# of Postions=1;Type=Travel;BillRate=$100.00;minBillRate=$100.00;Description=Position Description
+DeTar Healthcare System
+Shift: TBDStart: ASAPRate: $100parseGeneralComments Comments
+.bd_title { font-weight: bold }
+Reason for opening (special, internal vacancy, leave coverage) 
+          		******************************************************************************* 
+          		How long has it been open? 
+          		Will position be required to float to other units? 
+          		Number of beds in your facility? 
+          		Years of experience required? 
+          		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) 
+          		Willing to review clinicians with pending state license? 
+          		Is there anyone in the past that has worked for you that you would consider rehiring? 
+          		What is the work schedule for this position? (days needed, hours or shift) 
+			EMR for your facility: 
+          		Scrub colors / dress code: 
+			Parking location:  Contact: Yudline Baronville Resource Manager: Victoria Escamilla ;Buyer=Yudline Baronville ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=613348#!/position/manage/613348;VMSPositionType=Travel minPayRate=$100.00;maxPayRate=$100.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => DeTar Hospital - North 
+    [shiftDateEnd] => 2022-09-05
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,102 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6221',
+  'Cf-Ray' => '8316afbad1c277bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:Conducts procedures and tests using Computerized Tomography (CT) equipment to acquire and analyze patient
+diagnostic data.
+Complete Description:Patient Identification- Uses professional manners and methods, verifies patient identification, obtains patient
+history, assists patients and family members that require extra attention, insures patient understanding whenever possible, and insures patient safety. Verifies patient identification, asks and documents pregnancy status on patients
+of child bearing age. CT Scans- Obtains images per protocols, manipulates images according to protocols, performs multi-planar and 3D
+reconstruction of image data, demonstrates a thorough knowledge of CT algorithms, and selects appropriate window and level setting according to anatomy. Contrast- Administers oral contrast to adult and pediatric patients according to protocols, establishes intravenous lines, administers IV contrast following safe and proper injection procedures, follows correct procedure to determine contrast eligibility, checks appropriate lab values before contrast injection per protocol. Image Transfer- Maintains thorough understanding of PACS, and transmits images to QC, UNCH s EMR, EPIC and PACS, verifies and segments images at the QC station, accesses IMPAX service tools to verify images transmission, completes, modifies and/or cancels orders in an appropriate and timely manner, cancels duplicate orders to avoid duplicate billing. Insures that all charge information is accurate. Verifies patient identification in accordance with UNC policy, insures that all appropriate demographic information is accurate and on the PACS images. Other Duties- Performs task in a timely manner, runs the schedule creating a consistent workflow, volunteers to work on challenging tasks, difficult procedures and new research, produces quality diagnostic images, reviews patient's chart and reports for correlation, maintains a clean and orderly work environment, creates and keeps documentation of incidents as improvement opportunities for employees and the department. Precept new
+employees and students.
+Requisition Comments:Client offer
+
+Must include RTO in submittal in order to be honored at time of offer!
+Scheduling Details:Wed-Thu-Fri 1500-0330
+
+Weekend Requirements: None
+Holidays: EOH
+
+On Call Requirements: None
+
+EPIC and Siemans CT Experience Required.
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 546101
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10747
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 03:00
+    [whenmodified] => December, 06 2023 13:45:31
+    [daysPerWeek] => 3
+    [orderNote] => Source=PeopleFluent;SourceID=725385 ;Status=Open;Association=Rex CT Scan, 103 - 330408 - 1100 ;Client=UNC Health ;Start=1/8/2024;End=4/6/2024;Duration=89;Cert=CT Technologist ;Specialty=CT Tech ;Unit=CT Technologist -Mids- UNC Rex CT Scan ;Shift=3x12.0 Wed-Thu-Fri 1500-0330
+
+Weekend Requirements: None
+Holidays: EOH
+
+On Call Requirements: None
+
+EPIC and Siemans CT Experience Required.;# of Postions=1;Type=Travel;BillRate=$90.00;Description=Short Description:Conducts procedures and tests using Computerized Tomography (CT) equipment to acquire and analyze patient
+diagnostic data.
+Complete Description:Patient Identification- Uses professional manners and methods, verifies patient identification, obtains patient
+history, assists patients and family members that require extra attention, insures patient understanding whenever possible, and insures patient safety. Verifies patient identification, asks and documents pregnancy status on patients
+of child bearing age. CT Scans- Obtains images per protocols, manipulates images according to protocols, performs multi-planar and 3D
+reconstruction of image data, demonstrates a thorough knowledge of CT algorithms, and selects appropriate window and level setting according to anatomy. Contrast- Administers oral contrast to adult and pediatric patients according to protocols, establishes intravenous lines, administers IV contrast following safe and proper injection procedures, follows correct procedure to determine contrast eligibility, checks appropriate lab values before contrast injection per protocol. Image Transfer- Maintains thorough understanding of PACS, and transmits images to QC, UNCH s EMR, EPIC and PACS, verifies and segments images at the QC station, accesses IMPAX service tools to verify images transmission, completes, modifies and/or cancels orders in an appropriate and timely manner, cancels duplicate orders to avoid duplicate billing. Insures that all charge information is accurate. Verifies patient identification in accordance with UNC policy, insures that all appropriate demographic information is accurate and on the PACS images. Other Duties- Performs task in a timely manner, runs the schedule creating a consistent workflow, volunteers to work on challenging tasks, difficult procedures and new research, produces quality diagnostic images, reviews patient's chart and reports for correlation, maintains a clean and orderly work environment, creates and keeps documentation of incidents as improvement opportunities for employees and the department. Precept new
+employees and students.
+Requisition Comments:Client offer
+
+Must include RTO in submittal in order to be honored at time of offer!
+Scheduling Details:Wed-Thu-Fri 1500-0330
+
+Weekend Requirements: None
+Holidays: EOH
+
+On Call Requirements: None
+
+EPIC and Siemans CT Experience Required. ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=725385;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => UNC REX Healthcare TRAVEL
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

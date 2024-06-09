@@ -1,0 +1,103 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2537',
+  'Cf-Ray' => '82c31d59c3cc6a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:Medical Acute Care unit located on 6th floor of Wayne UNC Health Care in Goldsboro NC
+Ratio is 1 to 5/6
+Complete Description:
+Requisition Comments:Accepting local travelers 50 miles or closer offered at $75
+
+Lotus Offers! Fast Offers! 
+Candidate will NOT interview
+
+Must include RTO in submittal in order to be honored at time of offer
+
+Traveler is expected to float to like acuities or less if needed
+Scheduling Details:3x12's or 4x12,PM,7p-7a
+
+EOW/EOH
+
+block scheduling accepted
+
+*Must have Telemetry exp
+travel experience preferred/EPIC Preferred
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544898
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9445
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 26 2023 10:20:18
+    [daysPerWeek] => 3
+    [orderNote] => Source=PeopleFluent;SourceID=725049 ;Status=Open;Association=Medical Unit - 6th Floor ;Client=UNC Health ;Start=11/27/2023;End=2/24/2024;Duration=89;Cert=RN ;Specialty=Med/Surg ;Unit=RN - Med Surg/Tele (6th floor) - Nights - Wayne UNC Health Care ;Shift=4x12.0 3x12's or 4x12,PM,7p-7a
+
+EOW/EOH
+
+block scheduling accepted
+
+*Must have Telemetry exp
+travel experience preferred/EPIC Preferred;# of Postions=1;Type=Travel;BillRate=$85.00;Description=Short Description:Medical Acute Care unit located on 6th floor of Wayne UNC Health Care in Goldsboro NC
+Ratio is 1 to 5/6
+Complete Description:
+Requisition Comments:Accepting local travelers 50 miles or closer offered at $75
+
+Lotus Offers! Fast Offers! 
+Candidate will NOT interview
+
+Must include RTO in submittal in order to be honored at time of offer
+
+Traveler is expected to float to like acuities or less if needed
+Scheduling Details:3x12's or 4x12,PM,7p-7a
+
+EOW/EOH
+
+block scheduling accepted
+
+*Must have Telemetry exp
+travel experience preferred/EPIC Preferred ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=725049;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Wayne UNC Health Care TRAVEL
+    [shiftDateEnd] => 2024-03-15
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

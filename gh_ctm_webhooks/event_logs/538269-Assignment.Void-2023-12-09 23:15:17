@@ -1,0 +1,148 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4434',
+  'Cf-Ray' => '8330f2feb51d4951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name PICC Team - Mercy Hospital Joplin - RN - Mercy Hospital Joplin
+  
+Mercy Hospital Joplin
+  
+Unit Vascular Access Team
+  
+Cost Center 50-456230
+  
+Role RN
+  SHIFT INFO  
+Shift Day
+  
+Shifts per week 3
+  
+Hours per shift 12
+  EXPERIENCE  
+Years of Experience One Year Plus
+  
+Vascular Access
+ 
+preferred
+  CERTIFICATIONS  
+Certifications
+  
+BLS
+ 
+required
+  DESCRIPTION  
+The Vascular Access Nurse is responsible for using the Nursing Process to meet the needs of patients according to professional standards of nursing care. This Registered Nurse has been trained and is credentialed to successfully insert midline catheters, Accu catheters, and ultrasound guided peripherally inserted catheter under the guidelines of an approved Peripherally Inserted Central Catheter education course. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards.
+  
+  Approved Assignment Details:    Flexible      contract
+length
+- 8-26 weeks
+  Flexible      Guaranteed Hours - 36 or 48 hours
+  
+Blocked      scheduling would need facility approval  
+
+
+
+ We will still need confirmation      within 5 days of offer
+  RTO of      5 days or less, must make up the week on the back end
+
+  If      requesting any of the above, it must be listed on Mercy Submission      Form
+ General Comments
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 538269
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8970
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 09 2023 18:15:14
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=769841 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Joplin ;City=Joplin ;State=MO ;Zip=64804 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=RN ;Specialty=PICC ;Unit=Mercy ;Shift=07:00-19:30;# of Postions=1;Type=Travel;BillRate=$80.00;minBillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Name PICC Team - Mercy Hospital Joplin - RN - Mercy Hospital Joplin
+  
+Mercy Hospital Joplin
+  
+Unit Vascular Access Team
+  
+Cost Center 50-456230
+  
+Role RN
+  SHIFT INFO  
+Shift Day
+  
+Shifts per week 3
+  
+Hours per shift 12
+  EXPERIENCE  
+Years of Experience One Year Plus
+  
+Required Experience:
+midline catheters, Accu catheters, and ultrasound guided peripherally inserted catheter under the guidelines of an approved Peripherally Inserted Central Catheter education course. 
+  CERTIFICATIONS  
+Certifications
+  
+BLS
+ 
+required
+  DESCRIPTION  
+The Vascular Access Nurse is responsible for using the Nursing Process to meet the needs of patients according to professional standards of nursing care. This Registered Nurse has been trained and is credentialed to successfully insert midline catheters, Accu catheters, and ultrasound guided peripherally inserted catheter under the guidelines of an approved Peripherally Inserted Central Catheter education course. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards.
+  
+  Approved Assignment Details:    Flexible      contract
+length
+- 8-26 weeks
+  Flexible      Guaranteed Hours - 36 or 48 hours
+  
+Blocked      scheduling would need facility approval  
+
+
+
+ We will still need confirmation      within 5 days of offer
+  RTO of      5 days or less, must make up the week on the back end
+
+  If      requesting any of the above, it must be listed on Mercy Submission      Form
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/769841;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital Joplin - TRAVEL
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

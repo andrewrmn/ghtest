@@ -1,0 +1,69 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1587',
+  'Cf-Ray' => '82d333b920ea23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:CONTRACT - VASCULAR DIAGNOSTIC (743) - 7A-7P
+ON CALL REQ
+RVT or RVS Certified
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Vascular
+    [assignmentid] => 545119
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5423
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Ultrasound Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 28 2023 09:11:46
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=776862 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=LAS PALMAS MEDICAL CENTER El Paso ;City=El Paso ;State=TX ;Zip=79902 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Vascular Tech ;Specialty=Radiology ;Unit=CENTRAL AND WEST TEXAS DIVISION (50) ;Shift=7A-7P;# of Postions=1;Type=Travel;BillRate=$85.00;OTRate=93 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:CONTRACT - VASCULAR DIAGNOSTIC (743) - 7A-7P
+ON CALL REQ
+RVT or RVS Certified
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/776862;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Las Palmas Medical Center Travel
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

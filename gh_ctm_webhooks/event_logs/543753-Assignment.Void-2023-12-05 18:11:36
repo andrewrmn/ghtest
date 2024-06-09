@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2030',
+  'Cf-Ray' => '830e40a7f2c31838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Experience with Allscripts or another EMR systemTraveler must live 150 miles or more  from our facilities in order to be considered??   Additional Information:Traveler must live 150 miles or more  from our facilities in order to be considered   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543753
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2475
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 05 2023 13:11:36
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261525 ;Status=Open;Association=Hendrick Health System ;Client=Hendrick Health System ;City=Abilene ;State=TX ;Zip=79601 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Nursing ;Specialty=Telemetry Nurse, Observation, Med-surg Adult ;Unit=Telemetry Nurse, Observation, Med-surg Adult ;Shift=7p-7a;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$90.00;OTRate=100 ;OTRules=By The Week, after 40, ;CallbackRate=100 (All Inclusive Rate + $10) ;HolidayRate=100 (All Inclusive Rate + $10) ;OnCallRateDescription=$5 per hour pager ;Description=Experience with Allscripts or another EMR systemTraveler must live 150 miles or more  from our facilities in order to be considered??   Additional Information:Traveler must live 150 miles or more  from our facilities in order to be considered   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261525;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Hendrick Medical Center Travel
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

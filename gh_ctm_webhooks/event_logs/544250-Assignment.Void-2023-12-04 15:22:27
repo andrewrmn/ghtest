@@ -1,0 +1,117 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7507',
+  'Cf-Ray' => '83050b7e03c41838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => OR CST
+Start date: 12/28/23
+Shift: 3x12 mids, 1030a-11p
+Weekend Requirement: up to 2 weekend call shifts per 4 weeks
+Holiday rotation
+Is on-call REQ? same as above. up to 2 weekend call shifts per 4 weeks
+# of OR s: 21
+Years of experience REQ: 2 years
+Experience strongly preferred: Level 1 trauma
+First-timers accepted: yes
+National Certs REQ: NBSTSA, BLS,  **radiation badge must be provided by agency**
+Open to accommodating block schedule? -per manager's discretion
+Locals accepted: (Y/N) What is the local radius rule? yes, 50 miles
+RTO Restrictions: all RTO must be provided at the time of submission. Approvals based on dept needs
+Facility able to call off traveler 12 hours per 2 weeks
+Preferred: Epic
+
+The Main Operating Room is within a level-one, academic trauma center. There are 21- OR suites which cover all surgical specialties, to include; Trauma, Transplant, Ortho, Neuro, ENT, GU-GYN, and Robotics. The nursing teams consists of 75% Registered Nurses and 25% Certified Surgical Technologist. RN s are trained to both scrub and circulate surgical procedures. The Main OR is a busy and dynamic nurse driven, Magnet designated department, that provides cutting-edge technology to the citizens of SC.
+
+Parking Cost: Nights and wekeends only. One time payment of $20 for parking pass
+
+*Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+
+ Modified Time:12/18/2023 5:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal radius: 50 miles. Locals accepted on a case by case basis at lower ratePerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 544250
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3712
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => December, 04 2023 10:22:26
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2310352 ;Status=Open;Association=Qualivis MSP ;Client=MUSC Health Charleston ;City=Charleston ;State=SC ;Zip=29425 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Surgical Services ;Specialty=Certified OR Tech / Surgical Tech (CST) ;Unit=CST CHS OR Main (Main)      , CC000567 ;Shift=Day 3x12-Hour (10:30 - 23:00);# of Postions=1;Type=Travel;BillRate=$55.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=OR CST
+Start date: 12/18/23
+Shift: 3x12 mids, 1030a-11p
+Weekend Requirement: up to 2 weekend call shifts per 4 weeks
+Holiday rotation
+Is on-call REQ? same as above. up to 2 weekend call shifts per 4 weeks
+# of OR s: 21
+Years of experience REQ: 2 years
+Experience strongly preferred: Level 1 trauma
+First-timers accepted: yes
+National Certs REQ: NBSTSA, BLS,  **radiation badge must be provided by agency**
+Open to accommodating block schedule? -per manager's discretion
+Locals accepted: (Y/N) What is the local radius rule? yes, 50 miles
+RTO Restrictions: all RTO must be provided at the time of submission. Approvals based on dept needs
+Facility able to call off traveler 12 hours per 2 weeks
+Preferred: Epic
+
+The Main Operating Room is within a level-one, academic trauma center. There are 21- OR suites which cover all surgical specialties, to include; Trauma, Transplant, Ortho, Neuro, ENT, GU-GYN, and Robotics. The nursing teams consists of 75% Registered Nurses and 25% Certified Surgical Technologist. RN s are trained to both scrub and circulate surgical procedures. The Main OR is a busy and dynamic nurse driven, Magnet designated department, that provides cutting-edge technology to the citizens of SC.
+
+Parking Cost: Nights and wekeends only. One time payment of $20 for parking pass
+
+ Modified Time:12/18/2023 12:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal radius: 50 miles. Locals accepted on a case by case basis at lower ratePerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2310352/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 55
+    [facilityName] => MUSC- Medical Center
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

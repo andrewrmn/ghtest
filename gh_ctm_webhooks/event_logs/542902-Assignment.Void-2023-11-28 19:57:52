@@ -1,0 +1,483 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8517',
+  'Cf-Ray' => '82d52eb1f2a723c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Hospital:
+ Overland   Park Regional             Location:              
+Address:
+         
+Unit Name: Progressive   Care Unit
+             
+Building: 
+         
+Cost Center:63122
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds : 18 
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios : 1:4-5
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) :We use 2 PCT s and 1 Unit secretary 
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment :Alaris pumps,   kangaroo pump, Pxysis, computers available in every room 
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: Self   scheduling   to include 3 weekend shifts per 4 weeks schedule 
+   
+ 
+
+
+
+
+
+
+
+   On Call Requirements: none
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: 1. Travelers, 2. PRN   staff, 3. Date last floated 
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements: We   are working on nurse s courtesy and respect, and working together as a team   to care for patients 
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:   ACLS, BLS 
+             Hiring profile             Requested Skill Set:   
+   
+Must have: ACLS, BLS, NIH 
+   
+   
+
+
+   Advanced skills needed:    
+The   Telemetry &amp; Pulm Step Down Unit (Tele/Pulm) cares for patients with   moderate physiologic instability requiring support. Examples include COPD   exacerbation, pneumonia, CHF &amp; trach patients. Tele/Pulm patients are   hemodynamically stable that require cardiac &amp; respiratory monitoring   &amp; management every 2-4 hours. The level of care of the Tele/Pulm unit   requires less care than the ICU but more than that which is provided in the   Medical/Surgical Units. This unit specializes in the care of cardiac and   pulmonary patients.
+   
+
+
+   Procedures performed on unit: 
+   
+
+
+   
+Oxygen therapy to include:
+   
+Nasal   Cannula: All
+   
+BIPAP/CPAP:   up to 80%
+ 
+   
+AirVo:   Low Flo
+   
+   Nursing Interventions:   
+At   least every 3-4 hours
+   
+
+
+   
+Vital Signs:
+   
+Every   4 hours
+   
+Continuous   cardiac monitoring
+   
+
+
+   
+Blood Glucose Monitoring:
+   
+Every   4 hours
+   
+
+
+   
+Neurological monitoring:
+   
+Any   frequency
+   
+NIHSS
+   
+
+
+   Certifications Required: ACLS, BLS, NIH    
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   
+Royal Blue 
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   See Tele unit   specific standards of care
+   
+ 
+
+
+
+
+
+
+
+   See Tele nurse   performance Expectations 
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.
+ General Comments
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 542902
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2998
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 28 2023 14:57:51
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=740099 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=OVERLAND PARK REGIONAL MEDICAL CENTER KS ;City=Overland Park ;State=KS ;Zip=66215 ;Start=8/29/2023;End=11/28/2023;Duration=91;Cert=RN ;Specialty=PCU ;Unit=MIDAMERICA DIVISION (48) ;Shift=7:00PM-7:00AM;# of Postions=2;Type=Travel;BillRate=$80.00;OTRate=88 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Hospital:
+ Overland   Park Regional             Location:              
+Address:
+         
+Unit Name: Progressive   Care Unit
+             
+Building: 
+         
+Cost Center:63122
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds : 18 
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios : 1:4-5
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) :We use 2 PCT s and 1 Unit secretary 
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment :Alaris pumps,   kangaroo pump, Pxysis, computers available in every room 
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: Self   scheduling   to include 3 weekend shifts per 4 weeks schedule 
+   
+ 
+
+
+
+
+
+
+
+   On Call Requirements: none
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: 1. Travelers, 2. PRN   staff, 3. Date last floated 
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements: We   are working on nurse s courtesy and respect, and working together as a team   to care for patients 
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:   ACLS, BLS 
+             Hiring profile             Requested Skill Set:   
+   
+Must have: ACLS, BLS, NIH 
+   
+   
+
+
+   Advanced skills needed:    
+The   Telemetry &amp; Pulm Step Down Unit (Tele/Pulm) cares for patients with   moderate physiologic instability requiring support. Examples include COPD   exacerbation, pneumonia, CHF &amp; trach patients. Tele/Pulm patients are   hemodynamically stable that require cardiac &amp; respiratory monitoring   &amp; management every 2-4 hours. The level of care of the Tele/Pulm unit   requires less care than the ICU but more than that which is provided in the   Medical/Surgical Units. This unit specializes in the care of cardiac and   pulmonary patients.
+   
+
+
+   Procedures performed on unit: 
+   
+
+
+   
+Oxygen therapy to include:
+   
+Nasal   Cannula: All
+   
+BIPAP/CPAP:   up to 80%
+ 
+   
+AirVo:   Low Flo
+   
+   Nursing Interventions:   
+At   least every 3-4 hours
+   
+
+
+   
+Vital Signs:
+   
+Every   4 hours
+   
+Continuous   cardiac monitoring
+   
+
+
+   
+Blood Glucose Monitoring:
+   
+Every   4 hours
+   
+
+
+   
+Neurological monitoring:
+   
+Any   frequency
+   
+NIHSS
+   
+
+
+   Certifications Required: ACLS, BLS, NIH    
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   
+Royal Blue 
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   See Tele unit   specific standards of care
+   
+ 
+
+
+
+
+
+
+
+   See Tele nurse   performance Expectations 
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.
+ General Comments ;url=https://vendor.healthtrustws.com/positions/740099;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Overland Park Regional Medical Center
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

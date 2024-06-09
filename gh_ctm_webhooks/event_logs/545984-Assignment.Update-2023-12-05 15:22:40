@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '126',
+  'Ki-Request-Colo' => '612',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2510',
+  'Cf-Ray' => '830d4930466e232e-ORD',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13-week assignment for ICU Need 2 years  experience as an ICU nurse. 66 hours guaranteed, if schedules more than 72 hours in two-week cycle can be subject to being placed on call if census drops. ICU staff nurse 1:2 ratios, also float to a stepdown unit of 1:5 ratios, Open heart recovery experience is a plus, we support Neuro, Cardiac, Surgical, Medical, patients in a split ICU with 14 beds and 12 beds, Night shift position.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 545984
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2896
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 06:30
+    [whenmodified] => December, 05 2023 10:22:39
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262169 ;Status=Open;Association=Comanche County Memorial Hospital ;Client=Comanche County Memorial Hospital ;City=Lawton ;State=OK ;Zip=73505 ;Start=12/12/2023;End=3/12/2024;Duration=91;Cert=Nursing ;Specialty=Neurology ICU, MICU, Intensive Care / Coronary Nurse (ICU), CVICU, Critical Care (CCU), Cardiovascular ICU ;Unit=Neurology ICU, MICU, Intensive Care / Coronary Nurse (ICU), CVICU, Critical Care (CCU), Cardiovascular ICU ;Shift=1800 to 0630;# of Postions=2;Guaranteed Hours=33;Type=Travel;BillRate=$85.00;OTRate=85 ;OTRules=By The Week, after 40, ;CallbackRate=85 (All Inclusive Rate) ;HolidayRate=85 (All Inclusive Rate) ;OnCallRateDescription=$2 per hour pager ;Description=13-week assignment for ICU Need 2 years  experience as an ICU nurse. 66 hours guaranteed, if schedules more than 72 hours in two-week cycle can be subject to being placed on call if census drops. ICU staff nurse 1:2 ratios, also float to a stepdown unit of 1:5 ratios, Open heart recovery experience is a plus, we support Neuro, Cardiac, Surgical, Medical, patients in a split ICU with 14 beds and 12 beds, Night shift position.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262169;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Comanche County Memorial Hospital
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 18:00
+    [subjectID] => 
+)

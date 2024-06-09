@@ -1,0 +1,660 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '9839',
+  'Cf-Ray' => '82b2ab7286ba1842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Menorah Medical Center
+
+5721 W 119th St
+
+Overland Park, KS 66209
+
+Facility Overview:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Menorah Medical Center was first known as the Jewish Memorial Hospital and opened its doors to the community on September 7, 1931, filling the need for more and improved hospital facilities in Kansas City following World War I. Construction began on March 24, 1930 and was complete 18 months later at a seven acre site just south of Brush Creek in Kansas City, Missouri. The total cost of the original hospital was $1,275,000.00 and the total size was 97, 980 square feet. Renamed Menorah Hospital shortly after opening, the new facility quickly established a reputation for quality medical treatment and a caring approach to all who came through its doors.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+In 1945, plans were announced for a new addition. In 1951, 124 beds and new technology were opened in a new four-story structure. Along with these improvements, the hospital was renamed Menorah Medical Center to more accurately reflect its position in the community. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ A decade later another expansion provided an additional 153 private patient rooms plus expanded ancillary support. The six-story Menorah Tower was a five-year project, which increased patient care capacity 30% to a total of 430 beds. Menorah was growing its capabilities to serve patients and their families more efficiently and with greater comfort.
+
+
+
+
+
+
+Facts about Menorah Medical CenterDirectionsPatient StoriesThing to do in Overland Park KS
+ General CommentsUnit Information: ONOGS MED-SURG             Location: Menorah Medical Center             
+Address:5721 W.   119th ST Overland Park, KS 66209
+         
+Floor: 3rd   floor
+             
+Building: A
+         
+614
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+   Number of Beds - 32
+   
+ 
+
+
+
+
+
+   Number of Staff   49
+   
+ 
+
+
+
+
+
+   Type of staff:
+   
+o
+
+   Day Shift   (1 charge; 6-8 RN s; 4 PCT s; 1 unit secretary)
+   
+o
+
+   Night Shift   1 charge; 6-8 RN s; 4   PCT s; 1 unit secretary until 10 pm
+   
+ 
+
+
+
+
+
+   Patient Ratios   1:4 TPC; 1:5 with   PCT- can go up to 6 patients with PCT at times
+   
+ 
+
+
+
+
+
+   Type of equipment   Welch Allens 
+   
+ 
+
+
+
+
+
+   EMR -Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+ 
+BLS
+   
+ 
+
+
+
+
+
+ 
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+ 
+ACLS or   PALS
+   
+ 
+
+
+
+
+
+ 
+Basic   Dysthymia class
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+ 
+
+Total   joint replacements
+   
+ 
+
+
+
+
+
+ 
+Complex   spine care
+   
+ 
+
+
+
+
+
+ Complex neuro surgery cases
+   
+ 
+
+
+
+
+
+ General Surgery
+   Best personality Fit:   
+ 
+
+
+
+
+
+   
+Very team oriented- very fast   paced floor 
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+   
+
+   Floating Area(s):   
+ 
+
+
+
+
+
+   Med/tele; Surgical Specialty floor
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+   Scrub Color/Attire -
+ Royal blue top and bottom and/or could have   black scrub bottoms
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+ 
+
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+ Rotate   every 3rd weekend; nights can be either Friday/Saturday/Sunday
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 542802
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6124
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 24 2023 10:25:56
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=700081 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=MENORAH MEDICAL CENTER KS ;City=Overland Park ;State=KS ;Zip=66209 ;Start=4/16/2023;End=7/16/2023;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=MIDAMERICA DIVISION (48) ;Shift=7:00PM-7:00AM;# of Postions=2;Type=Travel;BillRate=$75.00;OTRate=83 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:Menorah Medical Center
+
+5721 W 119th St
+
+Overland Park, KS 66209
+
+Facility Overview:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Menorah Medical Center was first known as the Jewish Memorial Hospital and opened its doors to the community on September 7, 1931, filling the need for more and improved hospital facilities in Kansas City following World War I. Construction began on March 24, 1930 and was complete 18 months later at a seven acre site just south of Brush Creek in Kansas City, Missouri. The total cost of the original hospital was $1,275,000.00 and the total size was 97, 980 square feet. Renamed Menorah Hospital shortly after opening, the new facility quickly established a reputation for quality medical treatment and a caring approach to all who came through its doors.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+In 1945, plans were announced for a new addition. In 1951, 124 beds and new technology were opened in a new four-story structure. Along with these improvements, the hospital was renamed Menorah Medical Center to more accurately reflect its position in the community. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ A decade later another expansion provided an additional 153 private patient rooms plus expanded ancillary support. The six-story Menorah Tower was a five-year project, which increased patient care capacity 30% to a total of 430 beds. Menorah was growing its capabilities to serve patients and their families more efficiently and with greater comfort.
+
+
+
+
+
+
+Facts about Menorah Medical CenterDirectionsPatient StoriesThing to do in Overland Park KS
+ General CommentsUnit Information: ONOGS MED-SURG             Location: Menorah Medical Center             
+Address:5721 W.   119th ST Overland Park, KS 66209
+         
+Floor: 3rd   floor
+             
+Building: A
+         
+614
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+   Number of Beds - 32
+   
+ 
+
+
+
+
+
+   Number of Staff   49
+   
+ 
+
+
+
+
+
+   Type of staff:
+   
+o
+
+   Day Shift   (1 charge; 6-8 RN s; 4 PCT s; 1 unit secretary)
+   
+o
+
+   Night Shift   1 charge; 6-8 RN s; 4   PCT s; 1 unit secretary until 10 pm
+   
+ 
+
+
+
+
+
+   Patient Ratios   1:4 TPC; 1:5 with   PCT- can go up to 6 patients with PCT at times
+   
+ 
+
+
+
+
+
+   Type of equipment   Welch Allens 
+   
+ 
+
+
+
+
+
+   EMR -Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+ 
+BLS
+   
+ 
+
+
+
+
+
+ 
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+ 
+ACLS or   PALS
+   
+ 
+
+
+
+
+
+ 
+Basic   Dysthymia class
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+ 
+
+Total   joint replacements
+   
+ 
+
+
+
+
+
+ 
+Complex   spine care
+   
+ 
+
+
+
+
+
+ Complex neuro surgery cases
+   
+ 
+
+
+
+
+
+ General Surgery
+   Best personality Fit:   
+ 
+
+
+
+
+
+   
+Very team oriented- very fast   paced floor 
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+   
+
+   Floating Area(s):   
+ 
+
+
+
+
+
+   Med/tele; Surgical Specialty floor
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+   Scrub Color/Attire -
+ Royal blue top and bottom and/or could have   black scrub bottoms
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+ 
+
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+ Rotate   every 3rd weekend; nights can be either Friday/Saturday/Sunday ;url=https://vendor.healthtrustws.com/positions/700081;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Menorah Medical Center
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

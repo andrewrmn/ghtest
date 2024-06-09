@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '912',
+  'Cf-Ray' => '8315f496e27f23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Bill Rate Change to $120.00 - Effective 11/26.
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 529299
+    [workerID] => 238466
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 36
+    [facilityID] => 15898
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-29
+    [workerLastName] => Profitt
+    [shiftNum] => 4
+    [workerFirstName] => Deanna
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 06 2023 11:37:46
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION 
+BR:$120lRS:134169lFTK:GiftedTC/Kronos
+    [guaranteedMinimum] => 
+    [workerEmail] => profitd082@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 120
+    [facilityName] => Brookdale Hospital Medical Center (RS)
+    [shiftDateEnd] => 2023-12-30
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

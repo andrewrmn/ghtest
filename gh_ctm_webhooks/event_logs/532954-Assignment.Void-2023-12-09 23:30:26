@@ -1,0 +1,537 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '27',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6849',
+  'Cf-Ray' => '8331092d17714959-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN FSED
+13 WEEKS
+7:00PM- 7:00AM
+
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTING
+BLS REQUIRED
+ General CommentsUnit Information:
+   CT Department- Radiology             Location: Lewis Gale Medical Center             
+Address: 1900 Electric Road, Salem, VA 24153
+         
+Floor: Basement
+             General Information             Tell us about the   unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   - 506
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff     14
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   1   lead, 4 technologists
+   
+o
+
+
+   Second Shift- 3   technologists 
+
+   
+o
+
+
+   Night Shift   1   technologist in CT and 1 multimodality CT/US/XR tech, 1 transporter
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios     2 pts/tech/hour
+   
+ 
+
+
+
+
+
+
+
+   Type of   equipment - GE
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech 
+             Typical hiring profile             Skill Set Most recruited   for:
+    
+   
+Must have:
+ candidates without these skills will not be   considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   GE experience
+   
+ 
+
+
+
+
+
+
+
+   Work   independently 
+   
+
+
+   
+Preferred   or nice to have:
+ candidates   with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+5+ years   CT experience 
+   
+
+
+   
+List typical procedures   performed on unit(s): 
+
+   
+ 
+
+
+
+
+
+
+
+   Performs routine scans or angio scans as   per ordering physician in compliance with department guidelines, starts IVs   and administers contrast injections
+   
+ 
+
+
+
+
+
+
+
+   Performs a QA phantom scan each week on   the 2- 64 slice General Electric CT scanners, completing measurements for   contrast resolution, noise, and other technical data.
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   Hard worker
+   
+ 
+
+
+
+
+
+
+
+   Team player
+   REQUIRED CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   ARRT-CT certified
+   
+ 
+
+
+
+
+
+
+
+   BLS
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   None 
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire   -
+ Dark Grey/ Charcoal or Pewter 
+   
+
+
+             Weekends and On call:   
+ 
+
+
+
+
+
+
+
+   Weekend night shift 7-7:30AM and call every 6th   week
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 532954
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7323
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-25
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 09 2023 18:30:25
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=762975 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=LEWISGALE MEDICAL CENTER VA ;City=SALEM ;State=VA ;Zip=24153 ;Start=11/30/2023;End=2/29/2024;Duration=91;Cert=RN ;Specialty=Emergency Dept ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$80.00;minBillRate=$80.00;OTRate=88 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL RN FSED
+13 WEEKS
+7:00PM- 7:00AM
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE ACTIVE VA/COMPACT LICENSE
+BLS/ACLS/TNCC/CPI/PALS REQUIRED
+ General CommentsUnit Information:
+   Cave Spring Freestanding Emergency Department             
+Address: 2706   Ogden Road, Roanoke, Virginia
+         
+Floor: Emergency   Department
+             
+Building: Cave   Spring
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   8
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   23 RNs total
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   2 7a-7p RNs, 1 9a-9p RN, 1   11a-11p RN
+   
+o
+
+
+   Night Shift   2 7p-7a RNs
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   1:4
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   
+GE Monitors, Nursecall system, Small   Ventilator, Baxter Pumps, Zoll Defibs
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech
+   
+
+
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   Independent   IV skills, EKG skills and Assessment skills
+   
+ 
+
+
+
+
+
+
+
+   Previous   ER Experience
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+Experience in the Freestanding ED setting
+   
+ 
+
+
+
+
+
+
+
+   
+Independent mixing of Pharmacy drugs such as   Tpa, KCentra
+   
+
+
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   IVs,   EKGs, Medication mixing 
+   
+ 
+
+
+
+
+
+
+
+   Scanning   of medications for every patient / every med. 
+
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Team player, Outgoing,   Independent 
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   ACLS, PALS, BLS
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   None
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire   
+Navy or White
+   
+
+
+             
+Unit Guidelines/Policies: 
+   
+ 
+
+
+
+
+
+
+
+   Holidays required
+   
+
+
+             Weekends and On call:    
+
+
+
+
+
+
+
+   Weekends rotate. 3 Weekend shifts which are   Fridays and Saturdays per 4 week schedule
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/762975;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => LewisGale Medical Center Salem Campus Travel
+    [shiftDateEnd] => 2024-03-25
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

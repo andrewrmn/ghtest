@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1255',
+  'Cf-Ray' => '835989ef27d523c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => BLS
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 537215
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13402
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 14 2023 16:28:49
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=47579 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne Dubuque Medical Center ;City=Dubuque ;State=IA ;Zip=52001 ;Start=12/24/2023;End=3/23/2024;Duration=90;Cert=RN Medical / Surgical ;Specialty=Med Surg ;Unit=*Registered Nurse-Med Surg-Med Surg ;Shift=7a7p;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=117.00 ;ChargeRate=93.00 ;CallbackRate=117.00 ;HolidayRate=117.00 ;Description=BLS ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Mercy Medical Center - Dubuque Travel
+    [shiftDateEnd] => 2024-03-23
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

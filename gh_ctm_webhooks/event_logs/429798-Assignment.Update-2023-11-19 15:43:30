@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '885',
+  'Cf-Ray' => '828991b3b5b46a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => Sterile Processing Tech 
+    [assignmentid] => 429798
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Contract
+    [hoursPerWeek] => 40
+    [facilityID] => 13361
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-10-10
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN,Sterile Processing Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 19 2023 10:43:29
+    [daysPerWeek] => 5
+    [orderNote] => skill market for SPT to UTMB
+$85 BR proposed
+Holding for Morganne J's nurse
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Gifted - Skill Market - J Betts
+    [shiftDateEnd] => 2022-12-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

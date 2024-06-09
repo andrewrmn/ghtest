@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2212',
+  'Cf-Ray' => '8293f62382e81838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 Weeks 
+3x12 hour nights (1830-0700)
+Every 3rd weekend 
+
+A Respiratory Therapist performs patient assessment, evaluation for appropriate therapy, administration of therapy, consultation with other health care providers, diagnostic testing, implementation and troubleshooting of equipment and monitoring of patient.  These services are provided as appropriate for patient age to include neonate, infant, child, adolescent, adult and geriatric adult.
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 545256
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15840
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-03
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RRT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 20 2023 16:59:41
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48573 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne Des Moines Medical Center ;City=Des Moines ;State=IA ;Zip=50314 ;Start=12/3/2023;End=3/2/2024;Duration=90;Cert=Respiratory Therapist ;Specialty=Respiratory Therapy ;Unit=IA/Des Moines/Respiratory Therapist-Nights ;Shift=7p7a;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=97.50 ;ChargeRate=78.00 ;CallbackRate=97.50 ;HolidayRate=97.50 ;Orientation=0.00 ;Description=13 Weeks 
+3x12 hour nights (1830-0700)
+Every 3rd weekend 
+
+A Respiratory Therapist performs patient assessment, evaluation for appropriate therapy, administration of therapy, consultation with other health care providers, diagnostic testing, implementation and troubleshooting of equipment and monitoring of patient.  These services are provided as appropriate for patient age to include neonate, infant, child, adolescent, adult and geriatric adult. ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => MercyOne Des Moines Medical Center (Trinity) TRAVEL
+    [shiftDateEnd] => 2024-03-02
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

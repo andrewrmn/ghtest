@@ -1,0 +1,571 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8909',
+  'Cf-Ray' => '827843dd300723c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:**4 weekend shifts per month**
+
+
+Medical City Dallas Hospital is a 796-bed tertiary care center located in North Texas. This HCA facility is recognized for its state-of-the-art medical facilities and leading organ
+transplant program.
+
+The hospital s
+robotic surgery
+staff are pioneers in performing minimally invasive surgery, which reduces pain, blood loss, and scarring, while also shortening the recovery period for patients.
+The facility also specializes in
+rehabilitation,
+heart and vascular care, and
+women's services, among
+other services.
+Medical City Dallas also detects and treats all kinds of
+cancer
+while providing a calming and secure environment for its patients and respective family members.
+
+
+The facility earned the Leapfrog A grade for patient safety, demonstrating its commitment to the safety of its patients and community. Employees note that their colleagues and their dedication to high-quality patient care make this facility a great place to work, per
+Indeed reviews.
+In 2019, Medical City Healthcare was named as one of the
+100
+Best Companies
+to Work for in Texas.
+
+
+Outside of the hospital, Dallas is home to
+more restaurants per capita than New York City and the cuisine is international in flavor. The city's sights include
+the
+Sixth Floor Museum,
+Dallas World Aquarium, and
+The George W. Bush Presidential Library and Museum.
+ General CommentsData Collection:
+          Unit Information: 630 Telemetry med surg             Location: 5 East             
+Address:7777   Forest Lane
+         
+Floor:5 East 
+             
+Building: E
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds -36
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   10 RN, 4 PCT
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   10 RN, 4 PCT
+   
+o
+
+
+   Night Shift - 10 RN, 4 PCT
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   1:4-1:6
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment - none
+   
+ 
+
+
+
+
+
+
+
+   EMR -Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+BLS
+   
+ 
+
+
+
+
+
+
+
+   ACLS
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+Time management
+    
+
+
+
+
+
+
+
+   
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+
+General med surg, telemetry monitoring,   non-titratable drips
+    
+
+
+
+
+
+
+
+   
+   Best personality Fit:    
+
+
+
+
+
+
+
+   
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   BLS
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   All acute care areas; med surg, gen surg, renal transplant,   telemetry, neuro, ortho.
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ Royal Blue Scrubs
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   4 weekend shifts per schedule period (4 weeks)
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544336
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5449
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 17 2023 08:19:23
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=756734 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=MEDICAL CITY DALLAS (MCD) ;City=Dallas ;State=TX ;Zip=75230 ;Start=10/15/2023;End=1/14/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=NORTH TEXAS DIVISION (17) ;Shift=7:00AM - 7:00PM;# of Postions=1;Type=Travel;BillRate=$60.00;OTRate=68 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:**4 weekend shifts per month**
+
+
+Medical City Dallas Hospital is a 796-bed tertiary care center located in North Texas. This HCA facility is recognized for its state-of-the-art medical facilities and leading organ
+transplant program.
+
+The hospital s
+robotic surgery
+staff are pioneers in performing minimally invasive surgery, which reduces pain, blood loss, and scarring, while also shortening the recovery period for patients.
+The facility also specializes in
+rehabilitation,
+heart and vascular care, and
+women's services, among
+other services.
+Medical City Dallas also detects and treats all kinds of
+cancer
+while providing a calming and secure environment for its patients and respective family members.
+
+
+The facility earned the Leapfrog A grade for patient safety, demonstrating its commitment to the safety of its patients and community. Employees note that their colleagues and their dedication to high-quality patient care make this facility a great place to work, per
+Indeed reviews.
+In 2019, Medical City Healthcare was named as one of the
+100
+Best Companies
+to Work for in Texas.
+
+
+Outside of the hospital, Dallas is home to
+more restaurants per capita than New York City and the cuisine is international in flavor. The city's sights include
+the
+Sixth Floor Museum,
+Dallas World Aquarium, and
+The George W. Bush Presidential Library and Museum.
+ General CommentsData Collection:
+          Unit Information: 630 Telemetry med surg             Location: 5 East             
+Address:7777   Forest Lane
+         
+Floor:5 East 
+             
+Building: E
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds -36
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   10 RN, 4 PCT
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   10 RN, 4 PCT
+   
+o
+
+
+   Night Shift - 10 RN, 4 PCT
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   1:4-1:6
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment - none
+   
+ 
+
+
+
+
+
+
+
+   EMR -Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+BLS
+   
+ 
+
+
+
+
+
+
+
+   ACLS
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+Time management
+    
+
+
+
+
+
+
+
+   
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+
+General med surg, telemetry monitoring,   non-titratable drips
+    
+
+
+
+
+
+
+
+   
+   Best personality Fit:    
+
+
+
+
+
+
+
+   
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   BLS
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   All acute care areas; med surg, gen surg, renal transplant,   telemetry, neuro, ortho.
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ Royal Blue Scrubs
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   4 weekend shifts per schedule period (4 weeks)
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/756734;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 60
+    [facilityName] => Medical City Dallas Hospital Travel
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

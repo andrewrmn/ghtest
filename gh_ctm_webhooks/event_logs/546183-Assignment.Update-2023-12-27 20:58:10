@@ -1,0 +1,82 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2793',
+  'Cf-Ray' => '83c47ae025161842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Unit: Radiology - Mercy Hospital Logan County
+Specialty: MRI Technologist
+Shift: Days, 5x8,
+
+Assignment Length: 13 weeks
+Required Certifications:
+BLS from AHA only
+Required Experience: 3
+years MRI Tech, Siemens equipment
+Must be willing to float when neededMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsIndependently performs specialized MRI procedures in a fixed mobile unit on patients, resulting in diagnostic images for interpretation by a radiologist. Also provides the patient care essential to these procedures. Applies principles of MR safety. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards.
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => MRI
+    [assignmentid] => 546183
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 15975
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-21
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => MRI Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:30
+    [whenmodified] => December, 27 2023 15:58:01
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=778445 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Logan County ;City=Guthrie ;State=OK ;Zip=73044 ;Start=12/26/2023;End=3/26/2024;Duration=91;Cert=MRI Tech ;Specialty=Radiology ;Unit=Mercy ;Shift=07:00-15:30;# of Postions=1;Type=Travel;BillRate=$65.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Unit: Radiology - Mercy Hospital Logan County
+Specialty: MRI Technologist
+Shift: Days, 5x8,
+
+Assignment Length: 13 weeks
+Required Certifications:
+BLS from AHA only
+Required Experience: 3
+years MRI Tech, Siemens equipment
+Must be willing to float when neededMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsIndependently performs specialized MRI procedures in a fixed mobile unit on patients, resulting in diagnostic images for interpretation by a radiologist. Also provides the patient care essential to these procedures. Applies principles of MR safety. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards.
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/778445;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Mercy Hospital Logan County- Travel
+    [shiftDateEnd] => 2024-04-21
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

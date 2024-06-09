@@ -1,0 +1,458 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6625',
+  'Cf-Ray' => '8317bc1eb66e183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Facility: Eastern Idaho Regional
+Need: RN
+
+Shift:
+7:00PM - 7:00AM
+with rotating weekends
+
+Unit: 
+PICU 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cost Center: 645
+
+Start:
+ ASAP
+
+Length of Assignment: 13 weeks
+
+        Hospital:
+ EIRMC             Location: Idaho Falls Idaho             
+Address:
+ 3100 Channing Way
+         
+Unit: PICU
+             
+Building: 
+         
+
+
+             General Information             Unit Specifics:    
+
+
+   
+ 
+
+
+
+
+
+   Number of Beds : 6
+   
+ 
+
+
+
+
+
+   Cost Center: 645
+   
+ 
+
+
+
+
+
+   Length of contract:
+ 13 weeks 
+   
+ 
+
+
+
+
+
+   Shift: rotating
+   
+ 
+
+
+
+
+
+   Patient Ratios : 1:2 (sometimes 3 if   they are step down patients or Peds patients)
+   
+ 
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) : RN s only   no CNA s or Unit Secretary
+   
+ 
+
+
+
+
+
+   Type of equipment : Ventilators,   central lines, art lines, alaris pumps
+   
+ 
+
+
+
+
+
+   Documentation system:
+ Meditech
+   
+ 
+
+
+
+
+
+   Scheduling requirements: schedule 1   month at a time
+   
+ 
+
+
+
+
+
+   Floating policy: will float to other   units if PICU is low census
+   
+ 
+
+
+
+
+
+   On Call Expectations: 
+   
+ 
+
+
+
+
+
+   Weekend Requirement: 50% weekends   depending on needs
+   
+ 
+
+
+
+
+
+   Patient Experience requirements:   looking for previous PICU experience, trauma &amp; burn preferred
+   
+
+
+   Hospital Specifics-   
+ 
+
+
+
+
+
+ Certifications:
+ PALS, BLS
+             Hiring profile             Requested Skill Set:
+    
+   
+Must have: 
+   
+
+
+   
+
+
+   Advanced skills needed: experience with   ventilators, high flow, chest tubes, IV placement, experience with central   lines, urinary catheter placement, NG placement, trach care   
+
+
+   
+Procedures performed on unit: 
+sedation,   set up for ART lines, chest tubes
+   
+
+
+   
+
+
+   Certifications Required: PALS, BLS   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+ 
+Navy blue scrubs, can wear a   pediatric friendly top
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => PICU
+    [assignmentid] => 545005
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1261
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 06 2023 16:48:39
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=753800 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=Eastern Idaho Regional Medical Center ID ;City=IDAHO FALLS ;State=ID ;Zip=83404 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=RN ;Specialty=PICU ;Unit=MOUNTAIN DIVISION (15) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$100.00;OTRate=108 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Facility: Eastern Idaho Regional
+Need: RN
+
+Shift:
+7:00PM - 7:00AM
+with rotating weekends
+
+Unit: 
+PICU 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cost Center: 645
+
+Start:
+ ASAP
+
+Length of Assignment: 13 weeks
+
+        Hospital:
+ EIRMC             Location: Idaho Falls Idaho             
+Address:
+ 3100 Channing Way
+         
+Unit: PICU
+             
+Building: 
+         
+
+
+             General Information             Unit Specifics:    
+
+
+   
+ 
+
+
+
+
+
+   Number of Beds : 6
+   
+ 
+
+
+
+
+
+   Cost Center: 645
+   
+ 
+
+
+
+
+
+   Length of contract:
+ 13 weeks 
+   
+ 
+
+
+
+
+
+   Shift: rotating
+   
+ 
+
+
+
+
+
+   Patient Ratios : 1:2 (sometimes 3 if   they are step down patients or Peds patients)
+   
+ 
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) : RN s only   no CNA s or Unit Secretary
+   
+ 
+
+
+
+
+
+   Type of equipment : Ventilators,   central lines, art lines, alaris pumps
+   
+ 
+
+
+
+
+
+   Documentation system:
+ Meditech
+   
+ 
+
+
+
+
+
+   Scheduling requirements: schedule 1   month at a time
+   
+ 
+
+
+
+
+
+   Floating policy: will float to other   units if PICU is low census
+   
+ 
+
+
+
+
+
+   On Call Expectations: 
+   
+ 
+
+
+
+
+
+   Weekend Requirement: 50% weekends   depending on needs
+   
+ 
+
+
+
+
+
+   Patient Experience requirements:   looking for previous PICU experience, trauma &amp; burn preferred
+   
+
+
+   Hospital Specifics-   
+ 
+
+
+
+
+
+ Certifications:
+ PALS, BLS
+             Hiring profile             Requested Skill Set:
+    
+   
+Must have: 
+   
+
+
+   
+
+
+   Advanced skills needed: experience with   ventilators, high flow, chest tubes, IV placement, experience with central   lines, urinary catheter placement, NG placement, trach care   
+
+
+   
+Procedures performed on unit: 
+sedation,   set up for ART lines, chest tubes
+   
+
+
+   
+
+
+   Certifications Required: PALS, BLS   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+ 
+Navy blue scrubs, can wear a   pediatric friendly top
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/753800;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Eastern Idaho Regional Med Center Parallon
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

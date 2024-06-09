@@ -1,0 +1,104 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3819',
+  'Cf-Ray' => '8289bddee509183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Must not reside in Moore County!
+
+***HIGH RATIOS 1-6*****
+
+Department   2 Neuro
+Cost Center   106031 
+Position   RN
+No of positions   1
+Shift   nights 7p-7a
+Experience  -   Med/surg experience required, Neuro experience is preferred
+Start date   ASAP
+1:6 Ratio
+first time travelers not accepted!
+
+sh
+
+ Modified Time:11/20/2023 5:00:00 AM
+ Account Manager: Ashley Glass
+ Account Manager Email: Ashley.Glass@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceRTO must be included in submissionPending License is okayPlease include&nbsp;HSS Cover Sheet.Please make candidates aware: Where permitted by applicable law, this facility performs their own pre-employment drug screen on all candidates upon arrival to assignment. This is in addition to what is required during the credentialing process.Travelers who reside in Moore County are not eligible for Travel FirstHealth will not consider FHC employees for contract positions unless they have been gone from our employment for at least 1 year.Need 2 weeks/ 14 calendar days + (confirm with CL if Quick Starts are okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 542748
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3569
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 19 2023 11:13:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2296045 ;Status=Open;Association=Qualivis EPA ;Client=FirstHealth Moore Regional Hospital ;City=Pinehurst ;State=NC ;Zip=28374 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=Registered Nurse ;Specialty=Medical Surgical ;Unit=2 Neuro, 106031 ;Shift=Night 3x12-Hour (19:00 - 07:00);# of Postions=1;Type=Travel;BillRate=$85.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Must not reside in Moore County!
+
+***HIGH RATIOS 1-6*****
+
+Department   2 Neuro
+Cost Center   106031 
+Position   RN
+No of positions   1
+Shift   nights 7p-7a
+Experience  -   Med/surg experience required, Neuro experience is preferred
+Start date   ASAP
+1:6 Ratio
+first time travelers not accepted!
+
+sh
+
+ Modified Time:11/20/2023 5:00:00 AM
+ Account Manager: Ashley Glass
+ Account Manager Email: Ashley.Glass@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceRTO must be included in submissionPending License is okayPlease include&nbsp;HSS Cover Sheet.Please make candidates aware: Where permitted by applicable law, this facility performs their own pre-employment drug screen on all candidates upon arrival to assignment. This is in addition to what is required during the credentialing process.Travelers who reside in Moore County are not eligible for Travel FirstHealth will not consider FHC employees for contract positions unless they have been gone from our employment for at least 1 year.Need 2 weeks/ 14 calendar days + (confirm with CL if Quick Starts are okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2296045/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => FirstHealth Moore Regional Hospital
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

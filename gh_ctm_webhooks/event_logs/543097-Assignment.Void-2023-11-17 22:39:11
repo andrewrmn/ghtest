@@ -1,0 +1,107 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2839',
+  'Cf-Ray' => '827b77dda47823c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:4 West UNCMC RN Position # 111215062
+Complete Description:4 West is a 12-bed Medical Surgical Observation unit which provides care to varied adult population to include observation, extended recovery from PACU, and Medical Surgical acute care patients awaiting an inpatient bed assignment. 
+Requisition Comments:Lotus Offers- Fast Offers!
+Candidates will NOT interview.
+
+Must include RTO in submittal in order to be honored at time of offer!
+
+Traveler is expected to float to like acuities or less if needed
+Scheduling Details:3x12's, Nights, 7p-7a
+
+Charge is REQ
+
+6 weekend shifts per 6 weeks
+
+No call 
+
+Must be OK with possibly working with COVID
+
+No block scheduling
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543097
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13245
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 17 2023 17:39:10
+    [daysPerWeek] => 3
+    [orderNote] => Source=PeopleFluent;SourceID=724417 ;Status=Open;Association=1 Memorial, 100 - 111404 - 1000\r\n4 West, 100 - 111401 - 1000 ;Client=UNC Health ;Start=12/11/2023;End=3/9/2024;Duration=89;Cert=RN ;Specialty=Med/Surg ;Unit=RN - 4 West - Nights - UNC Medical Center ;Shift=3x12.0 3x12's, Nights, 7p-7a
+
+Charge is REQ
+
+6 weekend shifts per 6 weeks
+
+No call 
+
+Must be OK with possibly working with COVID
+
+No block scheduling;# of Postions=1;Type=Travel;BillRate=$80.00;Description=Short Description:4 West UNCMC RN Position # 111215062
+Complete Description:4 West is a 12-bed Medical Surgical Observation unit which provides care to varied adult population to include observation, extended recovery from PACU, and Medical Surgical acute care patients awaiting an inpatient bed assignment. 
+Requisition Comments:Lotus Offers- Fast Offers!
+Candidates will NOT interview.
+
+Must include RTO in submittal in order to be honored at time of offer!
+
+Traveler is expected to float to like acuities or less if needed
+Scheduling Details:3x12's, Nights, 7p-7a
+
+Charge is REQ
+
+6 weekend shifts per 6 weeks
+
+No call 
+
+Must be OK with possibly working with COVID
+
+No block scheduling ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=724417;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => UNC Medical Center TRAVEL
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

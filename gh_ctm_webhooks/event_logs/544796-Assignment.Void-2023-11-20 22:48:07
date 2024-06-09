@@ -1,0 +1,595 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '10840',
+  'Cf-Ray' => '82943d15a0fd6a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL   RN - CATH LAB - COST CENTER (746) / 07:00AM-07:00PM
+
+Facility Overview:
+Above all else, we are committed to the care and improvement of human life. In recognition of this
+
+Since opening in 1982, our hospital has been serving the healthcare needs of Seminole and West Volusia counties. As an accredited 221-bed acute care hospital, we offer a wide range of medical specialties and surgeries, including the only full-service cardiovascular program in the region, level II trauma services, advanced stroke care, orthopedic and spine care, advanced robotic surgery, and inpatient rehabilitative services.
+ HCA Florida Lake Monroe hospital provides emergency services at 2 locations, the main hospital and HCA Florida Heathrow Emergency.
+
+HCA Florida Lake Monroe 
+is located 3.6 miles east of I-4 between S.R. 46 and Highway 17-92 in Sanford. The hospital has been designated a
+Level II trauma center
+and provides
+24/7 emergency care
+
+
+
+Unit Profile:
+Hospital:
+ Central Florida Regional HospitalLocation: Cath/EP lab
+Address:1401 W. Seminole Blvd, Sanford FL
+
+Unit: Cath/EP Lab 746
+
+Building:
+
+
+
+General InformationUnit Specifics:
+ 
+
+
+
+
+
+
+
+
+Number of rooms :2 Cath lab   1 EP   Holding area
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios :1-1, 2-1
+
+ 
+
+
+
+
+
+
+
+
+Unit staffing description- Director, charge RN :Techs and RN s
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment :GE flouro, Mac Lab, Acist, Volcano, IVUS, Angiojet, Penumbra
+
+ 
+
+
+
+
+
+
+
+
+Documentation system: Mac Lab and Medi tech
+
+ 
+
+
+
+
+
+
+
+
+Scheduling requirements: cath lab 4-10 or 5-8 hours days with late stays on call rotation
+
+ 
+
+
+
+
+
+
+
+
+Floating policy: may float to holding, EP lab, or other areas within scope of practice
+
+ 
+
+
+
+
+
+
+
+
+Patient Experience requirements:
+Hospital Specifics-
+ 
+
+
+
+
+
+
+
+
+Certifications:
+
+-RNs: State License.
+
+-Techs: ARRT or RCIS Certification within 3 years of hire if not a Rad Technologist with ARRT.
+Hiring profileRequested Skill Set:
+
+Must have: BLS &amp; ACLS
+
+
+
+Advanced skills needed: for EP circulating, scrubbing, monitoring two of the skills listed as a minimum
+
+
+
+Procedures performed on unit:
+
+TAVR, Watchman, PCI, peripherals, Impellla, Balloon pump
+
+
+
+Certifications Required: ACLS, BLS, ONE OF THE FOLLOWING
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ -RNs: State License.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+-Techs: ARRT or RCIS Certification within 3 years of hire if not a Rad Technologist with ARRT.
+
+
+
+
+
+Dress Code: (Required uniform) Scrubs provided must follow hospital uniform dress code policy.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Unit Guidelines/Policies:
+Please attach unit specific policies and guidelines.
+
+ 
+
+
+
+
+
+
+
+
+
+
+Awards/Recognition: 
+Please include anything that you would like prospective candidates to be aware of, such as, links to videos that feature the department, outstanding department/team awards..
+
+ 
+
+
+
+
+
+
+
+
+
+
+Any additional information that would entice a worker to select your unit for their assignment:
+
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Above all else, we are committed to the care and improvement of human life. In recognition of this commitment, we will strive to deliver high quality, cost-effective healthcare in the communities we serve.Facility Overview:
+
+Central Florida Regional Hospital, a 221-bed acute care hospital, serves the communities of Seminole and west Volusia counties. The hospital provides the only full-service
+cardiovascular program
+in Seminole and west Volusia, including
+open heart surgery,
+interventional cardiology,
+electrophysiology,
+cardiac rehabilitation
+and comprehensive
+diagnostic services. Other specialized services include
+orthopedic and spine care,
+robotic surgery,
+wound care,
+acute inpatient medical rehabilitation, complete
+imaging services
+and
+The Baby Suites. Central Florida Regional Hospital is located 3.6 miles east of I-4 between S.R. 46 and Highway 17-92 in Sanford. The hospital has been designated a
+Level II trauma center
+and provides
+24/7 emergency care
+in Sanford.
+ General Comments1
+2
+
+3
+ No. of Positions: 3/3.
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 544796
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1957
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-25
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 20 2023 17:48:06
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=775945 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA Florida Lake Monroe Hospital? ;City=Sanford ;State=FL ;Zip=32771 ;Start=12/25/2023;End=3/25/2024;Duration=91;Cert=RN ;Specialty=Cardiac Cath Lab ;Unit=NORTH FLORIDA DIVISION (18) ;Shift=7:00AM-7:00PM;# of Postions=3;Type=Travel;Description=Description:TRAVEL   RN - CATH LAB - COST CENTER (746) / 07:00AM-07:00PM
+
+Facility Overview:
+Above all else, we are committed to the care and improvement of human life. In recognition of this
+
+Since opening in 1982, our hospital has been serving the healthcare needs of Seminole and West Volusia counties. As an accredited 221-bed acute care hospital, we offer a wide range of medical specialties and surgeries, including the only full-service cardiovascular program in the region, level II trauma services, advanced stroke care, orthopedic and spine care, advanced robotic surgery, and inpatient rehabilitative services.
+ HCA Florida Lake Monroe hospital provides emergency services at 2 locations, the main hospital and HCA Florida Heathrow Emergency.
+
+HCA Florida Lake Monroe 
+is located 3.6 miles east of I-4 between S.R. 46 and Highway 17-92 in Sanford. The hospital has been designated a
+Level II trauma center
+and provides
+24/7 emergency care
+
+
+
+Unit Profile:
+Hospital:
+ Central Florida Regional HospitalLocation: Cath/EP lab
+Address:1401 W. Seminole Blvd, Sanford FL
+
+Unit: Cath/EP Lab 746
+
+Building:
+
+
+
+General InformationUnit Specifics:
+ 
+
+
+
+
+
+
+
+
+Number of rooms :2 Cath lab   1 EP   Holding area
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios :1-1, 2-1
+
+ 
+
+
+
+
+
+
+
+
+Unit staffing description- Director, charge RN :Techs and RN s
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment :GE flouro, Mac Lab, Acist, Volcano, IVUS, Angiojet, Penumbra
+
+ 
+
+
+
+
+
+
+
+
+Documentation system: Mac Lab and Medi tech
+
+ 
+
+
+
+
+
+
+
+
+Scheduling requirements: cath lab 4-10 or 5-8 hours days with late stays on call rotation
+
+ 
+
+
+
+
+
+
+
+
+Floating policy: may float to holding, EP lab, or other areas within scope of practice
+
+ 
+
+
+
+
+
+
+
+
+Patient Experience requirements:
+Hospital Specifics-
+ 
+
+
+
+
+
+
+
+
+Certifications:
+
+-RNs: State License.
+
+-Techs: ARRT or RCIS Certification within 3 years of hire if not a Rad Technologist with ARRT.
+Hiring profileRequested Skill Set:
+
+Must have: BLS &amp; ACLS
+
+
+
+Advanced skills needed: for EP circulating, scrubbing, monitoring two of the skills listed as a minimum
+
+
+
+Procedures performed on unit:
+
+TAVR, Watchman, PCI, peripherals, Impellla, Balloon pump
+
+
+
+Certifications Required: ACLS, BLS, ONE OF THE FOLLOWING
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ -RNs: State License.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+-Techs: ARRT or RCIS Certification within 3 years of hire if not a Rad Technologist with ARRT.
+
+
+
+
+
+Dress Code: (Required uniform) Scrubs provided must follow hospital uniform dress code policy.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Unit Guidelines/Policies:
+Please attach unit specific policies and guidelines.
+
+ 
+
+
+
+
+
+
+
+
+
+
+Awards/Recognition: 
+Please include anything that you would like prospective candidates to be aware of, such as, links to videos that feature the department, outstanding department/team awards..
+
+ 
+
+
+
+
+
+
+
+
+
+
+Any additional information that would entice a worker to select your unit for their assignment:
+
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Above all else, we are committed to the care and improvement of human life. In recognition of this commitment, we will strive to deliver high quality, cost-effective healthcare in the communities we serve.Facility Overview:
+
+Central Florida Regional Hospital, a 221-bed acute care hospital, serves the communities of Seminole and west Volusia counties. The hospital provides the only full-service
+cardiovascular program
+in Seminole and west Volusia, including
+open heart surgery,
+interventional cardiology,
+electrophysiology,
+cardiac rehabilitation
+and comprehensive
+diagnostic services. Other specialized services include
+orthopedic and spine care,
+robotic surgery,
+wound care,
+acute inpatient medical rehabilitation, complete
+imaging services
+and
+The Baby Suites. Central Florida Regional Hospital is located 3.6 miles east of I-4 between S.R. 46 and Highway 17-92 in Sanford. The hospital has been designated a
+Level II trauma center
+and provides
+24/7 emergency care
+in Sanford.
+ General Comments1
+2
+
+3
+ No. of Positions: 3/3. ;url=https://vendor.healthtrustws.com/positions/775945;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => Central Florida Regional Medical Center - Parallon
+    [shiftDateEnd] => 2024-03-25
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

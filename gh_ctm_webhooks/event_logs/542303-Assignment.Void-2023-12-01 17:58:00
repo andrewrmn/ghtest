@@ -1,0 +1,65 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2167',
+  'Cf-Ray' => '82ed373991531830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => (Vaya Offer) 8a-4:30p M-F. Oncology, strong Med Surg experience, and BLS Required. Ambulatory Clinic experience required. Oncology (either inpatient or outpatient) exp required. Mediports and phlebotomy experience required. 2 pre-approved RTO requests allowed per contract. (BF for Amy Cockrell, TL)
+ Critical Need: Disaster Critical 11
+VayaOffer = True
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 542303
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 12923
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-19
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => December, 01 2023 12:57:59
+    [daysPerWeek] => 5
+    [orderNote] => Source=OptimizerVizient;SourceID=39531585 ;Status=CandidatesRequested;Association=University of Kentucky Hospital ;Client=University of Kentucky Hospital ;City=Lexington ;State=KY ;Zip=40536 ;Start=12/19/2023;End=3/23/2024;Duration=95;Cert=RN ;Specialty=RN - Medical / Surgical ;Unit=AMB-HEAD NECK AND RESPIRATORY CLINIC - 1071515970 ;Shift=8:00 AM - 4:30 PM;# of Postions=1;Guaranteed Hours=0;Type=Travel;BillRate=$95.00;OTRate=133.00 ;CallbackRate=133.00 ;HolidayRate=142.50 ;Orientation=66.50 ;Priority=Critical;Description=(Vaya Offer) 8a-4:30p M-F. Oncology, strong Med Surg experience, and BLS Required. Ambulatory Clinic experience required. Oncology (either inpatient or outpatient) exp required. Mediports and phlebotomy experience required. 2 pre-approved RTO requests allowed per contract. (BF for Amy Cockrell, TL)
+ Critical Need: Disaster Critical 11
+VayaOffer = True ;url=https://optimizer.vayaworkforce.com/agency/job-requests/39531585;localRate=$91.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => University of Kentucky Hospital Travel
+    [shiftDateEnd] => 2024-03-23
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,115 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6387',
+  'Cf-Ray' => '833fb45ce6001465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 8 x 5's
+ License:License/Certificate Verification - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:COVID-19 Vaccine - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:MMR - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:Fit Test - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:Hepatitis B  - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:Influenza Vaccine  - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:TB Test - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:Health Statement - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:Varicella - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:Tdap - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:Annual TB Questionnaire - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS 2 Professional References - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Criminal Background Check Results - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Social Security Trace - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS OIG Search - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS EPLS - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS National Sex Offender - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Education Verification  - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Employment Verification - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Driving Record - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:FMOLHS Drug Screen - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Badge Photo - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Resume - For Submission:True; For Onboard:False; Optional:False
+ Professional:FMOLHS HRIS Form - For Submission:True; For Onboard:False; Optional:False
+ Order Requisition Reason Name:Replace Agency
+ Certifications:License/Certificate Verification
+ Licenses:License/Certificate Verification
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 544697
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 15968
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => December, 11 2023 13:13:57
+    [daysPerWeek] => 5
+    [orderNote] => Source=EinsteinII;SourceID=FHS-688 ;Status=Open;Association=Franciscan Missionaries of Our Lady Health System ;Client=Our Lady of the Lake Hospital, Inc ;City=Baton Rouge ;State=LA ;Zip=70808 ;Start=12/4/2023;End=2/25/2024;Duration=83;Cert=Radiology Technician ;Specialty=Radiology Technician ;Unit=RMC OLOL Imaging (102-3103-10314) ;Shift=;# of Postions=1;Type=Travel;BillRate=$70.00;OTRate=105.0 ;OTRules=40 hrs ;ChargeRate=73 ;CallbackRate=105.0 ;HolidayRate=105.0 ;Description=8 x 5's
+ License:License/Certificate Verification - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:COVID-19 Vaccine - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:MMR - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:Fit Test - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:Hepatitis B  - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:Influenza Vaccine  - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:TB Test - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:Health Statement - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:Varicella - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:Tdap - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:Annual TB Questionnaire - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS 2 Professional References - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Criminal Background Check Results - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Social Security Trace - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS OIG Search - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS EPLS - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS National Sex Offender - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Education Verification  - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Employment Verification - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Driving Record - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:FMOLHS Drug Screen - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Badge Photo - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Resume - For Submission:True; For Onboard:False; Optional:False
+ Professional:FMOLHS HRIS Form - For Submission:True; For Onboard:False; Optional:False
+ Order Requisition Reason Name:Replace Agency
+ Certifications:License/Certificate Verification
+ Licenses:License/Certificate Verification ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Our Lady of the Lake Regional Medical Center TRAVEL (HM)
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

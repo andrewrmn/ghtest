@@ -1,0 +1,107 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4450',
+  'Cf-Ray' => '831dc37e93b223b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Acute Care RN - Med Surg/ Tele
+Early December start, 13 weeks
+3x12 hour days, 7A-7P
+
+BLS, ACLS required
+Travel experience required
+
+VA or compact license in hand (highly preferred)
+
+21 beds
+Adult patient population
+Ratio is 4-6:1 on days and 5-7:1 on nights
+Common Patient Diagnosis: pneumonia, CHF, COPD, AFIB, GI Bleed, Cellulitis, diverticulitis, chest pain
+EPIC charting
+IV Pumps- Alaris
+24/7 Hospitalist coverage
+
+ Modified Time:12/4/2023 5:00:00 AM
+ Account Manager: Lia Chiccehitto
+ Account Manager Email: Lia.Chiccehitto@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceActive license requiredTravelers are required to work at least 1 holiday per season (2 winter holidays - Thanksgiving, Christmas, New Years)Compliance docs due Wednesday prior to Monday start*Local candidates are candidates who live within 100 miles of the facility. Local candidates not accepted.*Return Travelers: Previous employees (both per diem and permanent) must be gone for a minimum of one year before returning to work as a traveler.Modules: Inpatient RN's at Carilion Clinic may be required to complete orientation modules and/ or Epic Fast Track modules prior to starting. Facility allows 5.5 hours for orientation modules and 2 hours for Epic. This time will count toward the facility's 24 hours of non-billable orientation and will be added automatically to the traveler's timesheet.&nbsp;
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 542394
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3643
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 07 2023 10:22:21
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2283841 ;Status=Open;Association=Qualivis MSP ;Client=Carilion Franklin Memorial Hospital ;City=Rocky Mount ;State=VA ;Zip=24151-1318 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Registered Nurse ;Specialty=MS/Tele ;Unit=Acute Care, 0501-6000 ;Shift=Day 3x12-Hour (07:00 - 19:00);# of Postions=1;Type=Travel;BillRate=$75.00;OTRules=48 total hours in 1 week : 1.25% ;Orientation=24 ;Description=Acute Care RN - Med Surg/ Tele
+Early December start, 13 weeks
+3x12 hour days, 7A-7P
+
+BLS, ACLS required
+Travel experience required
+
+VA or compact license in hand (highly preferred)
+
+21 beds
+Adult patient population
+Ratio is 4-6:1 on days and 5-7:1 on nights
+Common Patient Diagnosis: pneumonia, CHF, COPD, AFIB, GI Bleed, Cellulitis, diverticulitis, chest pain
+EPIC charting
+IV Pumps- Alaris
+24/7 Hospitalist coverage
+
+ Modified Time:12/4/2023 5:00:00 AM
+ Account Manager: Lia Chiccehitto
+ Account Manager Email: Lia.Chiccehitto@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceActive license requiredTravelers are required to work at least 1 holiday per season (2 winter holidays - Thanksgiving, Christmas, New Years)Compliance docs due Wednesday prior to Monday start*Local candidates are candidates who live within 100 miles of the facility. Local candidates not accepted.*Return Travelers: Previous employees (both per diem and permanent) must be gone for a minimum of one year before returning to work as a traveler.Modules: Inpatient RN's at Carilion Clinic may be required to complete orientation modules and/ or Epic Fast Track modules prior to starting. Facility allows 5.5 hours for orientation modules and 2 hours for Epic. This time will count toward the facility's 24 hours of non-billable orientation and will be added automatically to the traveler's timesheet.&nbsp; ;url=https://app.ayaconnect.com/index.html#/vendor/job/2283841/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Carilion Franklin Memorial Hospital
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

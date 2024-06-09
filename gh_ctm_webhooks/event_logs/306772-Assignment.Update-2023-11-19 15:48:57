@@ -1,0 +1,74 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3989',
+  'Cf-Ray' => '828999b082f31836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+TRAVEL RN MED SURG
+Start Date: ASAP
+Duration: 13 WEEKS
+Shift: NIGHTS (7p-7a)
+Approved Rate: $125/HRparseGeneralComments Comments
+.bd_title { font-weight: bold }
+Reason for opening (special, internal vacancy, leave coverage) Vacancy in 1011-039             *******************************************************************************              How long has it been open?              Will position be required to float to other units? Potentially based on unit needs and nurse competencies             Number of beds in your facility? 126             Years of experience required? At least one year of acute care             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) Katie Bird, kathleen_bird@cedarparkregional.com             Willing to review clinicians with pending state license? No             Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift) 1900-0700    EMR for your facility: HMS Med/Host             Scrub colors / dress code: Navy Blue    Parking location:  Contact: Christopher Stearns Resource Manager: Christopher Stearns
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 306772
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-12-20
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 19 2023 10:48:41
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=534869 ;Status=Open;Association=CHS ;Client=Cedar Park Regional Medical Center ;City=Cedar Park ;State=TX ;Zip=78613 ;Start=ASAP;End=;Duration=91;Cert=CHS Travel:Registered Nurse (RN) / Medical Surgical NIGHTS (534869) ;Specialty=1011: MED/SURG (UNIT/FLOOR 1) ;Unit=MED/SURG (UNIT/FLOOR 1) ;Shift=7p-7a;# of Postions=1;Type=Travel;BillRate=$125.00;minBillRate=$125.00;Description=Position Description
+TRAVEL RN MED SURG
+Start Date: ASAP
+Duration: 13 WEEKS
+Shift: NIGHTS (7p-7a)
+Approved Rate: $125/HRparseGeneralComments Comments
+.bd_title { font-weight: bold }
+Reason for opening (special, internal vacancy, leave coverage) Vacancy in 1011-039             *******************************************************************************              How long has it been open?              Will position be required to float to other units? Potentially based on unit needs and nurse competencies             Number of beds in your facility? 126             Years of experience required? At least one year of acute care             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) Katie Bird, kathleen_bird@cedarparkregional.com             Willing to review clinicians with pending state license? No             Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift) 1900-0700    EMR for your facility: HMS Med/Host             Scrub colors / dress code: Navy Blue    Parking location:  Contact: Christopher Stearns Resource Manager: Christopher Stearns ;Buyer=Christopher Stearns ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=534869#!/position/manage/534869;VMSPositionType=Travel minPayRate=$125.00;maxPayRate=$125.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 125
+    [facilityName] => Cedar Park Regional Medical Center
+    [shiftDateEnd] => 2022-03-21
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

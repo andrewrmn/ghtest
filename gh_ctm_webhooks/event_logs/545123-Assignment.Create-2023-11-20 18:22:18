@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '912',
+  'Cf-Ray' => '8292b7b5d64e183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545123
+    [workerID] => 125203
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13892
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-05
+    [workerLastName] => Roles
+    [shiftNum] => 5
+    [workerFirstName] => Constance
+    [cert] => RN
+    [floorDesc] => NEURO
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 20 2023 13:22:18
+    [daysPerWeek] => 3
+    [orderNote] => FTK: Vaya/SignCorrectionReq
+Chrg:P$2.50/B$5
+Ornt:$20/NB:16hrs
+BR:$85
+    [guaranteedMinimum] => 
+    [workerEmail] => Constancebennett2011@hotmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => West Jefferson Medical Center TRV VAYA
+    [shiftDateEnd] => 2024-03-02
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

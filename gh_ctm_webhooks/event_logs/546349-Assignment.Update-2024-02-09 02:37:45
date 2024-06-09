@@ -1,0 +1,616 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '9626',
+  'Cf-Ray' => '8528bb77e01b6a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:CONTRACT - RN - CASE MGMT (689) - 13 WEEKS - 8A-5P
+NO ON CALL REQUIRED
+MEDITECH EXP REQ.
+
+
+Unit Profiles:
+  
+The purpose of a unit profile is to help provide an exceptional understanding of the unit.
+ Profiles will include location, number of beds, patient rations, and other unique details to assist recruiting professional in effectively and efficiently identifying highly qualified staff. 
+
+Below you will find a data collection tool to help you identify essential data needed to complete your profile.
+ 
+  
+
+
+  
+Data Collection:
+          Unit Information:
+                Location:              
+Building: St.   David s Main Campus
+   
+919 E 32ND   st. Austin, TX 78705
+         
+Floor: TBD- ICU,   Observation, Tele, PCU, Neuro, Ortho
+             Order Detail:             Facility Department   Number:    Discipline: RN Case   Manager    Quantity: 2   Target Start Date: ASAP   Shift: 8:30-5   Call Requirements: None   Weekends: ROTATING everyother             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   Each Unit Varies 
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   15 RNs, 15 SW 
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   18 staff members/skill mix   
+   
+o
+
+
+   Night Shift - NA
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   1: 30 RN to patient 
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   Computer, office   equipment
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech / Midas
+   
+ 
+
+
+
+
+
+
+
+   Permanent Positions on Unit Avaliable?   (Y/N)  
+             Typical hiring profile             Skill Set Most recruited for:
+   (Travel RNs, local CNAs and sitters)   
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+Meditech or HCA experience 
+   
+ 
+
+
+
+
+
+
+
+   Bed side   case management experience at least 1 year 
+   
+ 
+
+
+
+
+
+
+
+   Post   acute care knowledge
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   Meditech/Midas   or HCA experience 
+
+   
+ 
+
+
+
+
+
+
+
+   
+Throughput experience 
+   
+List typical procedures performed on unit(s): 
+
+   
+ 
+
+
+
+
+
+
+
+   
+Discharge planning and progression 
+   
+ 
+
+
+
+
+
+
+
+   Hard   conversations with family, patients and open discussion with MD for plans of   care 
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Strong personality to have   hard conversations 
+   
+ 
+
+
+
+
+
+
+
+   Adaptable and proactive
+             
+Dress Code: Include requirements, but most of   all not acceptable attire.
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color -
+ Navy with white lab coat
+   
+ 
+
+
+
+
+
+
+
+   
+Business casual with white lab coat, closed   toe shoes, no crocs, no fake nails
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+
+
+             Awards/Recognition: 
+Feel free to include items such as   links to videos that feature the department, outstanding department/team   awards, reigning annual chili cook-off winners, etc.
+    
+ 
+
+
+
+
+
+
+
+   
+
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.
+ *Remember it is a very   competitive market any information you can provide will help attract talent.
+ General Comments
+ No. of Positions: 1/2.
+    [sitename] => giftednurses
+    [spec] => Case Mgmt
+    [assignmentid] => 546349
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5500
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-02-26
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => February, 08 2024 21:37:45
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=778636 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=ST. DAVID'S MEDICAL CENTER TX ;City=AUSTIN ;State=TX ;Zip=78705 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=RN ;Specialty=Case Mgmt ;Unit=CENTRAL AND WEST TEXAS DIVISION (50) ;Shift=8A-5P;# of Postions=1;Type=Travel;BillRate=$65.00;minBillRate=$65.00;OTRate=73 ;CallbackRate=73 ;HolidayRate=73 ;Orientation=0 ;Description=Description:CONTRACT - RN - CASE MGMT (689) - 13 WEEKS - 8A-5P
+NO ON CALL REQUIRED
+MEDITECH EXP REQ.
+
+
+Unit Profiles:
+  
+The purpose of a unit profile is to help provide an exceptional understanding of the unit.
+ Profiles will include location, number of beds, patient rations, and other unique details to assist recruiting professional in effectively and efficiently identifying highly qualified staff. 
+
+Below you will find a data collection tool to help you identify essential data needed to complete your profile.
+ 
+  
+
+
+  
+Data Collection:
+          Unit Information:
+                Location:              
+Building: St.   David s Main Campus
+   
+919 E 32ND   st. Austin, TX 78705
+         
+Floor: TBD- ICU,   Observation, Tele, PCU, Neuro, Ortho
+             Order Detail:             Facility Department   Number:    Discipline: RN Case   Manager    Quantity: 2   Target Start Date: ASAP   Shift: 8:30-5   Call Requirements: None   Weekends: ROTATING everyother             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   Each Unit Varies 
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   15 RNs, 15 SW 
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   18 staff members/skill mix   
+   
+o
+
+
+   Night Shift - NA
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   1: 30 RN to patient 
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   Computer, office   equipment
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech / Midas
+   
+ 
+
+
+
+
+
+
+
+   Permanent Positions on Unit Avaliable?   (Y/N)  
+             Typical hiring profile             Skill Set Most recruited for:
+   (Travel RNs, local CNAs and sitters)   
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+Meditech or HCA experience 
+   
+ 
+
+
+
+
+
+
+
+   Bed side   case management experience at least 1 year 
+   
+ 
+
+
+
+
+
+
+
+   Post   acute care knowledge
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   Meditech/Midas   or HCA experience 
+
+   
+ 
+
+
+
+
+
+
+
+   
+Throughput experience 
+   
+List typical procedures performed on unit(s): 
+
+   
+ 
+
+
+
+
+
+
+
+   
+Discharge planning and progression 
+   
+ 
+
+
+
+
+
+
+
+   Hard   conversations with family, patients and open discussion with MD for plans of   care 
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Strong personality to have   hard conversations 
+   
+ 
+
+
+
+
+
+
+
+   Adaptable and proactive
+             
+Dress Code: Include requirements, but most of   all not acceptable attire.
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color -
+ Navy with white lab coat
+   
+ 
+
+
+
+
+
+
+
+   
+Business casual with white lab coat, closed   toe shoes, no crocs, no fake nails
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+
+
+             Awards/Recognition: 
+Feel free to include items such as   links to videos that feature the department, outstanding department/team   awards, reigning annual chili cook-off winners, etc.
+    
+ 
+
+
+
+
+
+
+
+   
+
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.
+ *Remember it is a very   competitive market any information you can provide will help attract talent.
+ General Comments
+ No. of Positions: 1/2. ;url=https://vendor.healthtrustws.com/positions/778636;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => St. David's Medical Center Travel
+    [shiftDateEnd] => 2024-05-27
+    [shiftStartTime] => 08:00
+    [subjectID] => 
+)

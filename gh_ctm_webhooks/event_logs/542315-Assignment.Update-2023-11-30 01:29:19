@@ -1,0 +1,72 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '28',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3646',
+  'Cf-Ray' => '82df518c246b495d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Travel CT Scan Tech
+Start: ASAP
+
+Duration: 13 weeks
+Shift: Evenings, 2:30p - 11p, 5x8 hour shifts, EOW required**AART, CT certification is required**$80/hr rate approved
+ General CommentsThe CT Technologist is a graduate of an accredited AMA school and registered with the American Registry of Radiologic Technology (ARRT). The CT Technologist is licensed by the state as a general radiographer and is responsible for providing timely diagnostic services to both inpatient and outpatients under the direction of a Radiologist and departmental protocols. Responsibilities include but are not limited to the performance of basic radiographic procedures, fluoroscopy, portable radiographic procedures, C-arm procedures, and OR imaging services. The CT Technologist demonstrates proficiency at routine diagnostic CT Scanning procedures including but not limited to CT of head/brain, neck, thorax, spine, abdomen/pelvis extremities and biopsy/drainage procedures. Responsibilities also include: knowledge of processing of CT system, surgical/sterile procedure, studies with or without contrast media and cross sectional anatomy.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 542315
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 2412
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => November, 29 2023 20:29:12
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=773211 ;Status=Open;Association=Community Health Systems ;Client=Wilkes-Barre General Hospital ;City=Kingston ;State=PA ;Zip=18740 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=CT Tech ;Specialty=Radiology ;Unit=EXT-Other (911) ;Shift=14:30-23:00;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:Travel CT Scan Tech
+Start: ASAP
+
+Duration: 13 weeks
+Shift: Evenings, 2:30p - 11p, 5x8 hour shifts, EOW required**AART, CT certification is required**$80/hr rate approved
+ General CommentsThe CT Technologist is a graduate of an accredited AMA school and registered with the American Registry of Radiologic Technology (ARRT). The CT Technologist is licensed by the state as a general radiographer and is responsible for providing timely diagnostic services to both inpatient and outpatients under the direction of a Radiologist and departmental protocols. Responsibilities include but are not limited to the performance of basic radiographic procedures, fluoroscopy, portable radiographic procedures, C-arm procedures, and OR imaging services. The CT Technologist demonstrates proficiency at routine diagnostic CT Scanning procedures including but not limited to CT of head/brain, neck, thorax, spine, abdomen/pelvis extremities and biopsy/drainage procedures. Responsibilities also include: knowledge of processing of CT system, surgical/sterile procedure, studies with or without contrast media and cross sectional anatomy.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/773211;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Wilkes-Barre General Hospital
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

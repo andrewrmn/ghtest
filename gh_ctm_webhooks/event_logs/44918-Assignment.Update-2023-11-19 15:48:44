@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3256',
+  'Cf-Ray' => '8289995781ab1830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position DescriptionICU RN     13 WEEK CONTRACT (DAY SHIFT)RATE$60.00 Local (< 50miles from facility)$63.00 Travel (>50 miles from facility)** Minimum 3 years ofcurrent acute care hospital ICU experience REQUIRED. PCU,Step-Down, LTAC, rehab or home health experience will NOT beconsidered **IMMEDIATE AVAILABILITY REQUIRED. LOCAL CANDIDATES PREFERRED.- Day Shift 7a     7p- Must have Texas RNlicense (or compact license) with no restrictionsAmerican HeartAssociation (AHA) approved Basic Life Support (BLS) and Advanced Cardiac LifeSupport (ACLS) required. Pediatric Advanced Life Support (PALS) preferred- Scrubs: Navy Blue** All submissions MUST includethe bill rate, skills checklist and a minimum of 2 references to be considered**parseGeneralComments Comments.bd_title                                  {                                         font-weight: bold;                                  } Contact: Christi Hahn Resource Manager: Suhani Desai OT Rate:?/$88.20 Holiday Rate: ?/$94.50https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=257748&null 
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 44918
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-01-07
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:48:41
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;ID=0;SourceID=257748;Status=Open;Client=Cedar Park Regional Medical Center;City=Cedar Park;State=TX;Zip=78613;Start=1/7/2019 12:00:00 AM;End=4/8/2019;Duration=91;Cert=Registered Nurse (RN);Specialty=ICU;Unit=1031: INTENSIVE CARE UNIT;Shift=7:00 AM - 7:00 PM;# of Postions=1;Type=Travel;BillRate=$63.00;OnCallRate=$6.30;Description=Position DescriptionICU RN     13 WEEK CONTRACT (DAY SHIFT)RATE$60.00 Local (< 50miles from facility)$63.00 Travel (>50 miles from facility)** Minimum 3 years ofcurrent acute care hospital ICU experience REQUIRED. PCU,Step-Down, LTAC, rehab or home health experience will NOT beconsidered **IMMEDIATE AVAILABILITY REQUIRED. LOCAL CANDIDATES PREFERRED.- Day Shift 7a     7p- Must have Texas RNlicense (or compact license) with no restrictionsAmerican HeartAssociation (AHA) approved Basic Life Support (BLS) and Advanced Cardiac LifeSupport (ACLS) required. Pediatric Advanced Life Support (PALS) preferred- Scrubs: Navy Blue** All submissions MUST includethe bill rate, skills checklist and a minimum of 2 references to be considered**parseGeneralComments Comments.bd_title                                  {                                         font-weight: bold;                                  } Contact: Christi Hahn Resource Manager: Suhani Desai OT Rate:?/$88.20 Holiday Rate: ?/$94.50https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=257748&null;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 63
+    [facilityName] => Cedar Park Regional Medical Center
+    [shiftDateEnd] => 2019-04-08
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

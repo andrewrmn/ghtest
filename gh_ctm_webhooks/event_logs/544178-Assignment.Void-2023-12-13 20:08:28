@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3747',
+  'Cf-Ray' => '8350d6d7560e1466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => MIICU RN (Medical Intermediate and Intensive Care Unit)Shift available: Need rotating staff. Want someone who can work Christmas, and then have Thanksgiving and New Year's off.-We are looking for full-time ICU-specific RNs with Surgical ICU experience. Transplant ICU experience is a plus.-Must have 3 yearslarge teaching facility experience. Prefer Level 1 Trauma experience.-CRRT experience required-The Medical Intermediate and Intensive Care Unit is a new unit designed to be flexible in the ability for the nurses to care for patient on their continuum of care.COVID patient care is likely and may be required36 hours per week; 3 - 12 hr shiftsEvery other weekendHolidays - as negotiated with unitNo On CallReassignments within competencyBKATLawson Code 2103 /Cost Center 100231Dress Code: Ceil blue scrubsVCU has a natural nails policy   Additional Information:Orientation: The first 16 hours of orientation are unpaid. Call Off Policy: 5 shifts (or the equivalent hours) per 13 week assignment.  Parking: Travelers may need to  pay for parking at VCU depending on how close they want to be to the hospital.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 544178
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3760
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 13 2023 15:08:27
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261626 ;Status=Open;Association=VCU Health ;Client=VCU Medical Center ;City=Richmond ;State=VA ;Zip=23298 ;Start=12/12/2023;End=3/12/2024;Duration=91;Cert=Nursing ;Specialty=Intensive Care / Coronary Nurse (ICU), MICU ;Unit=Intensive Care / Coronary Nurse (ICU), MICU ;Shift=Rotating shifts;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$93.00;OTRate=103 ;OTRules=By The Week, after 40, ;CallbackRate=93 (All Inclusive Rate) ;HolidayRate=93 (All Inclusive Rate) ;OnCallRateDescription=$10 per hour pager ;Description=MIICU RN (Medical Intermediate and Intensive Care Unit)Shift available: Need rotating staff. Want someone who can work Christmas, and then have Thanksgiving and New Year's off.-We are looking for full-time ICU-specific RNs with Surgical ICU experience. Transplant ICU experience is a plus.-Must have 3 yearslarge teaching facility experience. Prefer Level 1 Trauma experience.-CRRT experience required-The Medical Intermediate and Intensive Care Unit is a new unit designed to be flexible in the ability for the nurses to care for patient on their continuum of care.COVID patient care is likely and may be required36 hours per week; 3 - 12 hr shiftsEvery other weekendHolidays - as negotiated with unitNo On CallReassignments within competencyBKATLawson Code 2103 /Cost Center 100231Dress Code: Ceil blue scrubsVCU has a natural nails policy   Additional Information:Orientation: The first 16 hours of orientation are unpaid. Call Off Policy: 5 shifts (or the equivalent hours) per 13 week assignment.  Parking: Travelers may need to  pay for parking at VCU depending on how close they want to be to the hospital.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261626;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 93
+    [facilityName] => VCU Medical Center - TRAVEL
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

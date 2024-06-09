@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2442',
+  'Cf-Ray' => '84ca3ff5f7cb1464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 07/01/2021 0716 MDTJackie Pittmann
+                            
+                            
+                                Rate is $100 for 48 hours and $90 for 36. Candidates will go through IVS. 2+ years exp and no time off will get automatic offers. Time off must be submitted to Seton to approve. Make sure profiles are IVS ready. No block scheduling allowed. HCP must be willing to float to other facilities only when absolutely necessary.
+ RatePlan:AH-Rapid Response (Covid19) MAY 1
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 244955
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13445
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-08-30
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 28 2024 10:25:06
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;SourceID=9317374 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Medical Center ;City=Austin ;State=TX ;Zip=78701 ;Start=8/2/2021;End=10/31/2021;Duration=91;Cert=RN ;Specialty=ICU ;Unit=SMC Critical Care ;Shift=NOC 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$95.00;minBillRate=$95.00;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=07/01/2021 0716 MDTJackie Pittmann
+                            
+                            
+                                Rate is $100 for 48 hours and $90 for 36. Candidates will go through IVS. 2+ years exp and no time off will get automatic offers. Time off must be submitted to Seton to approve. Make sure profiles are IVS ready. No block scheduling allowed. HCP must be willing to float to other facilities only when absolutely necessary.
+ RatePlan:AH-Rapid Response (Covid19) MAY 1 ;url=https://automated.shiftwise.net/esp/order.aspx?order_id=254F3905630E51A08C055E0F84A35149;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Ascension Seton Medical Center Austin
+    [shiftDateEnd] => 2021-11-28
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

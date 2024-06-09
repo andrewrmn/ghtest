@@ -1,0 +1,193 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4792',
+  'Cf-Ray' => '8307b8ddd67a23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN PCU7:00PM-7:00AM13 WEEKS
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTING
+MUST HAVE VA LICENSE/COMPACT AT SUBMISSION
+BLS AND ACLS REQUIRED
+ General CommentsUnit Information:
+ PSU (Progressive Surgical Unit)
+
+Location: Henrico- Forest 
+
+Address: 1602 Skipwith Drive, Richmond, VA 23229
+
+Floor: 2nd
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   12Number of Staff   20 totalType of staff:Day Shift   3 or 4 nurses (one charge with pt) and 1 pctNight Shift   3 nurses and 1 pctPatient Ratios   4:1Type of equipment   central lines, pca, epidural, drains, foley, wound vac, wound care.EMR   Meditech
+
+
+
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+Able to read cardiac monitorAble to give narcotics
+
+
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+Stepdown experience 
+Post-surgery experience
+
+
+
+List typical procedures performed on unit(s): 
+
+Colon resections, whipple, liver and kidney surgeries, vascular, trauma Any surgeries other than cardiac surgery   some medical overflowCardiac drips (popular Cardizem amiodarone, heparin)
+ 
+
+
+
+Best personality Fit:
+
+Team player   critical thinking   kind and compassionate
+REQUIRED CERTIFICATIONS:
+BLS, ACLS
+Floating Area(s):
+Tele and med surg
+Dress Code: 
+Scrub Color/Attire   all navy
+
+
+
+Unit Guidelines/Policies: 
+VS and assessments q4h Rhythm interpretation q4h
+
+
+
+Weekends and On call:
+Every other weekend   overtime available
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 541265
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5469
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 04 2023 18:10:12
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771076 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HENRICO DOCTORS HOSPITAL-FOREST VA ;City=RICHMOND ;State=VA ;Zip=23229 ;Start=11/26/2023;End=2/25/2024;Duration=91;Cert=RN ;Specialty=PCU ;Unit=CAPITAL DIVISION (20) ;Shift=7P - 7A;# of Postions=1;Type=Travel;BillRate=$85.00;OTRate=93 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL RN PCU7:00PM-7:00AM13 WEEKS
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTING
+MUST HAVE VA LICENSE/COMPACT AT SUBMISSION
+BLS AND ACLS REQUIRED
+ General CommentsUnit Information:
+ PSU (Progressive Surgical Unit)
+
+Location: Henrico- Forest 
+
+Address: 1602 Skipwith Drive, Richmond, VA 23229
+
+Floor: 2nd
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   12Number of Staff   20 totalType of staff:Day Shift   3 or 4 nurses (one charge with pt) and 1 pctNight Shift   3 nurses and 1 pctPatient Ratios   4:1Type of equipment   central lines, pca, epidural, drains, foley, wound vac, wound care.EMR   Meditech
+
+
+
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+Able to read cardiac monitorAble to give narcotics
+
+
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+Stepdown experience 
+Post-surgery experience
+
+
+
+List typical procedures performed on unit(s): 
+
+Colon resections, whipple, liver and kidney surgeries, vascular, trauma Any surgeries other than cardiac surgery   some medical overflowCardiac drips (popular Cardizem amiodarone, heparin)
+ 
+
+
+
+Best personality Fit:
+
+Team player   critical thinking   kind and compassionate
+REQUIRED CERTIFICATIONS:
+BLS, ACLS
+Floating Area(s):
+Tele and med surg
+Dress Code: 
+Scrub Color/Attire   all navy
+
+
+
+Unit Guidelines/Policies: 
+VS and assessments q4h Rhythm interpretation q4h
+
+
+
+Weekends and On call:
+Every other weekend   overtime available
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/771076;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Henrico Doctors' Hospital Travel- Forest Campus
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

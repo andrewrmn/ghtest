@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2246',
+  'Cf-Ray' => '829a8934243f1465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => North Country Hospital has a position for a motivated emergency room nurse with 3-5 years of emergency room experience. This is a night position with some rotating shifts. It does include working every other weekend, and will guarantee 72 hours bi-weekly.  North Country Hospital is a 25-bed Critical Access hospital located in the heart of the Northeast Kingdom.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 545368
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5771
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 21 2023 12:08:39
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261993 ;Status=Open;Association=North Country Hospital ;Client=North Country Hospital ;City=Newport ;State=VT ;Zip='05855 ;Start=1/8/2024;End=4/8/2024;Duration=91;Cert=Nursing ;Specialty=Emergency Room Nurse, Critical Access Hospital RN ;Unit=Emergency Room Nurse, Critical Access Hospital RN ;Shift=night shift;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$100.00;OTRate=110 ;OTRules=By The Week, after 40, ;CallbackRate=100 (All Inclusive Rate) ;HolidayRate=110 (All Inclusive Rate + $10) ;OnCallRateDescription=$5 per hour pager ;Description=North Country Hospital has a position for a motivated emergency room nurse with 3-5 years of emergency room experience. This is a night position with some rotating shifts. It does include working every other weekend, and will guarantee 72 hours bi-weekly.  North Country Hospital is a 25-bed Critical Access hospital located in the heart of the Northeast Kingdom.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261993;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => North Country Hospital
+    [shiftDateEnd] => 2024-04-08
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

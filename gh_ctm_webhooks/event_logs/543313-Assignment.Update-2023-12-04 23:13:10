@@ -1,0 +1,152 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8559',
+  'Cf-Ray' => '8307bd00759a1465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:CT Technologist for level 1 trauma center.  OP, IP and ED patient types (continued below)
+Complete Description:CT Technologist for level 1 trauma center.  OP, IP and ED patient types
+
+Job Summary:
+Conducts procedures and tests using Computerized Tomography (CT) equipment to acquire and analyze patient
+diagnostic data.
+
+Description of Job Responsibilities:
+1. Patient Identification- Uses professional manners and methods, verifies patient identification, obtains patient
+history, assists patients and family members that require extra attention, insures patient understanding whenever possible, and insures patient safety. Verifies patient identification, asks and documents pregnancy status on patients of child bearing age.
+
+2. CT Scans- Obtains images per protocols, manipulates images according to protocols, performs multi-planar and 3D reconstruction of image data, demonstrates a thorough knowledge of CT algorithms, and selects appropriate window and level setting according to anatomy.
+
+3. Contrast- Administers oral contrast to adult and pediatric patients according to protocols, establishes intravenous lines, administers IV contrast following safe and proper injection procedures, follows correct procedure to determine contrast eligibility, checks appropriate lab values before contrast injection per protocol.
+
+4. Image Transfer- Maintains thorough understanding of PACS, and transmits images to QC, UNCH s EMR, EPIC and PACS, verifies and segments images at the QC station, accesses IMPAX service tools to verify images transmission, completes, modifies and/or cancels orders in an appropriate and timely manner, cancels duplicate orders to avoid duplicate billing. Insures that all charge information is accurate. Verifies patient identification in accordance with UNC policy, insures that all appropriate demographic information is accurate and on the PACS images.
+
+5. Other Duties- Performs task in a timely manner, runs the schedule creating a consistent workflow, volunteers to work on challenging tasks, difficult procedures and new research, produces quality diagnostic images, reviews patient's chart and reports for correlation, maintains a clean and orderly work environment, creates and keeps documentation of incidents as improvement opportunities for employees and the department. Precept new employees and students.
+
+Education Requirements:
+Completion of an accredited educational program in Radiological Science or completion within 3 months at time of application.
+
+Licensure/Certification Requirements:
+Must be registered with the American Registry of Radiological Sciences or registry eligible. For registry eligible
+candidates: must provide a copy of diploma from accredited program.
+Requires advanced certification in CT within one year of employment.
+Successful candidates must become registered within one year of employment and must maintain their registry
+status and continuing education requirements annually.
+All imaging specialists are required to maintain current competency in HCP BLS.
+Professional Experience Requirements:
+Prior education, training and experience that provides the ability to perform the assigned tasks.
+Requisition Comments:Client Offers! Candidates will be reviewed/interviewed by MGR.
+
+Must include RTO in submittal in order to be honored at time of offer!
+
+Required: BLS, ARRT (CT)
+Epic preferred
+Scheduling Details:3x12 Hour Shifts: Nights
+Friday/Sat/Sun 7:00p-7:30a
+
+Call: N/A
+Weekend: Refer to shift
+Required: BLS, ARRT (CT)
+Epic preferred
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 543313
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13245
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => December, 04 2023 18:12:31
+    [daysPerWeek] => 3
+    [orderNote] => Source=PeopleFluent;SourceID=724464 ;Status=Open;Association=Computerized Tomography, 100 - 330408 - 1000 ;Client=UNC Health ;Start=12/11/2023;End=3/9/2024;Duration=89;Cert=CT Technologist ;Specialty=CT Tech ;Unit=CT Technologist - Computerized Tomography - Nights - UNC Medical Center ;Shift=3x12.0 3x12 Hour Shifts: Nights
+Friday/Sat/Sun 7:00p-7:30a
+
+Call: N/A
+Weekend: Refer to shift
+Required: BLS, ARRT (CT)
+Epic preferred;# of Postions=1;Type=Travel;BillRate=$80.00;Description=Short Description:CT Technologist for level 1 trauma center.  OP, IP and ED patient types (continued below)
+Complete Description:CT Technologist for level 1 trauma center.  OP, IP and ED patient types
+
+Job Summary:
+Conducts procedures and tests using Computerized Tomography (CT) equipment to acquire and analyze patient
+diagnostic data.
+
+Description of Job Responsibilities:
+1. Patient Identification- Uses professional manners and methods, verifies patient identification, obtains patient
+history, assists patients and family members that require extra attention, insures patient understanding whenever possible, and insures patient safety. Verifies patient identification, asks and documents pregnancy status on patients of child bearing age.
+
+2. CT Scans- Obtains images per protocols, manipulates images according to protocols, performs multi-planar and 3D reconstruction of image data, demonstrates a thorough knowledge of CT algorithms, and selects appropriate window and level setting according to anatomy.
+
+3. Contrast- Administers oral contrast to adult and pediatric patients according to protocols, establishes intravenous lines, administers IV contrast following safe and proper injection procedures, follows correct procedure to determine contrast eligibility, checks appropriate lab values before contrast injection per protocol.
+
+4. Image Transfer- Maintains thorough understanding of PACS, and transmits images to QC, UNCH s EMR, EPIC and PACS, verifies and segments images at the QC station, accesses IMPAX service tools to verify images transmission, completes, modifies and/or cancels orders in an appropriate and timely manner, cancels duplicate orders to avoid duplicate billing. Insures that all charge information is accurate. Verifies patient identification in accordance with UNC policy, insures that all appropriate demographic information is accurate and on the PACS images.
+
+5. Other Duties- Performs task in a timely manner, runs the schedule creating a consistent workflow, volunteers to work on challenging tasks, difficult procedures and new research, produces quality diagnostic images, reviews patient's chart and reports for correlation, maintains a clean and orderly work environment, creates and keeps documentation of incidents as improvement opportunities for employees and the department. Precept new employees and students.
+
+Education Requirements:
+Completion of an accredited educational program in Radiological Science or completion within 3 months at time of application.
+
+Licensure/Certification Requirements:
+Must be registered with the American Registry of Radiological Sciences or registry eligible. For registry eligible
+candidates: must provide a copy of diploma from accredited program.
+Requires advanced certification in CT within one year of employment.
+Successful candidates must become registered within one year of employment and must maintain their registry
+status and continuing education requirements annually.
+All imaging specialists are required to maintain current competency in HCP BLS.
+Professional Experience Requirements:
+Prior education, training and experience that provides the ability to perform the assigned tasks.
+Requisition Comments:Client Offers! Candidates will be reviewed/interviewed by MGR.
+
+Must include RTO in submittal in order to be honored at time of offer!
+
+Required: BLS, ARRT (CT)
+Epic preferred
+Scheduling Details:3x12 Hour Shifts: Nights
+Friday/Sat/Sun 7:00p-7:30a
+
+Call: N/A
+Weekend: Refer to shift
+Required: BLS, ARRT (CT)
+Epic preferred ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=724464;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => UNC Medical Center TRAVEL
+    [shiftDateEnd] => 2024-03-22
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

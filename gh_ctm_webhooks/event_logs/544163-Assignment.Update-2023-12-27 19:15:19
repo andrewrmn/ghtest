@@ -1,0 +1,66 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2910',
+  'Cf-Ray' => '83c3e433a7f41842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 Week
+1900 - 0730 (Friday - Sunday)
+
+The registered nurse plans and provides professional nursing care to the patient from admission to discharge. He/She coordinates care with other disciplines, consults with the family or significant others and collaborates with the physician on the patient s behalf. The RN assesses implements and evaluates nursing care. The Special Care Unit registered nurse plans and provides care to patients in a 4 bed cardio-respiratory monitored unit. The SCU cares for medical and surgical patients with a variety of diagnosis including but not limited to, congestive heart failure, cardiac arrhythmias, pneumonia, diabetes, COPD, abdominal surgeries and minor trauma. The patients of the SCU require continuous telemetry monitoring and nurse ratio of 1:2 to meet their healthcare needs.
+    [sitename] => giftednurses
+    [spec] => SICU
+    [assignmentid] => 544163
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15849
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-21
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 27 2023 14:15:15
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48426 ;Status=In-Progress (O);Association=Trinity Health ;Client=IA - MercyOne Newton Medical Center ;City=Newton ;State=IA ;Zip=50208 ;Start=1/7/2024;End=4/6/2024;Duration=90;Cert=RN CRCU/ICU ;Specialty=Surgical ICU ;Unit=IA/Newton/SCU - RN WKND Nights ;Shift=7p7a;# of Postions=1;Type=Travel;BillRate=$86.00;OTRate=111.80 ;ChargeRate=89.00 ;CallbackRate=111.80 ;HolidayRate=111.80 ;Orientation=0.00 ;Description=13 Week
+1900 - 0730 (Friday - Sunday)
+
+The registered nurse plans and provides professional nursing care to the patient from admission to discharge. He/She coordinates care with other disciplines, consults with the family or significant others and collaborates with the physician on the patient s behalf. The RN assesses implements and evaluates nursing care. The Special Care Unit registered nurse plans and provides care to patients in a 4 bed cardio-respiratory monitored unit. The SCU cares for medical and surgical patients with a variety of diagnosis including but not limited to, congestive heart failure, cardiac arrhythmias, pneumonia, diabetes, COPD, abdominal surgeries and minor trauma. The patients of the SCU require continuous telemetry monitoring and nurse ratio of 1:2 to meet their healthcare needs. ;localRate=$85.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 86
+    [facilityName] => MercyOne Newton Medical Center TRAVEL
+    [shiftDateEnd] => 2024-04-20
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

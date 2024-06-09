@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2820',
+  'Cf-Ray' => '82cd48d337866a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => OR R.N. Circulation and PACU skills in ortho and general surgery cases.SHIFT: DAYS - NO CALL, NO WEEKENDS?CERTS REQUIRED: ?ACLS, BLS **CURRENT UNRESTRICTED COLORADO RN LICENSE REQUIRED**?HOUSING: ?Possibility of sharing 2 bedroom/ 2 bath apartment **ABSOLUTELY NO PETS/NO SMOKING** COST: around $700/month (if available) / $350 w/ a roommate / $150 deposit   housing information is uploaded into our Medefis account under the  facility group document  section?   Additional Information:RADIUS RULE: Traveler s perm address must be at least 65 miles away from our facility. Local travelers will not be considered.   Position Urgency:Normal Billing string = Pioneers Medical Center
+    [sitename] => giftednurses
+    [spec] => PACU
+    [assignmentid] => 546002
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 10058
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 27 2023 15:57:36
+    [daysPerWeek] => 5
+    [orderNote] => Source=Medefis5;SourceID=262189 ;Status=Open;Association=Pioneers Medical Center ;Client=Pioneers Medical Center ;City=Meeker ;State=CO ;Zip=81641 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Nursing ;Specialty=Post Anesthesia Care Unit Nurse (PACU), Orthopedic, Operating Room / Circulate ;Unit=Post Anesthesia Care Unit Nurse (PACU), Orthopedic, Operating Room / Circulate ;Shift=Day;# of Postions=3;Guaranteed Hours=36;Type=Travel;BillRate=$100.00;minBillRate=$45.00;OTRate=150 ;OTRules=By The Week, after 40, ;CallbackRate=150 (1.5 X All Inclusive Rate (Time & 1/2)) ;OnCallRateDescription=No Call ;Description=OR R.N. Circulation and PACU skills in ortho and general surgery cases.SHIFT: DAYS - NO CALL, NO WEEKENDS?CERTS REQUIRED: ?ACLS, BLS **CURRENT UNRESTRICTED COLORADO RN LICENSE REQUIRED**?HOUSING: ?Possibility of sharing 2 bedroom/ 2 bath apartment **ABSOLUTELY NO PETS/NO SMOKING** COST: around $700/month (if available) / $350 w/ a roommate / $150 deposit   housing information is uploaded into our Medefis account under the  facility group document  section?   Additional Information:RADIUS RULE: Traveler s perm address must be at least 65 miles away from our facility. Local travelers will not be considered.   Position Urgency:Normal Billing string = Pioneers Medical Center ;url=https://vms.medefis5.com/jobs/262189;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Pioneers Medical Center TRAVEL
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

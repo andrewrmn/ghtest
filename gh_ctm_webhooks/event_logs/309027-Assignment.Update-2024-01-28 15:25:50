@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1826',
+  'Cf-Ray' => '84ca401226f41466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 11/08/2021 0737 MSTJackie Pittmann
+                            
+                            
+                                Kanisha Estime
+ RatePlan:AH-Covid 19 RN rates (8-25-2021)
+    [sitename] => giftednurses
+    [spec] => ORT
+    [assignmentid] => 309027
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13445
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-11-22
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => ORT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => January, 28 2024 10:25:06
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;SourceID=9553610 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Medical Center ;City=Austin ;State=TX ;Zip=78701 ;Start=11/22/2021;End=1/16/2022;Duration=56;Cert=OR Tech ;Specialty=OR ;Unit=SMC Surgery ;Shift=NOC 10.00 Hrs;# of Postions=1;Type=Travel;BillRate=$95.00;minBillRate=$95.00;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=11/08/2021 0737 MSTJackie Pittmann
+                            
+                            
+                                Kanisha Estime
+ RatePlan:AH-Covid 19 RN rates (8-25-2021) ;url=https://automated.shiftwise.net/esp/order.aspx?order_id=DD81B212D17A2F6DBF750D26AF974206;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Ascension Seton Medical Center Austin
+    [shiftDateEnd] => 2022-01-16
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

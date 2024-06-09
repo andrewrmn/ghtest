@@ -1,0 +1,86 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3312',
+  'Cf-Ray' => '82dc396dd3cb4951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Bill Rate $90.00 / Local $75.00
+Mid Shift:  noon to midnight
+
+
+The Registered Nurse holds shift accountability for providing care to Emergency Room patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care of the patient in the Emergency Department; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care
+ General CommentsShift times: Mid Shift - 12pm - 12am
+
+Certifications and experience required for position: NM RN Licensure
+
+Current BLS, ACLS & PALS & NRP
+
+2 years experience -critical care
+ No. of Positions: 1/1.
+ Position creation reason:Replacement of Perm Staff
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 545089
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9807
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 00:00
+    [whenmodified] => November, 29 2023 11:28:30
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=776341 ;Status=Open;Association=QHCCS, LLC ;Client=Mimbres Memorial Hospital ;City=Deming ;State=NM ;Zip=88030 ;Start=12/4/2023;End=3/3/2024;Duration=91;Cert=RN ;Specialty=Emergency Dept ;Unit=EXT-Other (911) ;Shift=12:00-00:00;# of Postions=1;Type=Travel;BillRate=$5.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Bill Rate $90.00 / Local $75.00
+Mid Shift:  noon to midnight
+
+
+The Registered Nurse holds shift accountability for providing care to Emergency Room patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care of the patient in the Emergency Department; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care
+ General CommentsShift times: Mid Shift - 12pm - 12am
+
+Certifications and experience required for position: NM RN Licensure
+
+Current BLS, ACLS &amp; PALS &amp; NRP
+
+2 years experience -critical care
+ No. of Positions: 1/1.
+ Position creation reason:Replacement of Perm Staff ;url=https://vendor.healthtrustws.com/positions/776341;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 5
+    [facilityName] => Mimbres Memorial Hospital - Travel
+    [shiftDateEnd] => 2024-03-03
+    [shiftStartTime] => 12:00
+    [subjectID] => 
+)

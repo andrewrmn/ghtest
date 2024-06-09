@@ -1,0 +1,89 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1748',
+  'Cf-Ray' => '8305c6c1d31223b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 weeks
+
+	Adult ED
+
+	36hrs 12hrs
+
+	Every Other wekend
+
+	Holiday as needed
+
+	No Guaranteed Hours
+
+	Required: NIH Stroke, ACLS, BLS
+
+	Recent EPIC expereince required
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 544013
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2907
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => December, 04 2023 12:30:16
+    [daysPerWeek] => 3
+    [orderNote] => Source=IntrastaffVMS;SourceID=304208 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Howard CNTY General Hospital ;Start=12/18/2023;End=3/16/2024;Duration=89;Cert=MSP RN Enhanced High Needs ;Specialty=EMERGENCY - ADULT (6407410000) ;Unit=EMERGENCY - ADULT (6407410000) ;Shift=Night 12 (7:00 PM - 7:30 AM);# of Postions=1;Type=Travel;BillRate=$100.00;minBillRate=$100.00;Description=13 weeks
+
+	Adult ED
+
+	36hrs 12hrs
+
+	Every Other wekend
+
+	Holiday as needed
+
+	No Guaranteed Hours
+
+	Required: NIH Stroke, ACLS, BLS
+
+	Recent EPIC expereince required ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=AHBO&ID=E145RYfTbLQ=&BID=J6F5puRDbe8=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => JHHS Howard County General Hospital
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

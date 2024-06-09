@@ -1,0 +1,559 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '23',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5288',
+  'Cf-Ray' => '83382c2565a54949-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN TELE7:00AM - 7:00PM13 WEEKS
+
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE VA/COMPACT LICENSE AT SUBMISSION
+BLS/ACLS REQUIRED
+ General CommentsUnit Information:
+
+Telemetry, 2SBLocation: John Randolph Medical Center
+Address: 411 West Randolph Road, Hopewell, VA 23860
+
+Floor: 2
+
+Building: 2SB
+
+
+
+General InformationTell us about the unit(s):
+ 
+
+
+
+
+
+
+
+
+Number of Beds   23
+
+ 
+
+
+
+
+
+
+
+
+Number of Staff   28
+
+ 
+
+
+
+
+
+
+
+
+Type of staff:
+
+o
+
+
+
+Day Shift   1 Charge Nurse, 3-4 RNs, 1-3 PCTs, 1 US
+
+o
+
+
+
+Night Shift   1 CN, 3-4 RNs, 1-3 PCTs
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios   1:4-1:5
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment  
+
+Telemetry
+
+ 
+
+
+
+
+
+
+
+
+EMR  
+
+
+
+Hiring Profile
+
+Must have:
+
+
+ 
+
+
+
+
+
+
+
+
+Telemetry
+
+ 
+
+
+
+
+
+
+
+
+Cardiac drips
+
+
+
+
+Preferred or nice to have:
+
+
+ 
+
+
+
+
+
+
+
+
+Strong cardiac background
+
+ 
+
+
+
+
+
+
+
+
+SD/PCU experience
+
+
+
+
+List typical procedures performed on unit(s):
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Line placements
+
+ 
+
+
+
+
+
+
+
+
+
+Dialysis
+
+
+
+Best personality Fit:
+ 
+
+
+
+
+
+
+
+
+Team player
+
+
+REQUIRED CERTIFICATIONS:
+ 
+
+
+
+
+
+
+
+
+BLS &amp; ACLS
+Floating Area(s):
+ 
+
+
+
+
+
+
+
+
+Med/Surg, PCU if experienced
+
+Dress Code:
+
+ 
+
+
+
+
+
+
+
+
+Scrub Color/Attire  
+
+All Black, or black pants and red top for RNs
+
+
+
+Weekends and On call:
+ 
+
+
+
+
+
+
+
+
+Every other weekend
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 540137
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2870
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-20
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 10 2023 15:17:37
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771246 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=TriCities Hospital fka John Randolph Medical Center ;City=HOPEWELL ;State=VA ;Zip=23860 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=CAPITAL DIVISION (20) ;Shift=7:00AM - 7:00PM;# of Postions=1;Type=Travel;BillRate=$85.00;minBillRate=$85.00;OTRate=93 ;CallbackRate=93 ;HolidayRate=93 ;Description=Description:TRAVEL RN TELE7:00AM - 7:00PM13 WEEKS
+
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE VA/COMPACT LICENSE AT SUBMISSION
+BLS/ACLS REQUIRED
+ General CommentsUnit Information:
+
+Telemetry, 2SBLocation: John Randolph Medical Center
+Address: 411 West Randolph Road, Hopewell, VA 23860
+
+Floor: 2
+
+Building: 2SB
+
+
+
+General InformationTell us about the unit(s):
+ 
+
+
+
+
+
+
+
+
+Number of Beds   23
+
+ 
+
+
+
+
+
+
+
+
+Number of Staff   28
+
+ 
+
+
+
+
+
+
+
+
+Type of staff:
+
+o
+
+
+
+Day Shift   1 Charge Nurse, 3-4 RNs, 1-3 PCTs, 1 US
+
+o
+
+
+
+Night Shift   1 CN, 3-4 RNs, 1-3 PCTs
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios   1:4-1:5
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment  
+
+Telemetry
+
+ 
+
+
+
+
+
+
+
+
+EMR  
+
+
+
+Hiring Profile
+
+Must have:
+
+
+ 
+
+
+
+
+
+
+
+
+Telemetry
+
+ 
+
+
+
+
+
+
+
+
+Cardiac drips
+
+
+
+
+Preferred or nice to have:
+
+
+ 
+
+
+
+
+
+
+
+
+Strong cardiac background
+
+ 
+
+
+
+
+
+
+
+
+SD/PCU experience
+
+
+
+
+List typical procedures performed on unit(s):
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Line placements
+
+ 
+
+
+
+
+
+
+
+
+
+Dialysis
+
+
+
+Best personality Fit:
+ 
+
+
+
+
+
+
+
+
+Team player
+
+
+REQUIRED CERTIFICATIONS:
+ 
+
+
+
+
+
+
+
+
+BLS &amp; ACLS
+Floating Area(s):
+ 
+
+
+
+
+
+
+
+
+Med/Surg, PCU if experienced
+
+Dress Code:
+
+ 
+
+
+
+
+
+
+
+
+Scrub Color/Attire  
+
+All Black, or black pants and red top for RNs
+
+
+
+Weekends and On call:
+ 
+
+
+
+
+
+
+
+
+Every other weekend
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/771246;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => John Randolph Medical Center
+    [shiftDateEnd] => 2024-02-19
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,76 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1765',
+  'Cf-Ray' => '83f51adb23516a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:BACKFILL - CONTRACT -
+CST - OR/SURGERY (701) - 13 WEEKS - 630A-3P
+ON CALL REQUIRED
+
+MUST HAVE EXPERIENCE IN:
+Neuro/Ortho/Spine/Robotics
+Option for
+0630-1700 (4) 10's with a rotating day off
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 523462
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13187
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-08-28
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => January, 02 2024 13:35:58
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=747993 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=St. David's Surgical Hospital ;City=Austin ;State=TX ;Zip=78681 ;Start=8/14/2023;End=11/13/2023;Duration=91;Cert=CST/ORT ;Specialty=OR ;Unit=CENTRAL AND WEST TEXAS DIVISION (50) ;Shift=6:30A-3P ;# of Postions=1;Type=Travel;BillRate=$70.00;OTRate=78 ;CallbackRate=78 ;HolidayRate=78 ;Orientation=0 ;Description=Description:BACKFILL - CONTRACT -
+CST - OR/SURGERY (701) - 13 WEEKS - 630A-3P
+ON CALL REQUIRED
+
+MUST HAVE EXPERIENCE IN:
+Neuro/Ortho/Spine/Robotics
+Option for
+0630-1700 (4) 10's with a rotating day off
+ General Comments ;url=https://vendor.healthtrustws.com/positions/747993;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => St. David's Austin Surgery Center
+    [shiftDateEnd] => 2023-11-27
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

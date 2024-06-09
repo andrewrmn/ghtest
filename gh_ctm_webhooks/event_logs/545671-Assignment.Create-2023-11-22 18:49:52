@@ -1,0 +1,116 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3057',
+  'Cf-Ray' => '82a35ad803ae1463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:RN for MS/Tele at Wayne UNC Health Care in Goldsboro NC. Staffing Ratio is 1 to 5/6. Cardiac Observation: CHF, NSTEMI, STEMI, Low Risk Cardiac, post pacemaker, post cardiac cath
+Complete Description:
+Requisition Comments:Accepting local travelers 50 miles or closer offered at $75
+
+Lotus Offers! Fast Offers! 
+Candidate will NOT interview
+
+Must include RTO in submittal in order to be honored at time of offer
+
+Traveler is expected to float to like acuities or less if needed
+Scheduling Details:3x12's, Nights, 7p-7a
+
+EOW/EOH
+
+Can be placed on-call 1,12 hr shift per pay period in the event census drops
+
+No Flu exemptions accepted 
+
+Block Scheduling accepted
+
+*travel experience preferred
+*Epic exp. is preferred
+*Must have Telemetry exp.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545671
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9445
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 22 2023 13:49:37
+    [daysPerWeek] => 3
+    [orderNote] => Source=PeopleFluent;SourceID=725292 ;Status=Open;Association=MS/Tele - 7th Floor ;Client=UNC Health ;Start=12/11/2023;End=3/9/2024;Duration=89;Cert=RN ;Specialty=Med/Surg ;Unit=RN - MS/Tele - 7th Floor (Cardiopulmonary) - Nights - Wayne UNC Health Care ;Shift=3x12.0 3x12's, Nights, 7p-7a
+
+EOW/EOH
+
+Can be placed on-call 1,12 hr shift per pay period in the event census drops
+
+No Flu exemptions accepted 
+
+Block Scheduling accepted
+
+*travel experience preferred
+*Epic exp. is preferred
+*Must have Telemetry exp.;# of Postions=1;Type=Travel;BillRate=$85.00;Description=Short Description:RN for MS/Tele at Wayne UNC Health Care in Goldsboro NC. Staffing Ratio is 1 to 5/6. Cardiac Observation: CHF, NSTEMI, STEMI, Low Risk Cardiac, post pacemaker, post cardiac cath
+Complete Description:
+Requisition Comments:Accepting local travelers 50 miles or closer offered at $75
+
+Lotus Offers! Fast Offers! 
+Candidate will NOT interview
+
+Must include RTO in submittal in order to be honored at time of offer
+
+Traveler is expected to float to like acuities or less if needed
+Scheduling Details:3x12's, Nights, 7p-7a
+
+EOW/EOH
+
+Can be placed on-call 1,12 hr shift per pay period in the event census drops
+
+No Flu exemptions accepted 
+
+Block Scheduling accepted
+
+*travel experience preferred
+*Epic exp. is preferred
+*Must have Telemetry exp. ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=725292;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Wayne UNC Health Care TRAVEL
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

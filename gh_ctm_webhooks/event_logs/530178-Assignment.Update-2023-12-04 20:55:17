@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '945',
+  'Cf-Ray' => '8306f30a65d1183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Rate Change
+New RS ID: 135434
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 530178
+    [workerID] => 155854
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 14109
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-29
+    [workerLastName] => Cetoute
+    [shiftNum] => 5
+    [workerFirstName] => Kirdens
+    [cert] => RN
+    [floorDesc] => 3 Pines
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 04 2023 15:55:16
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$95lRS:135434lFTK:GiftTC(No Sign)
+ChrgDiff:P$3/B$5
+    [guaranteedMinimum] => 
+    [workerEmail] => Kirdens@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => AtlantiCare Regional Medical Center - Mainland TRAVEL
+    [shiftDateEnd] => 2024-01-06
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '21',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1687',
+  'Cf-Ray' => '84ca451d11f14941-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 10/10/2019 1201 MDTAriana Redler					2 years required, prev travel preferred, TX licenses not required for submission, 7p-7a night shift, CERNER EMR preferred, not required. CCS to montage, NM to make final offer
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 85572
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9548
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-11-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 28 2024 10:29:16
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;ID=0;SourceID=8396084;Status=;Association=CCS WFS: Seton HealthCare Network;Client=AH: Seton Hays Medical Center;City=Kyle;State=TX;Zip=78640;Start=11/4/2019;End=2/3/2020;Duration=92;Cert=RN;Specialty=ICU;Unit=SMCH ICU;Shift=NOC 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$69.09;OTRate= ;OTRules= ;ChargeRate= ;CallbackRate= ;CallbackRate= ;HolidayRate= ;OnCallRateDescription= ;Orientation= ;Description=10/10/2019 1201 MDTAriana Redler					2 years required, prev travel preferred, TX licenses not required for submission, 7p-7a night shift, CERNER EMR preferred, not required. CCS to montage, NM to make final offer;Buyer= ;VMSPositionType=  AvgHoursPerWeek=  InterviewRequired=False;WinterPlanNeed=;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 69.09
+    [facilityName] => Ascension Seton Hays
+    [shiftDateEnd] => 2020-02-03
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

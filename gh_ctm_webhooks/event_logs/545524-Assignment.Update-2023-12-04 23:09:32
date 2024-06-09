@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6832',
+  'Cf-Ray' => '8307b7b61284183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => P O S I T I O N S U M M A R YThe Registered Nurse provides and coordinates patient care through assessment, evaluation and treatment with a primary goal of achieving wellness and recovery.E S S E N T I A L F U N C T I O N S? Assessment, planning, implementation and evaluation of all aspects of care for patients within scope of practice.? Provides education to patients according to their needs.? Transcribes, utilizes and implements protocols and physician orders.? Coordinates healthcare team and delegates appropriate tasks to ancillary personnel.? Other duties as assignedE D U C A T I O N? Graduation of an accredited school of nursing required.E X P E R I E N C E? Previous experience in a hospital preferred.C R E D E N T I A L S? Must have a current, valid RN license from the State of Wyoming and must be in good standing with the Board of Nursing.? Must have current, valid Basic Life Support (BLS) certification and maintain credentials throughout employment with IMH.? Must have current, valid Advanced Cardiac Life Support (ACLS) certification and maintain credential throughout employment with IMH if performing circulating or recovery room for C-section, as determined by the Department Director.? Must have a current, valid Pediatric Advanced Life Support (PALS) certification and must maintain credential throughout employment with IMH if caring for Pediatrics.? Must have current, valid Neonatal Resuscitation Program (NRP) certification. NRP certification must be maintained throughout employment on the Family Care Unit.? Nurses who work in Labor and Deliver must complete the Intermediate Electronic Fetal monitoring class within the first year after completion of orientation. Labor nurses mustalso complete the Advanced Electronic Fetal Monitoring Class within three (3) years of completion of labor orientation. K N O W L E D G E , S K I L L S A N D A B I L I T I E S? Excellent customer service skills, including but not limited to: a friendly personality, tact, patience, empathy and a helpful, professional attitude both in person and on the telephone.? Ability to effectively communicate with staff, managers and the general public verbally and in writing.? Demonstrate effective listening skills.? Excellent organization and time management skills and ability to establish priorities effectively.? Possess exceptional problem solving skills. ? Ability to work effectively without immediate supervision.? Ability to learn new computer software programs.? Ability to recognize and protect confidential information.? Demonstrate ethical and legal accountability for the position.   Position Urgency:Normal Billing string = Ivinson Memorial Hospital
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 545524
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9433
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 04 2023 18:09:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262064 ;Status=Open;Association=Ivinson Memorial Hospital ;Client=Ivinson Memorial Hospital ;City=Laramie ;State=WY ;Zip=82072 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Nursing ;Specialty=Post Partum, Pediatric, Nursery, Labor and Delivery Nurse, NICU / Neonatal ICU ;Unit=Post Partum, Pediatric, Nursery, Labor and Delivery Nurse, NICU / Neonatal ICU ;Shift=Nights;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$100.00;OTRate=105 ;OTRules=By The Week, after 40, ;CallbackRate=105 (All Inclusive Rate + $5) ;HolidayRate=110 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=P O S I T I O N S U M M A R YThe Registered Nurse provides and coordinates patient care through assessment, evaluation and treatment with a primary goal of achieving wellness and recovery.E S S E N T I A L F U N C T I O N S? Assessment, planning, implementation and evaluation of all aspects of care for patients within scope of practice.? Provides education to patients according to their needs.? Transcribes, utilizes and implements protocols and physician orders.? Coordinates healthcare team and delegates appropriate tasks to ancillary personnel.? Other duties as assignedE D U C A T I O N? Graduation of an accredited school of nursing required.E X P E R I E N C E? Previous experience in a hospital preferred.C R E D E N T I A L S? Must have a current, valid RN license from the State of Wyoming and must be in good standing with the Board of Nursing.? Must have current, valid Basic Life Support (BLS) certification and maintain credentials throughout employment with IMH.? Must have current, valid Advanced Cardiac Life Support (ACLS) certification and maintain credential throughout employment with IMH if performing circulating or recovery room for C-section, as determined by the Department Director.? Must have a current, valid Pediatric Advanced Life Support (PALS) certification and must maintain credential throughout employment with IMH if caring for Pediatrics.? Must have current, valid Neonatal Resuscitation Program (NRP) certification. NRP certification must be maintained throughout employment on the Family Care Unit.? Nurses who work in Labor and Deliver must complete the Intermediate Electronic Fetal monitoring class within the first year after completion of orientation. Labor nurses mustalso complete the Advanced Electronic Fetal Monitoring Class within three (3) years of completion of labor orientation. K N O W L E D G E , S K I L L S A N D A B I L I T I E S? Excellent customer service skills, including but not limited to: a friendly personality, tact, patience, empathy and a helpful, professional attitude both in person and on the telephone.? Ability to effectively communicate with staff, managers and the general public verbally and in writing.? Demonstrate effective listening skills.? Excellent organization and time management skills and ability to establish priorities effectively.? Possess exceptional problem solving skills. ? Ability to work effectively without immediate supervision.? Ability to learn new computer software programs.? Ability to recognize and protect confidential information.? Demonstrate ethical and legal accountability for the position.   Position Urgency:Normal Billing string = Ivinson Memorial Hospital ;url=https://vms.medefis5.com/jobs/262064;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Ivinson Memorial Hospital
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

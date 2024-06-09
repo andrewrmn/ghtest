@@ -1,0 +1,87 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3381',
+  'Cf-Ray' => '836174d4725b77ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => MUST HAVE PHILIPS EXPERIENCE. 
+
+Weekend Requirement: Yes one weekend every 3 weeks Friday-Monday morning| On Call Requirement: Yes one weekday of night call per week | Float Requirement: N/A
+
+
+On-call will require a weekend coverage. Typically the tech is on call the overnights that they work the day of to include that weekend
+
+ Modified Time:12/7/2023 12:00:00 AM
+ Account Manager: Shannon Steely
+ Account Manager Email: Ssteely@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel.
+    [sitename] => giftednurses
+    [spec] => MRI
+    [assignmentid] => 544977
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13890
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-01
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => MRI Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => December, 15 2023 15:32:31
+    [daysPerWeek] => 5
+    [orderNote] => Source=AYA;SourceID=2301174 ;Status=Open;Association=Vaya Legacy MSP (Connect) ;Client=LCMC Health University Medical Center New Orleans ;City=New Orleans ;State=LA ;Zip=70112 ;Start=12/7/2023;End=3/7/2024;Duration=91;Cert=Radiology / Cardiology ;Specialty=MRI Tech ;Unit=50033 - UMCMRI - MRI Technologist ;Shift=Mid 5x8-Hour (15:00 - 23:30);# of Postions=1;Type=Travel;BillRate=$95.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=MUST HAVE PHILIPS EXPERIENCE. 
+
+Weekend Requirement: Yes one weekend every 3 weeks Friday-Monday morning| On Call Requirement: Yes one weekday of night call per week | Float Requirement: N/A
+
+
+On-call will require a weekend coverage. Typically the tech is on call the overnights that they work the day of to include that weekend
+
+ Modified Time:12/7/2023 12:00:00 AM
+ Account Manager: Shannon Steely
+ Account Manager Email: Ssteely@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2301174/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => University Medical Center of New Orleans TRV VAYA
+    [shiftDateEnd] => 2024-04-01
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

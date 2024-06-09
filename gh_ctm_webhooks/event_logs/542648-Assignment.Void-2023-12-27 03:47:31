@@ -1,0 +1,73 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1545',
+  'Cf-Ray' => '83be9529d55e1838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 weeks
+40 hrs/wk
+M-F 7:30a-4p
+Holiday Rotation-
+Work any holidays that fall within normal work days.
+
+BLS/ARRT
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 542648
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1385
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 16:30
+    [whenmodified] => December, 26 2023 22:47:30
+    [daysPerWeek] => 4
+    [orderNote] => Source=EinsteinTrinity;SourceID=48179 ;Status=Open;Association=Trinity Health ;Client=ID - Saint Alphonsus Regional Medical Center ;City=Boise ;State=ID ;Zip=83706 ;Start=1/7/2024;End=4/6/2024;Duration=90;Cert=Radiology Tech ;Specialty=Radiology ;Unit=ID\SAHS Boise\Rad Tech ;Shift=07:30:00 - 16:00:00;# of Postions=1;Type=Travel;BillRate=$70.00;OTRate=91.00 ;ChargeRate=73.00 ;CallbackRate=91.00 ;HolidayRate=91.00 ;Orientation=0.00 ;Description=13 weeks
+40 hrs/wk
+M-F 7:30a-4p
+Holiday Rotation-
+Work any holidays that fall within normal work days.
+
+BLS/ARRT ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Saint Alphonsus Regional Medical Center - Boise Travel
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 07:30
+    [subjectID] => 
+)

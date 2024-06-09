@@ -1,0 +1,81 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2427',
+  'Cf-Ray' => '82795a1e33e81832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => We are looking for CT day shift coverage, 40 hours a week 
+5, 8-hour days with rotating weekends.
+CT Cert preferred 
+
+ Modified Time:11/27/2023 8:00:00 AM
+ Account Manager: Nick LaFontaine
+ Account Manager Email: Nick.LaFontaine@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier2 Travel Compliance Need 2 weeks/ 14 calendar days + (confirm with CL if Quick Starts are okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance.
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 543742
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3483
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 17 2023 11:29:20
+    [daysPerWeek] => 5
+    [orderNote] => Source=AYA;SourceID=2306268 ;Status=Open;Association=Qualivis Ohio ;Client=Madison Health ;City=London ;State=OH ;Zip=43140-1115 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Radiology / Cardiology ;Specialty=CT Tech ;Unit=Radiology, 772100 ;Shift=Day 5x8-Hour (09:00 - 17:00);# of Postions=1;Type=Travel;BillRate=$115.00;OTRules=40 total hours in 1 week : 1.3% ;Description=We are looking for CT day shift coverage, 40 hours a week 
+5, 8-hour days with rotating weekends.
+CT Cert preferred 
+
+ Modified Time:11/27/2023 8:00:00 AM
+ Account Manager: Nick LaFontaine
+ Account Manager Email: Nick.LaFontaine@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier2 Travel Compliance Need 2 weeks/ 14 calendar days + (confirm with CL if Quick Starts are okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2306268/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 115
+    [facilityName] => Madison County Hospital
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

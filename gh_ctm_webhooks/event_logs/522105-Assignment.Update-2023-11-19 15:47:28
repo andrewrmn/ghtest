@@ -1,0 +1,72 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1517',
+  'Cf-Ray' => '82899788159d1832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Bill Rate $85
+Shift time: 7a.-7p.
+
+3x12's
+ACLS &amp; BLS required
+36 hr guarantee
+ General Comments
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 522105
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-08-28
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:47:10
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=744570 ;Status=Pending Approval;Association=Community Health Systems ;Client=Oro Valley Hospital ;City=Oro Valley ;State=AZ ;Zip=85755 ;Start=8/28/2023;End=11/27/2023;Duration=91;Cert=RN ;Specialty=ICU ;Unit=EXT-Other (911) ;Shift=07:00-19:00;# of Postions=1;Type=Travel;BillRate=$85.00;OTRate=106.25 ;CallbackRate=106.25 ;HolidayRate=106.25 ;Orientation=0 ;Description=Description:Bill Rate $85
+Shift time: 7a.-7p.
+
+3x12's
+ACLS &amp; BLS required
+36 hr guarantee
+ General Comments ;url=https://vendor.healthtrustws.com/positions/744570;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Northwest Medical Center of Oro Valley
+    [shiftDateEnd] => 2023-11-27
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

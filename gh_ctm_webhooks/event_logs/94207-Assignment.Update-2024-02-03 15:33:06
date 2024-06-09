@@ -1,0 +1,66 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '54',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2083',
+  'Cf-Ray' => '84fbbaf7a6c48795-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 12/09/2019 0820 MSTCerville Exavier
+                            
+                            
+                                7p-7a. Must have a min of 2yrs exp in PICUOH. Children's hosp exp is strongly preferred. PALS req. ACLS a plus. Any RTO must be requested on profile and at time of submission. Cerner EMR. IVS to interview via montage. NM to make the final offer. $ 91.00 Bill Rate Approved.
+    [sitename] => giftednurses
+    [spec] => PICU
+    [assignmentid] => 94207
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2478
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-01-20
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => February, 03 2024 10:32:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=Shiftwise;ID=0;SourceID=8490122;Status=Open;Association=CCS WFS: Seton HealthCare Network;Client=AH: Dell Children's Medical Center;City=Austin;State=TX;Zip=78723;Start=1/6/2020;End=4/4/2020;Duration=90;Cert=RN;Specialty=PICU Cardiac;Unit=DCMC CCU;Shift=NOC 12.00 Hrs;# of Postions=1;Type=Travel;OTRate= ;OTRules= ;ChargeRate= ;CallbackRate= ;CallbackRate= ;HolidayRate= ;OnCallRateDescription= ;Orientation= ;Description=12/09/2019 0820 MSTCerville Exavier
+                            
+                            
+                                7p-7a. Must have a min of 2yrs exp in PICUOH. Children's hosp exp is strongly preferred. PALS req. ACLS a plus. Any RTO must be requested on profile and at time of submission. Cerner EMR. IVS to interview via montage. NM to make the final offer. $ 91.00 Bill Rate Approved.;Buyer= ;VMSPositionType= AvgHoursPerWeek= InterviewRequired=False;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => Dell Children's Medical Center
+    [shiftDateEnd] => 2020-04-18
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '24',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1967',
+  'Cf-Ray' => '82cd6bfa75a4494d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Recent previous travel experience preferred, please send 2 recent referencesTravelers must live 150 miles or more from the facility to be considered   Additional Information:Traveler must live 150 miles or more  from our facilities in order to be considered   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Peds
+    [assignmentid] => 544208
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2475
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 27 2023 16:21:36
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261649 ;Status=Open;Association=Hendrick Health System ;Client=Hendrick Health System ;City=Abilene ;State=TX ;Zip=79601 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Nursing ;Specialty=Pediatric ;Unit=Pediatric ;Shift=7p - 7a;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$90.00;OTRate=100 ;OTRules=By The Week, after 40, ;CallbackRate=100 (All Inclusive Rate + $10) ;HolidayRate=100 (All Inclusive Rate + $10) ;OnCallRateDescription=$5 per hour pager ;Description=Recent previous travel experience preferred, please send 2 recent referencesTravelers must live 150 miles or more from the facility to be considered   Additional Information:Traveler must live 150 miles or more  from our facilities in order to be considered   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261649;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Hendrick Medical Center Travel
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,72 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1267',
+  'Cf-Ray' => '83f40aa9136c6a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => School
+    [assignmentid] => 543834
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Contract
+    [hoursPerWeek] => 37.5
+    [facilityID] => 14217
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-22
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => OT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => January, 02 2024 10:30:09
+    [daysPerWeek] => 5
+    [orderNote] => Materials: Vendor shall provide laptops, 
+Part time (2 days per week) OT
+This is FMLA coverage beginning end of January, approximately 1/27/24, but if the person is available earlier, they may start earlier
+Garrett Heights Elementary / Middle #212
+2800 Ailsa Avenue 21214
+9:00am-3:40pm
+This is a general education school
+8 direct students
+Francis Scott Key Elementary/ Middle #76
+1425 E. Fort Avenue 21230
+9:00am-3:40pm
+This is a general education school
+9 direct students
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 68
+    [facilityName] => Baltimore City Public Schools
+    [shiftDateEnd] => 2024-06-07
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

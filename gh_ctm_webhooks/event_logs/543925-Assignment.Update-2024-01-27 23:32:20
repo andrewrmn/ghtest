@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1009',
+  'Cf-Ray' => '84c4cb5cd0f277ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Shift Change - AM
+Last shift worked was 12-28-23
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543925
+    [workerID] => 46228
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3615
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-03
+    [workerLastName] => Brumit
+    [shiftNum] => 4
+    [workerFirstName] => Jamie
+    [cert] => RN
+    [floorDesc] => 7 South
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => January, 27 2024 18:32:19
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$97lRS:136617lPOT:$66
+OnCl:P$5/B$10lBill OT after 48
+FTK: Facility sends KRONOS (Gifted TC-unsigned)
+    [guaranteedMinimum] => 
+    [workerEmail] => jamiebrumit23@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 97
+    [facilityName] => University of Tennessee Medical Center TRAVEL
+    [shiftDateEnd] => 2023-12-30
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8852',
+  'Cf-Ray' => '82d384a2672223c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Exciting Job Opportunity for Adventurous Nurses in Picturesque Vermont!Escape the hustle and bustle of the big city and embark on a thrilling winter adventure in the breathtaking state of Vermont. Immerse yourself in the natural beauty of the Northeast Kingdom, where outdoor enthusiasts thrive with endless opportunities for excitement!Discover the exhilaration of downhill skiing/snowboarding at Burke Mountain, Jay Peak or one of the many great east coast mountains. Conquer the exhilarating trails at Kingdom Trails, perfect for fat biking, snowshoeing and hiking. Vermont's Northeast Kingdom is an outdoor wonderland, offering a paradise of adventures for you to enjoy!Join our dedicated team as a Registered Nurse (RN) and be at the forefront of coordinating exceptional patient care. The Emergency Department at Northeastern Vermont Regional Hospital (NVRH) has a great opportunity for an experienced Emergency Room Registered Nurse. In this fast-paced position, the ED RN position provides direct care, evaluates outcomes, consults with other specialties as required and adjusts nursing care process as indicated to ensure optimal patient care. Working well under pressure, our RN s collaborate with other health team members to coordinate medical and nursing management of patient care. Our knowledgeable and passionate RN s continuously learn and grow within their roles at NVRH. NVRH has a very busy Emergency Department, RNs must be able to learn quickly and be pro-active team member. Our rural ED has nine beds, a 4-bed mental health support area and sees over 14k patients per year. We prioritize holistic care, ensuring that patients' age, physiological, spiritual, psychosocial, and developmental needs are met with compassion and proficiency. You will be accountable to the Nursing Director and work closely with the Nursing Supervisor during your shift, fostering a collaborative and supportive environment.To join our team, we require a minimum of three years' Emergency Room experience, with preference given to candidates with Meditech familiarity. Possessing a current Vermont RN or multi state licensure and BCLS and ACLS are required. TNCC is preferred. Nestled in the heart of Vermont's historic Northeast Kingdom, NVRH is a cherished 25-bed independent and nonprofit critical access hospital. Renowned for its unspoiled beauty and year-round recreational activities, this region is a haven for those seeking a vibrant and fulfilling lifestyle. At NVRH, we deliver primary and preventive care, surgical and specialty services, inpatient and outpatient care, and round-the-clock emergency services manned by our dedicated board-certified physicians.We understand the importance of a seamless onboarding process, and therefore, we request that all required credentials be uploaded five business days prior to your start date. This ensures a prompt and hassle-free integration into our remarkable team.In addition to this incredible opportunity, we also offer housing options conveniently located a mere 10 minutes from NVRH. Enjoy the comfort of a private dorm room and share common spaces with fellow professionals. Rest assured, all utilities are included, and the premises are meticulously maintained for your safety and peace of mind. Plus, we have a delightful perk free laundry service! For more details and to seize this chance to embark on a thrilling adventure, please reach out to Erin Unsworth at e.unsworth@nvrh.org. Join us at NVRH, where excitement meets exceptional healthcare in the captivating realm of Vermont's Northeast Kingdom!   Additional Information:**Orientation will be the 2nd and 4th Monday of the month**   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 546154
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9983
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 28 2023 10:07:00
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262228 ;Status=Open;Association=Northeastern Vermont Regional Hospital ;Client=Northeastern Vermont Regional Hospital ;City=St Johnsbury ;State=VT ;Zip='05819 ;Start=1/8/2024;End=4/8/2024;Duration=91;Cert=Nursing ;Specialty=Emergency Room Nurse ;Unit=Emergency Room Nurse ;Shift=7pm - 7am. 2 -12 hour shifts per week.;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$85.00;OTRate=95 ;OTRules=By The Week, after 40, ;CallbackRate=85 (All Inclusive Rate) ;HolidayRate=95 (All Inclusive Rate + $10) ;OnCallRateDescription=$4 per hour pager ;Description=Exciting Job Opportunity for Adventurous Nurses in Picturesque Vermont!Escape the hustle and bustle of the big city and embark on a thrilling winter adventure in the breathtaking state of Vermont. Immerse yourself in the natural beauty of the Northeast Kingdom, where outdoor enthusiasts thrive with endless opportunities for excitement!Discover the exhilaration of downhill skiing/snowboarding at Burke Mountain, Jay Peak or one of the many great east coast mountains. Conquer the exhilarating trails at Kingdom Trails, perfect for fat biking, snowshoeing and hiking. Vermont's Northeast Kingdom is an outdoor wonderland, offering a paradise of adventures for you to enjoy!Join our dedicated team as a Registered Nurse (RN) and be at the forefront of coordinating exceptional patient care. The Emergency Department at Northeastern Vermont Regional Hospital (NVRH) has a great opportunity for an experienced Emergency Room Registered Nurse. In this fast-paced position, the ED RN position provides direct care, evaluates outcomes, consults with other specialties as required and adjusts nursing care process as indicated to ensure optimal patient care. Working well under pressure, our RN s collaborate with other health team members to coordinate medical and nursing management of patient care. Our knowledgeable and passionate RN s continuously learn and grow within their roles at NVRH. NVRH has a very busy Emergency Department, RNs must be able to learn quickly and be pro-active team member. Our rural ED has nine beds, a 4-bed mental health support area and sees over 14k patients per year. We prioritize holistic care, ensuring that patients' age, physiological, spiritual, psychosocial, and developmental needs are met with compassion and proficiency. You will be accountable to the Nursing Director and work closely with the Nursing Supervisor during your shift, fostering a collaborative and supportive environment.To join our team, we require a minimum of three years' Emergency Room experience, with preference given to candidates with Meditech familiarity. Possessing a current Vermont RN or multi state licensure and BCLS and ACLS are required. TNCC is preferred. Nestled in the heart of Vermont's historic Northeast Kingdom, NVRH is a cherished 25-bed independent and nonprofit critical access hospital. Renowned for its unspoiled beauty and year-round recreational activities, this region is a haven for those seeking a vibrant and fulfilling lifestyle. At NVRH, we deliver primary and preventive care, surgical and specialty services, inpatient and outpatient care, and round-the-clock emergency services manned by our dedicated board-certified physicians.We understand the importance of a seamless onboarding process, and therefore, we request that all required credentials be uploaded five business days prior to your start date. This ensures a prompt and hassle-free integration into our remarkable team.In addition to this incredible opportunity, we also offer housing options conveniently located a mere 10 minutes from NVRH. Enjoy the comfort of a private dorm room and share common spaces with fellow professionals. Rest assured, all utilities are included, and the premises are meticulously maintained for your safety and peace of mind. Plus, we have a delightful perk free laundry service! For more details and to seize this chance to embark on a thrilling adventure, please reach out to Erin Unsworth at e.unsworth@nvrh.org. Join us at NVRH, where excitement meets exceptional healthcare in the captivating realm of Vermont's Northeast Kingdom!   Additional Information:**Orientation will be the 2nd and 4th Monday of the month**   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262228;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Northeastern Vermont Regional Hospital 
+    [shiftDateEnd] => 2024-04-08
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

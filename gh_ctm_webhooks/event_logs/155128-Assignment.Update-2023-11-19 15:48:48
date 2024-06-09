@@ -1,0 +1,66 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3612',
+  'Cf-Ray' => '8289997906f323b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+Asap start date - 13 week contract day shift, navy blue scrubs, BLS and NRP, current RN license, L&D experience a plus to help cross coverparseGeneralComments Comments
+.bd_title { font-weight: bold }
+Reason for opening (special, internal vacancy, leave coverage) Days 7a-7p             *******************************************************************************              How long has it been open?              Will position be required to float to other units? Potential floating around Women's             Number of beds in your facility? 108             Years of experience required?              Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)              Willing to review clinicians with pending state license?              Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift)     EMR for your facility:              Scrub colors / dress code: Navy    Parking location:  Contact: CHS MSP HOUSE Resource Manager: Suhani Desai
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 155128
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-11-16
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:48:41
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=395993 ;Status=Open;Client=Cedar Park Regional Medical Center ;City=Cedar Park ;State=TX ;Zip=78613 ;Start=10/19/2020;End=1/18/2021;Duration=91;Cert=Registered Nurse (RN) ;Specialty=Post Partum ;Unit=OBSTETRICS/GYNECOLOGY ;Shift=7:00 AM - 7:00 PM;# of Postions=1;Type=Travel;BillRate=$64.10;Description=Position Description
+Asap start date - 13 week contract day shift, navy blue scrubs, BLS and NRP, current RN license, L&D experience a plus to help cross coverparseGeneralComments Comments
+.bd_title { font-weight: bold }
+Reason for opening (special, internal vacancy, leave coverage) Days 7a-7p             *******************************************************************************              How long has it been open?              Will position be required to float to other units? Potential floating around Women's             Number of beds in your facility? 108             Years of experience required?              Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)              Willing to review clinicians with pending state license?              Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift)     EMR for your facility:              Scrub colors / dress code: Navy    Parking location:  Contact: CHS MSP HOUSE Resource Manager: Suhani Desai ;Buyer=CHS MSP HOUSE ;url=https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=395993&null;VMSPositionType=Travel InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 64.1
+    [facilityName] => Cedar Park Regional Medical Center
+    [shiftDateEnd] => 2021-02-15
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

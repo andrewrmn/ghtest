@@ -1,0 +1,96 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3673',
+  'Cf-Ray' => '829b1908515d23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:4 West UNCMC RN Position # 111215062
+Complete Description:4 West is a 12-bed Medical Surgical Observation unit which provides care to varied adult population to include observation, extended recovery from PACU, and Medical Surgical acute care patients awaiting an inpatient bed assignment. 
+Requisition Comments:Lotus Offers- Fast Offers! 
+Candidates will NOT interview. 
+
+Must include RTO in submittal in order to be honored at time of offer!
+Scheduling Details:3x12's, Days (7a-7p) 
+Charge REQ
+
+-6 weekend scheduled in a 6 week period
+
+No Call Required 
+
+-During Holiday Season: Every Other Holiday Required
+-Must be OK with floating to other units as required
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545396
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13245
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-27
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 21 2023 13:46:50
+    [daysPerWeek] => 3
+    [orderNote] => Source=PeopleFluent;SourceID=725202 ;Status=Open;Association=1 Memorial, 100 - 111404 - 1000\r\n3 Anderson / ICCU, 100 - 110401 - 1000\r\n3 NSH, 100 - 111800 - 1000\r\n3 West, 100 - 111003 - 1000\r\n4 NSH, 100 - 111802 - 1000\r\n4 Oncology, 100 - 111500 - 1000\r\n4 West, 100 - 111401 - 1000\r\n5 Anderson, 100 - 110404 - 1000\r\n5 Bedtower, 100 - 110953 - 1000\r\n5 Childrens, 100 - 112101 - 1000\r\n5 East Acute Burn & Wound Unit, 100 - 111004 - 1000\r\n5 NSH, 100 - 111803 - 1000\r\n5 West, 100 - 111002 - 1000\r\n6 Bedtower, 100 - 110954 - 1000\r\n6 Childrens, 100 - 112103 - 1000\r\n6 East,100 - 210500 - 1000\r\n6 Neuroscience, 100 - 111805 - 1000\r\n6 West, 100 - 110931 - 1000\r\n6 Women's- GYN Oncology, 100 - 112104 - 1000\r\n7 Childrens,100 - 112105 - 1000\r\n7 Neuroscience, 100 - 110938 - 1000\r\n8 Bedtower, 100 - 110955 - 1000\r\n7 Bedtower, 100 - 220100 - 1000\r\n3 West 100 - 112100 - 1000 ;Client=UNC Health ;Start=12/27/2023;End=3/23/2024;Duration=87;Cert=RN ;Specialty=Med/Surg ;Unit=RN - 4 West - Days - UNC Medical Center ;Shift=3x12.0 3x12's, Days (7a-7p) 
+Charge REQ
+
+-6 weekend scheduled in a 6 week period
+
+No Call Required 
+
+-During Holiday Season: Every Other Holiday Required
+-Must be OK with floating to other units as required;# of Postions=1;Type=Travel;BillRate=$80.00;Description=Short Description:4 West UNCMC RN Position # 111215062
+Complete Description:4 West is a 12-bed Medical Surgical Observation unit which provides care to varied adult population to include observation, extended recovery from PACU, and Medical Surgical acute care patients awaiting an inpatient bed assignment. 
+Requisition Comments:Lotus Offers- Fast Offers! 
+Candidates will NOT interview. 
+
+Must include RTO in submittal in order to be honored at time of offer!
+Scheduling Details:3x12's, Days (7a-7p) 
+Charge REQ
+
+-6 weekend scheduled in a 6 week period
+
+No Call Required 
+
+-During Holiday Season: Every Other Holiday Required
+-Must be OK with floating to other units as required ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=725202;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => UNC Medical Center TRAVEL
+    [shiftDateEnd] => 2024-03-23
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

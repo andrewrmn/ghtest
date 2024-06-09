@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5402',
+  'Cf-Ray' => '830cd67ff16a23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Utilizes the nursing process to identify patient needs and priorities of care through assessment, planning, and delegation of care based on patient needs, therapeutic interventions, and evaluation of the patient s response.This position supports the mission, vision, and values of Mercy Hospital Valley City critical component to the patient-care experience..Essential Key Job Responsibilities1.Performs triage by assessing patient s health and continuously monitor; detect changesin symptoms, health or pain, and take action as necessary; and quickly andaccurately assess patient care needs.2.Responds to life saving situations based upon nursing standards, policies, procedures,and protocol.3.Sets priorities in plan of care based on assessed needs and anticipates personnel,supplies, and equipment required to care for patients based on assessed needs.4.Works collaboratively with provider to provide exceptional care.5.Administer medications, IV therapy, and treatments in compliance with policies andprocedures.6.Provides patient and family education.7.Records all care information concisely, accurately and completely, in a timely manner,in the appropriate format and on the appropriate forms.8.Maintains order, stock, and cleanliness of all areas in theMSP Department.9.Practices safe work habits, compliance with safety rules and regulations, and adheres tosafety policies.10.Utilizes resources appropriately and follows facility guidelines, policies, andprocedures.Non-essential Job Responsibilities1.Other duties as assignedSpecialty:NursingSub Specialty(s):Med-surg Peds,Med-surg Adult   Additional Information:50 mile radius rule is in place. traveler's permanent address must be 50 miles or further from facility -------------All of the travelers documents must be in by 3pm Wednesday the week before the traveler starts. They will automatically be pushed out till the next orientation class.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 538757
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7617
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 05 2023 09:04:22
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=260538 ;Status=Open;Association=CHI Hospital System ;Client=Mercy Hospital Valley City MBO 3700 ;City=Valley City ;State=ND ;Zip=58072 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=Nursing ;Specialty=Med-surg Peds, Med-surg Adult, Registered Nurse ;Unit=Med-surg Peds, Med-surg Adult, Registered Nurse ;Shift=nights ;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$95.00;OTRate=95 ;OTRules=By The Week, after 40, ;ChargeRate=5 (Charge Rate Differential) ;CallbackRate=95 (All Inclusive Rate) ;HolidayRate=95 (All Inclusive Rate) ;OnCallRateDescription=$7 per hour pager ;Description=Utilizes the nursing process to identify patient needs and priorities of care through assessment, planning, and delegation of care based on patient needs, therapeutic interventions, and evaluation of the patient s response.This position supports the mission, vision, and values of Mercy Hospital Valley City critical component to the patient-care experience..Essential Key Job Responsibilities1.Performs triage by assessing patient s health and continuously monitor; detect changesin symptoms, health or pain, and take action as necessary; and quickly andaccurately assess patient care needs.2.Responds to life saving situations based upon nursing standards, policies, procedures,and protocol.3.Sets priorities in plan of care based on assessed needs and anticipates personnel,supplies, and equipment required to care for patients based on assessed needs.4.Works collaboratively with provider to provide exceptional care.5.Administer medications, IV therapy, and treatments in compliance with policies andprocedures.6.Provides patient and family education.7.Records all care information concisely, accurately and completely, in a timely manner,in the appropriate format and on the appropriate forms.8.Maintains order, stock, and cleanliness of all areas in theMSP Department.9.Practices safe work habits, compliance with safety rules and regulations, and adheres tosafety policies.10.Utilizes resources appropriately and follows facility guidelines, policies, andprocedures.Non-essential Job Responsibilities1.Other duties as assignedSpecialty:NursingSub Specialty(s):Med-surg Peds,Med-surg Adult   Additional Information:50 mile radius rule is in place. traveler's permanent address must be 50 miles or further from facility -------------All of the travelers documents must be in by 3pm Wednesday the week before the traveler starts. They will automatically be pushed out till the next orientation class.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260538;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Mercy Hospital Valley City
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

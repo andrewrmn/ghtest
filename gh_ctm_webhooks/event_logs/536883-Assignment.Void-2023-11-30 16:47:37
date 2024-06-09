@@ -1,0 +1,121 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4629',
+  'Cf-Ray' => '82e492be41a54951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name Cardiac Cath Lab - RN - Mercy Washington
+  
+Organization Mercy
+  
+Facility Mercy Hospital Washington
+  
+Unit Cardiac Cath Lab
+  
+Cost Center 15-416611
+
+FLU
+and
+COVID-19:
+
+
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.
+  SHIFT INFO  
+Shift day
+  
+Shifts per week 5
+  
+Hours per shift 8
+Specific Hours: 0800-1630 Monday   Friday with on call requirementsCall Requirements: Yes   9 or 10 shifts per 4 weeksWeekend Hours: On Call Only  EXPERIENCE  
+Years of Experience Two Years Plus
+  CERTIFICATIONS  
+Certifications ACLS &amp; BLS
+  DESCRIPTION  
+Assists and completes Pre procedural assessment and documentation. Acts as both documenter and circulator for a variety of procedures in the Cath Lab setting. Monitors arterial and venous access sites; assesses telemetry for rhythm changes; monitors vital signs; ability to respond to post-procedure complications such as bleeding or hematoma at access site. On call availability required. 
+Scrub Color: OR scrubs provided
+ General CommentsMercy Hospital - Washington is an acute care hospital offering comprehensive medical, surgical, obstetric and pediatric services. As the only Level III Trauma Center between St. Louis and Jefferson City, Mercy Hospital offers an experienced medical staff that is specially trained in trauma care. Located just 50 miles southwest of St. Louis, Mercy Hospital is committed to quality health care for its service area of more than 150,000 residents. More than 800 co-workers and 233 physicians serve the Washington hospital.
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 536883
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11770
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => November, 30 2023 11:47:36
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=767415 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Washington ;City=Washington ;State=MO ;Zip=63090 ;Start=11/13/2023;End=2/12/2024;Duration=91;Cert=RN ;Specialty=Cardiac Cath Lab ;Unit=Mercy ;Shift=08:00-16:30;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Name Cardiac Cath Lab - RN - Mercy Washington
+  
+Organization Mercy
+  
+Facility Mercy Hospital Washington
+  
+Unit Cardiac Cath Lab
+  
+Cost Center 15-416611
+
+FLU
+and
+COVID-19:
+
+
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.
+  SHIFT INFO  
+Shift day
+  
+Shifts per week 5
+  
+Hours per shift 8
+Specific Hours: 0800-1630 Monday   Friday with on call requirementsCall Requirements: Yes   9 or 10 shifts per 4 weeksWeekend Hours: On Call Only  EXPERIENCE  
+Years of Experience Two Years Plus
+  CERTIFICATIONS  
+Certifications ACLS &amp; BLS
+  DESCRIPTION  
+Assists and completes Pre procedural assessment and documentation. Acts as both documenter and circulator for a variety of procedures in the Cath Lab setting. Monitors arterial and venous access sites; assesses telemetry for rhythm changes; monitors vital signs; ability to respond to post-procedure complications such as bleeding or hematoma at access site. On call availability required. 
+Scrub Color: OR scrubs provided
+ General CommentsMercy Hospital - Washington is an acute care hospital offering comprehensive medical, surgical, obstetric and pediatric services. As the only Level III Trauma Center between St. Louis and Jefferson City, Mercy Hospital offers an experienced medical staff that is specially trained in trauma care. Located just 50 miles southwest of St. Louis, Mercy Hospital is committed to quality health care for its service area of more than 150,000 residents. More than 800 co-workers and 233 physicians serve the Washington hospital.
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/767415;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Mercy Hospital Washington - TRAVEL
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,69 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1582',
+  'Cf-Ray' => '83be6c4bd3826a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => MED/SURG/ONCOLOGY RN
+Night Shift (7pm to 7am)
+every other weekend requirement 
+
+**Oncology experience preferred, but not required**
+    [sitename] => giftednurses
+    [spec] => Oncol
+    [assignmentid] => 545013
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15840
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-14
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 26 2023 22:19:37
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48528 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne Des Moines Medical Center ;City=Des Moines ;State=IA ;Zip=50314 ;Start=12/19/2023;End=3/16/2024;Duration=88;Cert=RN Medical / Surgical ;Specialty=8 South Oncology ;Unit=*Registered Nurse-Med Surg-8 South Oncology/NIGHTS ;Shift=7p7a;# of Postions=1;Type=Travel;BillRate=$86.00;OTRate=111.80 ;ChargeRate=89.00 ;CallbackRate=111.80 ;HolidayRate=111.80 ;Description=MED/SURG/ONCOLOGY RN
+Night Shift (7pm to 7am)
+every other weekend requirement 
+
+**Oncology experience preferred, but not required** ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 86
+    [facilityName] => MercyOne Des Moines Medical Center (Trinity) TRAVEL
+    [shiftDateEnd] => 2024-04-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

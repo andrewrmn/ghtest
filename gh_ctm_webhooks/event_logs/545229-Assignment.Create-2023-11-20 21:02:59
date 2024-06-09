@@ -1,0 +1,212 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '24',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8372',
+  'Cf-Ray' => '8293a3129207494d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Patient Population:
+Post-surgical 
+Post Cardiothoracic
+
+Unit Info:
+Patient Ratios: Patient Ratios 1:1-2 
+Float: All contract staff are expected to float up to 50% of scheduled shifts. Critical care units (RN) may float to ED or PACU to care for ICU patients in those areas. Critical care units (ICU RN) may be reassigned occasionally to float to Medical Surgical/PCU units. Nurse patient ratio maximum would be 1:4 patient or may be assigned as a helping hands nurse.
+Required Certs: BLS | NIHSS | ACLS | CPI 
+Preferred Certs: CCRN
+1 Year Min Experience Required (2 years preferred)
+Meditech Exp Preferred
+Trauma Level I Exp Preferred
+Please note that we may still have Covid-19 patients and all nurses are expected to be able to take care of any isolation patient. Please know your N95 Mask size.
+ 
+Schedule Requirements:
+Weekend Requirements: 1/2 schedule with need weekend as described by the manager. Unit needs vary throughout the week. Weekend Days: Sat and Sunday only.  Weekend Nights:  Friday, Sat and Sunday
+NO BLOCKED SCHEDULING 
+RTO: <5 Days Total (Unit manager approves all RTO)
+
+Required Skills:
+Neuro Intensive Care Unit		
+Surgical Intensive Care Unit
+Interpretation of dysrhythmias		
+Management of dysrhythmias		
+Multi-system organ failure	
+IV insulin protocols
+Chronic/Acute Renal failure
+Arterial line management		
+Blood Product Administration		
+Central line care/management		
+PICC line management		
+Starting IVs
+Continuous IV sedation		
+Procedural Sedation Administration		
+Titrate Cardiac drips		
+Titrate Vasoactive drips
+CVA/Acute Stroke management		
+External ventricular drains (EVD)		
+Hypothermia protocol/Artic Sun		
+ICP Monitoring		
+Post Neurosurgery management		
+Spinal cord injury		
+Traumatic Brain Injury
+Assist with Chest Tube Insertion/Removal		
+Assist with management of BiPAP		
+Assist with management of CPAP		
+Care of Ventilated Patient		
+High Flow Nasal Cannula (HFNC)		
+Interpretation of ABGs		
+Suctioning (ETT, NT)		
+Ventilator Management
+Infection Prevention		
+Isolation Precautions/ Use of PPE		
+Phlebotomy		
+Surgical Wounds with drains/Wound Vac
+
+Preferred Skills:
+Pulmonary Artery Line/Swan Ganz monitoring		
+Sheath Removal
+CVVHD/CRRT/Shunts and Fistula Care
+Accessing Ports
+
+Other Notes:
+Scrubs: Teal/White Combo 
+Parking: one-time $40 fee
+Locals: <75 miles, $10 less than the base rate
+
+Please be advised that January 13th 2024, all clinicians working at Tulane campus will be transitioned over and will continue their assignments at East Jefferson campus. 
+Location : 4200 Houma Blvd, Metairie, LA 70006
+
+ Modified Time:12/18/2023 12:00:00 AM
+ Account Manager: Chad Samuel
+ Account Manager Email: csamuel@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:High
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel.FLOAT REQUIREMENT   Everyone floats. If clinicians are floated to a unit outside their specialty, they will only be assigned lower acuity patients within their skillset. ICU will float down with lower patient ratios.
+    [sitename] => giftednurses
+    [spec] => SICU
+    [assignmentid] => 545229
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 16204
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 1
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 20 2023 16:02:56
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2272770 ;Status=Open;Association=Vaya Legacy MSP (Connect) ;Client=Tulane Medical Center ;City=New Orleans ;State=LA ;Zip=70112 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Registered Nurse ;Specialty=SICU ;Unit=SICU RN | 65074 ;Shift=Night 3x12-Hour (19:00 - 07:30);# of Postions=2;Type=Travel;BillRate=$80.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Patient Population:
+Post-surgical 
+Post Cardiothoracic
+
+Unit Info:
+Patient Ratios: Patient Ratios 1:1-2 
+Float: All contract staff are expected to float up to 50% of scheduled shifts. Critical care units (RN) may float to ED or PACU to care for ICU patients in those areas. Critical care units (ICU RN) may be reassigned occasionally to float to Medical Surgical/PCU units. Nurse patient ratio maximum would be 1:4 patient or may be assigned as a helping hands nurse.
+Required Certs: BLS | NIHSS | ACLS | CPI 
+Preferred Certs: CCRN
+1 Year Min Experience Required (2 years preferred)
+Meditech Exp Preferred
+Trauma Level I Exp Preferred
+Please note that we may still have Covid-19 patients and all nurses are expected to be able to take care of any isolation patient. Please know your N95 Mask size.
+ 
+Schedule Requirements:
+Weekend Requirements: 1/2 schedule with need weekend as described by the manager. Unit needs vary throughout the week. Weekend Days: Sat and Sunday only.  Weekend Nights:  Friday, Sat and Sunday
+NO BLOCKED SCHEDULING 
+RTO: <5 Days Total (Unit manager approves all RTO)
+
+Required Skills:
+Neuro Intensive Care Unit		
+Surgical Intensive Care Unit
+Interpretation of dysrhythmias		
+Management of dysrhythmias		
+Multi-system organ failure	
+IV insulin protocols
+Chronic/Acute Renal failure
+Arterial line management		
+Blood Product Administration		
+Central line care/management		
+PICC line management		
+Starting IVs
+Continuous IV sedation		
+Procedural Sedation Administration		
+Titrate Cardiac drips		
+Titrate Vasoactive drips
+CVA/Acute Stroke management		
+External ventricular drains (EVD)		
+Hypothermia protocol/Artic Sun		
+ICP Monitoring		
+Post Neurosurgery management		
+Spinal cord injury		
+Traumatic Brain Injury
+Assist with Chest Tube Insertion/Removal		
+Assist with management of BiPAP		
+Assist with management of CPAP		
+Care of Ventilated Patient		
+High Flow Nasal Cannula (HFNC)		
+Interpretation of ABGs		
+Suctioning (ETT, NT)		
+Ventilator Management
+Infection Prevention		
+Isolation Precautions/ Use of PPE		
+Phlebotomy		
+Surgical Wounds with drains/Wound Vac
+
+Preferred Skills:
+Pulmonary Artery Line/Swan Ganz monitoring		
+Sheath Removal
+CVVHD/CRRT/Shunts and Fistula Care
+Accessing Ports
+
+Other Notes:
+Scrubs: Teal/White Combo 
+Parking: one-time $40 fee
+Locals: <75 miles, $10 less than the base rate
+
+Please be advised that January 13th 2024, all clinicians working at Tulane campus will be transitioned over and will continue their assignments at East Jefferson campus. 
+Location : 4200 Houma Blvd, Metairie, LA 70006
+
+ Modified Time:12/18/2023 12:00:00 AM
+ Account Manager: Chad Samuel
+ Account Manager Email: csamuel@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:High
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel.FLOAT REQUIREMENT   Everyone floats. If clinicians are floated to a unit outside their specialty, they will only be assigned lower acuity patients within their skillset. ICU will float down with lower patient ratios. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2272770/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Tulane Medical Center-Travel
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

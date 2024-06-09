@@ -1,0 +1,178 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5344',
+  'Cf-Ray' => '82ce691983e4183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:ASAP START
+BILL RATE $78.00
+NIGHTS
+REQUIREMENTS
+BLS
+ACLS
+PALS
+TNCC
+
+CPI
+MUST INCLUDE THE HOME ADDRESS ON THE SUBMISSION
+MUST BE GREATER THAN 50 MILES FROM THE FACILITY
+Provides evaluation of assigned patients and plans, implements and documents nursing care.
+ Provides assistance to nursing peers as requested.
+ Assists physicians during examinations and procedures.
+ Performs various patient tests and administers medications within the scope of practice of the registered nurse.
+ Promotes patients' independence by establishing patient care goals and teaching patients and families to understand conditions, medications, and self-care skills.
+ Familiar with standard concepts, practices, and procedures within the nursing field.Graduate of a nursing program is required.
+ Bachelor's Degree is preferred.
+Current Mississippi or compact RN licensure is required.
+ BLS, ACLS, PALS, TNCC and SAMA certifications are required
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location:
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 532662
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8460
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 27 2023 19:14:23
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=758015 ;Status=Open;Association=Community Health Systems ;Client=Merit Health River Region ;City=Vicksburg ;State=MS ;Zip=39183 ;Start=10/16/2023;End=1/15/2024;Duration=91;Cert=RN ;Specialty=Emergency Dept ;Unit=EXT-Other (911) ;Shift=NIGHTS;# of Postions=1;Type=Travel;BillRate=$70.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:ASAP START
+NO CHRISTMAS RTO
+BILL RATE $70.00
+NIGHTS
+REQUIREMENTS
+BLS
+ACLS
+PALS
+TNCC
+
+CPI
+MUST INCLUDE THE HOME ADDRESS ON THE SUBMISSION
+MUST BE GREATER THAN 50 MILES FROM THE FACILITY
+Provides evaluation of assigned patients and plans, implements and documents nursing care.
+ Provides assistance to nursing peers as requested.
+ Assists physicians during examinations and procedures.
+ Performs various patient tests and administers medications within the scope of practice of the registered nurse.
+ Promotes patients' independence by establishing patient care goals and teaching patients and families to understand conditions, medications, and self-care skills.
+ Familiar with standard concepts, practices, and procedures within the nursing field.Graduate of a nursing program is required.
+ Bachelor's Degree is preferred.
+Current Mississippi or compact RN licensure is required.
+ BLS, ACLS, PALS, TNCC and SAMA certifications are required
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location:
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/758015;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Merit Health River Region TRAVEL
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

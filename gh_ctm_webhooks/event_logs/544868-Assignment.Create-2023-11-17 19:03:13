@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '27',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1473',
+  'Cf-Ray' => '827a3b8557ee4959-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 4 x10 1-2 late shifts a week 
+4 (12) weekend call shifts in a 6 week period
+    [sitename] => giftednurses
+    [spec] => ORT
+    [assignmentid] => 544868
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 1385
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-03
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => ORT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 17 2023 14:03:13
+    [daysPerWeek] => 4
+    [orderNote] => Source=EinsteinTrinity;SourceID=46139 ;Status=Open;Association=Trinity Health ;Client=ID - Saint Alphonsus Regional Medical Center ;City=Boise ;State=ID ;Zip=83706 ;Start=12/3/2023;End=3/2/2024;Duration=90;Cert=Surgical Tech ;Specialty=Main Operating Room ;Unit=Surgical Technologist-Surgical Tech-Main Operating Room ;Shift=07:00:00 - 17:00:00;# of Postions=1;Type=Travel;BillRate=$82.00;OTRate=106.60 ;ChargeRate=85.00 ;CallbackRate=106.60 ;HolidayRate=106.60 ;Orientation=0.00 ;Description=4 x10 1-2 late shifts a week 
+4 (12) weekend call shifts in a 6 week period ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 82
+    [facilityName] => Saint Alphonsus Regional Medical Center - Boise Travel
+    [shiftDateEnd] => 2024-03-02
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

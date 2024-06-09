@@ -1,0 +1,115 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '15051',
+  'Cf-Ray' => '829904eed27b23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => The Registered Nurse, following the scope and standards of professional nursing practice, provides comprehensive patient-family centered care addressing potential and actual health and illness problems for patients and families. A Registered Nurse, who, under the supervision of the Nurse Manager/ Director, has continual opportunity to exercise initiative and independent professional judgment, uses the nursing process to provide comprehensive patient centered nursing care for assigned patients; and as a primary member of a nursing care team, guides and monitors work of paraprofessional and other team members. This care is performed as a part of a customer focused, service oriented team that incorporates the values of Mills Peninsula Health Services in a confidential environment. The Registered Nurse integrates the ANA Code of Ethics for Nurses and the Patients' Bill of Rights, Professional Scope and Standards of Practice and pertinent Specialty Standards into his or her nursing practice. Provides care to a defined patient/family assignment: Utilizes the nursing process and standards of nursing practice to deliver care for assigned patients. The process includes assessment, diagnosis, planning, implementation, evaluation, outcomes identification and care coordination of the medical (dependent) and nursing (independent) plan of care for patient and family Creates and maintains an individualized Care plans formulated in collaboration with the patient and family/ and other disciplines to meet the goals of the care event (hospital stay or episode of care). Provides comprehensive nursing care that includes, but is not limited to, physical care, provision of a safe environment, emotional support and administration of prescribed medications, intravenous therapy, and providing health care education as indicated. Patient-centered and responsive to patient/family needs, including those who are not directly assigned Engages in continuous patient/family education while providing care Ensures patient/family understands Collaboration: Coordinates care of other professional Disciplines and Supervises Nursing Care performed by Ancillary care team. Implements the medical and nursing care plans by performing direct care /or delegating tasks as appropriate, which are fundamental to nursing practice in an acute care setting. Coordinates the care of the patient through referrals, direct and indirect communication, participation in rounds and care conferences with physicians and other disciplines. Contributes positively to the department work environment, serves as Charge RN and other unit roles as eligible, participates in unit governance. Communications: Communicates and documents the patient's response to the plan of care. Consistently evaluates and updates the care plan, informing others of changes in patient response in timely and assertive manner. Acts to resolve patient care issues in manner that is patient centered, and upholds ethical standards of practice while supporting team members. Understands the need to continually evaluate and reassess patient care problems and contributes to this dynamic process. Keeps current with department/organization communications to participate in the work environment Communications are effective and professional at all times Completes documentation timely to facilitate team member access to information Maintains confidentiality of patient data Professional Development Identifies own learning needs and pursues ongoing self-development to maintain competency in clinical skills through continued education and professional growth. Demonstrates ongoing development toward attainment of proficiency in core competencies of the department. Expresses understanding of current health care concepts and teach same to patient/families and other staff members Completes mandatory education by deadline and maintains current licensure and certifications. 
+ Schedule Notes:13-weeks noc shfit, 3 out of 4 weekends per month.
+
+Skills: JD cont-Evidence-Based Practice & Outcomes Monitoring Assumes a professional leadership role in improving the quality of the health care delivery system. Participates in unit outcomes monitoring and performance improvements Self-monitors care to complete core measures actions, documentation and patient safety strategies such as using SBAR, completing post-event huddles and other activities. Decision-making is supported by evidence and seeks out evidence to support practice changes Professional Leadership Behaviors: Acts as a role model of professional behaviors for other team members; takes initiative to solve problems, assumes accountability for patients and families, is team oriented and supportive of other team members. Thinks critically and takes actions to execute decisions that advance the patient's plan of care. Shows commitment to unit and hospital standards, philosophy and values Orients, guides and evaluates nursing team members and students Promotes healthy and safe work environment Resource Stewardship: Utilizes human and material resources to maximize the quality of health care and minimize the patient cost Delivers care in a manner that minimizes waste, is defect free and, streamlines processes from patient perspective Able to navigate electronic health record (EHR) and successfully complete competency - Required BLS Certification - Required CA RN License - Required Intravenous treatments, wound care and medication administration skills at competent level - Required Knowledge of QSEN Competencies: Quality and Patient Safety Education core nursing competencies - Required Knowledge of the pathophysiology, common treatments, medications, complications and prevention strategies for area of clinical practice - Required Sufficient previous clinical experience in nursing - Required Thorough knowledge of medical terminology, anatomy and physiology - Required Thorough knowledge of nursing process and/or surgical procedures - Required
+ Required
+	
+	  REGISTERED NURSE
+	  
+	
+	
+	
+	Additional
+
+Education: Bachelors from accredited School of Nursing - Highly desired This is the pay range that RightSourcing (a part of Magnit) reasonably expects to pay someone for this position, however, as a supplier your expected pay range may vary and/or include certain benefits like: Stipends (for clinical traveler workers only), Medical, Dental, Vision, 401K [include any compulsory benefits such as commissions, incentive bonuses, etc. if applicable]. Pay range (USD)70 hrly - (USD)105 hrly
+
+;Languages: 
+ 
+English
+ Read
+ Write
+ Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: SBH-DPC-Nursing-Travel
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543825
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 2101
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 21 2023 07:43:35
+    [daysPerWeek] => 3
+    [orderNote] => Source=Wand;SourceID=27099377 ;Status=Pending;Client=Sutter Health ;City=Burlingame ;State=CA ;Zip=94010 ;Start=11/13/2023;End=2/17/2024;Duration=96;Cert=SBH-DPC-Nursing-Travel ;Specialty=RN - Med Surg - 4 East - Travel - MPMC-NOC ;Unit=Mills-Pen Health Svcs*MED/SURG 4EAST 						: 360*226186    		                Mills-Pen Health Svcs Mills-Pen Health Svcs*MED/SURG 4EAST  : 360*226186   Mills-Pen Health Svcs ;Shift=13-weeks noc shfit, 3 out of 4 weekends per month. 13-weeks noc shfit, 3 out of 4 weekends per month. 5x12 Hr;# of Postions=3;Guaranteed Hours=40.00;Type=Travel;BillRate=$122.87;Description=The Registered Nurse, following the scope and standards of professional nursing practice, provides comprehensive patient-family centered care addressing potential and actual health and illness problems for patients and families. A Registered Nurse, who, under the supervision of the Nurse Manager/ Director, has continual opportunity to exercise initiative and independent professional judgment, uses the nursing process to provide comprehensive patient centered nursing care for assigned patients; and as a primary member of a nursing care team, guides and monitors work of paraprofessional and other team members. This care is performed as a part of a customer focused, service oriented team that incorporates the values of Mills Peninsula Health Services in a confidential environment. The Registered Nurse integrates the ANA Code of Ethics for Nurses and the Patients' Bill of Rights, Professional Scope and Standards of Practice and pertinent Specialty Standards into his or her nursing practice. Provides care to a defined patient/family assignment: Utilizes the nursing process and standards of nursing practice to deliver care for assigned patients. The process includes assessment, diagnosis, planning, implementation, evaluation, outcomes identification and care coordination of the medical (dependent) and nursing (independent) plan of care for patient and family Creates and maintains an individualized Care plans formulated in collaboration with the patient and family/ and other disciplines to meet the goals of the care event (hospital stay or episode of care). Provides comprehensive nursing care that includes, but is not limited to, physical care, provision of a safe environment, emotional support and administration of prescribed medications, intravenous therapy, and providing health care education as indicated. Patient-centered and responsive to patient/family needs, including those who are not directly assigned Engages in continuous patient/family education while providing care Ensures patient/family understands Collaboration: Coordinates care of other professional Disciplines and Supervises Nursing Care performed by Ancillary care team. Implements the medical and nursing care plans by performing direct care /or delegating tasks as appropriate, which are fundamental to nursing practice in an acute care setting. Coordinates the care of the patient through referrals, direct and indirect communication, participation in rounds and care conferences with physicians and other disciplines. Contributes positively to the department work environment, serves as Charge RN and other unit roles as eligible, participates in unit governance. Communications: Communicates and documents the patient's response to the plan of care. Consistently evaluates and updates the care plan, informing others of changes in patient response in timely and assertive manner. Acts to resolve patient care issues in manner that is patient centered, and upholds ethical standards of practice while supporting team members. Understands the need to continually evaluate and reassess patient care problems and contributes to this dynamic process. Keeps current with department/organization communications to participate in the work environment Communications are effective and professional at all times Completes documentation timely to facilitate team member access to information Maintains confidentiality of patient data Professional Development Identifies own learning needs and pursues ongoing self-development to maintain competency in clinical skills through continued education and professional growth. Demonstrates ongoing development toward attainment of proficiency in core competencies of the department. Expresses understanding of current health care concepts and teach same to patient/families and other staff members Completes mandatory education by deadline and maintains current licensure and certifications. 
+ Schedule Notes:13-weeks noc shfit, 3 out of 4 weekends per month.
+
+Skills: JD cont-Evidence-Based Practice & Outcomes Monitoring Assumes a professional leadership role in improving the quality of the health care delivery system. Participates in unit outcomes monitoring and performance improvements Self-monitors care to complete core measures actions, documentation and patient safety strategies such as using SBAR, completing post-event huddles and other activities. Decision-making is supported by evidence and seeks out evidence to support practice changes Professional Leadership Behaviors: Acts as a role model of professional behaviors for other team members; takes initiative to solve problems, assumes accountability for patients and families, is team oriented and supportive of other team members. Thinks critically and takes actions to execute decisions that advance the patient's plan of care. Shows commitment to unit and hospital standards, philosophy and values Orients, guides and evaluates nursing team members and students Promotes healthy and safe work environment Resource Stewardship: Utilizes human and material resources to maximize the quality of health care and minimize the patient cost Delivers care in a manner that minimizes waste, is defect free and, streamlines processes from patient perspective Able to navigate electronic health record (EHR) and successfully complete competency - Required BLS Certification - Required CA RN License - Required Intravenous treatments, wound care and medication administration skills at competent level - Required Knowledge of QSEN Competencies: Quality and Patient Safety Education core nursing competencies - Required Knowledge of the pathophysiology, common treatments, medications, complications and prevention strategies for area of clinical practice - Required Sufficient previous clinical experience in nursing - Required Thorough knowledge of medical terminology, anatomy and physiology - Required Thorough knowledge of nursing process and/or surgical procedures - Required
+ Required
+	
+	  REGISTERED NURSE
+	  
+	
+	
+	
+	Additional
+
+Education: Bachelors from accredited School of Nursing - Highly desired This is the pay range that RightSourcing (a part of Magnit) reasonably expects to pay someone for this position, however, as a supplier your expected pay range may vary and/or include certain benefits like: Stipends (for clinical traveler workers only), Medical, Dental, Vision, 401K [include any compulsory benefits such as commissions, incentive bonuses, etc. if applicable]. Pay range (USD)70 hrly - (USD)105 hrly
+
+;Languages: 
+ 
+English
+ Read
+ Write
+ Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: SBH-DPC-Nursing-Travel ;url=https://prowand.pro-unlimited.com/supplier/standard/requisition/req_geninfo_view.html?id=27099377&type=REQUISITION&reqProfile=true;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 122.87
+    [facilityName] => Mills-Peninsula Medical Center RS
+    [shiftDateEnd] => 2024-03-02
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

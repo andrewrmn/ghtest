@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '54',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '921',
+  'Cf-Ray' => '865081a9f0408795-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => BR Change: $65 Eff. 12/13/2023
+Last shift worked was 01/29/24
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544351
+    [workerID] => 179627
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13309
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-31
+    [workerLastName] => Ford
+    [shiftNum] => 5
+    [workerFirstName] => Aleshia
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => March, 15 2024 20:08:02
+    [daysPerWeek] => 3
+    [orderNote] => EXT-FTK: Gifted Timecard
+OnCl:P$2/B$5-NoPOT
+BR:$65
+    [guaranteedMinimum] => 
+    [workerEmail] => aleshiaford@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Merit Health Rankin TRAVEL
+    [shiftDateEnd] => 2024-02-03
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

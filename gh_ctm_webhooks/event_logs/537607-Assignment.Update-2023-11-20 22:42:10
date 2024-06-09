@@ -1,0 +1,65 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7669',
+  'Cf-Ray' => '8294345c11706a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Please Read Before Submitting: Traveler must meet all minimum requirements below to be considered. Do not submit traveler who have or will have expiring licenses and/or certifications during time frame of entire assignment. Traveler will automatically be declined. Only submit traveler who can work schedule in posting and interested in the unit.The Surgical Technologist prepares the Operating Room prior to surgery, promotes the safety of the patient during surgery, provides assistance to the surgeon during surgery, cares for the patient during surgery and cares for the instruments and supplies used in surgery. The Surgical Technologist functions to promote the safety of the patient as a member of the surgical team. The incumbent possesses knowledge and skills required to assist in effectively caring for patients of all age groups (neonate, pediatric, adolescent, adult, and geriatric).Minimum Requirements:Facility      Requirement:   Traveler       must have permanent address outside50mile radius of Madison       (address must be included in traveler's profile).  Experience:Minimum       two years of scrub experience or equivalent relevant experience required (looking for strong cardiovascular and transplant experience - including kidney and liver). Ortho trauma, Eye, ENT, Neuro experience is helpful.??Traveler       must have experience in an Academic Level 1 - Trauma center or similar       size hospital.Prior       traveler experience highly preferred  Licensure      and Certification:  BLS         must be certified through American Heart Association ONLYEducation:Successfully completed a surgical technologist program or two years experience in Surgical Technologist role may be considered in lieuof completionof program.References:??Needs 2 completed references from recent work environment/assignments (supervisor or manager only from work performed in the last two years).  Floating   Travelers       are the first to float to floors working with children up to 1 year of       age and/or based on the traveler's competency skills/experience.The       Traveler may have shifts scheduled in multiple units, depending on the       current staffing needsand/or different locations within the       organization. During the traveler s assignment, if the primary unit no       longer has a need, shifts will be re-assigned to another unit in order to       complete contract.  Location:University Hospital, 600 Highland Ave, Madison, WI 53792 Parking:Permit required through UW Transportation.   Additional Information: 	UW Health is moving away from using outdated file formats for Microsoft (Word, PowerPoint, and Excel). Profiles will need to be submitted in the following format: .docx, .xlsx and .pptx file types or our IS department will be blocking them and we will no longer receive the files nor able to forward internal to our hiring managers.-------------------------------------   	QuantiFERON/TSpot results will NOT be accepted for any reason   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => CVOR
+    [assignmentid] => 537607
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3538
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 3
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 20 2023 17:42:09
+    [daysPerWeek] => 5
+    [orderNote] => Source=Medefis5;SourceID=260153 ;Status=Open;Association=UW Health ;Client=UW Health University Hospital ;City=Madison ;State=WI ;Zip=53792 ;Start=11/6/2023;End=2/5/2024;Duration=91;Cert=Nursing ;Specialty=Operating Room, OR Technologist, Orthopedic, Surgical Technologist ;Unit=Operating Room, OR Technologist, Orthopedic, Surgical Technologist ;Shift=40 hr/week, Eve/Nights, Weekdays 10:30 pm - 7am M-F or 9:30pm-7am. Weekday and weekend on call responsibility.  
+
+
+
+
+;# of Postions=2;Guaranteed Hours=40;Type=Travel;BillRate=$101.00;OTRate=111 ;OTRules=By The Week, after 40, ;CallbackRate=101 (All Inclusive Rate) ;HolidayRate=111 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=Please Read Before Submitting: Traveler must meet all minimum requirements below to be considered. Do not submit traveler who have or will have expiring licenses and/or certifications during time frame of entire assignment. Traveler will automatically be declined. Only submit traveler who can work schedule in posting and interested in the unit.The Surgical Technologist prepares the Operating Room prior to surgery, promotes the safety of the patient during surgery, provides assistance to the surgeon during surgery, cares for the patient during surgery and cares for the instruments and supplies used in surgery. The Surgical Technologist functions to promote the safety of the patient as a member of the surgical team. The incumbent possesses knowledge and skills required to assist in effectively caring for patients of all age groups (neonate, pediatric, adolescent, adult, and geriatric).Minimum Requirements:Facility      Requirement:   Traveler       must have permanent address outside50mile radius of Madison       (address must be included in traveler's profile).  Experience:Minimum       two years of scrub experience or equivalent relevant experience required (looking for strong cardiovascular and transplant experience - including kidney and liver). Ortho trauma, Eye, ENT, Neuro experience is helpful.??Traveler       must have experience in an Academic Level 1 - Trauma center or similar       size hospital.Prior       traveler experience highly preferred  Licensure      and Certification:  BLS         must be certified through American Heart Association ONLYEducation:Successfully completed a surgical technologist program or two years experience in Surgical Technologist role may be considered in lieuof completionof program.References:??Needs 2 completed references from recent work environment/assignments (supervisor or manager only from work performed in the last two years).  Floating   Travelers       are the first to float to floors working with children up to 1 year of       age and/or based on the traveler's competency skills/experience.The       Traveler may have shifts scheduled in multiple units, depending on the       current staffing needsand/or different locations within the       organization. During the traveler s assignment, if the primary unit no       longer has a need, shifts will be re-assigned to another unit in order to       complete contract.  Location:University Hospital, 600 Highland Ave, Madison, WI 53792 Parking:Permit required through UW Transportation.   Additional Information: 	UW Health is moving away from using outdated file formats for Microsoft (Word, PowerPoint, and Excel). Profiles will need to be submitted in the following format: .docx, .xlsx and .pptx file types or our IS department will be blocking them and we will no longer receive the files nor able to forward internal to our hiring managers.-------------------------------------   	QuantiFERON/TSpot results will NOT be accepted for any reason   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260153;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => University of Wisconsin Hospital and Clinics
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 23:00
+    [subjectID] => 
+)

@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3491',
+  'Cf-Ray' => '83274aec97511842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => ***Prior open heart surgery experience required****?This traveler will cover heart and vascular cases?This shift would be 3 12-hour shifts or 4 10-hour shifts. This position would also take 1 weekday of call, rotating weekend call, and holiday call. This nurse needs to be comfortable with CABGs (all open-heart cases), TAVRs, Hybrid vascular cases (fem-fem, by fem, fem pops, Etc.) carotids, Triple As, thoracotomy procedures, and TEEs. This nurse also needs to feel comfortable with assisting anesthesia with drips, lines, and drug set up. When not in CT or vascular cases this nurse needs to be comfortablewith circulator other smaller cases throughout the OR.75 mile radius restriction from Cape Girardeau, MOOpen Heart RN opening - SFMC would be willing to accept 12 hours shifts and possible block scheduling Requirements for call, one-two week days and then 4thor 5thweekend (Friday, Saturday, AND Sunday). They do also get called out for general/trauma cases.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 546085
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 9793
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-02
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => December, 08 2023 14:07:40
+    [daysPerWeek] => 5
+    [orderNote] => Source=Medefis5;SourceID=262212 ;Status=Open;Association=Saint Francis Healthcare System ;Client=Saint Francis Medical Center-MO ;City=Cape Girardeau ;State=MO ;Zip=63703 ;Start=1/2/2024;End=4/2/2024;Duration=91;Cert=Nursing ;Specialty=Open Heart Surgery, Operating Room ;Unit=Open Heart Surgery, Operating Room ;Shift=Days;# of Postions=3;Guaranteed Hours=40;Type=Travel;BillRate=$115.00;OTRate=125 ;OTRules=By The Week, after 40, ;CallbackRate=125 (All Inclusive Rate + $10) ;HolidayRate=125 (All Inclusive Rate + $10) ;OnCallRateDescription=$2 per hour pager ;Description=***Prior open heart surgery experience required****?This traveler will cover heart and vascular cases?This shift would be 3 12-hour shifts or 4 10-hour shifts. This position would also take 1 weekday of call, rotating weekend call, and holiday call. This nurse needs to be comfortable with CABGs (all open-heart cases), TAVRs, Hybrid vascular cases (fem-fem, by fem, fem pops, Etc.) carotids, Triple As, thoracotomy procedures, and TEEs. This nurse also needs to feel comfortable with assisting anesthesia with drips, lines, and drug set up. When not in CT or vascular cases this nurse needs to be comfortablewith circulator other smaller cases throughout the OR.75 mile radius restriction from Cape Girardeau, MOOpen Heart RN opening - SFMC would be willing to accept 12 hours shifts and possible block scheduling Requirements for call, one-two week days and then 4thor 5thweekend (Friday, Saturday, AND Sunday). They do also get called out for general/trauma cases.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262212;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 115
+    [facilityName] => Saint Francis Medical Center - MO Travel
+    [shiftDateEnd] => 2024-04-02
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

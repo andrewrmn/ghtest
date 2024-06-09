@@ -1,0 +1,129 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '27',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '10077',
+  'Cf-Ray' => '82bd298324cd4959-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => "The Registered Nurse in the Acute Care setting manages the patient/family experience through utilization of critical thinking, teamwork, effective communication, and nursing judgment/knowledge/skills. Education/ Knowledge, including Licensure/ Certification/ Registration Current licensure California RN; BLS -Health Care Provider; see attached for department and facility specific requirements. Graduate of an accredited school of nursing; BS preferred. Must have demonstrated knowledge of basic nursing skills and effective English written and communication skills. Skills Independently practices and prioritizes multiple demands in an ever-changing environment. Good interpersonal, communication (both oral and written) and teamwork skills are required. Access to Protected Health Information (PHI)/ Physical Requirements/ Special Working Conditions Access to PHI: This position has access to protected health information. The protected health information this position can access is all medical record information. This position requires this patient health information in order to perform the functions outlined as part of this position description. Has responsibility to treat or care for patients. Personal Protective Equipment: Follows Standard Precautions using personal protective equipment as required. Physical Requirements: None. Possible exposure to: Blood or body fluids Possible exposure to: Communicable diseases Possible exposure to: Contrast media Possible exposure to: High ionized radiation Possible exposure to: High pitched noises Possible exposure to: Magnetic fields Possible exposure to: Needles or other sharp objects Possible exposure to: Toxic/Caustic Chemicals Possible exposure to: Violent patients Possible exposure to: X-ray electromagnetic energy Regularly works with: CRT (computer) monitor Regularly works with: Heating devices Regularly works with: Moving mechanical parts Work involves: Fire risk Work involves: Frequent repetitive motions Work involves: Potential electric shock Principal Accountabilities Community- Promotes a positive relationship between Sutter Health and the community. Finance - Utilizes resources to deliver quality care in a safe, efficient, and cost-effective manner. Growth - Actively manages patient/family plan of care throughout the hospitalization to achieve optimal transition and progression toward discharge for patient/family. People -Coordinates the activities of the health care team in a professional manner according to the Standards of Excellence promoting a positive work environment. Quality- Provides optimal care to patients' and family which is collaborative, evidence based and meets national/facility standards to achieve the best possible outcome. Service - Cares for patient/family according to the Sutter Difference standards and activities ensuring the best patient/family experience. " 
+ Schedule Notes:Nights, 36 hr wk, 12 hr shift
+
+Skills: 1 year of prior travel experience - Required: 1 Years BLS -  Current licensure California RN - Required DKA and Sepsis management; Pediatric chemo administration - Required Does the candidate have 6 months of EPIC experience? - Required If candidate does have EPIC experience, is any of the experience within the last 6 months? - Required PALS - Required Pediatric CV experience - Required
+ Required
+	
+	  EPIC
+	   RN
+	   PEDIATRIC
+	   FINANCE
+	   REGISTERED NURSE
+	      
+	
+	
+	
+	Additional
+	
+	            X-RAY
+	   ELECTROMAGNETIC
+
+Education: BS - Highly desired Graduate of an accredited registered nurse program and has successfully passed RN examination - Required This is the pay range that RightSourcing (a part of Magnit) reasonably expects to pay someone for this position, however, as a supplier your expected pay range may vary and/or include certain benefits like: Stipends (for clinical traveler workers only), Medical, Dental, Vision, 401K [include any compulsory benefits such as commissions, incentive bonuses, etc. if applicable]. Pay range (USD)88 hrly - (USD)131 hrly
+
+;Languages: 
+ 
+English
+ Read
+ Write
+ Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: SVH-DPC-Nursing-Travel
+    [sitename] => giftednurses
+    [spec] => PICU
+    [assignmentid] => 535258
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 12802
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 25 2023 17:00:01
+    [daysPerWeek] => 3
+    [orderNote] => Source=Wand;SourceID=26320039 ;Status=Pending;Client=Sutter Health ;City=Sacramento ;State=CA ;Zip=95816 ;Start=10/16/2023;End=1/13/2024;Duration=89;Cert=SVH-DPC-Nursing-Travel ;Specialty=RN - PICU - Travel - SMCS-NOC ;Unit=SUT Health SacSierra Reg*FLOAT PERSONNEL 						: 110*108734    		                SUT Health SacSierra Reg SUT Health SacSierra Reg*FLOAT PERSONNEL  : 110*108734   SUT Health SacSierra Reg ;Shift=Nights, 36 hr wk, 12 hr shift Nights, 36 hr wk, 12 hr shift 3x12 Hr;# of Postions=3;Guaranteed Hours=36.00;Type=Travel;BillRate=$131.08;Description="The Registered Nurse in the Acute Care setting manages the patient/family experience through utilization of critical thinking, teamwork, effective communication, and nursing judgment/knowledge/skills. Education/ Knowledge, including Licensure/ Certification/ Registration Current licensure California RN; BLS -Health Care Provider; see attached for department and facility specific requirements. Graduate of an accredited school of nursing; BS preferred. Must have demonstrated knowledge of basic nursing skills and effective English written and communication skills. Skills Independently practices and prioritizes multiple demands in an ever-changing environment. Good interpersonal, communication (both oral and written) and teamwork skills are required. Access to Protected Health Information (PHI)/ Physical Requirements/ Special Working Conditions Access to PHI: This position has access to protected health information. The protected health information this position can access is all medical record information. This position requires this patient health information in order to perform the functions outlined as part of this position description. Has responsibility to treat or care for patients. Personal Protective Equipment: Follows Standard Precautions using personal protective equipment as required. Physical Requirements: None. Possible exposure to: Blood or body fluids Possible exposure to: Communicable diseases Possible exposure to: Contrast media Possible exposure to: High ionized radiation Possible exposure to: High pitched noises Possible exposure to: Magnetic fields Possible exposure to: Needles or other sharp objects Possible exposure to: Toxic/Caustic Chemicals Possible exposure to: Violent patients Possible exposure to: X-ray electromagnetic energy Regularly works with: CRT (computer) monitor Regularly works with: Heating devices Regularly works with: Moving mechanical parts Work involves: Fire risk Work involves: Frequent repetitive motions Work involves: Potential electric shock Principal Accountabilities Community- Promotes a positive relationship between Sutter Health and the community. Finance - Utilizes resources to deliver quality care in a safe, efficient, and cost-effective manner. Growth - Actively manages patient/family plan of care throughout the hospitalization to achieve optimal transition and progression toward discharge for patient/family. People -Coordinates the activities of the health care team in a professional manner according to the Standards of Excellence promoting a positive work environment. Quality- Provides optimal care to patients' and family which is collaborative, evidence based and meets national/facility standards to achieve the best possible outcome. Service - Cares for patient/family according to the Sutter Difference standards and activities ensuring the best patient/family experience. " 
+ Schedule Notes:Nights, 36 hr wk, 12 hr shift
+
+Skills: 1 year of prior travel experience - Required: 1 Years BLS -  Current licensure California RN - Required DKA and Sepsis management; Pediatric chemo administration - Required Does the candidate have 6 months of EPIC experience? - Required If candidate does have EPIC experience, is any of the experience within the last 6 months? - Required PALS - Required Pediatric CV experience - Required
+ Required
+	
+	  EPIC
+	   RN
+	   PEDIATRIC
+	   FINANCE
+	   REGISTERED NURSE
+	      
+	
+	
+	
+	Additional
+	
+	            X-RAY
+	   ELECTROMAGNETIC
+
+Education: BS - Highly desired Graduate of an accredited registered nurse program and has successfully passed RN examination - Required This is the pay range that RightSourcing (a part of Magnit) reasonably expects to pay someone for this position, however, as a supplier your expected pay range may vary and/or include certain benefits like: Stipends (for clinical traveler workers only), Medical, Dental, Vision, 401K [include any compulsory benefits such as commissions, incentive bonuses, etc. if applicable]. Pay range (USD)88 hrly - (USD)131 hrly
+
+;Languages: 
+ 
+English
+ Read
+ Write
+ Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: SVH-DPC-Nursing-Travel ;url=https://prowand.pro-unlimited.com/supplier/standard/requisition/req_geninfo_view.html?id=26320039&type=REQUISITION&reqProfile=true;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 131.08
+    [facilityName] => Sutter Medical Center - Ose Adams Medical Pavilion
+    [shiftDateEnd] => 2024-03-02
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

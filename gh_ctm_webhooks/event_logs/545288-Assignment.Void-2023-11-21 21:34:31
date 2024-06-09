@@ -1,0 +1,65 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1925',
+  'Cf-Ray' => '829c0ea5c45e1834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 2 years of level 1 trauma center experience is required. Must have experience with trauma cases. BLS certified. No RTO approved 12/24 or 12/25. (BF for Kimberly Neace, TL) 
+ Critical Need: Disaster Critical
+VayaOffer = False
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 545288
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12923
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 21 2023 16:34:30
+    [daysPerWeek] => 3
+    [orderNote] => Source=OptimizerVizient;SourceID=95496532 ;Status=CandidatesRequested;Association=University of Kentucky Hospital ;Client=University of Kentucky Hospital ;City=Lexington ;State=KY ;Zip=40536 ;Start=12/18/2023;End=3/23/2024;Duration=96;Cert=Surgical Tech ;Specialty=Surgical Tech - Operating Room ;Unit=CH OR Room Pav A - 1058729250 ;Shift=7:00 PM - 7:30 AM;# of Postions=1;Guaranteed Hours=0;Type=Travel;BillRate=$81.00;OTRate=113.40 ;CallbackRate=113.40 ;HolidayRate=121.50 ;Orientation=56.70 ;Priority=Critical;Description=2 years of level 1 trauma center experience is required. Must have experience with trauma cases. BLS certified. No RTO approved 12/24 or 12/25. (BF for Kimberly Neace, TL) 
+ Critical Need: Disaster Critical
+VayaOffer = False ;url=https://optimizer.vayaworkforce.com/agency/job-requests/95496532;localRate=$76.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 81
+    [facilityName] => University of Kentucky Hospital Travel
+    [shiftDateEnd] => 2024-03-23
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

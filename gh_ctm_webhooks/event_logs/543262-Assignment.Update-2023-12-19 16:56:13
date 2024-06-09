@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1392',
+  'Cf-Ray' => '83812d6dd4651466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 weeks
+36 hrs/wk
+10a-10:30p
+EOW
+BLS/ARRT
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 543262
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13403
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 22:30
+    [whenmodified] => December, 19 2023 11:56:05
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48284 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne Clinton Medical Center ;City=Clinton ;State=IA ;Zip=52732 ;Start=12/3/2023;End=3/2/2024;Duration=90;Cert=CT Tech ;Specialty=Diagnostic Radiology ;Unit=IA\MercyOne Clinton\CT/Xray tech ;Shift=10:00:00 - 22:30:00;# of Postions=1;Type=Travel;BillRate=$78.00;OTRate=101.40 ;ChargeRate=81.00 ;CallbackRate=101.40 ;HolidayRate=101.40 ;Orientation=0.00 ;Description=13 weeks
+36 hrs/wk
+10a-10:30p
+EOW
+BLS/ARRT ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 78
+    [facilityName] => Mercy Medical Center - Clinton (North Campus) Travel
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 10:00
+    [subjectID] => 
+)

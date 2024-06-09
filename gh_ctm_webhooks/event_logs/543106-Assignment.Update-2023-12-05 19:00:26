@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3494',
+  'Cf-Ray' => '830e882733fe1465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Provide safe and effective care for adult medical/surgical ortho/neuro patients within the scope of license. Will float to all medical surgical areas based on patient care needs.   Additional Information:COVID Vaccine mandate PLEASE REVIEW COVID DOCUMENT IN THEIR ACCOUNT. Former perm employees will not be considered for a traveler position. ***Travelers are the first to float***Strict RADIUS RULE of 100 miles***  We will not accept agency time cards. Time will be processed and uploaded into Medefis the following week.  21 days discrepancies policy.  There is a time card walk through tutorial attached along with the facility contract and required docs under hospital profile page.  Medefis will handle all billing for this client. By clicking on the profile you can see a list of the documents required. That list must also be completed, signed and uploaded into Medefis.  Anyone directly contacting us will not be considered for this or any other positions at Parkview.   Position Urgency:Rapid Response Crisis Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543106
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1349
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 05 2023 14:00:20
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261306 ;Status=Open;Association=Parkview Medical Center ;Client=Parkview Medical Center ;City=Pueblo ;State=CO ;Zip=81009 ;Start=11/8/2023;End=2/7/2024;Duration=91;Cert=Nursing ;Specialty=Med-surg Adult, Telemetry Med / Surg ;Unit=Med-surg Adult, Telemetry Med / Surg ;Shift=Day Shift (7a-7p);# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$85.00;OTRate=95 ;OTRules=By The Week, after 40, ;CallbackRate=95 (All Inclusive Rate + $10) ;HolidayRate=95 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=Provide safe and effective care for adult medical/surgical ortho/neuro patients within the scope of license. Will float to all medical surgical areas based on patient care needs.   Additional Information:COVID Vaccine mandate PLEASE REVIEW COVID DOCUMENT IN THEIR ACCOUNT. Former perm employees will not be considered for a traveler position. ***Travelers are the first to float***Strict RADIUS RULE of 100 miles***  We will not accept agency time cards. Time will be processed and uploaded into Medefis the following week.  21 days discrepancies policy.  There is a time card walk through tutorial attached along with the facility contract and required docs under hospital profile page.  Medefis will handle all billing for this client. By clicking on the profile you can see a list of the documents required. That list must also be completed, signed and uploaded into Medefis.  Anyone directly contacting us will not be considered for this or any other positions at Parkview.   Position Urgency:Rapid Response Crisis Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261306;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Parkview Medical Center Travel
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

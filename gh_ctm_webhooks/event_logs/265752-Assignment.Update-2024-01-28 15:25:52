@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2145',
+  'Cf-Ray' => '84ca401e63c977ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 08/16/2021 0650 MDTJackie Pittmann
+                            
+                            
+                                $165.00 - 1.     We will need 1 for 11a-7p.1.     General Surgery, Davinci, Ortho/Spine, CV helpfulThere on-call expected for all staff, In 4 hour increments, can be worked together or spread out.
+ RatePlan:AH-CRISIS RN rates (8/2/2021)
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 265752
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13445
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-09-06
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => January, 28 2024 10:25:06
+    [daysPerWeek] => 5
+    [orderNote] => Source=ShiftWise;SourceID=9395302 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Medical Center ;City=Austin ;State=TX ;Zip=78701 ;Start=9/6/2021;End=12/5/2021;Duration=91;Cert=RN ;Specialty=OR ;Unit=SMC Surgery ;Shift=PM 8.00 Hrs;# of Postions=1;Type=Travel;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=08/16/2021 0650 MDTJackie Pittmann
+                            
+                            
+                                $165.00 - 1.     We will need 1 for 11a-7p.1.     General Surgery, Davinci, Ortho/Spine, CV helpfulThere on-call expected for all staff, In 4 hour increments, can be worked together or spread out.
+ RatePlan:AH-CRISIS RN rates (8/2/2021) ;url=https://automated.shiftwise.net/esp/order.aspx?order_id=C5939ED771384A4F491B5456E09C94F6;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => Ascension Seton Medical Center Austin
+    [shiftDateEnd] => 2021-12-05
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

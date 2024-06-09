@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '878',
+  'Cf-Ray' => '82a2eca447021842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 545626
+    [workerID] => 206097
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2342
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => Hampton
+    [shiftNum] => 5
+    [workerFirstName] => Jayln
+    [cert] => RN
+    [floorDesc] => Emergency
+    [Subject] => 
+    [shiftEndTime] => 03:30
+    [whenmodified] => November, 22 2023 12:34:38
+    [daysPerWeek] => 3
+    [orderNote] => FTK: Kronos
+OnCl:P$2/B$3
+Ornt:$20/NB:16hr
+BR:$100
+    [guaranteedMinimum] => 
+    [workerEmail] => jayln91109@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Banner - Baywood Medical Center TRAVEL
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

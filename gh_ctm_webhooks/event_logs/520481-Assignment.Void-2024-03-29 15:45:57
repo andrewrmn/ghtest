@@ -1,0 +1,69 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1679',
+  'Cf-Ray' => '86c0fd6ca55b77bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => Special Education
+    [assignmentid] => 520481
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Contract
+    [hoursPerWeek] => 37.5
+    [facilityID] => 15697
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-30
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Teacher
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => March, 29 2024 11:45:56
+    [daysPerWeek] => 5
+    [orderNote] => Caseload (grade level + # of students):  Total caseload of 29 students that will be split between two EC teachers (each school based EC department decides how the caseload will be split-this school usually splits between Kindergarten through second grade and third through fifth grade, but the numbers do not support splitting the caseload according to grade level at this time)-2 Kindergarten, 2 first graders, 3 second graders, 8 third graders, 6 fourth graders, and 8 fifth graders
+
+Classroom Settings:  mixture of inclusion and pull out services based on each student's IEP
+
+Location:  Viewmont Elementary School-21 16th Ave NW, Hickory, NC 28601
+
+Hours per day:  7.5
+
+Start date and end date:  August 14th is the first optional workday, August 22nd is the first required workday, and August 28th is the first day of school-May 31st is the last day of school
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Hickory Public Schools
+    [shiftDateEnd] => 2024-06-07
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

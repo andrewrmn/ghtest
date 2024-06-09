@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1002',
+  'Cf-Ray' => '837a9150d3ff183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 136564
+    [sitename] => giftednurses
+    [spec] => Clinic
+    [assignmentid] => 537246
+    [workerID] => 337341
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => F S S Co n t r a c t Ta s k Or d e r - 3 6 F 7 9 7 2 1 DO 11 7-Through Vighter (Prime)12/01/23-04/30/24
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 40
+    [facilityID] => 16185
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-20
+    [workerLastName] => Sumwalt
+    [shiftNum] => 1
+    [workerFirstName] => Jinnie
+    [cert] => LPN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 16:30
+    [whenmodified] => December, 18 2023 16:41:01
+    [daysPerWeek] => 5
+    [orderNote] => I don't think we will have a PO number on this one. This is a sub through Vighter.
+    [guaranteedMinimum] => 
+    [workerEmail] => Jinniesumwalt@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 51.37
+    [facilityName] => VAMC-Myrtle Beach VA Clinic
+    [shiftDateEnd] => 2024-04-30
+    [shiftStartTime] => 07:30
+    [subjectID] => 
+)

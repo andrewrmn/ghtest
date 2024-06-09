@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2091',
+  'Cf-Ray' => '84ca400f909d23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 08/02/2021 1927 MDTTricia Wichtoski
+                            
+                            
+                                Bill Rate: $165/hr. Prefer 48 hours but will consider 36. Must have 2 years of experience. Cerner experience preferred. IVS to interview and offer
+ RatePlan:AH-CRISIS RN rates (8/2/2021)
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 256501
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13445
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 1
+    [bonus] => 
+    [shiftDateStart] => 2021-08-30
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 28 2024 10:25:06
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;SourceID=9372025 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Medical Center ;City=Austin ;State=TX ;Zip=78701 ;Start=8/30/2021;End=11/29/2021;Duration=92;Cert=RN ;Specialty=ICU ;Unit=SMC Critical Care ;Shift=NOC 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$165.00;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=08/02/2021 1927 MDTTricia Wichtoski
+                            
+                            
+                                Bill Rate: $165/hr. Prefer 48 hours but will consider 36. Must have 2 years of experience. Cerner experience preferred. IVS to interview and offer
+ RatePlan:AH-CRISIS RN rates (8/2/2021) ;url=https://automated.shiftwise.net/esp/order.aspx?order_id=5848F82B329C73F34935C626F2C7C7D9;minPayRate=$165.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 165
+    [facilityName] => Ascension Seton Medical Center Austin
+    [shiftDateEnd] => 2021-11-29
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

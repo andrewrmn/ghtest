@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3462',
+  'Cf-Ray' => '82d491d4a7dd4951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 week contract 0645-1915, 36 hours a week contract with every other weekend off.,  Must have current WA license, ACLS and BLS. Compact licenses is now being accepted and additional requirements are 1) verification of suicide training 2) verification of demographics date via nursys e-notify.   RTO must be approved and added to the end of the contract.  Must be team player.  This position is centrally located to the pacific beaches and the Olympic National Forrest..  There is hiking , fishing, boating 2 hours to Seattle or Portland OR.   Additional Information:Additional Housing: Econolodge, Hoquiam WA  98550  360-532-8161  $50 per night or furnished studio apartments available for long term assignments at a great rate.  A Harborview Inn B&B, Aberdeen, WA  98520, 360-533-0433    Heather Meadows, Aberdeen, WA  98520, 360-538-7000  The Ramada Inn, Ocean Shores, WA  98569, 360-289-7700  Aberdeen Hotel, Aberdeen, WA, 98520, 360-537-7460  Monte Square Motel, Montesano, WA  98563,  360-249-4424   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543427
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1485
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:15
+    [whenmodified] => November, 28 2023 13:10:46
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261419 ;Status=Open;Association=Grays Harbor Community Hospital ;Client=Grays Harbor Community Hospital ;City=Aberdeen ;State=WA ;Zip=98520 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Nursing ;Specialty=Med-surg Adult ;Unit=Med-surg Adult ;Shift=0645-1915;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$90.00;OTRate=100 ;OTRules=By The Week, after 40, ;HolidayRate=100 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=13 week contract 0645-1915, 36 hours a week contract with every other weekend off.,  Must have current WA license, ACLS and BLS. Compact licenses is now being accepted and additional requirements are 1) verification of suicide training 2) verification of demographics date via nursys e-notify.   RTO must be approved and added to the end of the contract.  Must be team player.  This position is centrally located to the pacific beaches and the Olympic National Forrest..  There is hiking , fishing, boating 2 hours to Seattle or Portland OR.   Additional Information:Additional Housing: Econolodge, Hoquiam WA  98550  360-532-8161  $50 per night or furnished studio apartments available for long term assignments at a great rate.  A Harborview Inn B&B, Aberdeen, WA  98520, 360-533-0433    Heather Meadows, Aberdeen, WA  98520, 360-538-7000  The Ramada Inn, Ocean Shores, WA  98569, 360-289-7700  Aberdeen Hotel, Aberdeen, WA, 98520, 360-537-7460  Monte Square Motel, Montesano, WA  98563,  360-249-4424   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261419;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Grays Harbor Community Hospital
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 06:45
+    [subjectID] => 
+)

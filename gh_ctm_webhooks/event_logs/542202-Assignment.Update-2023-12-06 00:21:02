@@ -1,0 +1,446 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '28',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '13125',
+  'Cf-Ray' => '83105dc4203f495d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:50 MILE RADIUS REQUIRED
+
+
+
+
+
+Rapides Regional Medical Center
+
+211 4th St
+
+Alexandria, LA 71301
+
+Facility Overview:
+
+Rapides Regional Medical Center, through the efforts of its associate employees and physicians, will provide high quality, efficient and compassionate health care services for our patients and community.
+
+Rapides Regional Medical Center shall assume a leading role for the coordination of health care delivery in Central Louisiana. The organization will focus on the development of an integrated, cost efficient, quality driven health care delivery system.
+
+Values:
+Service |
+Teamwork |
+Accountability |
+Respect |
+Safety
+
+Founded in 1903 at the corner of Second and Lee streets in Alexandria, Louisiana, Rapides Regional Medical Center represents a proud heritage of compassionate healthcare services coupled with the most advanced technology of the day.
+
+With a continued emphasis on progressive care, Rapides Regional Medical Center has grown to meet the continually changing needs of our patients and the rapidly advancing technology of modern healthcare. Located in downtown Alexandria and easily accessible from Interstate 49, the hospital is licensed for 328 beds and fully accredited by The Joint Commission. The hospital participates in the Medicare, Medicaid and
+Champus
+programs as well as a number of commercial insurance and managed care programs.
+
+Total Number of Beds: 328
+DirectionsTop Ten Things to do in Alexandria
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Unit Profile
+
+The purpose of a unit profile is to provide an exceptional screenshot of the unit.
+ Profiles should include unique details to assist recruiting professional in effectively and efficiently identifying highly qualified staff.
+
+ Below you will find a data collection tool to help you identify essential data needed to complete your profile.
+ 
+
+
+
+
+
+
+
+Hospital:
+ Rapides Regional Medical Center
+
+Location: Alexandria, Louisiana
+
+Address: 211
+ Fourth Street, Alexandria, LA 71301
+
+Unit Name: 
+3A Cardiovascular
+
+Building: 3rd Floor, South Tower
+
+Cost Center: 63073
+
+General Information
+
+Unit Specifics: 
+Number of Beds :
+ 20Patient Ratios :
+ 5 or 6 : 1Unit staffing description: 3A is a total of 20 beds surrounding one nursing station.
+ There is a secretary on duty from 7am to 10 pm daily and from 7am to 7pm on the weekends, census permitting.
+ PCTs are available all three shifts and ratio fluctuates with census and shifts. There is no free charge nurse on 3a, however, there is a tremendous amount of teamwork on this floor where staff are very helpful to one another. This floor is known for having excellent patient satisfaction scores. Type of equipment: Each patient is monitored on telemetry boxes, with the monitor in the nurse s station to view all patients on the unit.
+ Dynamaps with neurons that upload vital signs directly to Meditech.
+ Glucometers also upload results directly to Meditech.
+ Use of iMobile phones and technology by all staff in the hospital.
+ iPhones are tied into call system for direct patient access to available staff.Documentation system:
+ Meditech using EBCD (Evidence Based Clinical Documentation)Scheduling requirements:
+ All nursing shift are twelve hours from 7 to 7; every other weekend.
+ Holiday requirements.Floating policy:
+ Nursing staff will float to other Medical-Surgical Units in the hospital as needed with primary focus on pulling to similar units.
+ Patient Experience requirements:
+ Hourly rounding, bedside hand-off reporting, completion of  My Care Board  during hand-off report; use of AIDET with a focus on compassionate connected care.
+Hospital Specifics-
+Pathways to Excellence CertifiedWorking toward Magnet statusCertified Stroke CenterCertified Chest Pain CenterLevel II Trauma Center
+Hiring profile
+
+Requested Skill Set:
+ Femoral arterial sheath removal; PICC line removal; Radial band care and removal; post heart cath/PCI care; temporary and permanent pacemaker care; knowledge of core measure requirements. In addition, must be familiar with management of chest tubes. 
+
+
+
+
+Must have: 
+ Positive attitude, flexibility, teamwork, desire for excellence, self-motivated, good communication and people skills, ability to work in a diverse environment
+
+
+
+
+
+
+
+Advanced skills needed:
+ Telemetry rhythm interpretation
+
+
+
+
+
+
+
+Procedures performed on unit: 
+Post Cardiac catheterization/PCI; Post pacemaker care; Cardioversions; PICC line placement
+
+
+
+
+
+
+
+Certifications Required:
+ ACLS, BLS
+
+
+
+
+
+
+
+Dress Code: (Required uniform) 
+Ceil blue scrubsWhite or ceil blue scrub jacket optional 
+Unit Guidelines/Policies: Please attach unit specific policies and guidelines.
+
+
+Awards/Recognition: 
+Please include anything that you would like prospective candidates to be aware of, such as, links to videos that feature the department, outstanding department/team awards..
+ 
+HCA Unit of Distinction winner for multiple yearsQuality measures are highly maintainedHigh Employee Engagement scores
+Any additional information that would entice a worker to select your unit for their assignment: 
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc. 
+Many staff members are nationally certified, including managersSeveral highly tenured nursing staffSelf-scheduling within certain guidelinesiMobile technology
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 542202
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7577
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 05 2023 19:20:43
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=753985 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=RAPIDES REGIONAL MEDICAL CENTER LA ;City=ALEXANDRIA ;State=LA ;Zip=71301 ;Start=9/22/2023;End=12/22/2023;Duration=91;Cert=RN ;Specialty=Tele ;Unit=NORTH TEXAS DIVISION (17) ;Shift=7:00PM - 7:00AM;# of Postions=2;Type=Travel;BillRate=$70.00;OTRate=78 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:50 MILE RADIUS REQUIRED
+
+
+
+
+
+Rapides Regional Medical Center
+
+211 4th St
+
+Alexandria, LA 71301
+
+Facility Overview:
+
+Rapides Regional Medical Center, through the efforts of its associate employees and physicians, will provide high quality, efficient and compassionate health care services for our patients and community.
+
+Rapides Regional Medical Center shall assume a leading role for the coordination of health care delivery in Central Louisiana. The organization will focus on the development of an integrated, cost efficient, quality driven health care delivery system.
+
+Values:
+Service |
+Teamwork |
+Accountability |
+Respect |
+Safety
+
+Founded in 1903 at the corner of Second and Lee streets in Alexandria, Louisiana, Rapides Regional Medical Center represents a proud heritage of compassionate healthcare services coupled with the most advanced technology of the day.
+
+With a continued emphasis on progressive care, Rapides Regional Medical Center has grown to meet the continually changing needs of our patients and the rapidly advancing technology of modern healthcare. Located in downtown Alexandria and easily accessible from Interstate 49, the hospital is licensed for 328 beds and fully accredited by The Joint Commission. The hospital participates in the Medicare, Medicaid and
+Champus
+programs as well as a number of commercial insurance and managed care programs.
+
+Total Number of Beds: 328
+DirectionsTop Ten Things to do in Alexandria
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Unit Profile
+
+The purpose of a unit profile is to provide an exceptional screenshot of the unit.
+ Profiles should include unique details to assist recruiting professional in effectively and efficiently identifying highly qualified staff.
+
+ Below you will find a data collection tool to help you identify essential data needed to complete your profile.
+ 
+
+
+
+
+
+
+
+Hospital:
+ Rapides Regional Medical Center
+
+Location: Alexandria, Louisiana
+
+Address: 211
+ Fourth Street, Alexandria, LA 71301
+
+Unit Name: 
+3A Cardiovascular
+
+Building: 3rd Floor, South Tower
+
+Cost Center: 63073
+
+General Information
+
+Unit Specifics: 
+Number of Beds :
+ 20Patient Ratios :
+ 5 or 6 : 1Unit staffing description: 3A is a total of 20 beds surrounding one nursing station.
+ There is a secretary on duty from 7am to 10 pm daily and from 7am to 7pm on the weekends, census permitting.
+ PCTs are available all three shifts and ratio fluctuates with census and shifts. There is no free charge nurse on 3a, however, there is a tremendous amount of teamwork on this floor where staff are very helpful to one another. This floor is known for having excellent patient satisfaction scores. Type of equipment: Each patient is monitored on telemetry boxes, with the monitor in the nurse s station to view all patients on the unit.
+ Dynamaps with neurons that upload vital signs directly to Meditech.
+ Glucometers also upload results directly to Meditech.
+ Use of iMobile phones and technology by all staff in the hospital.
+ iPhones are tied into call system for direct patient access to available staff.Documentation system:
+ Meditech using EBCD (Evidence Based Clinical Documentation)Scheduling requirements:
+ All nursing shift are twelve hours from 7 to 7; every other weekend.
+ Holiday requirements.Floating policy:
+ Nursing staff will float to other Medical-Surgical Units in the hospital as needed with primary focus on pulling to similar units.
+ Patient Experience requirements:
+ Hourly rounding, bedside hand-off reporting, completion of  My Care Board  during hand-off report; use of AIDET with a focus on compassionate connected care.
+Hospital Specifics-
+Pathways to Excellence CertifiedWorking toward Magnet statusCertified Stroke CenterCertified Chest Pain CenterLevel II Trauma Center
+Hiring profile
+
+Requested Skill Set:
+ Femoral arterial sheath removal; PICC line removal; Radial band care and removal; post heart cath/PCI care; temporary and permanent pacemaker care; knowledge of core measure requirements. In addition, must be familiar with management of chest tubes. 
+
+
+
+
+Must have: 
+ Positive attitude, flexibility, teamwork, desire for excellence, self-motivated, good communication and people skills, ability to work in a diverse environment
+
+
+
+
+
+
+
+Advanced skills needed:
+ Telemetry rhythm interpretation
+
+
+
+
+
+
+
+Procedures performed on unit: 
+Post Cardiac catheterization/PCI; Post pacemaker care; Cardioversions; PICC line placement
+
+
+
+
+
+
+
+Certifications Required:
+ ACLS, BLS
+
+
+
+
+
+
+
+Dress Code: (Required uniform) 
+Ceil blue scrubsWhite or ceil blue scrub jacket optional 
+Unit Guidelines/Policies: Please attach unit specific policies and guidelines.
+
+
+Awards/Recognition: 
+Please include anything that you would like prospective candidates to be aware of, such as, links to videos that feature the department, outstanding department/team awards..
+ 
+HCA Unit of Distinction winner for multiple yearsQuality measures are highly maintainedHigh Employee Engagement scores
+Any additional information that would entice a worker to select your unit for their assignment: 
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc. 
+Many staff members are nationally certified, including managersSeveral highly tenured nursing staffSelf-scheduling within certain guidelinesiMobile technology
+ General Comments ;url=https://vendor.healthtrustws.com/positions/753985;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Rapides Regional Medical Center - Travel
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

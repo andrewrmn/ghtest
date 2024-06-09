@@ -1,0 +1,70 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1811',
+  'Cf-Ray' => '8319f28d94fe6a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Emergency Room RN 
+Level 2 Trauma Center
+
+Night Shift (7pm to 7am)
+every other weekend requirement
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 543187
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15840
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-16
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 06 2023 23:15:25
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48023 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne Des Moines Medical Center ;City=Des Moines ;State=IA ;Zip=50314 ;Start=1/16/2024;End=4/13/2024;Duration=88;Cert=RN Emergency Room ;Specialty=Mercy Main Emergency ;Unit=Iowa/Des Moines/Emergency Room RN/DAYS ;Shift=7a7p;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=117.00 ;ChargeRate=93.00 ;CallbackRate=117.00 ;HolidayRate=117.00 ;Orientation=0.00 ;Description=Emergency Room RN 
+Level 2 Trauma Center
+
+Day Shift (7am to 7pm)
+every other weekend requirement
+
+Our Main ER ihas 27 beds, 12 beds in the children's ER and a split flow area that can see up to 10+ patients at a time depending on acuity.  We are one of the busiest emergency rooms in Iowa with an average of seeing 120-140 patients per day.  Nurse to pt ratio is 3-5, give or take depending on acuity and holds. ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => MercyOne Des Moines Medical Center (Trinity) TRAVEL
+    [shiftDateEnd] => 2024-04-13
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

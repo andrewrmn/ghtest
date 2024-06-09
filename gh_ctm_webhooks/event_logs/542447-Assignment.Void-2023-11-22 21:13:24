@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2158',
+  'Cf-Ray' => '82a42d18218f23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => OR EXPERIENCE REQUIRED- Must have Ortho Trauma Experience and Neuro Trauma OR Experience (Level 1 or 2 experience)Weekend and Weekday Call 4 x 10severy 4-5th weekend on call and then 1 week night a week of on call   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 542447
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5758
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 22 2023 16:13:24
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=261130 ;Status=Open;Association=Regional West Medical Center ;Client=Regional West Medical Center ;City=Scottsbluff ;State=NE ;Zip=69361 ;Start=11/6/2023;End=2/5/2024;Duration=91;Cert=Nursing ;Specialty=Registered Nurse, Operating Room, Operating Room / Scrub, Operating Room / Circulation & Scrub, Operating Room / Circulate ;Unit=Registered Nurse, Operating Room, Operating Room / Scrub, Operating Room / Circulation & Scrub, Operating Room / Circulate ;Shift=Varied;# of Postions=3;Guaranteed Hours=40;Type=Travel;BillRate=$130.00;OTRate=140 ;OTRules=By The Week, after 40, ;CallbackRate=140 (All Inclusive Rate + $10) ;HolidayRate=140 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=OR EXPERIENCE REQUIRED- Must have Ortho Trauma Experience and Neuro Trauma OR Experience (Level 1 or 2 experience)Weekend and Weekday Call 4 x 10severy 4-5th weekend on call and then 1 week night a week of on call   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261130;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 130
+    [facilityName] => Regional West Medical Center Travel
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

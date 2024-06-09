@@ -1,0 +1,169 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '28',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4747',
+  'Cf-Ray' => '82b632ee80b7495d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN OR6:45A - 5:15P13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE VA COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information: OR
+
+Location: CJW Johnston-Willis
+
+Address: 1401 Johnston-Willis Drive, Richmond, VA 23235
+
+Floor: 1st
+
+Building: Main Hospital
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   16 Operating roomsNumber of Staff   we staff one team of RN, SA, surgical tech per OR room running on day shift and taper on evenings. Call on weekends and nightsType of staff:Day Shift   day shift (16 RN s, 16 SA s, and 16 surgical techs) evening shift (tapered to 4 teams from 3-5, 2 teams from 5-7 and 1 team from 7-11p. Call starts for additional 2 teams at 3pm.Night Shift - 
+call onlyPatient Ratios   1-1Type of equipment   OR equipment. Robotics, neurosurgery, general, plastics, urology, ortho etc.EMR - Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+Robotic experience Ortho experience
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+Neurosurgical experience
+List typical procedures performed on unit(s): 
+
+
+ All except for transplant and cardiac surgery
+Best personality Fit:
+
+Team player is always best
+REQUIRED CERTIFICATIONS:
+CNOR is a plus
+Floating Areas:
+none
+Dress Code: 
+Scrub Color/Attire -
+ navy
+
+
+
+Weekends and On call(if any)
+Call rotation on average 2 call shifts per week (includes weekday night and weekend primary and backup)
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 542543
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5508
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 24 2023 20:43:06
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=767635 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=CJW MEDICAL -JOHNSTON-WILLIS CAMPUS VA ;City=RICHMOND ;State=VA ;Zip=23235 ;Start=11/21/2023;End=2/20/2024;Duration=91;Cert=RN ;Specialty=OR ;Unit=CAPITAL DIVISION (20) ;Shift=6:45AM - 5:15PM;# of Postions=1;Type=Travel;BillRate=$98.00;OTRate=106 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:TRAVEL RN OR6:45AM - 5:15PM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE VA COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information: OR
+
+Location: CJW Johnston-Willis
+
+Address: 1401 Johnston-Willis Drive, Richmond, VA 23235
+
+Floor: 1st
+
+Building: Main Hospital
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   16 Operating roomsNumber of Staff   we staff one team of RN, SA, surgical tech per OR room running on day shift and taper on evenings. Call on weekends and nightsType of staff:Day Shift   day shift (16 RN s, 16 SA s, and 16 surgical techs) evening shift (tapered to 4 teams from 3-5, 2 teams from 5-7 and 1 team from 7-11p. Call starts for additional 2 teams at 3pm.Night Shift - 
+call onlyPatient Ratios   1-1Type of equipment   OR equipment. Robotics, neurosurgery, general, plastics, urology, ortho etc.EMR - Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+Robotic experience Ortho experience
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+Neurosurgical experience
+List typical procedures performed on unit(s): 
+
+
+ All except for transplant and cardiac surgery
+Best personality Fit:
+
+Team player is always best
+REQUIRED CERTIFICATIONS:
+CNOR is a plus
+Floating Areas:
+none
+Dress Code: 
+Scrub Color/Attire -
+ navy
+
+
+
+Weekends and On call(if any)
+Call rotation on average 2 call shifts per week (includes weekday night and weekend primary and backup)
+ No. of Positions: 1/2. ;url=https://vendor.healthtrustws.com/positions/767635;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 98
+    [facilityName] => CJW Johnston-Willis Hospital
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

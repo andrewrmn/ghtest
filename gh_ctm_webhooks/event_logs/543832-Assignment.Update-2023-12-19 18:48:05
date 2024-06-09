@@ -1,0 +1,520 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5677',
+  'Cf-Ray' => '8381d15052ec6a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN REHAB7:00AM-7:00PM
+13 WEEKS
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE VA LICENSE/COMPACT AT SUBMISSION
+BLS REQUIRED
+
+
+Unit Information:
+
+Acute Inpatient RehabLocation: CJW Johnston-Willis Hospital
+Address:1401 Johnston Willis Drive
+
+Floor: 5th
+
+Building: Main
+
+
+
+General InformationTell us about the unit(s):
+ 
+
+
+
+
+
+
+
+
+Number of Beds - 44
+
+ 
+
+
+
+
+
+
+
+
+Number of Staff  
+
+46
+
+ 
+
+
+
+
+
+
+
+
+Type of staff:
+
+o
+
+
+
+Day Shift   1 charge out of staffing, RN s and LPNs and tech and 1 secretary
+
+o
+
+
+
+Night Shift -
+
+1 charge with patients rn s LPNs and techs
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios   5-6:1 tech ratios 10-15:1
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment   Hoyer lifts, ivs, pegs, trachs, PD and wound care
+
+ 
+
+
+
+
+
+
+
+
+EMR - yes
+Typical hiring profileSkill Set Most recruited for:
+
+(Travel RNs, local CNAs and sitters)
+
+Must have:
+
+candidates without these skills will not be considered for the role.
+
+ 
+
+
+
+
+
+
+
+
+
+SNF only background
+
+
+
+
+Preferred or nice to have:
+
+candidates with these skills will be considered first.
+
+ 
+
+
+
+
+
+
+
+
+
+Med Surgical or Telemetry nurses
+
+
+
+
+List typical procedures performed on unit(s):
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Med pass and basic med surgical nursing
+
+
+
+Best personality Fit:
+ 
+
+
+
+
+
+
+
+
+
+Team player
+
+ 
+
+
+
+
+
+
+
+
+
+Positive
+
+Dress Code:
+
+ 
+
+
+
+
+
+
+
+
+Scrub Color -
+
+
+navy
+
+
+
+Awards/Recognition:
+
+
+ 
+
+
+
+
+
+
+
+
+Multiple daisy award winners for the hospital on Rehab
+
+ 
+
+
+
+
+
+
+
+
+Joint commission basic stroke certification
+ General Comments
+ No. of Positions: 2/2.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Rehab
+    [assignmentid] => 543832
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5508
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 19 2023 13:47:57
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=730733 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=CJW MEDICAL -JOHNSTON-WILLIS CAMPUS VA ;City=RICHMOND ;State=VA ;Zip=23235 ;Start=8/18/2023;End=11/17/2023;Duration=91;Cert=RN ;Specialty=Rehab ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM-7:00AM;# of Postions=2;Type=Travel;BillRate=$75.00;OTRate=88 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL RN REHAB7:00AM-7:00PM
+13 WEEKS
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE VA LICENSE/COMPACT AT SUBMISSION
+BLS REQUIRED
+
+
+Unit Information:
+
+Acute Inpatient RehabLocation: CJW Johnston-Willis Hospital
+Address:1401 Johnston Willis Drive
+
+Floor: 5th
+
+Building: Main
+
+
+
+General InformationTell us about the unit(s):
+ 
+
+
+
+
+
+
+
+
+Number of Beds - 44
+
+ 
+
+
+
+
+
+
+
+
+Number of Staff  
+
+46
+
+ 
+
+
+
+
+
+
+
+
+Type of staff:
+
+o
+
+
+
+Day Shift   1 charge out of staffing, RN s and LPNs and tech and 1 secretary
+
+o
+
+
+
+Night Shift -
+
+1 charge with patients rn s LPNs and techs
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios   5-6:1 tech ratios 10-15:1
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment   Hoyer lifts, ivs, pegs, trachs, PD and wound care
+
+ 
+
+
+
+
+
+
+
+
+EMR - yes
+Typical hiring profileSkill Set Most recruited for:
+
+(Travel RNs, local CNAs and sitters)
+
+Must have:
+
+candidates without these skills will not be considered for the role.
+
+ 
+
+
+
+
+
+
+
+
+
+SNF only background
+
+
+
+
+Preferred or nice to have:
+
+candidates with these skills will be considered first.
+
+ 
+
+
+
+
+
+
+
+
+
+Med Surgical or Telemetry nurses
+
+
+
+
+List typical procedures performed on unit(s):
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Med pass and basic med surgical nursing
+
+
+
+Best personality Fit:
+ 
+
+
+
+
+
+
+
+
+
+Team player
+
+ 
+
+
+
+
+
+
+
+
+
+Positive
+
+Dress Code:
+
+ 
+
+
+
+
+
+
+
+
+Scrub Color -
+
+
+navy
+
+
+
+Awards/Recognition:
+
+
+ 
+
+
+
+
+
+
+
+
+Multiple daisy award winners for the hospital on Rehab
+
+ 
+
+
+
+
+
+
+
+
+Joint commission basic stroke certification
+ General Comments
+ No. of Positions: 2/2.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/730733;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => CJW Johnston-Willis Hospital
+    [shiftDateEnd] => 2024-04-07
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

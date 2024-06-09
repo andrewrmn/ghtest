@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '21',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '886',
+  'Cf-Ray' => '82a3293c36564941-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 545628
+    [workerID] => 46953
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 36
+    [facilityID] => 16205
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => Ceaser
+    [shiftNum] => 5
+    [workerFirstName] => Ashley
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 22 2023 13:16:00
+    [daysPerWeek] => 3
+    [orderNote] => FTK:Vaya/SignCorrectionReq
+Chrg:P$2.50/B$5-OnCl:P$4/B$7
+Ornt:$22/NB:16hr
+BR:$70
+    [guaranteedMinimum] => 
+    [workerEmail] => ashley.ceaser@selu.edu
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Tulane Medical Center
+    [shiftDateEnd] => 2024-01-12
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

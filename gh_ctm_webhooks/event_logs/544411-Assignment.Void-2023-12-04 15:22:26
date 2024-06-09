@@ -1,0 +1,109 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5936',
+  'Cf-Ray' => '83050b7c11fb23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Shift: 7a-7p 3(12) hour shift this shift would take call 7p-11p or 4 (10) hour shifts 7a-5p and 2 shifts of call from 5-11p and every 4th weekend of call.
+Weekend requirements-as listed above
+#of ORs: 13
+Years of experience REQ: 2 years 
+First-timers accepted: yes
+Will clinician float within scope meet facility needs? no
+Locals accepted: What is the local radius rule? No, 60 miles
+Certifications required: BLS, NBSTSA, radiation badge
+*agency must provide radiation badge*
+RTO Restrictions:  All RTO must be included at time of submission. Approval will be based on facility needs
+Guaranteed Hours: Facility allowed to call off 1 shift per 2 weeks
+
+Hospital Highlights
+Total Staffed Beds: 396
+Charting: Epic
+Parking Cost: Free parking 
+
+
+ Modified Time:12/4/2023 5:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal Radius: 60 miles, locals not acceptedPerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 544411
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10386
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-02
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 04 2023 10:22:25
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2310763 ;Status=Open;Association=Qualivis MSP ;Client=MUSC Health - Florence ;City=Florence ;State=SC ;Zip=29505 ;Start=1/2/2024;End=4/2/2024;Duration=91;Cert=Surgical Services ;Specialty=Certified OR Tech / Surgical Tech (CST) ;Unit=FLO - OR (FMC), CC003609 ;Shift=Day 3x12-Hour (07:00 - 19:00);# of Postions=1;Type=Travel;BillRate=$55.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Shift: 7a-7p 3(12) hour shift this shift would take call 7p-11p or 4 (10) hour shifts 7a-5p and 2 shifts of call from 5-11p and every 4th weekend of call.
+Weekend requirements-as listed above
+#of ORs: 13
+Years of experience REQ: 2 years 
+First-timers accepted: yes
+Will clinician float within scope meet facility needs? no
+Locals accepted: What is the local radius rule? No, 60 miles
+Certifications required: BLS, NBSTSA, radiation badge
+*agency must provide radiation badge*
+RTO Restrictions:  All RTO must be included at time of submission. Approval will be based on facility needs
+Guaranteed Hours: Facility allowed to call off 1 shift per 2 weeks
+
+Hospital Highlights
+Total Staffed Beds: 396
+Charting: Epic
+Parking Cost: Free parking 
+
+
+ Modified Time:1/2/2024 12:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Med
+ Submittal Details: #Tier2 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal Radius: 60 miles, locals not acceptedPerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2310763/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 55
+    [facilityName] => MUSC Health - Florence
+    [shiftDateEnd] => 2024-04-02
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

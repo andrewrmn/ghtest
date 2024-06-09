@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3946',
+  'Cf-Ray' => '8272a3e724211464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => We are seeking experiencedCardiac TrainedSurgicalTechnologistSchedule Details:5 - 8 hour shifts between the hours of 645-715p. - Will have varied start and end times within this range.Call response time is 30 minutes dressed and ready.Call is every 3rd-4th night, 3rd-4th weekend.Requirements:BLS certification requiredGraduate of an CAAHEP-accredited Surgical Technology program requiredCertified Surgical Technologist through NBSTSA preferredWorks under the direction of a surgeon to facilitate the safe and effective conduct of invasive surgical procedures, ensuring that the operating room environment is safe, that equipment functions properly, and that the operative procedure is conducted under conditions that maximize patient safety. Possesses expertise in the theory and application of sterile and aseptic technique and combines the knowledge of human anatomy, surgical procedures, and implementation tools and technologies to facilitate a physician's performance of invasive therapeutic and diagnostic procedures. May include day, evening, night, weekend, holiday, and/or on-call hours. Report-back time for on-call per department guidelines. Performs other duties as assigned.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 544695
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11297
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:15
+    [whenmodified] => November, 16 2023 15:56:22
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261783 ;Status=Open;Association=Mercyhealth ;Client=Mercyhealth Hospital and Trauma Center - Janesville ;City=Janesville ;State=WI ;Zip=53548 ;Start=11/16/2023;End=2/15/2024;Duration=91;Cert=Nursing ;Specialty=Surgical Technologist ;Unit=Surgical Technologist ;Shift=
+5x8 hour shifts between the hours of 645-715p.;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$85.00;OTRate=95 ;OTRules=By The Week, after 40, ;CallbackRate=95 (All Inclusive Rate + $10) ;HolidayRate=95 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=We are seeking experiencedCardiac TrainedSurgicalTechnologistSchedule Details:5 - 8 hour shifts between the hours of 645-715p. - Will have varied start and end times within this range.Call response time is 30 minutes dressed and ready.Call is every 3rd-4th night, 3rd-4th weekend.Requirements:BLS certification requiredGraduate of an CAAHEP-accredited Surgical Technology program requiredCertified Surgical Technologist through NBSTSA preferredWorks under the direction of a surgeon to facilitate the safe and effective conduct of invasive surgical procedures, ensuring that the operating room environment is safe, that equipment functions properly, and that the operative procedure is conducted under conditions that maximize patient safety. Possesses expertise in the theory and application of sterile and aseptic technique and combines the knowledge of human anatomy, surgical procedures, and implementation tools and technologies to facilitate a physician's performance of invasive therapeutic and diagnostic procedures. May include day, evening, night, weekend, holiday, and/or on-call hours. Report-back time for on-call per department guidelines. Performs other duties as assigned.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261783;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Mercyhealth Hospital and Trauma Center-Janesville
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 06:45
+    [subjectID] => 
+)

@@ -1,0 +1,195 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '43',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4217',
+  'Cf-Ray' => '834fb4f886271840-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN MEDICAL SURGICAL
+7:00PM - 7:00AM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+
+BLS REQUIRED
+ General CommentsUnit Information: 4East Acute Surgical/Trauma Unit
+
+Location: Terre Haute Regional Hospital
+
+Address: 3901 S. 7Th Street Terre Haute, IN 47802
+
+Floor: 4th
+
+Building: Main
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   21 private, 29 semi-privateNumber of Staff   32Type of staff:Day Shift   1 charge, sectary, 1 PCT, 3 RNsNight Shift   1 charge, 1 PCT, 3 RNsPatient Ratios   1:4/5Type of equipment   
+Drains, Traction, Tele, Chest Tubes, External Fixators, Wound Vacs EMR   Meditech
+
+
+
+Hiring profile
+
+
+
+
+Must have:
+ 
+Med/Surg experience
+
+
+
+Preferred or nice to have:
+ 
+
+Post-Surgical experience
+
+
+
+List typical procedures performed on unit(s): 
+
+
+Very minimal bedside procedures-chest tube placement, I&amp;Ds
+Wound care with Vacs
+
+
+
+Best personality Fit:
+Outgoing, calm, and caring 
+
+REQUIRED CERTIFICATIONS:
+BLS
+Floating Area(s):
+5E-med/Surg
+Dress Code: 
+Scrub Color/Attire   
+navy scrubs 
+
+
+
+Weekends and On call:
+Rotation of up to 4 weekend shifts (Friday or Saturday) per schedule (4 week period) with 2 up to Sunday shifts
+ No. of Positions: 3/3.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545300
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7590
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 13 2023 11:50:34
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=755375 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=Terre Haute Regional Hospital IN ;City=Terre Haute ;State=IN ;Zip=47802 ;Start=11/9/2023;End=2/8/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM - 7:00AM;# of Postions=3;Type=Travel;BillRate=$78.00;OTRate=86 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL RN MEDICAL SURGICAL
+7:00PM - 7:00AM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+
+BLS REQUIRED
+ General CommentsUnit Information: 4East Acute Surgical/Trauma Unit
+
+Location: Terre Haute Regional Hospital
+
+Address: 3901 S. 7Th Street Terre Haute, IN 47802
+
+Floor: 4th
+
+Building: Main
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   21 private, 29 semi-privateNumber of Staff   32Type of staff:Day Shift   1 charge, sectary, 1 PCT, 3 RNsNight Shift   1 charge, 1 PCT, 3 RNsPatient Ratios   1:4/5Type of equipment   
+Drains, Traction, Tele, Chest Tubes, External Fixators, Wound Vacs EMR   Meditech
+
+
+
+Hiring profile
+
+
+
+
+Must have:
+ 
+Med/Surg experience
+
+
+
+Preferred or nice to have:
+ 
+
+Post-Surgical experience
+
+
+
+List typical procedures performed on unit(s): 
+
+
+Very minimal bedside procedures-chest tube placement, I&amp;Ds
+Wound care with Vacs
+
+
+
+Best personality Fit:
+Outgoing, calm, and caring 
+
+REQUIRED CERTIFICATIONS:
+BLS
+Floating Area(s):
+5E-med/Surg
+Dress Code: 
+Scrub Color/Attire   
+navy scrubs 
+
+
+
+Weekends and On call:
+Rotation of up to 4 weekend shifts (Friday or Saturday) per schedule (4 week period) with 2 up to Sunday shifts
+ No. of Positions: 3/3. ;url=https://vendor.healthtrustws.com/positions/755375;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 78
+    [facilityName] => Terre Haute Regional Hospital
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

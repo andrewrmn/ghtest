@@ -1,0 +1,144 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4726',
+  'Cf-Ray' => '828999c9c0d8183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Cedar Park Regional Medical Center
+
+Shift: Mon-Fri plus call
+Start: ASAPRate: $75
+
+The Radiology Technologist is a graduate of an accredited AMA school and registered with the American Registry of Radiologic Technology (ARRT).  The Radiology Technologist, maintains a state license as a general radiographer, and is responsible for providing timely diagnostic services to both inpatient and outpatients under the direction of a Radiologist and departmental protocols.  Responsibilities include but are not limited to the performance of: basic radiographic procedures, fluoroscopy, portable radiographic procedures, C-arm procedures, OR imaging services and routine procedures
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+Vacancy
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+No
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+mary_posern@cedarparkregional.com
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+3-11
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+Red Scrubs
+
+    Parking location:
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 496245
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 8782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-04-17
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 19 2023 10:48:41
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=707916 ;Status=Open;Association=Community Health Systems ;Client=Cedar Park Regional Medical Center ;City=Cedar Park ;State=TX ;Zip=78613 ;Start=4/17/2023;End=7/17/2023;Duration=91;Cert=Rad Tech ;Specialty=Radiology ;Unit= ;Shift=Mon-Fri plus call;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=105 ;CallbackRate=105 ;HolidayRate=112.5 ;Orientation=0 ;Description=Description:Cedar Park Regional Medical Center
+
+Shift: Mon-Fri plus call
+Start: ASAPRate: $75
+
+The Radiology Technologist is a graduate of an accredited AMA school and registered with the American Registry of Radiologic Technology (ARRT).  The Radiology Technologist, maintains a state license as a general radiographer, and is responsible for providing timely diagnostic services to both inpatient and outpatients under the direction of a Radiologist and departmental protocols.  Responsibilities include but are not limited to the performance of: basic radiographic procedures, fluoroscopy, portable radiographic procedures, C-arm procedures, OR imaging services and routine procedures
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+Vacancy
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+No
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+mary_posern@cedarparkregional.com
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+3-11
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+Red Scrubs
+
+    Parking location: ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Cedar Park Regional Medical Center
+    [shiftDateEnd] => 2023-07-17
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

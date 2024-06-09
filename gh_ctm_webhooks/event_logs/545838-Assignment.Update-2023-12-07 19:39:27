@@ -1,0 +1,156 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '43',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3723',
+  'Cf-Ray' => '831f3c14855e1840-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN ICU7:00PM - 7:00AM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+ ICU
+
+Location: LEWISGALE HOSPITAL MONTGOMERY
+
+Address: 3700 South Main Street, Blacksburg, VA 24060
+
+Floor: 2ND 
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds -10Number of Staff   21Type of staff: All RN staffPatient Ratios   2:1Type of equipment   Baxter IV pumps, SCD pumps, Artic sun, balloon pump, Train of Four, BIS monitor, Vigileo EMR   Meditech
+
+
+
+Typical hiring profile
+
+Skill Set Most recruited for:
+ (Travel RNs)
+
+Must have:
+ candidates without these skills will not be considered for the role.
+ICU experienceACLS/BLS
+
+
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+Charge experience
+
+
+
+List typical procedures performed on unit(s): 
+
+
+Central line placement
+Intubation
+Bronch/Scope
+Dress Code: 
+Scrub Color -
+ Professional Scrubs, no set color
+Unit Guidelines/Policies: 
+Will discuss via phone interview
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 545838
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5926
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-25
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 07 2023 14:39:23
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=772739 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=LEWISGALE HOSPITAL-MONTGOMERY ;City=BLACKSBURG ;State=VA ;Zip=24060 ;Start=11/28/2023;End=2/27/2024;Duration=91;Cert=RN ;Specialty=ICU ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$86.00;minBillRate=$86.00;OTRate=94 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:TRAVEL RN ICU7:00PM - 7:00AM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+ ICU
+
+Location: LEWISGALE HOSPITAL MONTGOMERY
+
+Address: 3700 South Main Street, Blacksburg, VA 24060
+
+Floor: 2ND 
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds -10Number of Staff   21Type of staff: All RN staffPatient Ratios   2:1Type of equipment   Baxter IV pumps, SCD pumps, Artic sun, balloon pump, Train of Four, BIS monitor, Vigileo EMR   Meditech
+
+
+
+Typical hiring profile
+
+Skill Set Most recruited for:
+ (Travel RNs)
+
+Must have:
+ candidates without these skills will not be considered for the role.
+ICU experienceACLS/BLS
+
+
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+Charge experience
+
+
+
+List typical procedures performed on unit(s): 
+
+
+Central line placement
+Intubation
+Bronch/Scope
+Dress Code: 
+Scrub Color -
+ Professional Scrubs, no set color
+Unit Guidelines/Policies: 
+Will discuss via phone interview
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/772739;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 86
+    [facilityName] => LewisGale Hospital-Montgomery
+    [shiftDateEnd] => 2024-03-25
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

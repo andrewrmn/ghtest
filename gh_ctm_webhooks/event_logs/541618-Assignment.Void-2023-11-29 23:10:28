@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '26',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2299',
+  'Cf-Ray' => '82de862f73d34955-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Recent previous travel experience preferred, please send 2 recent references * MUST be able to perform total joint procedures*_**MUST HAVE CST CERTIFICATION**_Traveler must live 150 miles or more  from our facilities in order to be considered   Additional Information:Traveler must live 150 miles or more  from our facilities in order to be considered   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 541618
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 2475
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 29 2023 18:10:27
+    [daysPerWeek] => 5
+    [orderNote] => Source=Medefis5;SourceID=260781 ;Status=Open;Association=Hendrick Health System ;Client=Hendrick Medical Center South ;City=Abilene ;State=TX ;Zip=79606 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Nursing ;Specialty=Surgical Technologist ;Unit=Surgical Technologist ;Shift=0630-1500, with late shift required x 4 a month till 1700 and on call required. ;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$85.00;OTRate=95 ;OTRules=By The Week, after 40, ;CallbackRate=95 (All Inclusive Rate + $10) ;HolidayRate=95 (All Inclusive Rate + $10) ;OnCallRateDescription=$5 per hour pager ;Description=Recent previous travel experience preferred, please send 2 recent references * MUST be able to perform total joint procedures*_**MUST HAVE CST CERTIFICATION**_Traveler must live 150 miles or more  from our facilities in order to be considered   Additional Information:Traveler must live 150 miles or more  from our facilities in order to be considered   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260781;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Hendrick Medical Center Travel
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 06:30
+    [subjectID] => 
+)

@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3346',
+  'Cf-Ray' => '8289996531d923c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position DescriptionEMERGENCY ROOM OBSERVATION (EOU) RN (NIGHTSHIFT)8 WEEK CONTRACT - IMMEDIATE AVAILABILITY REQUIRED. LOCAL CANDIDATES PREFERRED.RATE$58.25 Local (< 50miles from facility)$61.50 Travel (>50 miles from facility)** Minimum 3 years ofcurrent acute care hospital Med/Surg and Telemetry experience REQUIRED.Emergency Room and ICU/PCU experience a plus **- Night Shift 7p     7a- Ability to float toMed/Surg, Emergency Department or ICU/PCU preferred- Must have Texas RNlicense (or compact license) with no restrictions- American HeartAssociation (AHA) approved Basic Life Support (BLS) required. Advanced CardiacLife Support (ACLS) preferred- Scrubs: Navy Blue**All submissions MUST include the bill rate, skills checklistand a minimum of 2 references to be considered **parseGeneralComments Comments.bd_title                                  {                                         font-weight: bold;                                  } Contact: Christi Hahn Resource Manager: Suhani Desai OT Rate:?/$86.10 Holiday Rate: ?/$92.25https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=264311&null 
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 48867
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-02-25
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 19 2023 10:48:41
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;ID=0;SourceID=264311;Status=Open;Client=Cedar Park Regional Medical Center;City=Cedar Park;State=TX;Zip=78613;Start=2/4/2019;End=4/1/2019;Duration=56;Cert=Registered Nurse (RN);Specialty=Telemetry (Tele);Unit=1018: OBSERVATION;Shift=7:00 PM - 7:00 AM;# of Postions=1;Type=Travel;BillRate=$61.50;OnCallRate=$6.15;Description=Position DescriptionEMERGENCY ROOM OBSERVATION (EOU) RN (NIGHTSHIFT)8 WEEK CONTRACT - IMMEDIATE AVAILABILITY REQUIRED. LOCAL CANDIDATES PREFERRED.RATE$58.25 Local (< 50miles from facility)$61.50 Travel (>50 miles from facility)** Minimum 3 years ofcurrent acute care hospital Med/Surg and Telemetry experience REQUIRED.Emergency Room and ICU/PCU experience a plus **- Night Shift 7p     7a- Ability to float toMed/Surg, Emergency Department or ICU/PCU preferred- Must have Texas RNlicense (or compact license) with no restrictions- American HeartAssociation (AHA) approved Basic Life Support (BLS) required. Advanced CardiacLife Support (ACLS) preferred- Scrubs: Navy Blue**All submissions MUST include the bill rate, skills checklistand a minimum of 2 references to be considered **parseGeneralComments Comments.bd_title                                  {                                         font-weight: bold;                                  } Contact: Christi Hahn Resource Manager: Suhani Desai OT Rate:?/$86.10 Holiday Rate: ?/$92.25https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=264311&null;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 61.5
+    [facilityName] => Cedar Park Regional Medical Center
+    [shiftDateEnd] => 2019-04-22
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,69 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1536',
+  'Cf-Ray' => '82e6aee8700d1463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 weeks
+1.	Full time---Weekday 2nd Shift 1600   0000
+
+**On overnight call once a week
+BLSIA MRT, ARDMS
+    [sitename] => giftednurses
+    [spec] => Ultrasound Tech
+    [assignmentid] => 543661
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 4
+    [facilityID] => 13399
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => Ultrasound Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 20:00
+    [whenmodified] => November, 30 2023 17:56:20
+    [daysPerWeek] => 1
+    [orderNote] => Source=EinsteinTrinity;SourceID=48339 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne Waterloo Medical Center ;City=Waterloo ;State=IA ;Zip=50702 ;Start=12/3/2023;End=3/2/2024;Duration=90;Cert=Ultrasound Tech ;Specialty=Ultrasound ;Unit=IA\Waterloo\Ultrasound Tech ;Shift=16:00:00 - 00:30:00;# of Postions=1;Type=Travel;BillRate=$77.00;OTRate=100.10 ;ChargeRate=80.00 ;CallbackRate=100.10 ;HolidayRate=100.10 ;Orientation=0.00 ;Description=13 weeks
+1.	Full time---Weekday 2nd Shift 1600   0000
+
+**On overnight call once a week
+BLSIA MRT, ARDMS ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 77
+    [facilityName] => MercyOne Waterloo Medical Center - Travel
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 16:00
+    [subjectID] => 
+)

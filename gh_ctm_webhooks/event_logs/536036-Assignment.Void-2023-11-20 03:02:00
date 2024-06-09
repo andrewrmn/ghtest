@@ -1,0 +1,196 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4229',
+  'Cf-Ray' => '828d7399602d183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Data Collection:
+
+Unit Information:
+ CT Dept (Imaging)
+
+Location: Research Medical Center
+
+Address:
+ 2316 E Meyer Blvd
+ Kansas City, MO
+ 64132
+
+Floor: A Level   Radiology (CT)
+
+Building:
+
+
+Cost Center:726
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   N/ANumber of Staff   
+14Type of staff:Day Shift   (4 techs on day shift,. 3 techs on 2nd shift)Night Shift   (2 techs on night shift)Patient Ratios   N/AType of equipment   
+GE: REVO(256) and VCT(64)EMR   
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+Must be CT CertifiedMust have stroke and trauma experience
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+Stroke and trauma experience
+Knows GE scanners 
+List typical procedures performed on unit(s): 
+
+
+Trauma, stroke (perfusions), angio studies
+Post processing   Vital Images 
+Best personality Fit:
+
+Night owl ?
+REQUIRED CERTIFICATIONS:
+CT Certification
+Floating Area(s):
+
+
+Dress Code: 
+Scrub Color/Attire -
+ Grey scrub top / grey or black scrub pants
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+
+
+
+
+
+Weekends and On call(if any)
+ General Comments
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 536036
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5910
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 19 2023 22:01:58
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=758447 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=RESEARCH MEDICAL CENTER MO ;City=Kansas City ;State=MO ;Zip=64132 ;Start=11/10/2023;End=2/9/2024;Duration=91;Cert=CT Tech ;Specialty=Radiology ;Unit=MIDAMERICA DIVISION (48) ;Shift=7:00PM-7:00AM;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=83 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:Data Collection:
+
+Unit Information:
+ CT Dept (Imaging)
+
+Location: Research Medical Center
+
+Address:
+ 2316 E Meyer Blvd
+ Kansas City, MO
+ 64132
+
+Floor: A Level   Radiology (CT)
+
+Building:
+
+
+Cost Center:726
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   N/ANumber of Staff   
+14Type of staff:Day Shift   (4 techs on day shift,. 3 techs on 2nd shift)Night Shift   (2 techs on night shift)Patient Ratios   N/AType of equipment   
+GE: REVO(256) and VCT(64)EMR   
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+Must be CT CertifiedMust have stroke and trauma experience
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+Stroke and trauma experience
+Knows GE scanners 
+List typical procedures performed on unit(s): 
+
+
+Trauma, stroke (perfusions), angio studies
+Post processing   Vital Images 
+Best personality Fit:
+
+Night owl ?
+REQUIRED CERTIFICATIONS:
+CT Certification
+Floating Area(s):
+
+
+Dress Code: 
+Scrub Color/Attire -
+ Grey scrub top / grey or black scrub pants
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+
+
+
+
+
+Weekends and On call(if any)
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/758447;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Research Medical Center- Travel
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

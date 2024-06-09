@@ -1,0 +1,100 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3381',
+  'Cf-Ray' => '83586624333c77ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 544524
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 16145
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 14 2023 13:09:37
+    [daysPerWeek] => 3
+    [orderNote] => Req # 27496056
+General Description:
+Under general supervision, provides nursing care in a hospital to a variety of patients with health problems ranging from simple to complex.
+
+Essential Responsibilities:
+Responsibilities listed in this section are core to the position. Inability to perform these responsibilities with or without an accommodation may result in disqualification from the position.
+Assumes responsibility for an assigned group of patients.
+Documents patient responses to nursing interventions and prescribed medical treatments; notes all changes in physician order on assigned patients.
+Assists physician in the examination of patients and in performing minor diagnostic procedures and treatment.
+Obtains and monitors physiological data of patients, observes the physiological manifestations of patients and intervenes when necessary.
+Administers medication as prescribed. Initiates, regulates and monitors intravenous infusions and blood products. Delivers patient care competently.
+Interacts with family and patient in sharing care plan while in the hospital and at time of discharge.
+Informs patient and family of hospital procedures.
+Makes referral regarding patient care needs to appropriate personnel.
+Delegates tasks to support staff.
+
+General Responsibilities:
+Performs other duties as assigned.
+Skills:	Experience: N/A
+Knowledge, Skills and Abilities:
+Knowledge of professional nursing theory, practices, techniques and procedures.
+Ability to organize, plan, coordinate and evaluate nursing services and apply nursing techniques.
+Ability to maintain good working relationships with other employees.
+Good verbal and written communication skills.
+Ability to respond effectively to cultural and language needs of patients and visitors.
+Some computer skills.
+Education:	Education:
+Graduate from an accredited school of nursing required.
+Bachelor of Science (or higher) in Nursing Board Approved Program preferred.
+
+Schedule Notes:	every other weekend Holidays shared per unit Block Scheduling TBD 48 hr week can be accommodated
+
+License(s)/Certification(s)/Registration(s) Required:
+Current RN License issued by the Oklahoma State Board of Nursing, or a current multistate compact RN License (eNLC).
+Current Basic Life Support issued by the American Heart Association required upon hire.
+ACLS (American Heart Association) required within 3 months of hire
+Certifications & Licenses:	
+ACLS
+License(s)/Certification(s)/Registration(s) Required
+RN
+RN License
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => OU Health University of Oklahoma Medical Center TRV (RS)
+    [shiftDateEnd] => 2024-03-03
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

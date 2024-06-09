@@ -1,0 +1,76 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1644',
+  'Cf-Ray' => '838052dc343a23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 weeks
+40 hrs/wk - 10 hr shifts
+Days with rotating start times
+EOW
+Holiday Rotation- at least one holiday required
+Required:
+Certified 
+BLS
+Previous travel exp
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 537906
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 32
+    [facilityID] => 1477
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 19 2023 09:26:58
+    [daysPerWeek] => 4
+    [orderNote] => Source=EinsteinTrinity;SourceID=47758 ;Status=In-Progress (O);Association=Trinity Health ;Client=CA - Saint Agnes Medical Center ;City=Fresno ;State=CA ;Zip=93720 ;Start=12/24/2023;End=3/23/2024;Duration=90;Cert=Surgical Tech ;Specialty=Surgery ;Unit=Surgical Technologist-Surgical Tech-Surgery ;Shift=06:45:00 - 17:15:00;# of Postions=1;Type=Travel;BillRate=$62.00;OTRate=80.60 ;ChargeRate=65.00 ;CallbackRate=80.60 ;HolidayRate=80.60 ;Orientation=0.00 ;Description=13 weeks
+40 hrs/wk - 10 hr shifts
+Days with rotating start times
+EOW
+Holiday Rotation- at least one holiday required
+Required:
+Certified 
+BLS
+Previous travel exp ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 8
+    [offContractRate] => 62
+    [facilityName] => Saint Agnes Medical Center TRAVEL
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

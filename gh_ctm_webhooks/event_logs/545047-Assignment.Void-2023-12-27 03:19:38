@@ -1,0 +1,69 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1885',
+  'Cf-Ray' => '83be6c4c776a1832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 11/20/2023 0628 PSTRebecca Ramirez
+                            
+                            
+                                REQUET BUNMI ADEOSUM WEST FIELD AGENCY; RN NEEDED WITH REHAB EXPERIENCE NEEDED; AND TEAM PLAYER
+ RatePlan:
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545047
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9963
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-14
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 26 2023 22:19:37
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;SourceID=10646375 ;Status=Open;Association=Encompass Health Corporation ;Client=SW- CHI St. Joseph Health Rehabilitation Hospital ;City=Bryan ;State=TX ;Zip=77802 ;Start=12/3/2023;End=1/14/2024;Duration=43;Cert=RN ;Specialty=Med/Surg ;Unit=Nursing 101 - 03019900 ;Shift=PM 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$64.00;minBillRate=$64.00;OTRate=Multiplier 1.500 ;OTRules=Multiplier 1.500 ;HolidayRate=Multiplier 1.500 ;Description=11/20/2023 0628 PSTRebecca Ramirez
+                            
+                            
+                                REQUET BUNMI ADEOSUM WEST FIELD AGENCY; RN NEEDED WITH REHAB EXPERIENCE NEEDED; AND TEAM PLAYER
+ RatePlan: ;url=https://secure.shiftwise.net/esp/order.aspx?order_id=EB12917291802F93CB059007E86C2646;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 64
+    [facilityName] => CHI Saint Joseph Health Rehabilitation Hospital SHIFTWISE
+    [shiftDateEnd] => 2024-02-25
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

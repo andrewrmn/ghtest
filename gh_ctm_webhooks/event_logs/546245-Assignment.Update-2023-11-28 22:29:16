@@ -1,0 +1,192 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3404',
+  'Cf-Ray' => '82d60c6c75e51465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL CST OR6:45AM - 5:30PM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE A VA STATE LICENSE AT SUBMISSION
+BLS/CERTIFICATION REQUIRED
+ General CommentsUnit Information: OR
+
+Location: 
+Reston Surgery Center
+
+Address: 1860 Town Center Dr. 
+
+Floor: Suite G-100
+
+Building: Parkway Medical Tower
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   
+6 OR s, 2 Endo suitesEMR   
+No; paper charting
+
+
+
+Hiring Profile
+
+
+
+
+Must have:
+ 
+
+3 years of experience
+
+
+
+Preferred or nice to have:
+ 
+
+Cataract cases
+
+
+
+List typical procedures performed on unit(s): 
+
+Cataract, orthopedics, 
+ 
+
+
+
+Best personality Fit:
+Team player
+REQUIRED CERTIFICATIONS:
+Certification in Surgical TechnologyBLS
+Floating Area(s):
+N/A
+Dress Code: 
+Scrub Color/Attire   
+scrubs provided
+
+
+
+Weekends and On call:
+No weekends; no call.
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 546245
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1394
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:15
+    [whenmodified] => November, 28 2023 17:29:13
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=769132 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=RESTON HOSPITAL CENTER VA ;City=Reston ;State=VA ;Zip=20190 ;Start=11/19/2023;End=2/18/2024;Duration=91;Cert=CST/ORT ;Specialty=OR ;Unit=CAPITAL DIVISION (20) ;Shift=6:45AM - 5:30PM;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=83 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL CST OR6:45AM - 5:30PM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE A VA STATE LICENSE AT SUBMISSION
+BLS/CERTIFICATION REQUIRED
+ General CommentsUnit Information: OR
+
+Location: 
+Reston Surgery Center
+
+Address: 1860 Town Center Dr. 
+
+Floor: Suite G-100
+
+Building: Parkway Medical Tower
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   
+6 OR s, 2 Endo suitesEMR   
+No; paper charting
+
+
+
+Hiring Profile
+
+
+
+
+Must have:
+ 
+
+3 years of experience
+
+
+
+Preferred or nice to have:
+ 
+
+Cataract cases
+
+
+
+List typical procedures performed on unit(s): 
+
+Cataract, orthopedics, 
+ 
+
+
+
+Best personality Fit:
+Team player
+REQUIRED CERTIFICATIONS:
+Certification in Surgical TechnologyBLS
+Floating Area(s):
+N/A
+Dress Code: 
+Scrub Color/Attire   
+scrubs provided
+
+
+
+Weekends and On call:
+No weekends; no call.
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/769132;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Reston Hospital Center Parallon- VA
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 06:45
+    [subjectID] => 
+)

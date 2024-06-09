@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '918',
+  'Cf-Ray' => '8414cf3497d323b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Last shift worked was 12-06
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 524728
+    [workerID] => 24728
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13310
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-09-10
+    [workerLastName] => Loe
+    [shiftNum] => 5
+    [workerFirstName] => Christopher
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 06 2024 09:56:43
+    [daysPerWeek] => 3
+    [orderNote] => BR:$90lRS:133144lFTK:GiftTC(unsigned)
+OnCl:P$3.50/B$7
+Orient:$20lNonBill:16hrs
+    [guaranteedMinimum] => 
+    [workerEmail] => bignursec@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Johnson City Medical Center TRAVEL
+    [shiftDateEnd] => 2023-12-09
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

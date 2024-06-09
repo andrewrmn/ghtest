@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '658',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5075',
+  'Cf-Ray' => '830d9993f76810b7-ORD',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Acute Care Oncology RNCare provided on unit: Cares for acute leukemia/lymphoma populations, solid tumor cancers and patients with symptom management related to their oncology diagnosis. Multiple blood products given, numerous central lines, chemotherapy infusions. Some palliative care, bone marrow transplant, and medicine overflow patients are also admitted to the unit.Minimum 2 yrs experience required; General medicine with some progressive care experience; Chemotherapy experience preferred but not required. ONS chemotherapy/biotherapy provider card would be GREAT but not required; competency with a high acuity population28 general care and 6 progressive/stepdown beds on unit3 x 12 hr shifts  Weekend requirement: every other weekend or 6 weekend shifts (sat, sun) in a 6-week schedule  Holiday requirement: Work 1 holiday if it falls within the contract  On-call: None  BLS required. Prefer oncology experience; prefer ONS chemotherapy certificationUnit is adults only no pedsIf census down, will float to sister units first (bone marrow transplant and palliative care) before floating to like competency units in the health systemWill consider med/surg if applicant has good experience  Basic Knowledge Assessment Test (BKAT) is required  Dress code: Ceil blue and white scrubs; closed toed shoes;      natural nails; hair pulled back while providing direct care.  Lawson code: 1302/?CC100165?  RN to Pt Ratio: 1:3 or 4 on day shift, 1:4 on night shift  Unit is located in the Critical Care Hospital,      2ndfloor   Additional Information:Orientation: The first 16 hours of orientation are unpaid. Call Off Policy: 5 shifts (or the equivalent hours) per 13 week assignment.  Parking: Travelers may need to  pay for parking at VCU depending on how close they want to be to the hospital.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 538741
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3760
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => Oncology experience
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 05 2023 11:17:32
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=260529 ;Status=Open;Association=VCU Health ;Client=VCU Medical Center ;City=Richmond ;State=VA ;Zip=23298 ;Start=11/13/2023;End=2/12/2024;Duration=91;Cert=Nursing ;Specialty=PCU, Oncology Nurse, Step Down ;Unit=PCU, Oncology Nurse, Step Down ;Shift=Days;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$100.00;OTRate=110 ;OTRules=By The Week, after 40, ;CallbackRate=100 (All Inclusive Rate) ;HolidayRate=100 (All Inclusive Rate) ;OnCallRateDescription=$10 per hour pager ;Description=Acute Care Oncology RNCare provided on unit: Cares for acute leukemia/lymphoma populations, solid tumor cancers and patients with symptom management related to their oncology diagnosis. Multiple blood products given, numerous central lines, chemotherapy infusions. Some palliative care, bone marrow transplant, and medicine overflow patients are also admitted to the unit.Minimum 2 yrs experience required; General medicine with some progressive care experience; Chemotherapy experience preferred but not required. ONS chemotherapy/biotherapy provider card would be GREAT but not required; competency with a high acuity population28 general care and 6 progressive/stepdown beds on unit3 x 12 hr shifts  Weekend requirement: every other weekend or 6 weekend shifts (sat, sun) in a 6-week schedule  Holiday requirement: Work 1 holiday if it falls within the contract  On-call: None  BLS required. Prefer oncology experience; prefer ONS chemotherapy certificationUnit is adults only no pedsIf census down, will float to sister units first (bone marrow transplant and palliative care) before floating to like competency units in the health systemWill consider med/surg if applicant has good experience  Basic Knowledge Assessment Test (BKAT) is required  Dress code: Ceil blue and white scrubs; closed toed shoes;      natural nails; hair pulled back while providing direct care.  Lawson code: 1302/?CC100165?  RN to Pt Ratio: 1:3 or 4 on day shift, 1:4 on night shift  Unit is located in the Critical Care Hospital,      2ndfloor   Additional Information:Orientation: The first 16 hours of orientation are unpaid. Call Off Policy: 5 shifts (or the equivalent hours) per 13 week assignment.  Parking: Travelers may need to  pay for parking at VCU depending on how close they want to be to the hospital.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260529;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => VCU Medical Center - TRAVEL
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

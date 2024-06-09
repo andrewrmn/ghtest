@@ -1,0 +1,107 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2723',
+  'Cf-Ray' => '827a445bb2ec23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => RN Labor and Delivery
+CHRISTUS Santa Rosa Hospital Westover Hills
+112102 State Hwy 151, San Antonio TX 78251
+
+CONTRACT: 13-Weeks
+BILL RATE: $85, orientation billable at 70% of the bill rate up to the first 36 hours
+SHIFT: 12 HR Nights
+WEEKENDS: EOW, EOH
+ON CALL: None
+FLOATING: Per Ministry Policy
+GUARANTEE: 36 hours
+EMR: Meditech
+SCRUB COLOR: Navy Blue
+
+REQUIRED CREDENTIALS: *Must be provided upon submission*
+TX State or compact License
+BLS, NRP, ACLS, Intermediate FHM AWHONN
+REQUIRED EXPERIENCE: 2 years
+
+SUBMISSION REQUIREMENTS (Must be combined into 1 PDF file)
+Filled out coversheet (blank coversheet attached)
+Resume/work history
+Skills checklist
+Certification verification within last 30 days
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 542600
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 17 2023 14:09:15
+    [daysPerWeek] => 3
+    [orderNote] => Source=StafferLink;SourceID=7924193 ;Status=O;Association=CHRISTUS Santa Rosa Health Care (STX) ;Client=CHRISTUS Santa Rosa Health Care (STX) ;City=San Antonio ;State=TX ;Zip=78251 ;Start=12/4/2023;End=3/2/2024;Duration=90;Cert=RN Labor & Delivery ;Specialty=Labor and Delivery 1410 / 116 ;Unit=Labor and Delivery 1410 / 116 ;Shift=19:00:00 - 07:30:00;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$85.00;Description=RN Labor and Delivery
+CHRISTUS Santa Rosa Hospital Westover Hills
+112102 State Hwy 151, San Antonio TX 78251
+
+CONTRACT: 13-Weeks
+BILL RATE: $85, orientation billable at 70% of the bill rate up to the first 36 hours
+SHIFT: 12 HR Nights
+WEEKENDS: EOW, EOH
+ON CALL: None
+FLOATING: Per Ministry Policy
+GUARANTEE: 36 hours
+EMR: Meditech
+SCRUB COLOR: Navy Blue
+
+REQUIRED CREDENTIALS: *Must be provided upon submission*
+TX State or compact License
+BLS, NRP, ACLS, Intermediate FHM AWHONN
+REQUIRED EXPERIENCE: 2 years
+
+SUBMISSION REQUIREMENTS (Must be combined into 1 PDF file)
+Filled out coversheet (blank coversheet attached)
+Resume/work history
+Skills checklist
+Certification verification within last 30 days ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => CHRISTUS Santa Rosa Hospital - Medical Center
+    [shiftDateEnd] => 2024-03-02
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

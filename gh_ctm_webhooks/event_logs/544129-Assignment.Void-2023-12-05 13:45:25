@@ -1,0 +1,473 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '9551',
+  'Cf-Ray' => '830cbabd41d36a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Traveler shall be scheduled in accordance with facility policy and is expected to work every other weekend and Holidays in rotation with Hospital employees
+ 
+ 
+ 
+
+
+1+
+ experience acceptable
+ 
+
+        Hospital:
+ Summerville   Medical Center             Location: South Atlantic / Charleston area             
+Address:
+ 295 Midland Parkway, Summerville SC 29485
+         
+Unit: MRI
+             
+Building: Main   Hospital
+         
+
+
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds :
+ 124
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios : N/A
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) :
+ 3   FT tech dept, 2 techs staffed daily M-F
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment :
+ GE 450W
+   
+ 
+
+
+
+
+
+
+
+   Documentation system:
+ Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements:
+ Rotating call
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: We do assist sister   facility in emergencies
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements:
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:
+ ARRT (MR), BLS
+             Hiring profile             Years of Experience Required: 1   
+   Requested Skill Set:
+ Must be   comfortable scanning all age groups, anesthesia patients.   
+   
+Must have: 
+   
+   
+
+
+   Advanced skills needed:
+    
+
+
+   
+   
+Procedures performed on unit: 
+Standard   MRI department.
+ We do not perform   Cardiac MRI
+   
+
+
+   
+
+
+   
+Certifications Required:
+ ARRT (MR), BLS
+   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   
+Gray scrubs
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+ General CommentsSummerville Medical Center is a reputable HCA-affiliated facility located in Summerville, South Carolina. Summerville Medical Center is a 124-bed, acute care hospital that contains a 24-hour emergency room and provides comprehensive medical services. The outstanding facility is widely known for it's cardiac services, pediatrics, "home-like" birthing suites and women's services. In addition, the facility offers incredible surgical services, such as orthopedic, robotic, reflux, and weight-loss surgeries. Likewise, the facility has gained multiple accreditations that assist in enhancing the facility's credibility in delivering quality healthcare to the patients that the facility serves.
+
+Summerville Medical Center is located amidst the beautiful Lowcountry in South Carolina, just a short drive from Charleston
+and
+Old Fort Dorchester State Historical Park. Summerville, known as "The Flower Town in the Pines", contains
+gorgeous
+spring blossoms, incredible gardens, and an array of parks. The town is recognized for
+its
+historic past and continues to provide tourists with the opportunity to enjoy incredible
+food
+while
+experiencing
+true Southern charm. If you are looking for a friendly southern town that is rich in
+southern hospitality or a town that contains many
+outdoor
+activities, look no further than Summerville, South Carolina!
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => MRI
+    [assignmentid] => 544129
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6146
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => MRI Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 05 2023 08:45:24
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=773075 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=SUMMERVILLE MEDICAL CENTER SC ;City=Summerville ;State=SC ;Zip=29485 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=MRI Tech ;Specialty=Radiology ;Unit=SOUTH ATLANTIC DIVISION (23) ;Shift=7:00AM - 7:00PM ;# of Postions=1;Type=Travel;BillRate=$75.00;minBillRate=$75.00;OTRate=83 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Traveler shall be scheduled in accordance with facility policy and is expected to work every other weekend and Holidays in rotation with Hospital employees
+ 
+ 
+ 
+
+
+1+
+ experience acceptable
+ 
+
+        Hospital:
+ Summerville   Medical Center             Location: South Atlantic / Charleston area             
+Address:
+ 295 Midland Parkway, Summerville SC 29485
+         
+Unit: MRI
+             
+Building: Main   Hospital
+         
+
+
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds :
+ 124
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios : N/A
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) :
+ 3   FT tech dept, 2 techs staffed daily M-F
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment :
+ GE 450W
+   
+ 
+
+
+
+
+
+
+
+   Documentation system:
+ Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements:
+ Rotating call
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: We do assist sister   facility in emergencies
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements:
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:
+ ARRT (MR), BLS
+             Hiring profile             Years of Experience Required: 1   
+   Requested Skill Set:
+ Must be   comfortable scanning all age groups, anesthesia patients.   
+   
+Must have: 
+   
+   
+
+
+   Advanced skills needed:
+    
+
+
+   
+   
+Procedures performed on unit: 
+Standard   MRI department.
+ We do not perform   Cardiac MRI
+   
+
+
+   
+
+
+   
+Certifications Required:
+ ARRT (MR), BLS
+   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   
+Gray scrubs
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+ General CommentsSummerville Medical Center is a reputable HCA-affiliated facility located in Summerville, South Carolina. Summerville Medical Center is a 124-bed, acute care hospital that contains a 24-hour emergency room and provides comprehensive medical services. The outstanding facility is widely known for it's cardiac services, pediatrics, "home-like" birthing suites and women's services. In addition, the facility offers incredible surgical services, such as orthopedic, robotic, reflux, and weight-loss surgeries. Likewise, the facility has gained multiple accreditations that assist in enhancing the facility's credibility in delivering quality healthcare to the patients that the facility serves.
+
+Summerville Medical Center is located amidst the beautiful Lowcountry in South Carolina, just a short drive from Charleston
+and
+Old Fort Dorchester State Historical Park. Summerville, known as "The Flower Town in the Pines", contains
+gorgeous
+spring blossoms, incredible gardens, and an array of parks. The town is recognized for
+its
+historic past and continues to provide tourists with the opportunity to enjoy incredible
+food
+while
+experiencing
+true Southern charm. If you are looking for a friendly southern town that is rich in
+southern hospitality or a town that contains many
+outdoor
+activities, look no further than Summerville, South Carolina!
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/773075;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Summerville Medical Center SC
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

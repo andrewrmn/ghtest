@@ -1,0 +1,92 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2808',
+  'Cf-Ray' => '82a20505d1361463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => The Johns Hopkins Hospital- Zayed 11 West
+
+	IMC Level-Surgerical/Urology/Thoracic (Zayed 11 West)
+
+	IMCNursewho has worked on a unit with patients who have had surgery.
+
+	Pre and post- bedside surgical care on the unit.
+
+	Multiple levels of care- Adult inpatient acute, tele, and intermediate care unit with continuous vital sign and some advanced monitoring,
+
+	Required: 2 years nursing experience; dysrhythmia management; BLS, IMC/PCU experience
+
+	Preferred EPIC experience; 1-2 travel assignments;
+
+	***Please clarify the resume- If you list unit RN worked on as a PCU-note the type of patients; are they surgical
+
+	Note will Float: Float as needed to area of like skill set. (all of 11 West; IMC and MS Level)
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545594
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1877
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 22 2023 09:56:31
+    [daysPerWeek] => 3
+    [orderNote] => Source=IntrastaffVMS;SourceID=305069 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Johns Hopkins Hospital ;Start=12/18/2023;End=3/17/2024;Duration=90;Cert=MSP RN Enhanced High Needs ;Specialty=Zayed 11W (Surgery)  (4801336941) ;Unit=Zayed 11W (Surgery)  (4801336941) ;Shift=Night 12 (7:00 PM - 7:30 AM);# of Postions=1;Type=Travel;BillRate=$95.00;minBillRate=$95.00;Description=The Johns Hopkins Hospital- Zayed 11 West
+
+	IMC Level-Surgerical/Urology/Thoracic (Zayed 11 West)
+
+	IMCNursewho has worked on a unit with patients who have had surgery.
+
+	Pre and post- bedside surgical care on the unit.
+
+	Multiple levels of care- Adult inpatient acute, tele, and intermediate care unit with continuous vital sign and some advanced monitoring,
+
+	Required: 2 years nursing experience; dysrhythmia management; BLS, IMC/PCU experience
+
+	Preferred EPIC experience; 1-2 travel assignments;
+
+	***Please clarify the resume- If you list unit RN worked on as a PCU-note the type of patients; are they surgical
+
+	Note will Float: Float as needed to area of like skill set. (all of 11 West; IMC and MS Level) ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=pvf0uhVCS7g=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => The Johns Hopkins Hospital TRAVEL
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

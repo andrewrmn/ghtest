@@ -1,0 +1,196 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5612',
+  'Cf-Ray' => '82f6671c47bd183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN NICU7P - 7A13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsData Collection: 05/26/2021
+
+Unit Information:
+ Special Care Nursery Level II (32 weeks and above)
+
+Location: Stone Springs Hospital Center 
+
+Address: 24440 Stone Springs Blvd, Dulles, VA 20166
+
+Floor: 2nd Floor
+
+Building: Main Building
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   5   able to expand to 6Number of Staff   2 RNs when unit is openType of staff:Day Shift   1 charge, 1 RN (Second RN when unit is open)Night Shift   1 charge, 1 RN (Second RN when unit is open)Patient Ratios   Depends on acuity and VolumeType of equipment   
+Giraffes, Pandas, Syringe Pumps, Hospira PumpsEMR   Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+Minimum of 2 years NICU experience at Level 2 or greaterNRP skills to attend vaginal and c/s deliveries
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+STABLE Certification 
+Nursing Certification within specialty
+List typical procedures performed on unit(s): 
+
+
+ IV Antibiotics, Dextrose infusions, TPN/Lipids, PO/NG feeds, Umbilical Line maintenance, Oxygen Support, Nasal CPAP, Surfactant administration assist, delivery attendance. 
+Family centered care for mothers and families
+Best personality Fit:
+
+Strong Effort and Great Attitude!
+ Care like Family! 
+REQUIRED CERTIFICATIONS:
+NRP, BLS
+Floating Area(s):
+Postpartum: to care for Well Newborns, NRN role in L&amp;D at deliveries
+Dress Code: 
+Scrub Color/Attire   
+Navy Blue
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+
+
+
+
+
+Weekends and On call (if any):
+4 weekend shifts in a 4 week period12 hours of On-call in addition to scheduled hours
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => NICU 3
+    [assignmentid] => 543489
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11460
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-26
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 02 2023 15:43:32
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=772111 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=StoneSprings Hospital Center ;City=Dulles ;State=VA ;Zip=20166 ;Start=11/26/2023;End=2/25/2024;Duration=91;Cert=RN ;Specialty=NICU ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM - 7:00AM;# of Postions=1;Type=Travel;BillRate=$94.00;minBillRate=$94.00;OTRate=102 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:TRAVEL RN NICU7:00PM - 7:00AM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsData Collection: 05/26/2021
+
+Unit Information:
+ Special Care Nursery Level II (32 weeks and above)
+
+Location: Stone Springs Hospital Center 
+
+Address: 24440 Stone Springs Blvd, Dulles, VA 20166
+
+Floor: 2nd Floor
+
+Building: Main Building
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   5   able to expand to 6Number of Staff   2 RNs when unit is openType of staff:Day Shift   1 charge, 1 RN (Second RN when unit is open)Night Shift   1 charge, 1 RN (Second RN when unit is open)Patient Ratios   Depends on acuity and VolumeType of equipment   
+Giraffes, Pandas, Syringe Pumps, Hospira PumpsEMR   Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+Minimum of 2 years NICU experience at Level 2 or greaterNRP skills to attend vaginal and c/s deliveries
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+STABLE Certification 
+Nursing Certification within specialty
+List typical procedures performed on unit(s): 
+
+
+ IV Antibiotics, Dextrose infusions, TPN/Lipids, PO/NG feeds, Umbilical Line maintenance, Oxygen Support, Nasal CPAP, Surfactant administration assist, delivery attendance. 
+Family centered care for mothers and families
+Best personality Fit:
+
+Strong Effort and Great Attitude!
+ Care like Family! 
+REQUIRED CERTIFICATIONS:
+NRP, BLS
+Floating Area(s):
+Postpartum: to care for Well Newborns, NRN role in L&amp;D at deliveries
+Dress Code: 
+Scrub Color/Attire   
+Navy Blue
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+
+
+
+
+
+Weekends and On call (if any):
+4 weekend shifts in a 4 week period12 hours of On-call in addition to scheduled hours
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/772111;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 94
+    [facilityName] => StoneSprings Hospital Center
+    [shiftDateEnd] => 2024-02-25
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

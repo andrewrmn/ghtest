@@ -1,0 +1,383 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5717',
+  'Cf-Ray' => '8330a8a9774077bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Hospital:
+ TriStar   Summit Medical Center             Location: Hermitage, TN             
+Address:5655 Frist   Blvd
+         
+Unit Name: 5th   floor 
+             
+Building: Main   Campus
+         
+Cost Center: 60302
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds :33
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios : 6:1 days 7:1 nights
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) : 3 techs per shift, US on dayshift
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment : IVs, Kangaroo   pumps, SCDs
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: every other   weekend
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: will float in   rotation to other appropriate areas when needed
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements: 
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:   
+             Hiring profile             Requested Skill Set:    
+   
+Must have: 
+   
+   
+
+
+   Advanced skills needed:   
+
+
+   
+   Procedures performed on unit: 
+   
+
+
+   
+
+
+   Certifications Required:   
+   
+
+
+             
+Dress Code: (Required uniform)
+    
+
+
+
+
+
+
+
+   
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+ General Comments
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543070
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7587
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 09 2023 17:24:31
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=759015 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=SUMMIT MEDICAL CENTER ;City=HERMITAGE ;State=TN ;Zip=37076 ;Start=10/19/2023;End=1/18/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=TRISTAR DIVISION (7) ;Shift=7:00PM – 7:00AM ;# of Postions=2;Type=Travel;BillRate=$73.00;OTRate=81 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Hospital:
+ TriStar   Summit Medical Center             Location: Hermitage, TN             
+Address:5655 Frist   Blvd
+         
+Unit Name: 5th   floor 
+             
+Building: Main   Campus
+         
+Cost Center: 60302
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds :33
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios : 6:1 days 7:1 nights
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) : 3 techs per shift, US on dayshift
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment : IVs, Kangaroo   pumps, SCDs
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: every other   weekend
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: will float in   rotation to other appropriate areas when needed
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements: 
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:   
+             Hiring profile             Requested Skill Set:    
+   
+Must have: 
+   
+   
+
+
+   Advanced skills needed:   
+
+
+   
+   Procedures performed on unit: 
+   
+
+
+   
+
+
+   Certifications Required:   
+   
+
+
+             
+Dress Code: (Required uniform)
+    
+
+
+
+
+
+
+
+   
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+ General Comments ;url=https://vendor.healthtrustws.com/positions/759015;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 73
+    [facilityName] => Summit Medical Center - TN
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

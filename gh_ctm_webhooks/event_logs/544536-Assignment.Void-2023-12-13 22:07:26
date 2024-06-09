@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '43',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2237',
+  'Cf-Ray' => '8351851c95ee1840-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => We are seeking CVOR RNs with a minimum of 2 years' experience. Must be proficient in circulating all OR cases. It is preferred that the candidate can scrub too. BLS required. CNOR preferred.Must have CVOR experience.   Additional Information:Agency staff will be the first to float based on facility census and needs.   Position Urgency:Normal Billing string = The Christ Hospital
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 544536
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 9945
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 13 2023 17:07:25
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=261723 ;Status=Open;Association=The Christ Hospital ;Client=The Christ Hospital ;City=Cincinnati ;State=OH ;Zip=45219 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Nursing ;Specialty=Operating Room ;Unit=Operating Room ;Shift=4-10s (0630-1700) with one overnight call and weekend call every 5th to 6th weekend;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$85.00;OTRate=85 ;OTRules=By The Week, after 40, ;CallbackRate=85 (All Inclusive Rate) ;HolidayRate=90 (All Inclusive Rate + $5) ;OnCallRateDescription=$4 per hour pager ;Description=We are seeking CVOR RNs with a minimum of 2 years' experience. Must be proficient in circulating all OR cases. It is preferred that the candidate can scrub too. BLS required. CNOR preferred.Must have CVOR experience.   Additional Information:Agency staff will be the first to float based on facility census and needs.   Position Urgency:Normal Billing string = The Christ Hospital ;url=https://vms.medefis5.com/jobs/261723;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Christ Hospital System (AKA the Christ Hospital Health Network)
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3635',
+  'Cf-Ray' => '82925fac53b91465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => The Staff Nurse RN provides professional nursing care through the application of nursing skills and processes to develop, implement, and evaluate patients' plans of care while creating an atmosphere that supports our mission: To care, To heal, To educate. The Staff Nurse RN, as the primary caregiver, provides direct patient care and works collaboratively with other care team members, the physician and the patient/family to achieve optimal patient outcomes. The incumbent has access to confidential patient information and makes decisions independently and in collaboration with others. The Staff Nurse, RN works under the direct supervision of the Nurse Manager and under the indirect supervision of the Director of Nursing.Please note: Travelers may be asked to float to other locations. These locations include, Adena Greenfield, Adena Fayette and Adena Pike.RN s will be floated to similar acuity or lower-levelacuity then what traveler is hired for.									BLS, ACLS, and solid critical care background required.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Stepdown
+    [assignmentid] => 545070
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5967
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 20 2023 12:22:12
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261902 ;Status=Open;Association=Adena Health System ;Client=Adena Health System ;City=Chillicothe ;State=OH ;Zip=45601 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=Nursing ;Specialty=Step Down, Intensive Care / Coronary Nurse (ICU), Registered Nurse, Cardiac Progressive Care (CPCU) ;Unit=Step Down, Intensive Care / Coronary Nurse (ICU), Registered Nurse, Cardiac Progressive Care (CPCU) ;Shift=Nights- 7a-7p;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$85.00;OTRate=85 ;OTRules=By The Week, after 40, ;HolidayRate=95 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=The Staff Nurse RN provides professional nursing care through the application of nursing skills and processes to develop, implement, and evaluate patients' plans of care while creating an atmosphere that supports our mission: To care, To heal, To educate. The Staff Nurse RN, as the primary caregiver, provides direct patient care and works collaboratively with other care team members, the physician and the patient/family to achieve optimal patient outcomes. The incumbent has access to confidential patient information and makes decisions independently and in collaboration with others. The Staff Nurse, RN works under the direct supervision of the Nurse Manager and under the indirect supervision of the Director of Nursing.Please note: Travelers may be asked to float to other locations. These locations include, Adena Greenfield, Adena Fayette and Adena Pike.RN s will be floated to similar acuity or lower-levelacuity then what traveler is hired for.									BLS, ACLS, and solid critical care background required.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261902;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Adena Health System Travel
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

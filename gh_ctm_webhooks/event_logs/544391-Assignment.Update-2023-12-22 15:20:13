@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3470',
+  'Cf-Ray' => '839958a2f7736a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Cardiac Surgery ICU RN   Types of patients: STEMI, Cardiogenic shock, PA catheter, balloon pump, impel, ECMO, temporary pacemakers, post ablation and TAVR, Heart failure36      hours per week  Shift: Day/Night rotating(7a-7p or 7p-7a) OR straight nights  Work      every other weekend  Holidays:      per unit schedule  On      call: None  Unit      is located in the Critical Care Hospital, 10th      floor  Unit      has 14 ICU beds  Nurse      patient ratio: 1:2 or 1:1  Possible      reassignments within competency  Requires      at least one year ICU experience at a Level 1 Trauma Center  Dress      code: Ceil blue/white  Basic      Knowledge Assessment Test (BKAT) is required  RN3   Additional Information:Orientation: The first 16 hours of orientation are unpaid. Call Off Policy: 5 shifts (or the equivalent hours) per 13 week assignment.  Parking: Travelers may need to  pay for parking at VCU depending on how close they want to be to the hospital.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 544391
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3760
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-15
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => December, 22 2023 10:19:45
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261699 ;Status=Open;Association=VCU Health ;Client=VCU Medical Center ;City=Richmond ;State=VA ;Zip=23298 ;Start=12/12/2023;End=3/12/2024;Duration=91;Cert=Nursing ;Specialty=Intensive Care / Coronary Nurse (ICU), Cardiovascular ICU, CVICU ;Unit=Intensive Care / Coronary Nurse (ICU), Cardiovascular ICU, CVICU ;Shift=Straight nights or rotating;# of Postions=4;Guaranteed Hours=36;Type=Travel;BillRate=$93.00;OTRate=103 ;OTRules=By The Week, after 40, ;CallbackRate=93 (All Inclusive Rate) ;HolidayRate=93 (All Inclusive Rate) ;OnCallRateDescription=$10 per hour pager ;Description=Cardiac Surgery ICU RN   Types of patients: STEMI, Cardiogenic shock, PA catheter, balloon pump, impel, ECMO, temporary pacemakers, post ablation and TAVR, Heart failure36      hours per week  Shift: Day/Night rotating(7a-7p or 7p-7a) OR straight nights  Work      every other weekend  Holidays:      per unit schedule  On      call: None  Unit      is located in the Critical Care Hospital, 10th      floor  Unit      has 14 ICU beds  Nurse      patient ratio: 1:2 or 1:1  Possible      reassignments within competency  Requires      at least one year ICU experience at a Level 1 Trauma Center  Dress      code: Ceil blue/white  Basic      Knowledge Assessment Test (BKAT) is required  RN3   Additional Information:Orientation: The first 16 hours of orientation are unpaid. Call Off Policy: 5 shifts (or the equivalent hours) per 13 week assignment.  Parking: Travelers may need to  pay for parking at VCU depending on how close they want to be to the hospital.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261699;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 93
+    [facilityName] => VCU Medical Center - TRAVEL
+    [shiftDateEnd] => 2024-04-15
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

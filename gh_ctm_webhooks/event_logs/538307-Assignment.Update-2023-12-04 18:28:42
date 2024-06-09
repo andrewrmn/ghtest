@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '940',
+  'Cf-Ray' => '83061c52b5446a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By Facility; Clinical Performance
+    [sitename] => giftednurses
+    [spec] => LTAC
+    [assignmentid] => 538307
+    [workerID] => 125950
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9468
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-29
+    [workerLastName] => Hurst
+    [shiftNum] => 4
+    [workerFirstName] => Jennifer
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 04 2023 13:28:41
+    [daysPerWeek] => 3
+    [orderNote] => BR:$95lRS:135923
+Orient:$20lNonBill:8hrs
+FTK: GIFTED TC
+    [guaranteedMinimum] => 
+    [workerEmail] => nursehurst@usa.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => ContinueCare Hospital at Palmetto Health-Travel
+    [shiftDateEnd] => 2023-11-30
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

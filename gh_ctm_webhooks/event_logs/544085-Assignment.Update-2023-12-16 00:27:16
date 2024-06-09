@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '28',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '928',
+  'Cf-Ray' => '8362ccb450f3495d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544085
+    [workerID] => 192862
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Contract
+    [hoursPerWeek] => 36
+    [facilityID] => 13727
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-12
+    [workerLastName] => Holliday
+    [shiftNum] => 5
+    [workerFirstName] => JaQuariah
+    [cert] => RN
+    [floorDesc] => 3E
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 15 2023 19:27:16
+    [daysPerWeek] => 3
+    [orderNote] => BR:$65lRS:136637
+OnCl:P$3/B$5
+Orient:$20lNonBill:0hrs
+FTK: API no GH timesheets
+    [guaranteedMinimum] => 
+    [workerEmail] => jaquariah.holliday@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Anderson Regional Medical Center TRAVEL MEDEFIS
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 18:45
+    [subjectID] => 
+)

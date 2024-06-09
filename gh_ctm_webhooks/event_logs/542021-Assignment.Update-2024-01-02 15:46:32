@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6292',
+  'Cf-Ray' => '83f4216d81331838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Job Title: Certified  Medical Assistant (CMA) SUMMARYThis position is responsible for assisting nursing  staff and providers with day-to-day operations in association with direct and  indirect care of patients in the clinic.To perform this job successfully, an individual must be able to perform each responsibility satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability to be successful. DUTIES/RESPONSIBILITIES (include but are not limited to the following)  Prepare patients for examination and treatment   Complete all necessary documentation in patients' medical records in accordance with the clinic's charting policy  Maintain and utilize effective communication with patients, coworkers and visitors  Demonstrate responsibility for professionalism growth and development  Actively participate in continuous quality improvements, staff meetings, and education programs  Places orders under the supervision of a provider  Perform and assist with various aspects of patient care such as administering medication under general supervision, providing instructions to patients, performing basic lab procedures as instructed, and assisting with medical procedures as appropriate  Maintain a clean, orderly and safe environment for patients and visitors  Clean, sterilize, and store instruments in accordance with clinic policies  Restock and prepare the medical suites for patient examination   Reorder supplies when needed  Respond to patient and family needs   Maintain high standards of confidentiality relating to patient information  Complete required continuous training and education  Comply with personal protective equipment requirements  Comply with bloodborne pathogens procedures  Screen telephone calls and take message from callers  Initiate proper action in response to problems  Provide information about services available  Schedule appointments  Call patients to confirm and reschedule appointments  Organization of Office and Lab  Display and promote company values  Regular attendance  Other duties as assignedSKILLS AND ABILITIES  Ability      to effectively communicate  Time      Management skills  Ability      to work independently and in a team environment  Organizational      skills EDUCATION AND/OR EXPERIENCE  BLS certification or obtain upon hire  Experience in medical setting preferred  Certified Medical Assistant Certification   High School or GED preferred   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Clinic
+    [assignmentid] => 542021
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 11300
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-01
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => January, 02 2024 10:45:18
+    [daysPerWeek] => 5
+    [orderNote] => Source=Medefis5;SourceID=260940 ;Status=Open;Association=Washington County Hospital and Clinics ;Client=Washington County Hospital and Clinics ;City=Washington ;State=IA ;Zip=52353 ;Start=12/1/2023;End=3/1/2024;Duration=91;Cert=Nursing ;Specialty=Clinic ;Unit=Clinic ;Shift=7:45am-5:15pm M-F;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$35.00;OTRate=35 ;OTRules=By The Week, after 40, ;OnCallRateDescription=No Call ;Description=Job Title: Certified  Medical Assistant (CMA) SUMMARYThis position is responsible for assisting nursing  staff and providers with day-to-day operations in association with direct and  indirect care of patients in the clinic.To perform this job successfully, an individual must be able to perform each responsibility satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability to be successful. DUTIES/RESPONSIBILITIES (include but are not limited to the following)  Prepare patients for examination and treatment   Complete all necessary documentation in patients' medical records in accordance with the clinic's charting policy  Maintain and utilize effective communication with patients, coworkers and visitors  Demonstrate responsibility for professionalism growth and development  Actively participate in continuous quality improvements, staff meetings, and education programs  Places orders under the supervision of a provider  Perform and assist with various aspects of patient care such as administering medication under general supervision, providing instructions to patients, performing basic lab procedures as instructed, and assisting with medical procedures as appropriate  Maintain a clean, orderly and safe environment for patients and visitors  Clean, sterilize, and store instruments in accordance with clinic policies  Restock and prepare the medical suites for patient examination   Reorder supplies when needed  Respond to patient and family needs   Maintain high standards of confidentiality relating to patient information  Complete required continuous training and education  Comply with personal protective equipment requirements  Comply with bloodborne pathogens procedures  Screen telephone calls and take message from callers  Initiate proper action in response to problems  Provide information about services available  Schedule appointments  Call patients to confirm and reschedule appointments  Organization of Office and Lab  Display and promote company values  Regular attendance  Other duties as assignedSKILLS AND ABILITIES  Ability      to effectively communicate  Time      Management skills  Ability      to work independently and in a team environment  Organizational      skills EDUCATION AND/OR EXPERIENCE  BLS certification or obtain upon hire  Experience in medical setting preferred  Certified Medical Assistant Certification   High School or GED preferred   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260940;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 35
+    [facilityName] => Washington County Hospital and Clinics
+    [shiftDateEnd] => 2024-03-01
+    [shiftStartTime] => 08:00
+    [subjectID] => 
+)

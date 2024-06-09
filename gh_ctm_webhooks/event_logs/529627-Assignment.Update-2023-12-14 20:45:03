@@ -1,0 +1,408 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8105',
+  'Cf-Ray' => '835949c465d577bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:MUST HAVE ECMO EXPEREINCE
+
+        Hospital: TriStar Centennial             Location: Nashville, TN             
+Address:
+         
+Unit Name: ECMO
+             
+Building: 
+         
+Cost Center:634
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds :8
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios :1:1
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) : Each patient has a bedside nurse that is   a 1:! Staffing ratio, they also have a free floating ECMO specialist that   covers up to 3 patients at one time. 
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment : Centrimag,   Cardiohelp, Impella 5.5 and CP, Prismax, Maquet IABP,Alaris IV pump, Kangroo   Tube Feed Pump, Edwards Hemisphere and EV1000
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: 4 weekend   shifts per 4 week period. 
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: Contract Labor floats   first out of the ECMO unit
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements:   Cardiac ICU nurse with minimal 1 year of experience with MCS devices
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:   BLS, ACLS
+             Hiring profile             Requested Skill Set: Cardiac ICU nurse   with skilled background in hemodynamics, swan ganz catheters, MCS, CRRT, Drip   Titrations, VA and VV ECMO    
+   
+Must have: 1 year of experience with MCS devices such as IABP, Impella,   LVAD/RVAD and or ECMO
+   
+   
+
+
+   Advanced skills needed: CRRT, IABP and   Impella    
+
+
+   
+   
+Procedures performed on unit: 
+Cannulation for VA and VV   ECMO, bedside tracheostomies, chest tubes, intubation, PICC lines, Central   Lines, Swan- Ganz catheter placement
+   
+
+
+   
+
+
+   Certifications Required: None   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   
+Black, Red, Galaxy Blue, or Navy Scrubs
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+
+
+   https://vimeo.com/neonmediagroup/review/760467973/ae34a48de4
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+
+
+
+
+
+
+
+   We are a   dedicated ECMO unit that works with both Critical Care and Cardiac   Intensivists. The unit is 8 beds that sit within a 32 bed CCU and houses both   VA and VV ECMO. On average our patient population is a 50/50 split of VA and   VV. As a bedside nurse you will provide care to the patient, while a free-floating   RN ECMO specialist cares for the pump.
+ General Comments
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 529627
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1297
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-01
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 14 2023 15:45:01
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=691392 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=CENTENNIAL MEDICAL CENTER TN ;City=NASHVILLE ;State=TN ;Zip=37203 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=RN ;Specialty=ICU ;Unit=TRISTAR DIVISION (7) ;Shift=7:00PM-7:00AM;# of Postions=1;Type=Travel;BillRate=$73.00;minBillRate=$73.00;OTRate=81 ;CallbackRate=81 ;HolidayRate=81 ;Description=Description:MUST HAVE ECMO EXPEREINCE
+
+        Hospital: TriStar Centennial             Location: Nashville, TN             
+Address:
+         
+Unit Name: ECMO
+             
+Building: 
+         
+Cost Center:634
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds :8
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios :1:1
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) : Each patient has a bedside nurse that is   a 1:! Staffing ratio, they also have a free floating ECMO specialist that   covers up to 3 patients at one time. 
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment : Centrimag,   Cardiohelp, Impella 5.5 and CP, Prismax, Maquet IABP,Alaris IV pump, Kangroo   Tube Feed Pump, Edwards Hemisphere and EV1000
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: 4 weekend   shifts per 4 week period. 
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: Contract Labor floats   first out of the ECMO unit
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements:   Cardiac ICU nurse with minimal 1 year of experience with MCS devices
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:   BLS, ACLS
+             Hiring profile             Requested Skill Set: Cardiac ICU nurse   with skilled background in hemodynamics, swan ganz catheters, MCS, CRRT, Drip   Titrations, VA and VV ECMO    
+   
+Must have: 1 year of experience with MCS devices such as IABP, Impella,   LVAD/RVAD and or ECMO
+   
+   
+
+
+   Advanced skills needed: CRRT, IABP and   Impella    
+
+
+   
+   
+Procedures performed on unit: 
+Cannulation for VA and VV   ECMO, bedside tracheostomies, chest tubes, intubation, PICC lines, Central   Lines, Swan- Ganz catheter placement
+   
+
+
+   
+
+
+   Certifications Required: None   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   
+Black, Red, Galaxy Blue, or Navy Scrubs
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+
+
+   https://vimeo.com/neonmediagroup/review/760467973/ae34a48de4
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+
+
+
+
+
+
+
+   We are a   dedicated ECMO unit that works with both Critical Care and Cardiac   Intensivists. The unit is 8 beds that sit within a 32 bed CCU and houses both   VA and VV ECMO. On average our patient population is a 50/50 split of VA and   VV. As a bedside nurse you will provide care to the patient, while a free-floating   RN ECMO specialist cares for the pump.
+ General Comments
+ No. of Positions: 1/2.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/691392;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 73
+    [facilityName] => Centennial Medical Center
+    [shiftDateEnd] => 2024-04-01
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

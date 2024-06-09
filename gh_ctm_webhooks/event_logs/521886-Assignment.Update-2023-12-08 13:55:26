@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '934',
+  'Cf-Ray' => '832581866747183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Last shift worked was 10-28-23
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 521886
+    [workerID] => 316718
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2623
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-08-22
+    [workerLastName] => Greer
+    [shiftNum] => 5
+    [workerFirstName] => Arkemia
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 08 2023 08:55:25
+    [daysPerWeek] => 3
+    [orderNote] => BR:$100lRS:132667lFTK:GiftTC(singed)
+ChrgDiff:P$1/B$3lOnCl:P$10/B$18
+Orient:$36lNonBill:8hrs
+    [guaranteedMinimum] => 
+    [workerEmail] => kemiigurl07@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Bayou Bend Health System TRAVEL
+    [shiftDateEnd] => 2023-10-28
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

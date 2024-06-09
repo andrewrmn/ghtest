@@ -1,0 +1,167 @@
+html.filters-open{
+  overflow: hidden;
+
+  #hubspot-messages-iframe-container{
+    display: none !important;
+  }
+}
+
+.jobListings{
+
+  &__layout{
+    display: grid;
+    grid-template-columns: 260px 1fr;
+    gap: 20px;
+    padding-top: 24px;
+    padding-bottom: 90px;
+  }
+
+  &__filtersActions{
+    display: none;
+
+    .ghButton{
+      padding:{
+        left: 5px;
+        right: 5px;
+      }
+    }
+  }
+
+  &__filtersCol{
+    padding-top: 36px;
+  }
+
+  &__top{
+    @include resetFont;
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 20px;
+
+    a{
+      font-weight: bold;
+    }
+  }
+
+  &__count{
+
+    strong{
+      color: $color-dark-teal;
+    }
+  }
+
+  &__pagination{
+    @include resetFont;
+    margin-top: 48px;
+    font-size: 16px;
+
+    .facetwp-pager{
+      display: flex;
+      align-self: center;
+      justify-content: center;
+      gap: 20px;
+    }
+
+    .facetwp-page{
+      display: inline-block;
+      min-width: 32px;
+      height: 32px;
+      text-align: center;
+      border-radius: 32px;
+      padding: 0 10px;
+      line-height: 32px;
+      color: $color-gray;
+      transition: all 0.2s ease;
+      text-decoration: none !important;
+
+      &:not(.dots):hover{
+        background: $color-light-green;
+      }
+
+      &.active{
+        background: $color-teal;
+        color: white;
+        font-weight: 400;
+      }
+
+      &.dots{
+        position: relative;
+        top: -4px;
+      }
+    }
+
+    .facetwp-page.prev,
+    .facetwp-page.next{
+      font-size: 0;
+      color: $color-teal;
+      padding: 0;
+
+      &::before{
+        font-family: 'remixicon' !important;
+        font-size: 20px;
+        line-height: 32px;
+        content: $ri-arrow-right-s-line;
+      }
+    }
+
+    .facetwp-page.prev::before{
+      content: $ri-arrow-left-s-line;
+    }
+  }
+
+
+  @media screen and (max-width: 1024px){
+    &__layout{
+      grid-template-columns: 1fr;
+    }
+    &__filtersActions{
+      display: grid;
+      gap: 6px;
+      grid-template-columns: 1fr 1fr;
+    }
+    &__filtersCol{
+      padding: 0;
+    }
+    &__radiusSearch,
+    &__filters{
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 999999999;
+      display: none;
+      animation: jobListingFilters 0.3s ease;
+
+      &.active{
+        display: block;
+      }
+    }
+  }
+
+  @media screen and (max-width: 700px){
+    &__top{
+      flex-direction: column;
+    }
+    &__pagination{
+      margin:{
+        left: -10px;
+        right: -10px;
+      }
+      .facetwp-pager{
+        gap: 2px;
+      }
+      .facetwp-page{
+        padding: 0 5px;
+        font-size: 11px;
+      }
+    }
+  }
+}
+
+@keyframes jobListingFilters {
+  from{ opacity: 0; transform: scale(1.1) }
+  from{ opacity: 1; transform: scale(0) }
+}

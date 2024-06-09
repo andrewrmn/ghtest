@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3600',
+  'Cf-Ray' => '829b946a97991463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 5:1 Patient to Staff Ratios!!  Delivers care to patients utilizing the nursing process of assessment, planning, intervention, implementation, and evaluation. Nurses collaborate with other professional disciplines to ensure effective patient care delivery and achievement of desired patient outcomes. Nurses effectively interact with patient and significant others, while maintaining the standard of professional nursing. Hospital Nurses provide care for pediatric and adult patients before and after surgical procedures, and with a broad range of medical conditions. Has ability to assess and implement established policies and procedures with minimal supervision. Acts as a clinical leader and assists with precepting staff. Provides direct care for patients in the Hospital and Ambulatory Service Center from admission to discharge in all aspects of care including discharge planning.Gives direction to , LPN, CNA, Housekeeping Staff, Dietary Staff. Receives direction from Providers, Charge Nurse, Acute Care Director, and CNO   Position Urgency:Normal Billing string = Great Falls Clinic Medical Center
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545416
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6202
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 21 2023 15:11:04
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261450 ;Status=Open;Association=Great Falls Clinic Medical Center ;Client=Great Falls Clinic Medical Center ;City=Great Falls ;State=MT ;Zip=59405 ;Start=11/9/2023;End=2/8/2024;Duration=91;Cert=Nursing ;Specialty=Med-surg Adult ;Unit=Med-surg Adult ;Shift=Nights (1900-0730);# of Postions=3;Guaranteed Hours=36;Type=Travel;BillRate=$85.00;OTRate=95 ;OTRules=By The Week, after 40, ;CallbackRate=95 (All Inclusive Rate + $10) ;HolidayRate=95 (All Inclusive Rate + $10) ;OnCallRateDescription=$2 per hour pager ;Description=5:1 Patient to Staff Ratios!!  Delivers care to patients utilizing the nursing process of assessment, planning, intervention, implementation, and evaluation. Nurses collaborate with other professional disciplines to ensure effective patient care delivery and achievement of desired patient outcomes. Nurses effectively interact with patient and significant others, while maintaining the standard of professional nursing. Hospital Nurses provide care for pediatric and adult patients before and after surgical procedures, and with a broad range of medical conditions. Has ability to assess and implement established policies and procedures with minimal supervision. Acts as a clinical leader and assists with precepting staff. Provides direct care for patients in the Hospital and Ambulatory Service Center from admission to discharge in all aspects of care including discharge planning.Gives direction to , LPN, CNA, Housekeeping Staff, Dietary Staff. Receives direction from Providers, Charge Nurse, Acute Care Director, and CNO   Position Urgency:Normal Billing string = Great Falls Clinic Medical Center ;url=https://vms.medefis5.com/jobs/261450;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Great Falls Clinic Hospital
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

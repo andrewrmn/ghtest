@@ -1,0 +1,130 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6500',
+  'Cf-Ray' => '8289be1ae66323b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Shift: 3, 12Hr 07:00 - 19:00
+Ratios:  5-6:1 for days and 6-7:1 for nights
+
+Locals accepted!
+
+Years of experience REQ: 
+First-timers accepted: (Y/N) Travel experience: 
+Weekend REQ:
+Certs REQ: 
+Is on-call REQ? (Y/N) What is the req? 
+Will clinician float within scope to meet facility needs? **Floating between Tidelands Georgetown and Tidelands Waccamaw required**
+Open to accommodating block schedule?  
+Locals accepted: (Y/N) What is the local radius rule? No radius restriction
+Pending State License accepted: (Y/N) 
+RTO Restrictions:  
+Guaranteed Hours: (if it s over 36/hrs for 13 weeks):  
+Comments:  
+ASAP start!
+EMR: Meditech
+MS days
+
+Hospital Highlights 
+Type of Facility:  
+Magnet, Major Teaching, & Level I Trauma Center:  
+Scrub Color: Surgical Services/Cath Lab: provided - Scrubs can be worn on first day of orientation.
+Parking Cost:  park at the HR office for orientation. Parking pass is needed to parking in Employee Parking during assignment, which will be provided on first day. No fees
+
+(kw)
+
+ Modified Time:11/20/2023 5:00:00 AM
+ Account Manager: Ashley Glass
+ Account Manager Email: Ashley.Glass@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceSSN&nbsp;DOB&nbsp;&nbsp;RTO:&nbsp;Keep RTO to a minimum, preferably no requests for calendar week off during assignment.&nbsp; Any RTO must be in initial submission and if approved, also in confirmation document.&nbsp; Expect to work some holidays.&nbsp;Requires specific amount of exp: no set requirement on this, varies by specialty, will review all subs!&nbsp;Valid State License required at time of submissionReferences not required for submission&nbsp;Local Rules: locals accepted at same rateWorkers may float between GMH and WCH, but have the potential to float between any TH facility   especially as it relates to imaging travelers. Travelers are not guaranteed a specific facility or schedule unless it meets TH s specific staffing needs or unless previously confirmed. Travelers will not be assigned nor asked to provide any care outside of their scope of practice and expertise unless critical situations requiring their flexibility arise.Copy of Certifications  &nbsp;not required at submission, but nice to have!&nbsp;Return Staff Policy: must be gone 1 year&nbsp;&nbsp;SMOKE/NICOTINE FREE CAMPUS&nbsp;CATH LAB TECHS NEED TO BE RCIS CERTIFIED&nbsp;ACLS required for: ER, ICU, CCU, TELE only&nbsp;Must have current BLS&nbsp;
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543598
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10328
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 11:13:38
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2301271 ;Status=Open;Association=Qualivis EPA ;Client=Tidelands Health Float Pool - EPA ;City=Georgetown ;State=SC ;Zip=29440-3368 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=Registered Nurse ;Specialty=Medical Surgical ;Unit=Medical Surgical ;Shift=Day 3x12-Hour (07:00 - 19:00);# of Postions=1;Type=Travel;BillRate=$85.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Shift: 3, 12Hr 07:00 - 19:00
+Ratios:  5-6:1 for days and 6-7:1 for nights
+
+Locals accepted!
+
+Years of experience REQ: 
+First-timers accepted: (Y/N) Travel experience: 
+Weekend REQ:
+Certs REQ: 
+Is on-call REQ? (Y/N) What is the req? 
+Will clinician float within scope to meet facility needs? **Floating between Tidelands Georgetown and Tidelands Waccamaw required**
+Open to accommodating block schedule?  
+Locals accepted: (Y/N) What is the local radius rule? No radius restriction
+Pending State License accepted: (Y/N) 
+RTO Restrictions:  
+Guaranteed Hours: (if it s over 36/hrs for 13 weeks):  
+Comments:  
+ASAP start!
+EMR: Meditech
+MS days
+
+Hospital Highlights 
+Type of Facility:  
+Magnet, Major Teaching, & Level I Trauma Center:  
+Scrub Color: Surgical Services/Cath Lab: provided - Scrubs can be worn on first day of orientation.
+Parking Cost:  park at the HR office for orientation. Parking pass is needed to parking in Employee Parking during assignment, which will be provided on first day. No fees
+
+(kw)
+
+ Modified Time:11/20/2023 5:00:00 AM
+ Account Manager: Ashley Glass
+ Account Manager Email: Ashley.Glass@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceSSN&nbsp;DOB&nbsp;&nbsp;RTO:&nbsp;Keep RTO to a minimum, preferably no requests for calendar week off during assignment.&nbsp; Any RTO must be in initial submission and if approved, also in confirmation document.&nbsp; Expect to work some holidays.&nbsp;Requires specific amount of exp: no set requirement on this, varies by specialty, will review all subs!&nbsp;Valid State License required at time of submissionReferences not required for submission&nbsp;Local Rules: locals accepted at same rateWorkers may float between GMH and WCH, but have the potential to float between any TH facility   especially as it relates to imaging travelers. Travelers are not guaranteed a specific facility or schedule unless it meets TH s specific staffing needs or unless previously confirmed. Travelers will not be assigned nor asked to provide any care outside of their scope of practice and expertise unless critical situations requiring their flexibility arise.Copy of Certifications  &nbsp;not required at submission, but nice to have!&nbsp;Return Staff Policy: must be gone 1 year&nbsp;&nbsp;SMOKE/NICOTINE FREE CAMPUS&nbsp;CATH LAB TECHS NEED TO BE RCIS CERTIFIED&nbsp;ACLS required for: ER, ICU, CCU, TELE only&nbsp;Must have current BLS&nbsp; ;url=https://app.ayaconnect.com/index.html#/vendor/job/2301271/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Tidelands Georgetown Memorial Hospital
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

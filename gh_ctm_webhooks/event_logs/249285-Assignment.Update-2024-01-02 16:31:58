@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '23',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3557',
+  'Cf-Ray' => '83f46532a55c4949-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Elevate your career in the mountains with Ferry County Health! 						Our critical access hospital is in need of two NOC (1800-0600) RN s to  join our team in a supportive environment.  						Flexible work schedules and very low nurse-to-patient ratios allow  for a rewarding work/life balance. Our nurses collaborate closely with  the  						Providers to provide patient-centered care to the rural community.  Ferry County is an outdoor paradise, with many recreation activities  						available throughout all the seasons! 						You will have the opportunity to provide a wide variety of  services to the community of Ferry County! Cross-training programs are  						available when desired to work in the Emergency Room, Acute Care,  Swing Bed Rehabilitation, Outpatient, Long Term Care, Ambulance  Transport,  						and Procedure Nursing.  						Please feel open to call our Nurse Manager, Mike, at 509-775-8649 to discuss any questions you may have before applying.   Position Urgency:Rapid Response Crisis Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 249285
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3544
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-09-06
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 02 2024 11:31:57
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=188017 ;Status=Open;Association=Ferry County Health ;Client=Ferry County Health ;City=Republic ;State=WA ;Zip=99166 ;Start=7/21/2021;End=9/15/2021;Duration=56;Cert=Nursing ;Specialty=Emergency Room Nurse, Registered Nurse ;Unit=Emergency Room Nurse, Registered Nurse ;Shift=12 hour NOC shift - 1800-0600;# of Postions=2;Type=Travel;BillRate=$77.00;OTRate=77 ;OTRules=By The Week, after 40, ;CallbackRate=77 (All Inclusive Rate) ;HolidayRate=77 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=Elevate your career in the mountains with Ferry County Health! 						Our critical access hospital is in need of two NOC (1800-0600) RN s to  join our team in a supportive environment.  						Flexible work schedules and very low nurse-to-patient ratios allow  for a rewarding work/life balance. Our nurses collaborate closely with  the  						Providers to provide patient-centered care to the rural community.  Ferry County is an outdoor paradise, with many recreation activities  						available throughout all the seasons! 						You will have the opportunity to provide a wide variety of  services to the community of Ferry County! Cross-training programs are  						available when desired to work in the Emergency Room, Acute Care,  Swing Bed Rehabilitation, Outpatient, Long Term Care, Ambulance  Transport,  						and Procedure Nursing.  						Please feel open to call our Nurse Manager, Mike, at 509-775-8649 to discuss any questions you may have before applying.   Position Urgency:Rapid Response Crisis Billing string = Medefis ;url=https://vms.medefis5.com/jobs/188017;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 77
+    [facilityName] => Washington Registry- Ferry County Memorial Hospital
+    [shiftDateEnd] => 2021-11-01
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

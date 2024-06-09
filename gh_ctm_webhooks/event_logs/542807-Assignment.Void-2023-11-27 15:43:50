@@ -1,0 +1,89 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3855',
+  'Cf-Ray' => '82cb7d34756b1830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => RRT for night shift needed ASAP for a 12 week contract
+Possibility to Extend
+Must have at LEAST 2 years of RRT experience
+Must have NICU & Pediatric Experience
+Must have OH RRT license
+ACLS, BLS required
+NRP preferred but not required
+
+ Modified Time:12/4/2023 5:00:00 AM
+ Account Manager: Taylor Minton
+ Account Manager Email: Taylor.Minton@qualivis.com
+ COVID-19 Vaccine: Required - Medical Exemptions Only
+ Flu Vaccine: Required - Medical Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier2 Travel CompliancePLEASE USE ALL BELOW SUB REQUIREMENT INSTRUCTIONS:All RTO to be discussed during interview and must be included at time of submissionSubmission Requirements:*Standard Qualivis Cover sheet completed and filled in*Must have a permanent Ohio or Compact license in hand at time of submission*Must have pediatric experience*BG hits of any kind are to be reviewed by facility.*At least one recent references from a manager, ANM, supervisor or director in the specialty applying to is required*Locals accepted at the same bill rateReturn Staff Policy: Must wait at least 1 year before returning as a travelerSmoke Free Facility and CampusPlease submit profiles to: Taylor.Minton@Qualivis.com and cc Reanna.Calpin@Qualivis.com
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 542807
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9956
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RRT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => November, 27 2023 10:43:50
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2301396 ;Status=Open;Association=Qualivis MSP ;Client=Dayton Children's Hospital ;City=Dayton ;State=OH ;Zip=45404 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Respiratory / Neuro Diagnostics ;Specialty=RRT-NICU ;Unit=Respiratory Therapy, 736 ;Shift=Day 3x12-Hour (07:00 - 19:30);# of Postions=1;Type=Travel;BillRate=$110.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=RRT for day shift needed ASAP for a 12 week contract
+Possibility to Extend
+Must have at LEAST 2 years of RRT experience
+Must have NICU & Pediatric Experience
+Must have OH RRT license
+ACLS, BLS required
+NRP preferred but not required
+
+ Modified Time:12/18/2023 12:00:00 AM
+ Account Manager: Taylor Minton
+ Account Manager Email: Taylor.Minton@qualivis.com
+ COVID-19 Vaccine: Required - Medical Exemptions Only
+ Flu Vaccine: Required - Medical Exemptions Only
+ Submittals:High
+ Submittal Details: #Tier2 Travel CompliancePLEASE USE ALL BELOW SUB REQUIREMENT INSTRUCTIONS:All RTO to be discussed during interview and must be included at time of submissionSubmission Requirements:*Standard Qualivis Cover sheet completed and filled in*Must have a permanent Ohio or Compact license in hand at time of submission*Must have pediatric experience*BG hits of any kind are to be reviewed by facility.*At least one recent references from a manager, ANM, supervisor or director in the specialty applying to is required*Locals accepted at the same bill rateReturn Staff Policy: Must wait at least 1 year before returning as a travelerSmoke Free Facility and CampusPlease submit profiles to: Taylor.Minton@Qualivis.com and cc Reanna.Calpin@Qualivis.com ;url=https://app.ayaconnect.com/index.html#/vendor/job/2301396/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => Dayton Children's Hospital Travel
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

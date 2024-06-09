@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2988',
+  'Cf-Ray' => '82a1c474f6b023c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => OB, LD RN needed for a Low Risk LD  position at a critical access hospital in Nome AK. They will be working 12hour shifts, days or nights. All of our high risk OB are sent to Anchorage prior to labor. Shared housing paid by the facility.  We are willing to consider 8 or 13 week contracts. COVID and Flu vaccines required for all employees.ALL TRAVELERS ARE REQUIRED TO SHOW PROOF OF COMPLETED COVID VACCINATIONS AND RECOMMENDED BOOSTERS??. FLU VACCINES ARE ALSO REQUIRED AND EXEMPTIONS WILL NOT BE ACCEPTED   Additional Information:ALL TRAVELERS ARE REQUIRED TO SHOW PROOF OF COMPLETED COVID VACCINATIONS PLUS BOOSTER??. FLU VACCINES ARE ALSO REQUIRED AND EXEMPTIONS WILL NOT BE ACCEPTED.   Position Urgency:Normal Billing string = Norton Sound Regional Hospital
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 541450
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1360
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 22 2023 09:12:26
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=260716 ;Status=Open;Association=Norton Sound Regional Hospital ;Client=Norton Sound Regional Hospital ;City=Nome ;State=AK ;Zip=99762 ;Start=11/13/2023;End=2/12/2024;Duration=91;Cert=Nursing ;Specialty=Labor and Delivery Nurse, Obstetrics RN, Antepartum, Post Partum ;Unit=Labor and Delivery Nurse, Obstetrics RN, Antepartum, Post Partum ;Shift=Nights or days;# of Postions=3;Guaranteed Hours=36;Type=Travel;BillRate=$125.00;OTRate=135 ;OTRules=By The Week, after 40, ;CallbackRate=125 (All Inclusive Rate) ;HolidayRate=135 (All Inclusive Rate + $10) ;OnCallRateDescription=$2 per hour pager ;Description=OB, LD RN needed for a Low Risk LD  position at a critical access hospital in Nome AK. They will be working 12hour shifts, days or nights. All of our high risk OB are sent to Anchorage prior to labor. Shared housing paid by the facility.  We are willing to consider 8 or 13 week contracts. COVID and Flu vaccines required for all employees.ALL TRAVELERS ARE REQUIRED TO SHOW PROOF OF COMPLETED COVID VACCINATIONS AND RECOMMENDED BOOSTERS??. FLU VACCINES ARE ALSO REQUIRED AND EXEMPTIONS WILL NOT BE ACCEPTED   Additional Information:ALL TRAVELERS ARE REQUIRED TO SHOW PROOF OF COMPLETED COVID VACCINATIONS PLUS BOOSTER??. FLU VACCINES ARE ALSO REQUIRED AND EXEMPTIONS WILL NOT BE ACCEPTED.   Position Urgency:Normal Billing string = Norton Sound Regional Hospital ;url=https://vms.medefis5.com/jobs/260716;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 125
+    [facilityName] => Norton Sound Regional
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

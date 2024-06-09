@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '20',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '887',
+  'Cf-Ray' => '82dd52bd210d493d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => Clinic
+    [assignmentid] => 541518
+    [workerID] => 337434
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 136621
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 40
+    [facilityID] => 16185
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => Griffith
+    [shiftNum] => 1
+    [workerFirstName] => Mary
+    [cert] => LPN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 16:30
+    [whenmodified] => November, 29 2023 14:40:34
+    [daysPerWeek] => 5
+    [orderNote] => 0.12 Dental only Insurance stipend
+Through Vighter! Not direct bill.
+    [guaranteedMinimum] => 
+    [workerEmail] => maryfgriffith@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 50
+    [facilityName] => VAMC-Myrtle Beach VA Clinic
+    [shiftDateEnd] => 2023-12-18
+    [shiftStartTime] => 07:30
+    [subjectID] => 
+)

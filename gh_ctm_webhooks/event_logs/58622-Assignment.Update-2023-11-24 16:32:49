@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '29',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4314',
+  'Cf-Ray' => '82b30cd2c1814961-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position DescriptionScrub technicians, also referred to as surgical technologists, assist surgeons in the operating room. Responsibilities for this position include preparing operating rooms, sterilizing equipment, passing instruments to the surgeons, moving patients, and dressing wounds.Heavy experience in open heart cases is required. No First Assist Experience needed. Pay is negotiable. parseGeneralComments Comments.bd_title                                  {                                         font-weight: bold;                                  }          		Reason for opening (special, internal vacancy, leave coverage) Day shift and call          		*******************************************************************************           		How long has it been open?           		Will position be required to float to other units?           		Number of beds in your facility?           		Years of experience required?           		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)           		Willing to review clinicians with pending state license?           		Is there anyone in the past that has worked for you that you would consider rehiring?           		What is the work schedule for this position? (days needed, hours or shift) 			EMR for your facility:           		Scrub colors / dress code: 			Parking location:  Contact: Paige Moran Resource Manager: Suhani Desai OT Rate:?/$57.40 Holiday Rate: ?/$61.50https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=280169&null 
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 58622
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 
+    [facilityID] => 9491
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-05-20
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 14:30
+    [whenmodified] => November, 24 2023 11:32:48
+    [daysPerWeek] => 
+    [orderNote] => Source=Parallon;ID=0;SourceID=280169;Status=;Client=DeTar Healthcare System Allied;City=Victoria;State=TX;Zip=77904;Start=5/6/2019;End=8/5/2019;Duration=91;Cert=Scrub Tech;Specialty=OPERATING ROOM;Unit=1111: OPERATING ROOM;Shift=6:00 AM - 3:00 PM;# of Postions=1;Type=Travel;BillRate=$41.00;OTRate=;Description=Position DescriptionScrub technicians, also referred to as surgical technologists, assist surgeons in the operating room. Responsibilities for this position include preparing operating rooms, sterilizing equipment, passing instruments to the surgeons, moving patients, and dressing wounds.Heavy experience in open heart cases is required. No First Assist Experience needed. Pay is negotiable. parseGeneralComments Comments.bd_title                                  {                                         font-weight: bold;                                  }          Reason for opening (special, internal vacancy, leave coverage) Day shift and call          *******************************************************************************           How long has it been open?           Will position be required to float to other units?           Number of beds in your facility?           Years of experience required?           Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)           Willing to review clinicians with pending state license?           Is there anyone in the past that has worked for you that you would consider rehiring?           What is the work schedule for this position? (days needed, hours or shift) EMR for your facility:           Scrub colors / dress code: Parking location:  Contact: Paige Moran Resource Manager: Suhani Desai OT Rate:?/$57.40 Holiday Rate: ?/$61.50https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=280169&null;VMSPositionType=Travel AvgHoursPerWeek= 
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 41
+    [facilityName] => DeTar Hospital - North 
+    [shiftDateEnd] => 2019-08-19
+    [shiftStartTime] => 06:00
+    [subjectID] => 
+)

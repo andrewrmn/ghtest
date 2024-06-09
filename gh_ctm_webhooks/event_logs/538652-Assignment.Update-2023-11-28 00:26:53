@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5636',
+  'Cf-Ray' => '82ce7b5a14fa1832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => We are seeking experiencedChemo Infusions Nurses;The candidates must have current WI License and CPR/BLS. RN must be fully vaccinated for COVID-19 and Flu.Specific Schedule:Monday-Friday8am-6:30pmUtilizes the nursing process and critical thinking in collaboration with interdisciplinary team members in caring for patients.Performs assessments, planning, intervention and evaluation of careAdministers prescribed medications and treatments in accordance with approved nursing techniques, policies and procedures, standards of care, and state laws/practice act as required by care setting.Ensures all documentation is accurate and comprehensive in accordance with the established standards of care for documentation at the system and entity levels.Develops initiates and executes a patient plan of care according to the patient s individualized needs, as prescribed by the physician and/or hospital policy. Utilizes resources available to teach and support patient and family education. Provides education to the appropriate level of understanding.Participates in department or unit performance improvement activities, which may include shared governance.Utilizes clinical expertise  guidance to other units/departments in support of the patient s longitudinal plan of care. Acts to resolve systems breakdowns and engages self and others in providing solutionsUtilizes critical thinking in regards to patient safety and patient experience, manages complex situations and delegates to other staff appropriately. Escalates to the appropriate chain of command as needed.Positively influences the professional and organizational environments and shared governance.Engages in personal development and supports system-entity opportunities for continuous learning and growth including developing or revising evidence based practice guidelines.Supports and participates in peer review and peer feedback opportunities.Participates in the professional nursing continuumClinic and Ambulatory RN s will maintain timely flow of patients, in addition to responding to telephone calls and performs telephone triage of patients.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Infusion
+    [assignmentid] => 538652
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11297
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:30
+    [whenmodified] => November, 27 2023 19:26:51
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=260483 ;Status=Open;Association=Mercyhealth ;Client=Mercyhealth Michael Berry ;City=Janesville ;State=WI ;Zip=53548 ;Start=10/25/2023;End=1/24/2024;Duration=91;Cert=Nursing ;Specialty=Infusion RN, Oncology Nurse ;Unit=Infusion RN, Oncology Nurse ;Shift=
+40 hours, 8-6:30;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$75.00;OTRate=85 ;OTRules=By The Week, after 40, ;OnCallRateDescription=No Call ;Description=We are seeking experiencedChemo Infusions Nurses;The candidates must have current WI License and CPR/BLS. RN must be fully vaccinated for COVID-19 and Flu.Specific Schedule:Monday-Friday8am-6:30pmUtilizes the nursing process and critical thinking in collaboration with interdisciplinary team members in caring for patients.Performs assessments, planning, intervention and evaluation of careAdministers prescribed medications and treatments in accordance with approved nursing techniques, policies and procedures, standards of care, and state laws/practice act as required by care setting.Ensures all documentation is accurate and comprehensive in accordance with the established standards of care for documentation at the system and entity levels.Develops initiates and executes a patient plan of care according to the patient s individualized needs, as prescribed by the physician and/or hospital policy. Utilizes resources available to teach and support patient and family education. Provides education to the appropriate level of understanding.Participates in department or unit performance improvement activities, which may include shared governance.Utilizes clinical expertise  guidance to other units/departments in support of the patient s longitudinal plan of care. Acts to resolve systems breakdowns and engages self and others in providing solutionsUtilizes critical thinking in regards to patient safety and patient experience, manages complex situations and delegates to other staff appropriately. Escalates to the appropriate chain of command as needed.Positively influences the professional and organizational environments and shared governance.Engages in personal development and supports system-entity opportunities for continuous learning and growth including developing or revising evidence based practice guidelines.Supports and participates in peer review and peer feedback opportunities.Participates in the professional nursing continuumClinic and Ambulatory RN s will maintain timely flow of patients, in addition to responding to telephone calls and performs telephone triage of patients.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260483;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Mercyhealth Hospital and Trauma Center-Janesville
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 08:00
+    [subjectID] => 
+)

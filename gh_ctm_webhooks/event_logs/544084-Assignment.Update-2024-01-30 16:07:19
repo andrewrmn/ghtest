@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '978',
+  'Cf-Ray' => '84daf79626626a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By Facility; No Call No Show
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544084
+    [workerID] => 25145
+    [WorkerContactNo] => 601-410-6267
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13727
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-12
+    [workerLastName] => Everett
+    [shiftNum] => 5
+    [workerFirstName] => Shawnkita
+    [cert] => RN
+    [floorDesc] => Obs
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 30 2024 11:07:18
+    [daysPerWeek] => 3
+    [orderNote] => BR:$80lRS:136644
+OnCl:P$3/B$5
+Orient:$20lNonBill:0hrs
+FTK: API no GH timesheets
+    [guaranteedMinimum] => 
+    [workerEmail] => Raquel.everett@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Anderson Regional Medical Center TRAVEL MEDEFIS
+    [shiftDateEnd] => 2024-01-26
+    [shiftStartTime] => 18:45
+    [subjectID] => 
+)

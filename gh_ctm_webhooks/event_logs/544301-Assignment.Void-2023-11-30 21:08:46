@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3471',
+  'Cf-Ray' => '82e61143a50f23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => **Viable candidates willing to work and/or take call on the upcoming holidays will receive priority consideration**Candidate must be a graduate of an accredited surgical technology program. BLS required. CST preferred but not required. Candidate must possess a minimum of current or very recent 2 years of Vascular/CVOR (Open-Heart) experience.   Excellent critical thinking and knowledge of central processing and instrumentation required.   The Surg Tech will work 40 hours/week, either five (5) 8-hour shifts or four (4)10- hour shifts (schedule will be decided in interview) with a weekend, call & possible holiday rotation.  Surg Tech will take at least 2-3 days of call per week (dependent on staffing levels at the time). This could be either Call 1 or Call 2. The weekend call consists of Call 1 and Call 2 every 2nd or 3rd weekend, depending upon staffing. There could be a possible holiday call rotation depending on how the holidays fall during the assignment.   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 544301
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6285
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 30 2023 16:08:44
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261647 ;Status=Open;Association=Genesis Healthcare System ;Client=Genesis Healthcare System ;City=Zanesville ;State=OH ;Zip=43701 ;Start=12/11/2023;End=4/1/2024;Duration=112;Cert=Nursing ;Specialty=Surgical Technologist ;Unit=Surgical Technologist ;Shift=Day shift ;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$92.00;OTRate=102 ;OTRules=By The Week, after 40, ;CallbackRate=102 (All Inclusive Rate + $10) ;HolidayRate=112 (All Inclusive Rate + $20) ;OnCallRateDescription=$10 per hour pager ;Description=**Viable candidates willing to work and/or take call on the upcoming holidays will receive priority consideration**Candidate must be a graduate of an accredited surgical technology program. BLS required. CST preferred but not required. Candidate must possess a minimum of current or very recent 2 years of CVOR (Open-Heart) experience.   Excellent critical thinking and knowledge of central processing and instrumentation required.   The Surg Tech will work 40 hours/week, either five (5) 8-hour shifts or four (4)10- hour shifts (schedule will be decided in interview) with a weekend, call & possible holiday rotation.  Surg Tech will take at least 2-3 days of call per week (dependent on staffing levels at the time). This could be either Call 1 or Call 2. The weekend call consists of Call 1 and Call 2 every 2nd or 3rd weekend, depending upon staffing. There could be a possible holiday call rotation depending on how the holidays fall during the assignment.   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261647;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 92
+    [facilityName] => Genesis Healthcare System
+    [shiftDateEnd] => 2024-04-01
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

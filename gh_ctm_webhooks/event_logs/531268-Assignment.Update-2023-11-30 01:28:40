@@ -1,0 +1,72 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1745',
+  'Cf-Ray' => '82df50a2d7c36a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Position Title: TRAVEL - RN - ONCOLOGY Cost Center 632) - 7:00P
+
+Shift: 12N
+
+Position requires a minimum of 2 years working as a RN in ONCOLOGY with an active license
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Oncol
+    [assignmentid] => 531268
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5449
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 29 2023 20:28:33
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=743850 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=MEDICAL CITY DALLAS (MCD) ;City=Dallas ;State=TX ;Zip=75230 ;Start=10/22/2023;End=1/21/2024;Duration=91;Cert=RN ;Specialty=Oncology ;Unit=NORTH TEXAS DIVISION (17) ;Shift=7:00PM - 7:00AM;# of Postions=1;Type=Travel;BillRate=$65.00;OTRate=73 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Position Title: TRAVEL - RN - ONCOLOGY Cost Center 632) - 7:00P
+
+Shift: 12N
+
+Position requires a minimum of 2 years working as a RN in ONCOLOGY with an active license
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/743850;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Medical City Dallas Hospital Travel
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

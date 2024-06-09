@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '43',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '896',
+  'Cf-Ray' => '85146ebaa5ba1840-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 529836
+    [workerID] => 189791
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3338
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-16
+    [workerLastName] => Long
+    [shiftNum] => 5
+    [workerFirstName] => Angela
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => February, 06 2024 10:30:06
+    [daysPerWeek] => 3
+    [orderNote] => BR:$85lRS:134293lFTK:Kronos
+ChrgDiff:P$1/B$3lOnCl:P$10/B$18
+Orient:$20lNonBill:8hrs
+    [guaranteedMinimum] => 
+    [workerEmail] => long533@aol.com
+    [HoursPerWeekOT] => 8
+    [offContractRate] => 85
+    [facilityName] => Terrebonne General Medical Center-Travel
+    [shiftDateEnd] => 2024-01-13
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,91 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3857',
+  'Cf-Ray' => '82d621ee87eb1465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Looking for a qualified RN for Infusion in the Rheumatology department.
+Schedule is Mon- Thurs
+7:30am- 5:30pm
+13 week contract
+BLS is required
+Skills: Infusion therapy, PICC line care, VAD care, Hickman/Broviac Care & Maintenance.
+EMR: EPIC
+Prior travel experience is preferred but not required
+
+ Modified Time:12/11/2023 12:00:00 AM
+ Account Manager: Lisa Beebe
+ Account Manager Email: Lisa.Beebe@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Med
+ Submittal Details: #Tier2 Travel ComplianceRTOMinimum 1 year experience (depending on job)   willing to take 1st&nbsp;time travelers&nbsp;SC or Compact license required -&nbsp;Nursys&nbsp;must be included&nbsp;Mile Radius Rule Applies: perm address must be 50 miles from facility&nbsp;References Required in the profile&nbsp;Locals Not Accepted&nbsp;Copy of CertificationsMust have EPIC experience for all RN roles&nbsp;Any License or BG hits must be approved by HR&nbsp;Return Staff Policy: Cannot have been a perm staff at any time. Unit manager and HR must approve return&nbsp;Need 2 weeks/ 14 calendar days + (confirm with CL if Quick Starts are okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance.
+    [sitename] => giftednurses
+    [spec] => Infusion
+    [assignmentid] => 545922
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8529
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 16:30
+    [whenmodified] => November, 28 2023 17:43:55
+    [daysPerWeek] => 4
+    [orderNote] => Source=AYA;SourceID=2309314 ;Status=Open;Association=Qualivis Direct ;Client=Lexington Medical Center ;City=West Columbia ;State=SC ;Zip=29169-4816 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Registered Nurse ;Specialty=Infusion ;Unit= ;Shift=Day 3x12-Hour (07:30 - 17:30);# of Postions=1;Type=Travel;BillRate=$80.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Looking for a qualified RN for Infusion in the Rheumatology department.
+Schedule is Mon- Thurs
+7:30am- 5:30pm
+13 week contract
+BLS is required
+Skills: Infusion therapy, PICC line care, VAD care, Hickman/Broviac Care & Maintenance.
+EMR: EPIC
+Prior travel experience is preferred but not required
+
+ Modified Time:12/11/2023 12:00:00 AM
+ Account Manager: Lisa Beebe
+ Account Manager Email: Lisa.Beebe@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Med
+ Submittal Details: #Tier2 Travel ComplianceRTOMinimum 1 year experience (depending on job)   willing to take 1st&nbsp;time travelers&nbsp;SC or Compact license required -&nbsp;Nursys&nbsp;must be included&nbsp;Mile Radius Rule Applies: perm address must be 50 miles from facility&nbsp;References Required in the profile&nbsp;Locals Not Accepted&nbsp;Copy of CertificationsMust have EPIC experience for all RN roles&nbsp;Any License or BG hits must be approved by HR&nbsp;Return Staff Policy: Cannot have been a perm staff at any time. Unit manager and HR must approve return&nbsp;Need 2 weeks/ 14 calendar days + (confirm with CL if Quick Starts are okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2309314/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Lexington Medical Center Travel
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:30
+    [subjectID] => 
+)

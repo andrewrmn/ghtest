@@ -1,0 +1,67 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '72',
+  'Ki-Request-Colo' => '735',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1625',
+  'Cf-Ray' => '872c35f303526165-ORD',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => School
+    [assignmentid] => 509191
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Contract
+    [hoursPerWeek] => 40
+    [facilityID] => 14317
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-06
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => SLP
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => April, 11 2024 12:04:08
+    [daysPerWeek] => 5
+    [orderNote] => These are all 40 hour week positions with time built into the schedule for paperwork--no duty assignments. 
+	All caseloads are approximately 60-65 students. 
+	All schools potentially have a range of general education students needing speech/language therapy as well as 1-2 self contained school-aged special education classes. 
+	Some elementary schools may also have 1-2 pre-k special education classes. 
+	Please understand that the exact school placements are not clearly defined yet. 
+	Those specific determinations will be made mid to late July when the district completes transitioning students to the next grade levels in our system. 
+	Any potential candidates will need to be flexible in understanding that accepting a position may mean that I am not able to tell them the exact school location at this time.
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 64
+    [facilityName] => ESCAMBIA COUNTY SCHOOL DISTRICT
+    [shiftDateEnd] => 2024-05-23
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3348',
+  'Cf-Ray' => '82793e51e35a23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Must be able to scrub for Open Heart Procedures!Cardiovascular (CVOR) Surgical Tech  ***Magnet Recognition; Voted Best Places to Work in AR, four years in a row; Strong Focus on Workplace Culture!***ASAP Start Date Candidates NeededDays: 5-8 hour days; Mon - FriCall Required: Up to 50% of TimeWill assist as needed per the organizations needs.Job Requirements:Education:High School Diploma or equivalentCertification: BLS requiredExperience: 1 year experience as a surgical technologist.Safety Sensitive Designation: This position is deemed safety sensitive in accordance with Arkansas Act 593 governing Medical Marijuana. Note: candidates who have worked for Baxter Regional within the last five years nor who live within a 50 mile radius of Mountain Home, Arkansas will not be considered   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 543511
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3333
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 17 2023 11:10:22
+    [daysPerWeek] => 5
+    [orderNote] => Source=Medefis5;SourceID=261447 ;Status=Open;Association=Baxter Regional Medical Center ;Client=Baxter Regional Medical Center ;City=Mountain Home ;State=AR ;Zip=72653-2955 ;Start=11/9/2023;End=2/8/2024;Duration=91;Cert=Nursing ;Specialty=Surgical Technologist, Scrub Technologist, OR Technologist, Operating Room / Scrub, Open Heart Surgery, CVOR ;Unit=Surgical Technologist, Scrub Technologist, OR Technologist, Operating Room / Scrub, Open Heart Surgery, CVOR ;Shift=Five 8 Hour Shifts, Mon-Fri; On Call Up To 50% of Time;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$100.00;OTRate=110 ;OTRules=By The Week, after 40, ;CallbackRate=110 (All Inclusive Rate + $10) ;HolidayRate=110 (All Inclusive Rate + $10) ;OnCallRateDescription=$6 per hour pager ;Description=Must be able to scrub for Open Heart Procedures!Cardiovascular (CVOR) Surgical Tech  ***Magnet Recognition; Voted Best Places to Work in AR, four years in a row; Strong Focus on Workplace Culture!***ASAP Start Date Candidates NeededDays: 5-8 hour days; Mon - FriCall Required: Up to 50% of TimeWill assist as needed per the organizations needs.Job Requirements:Education:High School Diploma or equivalentCertification: BLS requiredExperience: 1 year experience as a surgical technologist.Safety Sensitive Designation: This position is deemed safety sensitive in accordance with Arkansas Act 593 governing Medical Marijuana. Note: candidates who have worked for Baxter Regional within the last five years nor who live within a 50 mile radius of Mountain Home, Arkansas will not be considered   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261447;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Baxter Regional Medical Center
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

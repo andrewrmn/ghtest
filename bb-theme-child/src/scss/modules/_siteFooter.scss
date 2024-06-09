@@ -1,0 +1,112 @@
+.siteFooter{
+  background: white;
+  padding: 48px 0;
+  border-top: 1px solid #dcdcdc;
+  @include resetFont;
+
+  &__logo{
+    align-self: flex-start;
+    svg{
+      display: block;
+      width: 147px;
+      height: 40px;
+    }
+    svg path{
+      fill: $color-teal;
+    }
+  }
+
+  &__info{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+
+  &__badge{
+    img{
+      display: block;
+      height: 64px;
+      width: auto;
+    }
+  }
+
+  &__title{
+    margin: 0 0 10px;
+    color: $color-gray;
+    font-size: 20px;
+    line-height: 1;
+    font-weight: 600;
+  }
+
+  &__form{
+    .gform_fields{
+      grid-template-columns: 1fr 124px !important;
+      gap: 8px !important;
+      align-items: flex-start;
+    }
+    .gfield--width-half{
+      grid-column: span 1 !important;
+
+      input[type=email]{
+        font-family: inherit;
+        font-size: 16px;
+        line-height: 22px !important;
+        padding:{
+          top: 12px !important;
+          bottom: 12px !important;
+        }
+      }
+    }
+    .gform-button{
+      @extend .ghButton;
+      @extend .ghButton--block;
+      border-width: 1px !important;
+      line-height: 28px !important;
+      font-size: var(--ghButton-font-size) !important;
+    }
+    .gfield_validation_message{
+      border: none !important;
+      background: none !important;
+      padding: 0 !important;
+    }
+    .gform_footer{
+      padding: 0 !important;
+    }
+  }
+
+  &__socials{
+    display: flex;
+    gap: 24px;
+
+    a{
+      display: flex;
+      height: 24px;
+      width: 24px;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none !important;
+    }
+
+    i{
+      font-size: 24px;
+    }
+  }
+
+
+  &__layout{
+    display: grid;
+    grid-template-columns: 1fr 634px;
+    gap: 64px;
+
+    @media screen and (max-width: 1100px){
+      gap: 32px;
+    }
+  }
+
+  @media screen and (max-width: 1024px){
+    &__layout{
+      grid-template-columns: 1fr;
+    }
+  }
+
+}

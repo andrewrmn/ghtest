@@ -1,0 +1,84 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '20',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5332',
+  'Cf-Ray' => '82948b46b047493d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:MISSION HOSPITAL
+TELE NURSE but will consider a MEDSURG with recent
+experience.
+
+
+Mission Hospital
+Mission Hospital is an 815-bed acute care facility located in Asheville, North Carolina. The hospital is known as the regional referral center for tertiary and quaternary care and is the only Level II trauma center, comprehensive stroke center, and children's hospital in western North Carolina.Mission Hospital offers a variety of specialties, including cardiovascular, orthopedics, neurosciences, oncology, pediatrics, women's services, and behavioral health. The hospital's cardiovascular services include the only open heart and interventional cardiology in the region. Mission Hospital is also the second busiest surgical hospital in North Carolina.
+ The quality of the facility's services has earned much recognition, such as being named among the nation's best hospitals by U.S. News &amp; World Report, Truven Health Analytics, and Healthgrades.
+
+The onsite Mission Children's Hospital features 96 beds dedicated to infants and children, including a 51-bed Level III Neonatal ICU. The hospital's pediatric services have also earned numerous awards and accreditations and provides 30 pediatric subspecialists.
+The hospital continues to grow and recently opened a new state-of-the-art patient tower that has over 630,000 square feet, which includes a new Emergency Department, new interventional procedural rooms, new operating rooms, and hosts 220 private patient rooms.
+ Overall, staff members say that Mission Hospital is a great place to work because of the friendly atmosphere, supportive management, and opportunities for growth.Known for its thriving arts community and natural beauty, the city of Asheville is located in western North Carolina along the Blue Ridge Mountains. The city features a bustling downtown, several unique museums, and nationally known restaurants and historical sites. With so much to see and do, you'll find something for everyone in Asheville
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 538277
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11849
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 20 2023 18:41:22
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=764391 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=MISSION HOSPITAL ;City=ASHEVILLE ;State=NC ;Zip=28801 ;Start=10/23/2023;End=1/22/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=NORTH CAROLINA DIVISION (51) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=88 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:MISSION HOSPITAL
+TELE NURSE but will consider a MEDSURG with recent
+experience.
+
+
+Mission Hospital
+Mission Hospital is an 815-bed acute care facility located in Asheville, North Carolina. The hospital is known as the regional referral center for tertiary and quaternary care and is the only Level II trauma center, comprehensive stroke center, and children's hospital in western North Carolina.Mission Hospital offers a variety of specialties, including cardiovascular, orthopedics, neurosciences, oncology, pediatrics, women's services, and behavioral health. The hospital's cardiovascular services include the only open heart and interventional cardiology in the region. Mission Hospital is also the second busiest surgical hospital in North Carolina.
+ The quality of the facility's services has earned much recognition, such as being named among the nation's best hospitals by U.S. News &amp; World Report, Truven Health Analytics, and Healthgrades.
+
+The onsite Mission Children's Hospital features 96 beds dedicated to infants and children, including a 51-bed Level III Neonatal ICU. The hospital's pediatric services have also earned numerous awards and accreditations and provides 30 pediatric subspecialists.
+The hospital continues to grow and recently opened a new state-of-the-art patient tower that has over 630,000 square feet, which includes a new Emergency Department, new interventional procedural rooms, new operating rooms, and hosts 220 private patient rooms.
+ Overall, staff members say that Mission Hospital is a great place to work because of the friendly atmosphere, supportive management, and opportunities for growth.Known for its thriving arts community and natural beauty, the city of Asheville is located in western North Carolina along the Blue Ridge Mountains. The city features a bustling downtown, several unique museums, and nationally known restaurants and historical sites. With so much to see and do, you'll find something for everyone in Asheville
+ General Comments ;url=https://vendor.healthtrustws.com/positions/764391;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mission Hospital Travel
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

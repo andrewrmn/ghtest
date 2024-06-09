@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '43',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '891',
+  'Cf-Ray' => '830fa323a2f31840-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Start Date Change
+    [sitename] => giftednurses
+    [spec] => LTC
+    [assignmentid] => 527457
+    [workerID] => 238406
+    [WorkerContactNo] => 717-819-7513
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 40
+    [facilityID] => 15907
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-09-20
+    [workerLastName] => Ajeh
+    [shiftNum] => 2
+    [workerFirstName] => Victoria
+    [cert] => CNA
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => December, 05 2023 17:13:35
+    [daysPerWeek] => 5
+    [orderNote] => EXTENSION
+FTK:  Facility Kronos Report (Unsigned GTC)
+    [guaranteedMinimum] => 
+    [workerEmail] => vyejeh@yahoo.co.uk
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 55
+    [facilityName] => Schulman & Schachne Institute (RS)
+    [shiftDateEnd] => 2023-12-16
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

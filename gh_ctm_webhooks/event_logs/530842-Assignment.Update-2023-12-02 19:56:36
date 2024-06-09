@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1030',
+  'Cf-Ray' => '82f6225622c923b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => new pay effective 10.29.23.
+	Schulman & Schachne CNA: Bill $48 / Pay $28
+
+Dispo to end assignment 12/2 due to clinician changing to local
+    [sitename] => giftednurses
+    [spec] => LTC
+    [assignmentid] => 530842
+    [workerID] => 248158
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 15908
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-26
+    [workerLastName] => Aquino
+    [shiftNum] => 1
+    [workerFirstName] => Luz del alba
+    [cert] => CNA
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => December, 02 2023 14:56:35
+    [daysPerWeek] => 5
+    [orderNote] => EXTENSION
+BR:$48lRS:134491lFTK:Kronos/GiftedTC(unsigned)
+    [guaranteedMinimum] => 
+    [workerEmail] => aquinobeltre@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 48
+    [facilityName] => Schulman & Schachne Institute (RS) TRAVEL
+    [shiftDateEnd] => 2023-12-02
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,90 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '20',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3677',
+  'Cf-Ray' => '8289998d6018493d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+1 need for a circulator RN in surgical services. FT hours will be 0630-1500 plus callparseGeneralComments Comments
+.bd_title { font-weight: bold }
+Reason for opening (special, internal vacancy, leave coverage) Leave of absence
+          		******************************************************************************* 
+          		How long has it been open? 
+          		Will position be required to float to other units? No
+          		Number of beds in your facility? 108
+          		Years of experience required? 1 year required, 2 years preferred
+          		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) 
+          		Willing to review clinicians with pending state license? No
+          		Is there anyone in the past that has worked for you that you would consider rehiring? 
+          		What is the work schedule for this position? (days needed, hours or shift) 
+			EMR for your facility: 
+          		Scrub colors / dress code: Navy Blue, any style any brand
+			Parking location:  Contact: CHS MSP HOUSE Resource Manager: Suhani Desai
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 220109
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 8782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-05-31
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 19 2023 10:48:41
+    [daysPerWeek] => 5
+    [orderNote] => Source=Parallon;SourceID=470355 ;Status=Open;Association=CHS ;Client=Cedar Park Regional Medical Center ;City=Cedar Park ;State=TX ;Zip=78613 ;Start=5/10/2021;End=8/9/2021;Duration=91;Cert=(RN) ;Specialty=Operating Room (OR) ;Unit=OPERATING ROOM ;Shift=6:30 AM - 3:00 PM;# of Postions=1;Type=Travel;BillRate=$72.70;Description=Position Description
+1 need for a circulator RN in surgical services. FT hours will be 0630-1500 plus callparseGeneralComments Comments
+.bd_title { font-weight: bold }
+Reason for opening (special, internal vacancy, leave coverage) Leave of absence
+          		******************************************************************************* 
+          		How long has it been open? 
+          		Will position be required to float to other units? No
+          		Number of beds in your facility? 108
+          		Years of experience required? 1 year required, 2 years preferred
+          		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) 
+          		Willing to review clinicians with pending state license? No
+          		Is there anyone in the past that has worked for you that you would consider rehiring? 
+          		What is the work schedule for this position? (days needed, hours or shift) 
+			EMR for your facility: 
+          		Scrub colors / dress code: Navy Blue, any style any brand
+			Parking location:  Contact: CHS MSP HOUSE Resource Manager: Suhani Desai ;Buyer=CHS MSP HOUSE ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=470355#!/position/manage/470355;VMSPositionType=Travel InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 72.7
+    [facilityName] => Cedar Park Regional Medical Center
+    [shiftDateEnd] => 2021-08-30
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

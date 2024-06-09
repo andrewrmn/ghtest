@@ -1,0 +1,94 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2334',
+  'Cf-Ray' => '83f425a28587183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => CRT or RRT
+ASAP Start
+Nights 3x12
+1900- 0700
+13 weeks
+Must be Certified/Registered in AR
+
+ Modified Time:7/5/2022 4:00:00 AM
+ Account Manager: Lisa Beebe
+ Account Manager Email: Lisa.Beebe@qualivis.com
+ Over Time Multiplier: 
+ Over Time Rule: 
+ Call Back: 
+ Charge: 
+ Holiday: 
+ Submittal Details: #Tier1 Crisis ComplianceNeed  3 days at minimum lead time from BOOKING to START to account for crisis compliance
+ COVID-19 Vaccine: Unknown
+ Flu Vaccine: Unknown
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 390978
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10628
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-07-05
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RRT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 02 2024 10:48:29
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=1715317 ;Status=Open;Association=Qualivis EPA ;Client=Ouachita County Medical Center Crisis Response ;City=Camden ;State=AR ;Zip=71701 ;Start=7/5/2022;End=10/4/2022;Duration=91;Cert=Respiratory / Neuro Diagnostics ;Specialty=RRT ;Unit=Respiratory ;Shift=Night 3x12-Hour (19:00 - 07:00);# of Postions=1;Type=Travel;BillRate=$140.00;OTRules=48 total hours in 1 week : 1.25% ;Orientation=Non-Billable Orientation: 16 Hours ;Description=CRT or RRT
+ASAP Start
+Nights 3x12
+1900- 0700
+13 weeks
+Must be Certified/Registered in AR
+
+ Modified Time:7/5/2022 4:00:00 AM
+ Account Manager: Lisa Beebe
+ Account Manager Email: Lisa.Beebe@qualivis.com
+ Over Time Multiplier: 
+ Over Time Rule: 
+ Call Back: 
+ Charge: 
+ Holiday: 
+ Submittal Details: #Tier1 Crisis ComplianceNeed  3 days at minimum lead time from BOOKING to START to account for crisis compliance
+ COVID-19 Vaccine: Unknown
+ Flu Vaccine: Unknown ;url=https://app.ayaconnect.com/index.html#/vendor/job/1715317/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 140
+    [facilityName] => Ouachita County Medical Center - TRAVEL
+    [shiftDateEnd] => 2022-10-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,75 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1819',
+  'Cf-Ray' => '829bce7c36b51836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => NICU RN 
+
+Weekend Day Shift 
+Friday, Saturday, and Sunday (7am-7pm)
+
+36hr/wk
+
+**Please note that NICU travelers will be floated to PEDS and PICU if needed to care for patients <2 years in age and also to the ED to help with sitter needs if necessary.**
+    [sitename] => giftednurses
+    [spec] => NICU 3
+    [assignmentid] => 544952
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15840
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-19
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 21 2023 15:50:42
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=46601 ;Status=In-Progress (O);Association=Trinity Health ;Client=IA - MercyOne Des Moines Medical Center ;City=Des Moines ;State=IA ;Zip=50314 ;Start=12/19/2023;End=3/16/2024;Duration=88;Cert=RN NICU ;Specialty=NICU ;Unit=Iowa/Des Moines/NICU RN/WKND DAYS ;Shift=7a7p;# of Postions=2;Type=Travel;BillRate=$83.00;OTRate=107.90 ;ChargeRate=86.00 ;CallbackRate=107.90 ;HolidayRate=107.90 ;Orientation=0.00 ;Description=NICU RN 
+
+Weekend Day Shift 
+Friday, Saturday, and Sunday (7am-7pm)
+
+36hr/wk
+
+**Please note that NICU travelers will be floated to PEDS and PICU if needed to care for patients <2 years in age and also to the ED to help with sitter needs if necessary.** ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 83
+    [facilityName] => MercyOne Des Moines Medical Center (Trinity) TRAVEL
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

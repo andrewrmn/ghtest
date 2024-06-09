@@ -1,0 +1,324 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8850',
+  'Cf-Ray' => '82d37b7536b01830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name MS Neurosurgery - Mercy Hospital St. Louis - RN III - Mercy Hospital St. Louis
+  
+Facility Mercy
+  
+Location Mercy Hospital St. Louis
+  
+Unit Medical Surgical Unit
+  
+Cost Center 154006089
+  
+  SHIFT INFO  
+Shift Days
+  
+Shifts per week
+ 
+4 x 12 / 7a -7:30 p
+  
+Ratio 4-6:1 on days
+  
+
+Opportunity (not required) for short term charge fill-in if interested - please note charge willingness on submittal cover sheet
+
+  EXPERIENCE  
+Years of Experience One Year + inpatient Acute care
+  
+Specialties
+  
+Med-Surg
+-
+required
+ Neuro
+-
+required
+  
+
+
+  CERTIFICATIONS  
+BLS
+ 
+required
+
+NIHSS stroke certification - required before start
+
+  
+
+FLU
+and
+COVID-19:
+
+
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.
+
+  DESCRIPTION  
+Qualifications: 
+  
+Education: ASN or BSN 
+  
+Licensure: Currently licensed in the state of Missouri. 
+  
+Overview: Utilizes the nursing process to provide patient care in a Neurosurgical unit. The unit focuses on the care of patients with stroke, seizures, MS, back/head/spinal and other neurological diagnoses or neurosurgery procedures. Maintains professional accountability for provision of patient care for the assigned patients. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information.
+ General CommentsPotential same day offers, depending on time of submittal
+**AUTO OFFER GUIDELINES**
+
+
+
+ 
+
+
+
+
+
+
+
+ Requested time off
+  up to 5 days will be approved in the offer sent to the vendor by Healthtrust.
+ Anything more will have to be reviewed and approved by the team at St. Louis.
+ HWS will ask the candidate to make up approved time off at the back of the assignment
+
+ 
+
+
+
+
+
+
+
+ Guarantee of hours
+ 
+ 36 or 48 hour guarantee is approved and preference must be noted on submittal cover sheet.
+ Note, for a 48 hour guarantee, overtime would not apply until after 48 hours worked in a week
+
+ 
+
+
+
+
+
+
+
+ Duration of assignment
+  HWS will offer 13-30 weeks; preference should be listed on submittal cover sheet
+
+ 
+
+
+
+
+
+
+
+ Block scheduling
+  is considered and will be accommodated to the ability of the unit needs.
+ Requests must be listed on submittal cover sheet, this will not be negotiable once assignment is accepted.
+                
+
+
+
+St. Louis Hospital Offering Nationally Recognized Care
+Mercy Hospital St. Louis has been a healing presence in the St. Louis region for more than 150 years. Today, we continue providing compassionate medical and specialty care on our centrally located campus at I-270 and
+I-64/US 40.
+We offer all-private rooms and the peace of mind of our nationally-recognized care. Mercy's hospital in St. Louis has been recognized numerous times including:
+CMS Five-Star HospitalLeapfrog Straight A Hospital2020 Top Hospital Award
+by Leapfrog
+100 Top Hospital by Watson Health
+Level I Time Critical Diagnosis
+(TCD) STEMI CenterTop 50 Nation s Best Hospital
+by Newsweek magazine
+Featured Medical Services
+
+At Mercy Hospital St. Louis, you have an entire care team bringing a wealth of expertise to you on one campus. Our
+St. Louis hospital specialty services
+include oncology, cardiovascular care, obstetrics, women s health, pediatrics, emergency services, burn care, stroke care, behavioral health, home health and many others.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 530028
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8384
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-13
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 28 2023 10:00:44
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=757714 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital St Louis ;City=Saint Louis ;State=MO ;Zip=63141 ;Start=11/15/2023;End=2/14/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=Mercy ;Shift=07:00-19:30;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Name MS Neurosurgery - Mercy Hospital St. Louis - RN III - Mercy Hospital St. Louis
+  
+Facility Mercy
+  
+Location Mercy Hospital St. Louis
+  
+Unit Medical Surgical Unit
+  
+Cost Center 154006089
+  
+  SHIFT INFO  
+Shift Days
+  
+Shifts per week
+ 
+4 x 12 / 7a -7:30 p
+  
+Ratio 4-6:1 on days
+  
+
+Opportunity (not required) for short term charge fill-in if interested - please note charge willingness on submittal cover sheet
+
+  EXPERIENCE  
+Years of Experience One Year + inpatient Acute care
+  
+Specialties
+  
+Med-Surg
+-
+required
+ Neuro
+-
+required
+  
+
+
+  CERTIFICATIONS  
+BLS
+ 
+required
+
+NIHSS stroke certification - required before start
+
+  
+
+FLU
+and
+COVID-19:
+
+
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.
+
+  DESCRIPTION  
+Qualifications: 
+  
+Education: ASN or BSN 
+  
+Licensure: Currently licensed in the state of Missouri. 
+  
+Overview: Utilizes the nursing process to provide patient care in a Neurosurgical unit. The unit focuses on the care of patients with stroke, seizures, MS, back/head/spinal and other neurological diagnoses or neurosurgery procedures. Maintains professional accountability for provision of patient care for the assigned patients. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information.
+ General CommentsPotential same day offers, depending on time of submittal
+**AUTO OFFER GUIDELINES**
+
+
+
+ 
+
+
+
+
+
+
+
+ Requested time off
+  up to 5 days will be approved in the offer sent to the vendor by Healthtrust.
+ Anything more will have to be reviewed and approved by the team at St. Louis.
+ HWS will ask the candidate to make up approved time off at the back of the assignment
+
+ 
+
+
+
+
+
+
+
+ Guarantee of hours
+ 
+ 36 or 48 hour guarantee is approved and preference must be noted on submittal cover sheet.
+ Note, for a 48 hour guarantee, overtime would not apply until after 48 hours worked in a week
+
+ 
+
+
+
+
+
+
+
+ Duration of assignment
+  HWS will offer 13-30 weeks; preference should be listed on submittal cover sheet
+
+ 
+
+
+
+
+
+
+
+ Block scheduling
+  is considered and will be accommodated to the ability of the unit needs.
+ Requests must be listed on submittal cover sheet, this will not be negotiable once assignment is accepted.
+                
+
+
+
+St. Louis Hospital Offering Nationally Recognized Care
+Mercy Hospital St. Louis has been a healing presence in the St. Louis region for more than 150 years. Today, we continue providing compassionate medical and specialty care on our centrally located campus at I-270 and
+I-64/US 40.
+We offer all-private rooms and the peace of mind of our nationally-recognized care. Mercy's hospital in St. Louis has been recognized numerous times including:
+CMS Five-Star HospitalLeapfrog Straight A Hospital2020 Top Hospital Award
+by Leapfrog
+100 Top Hospital by Watson Health
+Level I Time Critical Diagnosis
+(TCD) STEMI CenterTop 50 Nation s Best Hospital
+by Newsweek magazine
+Featured Medical Services
+
+At Mercy Hospital St. Louis, you have an entire care team bringing a wealth of expertise to you on one campus. Our
+St. Louis hospital specialty services
+include oncology, cardiovascular care, obstetrics, women s health, pediatrics, emergency services, burn care, stroke care, behavioral health, home health and many others.
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/757714;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Mercy Hospital St. Louis - HT
+    [shiftDateEnd] => 2024-03-13
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

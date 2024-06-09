@@ -1,0 +1,78 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '28',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1729',
+  'Cf-Ray' => '8435c45b10e6495d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN TELE
+
+
+7:00PM- 7:00AM13 WEEKS
+
+MUST HAVE 2 YEARS EXPERIENCE IN A HOSPITAL SETTINGMUST HAVE VA LICENSE AT SUBMISSION
+BLS/ACLS
+ REQUIRED
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 541301
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5508
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 10 2024 09:56:29
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771095 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=CJW MEDICAL -JOHNSTON-WILLIS CAMPUS VA ;City=RICHMOND ;State=VA ;Zip=23235 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$85.00;minBillRate=$85.00;OTRate=93 ;CallbackRate=93 ;HolidayRate=93 ;Orientation=0 ;Description=Description:TRAVEL RN TELE
+
+
+7:00PM- 7:00AM13 WEEKS
+
+MUST HAVE 2 YEARS EXPERIENCE IN A HOSPITAL SETTINGMUST HAVE VA LICENSE AT SUBMISSION
+BLS/ACLS
+ REQUIRED
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/771095;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => CJW Johnston-Willis Hospital
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

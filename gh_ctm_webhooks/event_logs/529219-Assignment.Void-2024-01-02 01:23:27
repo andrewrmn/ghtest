@@ -1,0 +1,119 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '9325',
+  'Cf-Ray' => '83ef3260222423c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Location:	St. Louis 6 Med Surg
+
+Role/Title: 	RN
+
+
+Shift &amp; Hours: 48 hours a week - 4 x 12 nights
+
+
+Experience:
+ 1+ years
+
+
+
+Flu &amp; COVID-19:
+
+Mercy requires all travelers to be fully vaccinated prior to start.
+ There are no exemptions.
+
+
+
+
+
+6 Medical Surgical Unit is a 57 bed unit and largest unit at Mercy Hospital St. Louis.  On our unit, you will work with a vast adult patient population with variety of diagnoses while using your nursing skills on a daily basis. We work in collaboration with the entire care team to help patients recover and return home or transition to a nursing facility.  We are looking for compassionate and hardworking nurses who thrive in a fast-paced environment, built on a strong foundation of teamwork.
+ General CommentsOverview: Utilizes the nursing process to provide patient care under the supervision of person(s) licensed by a State regulatory board to prescribe medication and treatment. Maintains professional accountability for provision of patient care for assigned patients. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards.
+
+
+ Responsibilities              Involves patient and/or significant others in decisions regarding care              Admission and discharge processes              Performs patient assessments as indicated by the patient s condition or policy              Performs patient hand offs utilizing patient safety tools (ex. SBAR, Report at Bedside, etc.) both from shift-to-shift and interdepartmentally as directed              Performs patient rounding, based on patient need and departmental guidelines              Facilitates communication of pertinent findings including significant changes in patient condition to provider in a timely manner              Maintains effective communication through appropriate utilization of the chain of command              Communicates subjective and objective data about the patient/family and/or significant others with appropriate members of the multidisciplinary team              Evaluates patient response to care and in determining progress toward achievement of outcomes, and documents nursing interventions toward the patient/family promoting optimal health, healing, or dignified end of life when appropriate              Provides and appropriately documents the educational needs and learning abilities of the patient and/or significant others during the admission and subsequent assessments in the computerized care plan              Collaborating with the provider(s), prioritizes care delivery according to the patients' needs and unit activities              Delegates, guides, and directs UAP's in tasks and is responsible for the care provided according to their documented competencies              Maintains relevant knowledge of Scope of Practice and Delegation limitations and follows policies/procedures              Completes hospital and required nursing competencies, mandatory in-services/MyEducation assignments and relevant certifications (ex. BLS, ACLS, PALS, etc.) within required time frame              Stays up to date on unit huddles, email, and other unit-based communications              Participates in Process Improvement activities such as data collection, in-services, and meetings as appropriate and required              Participates in a hospital committee, special project or service as requested (ex. preceptor to student, new coworker, or UAP; participate on nursing practice team)              Participates in programs and projects directed toward own growth and development              Performs other duties as assigned or requested
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 529219
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8384
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-21
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 01 2024 20:23:26
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=736357 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital St Louis ;City=Saint Louis ;State=MO ;Zip=63141 ;Start=12/20/2023;End=3/20/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=Mercy ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$80.00;minBillRate=$80.00;OTRate=88 ;CallbackRate=88 ;HolidayRate=88 ;Orientation=0 ;Description=Description:Location: St. Louis 6 Med Surg
+
+Role/Title:  RN
+
+
+Shift &amp; Hours: 48 hours a week - 4 x 12 nights
+
+
+Experience:
+ 2+ years Med Surg RN experience
+
+
+Auto Offer for the right candidate
+
+Ratio: 1:4-6High Acuity / Very fast paced unitBlock schedule when possible - no guaranteesEPIC experience HIGHLY preferredNo Charge requiredBLS certification
+
+
+Flu:
+
+Mercy requires all travelers to be fully vaccinated prior to start.
+ There are no exemptions.
+
+
+
+
+
+6 Medical Surgical Unit is a 57 bed unit and largest unit at Mercy Hospital St. Louis.  On our unit, you will work with a vast adult patient population with variety of diagnoses while using your nursing skills on a daily basis. We work in collaboration with the entire care team to help patients recover and return home or transition to a nursing facility.  We are looking for compassionate and hardworking nurses who thrive in a fast-paced environment, built on a strong foundation of teamwork.
+ General CommentsOverview: Utilizes the nursing process to provide patient care under the supervision of person(s) licensed by a State regulatory board to prescribe medication and treatment. Maintains professional accountability for provision of patient care for assigned patients. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards.
+
+
+ Responsibilities              Involves patient and/or significant others in decisions regarding care              Admission and discharge processes              Performs patient assessments as indicated by the patient s condition or policy              Performs patient hand offs utilizing patient safety tools (ex. SBAR, Report at Bedside, etc.) both from shift-to-shift and interdepartmentally as directed              Performs patient rounding, based on patient need and departmental guidelines              Facilitates communication of pertinent findings including significant changes in patient condition to provider in a timely manner              Maintains effective communication through appropriate utilization of the chain of command              Communicates subjective and objective data about the patient/family and/or significant others with appropriate members of the multidisciplinary team              Evaluates patient response to care and in determining progress toward achievement of outcomes, and documents nursing interventions toward the patient/family promoting optimal health, healing, or dignified end of life when appropriate              Provides and appropriately documents the educational needs and learning abilities of the patient and/or significant others during the admission and subsequent assessments in the computerized care plan              Collaborating with the provider(s), prioritizes care delivery according to the patients' needs and unit activities              Delegates, guides, and directs UAP's in tasks and is responsible for the care provided according to their documented competencies              Maintains relevant knowledge of Scope of Practice and Delegation limitations and follows policies/procedures              Completes hospital and required nursing competencies, mandatory in-services/MyEducation assignments and relevant certifications (ex. BLS, ACLS, PALS, etc.) within required time frame              Stays up to date on unit huddles, email, and other unit-based communications              Participates in Process Improvement activities such as data collection, in-services, and meetings as appropriate and required              Participates in a hospital committee, special project or service as requested (ex. preceptor to student, new coworker, or UAP; participate on nursing practice team)              Participates in programs and projects directed toward own growth and development              Performs other duties as assigned or requested
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/736357;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital St. Louis - HT
+    [shiftDateEnd] => 2024-04-21
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

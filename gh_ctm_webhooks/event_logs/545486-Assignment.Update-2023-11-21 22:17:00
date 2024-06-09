@@ -1,0 +1,216 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6590',
+  'Cf-Ray' => '829c4cd19075183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Unit Highlights: IMPORTANT SHIFT INFORMATION
+
+Hospital:
+ Methodist Stone Oak Hospital
+
+Location: San Antonio
+
+Unit: Neuro M/S (614)
+
+Classification: RN-M/S
+
+Shift Detail:
+
+
+
+Building/Floor/Suite information of unit: 
+
+General Information
+
+Shift Details- Please correct information below
+ if needed:
+
+
+
+
+Assignment Length: 13 weeks
+Weekend   Every OtherCall Requirements: NoneGuaranteed Hours: 36 Hrs.Special Skills/Experience required: 2 Years +Other Helpful or Misc. Information:
+
+***All travelers are required to float, while on the interview please inform traveler of the Methodist Floating Policy***
+
+
+
+
+Unit Specifics - Information below is requested for better sourcing:
+
+
+
+Number of Beds : 14 ICU, 20 Med/SurgPatient Ratios : 1:2 in ICU, 1:5 in Med/SurgUnit staffing description- 1 PCA, 1 UCType of equipment : standardDocumentation system: MeditechScheduling requirements: every other weekend. We have had a lot of issues with call-in s and no-show. Please do not send candidates that have had attendance issues.Floating policy: As needed
+
+
+
+Hiring profile
+
+Requested Skill Set:
+
+
+
+
+Must have: (candidates without these skills will not be considered for the role)
+Must Have BLS At least 2+ years of ExperienceNIH REQUIRED
+Preferred Skills/Advanced Skills Needed: (candidates with these skills will be considered first)
+Meditech Experience 
+
+
+
+Specialty/Unit Certifications Required: (RN)
+Active TX RN License-Temp License are no longer accepted
+
+
+
+Procedures performed on unit:
+ 
+
+
+
+
+
+Dress Code: Include requirements, but most of all not acceptable attire.
+Scrub ColorRN: Navy-scrub top and pant, Navy or white scrub jacketNail Policy   Clean and HealthyHair - hair should be neat and clean with no extreme styles or colors. Beards, mustaches and sideburns should be clean and neatly trimmedTattoos   Body art should be covered whenever possible. Body art that is not feasible to cover on a daily basis will be addressed individuallyPiercings   Visible piercings other than ears, is prohibited
+Unit Guidelines/Policies: 
+Floating GuidelinesMethodist Acknowledgement FormAttendance Policies
+Any additional information that would entice a worker to select your unit for their assignment: 
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc. 
+
+Awesome, cohesive
+ General CommentsLocal Fill
+2925371
+ No. of Positions: 2/2.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545486
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5539
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 21 2023 17:16:44
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=756576 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=METHODIST STONE OAK HOSPITAL ;City=San Antonio ;State=TX ;Zip=78258 ;Start=10/16/2023;End=1/15/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=SAN ANTONIO DIVISION (39) ;Shift=7:00PM – 7:00AM ;# of Postions=2;Type=Travel;BillRate=$70.00;OTRate=85 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:Unit Highlights: IMPORTANT SHIFT INFORMATION
+
+Hospital:
+ Methodist Stone Oak Hospital
+
+Location: San Antonio
+
+Unit: Neuro M/S (614)
+
+Classification: RN-M/S
+
+Shift Detail:
+
+
+
+Building/Floor/Suite information of unit: 
+
+General Information
+
+Shift Details- Please correct information below
+ if needed:
+
+
+
+
+Assignment Length: 13 weeks
+Weekend   Every OtherCall Requirements: NoneGuaranteed Hours: 36 Hrs.Special Skills/Experience required: 2 Years +Other Helpful or Misc. Information:
+
+***All travelers are required to float, while on the interview please inform traveler of the Methodist Floating Policy***
+
+
+
+
+Unit Specifics - Information below is requested for better sourcing:
+
+
+
+Number of Beds : 14 ICU, 20 Med/SurgPatient Ratios : 1:2 in ICU, 1:5 in Med/SurgUnit staffing description- 1 PCA, 1 UCType of equipment : standardDocumentation system: MeditechScheduling requirements: every other weekend. We have had a lot of issues with call-in s and no-show. Please do not send candidates that have had attendance issues.Floating policy: As needed
+
+
+
+Hiring profile
+
+Requested Skill Set:
+
+
+
+
+Must have: (candidates without these skills will not be considered for the role)
+Must Have BLS At least 2+ years of ExperienceNIH REQUIRED
+Preferred Skills/Advanced Skills Needed: (candidates with these skills will be considered first)
+Meditech Experience 
+
+
+
+Specialty/Unit Certifications Required: (RN)
+Active TX RN License-Temp License are no longer accepted
+
+
+
+Procedures performed on unit:
+ 
+
+
+
+
+
+Dress Code: Include requirements, but most of all not acceptable attire.
+Scrub ColorRN: Navy-scrub top and pant, Navy or white scrub jacketNail Policy   Clean and HealthyHair - hair should be neat and clean with no extreme styles or colors. Beards, mustaches and sideburns should be clean and neatly trimmedTattoos   Body art should be covered whenever possible. Body art that is not feasible to cover on a daily basis will be addressed individuallyPiercings   Visible piercings other than ears, is prohibited
+Unit Guidelines/Policies: 
+Floating GuidelinesMethodist Acknowledgement FormAttendance Policies
+Any additional information that would entice a worker to select your unit for their assignment: 
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc. 
+
+Awesome, cohesive
+ General CommentsLocal Fill
+2925371
+ No. of Positions: 2/2.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/756576;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Methodist Stone Oak Hospital Travel
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

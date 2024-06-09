@@ -1,0 +1,90 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2834',
+  'Cf-Ray' => '8280fa4562531832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => No weekends. 
+
+
+
+ Modified Time:12/7/2023 12:00:00 AM
+
+ Account Manager: Shannon Steely
+
+ Account Manager Email: Ssteely@ayahealthcare.com
+
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Med
+
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel.
+    [sitename] => giftednurses
+    [spec] => Sterile Processing Tech 
+    [assignmentid] => 544989
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13890
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-07
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => Sterile Processing Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => November, 18 2023 09:42:00
+    [daysPerWeek] => 5
+    [orderNote] => Source=AYA;SourceID=2303069 ;Status=Open;Association=Vaya Legacy MSP (Connect) ;Client=LCMC Health University Medical Center New Orleans ;City=New Orleans ;State=LA ;Zip=70112 ;Start=12/7/2023;End=3/7/2024;Duration=91;Cert=Surgical Services ;Specialty=Sterile Processing Tech (SPT) ;Unit=50094 - UMCSterile Processing - Central Sterile Tech ;Shift=Night 5x8-Hour (03:00 - 23:30);# of Postions=3;Type=Travel;BillRate=$40.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=No weekends. 
+
+
+
+ Modified Time:12/7/2023 12:00:00 AM
+
+ Account Manager: Shannon Steely
+
+ Account Manager Email: Ssteely@ayahealthcare.com
+
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Med
+
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2303069/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 40
+    [facilityName] => University Medical Center of New Orleans TRV VAYA
+    [shiftDateEnd] => 2024-03-07
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

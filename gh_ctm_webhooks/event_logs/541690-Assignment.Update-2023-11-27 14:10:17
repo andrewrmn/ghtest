@@ -1,0 +1,104 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '29',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4205',
+  'Cf-Ray' => '82caf41c970e4961-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:THIS POSITION IS AUTO-OFFER
+Unit:
+Neuro Trauma Intermediate PCU 6D
+- Mercy Hospital Springfield
+Specialty: Step Down/PCU
+Role/Title: RN
+Shift: Days, 0700-1900
+
+Guaranteed Hours: 36
+Assignment Length: 8-26 weeks
+- must be indicated on submission form
+ALL CONTINGENCY REQUESTS MUST BE ON THE SUBMISSION FORMRequired Licensure:
+Current RN
+License (Meets the criteria to be eligible for licensure in state of Missouri or currently licensed in the state of Missouri.)
+Required Certifications:
+BLS and ACLS from AHA only
+Required Experience:
+1 year Step Down/PCU
+Must be willing to float when neededMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsWorking Condition, Mental and Physical Requirements: Stand and walk most of the time on duty. Meet unit specific demands. Significant amount of bending and stooping as well as lifting and turning patients with assistance. May be required to work differing schedules, shifts days of the week according to patient care assignments. Physical demands include push/pull and grip up to 50 pounds.
+
+Other: To ensure patient safety it is mandatory that all licensed co-workers who provide direct patient care pass a medication and math competency test before assuming medication administration responsibilities. This exam will cover knowledge of the actions and side effects of commonly used drugs
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Stepdown
+    [assignmentid] => 541690
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13126
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 27 2023 09:10:14
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771999 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Springfield ;City=Springfield ;State=MO ;Zip=65804 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=RN ;Specialty=Step Down ;Unit=Mercy ;Shift=07:00-19:00;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:THIS POSITION IS AUTO-OFFER
+Unit:
+Neuro Trauma Intermediate PCU 6D
+- Mercy Hospital Springfield
+Specialty: Step Down/PCU
+Role/Title: RN
+Shift: Days, 0700-1900
+
+Guaranteed Hours: 36
+Assignment Length: 8-26 weeks
+- must be indicated on submission form
+ALL CONTINGENCY REQUESTS MUST BE ON THE SUBMISSION FORMRequired Licensure:
+Current RN
+License (Meets the criteria to be eligible for licensure in state of Missouri or currently licensed in the state of Missouri.)
+Required Certifications:
+BLS and ACLS from AHA only
+Required Experience:
+1 year Step Down/PCU
+Must be willing to float when neededMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsWorking Condition, Mental and Physical Requirements: Stand and walk most of the time on duty. Meet unit specific demands. Significant amount of bending and stooping as well as lifting and turning patients with assistance. May be required to work differing schedules, shifts days of the week according to patient care assignments. Physical demands include push/pull and grip up to 50 pounds.
+
+Other: To ensure patient safety it is mandatory that all licensed co-workers who provide direct patient care pass a medication and math competency test before assuming medication administration responsibilities. This exam will cover knowledge of the actions and side effects of commonly used drugs
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/771999;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital Springfield TRAVEL
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

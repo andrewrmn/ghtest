@@ -1,0 +1,80 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '43',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5695',
+  'Cf-Ray' => '82cd400707c71840-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 2 years of experience
+
+
+ Modified Time:12/11/2023 8:00:00 AM
+ Account Manager: Bryce Halleck
+ Account Manager Email: Bryce.Halleck@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceStandard Qualivis Cover Sheet completed and filled in; please submit candidate's interview availability within cover sheet in the notes section.All RTO to be discussed during interview and must be included at time of submissionTravelers may be submitted for 1 job at a time within the Cleveland Clinic Health System&nbsp;Minimum of 18 months PERMANENT experience in SPECIALTY applying for prior to travel.Must have a PERMANENT Ohio license in hand at time of submission. Compact licenses are accepted for any starts 1/1/23 and forward.*TWO references from a manager, ANM, supervisor or director in the specialty applying for are REQUIRED to qualify for submission. Please no co-worker references, these will not be considered, and profile will be rejected.&nbsp;References must be from assignments worked in the past 12 months.Required certifications need to be ACTIVE with nothing pending.&nbsp;PBDS Assessment is waived. ECG rhythm recognition test and safeMedicate will be completed during orientation, an acceptable score on both assessments is required. Traveler will receive 2 attempts maximum to pass, otherwise will be canceled.BG hits of any kind are reviewed by the facility but will not accept any traveler with an open caseFacility does not accept any license hits.EFFECTIVE 9/30/22: Nurses and CSTs are EXEMPT from Nicotine Free Facility Requirements. Exemption is temporary and will be honored until further notice.&nbsp;All other travelers (aside from Nurses and CSTs) MUST BE NICOTINE FREE - Negative 10 Panel + Nicotine (Cotinine) Drug screen required within 12 months of start. Must be updated annually.Permanent and per diem candidates cannot return to Cleveland Clinic hospitals for 1 year from their previous end date.Please submit profiles to bryce.halleck@qualivis.com and cc michelle.perelli@qualivis.com
+    [sitename] => giftednurses
+    [spec] => X-Ray
+    [assignmentid] => 544052
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 9454
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 27 2023 15:51:35
+    [daysPerWeek] => 4
+    [orderNote] => Source=AYA;SourceID=2307832 ;Status=Open;Association=Qualivis Ohio ;Client=Union Hospital ;City=Dover ;State=OH ;Zip=44622-2077 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Radiology / Cardiology ;Specialty=X-Ray Tech ;Unit=Orthopaedic Care-Radiology Office, 2076-2081-14456 ;Shift=Day 2x9.5-Hour (08:00 - 15:30);# of Postions=1;Type=Travel;BillRate=$110.00;OTRules=40 total hours in 1 week : 1.3% ;Orientation=40 ;Description=2 years of experience
+***Part time shifts at the Orthopedic Care Center
+
+
+ Modified Time:12/11/2023 8:00:00 AM
+ Account Manager: Bryce Halleck
+ Account Manager Email: Bryce.Halleck@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceStandard Qualivis Cover Sheet completed and filled in; please submit candidate's interview availability within cover sheet in the notes section.All RTO to be discussed during interview and must be included at time of submissionTravelers may be submitted for 1 job at a time within the Cleveland Clinic Health System&nbsp;Minimum of 18 months PERMANENT experience in SPECIALTY applying for prior to travel.Must have a PERMANENT Ohio license in hand at time of submission. Compact licenses are accepted for any starts 1/1/23 and forward.*TWO references from a manager, ANM, supervisor or director in the specialty applying for are REQUIRED to qualify for submission. Please no co-worker references, these will not be considered, and profile will be rejected.&nbsp;References must be from assignments worked in the past 12 months.Recent travel reference is REQUIREDRequired certifications need to be ACTIVE with nothing pending.&nbsp;PBDS Assessment is waived. ECG rhythm recognition test and safeMedicate will be completed during orientation, an acceptable score on both assessments is required. Traveler will receive 2 attempts maximum to pass, otherwise will be canceled.BG hits of any kind are reviewed by the facility but will not accept any traveler with an open caseFacility does not accept any license hits.EFFECTIVE 9/30/22: Nurses and CSTs are EXEMPT from Nicotine Free Facility Requirements. Exemption is temporary and will be honored until further notice.&nbsp;All other travelers (aside from Nurses and CSTs) MUST BE NICOTINE FREE - Negative 10 Panel + Nicotine (Cotinine) Drug screen required within 12 months of start. Must be updated annually.Permanent and per diem candidates cannot return to Cleveland Clinic hospitals for 1 year from their previous end date.Please submit profiles to bryce.halleck@qualivis.com and cc michelle.perelli@qualivis.com ;url=https://app.ayaconnect.com/index.html#/vendor/job/2307832/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => Union Hospital Dover OH
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

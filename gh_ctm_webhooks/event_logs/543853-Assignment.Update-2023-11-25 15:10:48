@@ -1,0 +1,132 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4597',
+  'Cf-Ray' => '82bad20a70f21465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Cardiac Tele Unit- 5 Center
+Shift: 3, 12Hr 19:00 - 07:00
+Ratios:
+Years of experience REQ: 
+First-timers accepted: (Y/N) 
+Weekend REQ: 
+Certs REQ: BLS/ACLS required 
+Is on-call REQ? (Y/N) What is the req? 
+Will clinician float within scope to meet facility needs?  *Will be asked to float to other MS/Tele units  this is required 
+Open to accommodating block schedule?  
+Locals accepted: (Y/N) What is the local radius rule? 
+Pending State License accepted: (Y/N)
+RTO Restrictions:  
+Guaranteed Hours: (if it s over 36/hrs for 13 weeks):  
+Comments: 
+ 5 Center- Telemetry Unit - AUTO OFFER
+Nights 7p   7a
+*Please make sure RTO is in the submittal
+Facility almost always extends! 
+13 Weeks 
+Hospital Highlights 
+Type of Facility:  
+Magnet, Major Teaching, & Level I Trauma Center:  
+Scrub Color: RNs: Galaxy or Cobalt Blue; Imaging: Navy Blue; Nuclear Med Tech: Ceil Blue; RRT/CRT: Black; Surgical Services/EP Lab: Provided; Lab: Caribbean Blue
+Parking Cost:  Parking information is covered in first day instructions. Staff park on-site and parking is free
+
+
+
+
+
+ Modified Time:11/27/2023 12:00:00 AM
+ Account Manager: Lisa Beebe
+ Account Manager Email: Lisa.Beebe@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel Compliance* Local Travelers are accepted at the same bill rateMinimum 1 year experienceWill hire without a licenseWill hire with pending licenseNursys or other license verification must be includedAll MS candidates will be part of a resource pool, floating to 5 MS and 4 Tele unitStaff RNs cannot return to facility as travelers
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 543853
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3576
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 25 2023 10:10:46
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2301648 ;Status=Open;Association=Qualivis EPA ;Client=AnMed Health Medical Center ;City=Anderson ;State=SC ;Zip=29621-5793 ;Start=11/27/2023;End=3/11/2024;Duration=105;Cert=Registered Nurse ;Specialty=Telemetry ;Unit=5 Center - Cardiac Telemetry ;Shift=Night 3x12-Hour (19:00 - 07:00);# of Postions=1;Type=Travel;BillRate=$85.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Cardiac Tele Unit- 5 Center
+Shift: 3, 12Hr 19:00 - 07:00
+Ratios:
+Years of experience REQ: 
+First-timers accepted: (Y/N) 
+Weekend REQ: 
+Certs REQ: BLS/ACLS required 
+Is on-call REQ? (Y/N) What is the req? 
+Will clinician float within scope to meet facility needs?  *Will be asked to float to other MS/Tele units  this is required 
+Open to accommodating block schedule?  
+Locals accepted: (Y/N) What is the local radius rule? 
+Pending State License accepted: (Y/N)
+RTO Restrictions:  
+Guaranteed Hours: (if it s over 36/hrs for 13 weeks):  
+Comments: 
+ 5 Center- Telemetry Unit - AUTO OFFER
+Nights 7p   7a
+*Please make sure RTO is in the submittal
+Facility almost always extends! 
+13 Weeks 
+Hospital Highlights 
+Type of Facility:  
+Magnet, Major Teaching, & Level I Trauma Center:  
+Scrub Color: RNs: Galaxy or Cobalt Blue; Imaging: Navy Blue; Nuclear Med Tech: Ceil Blue; RRT/CRT: Black; Surgical Services/EP Lab: Provided; Lab: Caribbean Blue
+Parking Cost:  Parking information is covered in first day instructions. Staff park on-site and parking is free
+
+
+
+
+
+ Modified Time:11/27/2023 12:00:00 AM
+ Account Manager: Lisa Beebe
+ Account Manager Email: Lisa.Beebe@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel Compliance* Local Travelers are accepted at the same bill rateMinimum 1 year experienceWill hire without a licenseWill hire with pending licenseNursys or other license verification must be includedAll MS candidates will be part of a resource pool, floating to 5 MS and 4 Tele unitStaff RNs cannot return to facility as travelers ;url=https://app.ayaconnect.com/index.html#/vendor/job/2301648/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => AnMed Health Medical Center
+    [shiftDateEnd] => 2024-03-31
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

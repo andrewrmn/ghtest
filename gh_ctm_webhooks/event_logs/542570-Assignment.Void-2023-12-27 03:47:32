@@ -1,0 +1,91 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7827',
+  'Cf-Ray' => '83be9529961577bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => A.	Assesses the patient's physical, psychosocial, environmental, spiritual, social and education needs.  Develops and implements patient's plan of care, including collaboration of the discharge plan based on evidence-based practice standards, health center policy, and patient/family needs.  Reviews and updates the plan of care based on changes in patient's condition.
+B.	Evaluates and documents patient/family responses to nursing interventions while working collaboratively with the interdisciplinary team to achieve desired patient care outcomes.  Provides or facilitates learning opportunities to meet the educational needs of patient/family by assessing the learning needs and formulating and initiating a teaching plan to meet those needs.
+C.	Effectively communicates pertinent patient changes/conditions to co-workers and to multidisciplinary caregivers.  Delegates and supervises patient care activities within the scope of practice of the healthcare worker to meet the patient care needs for the above-indicated population.
+D.	 Identifies and acts to solve problems, supports process improvement teams, which influence customer satisfaction clinical outcomes and financial stability.
+E.	Documents patient information in the electronic/paper medical record, at the bedside and as soon as possible, in an accurate, timely manner. 
+F.	Maintains active logons/passwords for computer software systems that support patient care and education.  
+G.	Supports, positively, the ever-changing health care environment by supporting technology and process changes.  Willing to learn new things, is open to change and maintains a calm positive manner under stressful conditions.  
+H.	Serves as a steward for the hospital s human and material resources.  Meets productivity expectations of unit/department as defined by Clinical Leader/Chief Nursing Officer.
+I.	Recognizes personal learning and development needs. Participates in developing yearly performance goals. Creates a plan for professional or personal growth.  Responsible for maintaining certification/licensure requirements as directed by position.
+J.	Maintains required department confidentiality and abides by HIPPA regulations.
+K.	Provides competent patient care to the above-indicated patient populations by obtaining and appropriately interpreting data, making appropriate decisions based on demonstrated knowledge of age-specific growth and development, and appropriately adapting procedures and treatments.
+L.	Takes an active role in enhancing ability to carry out job functions through personal and professional/job-related growth and development and participates in medical center and/or departmental education programs.
+M.	Communicates with and performs duties following the philosophy of MercyOne New Hampton Medical Center and the Sisters of Mercy reflecting the organization s Mission, Vision, Values, and Cultural Beliefs.
+N.	Supports and abides by all medical center, departmental and safety policies and procedures.  Proactively identifies safety concerns surrounding the work environment. 
+O.	Will perform chart audits and charge audits as assigned.
+P.	Performs other responsibilities as requested by the Clinical Leader, Chief Nursing Officer, Charge Nurse or designee.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 542570
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15848
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 26 2023 22:47:30
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=47572 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne New Hampton Medical Center ;City=New Hampto ;State=IA ;Zip=50659 ;Start=11/26/2023;End=2/24/2024;Duration=90;Cert=RN Medical / Surgical ;Specialty=Med Surg ;Unit=*Registered Nurse-Med Surg-Med Surg ;Shift=7p7a;# of Postions=1;Type=Travel;BillRate=$74.00;OTRate=96.20 ;ChargeRate=77.00 ;CallbackRate=96.20 ;HolidayRate=96.20 ;Description=A.	Assesses the patient's physical, psychosocial, environmental, spiritual, social and education needs.  Develops and implements patient's plan of care, including collaboration of the discharge plan based on evidence-based practice standards, health center policy, and patient/family needs.  Reviews and updates the plan of care based on changes in patient's condition.
+B.	Evaluates and documents patient/family responses to nursing interventions while working collaboratively with the interdisciplinary team to achieve desired patient care outcomes.  Provides or facilitates learning opportunities to meet the educational needs of patient/family by assessing the learning needs and formulating and initiating a teaching plan to meet those needs.
+C.	Effectively communicates pertinent patient changes/conditions to co-workers and to multidisciplinary caregivers.  Delegates and supervises patient care activities within the scope of practice of the healthcare worker to meet the patient care needs for the above-indicated population.
+D.	 Identifies and acts to solve problems, supports process improvement teams, which influence customer satisfaction clinical outcomes and financial stability.
+E.	Documents patient information in the electronic/paper medical record, at the bedside and as soon as possible, in an accurate, timely manner. 
+F.	Maintains active logons/passwords for computer software systems that support patient care and education.  
+G.	Supports, positively, the ever-changing health care environment by supporting technology and process changes.  Willing to learn new things, is open to change and maintains a calm positive manner under stressful conditions.  
+H.	Serves as a steward for the hospital s human and material resources.  Meets productivity expectations of unit/department as defined by Clinical Leader/Chief Nursing Officer.
+I.	Recognizes personal learning and development needs. Participates in developing yearly performance goals. Creates a plan for professional or personal growth.  Responsible for maintaining certification/licensure requirements as directed by position.
+J.	Maintains required department confidentiality and abides by HIPPA regulations.
+K.	Provides competent patient care to the above-indicated patient populations by obtaining and appropriately interpreting data, making appropriate decisions based on demonstrated knowledge of age-specific growth and development, and appropriately adapting procedures and treatments.
+L.	Takes an active role in enhancing ability to carry out job functions through personal and professional/job-related growth and development and participates in medical center and/or departmental education programs.
+M.	Communicates with and performs duties following the philosophy of MercyOne New Hampton Medical Center and the Sisters of Mercy reflecting the organization s Mission, Vision, Values, and Cultural Beliefs.
+N.	Supports and abides by all medical center, departmental and safety policies and procedures.  Proactively identifies safety concerns surrounding the work environment. 
+O.	Will perform chart audits and charge audits as assigned.
+P.	Performs other responsibilities as requested by the Clinical Leader, Chief Nursing Officer, Charge Nurse or designee. ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 74
+    [facilityName] => Mercy Medical Center - New Hampton Travel
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

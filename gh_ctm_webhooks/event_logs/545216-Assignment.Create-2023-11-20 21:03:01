@@ -1,0 +1,344 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5507',
+  'Cf-Ray' => '8293a31ff39923b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Unit Information:
+   IR Tech (727)             Location: 
+HCA Florida Aventura Hospital             
+Address: 
+20900 Biscayne Blvd. Aventura, FL
+ 33180
+         
+Floor: n/a
+             
+Building: Main 
+         
+Cost Center: 727
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+   Number of Beds:
+ n/a
+   
+ 
+
+
+
+
+
+   Number of Staff:
+ n/a
+   
+ 
+
+
+
+
+
+   Type of Staff:
+ n/a
+   
+o
+
+   Day Shift: n/a
+   
+o
+
+   Night Shift: n/a
+   
+ 
+
+
+
+
+
+   Patient Ratios   1:1
+   
+ 
+
+
+
+
+
+   Type of Equipment: IR equipment and   supplies
+   
+ 
+
+
+
+
+
+   Documentation System: Meditech 
+   
+ 
+
+
+
+
+
+   Call Requirements: On call required;
+Regular shift is 7am-5:30pm, call starts after regular shift from 5:30pm-7am the follow morning. Weekend call is 24hr. We ask for a minimum of 10 call shifts per month depending on staffing.
+             Typical Hiring Profile             
+   
+Must Have: (candidates without these skills will not be considered for this   role)
+   
+ 
+
+
+
+
+
+ Certified Rad Tech
+   
+ 
+
+
+
+
+
+ Prior experience in Interventional   Radiology Specials
+   
+
+
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+   Interventional Radiology 
+   Additional Preferences: (ex:   previous travel experience preferred, easily adaptable to fast paced unit,   can function well independently)   
+ 
+
+
+
+
+
+   
+n/a
+             
+Dress Code:
+   
+ 
+
+
+
+
+
+   Surgical   scrubs provided
+             Awards/Recognition: 
+Feel free to include items such as   links to videos that feature the department, outstanding department/team   awards, etc.
+    
+ 
+
+
+
+
+
+ n/a
+ General Comments
+ No. of Positions: 2/2.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 545216
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 2820
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:30
+    [whenmodified] => November, 20 2023 16:02:46
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=774001 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA FLORIDA AVENTURA HOSPITAL ;City=AVENTURA ;State=FL ;Zip=33180 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Special Procedures Tech ;Specialty=Radiology ;Unit=EAST FLORIDA DIVISION (22) ;Shift=7:00AM - 5:30PM;# of Postions=2;Type=Travel;BillRate=$90.00;OTRate=98 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Unit Information:
+   IR Tech (727)             Location: 
+HCA Florida Aventura Hospital             
+Address: 
+20900 Biscayne Blvd. Aventura, FL
+ 33180
+         
+Floor: n/a
+             
+Building: Main 
+         
+Cost Center: 727
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+   Number of Beds:
+ n/a
+   
+ 
+
+
+
+
+
+   Number of Staff:
+ n/a
+   
+ 
+
+
+
+
+
+   Type of Staff:
+ n/a
+   
+o
+
+   Day Shift: n/a
+   
+o
+
+   Night Shift: n/a
+   
+ 
+
+
+
+
+
+   Patient Ratios   1:1
+   
+ 
+
+
+
+
+
+   Type of Equipment: IR equipment and   supplies
+   
+ 
+
+
+
+
+
+   Documentation System: Meditech 
+   
+ 
+
+
+
+
+
+   Call Requirements: On call required;
+Regular shift is 7am-5:30pm, call starts after regular shift from 5:30pm-7am the follow morning. Weekend call is 24hr. We ask for a minimum of 10 call shifts per month depending on staffing.
+             Typical Hiring Profile             
+   
+Must Have: (candidates without these skills will not be considered for this   role)
+   
+ 
+
+
+
+
+
+ Certified Rad Tech
+   
+ 
+
+
+
+
+
+ Prior experience in Interventional   Radiology Specials
+   
+
+
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+   Interventional Radiology 
+   Additional Preferences: (ex:   previous travel experience preferred, easily adaptable to fast paced unit,   can function well independently)   
+ 
+
+
+
+
+
+   
+n/a
+             
+Dress Code:
+   
+ 
+
+
+
+
+
+   Surgical   scrubs provided
+             Awards/Recognition: 
+Feel free to include items such as   links to videos that feature the department, outstanding department/team   awards, etc.
+    
+ 
+
+
+
+
+
+ n/a
+ General Comments
+ No. of Positions: 2/2.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/774001;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Aventura Hospital & Medical Center
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

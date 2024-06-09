@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2423',
+  'Cf-Ray' => '83f42583c3fa4951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Weekdays, Holidays, Some Weekends, Possible Extension Job Description:                                Labor/Delivery/Post-Partum RN needed for a 13 week assignment. Shift: 6:45a-7:15p. weekdays, some weekends, holidays. Requirements: 2 years L&D + travel experience, IV start, intermediate, BCLS, ACLS, Med Host/Centricity Perinatal. ***Bill Rates: $70, OT/HOL +$15, On-call $5, Charge $3***Please submit all qualified candidates using the Qualivis Candidate Submission Cover. Minimal or no RTO.                                 Additional Requirements:                                BCLS,ACLS, Med Host, Centricity Perinatal.https://jobboard.qualivis.com/Details.aspx?PositionId=11116
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 38321
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 37.5
+    [facilityID] => 10628
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2018-10-22
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:15
+    [whenmodified] => January, 02 2024 10:48:29
+    [daysPerWeek] => 3
+    [orderNote] => SCHA ; 11116 ; Open ; Ouachita County Medical Center ; L&D ; 1 ; ASAP ; December 3, 2018 ; 91 ; L&D ; Camden ; AR ; 6:45A - 7:15P ; 1 ; Weekdays, Holidays, Some Weekends, Possible Extension Job Description:                                Labor/Delivery/Post-Partum RN needed for a 13 week assignment. Shift: 6:45a-7:15p. weekdays, some weekends, holidays. Requirements: 2 years L&D + travel experience, IV start, intermediate, BCLS, ACLS, Med Host/Centricity Perinatal. ***Bill Rates: $70, OT/HOL +$15, On-call $5, Charge $3***Please submit all qualified candidates using the Qualivis Candidate Submission Cover. Minimal or no RTO.                                 Additional Requirements:                                BCLS,ACLS, Med Host, Centricity Perinatal.https://jobboard.qualivis.com/Details.aspx?PositionId=11116 ; RNSP3 ; Ouachita County Medical Center ; 71701 ; https://jobboard.qualivis.com/Details.aspx?PositionId=11116 ; 578 ; 0 ; 638 California Avenue ; 0 ; 0 ;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => Ouachita County Medical Center - TRAVEL
+    [shiftDateEnd] => 2019-01-21
+    [shiftStartTime] => 06:45
+    [subjectID] => 
+)

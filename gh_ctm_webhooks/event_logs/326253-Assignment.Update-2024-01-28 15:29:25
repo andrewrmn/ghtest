@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3152',
+  'Cf-Ray' => '84ca4556a28b77bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 12/10/2021 1207 CSTJennifer Carner
+                            
+                            
+                                CST (Certified Surgical Assistant) $95.00 - Duration: 13 Weeks - Shift: Days 6am-2:30pm, 40 hours/week - Call Rotation: Yes - Weekend Rotation: E/O - EMR: Cerner - Experience in gynecology, orthopedic, and robotic surgery, 4 hours call 2-3 times per week. Call is immediately following regular shift, no weekends. - 2 full years of experience in specific specialty. Cerner exp a plus. All travelers must be willing to float to sister facilities. Only float when necessary. All must be fully vaccinated with covid 19 and flu and proof of vaccinations must be in the sub packets. At least 1 Travel contract required for submittal. IVS w/Offer. Navy blue scrubs will be required.
+ RatePlan:AH-Covid 19 RN rates (8-25-2021)
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 326253
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 9548
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-01-31
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => January, 28 2024 10:29:16
+    [daysPerWeek] => 5
+    [orderNote] => Source=ShiftWise;SourceID=9611046 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Hays Medical Center ;City=Kyle ;State=TX ;Zip=78640 ;Start=1/3/2022;End=4/2/2022;Duration=90;Cert=Certified Surgical Asst ;Specialty=Surgical Care Assistant ;Unit=SMCH Surgery ;Shift=AM 8.00 Hrs;# of Postions=1;Type=Travel;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=12/10/2021 1207 CSTJennifer Carner
+                            
+                            
+                                CST (Certified Surgical Assistant) $95.00 - Duration: 13 Weeks - Shift: Days 6am-2:30pm, 40 hours/week - Call Rotation: Yes - Weekend Rotation: E/O - EMR: Cerner - Experience in gynecology, orthopedic, and robotic surgery, 4 hours call 2-3 times per week. Call is immediately following regular shift, no weekends. - 2 full years of experience in specific specialty. Cerner exp a plus. All travelers must be willing to float to sister facilities. Only float when necessary. All must be fully vaccinated with covid 19 and flu and proof of vaccinations must be in the sub packets. At least 1 Travel contract required for submittal. IVS w/Offer. Navy blue scrubs will be required.
+ RatePlan:AH-Covid 19 RN rates (8-25-2021) ;url=https://automated.shiftwise.net/esp/order.aspx?order_id=C319E62BEF345372C42213B8C8669493;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => Ascension Seton Hays
+    [shiftDateEnd] => 2022-04-30
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

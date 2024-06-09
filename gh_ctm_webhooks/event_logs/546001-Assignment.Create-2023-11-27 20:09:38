@@ -1,0 +1,146 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '10103',
+  'Cf-Ray' => '82cd028e434c23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Administer nursing care to patients in an efficient, safe, and courteous manner using proper nursing procedures. Supports the patient and family in the dying process. Performs an admission assessment and subsequent assessments. Completes required documentation. Addresses the patient s learning ability and needs. Develops a care plan. Enters orders by computer and participates in the daily operation of the Acute Care Unit. Attends required in-service, annual education and mandatory departmental meetings. Participates in the collection of data for quality improvement. Adheres to hospital and departmental policies. Practices good communication between departments, with physicians, each other, the director and clinical supervisor. The staff member must be able to demonstrate the knowledge and skills necessary to provide care appropriate to the age of the patients served on his or her assigned unit. The individual must demonstrate knowledge of the principles of growth and development over the life span and possess the ability to assess data reflective of the patient's status. They must be able to interpret the appropriate information needed to identify each patient's requirements relative to his or her age-specific needs, and to provide the care needed as described in the unit's/area's/department's policies and procedures.ESSENTIAL FUNCTIONSNursing Practice
+1.  Complete a head to toe physical assessment and a social assessment of the patient upon admission.
+
+2.  Develop a written Care Plan upon admission and review and update it daily.
+
+3.  Initiate cardiac monitoring, oxygen therapy, non-invasive blood pressure, and oximetry. Start/or evaluate IV site. Evaluate existing drainage systems in place.
+
+4.  Perform delivery of nursing care via the nursing process: assessment (collection of data), problem identification (nursing diagnosis), planning, nursing interventions and evaluation and updating of planning.
+
+5.  Re-assess patient to identify progress and trends that require intervention or reporting to the physician. 
+
+6.  Assist patient, physician and peers in determining long and short-range goals for patient and formulating a plan to work toward those goals.
+
+7.  Assist Critical Care RN with telemetry monitoring and maintain knowledge of basic arrhythmia interpretation.
+
+8.  Operate and manage equipment including the following: IV pumps, PCA pumps, feeding pumps, telemetry monitors, CPAP and Bi-PAP machines, defibrillators and Doppler.
+
+9.  Provide routine patient care. Perform blood draw from central lines. Interpret computerized monitor trends.
+
+10. Administer medications, calculate doses and maintain current knowledge of medications.
+
+11. Maintain knowledge of the patient's status during hospitalization and work with health care team to adjust and improve approach to recovery. Utilize critical thinking skills for appropriate patient interventions.
+
+12. Carry out and document medical and nursing treatment, nursing care, interventions and outcomes in a timely and accurate manner. 
+
+13. Complete documentation necessary for transition between statuses, including to swing bed. 
+
+14. Assist physicians in care of the patients. Make rounds, assist with procedures, provide progress reports on patient status, and assure that orders are carried out.
+
+15. Follow procedure for medication administration and narcotics control. Utilize EMAR, scans and use 2 sources of patient ID before all medications and procedures. 
+
+16. Assume professional responsibility for assuring patient care is of the highest standards possible.
+
+17. Communicate questions about appropriateness of medical or nursing care through chain of command, as needed, utilizing the SBAR form of communication. 
+
+18. Ensure that consents are obtained when needed, and that all records are signed and legally complete. Ensure completion of time out procedures as appropriate. 
+
+19. Complete incident and error forms when appropriate.
+
+20. Assess the patient s learning needs. Educate the patient and family.
+
+21. Treat patients and their families with respect and dignity. 
+
+22. Practice within Nursing Standards of Practice and follow standards of patient care  CRH Policies and Procedures. Adhere to MD orders.   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 546001
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8564
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 27 2023 15:09:37
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262183 ;Status=Open;Association=Cody Regional Health ;Client=Cody Regional Health ;City=Cody ;State=WY ;Zip=82414 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Nursing ;Specialty=ACU ;Unit=ACU ;Shift=12 hour nights;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$95.00;OTRate=105 ;OTRules=By The Week, after 40, ;HolidayRate=105 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=Administer nursing care to patients in an efficient, safe, and courteous manner using proper nursing procedures. Supports the patient and family in the dying process. Performs an admission assessment and subsequent assessments. Completes required documentation. Addresses the patient s learning ability and needs. Develops a care plan. Enters orders by computer and participates in the daily operation of the Acute Care Unit. Attends required in-service, annual education and mandatory departmental meetings. Participates in the collection of data for quality improvement. Adheres to hospital and departmental policies. Practices good communication between departments, with physicians, each other, the director and clinical supervisor. The staff member must be able to demonstrate the knowledge and skills necessary to provide care appropriate to the age of the patients served on his or her assigned unit. The individual must demonstrate knowledge of the principles of growth and development over the life span and possess the ability to assess data reflective of the patient's status. They must be able to interpret the appropriate information needed to identify each patient's requirements relative to his or her age-specific needs, and to provide the care needed as described in the unit's/area's/department's policies and procedures.ESSENTIAL FUNCTIONSNursing Practice
+1.  Complete a head to toe physical assessment and a social assessment of the patient upon admission.
+
+2.  Develop a written Care Plan upon admission and review and update it daily.
+
+3.  Initiate cardiac monitoring, oxygen therapy, non-invasive blood pressure, and oximetry. Start/or evaluate IV site. Evaluate existing drainage systems in place.
+
+4.  Perform delivery of nursing care via the nursing process: assessment (collection of data), problem identification (nursing diagnosis), planning, nursing interventions and evaluation and updating of planning.
+
+5.  Re-assess patient to identify progress and trends that require intervention or reporting to the physician. 
+
+6.  Assist patient, physician and peers in determining long and short-range goals for patient and formulating a plan to work toward those goals.
+
+7.  Assist Critical Care RN with telemetry monitoring and maintain knowledge of basic arrhythmia interpretation.
+
+8.  Operate and manage equipment including the following: IV pumps, PCA pumps, feeding pumps, telemetry monitors, CPAP and Bi-PAP machines, defibrillators and Doppler.
+
+9.  Provide routine patient care. Perform blood draw from central lines. Interpret computerized monitor trends.
+
+10. Administer medications, calculate doses and maintain current knowledge of medications.
+
+11. Maintain knowledge of the patient's status during hospitalization and work with health care team to adjust and improve approach to recovery. Utilize critical thinking skills for appropriate patient interventions.
+
+12. Carry out and document medical and nursing treatment, nursing care, interventions and outcomes in a timely and accurate manner. 
+
+13. Complete documentation necessary for transition between statuses, including to swing bed. 
+
+14. Assist physicians in care of the patients. Make rounds, assist with procedures, provide progress reports on patient status, and assure that orders are carried out.
+
+15. Follow procedure for medication administration and narcotics control. Utilize EMAR, scans and use 2 sources of patient ID before all medications and procedures. 
+
+16. Assume professional responsibility for assuring patient care is of the highest standards possible.
+
+17. Communicate questions about appropriateness of medical or nursing care through chain of command, as needed, utilizing the SBAR form of communication. 
+
+18. Ensure that consents are obtained when needed, and that all records are signed and legally complete. Ensure completion of time out procedures as appropriate. 
+
+19. Complete incident and error forms when appropriate.
+
+20. Assess the patient s learning needs. Educate the patient and family.
+
+21. Treat patients and their families with respect and dignity. 
+
+22. Practice within Nursing Standards of Practice and follow standards of patient care  CRH Policies and Procedures. Adhere to MD orders.   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262183;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => West Park Hospital - TRAVEL
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

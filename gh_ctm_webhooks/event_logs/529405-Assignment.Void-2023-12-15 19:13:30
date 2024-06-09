@@ -1,0 +1,282 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4102',
+  'Cf-Ray' => '83610111443923c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN ERDAYS13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General Comments
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 529405
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2869
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-01
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 15 2023 14:13:29
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=741919 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HENRICO DOCTORS HOSPITAL-PARHAM VA ;City=RICHMOND ;State=VA ;Zip=23294 ;Start=12/10/2023;End=3/10/2024;Duration=91;Cert=RN ;Specialty=Emergency Dept ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM - 7:00AM;# of Postions=2;Type=Travel;BillRate=$80.00;minBillRate=$80.00;OTRate=88 ;CallbackRate=88 ;HolidayRate=88 ;Orientation=0 ;Description=Description:TRAVEL RN ER7:00PM -7:00AM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS/ACLS/PALS/NIH REQUIRED
+ General CommentsUnit Information: Parham   Emergency Department             Location: Parham Doctors  Hospital             
+Address:
+ 7700 E.   Parham Road, Richmond, Va. 23294
+         
+Floor: 1st Floor ED
+             
+Building: Emergency Room
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds  18 beds
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   27
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   8 RN s, 2 LPN, 1 STARN, 3 FT/   PT Nurse Extern, 3 Nurse extern prn, 1 Secretary, 4PCT s
+   
+o
+
+
+   Night Shift - 4 RN, 1 LPN, 2 Nurse   Extern PRN
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   5/6:1
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment - GE monitors, EKG,   Kiosk, time stamper, Welch Allyn, handheld radios, immobile
+   
+ 
+
+
+
+
+
+
+
+   EMR -Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   Emergency room experience
+   
+ 
+
+
+
+
+
+
+
+   BLS, ACLS, PALS, NIH
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+More than 2 years
+   
+ 
+
+
+
+
+
+
+
+   
+Triage, TNCC, ENPC
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+
+All Emergency room skills
+    
+
+
+
+
+
+
+
+   
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Professionalism, integrity, commitment
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   BLS, ACLS,   PALS NIH
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   NONE
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire - All Navy or White
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+
+
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   Every other   weekend
+ No. of Positions: 2/2. ;url=https://vendor.healthtrustws.com/positions/741919;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Henrico Doctors Hospital 
+    [shiftDateEnd] => 2024-04-01
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

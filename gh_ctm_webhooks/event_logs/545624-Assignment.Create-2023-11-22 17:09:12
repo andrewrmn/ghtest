@@ -1,0 +1,70 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5626',
+  'Cf-Ray' => '82a2c76154826a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Mercy Lincoln (Troy, MO) - Mammography Tech - Mercy Hospital Lincoln
+
+Certifications: ARRT(M), BLS Job Summary:  Responsibilities Performs professional mammography and other women's services on a daily basis under general supervision utilizing approved policies and procedures. In a caring and compassionate manner, positions and immobilizes patients according to department  policy and procedures to ensure optimum quality mammograms. Consistently selects appropriate technical factors as recommended by the manufacturer using  prescribed radiation safety practices. Ensures all digital data is input into the system correctly and sent to appropriate stations for completion. Chooses correct patient name identifier from the worklist on the acquisition work station using double identifiers for patient safety. Performs pre-examination tasks in accordance with approved protocols of the imaging center. Reviews all requisitions/orders and radiology reports to ensure accuracy and applicable clinical information. Prepares the rooms and all equipment in advance to meet the needs of each patient. Completes and ensures accuracy of all data entry and record keeping. Maintains all appropriate records and files while using confidentiality guidelines in all necessary activities. Checks that all mammography images are accurately marked for correct positioning as required by the ACR/FDA guidelines. Inputs all data into the information system required for exam completion and correct billing. Updates patient chart with current reports and history sheets for Radiologist review. Maintains confidentiality . Completes and maintains assigned procedures and policies that are required by the FDA and the American College of Radiology. Maintains current CME's as required by the FDA mammography registry and the ARRT registry. Maintains requirement for number of mammography patients to be performed every three years as required by the FDA/MQSA guidelines. Assists, when needed, any mammography quality assurance tasks. Performs other tasks and services associated with the Breast Center.
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Mamography
+    [assignmentid] => 545624
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8972
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 22 2023 12:09:12
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=777678 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Lincoln ;City=Troy ;State=MO ;Zip=63379 ;Start=12/4/2023;End=2/12/2024;Duration=70;Cert=Mammography Tech ;Specialty=Radiology ;Unit=Mercy ;Shift=07:00-19:00;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Mercy Lincoln (Troy, MO) - Mammography Tech - Mercy Hospital Lincoln
+
+Certifications: ARRT(M), BLS Job Summary:  Responsibilities Performs professional mammography and other women's services on a daily basis under general supervision utilizing approved policies and procedures. In a caring and compassionate manner, positions and immobilizes patients according to department  policy and procedures to ensure optimum quality mammograms. Consistently selects appropriate technical factors as recommended by the manufacturer using  prescribed radiation safety practices. Ensures all digital data is input into the system correctly and sent to appropriate stations for completion. Chooses correct patient name identifier from the worklist on the acquisition work station using double identifiers for patient safety. Performs pre-examination tasks in accordance with approved protocols of the imaging center. Reviews all requisitions/orders and radiology reports to ensure accuracy and applicable clinical information. Prepares the rooms and all equipment in advance to meet the needs of each patient. Completes and ensures accuracy of all data entry and record keeping. Maintains all appropriate records and files while using confidentiality guidelines in all necessary activities. Checks that all mammography images are accurately marked for correct positioning as required by the ACR/FDA guidelines. Inputs all data into the information system required for exam completion and correct billing. Updates patient chart with current reports and history sheets for Radiologist review. Maintains confidentiality . Completes and maintains assigned procedures and policies that are required by the FDA and the American College of Radiology. Maintains current CME's as required by the FDA mammography registry and the ARRT registry. Maintains requirement for number of mammography patients to be performed every three years as required by the FDA/MQSA guidelines. Assists, when needed, any mammography quality assurance tasks. Performs other tasks and services associated with the Breast Center.
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/777678;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital Lincoln - Travel
+    [shiftDateEnd] => 2024-02-12
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

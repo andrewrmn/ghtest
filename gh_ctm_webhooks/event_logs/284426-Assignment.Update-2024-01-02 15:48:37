@@ -1,0 +1,120 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5186',
+  'Cf-Ray' => '83f425b1120e183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => AUTO OFFER
+
+CRT/RRT
+ASAP
+13-weeks
+Friday, Saturday, Sunday 7a-7p
+
+COVID - Yes
+Weekends - Yes, every other
+
+SCREENING CRITERIA:
+  BLS
+  CRT
+  ER & ICU Experience in acute care setting
+  Vent management
+  O2 therapy
+  Airway management
+  Respiratory treatments
+  Suctioning
+  1 year of experience
+
+
+ Modified Time:9/20/2021 4:51:02 PM
+ Account Manager: Heather Ryan
+ Account Manager Email: Heather.Ryan@qualivis.com
+ Over Time Multiplier: 1.25x
+ Over Time Rule: Overtime after 48.00 Hours per week
+ Call Back: 1.00x
+ Charge: $3.00 Bump
+ Holiday: 1.25x
+ Submittal Details: #Tier1 Crisis ComplianceNeed  3 days at minimum lead time from BOOKING to START to account for crisis compliance
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 284426
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10628
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-10-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RRT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 02 2024 10:48:29
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=1459132 ;Status=Open;Association=Qualivis Enhanced PA ;Client=Ouachita County Medical Center Crisis Response ;City=Camden ;State=AR ;Zip=71701 ;Start=10/11/2021;End=1/10/2022;Duration=91;Cert=Respiratory / Neuro Diagnostics ;Specialty=CRT ;Unit=CRT ;Shift=Day (12 Hours) 7:00 19:00;# of Postions=2;Type=Travel;BillRate=$160.00;OTRate=1.25x ;OTRules=Overtime after 48.00 Hours per week ;ChargeRate=$3.00 Bump ;CallbackRate=1.00x ;HolidayRate=1.25x ;OnCallRateDescription=$5.00 ;Orientation=Non-Billable Orientation: 16 Hours If requested by Client, or as otherwise mutually agreed upon in writing between Agency and Client, Agency shall provide to Client an invoice credit for an Agency Staff orientation in accordance with the pertinent schedule:i) up to sixteen (16) hours for Travel / Contract Agency Staff;ii) up to eight (8) hours for Local, Per Diem, Critical, and Rapid Response Agency Staff;iii) for categories of Agency Staff not listed in this subsection as mutually agreed upon in writing between Agency and Client.Clients often offer CPR, ACLS, etc. classes. Should an Agency Staff voluntarily attend a hospital class, the Client will not be billed for the hours spent in class; however, notwithstanding the foregoing, Agency shall be responsible for compensating Agency Staff for all hours worked, including overtime hours, in accordance with applicable federal and state wage and hour law, and Agency shall have the responsibility for compensation of Agency Staff in accordance with applicable law. If a Client requires an Agency Staff attendance at a class, then the Client will be billed for the hours spent in class.From Schedule A1: Regardless of the method of orientation, and at the Client s discretion, Agency shall provide Client with an invoice credit of up to sixteen (16) hours, or as otherwise may be negotiated between Agency and Client, for contract/travel Staff at non-overtime rates for orientation time on Agency s next invoice to Client. Orientation hours may include time spent by Agency Staff in completion of Client-mandated pre-start testing or other compliance requirements. Agency acknowledges that Agency Staff will be appropriately oriented for each Client unit or department.Notwithstanding the foregoing, Agency shall be responsible for compensating for all hours worked by an Agency Staff candidate who prepares for and attends any such orientation in accordance with applicable federal and state wage and hour law. Non-clinical placements, such as environmental services, warehouse staff, administrative services and other similar specialties that are not in direct patient care, may not be subject to orientation hours.In any event, Agency shall be responsible to assure each Agency Staff placed with a Client complies with such Client s orientation requirements. ;Description=AUTO OFFER
+
+CRT/RRT
+ASAP
+13-weeks
+Friday, Saturday, Sunday 7a-7p
+
+COVID - Yes
+Weekends - Yes, every other
+
+SCREENING CRITERIA:
+  BLS
+  CRT
+  ER & ICU Experience in acute care setting
+  Vent management
+  O2 therapy
+  Airway management
+  Respiratory treatments
+  Suctioning
+  1 year of experience
+
+
+ Modified Time:9/20/2021 4:51:02 PM
+ Account Manager: Heather Ryan
+ Account Manager Email: Heather.Ryan@qualivis.com
+ Over Time Multiplier: 1.25x
+ Over Time Rule: Overtime after 48.00 Hours per week
+ Call Back: 1.00x
+ Charge: $3.00 Bump
+ Holiday: 1.25x
+ Submittal Details: #Tier1 Crisis ComplianceNeed  3 days at minimum lead time from BOOKING to START to account for crisis compliance ;url=https://app.ayaconnect.com/index.html#/vendor/job/1459132/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 160
+    [facilityName] => Ouachita County Medical Center - TRAVEL
+    [shiftDateEnd] => 2022-01-10
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

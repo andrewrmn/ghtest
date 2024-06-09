@@ -1,0 +1,65 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1016',
+  'Cf-Ray' => '84a25f5827f86a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By Facility; Clinical Performance
+    [sitename] => giftednurses
+    [spec] => Psych
+    [assignmentid] => 538146
+    [workerID] => 332153
+    [WorkerContactNo] => 214-870-5032
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13720
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-13
+    [workerLastName] => Crosby
+    [shiftNum] => 2
+    [workerFirstName] => Lisa
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => January, 23 2024 14:16:40
+    [daysPerWeek] => 5
+    [orderNote] => BR:$85lRS:135905
+Orient:$20lNonBill:16
+Orient includes 11/13-14
+8:30a-4:30p for TherOps classes
+FTK: Signed GIFTED timecard
+    [guaranteedMinimum] => 
+    [workerEmail] => lisamaxwell8889@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Tulsa Center for Behavioral Health- Travel
+    [shiftDateEnd] => 2024-01-21
+    [shiftStartTime] => 14:30
+    [subjectID] => 
+)

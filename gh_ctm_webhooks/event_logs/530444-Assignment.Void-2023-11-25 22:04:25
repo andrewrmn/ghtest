@@ -1,0 +1,234 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6184',
+  'Cf-Ray' => '82bd2ff3811c4951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Unit Profile
+
+The purpose of a unit profile is to provide an exceptional screenshot of the unit.
+ Profiles should include unique details to assist recruiting professional in effectively and efficiently identifying highly qualified staff.
+
+ Below you will find a data collection tool to help you identify essential data needed to complete your profile.
+ 
+
+
+
+
+
+
+
+Hospital:
+ Overland Park Regional Medical Center
+
+Location: Overland Park Ks 
+
+Address:10500 Quivira Road
+
+Unit Name: Cardiac Specialty Unit
+
+Building: Tower A
+
+Cost Center:63922
+
+General Information
+
+Unit Specifics: 
+Number of Beds :26Patient Ratios : 1:4Unit staffing description- (unit secretaries and tech availability) : Charge Nurse, Bedside Nurse, PCT, Unit SecretaryType of equipment : PacemakersDocumentation system: MeditechScheduling requirements:self scheduling.
+ Weekends are three weekend shifts in a four week period on day shift and four weekend shifts in a four week period on nights shiftOn Call Requirements:noneFloating policy:float to Tele, M/S, OSSPatient Experience requirements:
+Hospital Specifics-
+Certifications: None
+Hiring profile
+
+Requested Skill Set:
+
+
+
+
+Must have: Telemetry experience
+
+
+
+
+
+
+
+Advanced skills needed: background managing cardiac patients post procedure/or
+
+
+
+
+
+
+
+Procedures performed on unit: 
+titration of IV medication (cardiac, heparin, insulin, etc)
+
+
+
+
+
+
+
+Certifications Required: None
+
+
+
+
+
+
+
+Dress Code: (Required uniform)
+
+Scrubs (Royal blue top, black pants)
+Unit Guidelines/Policies: Please attach unit specific policies and guidelines.
+Follow hospital-wide policy and procedures
+Awards/Recognition: 
+Please include anything that you would like prospective candidates to be aware of, such as, links to videos that feature the department, outstanding department/team awards..
+ 
+Brand new Cardiac Progressive Stepdown unit 
+Any additional information that would entice a worker to select your unit for their assignment: 
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc. Unit is set up similar to an ICU.
+ Each room as a bedside monitor to manage patient vital signs and rhythms.
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 530444
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2998
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 25 2023 17:04:25
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=758285 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=OVERLAND PARK REGIONAL MEDICAL CENTER KS ;City=Overland Park ;State=KS ;Zip=66215 ;Start=10/23/2023;End=1/22/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=MIDAMERICA DIVISION (48) ;Shift=7:00PM-7:00AM;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=88 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:Unit Profile
+
+The purpose of a unit profile is to provide an exceptional screenshot of the unit.
+ Profiles should include unique details to assist recruiting professional in effectively and efficiently identifying highly qualified staff.
+
+ Below you will find a data collection tool to help you identify essential data needed to complete your profile.
+ 
+
+
+
+
+
+
+
+Hospital:
+ Overland Park Regional Medical Center
+
+Location: Overland Park Ks 
+
+Address:10500 Quivira Road
+
+Unit Name: Cardiac Specialty Unit
+
+Building: Tower A
+
+Cost Center:63922
+
+General Information
+
+Unit Specifics: 
+Number of Beds :26Patient Ratios : 1:4Unit staffing description- (unit secretaries and tech availability) : Charge Nurse, Bedside Nurse, PCT, Unit SecretaryType of equipment : PacemakersDocumentation system: MeditechScheduling requirements:self scheduling.
+ Weekends are three weekend shifts in a four week period on day shift and four weekend shifts in a four week period on nights shiftOn Call Requirements:noneFloating policy:float to Tele, M/S, OSSPatient Experience requirements:
+Hospital Specifics-
+Certifications: None
+Hiring profile
+
+Requested Skill Set:
+
+
+
+
+Must have: Telemetry experience
+
+
+
+
+
+
+
+Advanced skills needed: background managing cardiac patients post procedure/or
+
+
+
+
+
+
+
+Procedures performed on unit: 
+titration of IV medication (cardiac, heparin, insulin, etc)
+
+
+
+
+
+
+
+Certifications Required: None
+
+
+
+
+
+
+
+Dress Code: (Required uniform)
+
+Scrubs (Royal blue top, black pants)
+Unit Guidelines/Policies: Please attach unit specific policies and guidelines.
+Follow hospital-wide policy and procedures
+Awards/Recognition: 
+Please include anything that you would like prospective candidates to be aware of, such as, links to videos that feature the department, outstanding department/team awards..
+ 
+Brand new Cardiac Progressive Stepdown unit 
+Any additional information that would entice a worker to select your unit for their assignment: 
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc. Unit is set up similar to an ICU.
+ Each room as a bedside monitor to manage patient vital signs and rhythms.
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/758285;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Overland Park Regional Medical Center
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

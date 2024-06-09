@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '28',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5531',
+  'Cf-Ray' => '82d4c0d4708a495d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => POSITION SUMMARYThe Registered Nurse provides and coordinates patient care through assessment, evaluation and treatment with a primary goal of achieving wellness and recovery.ESSENTIAL FUNCTIONS? Assessment, planning, implementation and evaluation of all aspects of care for patients within scope of practice.? Provides education to patients according to their needs.? Transcribes, utilizes and implements protocols and physician orders.? Coordinates healthcare team and delegates appropriate tasks to ancillary personnel.? Other duties as assigned.EDUCATION? Graduation from an accredited school of nursing required.EXPERIENCE? Previous hospital experience preferred.CREDENTIALS? Must have a current, valid RN license from the State of Wyoming and must be in good standing with the Board of Nursing.? Must have current, valid Basic Life Support (BLS) certification or must obtain within 60 days of hire and maintain credentials throughout employment with facility.? Must have current, valid Advanced Cardiac Life Support (ACLS) certification or must obtain within six (6) months of hire and maintain credentials throughout employment with facility if taking call or administering conscious sedation.? CNOR Certification preferred.KNOWLEDGE, SKILLS AND ABILITIES? Annual completion of yearly required CEUs.? Excellent customer service skills, including but not limited to: a friendly personality, tact, patience, empathy and a helpful, professional attitude both in person and on the telephone.? Ability to effectively communicate with staff, managers and the general public verbally and in writing.? Demonstrate effective listening skills.? Excellent organization and time management skills and ability to establish priorities effectively.? Possess exceptional problem solving skills.? Ability to work effectively without immediate supervision.? Ability to learn new computer software programs.? Ability to recognize and protect confidential information.? Demonstrate ethical and legal accountability for the position.   Position Urgency:Normal Billing string = Ivinson Memorial Hospital
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 544444
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9433
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 28 2023 13:42:51
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261716 ;Status=Open;Association=Ivinson Memorial Hospital ;Client=Ivinson Memorial Hospital ;City=Laramie ;State=WY ;Zip=82072 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Nursing ;Specialty=Operating Room ;Unit=Operating Room ;Shift=Rotating;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$104.00;OTRate=104 ;OTRules=By The Week, after 40, ;CallbackRate=109 (All Inclusive Rate + $5) ;HolidayRate=109 (All Inclusive Rate + $5) ;OnCallRateDescription=$3 per hour pager ;Description=POSITION SUMMARYThe Registered Nurse provides and coordinates patient care through assessment, evaluation and treatment with a primary goal of achieving wellness and recovery.ESSENTIAL FUNCTIONS? Assessment, planning, implementation and evaluation of all aspects of care for patients within scope of practice.? Provides education to patients according to their needs.? Transcribes, utilizes and implements protocols and physician orders.? Coordinates healthcare team and delegates appropriate tasks to ancillary personnel.? Other duties as assigned.EDUCATION? Graduation from an accredited school of nursing required.EXPERIENCE? Previous hospital experience preferred.CREDENTIALS? Must have a current, valid RN license from the State of Wyoming and must be in good standing with the Board of Nursing.? Must have current, valid Basic Life Support (BLS) certification or must obtain within 60 days of hire and maintain credentials throughout employment with facility.? Must have current, valid Advanced Cardiac Life Support (ACLS) certification or must obtain within six (6) months of hire and maintain credentials throughout employment with facility if taking call or administering conscious sedation.? CNOR Certification preferred.KNOWLEDGE, SKILLS AND ABILITIES? Annual completion of yearly required CEUs.? Excellent customer service skills, including but not limited to: a friendly personality, tact, patience, empathy and a helpful, professional attitude both in person and on the telephone.? Ability to effectively communicate with staff, managers and the general public verbally and in writing.? Demonstrate effective listening skills.? Excellent organization and time management skills and ability to establish priorities effectively.? Possess exceptional problem solving skills.? Ability to work effectively without immediate supervision.? Ability to learn new computer software programs.? Ability to recognize and protect confidential information.? Demonstrate ethical and legal accountability for the position.   Position Urgency:Normal Billing string = Ivinson Memorial Hospital ;url=https://vms.medefis5.com/jobs/261716;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 104
+    [facilityName] => Ivinson Memorial Hospital
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

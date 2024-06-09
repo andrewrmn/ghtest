@@ -1,0 +1,127 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3677',
+  'Cf-Ray' => '82a21e5603371830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => RN Telemetry
+CHRISTUS Santa Rosa Hospital San Marcos
+1301 Wonder World Drive, San Marcos, TX, 78666
+QUANTITY: 1
+
+CONTRACT: 13-Weeks
+BILL RATE: $80, orientation billable at 70% of the bill rate up to the first 36 hours
+SHIFT: 12-HR Nights, 19:00-07:30
+WEEKENDS: Every other
+ON CALL: None
+HOLIDAYS: Per Ministry Policy
+FLOATING: Tele/PCU units
+GUARANTEE: 36-hrs, client may cancel one shift in a two-week period without penalty.
+EMR: EPIC
+SCRUB COLOR: Royal Blue
+
+REQUIRED CREDENTIALS: *Must be provided upon submission*
+TX State RN License or Multistate
+BLS and ACLS (AHA only)
+EKG (during compliance onboarding)
+
+REQUIRED EXPERIENCE: 2 years
+PREFERRED SKILLS: MSU/Tele 
+PATIENT RATIOS: 1/5, up to 1/6 (average census 14 patients) 
+PATIENT POPULATION: post-surgical, joint replacement, and chronic disease exacerbation - dialysis, DM, sepsis. 
+BEDS: 23
+EQUIPMENT/TECHS: Alaris pumps, Epic EMR, Westcom nurse call, vocera. Usually have 1-2 CNAs on the unit depending on census. 
+
+
+SUBMISSION REQUIREMENTS (Must be combined into 1 PDF file)
+Filled out coversheet (blank coversheet attached)
+Resume/work history
+Skills checklist
+Certification verification within last 30 days
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544683
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 22 2023 10:13:48
+    [daysPerWeek] => 3
+    [orderNote] => Source=StafferLink;SourceID=7938798 ;Status=O;Association=CHRISTUS Santa Rosa Health Care (STX) ;Client=CHRISTUS Santa Rosa Health Care (STX) ;City=San Marcos ;State=TX ;Zip=78666 ;Start=12/11/2023;End=3/9/2024;Duration=90;Cert=RN Telemetry I ;Specialty=IMC MedSurgical A 1675 / 175 ;Unit=IMC MedSurgical A 1675 / 175 ;Shift=19:00:00 - 07:30:00;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$80.00;Description=RN Telemetry
+CHRISTUS Santa Rosa Hospital San Marcos
+1301 Wonder World Drive, San Marcos, TX, 78666
+QUANTITY: 1
+
+CONTRACT: 13-Weeks
+BILL RATE: $80, orientation billable at 70% of the bill rate up to the first 36 hours
+SHIFT: 12-HR Nights, 19:00-07:30
+WEEKENDS: Every other
+ON CALL: None
+HOLIDAYS: Per Ministry Policy
+FLOATING: Tele/PCU units
+GUARANTEE: 36-hrs, client may cancel one shift in a two-week period without penalty.
+EMR: EPIC
+SCRUB COLOR: Royal Blue
+
+REQUIRED CREDENTIALS: *Must be provided upon submission*
+TX State RN License or Multistate
+BLS and ACLS (AHA only)
+EKG (during compliance onboarding)
+
+REQUIRED EXPERIENCE: 2 years
+PREFERRED SKILLS: MSU/Tele 
+PATIENT RATIOS: 1/5, up to 1/6 (average census 14 patients) 
+PATIENT POPULATION: post-surgical, joint replacement, and chronic disease exacerbation - dialysis, DM, sepsis. 
+BEDS: 23
+EQUIPMENT/TECHS: Alaris pumps, Epic EMR, Westcom nurse call, vocera. Usually have 1-2 CNAs on the unit depending on census. 
+
+
+SUBMISSION REQUIREMENTS (Must be combined into 1 PDF file)
+Filled out coversheet (blank coversheet attached)
+Resume/work history
+Skills checklist
+Certification verification within last 30 days ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => CHRISTUS Santa Rosa Hospital - Medical Center
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

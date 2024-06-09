@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1007',
+  'Cf-Ray' => '8478d500a3fd1836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By Facility; Behavioral Performance
+    [sitename] => giftednurses
+    [spec] => LTAC
+    [assignmentid] => 540064
+    [workerID] => 150152
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 36
+    [facilityID] => 8796
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-17
+    [workerLastName] => Holmes
+    [shiftNum] => 5
+    [workerFirstName] => Victoria
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 18 2024 13:16:57
+    [daysPerWeek] => 3
+    [orderNote] => BR:$78.50lRS:136068
+ChrgDf:P$3/B$4
+Orient:$25lNonBill:12hrs
+FTK: Detailed Kronos report with Name, Date and In/Out times
+    [guaranteedMinimum] => 
+    [workerEmail] => vholmesrn@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 78.5
+    [facilityName] => Select Specialty Hospital - Memphis, Inc.
+    [shiftDateEnd] => 2024-01-08
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,91 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3007',
+  'Cf-Ray' => '8272f72c06551464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:OR UNCMC ST Position #1751-6127
+Complete Description:Main OR has 32 bed suite offering all surgical specialties and is open 24/7 due to surgical trauma center.
+Requisition Comments:Lotus offer candidates will not interview. RTO must be listed in profile for pre approval.
+Scheduling Details:36 hours per week OT after 40 hours. 3X12 7am-7pm. 
+
+
+Traveler will be required to float between the main campus. 
+
+Call Requirement: 12 hour shifts, plus holidays  Avg 6 call shifts /6 week period M-F 7p-7am Sat & Sun 7a-7pm & 7p-7am
+    [sitename] => giftednurses
+    [spec] => ORT
+    [assignmentid] => 537608
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12017
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => ORT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => November, 16 2023 16:53:13
+    [daysPerWeek] => 3
+    [orderNote] => Source=PeopleFluent;SourceID=723210 ;Status=Open;Association=HBH OR, 101 - 210526 - 1000 ;Client=UNC Health ;Start=11/27/2023;End=2/24/2024;Duration=89;Cert=ST ;Specialty=OR Tech ;Unit=ST - Operating Room - Days - UNC Hillsborough ;Shift=3x12.0 3x12 hour shifts: Days 
+7am – 7:30pm 
+
+Schedule is open to be flexible - facility is open to anyone who would prefer a 12/10/8hr
+
+Call Requirements: 12 hr shifts, plus holidays. Avg 6 call shifts/6 week period. Mon-Fri 7p-7a Sat & Sun: 7a-7p & 7p-7a.;# of Postions=2;Type=Travel;BillRate=$70.00;Description=Short Description:HBH OR ST Position #1687-6127
+Complete Description:UNC Health Care Hillsborough Campus is a new community hospital which is an extension of UNC Medical Center focusing on many of our elective surgical programs, such as Joint Replacement, Spine, Ophthalmology, Urology, Benign Gynecology, and General Surgery.
+
+Team onsite Saturday and Sunday from 7a-7p that absorb many of our call cases.
+Requisition Comments:Proof of HS (or higher) Diploma AND Proof of ST program graduation REQUIRED FOR SUBMITTAL
+
+Client Offers! Candidates will be reviewed/interviewed by manager.
+
+BLS/Epic Required
+
+Include RTO in submittal 
+Able to float: UNC ASC,COR & MOR
+Scheduling Details:3x12 hour shifts: Days 
+7am   7:30pm 
+
+Schedule is open to be flexible - facility is open to anyone who would prefer a 12/10/8hr
+
+Call Requirements: 12 hr shifts, plus holidays. Avg 6 call shifts/6 week period. Mon-Fri 7p-7a Sat & Sun: 7a-7p & 7p-7a. ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=723210;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => UNC Hospitals Hillsborough Campus
+    [shiftDateEnd] => 2024-02-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

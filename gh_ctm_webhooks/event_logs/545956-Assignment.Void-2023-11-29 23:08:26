@@ -1,0 +1,145 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7397',
+  'Cf-Ray' => '82de8338579623b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Cath Lab RN Days 
+
+**RADIATION BADGE IS REQUIRED AND MUST BE PROVIDED BY AGENCY**
+
+Start date: Start date will be 2-3 weeks from offer
+
+Will work 5x8hrs days 0700-1530 but varies as we stay until procedures are complete. Will consider 10 hour shifts/4 days per week if staffing can accommodate.
+
+Call requirement are one weekend (Friday, Sat, Sun) per month and a call shift one weekday every week. Call requirements may change based on staffing needs.
+
+Holidays as needed.
+
+Ratio: 1:1
+
+First-timers accepted: Yes!
+
+Certs/License/Experience requirements: BLS, ACLS, South Carolina or Multi-State/Compact State RN License, experience in EP/Cath required
+
+Will clinician float within scope to meet facility needs? No
+
+Open to accommodating block schedule? Requires managers approval upon request. Dependent on facility needs.
+
+Locals accepted: Local is defined as within a 50 mile radius. Locals are NOT accepted at this campus.
+
+Pending State License accepted: No. Will not hire with pending license.
+
+Guaranteed Hours: Facility allowed to call off 1 shift per 2 weeks
+
+Hospital Highlights 
+Type of Facility:  Acute Care Hospital
+Total Staffed Beds: 304
+Scrub Color:  All RNs   Royal Blue or Black, may combine either with White
+Charting:  EPIC 
+Parking Cost:  Downtown parking lots require a parking pass which we distribute at badge pickup. There is no fee to park. Parking lots and garages available. Garages clearance is only for average suv truck.
+
+
+ Modified Time:1/2/2024 5:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal Rule: 50 miles, locals not acceptedPerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 545956
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13458
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-02
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:30
+    [whenmodified] => November, 29 2023 18:08:26
+    [daysPerWeek] => 5
+    [orderNote] => Source=AYA;SourceID=2321460 ;Status=Open;Association=Qualivis MSP ;Client=MUSC Health Columbia Medical Center Downtown ;City=Columbia ;State=SC ;Zip=29204 ;Start=1/2/2024;End=4/2/2024;Duration=91;Cert=Registered Nurse ;Specialty=Cath Lab ;Unit=RN - COL Cath lab DMC, CC003720 ;Shift=Day 5x8-Hour (07:00 - 15:30);# of Postions=2;Type=Travel;BillRate=$100.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Cath Lab RN Days 
+
+**RADIATION BADGE IS REQUIRED AND MUST BE PROVIDED BY AGENCY**
+
+Start date: Start date will be 2-3 weeks from offer
+
+Will work 5x8hrs days 0700-1530 but varies as we stay until procedures are complete. Will consider 10 hour shifts/4 days per week if staffing can accommodate.
+
+Call requirement are one weekend (Friday, Sat, Sun) per month and a call shift one weekday every week. Call requirements may change based on staffing needs.
+
+Holidays as needed.
+
+Ratio: 1:1
+
+First-timers accepted: Yes!
+
+Certs/License/Experience requirements: BLS, ACLS, South Carolina or Multi-State/Compact State RN License, experience in EP/Cath required
+
+Will clinician float within scope to meet facility needs? No
+
+Open to accommodating block schedule? Requires managers approval upon request. Dependent on facility needs.
+
+Locals accepted: Local is defined as within a 50 mile radius. Locals are NOT accepted at this campus.
+
+Pending State License accepted: No. Will not hire with pending license.
+
+Guaranteed Hours: Facility allowed to call off 1 shift per 2 weeks
+
+Hospital Highlights 
+Type of Facility:  Acute Care Hospital
+Total Staffed Beds: 304
+Scrub Color:  All RNs   Royal Blue or Black, may combine either with White
+Charting:  EPIC 
+Parking Cost:  Downtown parking lots require a parking pass which we distribute at badge pickup. There is no fee to park. Parking lots and garages available. Garages clearance is only for average suv truck.
+
+
+ Modified Time:1/2/2024 5:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal Rule: 50 miles, locals not acceptedPerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2321460/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => MUSC Health Columbia Medical Center Downtown
+    [shiftDateEnd] => 2024-04-02
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

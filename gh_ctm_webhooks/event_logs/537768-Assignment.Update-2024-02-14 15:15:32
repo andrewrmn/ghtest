@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '920',
+  'Cf-Ray' => '8556445cf17b23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By RN; Medical Leave
+    [sitename] => giftednurses
+    [spec] => LTAC
+    [assignmentid] => 537768
+    [workerID] => 293692
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9532
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-03
+    [workerLastName] => Tucker
+    [shiftNum] => 5
+    [workerFirstName] => Morgan
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => February, 14 2024 10:15:31
+    [daysPerWeek] => 3
+    [orderNote] => BR:$69 lRS:135811					
+Orient:$20  lNonBill:12hrs  
+FTK:Kronos
+    [guaranteedMinimum] => 
+    [workerEmail] => mfsadler96@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 69
+    [facilityName] => Select Specialty Tri Cities
+    [shiftDateEnd] => 2024-01-14
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

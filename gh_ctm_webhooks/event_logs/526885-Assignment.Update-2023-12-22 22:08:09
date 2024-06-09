@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '904',
+  'Cf-Ray' => '839bae8881ae23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => BILL RATE $48.00 EFF. 10/29/2023
+    [sitename] => giftednurses
+    [spec] => LTC
+    [assignmentid] => 526885
+    [workerID] => 238585
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 40
+    [facilityID] => 15907
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-15
+    [workerLastName] => Dieudonne
+    [shiftNum] => 3
+    [workerFirstName] => Cheline
+    [cert] => CNA
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 22 2023 17:08:08
+    [daysPerWeek] => 5
+    [orderNote] => EXTENSION
+BR:$48lRS:133641lFTK:Kronos/ GiftTC(unsigned)
+    [guaranteedMinimum] => 
+    [workerEmail] => Chelinka3@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 48
+    [facilityName] => Schulman & Schachne Institute (RS)
+    [shiftDateEnd] => 2024-01-13
+    [shiftStartTime] => 23:00
+    [subjectID] => 
+)

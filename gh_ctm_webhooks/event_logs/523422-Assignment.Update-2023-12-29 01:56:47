@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '21',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '945',
+  'Cf-Ray' => '83ce6db530094941-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Last shift worked was 12-02-23
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 523422
+    [workerID] => 204607
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3127
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-09-05
+    [workerLastName] => Riggs
+    [shiftNum] => 4
+    [workerFirstName] => Nakeyia
+    [cert] => RN
+    [floorDesc] => General Medicine 6020
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 28 2023 20:56:47
+    [daysPerWeek] => 3
+    [orderNote] => BR:$90lRS:132972lFTK:API
+ChrgDiff:P$1/B$3lOnCl:P$10/B$18
+Orient:$20lNonBill:16hrs
+    [guaranteedMinimum] => 
+    [workerEmail] => ntriggs19@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => North Oaks Medical Center - Travel
+    [shiftDateEnd] => 2023-12-02
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

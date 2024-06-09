@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5269',
+  'Cf-Ray' => '82ce058ba23e1466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 40-bed Medical / Telemetry unit; Epic experience HIGHLY desirable; MEDICAL EXPERIENCE WITH TELEMETRY EXPERIENCE REQUIRED. Must have a MINIMUM of 2 years recent related medical/telemetry experience in a medium to large sized facility. Patient population includes Pre and Post catheterization, Pacemaker and EP study patients; chest pain etiology unknown, cardiac dysrhythmia, CHF, hypertension, syncope, abdominal pain and others. Must be comfortable caring for and monitoring post cardiac procedural patients. MUST have telemetry proficiency; will be required to pass a Dysrhythmia and Medication test upon start of assignment. Flexibility to float to Sister unit 2 North, Tele and other Medical/Surgical and related telemetry and observation units which may include but not limited to other units within the Heart Hospital arena: 1 Specialty progressive and , 3 / 4 Specialty universal bed units. Patient contact may include COVID-19 patients. BLS (AHA) required; ACLS preferred.Safety Sensitive position*Start date: Tuesdays with more flexibility availability for candidates with current Epic experience.SFHS SUBMISSION COVER SHEET MUST BE INCLUDED OR PROFILE WILL BE DECLINED:  Permanent Address must show minimum 100 miles from facility*SAFETY SENSITIVE:Under the Oklahoma Medical Marijuana Use and Patient Protection Act (OMMA), safety sensitive position is defined as any job that includes tasks or duties that the employer believes could affect the safety and health of the employee performing the task or others. This position has been identified as a safety sensitive position. This statute allows employers to lawfully refuse to hire applicants for safety-sensitive jobs or to discipline or discharge employees who work in safety- sensitive jobs if they test positive for marijuana, even if they have a valid license to use medical marijuana.   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 544825
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1328
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-12
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 27 2023 18:06:26
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261829 ;Status=Open;Association=Saint Francis Health System--Tulsa ;Client=Saint Francis Health System--Tulsa ;City=Tulsa ;State=OK ;Zip=74136 ;Start=12/12/2023;End=3/12/2024;Duration=91;Cert=Nursing ;Specialty=Telemetry Med / Surg, Med-surg Adult, Telemetry Cardiac ;Unit=Telemetry Med / Surg, Med-surg Adult, Telemetry Cardiac ;Shift=7p-7a; every other weekend rotation;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$93.00;OTRate=93 ;OTRules=By The Week, after 40, ;HolidayRate=93 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=40-bed Medical / Telemetry unit; Epic experience HIGHLY desirable; MEDICAL EXPERIENCE WITH TELEMETRY EXPERIENCE REQUIRED. Must have a MINIMUM of 2 years recent related medical/telemetry experience in a medium to large sized facility. Patient population includes Pre and Post catheterization, Pacemaker and EP study patients; chest pain etiology unknown, cardiac dysrhythmia, CHF, hypertension, syncope, abdominal pain and others. Must be comfortable caring for and monitoring post cardiac procedural patients. MUST have telemetry proficiency; will be required to pass a Dysrhythmia and Medication test upon start of assignment. Flexibility to float to Sister unit 2 North, Tele and other Medical/Surgical and related telemetry and observation units which may include but not limited to other units within the Heart Hospital arena: 1 Specialty progressive and , 3 / 4 Specialty universal bed units. Patient contact may include COVID-19 patients. BLS (AHA) required; ACLS preferred.Safety Sensitive position*Start date: Tuesdays with more flexibility availability for candidates with current Epic experience.SFHS SUBMISSION COVER SHEET MUST BE INCLUDED OR PROFILE WILL BE DECLINED:  Permanent Address must show minimum 100 miles from facility*SAFETY SENSITIVE:Under the Oklahoma Medical Marijuana Use and Patient Protection Act (OMMA), safety sensitive position is defined as any job that includes tasks or duties that the employer believes could affect the safety and health of the employee performing the task or others. This position has been identified as a safety sensitive position. This statute allows employers to lawfully refuse to hire applicants for safety-sensitive jobs or to discipline or discharge employees who work in safety- sensitive jobs if they test positive for marijuana, even if they have a valid license to use medical marijuana.   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261829;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 93
+    [facilityName] => Saint Francis Hospital Travel
+    [shiftDateEnd] => 2024-03-12
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

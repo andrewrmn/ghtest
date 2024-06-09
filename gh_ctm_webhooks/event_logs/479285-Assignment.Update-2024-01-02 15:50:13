@@ -1,0 +1,118 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3703',
+  'Cf-Ray' => '83f4280f275d77ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => **FACILITY PROVIDES CPI CLASS IF CANDIDTE DOES NOT HAVE IT PRIOR TO SUBMISSION**
+
+Start date: ASAP
+Contract length: 8 - 13 weeks
+Shift schedule: weekdays, every other weekend
+Certs required: BCLS, CPI
+Experience required: 2+ years
+
+
+ Modified Time:2/27/2023 12:00:00 AM
+
+ Account Manager: Amber Neal
+
+ Account Manager Email: Amber.neal@qualivis.com
+
+ Over Time Multiplier: 
+
+ Over Time Rule: 
+
+ Call Back: 
+
+ Charge: 
+
+ Holiday: 
+
+ Submittal Details: #Tier1 Travel ComplianceNeed 1.5 weeks/10 calendar days + (Quick Starts okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance.RTO: Required at submissionRequires specific amount of exp.: 2 years of experienceValid State License not required at time of submission, but must have in hand before startMile Radius Rule Applies: 50 milesReferences Required: Yes, 2 at time of submissionCandidates will float within hospital or to an affiliate hospitals nearby: Yes, within hospitalBackground Policy to be noted prior to submission: Hits get sent to the facility for approval
+
+ COVID-19 Vaccine: Unknown
+
+ Flu Vaccine: Unknown
+    [sitename] => giftednurses
+    [spec] => Psych
+    [assignmentid] => 479285
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12935
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-02-27
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 02 2024 10:50:13
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=1968255 ;Status=Open;Association=Qualivis EPA ;Client=Haven Behavioral Hospital of Dayton ;City=Dayton ;State=OH ;Zip=45417 ;Start=2/27/2023;End=5/29/2023;Duration=91;Cert=Registered Nurse ;Specialty=Behavioral Health ;Unit=Behavioral Health ;Shift=Night 3x12-Hour (19:00 - 07:00);# of Postions=1;Type=Travel;BillRate=$95.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=Non-Billable Orientation: 16 Hours ;Description=**FACILITY PROVIDES CPI CLASS IF CANDIDTE DOES NOT HAVE IT PRIOR TO SUBMISSION**
+
+Start date: ASAP
+Contract length: 8 - 13 weeks
+Shift schedule: weekdays, every other weekend
+Certs required: BCLS, CPI
+Experience required: 2+ years
+
+
+ Modified Time:2/27/2023 12:00:00 AM
+
+ Account Manager: Amber Neal
+
+ Account Manager Email: Amber.neal@qualivis.com
+
+ Over Time Multiplier: 
+
+ Over Time Rule: 
+
+ Call Back: 
+
+ Charge: 
+
+ Holiday: 
+
+ Submittal Details: #Tier1 Travel ComplianceNeed 1.5 weeks/10 calendar days + (Quick Starts okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance.RTO: Required at submissionRequires specific amount of exp.: 2 years of experienceValid State License not required at time of submission, but must have in hand before startMile Radius Rule Applies: 50 milesReferences Required: Yes, 2 at time of submissionCandidates will float within hospital or to an affiliate hospitals nearby: Yes, within hospitalBackground Policy to be noted prior to submission: Hits get sent to the facility for approval
+
+ COVID-19 Vaccine: Unknown
+
+ Flu Vaccine: Unknown ;url=https://app.ayaconnect.com/index.html#/vendor/job/1968255/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Haven Behavioral Hospital of Dayton
+    [shiftDateEnd] => 2023-05-29
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

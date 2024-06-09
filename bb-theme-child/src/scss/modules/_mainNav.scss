@@ -1,0 +1,136 @@
+.mainNav{
+  color: white;
+  display: flex;
+  gap: 40px;
+
+  a{
+    color: inherit;
+
+    &:hover{
+      text-decoration: none;
+    }
+  }
+
+  .sub-menu{
+    display: none;
+    animation: subMenu 0.3s ease;
+  }
+
+  li:hover > .sub-menu{
+    display: block;
+  }
+
+  li.menu-item-has-children{
+    &::after{
+      content: '';
+      height: 8px;
+      width: 13px;
+      background-image: url("data:image/svg+xml,%3Csvg width='14' height='8' viewBox='0 0 14 8' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M6.99986 2.8286L2.05006 7.77832L0.63586 6.36411L6.99986 0.000100136L13.3638 6.36411L11.9496 7.77832L6.99986 2.8286Z' fill='white'/%3E%3C/svg%3E%0A");
+      background-repeat: no-repeat;
+      background-position: center center;
+      display: inline-block;
+    }
+  }
+
+  // First Level
+  > li {
+
+    font-weight: 600;
+    font-size: 17px;
+
+    > a{
+      line-height: 60px;
+    }
+
+    &.menu-item-has-children{
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      position: relative;
+
+      &::after{
+        transition: all 0.3s ease;
+        transform: rotate(180deg);
+      }
+
+      &:hover{
+        > a {
+          color: $color-light-green;
+        }
+        &::after{
+          transform: rotate(0);
+        }
+      }
+    }
+  }
+
+  // Second level
+
+  .sub-menu{
+    min-width: 216px;
+    position: absolute;
+    top: 100%;
+    left: -17px;
+    background: white;
+    border-radius: 6px;
+    border: 1px solid #dcdcdc;
+    box-shadow: 0 1px 16px rgba(0,0,0,0.04),
+      0 8px 16px rgba(0,0,0,0.02);
+    padding: 8px 0;
+
+    > li {
+      padding: 0 8px;
+
+      > a{
+        display: block;
+        padding: 14px 8px;
+        font-size: 18px;
+        line-height: 22px;
+        font-weight: 500;
+        color: $color-gray;
+        transition: all 0.2s ease;
+      }
+
+      &:hover > a{
+        background: #DFF1F2;
+        color: $color-teal;
+        border-radius: 6px;
+      }
+
+    }
+
+    li.menu-item-has-children{
+      position: relative;
+
+      a{
+        padding-right: 30px;
+      }
+
+      &::after{
+        background-image: url("data:image/svg+xml,%3Csvg width='14' height='8' viewBox='0 0 14 8' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M6.99986 2.8286L2.05006 7.77832L0.63586 6.36411L6.99986 0.000100136L13.3638 6.36411L11.9496 7.77832L6.99986 2.8286Z' fill='%235AB7B2'/%3E%3C/svg%3E%0A");
+        transform: rotate(90deg);
+        position: absolute;
+        top: 50%;
+        right: 16px;
+        margin-top: -5px;
+      }
+    }
+
+    .sub-menu{
+      top: -8px;
+      left: 100%;
+      animation-name: subMenuSecond;
+    }
+  }
+
+}
+
+@keyframes subMenu {
+  from{ opacity: 0; transform: translateY(-10px); }
+  to{ opacity: 1; transform: translateY(0); }
+}
+
+@keyframes subMenuSecond {
+  from{ opacity: 0; transform: translateX(-10px) }
+  to{ opacity: 1; transform: translateX(0px) }
+}

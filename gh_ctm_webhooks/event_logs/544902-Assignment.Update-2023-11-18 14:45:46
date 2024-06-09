@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6568',
+  'Cf-Ray' => '8280ffc3f63223c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => JOB SUMMARY: Reporting to the Assistant Chief Nursing Officer (ACNO) and through delegation of assignments by the Nurse House Supervisor, will independently implements the nursing process to provide safe and effective patient care throughout selected/assigned hospital nursing departments ( departments ). He/she demonstrates the knowledge and skills necessary to provide individualized, age-appropriate care to patients served in these departments. Provides break relief and supplemental staffing to RNs working in the Emergency, Medical Surgical/Swing Bed, and Skilled Nursing departments.Will be directed, or autonomously go to, any department for which s/he is trained and competent, at any given time to provide nursing support. Maintain the required proof of competency to ensure they are performing at the expected level of patient care. Patient age range: 0-120 years oldWork Experience: Minimum of one year acute care experience within the past two years. 6 months recent experience in Emergency or Critical Care setting is required.Licensing Requirements: Current unencumbered California RN License. Current AHA BLS for healthcare providers, ACLS and PALS.Language Requirements: Bilingual (English/Spanish) preferred.   Additional Information:OVERTIME & BILLING RULES: Billing Cycle is weekly. Any missed meals and breaks must be pre-approved by Supervisor prior to missing and will be paid with proof of approval. Overtime Policy: The overtime rate for any hours worked in excess of 40 hours/week shall be billable at the Regular Hourly Rate plus $10/hr. The holiday rate shall be defined as the Regular Hourly Rate plus $10/hr. The on-call rate shall be defined in the Job Posting. Note: For any 10-hour or 12-hour shifts, the Agency is to invoice MMH the All-Inclusive Rate for the entire shift. There is no elevated billing allowed for hours 9, 10, 11 & 12. Housing can be somewhat difficult to find. The facility prefers credentialing be sent in one batch. It is acceptable and encouraged to provide updates but please send compliance all at the same time once completed. Housing options in King City:1) Keefer s Inn   King City 615 Canal Street (831) 385-4843 (Good for 2-4 weeks until an apartment is found)2) Greenfield Village Apartments (in nearby Greenfield) 104 S. El Camino Real (831) 674-9298 BILLING PROCESS: Agency will invoice MMH directly for temp staff. Invoices shall be sent to: Luz Argueta in Finance largueta@meememorial.com. Defined workweek begins Monday at 12:01am and ends the following Sunday at 11:59pm. UPDATED 10/1/2015   Position Urgency:Normal Billing string = Mee Memorial Hospital
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544902
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 8366
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 18 2023 09:45:45
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261846 ;Status=Open;Association=Mee Memorial Hospital ;Client=Mee Memorial Hospital ;City=King City ;State=CA ;Zip=93930 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Nursing ;Specialty=Registered Nurse ;Unit=Registered Nurse ;Shift=night shift 7p tp 730a;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$100.00;OTRate=110 ;OTRules=By The Week, after 40, ;HolidayRate=110 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=JOB SUMMARY: Reporting to the Assistant Chief Nursing Officer (ACNO) and through delegation of assignments by the Nurse House Supervisor, will independently implements the nursing process to provide safe and effective patient care throughout selected/assigned hospital nursing departments ( departments ). He/she demonstrates the knowledge and skills necessary to provide individualized, age-appropriate care to patients served in these departments. Provides break relief and supplemental staffing to RNs working in the Emergency, Medical Surgical/Swing Bed, and Skilled Nursing departments.Will be directed, or autonomously go to, any department for which s/he is trained and competent, at any given time to provide nursing support. Maintain the required proof of competency to ensure they are performing at the expected level of patient care. Patient age range: 0-120 years oldWork Experience: Minimum of one year acute care experience within the past two years. 6 months recent experience in Emergency or Critical Care setting is required.Licensing Requirements: Current unencumbered California RN License. Current AHA BLS for healthcare providers, ACLS and PALS.Language Requirements: Bilingual (English/Spanish) preferred.   Additional Information:OVERTIME & BILLING RULES: Billing Cycle is weekly. Any missed meals and breaks must be pre-approved by Supervisor prior to missing and will be paid with proof of approval. Overtime Policy: The overtime rate for any hours worked in excess of 40 hours/week shall be billable at the Regular Hourly Rate plus $10/hr. The holiday rate shall be defined as the Regular Hourly Rate plus $10/hr. The on-call rate shall be defined in the Job Posting. Note: For any 10-hour or 12-hour shifts, the Agency is to invoice MMH the All-Inclusive Rate for the entire shift. There is no elevated billing allowed for hours 9, 10, 11 & 12. Housing can be somewhat difficult to find. The facility prefers credentialing be sent in one batch. It is acceptable and encouraged to provide updates but please send compliance all at the same time once completed. Housing options in King City:1) Keefer s Inn   King City 615 Canal Street (831) 385-4843 (Good for 2-4 weeks until an apartment is found)2) Greenfield Village Apartments (in nearby Greenfield) 104 S. El Camino Real (831) 674-9298 BILLING PROCESS: Agency will invoice MMH directly for temp staff. Invoices shall be sent to: Luz Argueta in Finance largueta@meememorial.com. Defined workweek begins Monday at 12:01am and ends the following Sunday at 11:59pm. UPDATED 10/1/2015   Position Urgency:Normal Billing string = Mee Memorial Hospital ;url=https://vms.medefis5.com/jobs/261846;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 100
+    [facilityName] => Mee Memorial Hospital
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

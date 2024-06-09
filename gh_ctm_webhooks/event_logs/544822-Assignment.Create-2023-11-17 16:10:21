@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2939',
+  'Cf-Ray' => '82793e4955501463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Joint and Spine Center 4: This is a mixed unit of general medical surgical patients as well as patients from JSC5 our neuro/ortho unit. The patient population includes but is not limited to  Respiratory failure, ARF, sepsis, diabetes, advanced infections, joint replacements, fractures as well as other types of ortho surgery, spine surgery, and neurosurgical patients. RN's may come in contact and/or care for COVID+ patients. Agency staff will be the first to float based on facility census and needs. Every third weekend requirement 12 hour shifts (weekends are Saturday and Sunday)   Additional Information:Agency staff will be the first to float based on facility census and needs.   Position Urgency:Normal Billing string = The Christ Hospital
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544822
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9945
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-07
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 17 2023 11:10:20
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=259538 ;Status=Open;Association=The Christ Hospital ;Client=The Christ Hospital ;City=Cincinnati ;State=OH ;Zip=45219 ;Start=11/7/2023;End=2/6/2024;Duration=91;Cert=Nursing ;Specialty=Med-surg Adult, Med-Surg Ortho ;Unit=Med-surg Adult, Med-Surg Ortho ;Shift=Nights. Every 3rd weekend required.;# of Postions=3;Guaranteed Hours=36;Type=Travel;BillRate=$75.00;OTRate=80 ;OTRules=By The Week, after 40, ;CallbackRate=75 (All Inclusive Rate) ;HolidayRate=80 (All Inclusive Rate + $5) ;OnCallRateDescription=$4 per hour pager ;Description=Joint and Spine Center 4: This is a mixed unit of general medical surgical patients as well as patients from JSC5 our neuro/ortho unit. The patient population includes but is not limited to  Respiratory failure, ARF, sepsis, diabetes, advanced infections, joint replacements, fractures as well as other types of ortho surgery, spine surgery, and neurosurgical patients. RN's may come in contact and/or care for COVID+ patients. Agency staff will be the first to float based on facility census and needs. Every third weekend requirement 12 hour shifts (weekends are Saturday and Sunday)   Additional Information:Agency staff will be the first to float based on facility census and needs.   Position Urgency:Normal Billing string = The Christ Hospital ;url=https://vms.medefis5.com/jobs/259538;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Christ Hospital System (AKA the Christ Hospital Health Network)
+    [shiftDateEnd] => 2024-02-06
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

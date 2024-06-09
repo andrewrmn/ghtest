@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4230',
+  'Cf-Ray' => '8378b10100aa1464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Neurosurgery RNCare provided on unit: Neurosurgery is a dynamic fast paced unit that utilizes team work and collegial interdisciplinary relationships to serve our patients. Patient population is comprehensive in neuroscience and include but is not limited to surgery, strokes, seizures, neuromuscular disorder, and head/back/neck trauma and elective surgeries. Unit is committed to empowering and supporting staff with education and resources to best ensure growth while in the inpatient setting.Seeking team oriented experienced nurses, who are energetic, compassionate, hardworking, dedicated, and eager to learn. Must have 2 years med/surg experience, Neuro experience preferred.36 hours per weekShift: rotating day/night shiftsWeekends: Every other weekendHolidays: per unit requirementOn call: NoneUnit is located in the Main Hospital, 11th Floor, West WingUnit has 34 beds, 6 progressive care beds, and 9 additional Telemetry bedsNurse to patient ratio: 1:5; 1:6 possiblePossible reassignments within competencyDress code: Ceil blue/white (any combination)Lawson code: 2408 / CC100261RN2   Additional Information:Orientation: The first 16 hours of orientation are unpaid. Call Off Policy: 5 shifts (or the equivalent hours) per 13 week assignment.  Parking: Travelers may need to  pay for parking at VCU depending on how close they want to be to the hospital.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Stepdown
+    [assignmentid] => 543508
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3760
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-01
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 18 2023 11:13:00
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261438 ;Status=Open;Association=VCU Health ;Client=VCU Medical Center ;City=Richmond ;State=VA ;Zip=23298 ;Start=12/12/2023;End=3/12/2024;Duration=91;Cert=Nursing ;Specialty=Step Down, Med-surg Adult, Neurology, PCU ;Unit=Step Down, Med-surg Adult, Neurology, PCU ;Shift=Rotating shifts -3x12s;# of Postions=4;Guaranteed Hours=36;Type=Travel;BillRate=$93.00;OTRate=103 ;OTRules=By The Week, after 40, ;CallbackRate=93 (All Inclusive Rate) ;HolidayRate=93 (All Inclusive Rate) ;OnCallRateDescription=$10 per hour pager ;Description=Neurosurgery RNCare provided on unit: Neurosurgery is a dynamic fast paced unit that utilizes team work and collegial interdisciplinary relationships to serve our patients. Patient population is comprehensive in neuroscience and include but is not limited to surgery, strokes, seizures, neuromuscular disorder, and head/back/neck trauma and elective surgeries. Unit is committed to empowering and supporting staff with education and resources to best ensure growth while in the inpatient setting.Seeking team oriented experienced nurses, who are energetic, compassionate, hardworking, dedicated, and eager to learn. Must have 2 years med/surg experience, Neuro experience preferred.36 hours per weekShift: rotating day/night shiftsWeekends: Every other weekendHolidays: per unit requirementOn call: NoneUnit is located in the Main Hospital, 11th Floor, West WingUnit has 34 beds, 6 progressive care beds, and 9 additional Telemetry bedsNurse to patient ratio: 1:5; 1:6 possiblePossible reassignments within competencyDress code: Ceil blue/white (any combination)Lawson code: 2408 / CC100261RN2   Additional Information:Orientation: The first 16 hours of orientation are unpaid. Call Off Policy: 5 shifts (or the equivalent hours) per 13 week assignment.  Parking: Travelers may need to  pay for parking at VCU depending on how close they want to be to the hospital.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261438;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 93
+    [facilityName] => VCU Medical Center - TRAVEL
+    [shiftDateEnd] => 2024-04-01
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

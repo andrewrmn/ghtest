@@ -1,0 +1,67 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1655',
+  'Cf-Ray' => '8317bb8147f71464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN REHAB6P - 6A13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE NH/ COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Rehab
+    [assignmentid] => 541307
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12858
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 18:30
+    [whenmodified] => December, 06 2023 16:48:18
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771088 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=Frisbie Memorial Hospital ;City=Rochester ;State=NH ;Zip='03867 ;Start=11/26/2023;End=2/25/2024;Duration=91;Cert=RN ;Specialty=Rehab ;Unit=CAPITAL DIVISION (20) ;Shift=6:00PM-6:00AM;# of Postions=1;Type=Travel;BillRate=$83.00;minBillRate=$83.00;OTRate=91 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL RN REHAB6:00PM - 6:00AM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE NH/ COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/771088;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 83
+    [facilityName] => Frisbie Memorial Hospital
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 06:00
+    [subjectID] => 
+)

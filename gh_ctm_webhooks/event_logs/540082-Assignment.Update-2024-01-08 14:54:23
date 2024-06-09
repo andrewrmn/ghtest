@@ -1,0 +1,538 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6600',
+  'Cf-Ray' => '8425466642801463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN MEDSURG
+13 WEEKS
+7:00PM- 7:00AM
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE ACTIVE VA LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+   5E MED SURG             Location: LewisGale Medical Center             
+Address: 1900   Electric Road, Salem, VA 24153
+         
+Floor: 5 East
+             
+Building: Main   Hospital
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   36 Beds
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   55 employees
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   1 Clinical coordinator/ 6   RN s / 3 techs / 1 unit secretary
+   
+o
+
+
+   Night Shift   1 Clinical coordinator/   6 RN s / 2 techs 
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   1:6 
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   Baxter IV pumps/   Medfusion pumps/ SCD s
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech
+   
+
+
+             Typical hiring profile             Skill Set Most recruited for:
+   (Travel RNs)   
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+BLS
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+Familiar with post-operative patients
+   
+ 
+
+
+
+
+
+
+
+   
+Competent with dressing changes/ wound care/   drain management 
+   
+
+
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   Care of   the post-operative patient
+   
+ 
+
+
+
+
+
+
+
+   Maintain   drains
+   
+ 
+
+
+
+
+
+
+
+   Wound   care
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Team player with positive attitude
+   
+ 
+
+
+
+
+
+
+
+   
+Strong patient advocate
+   
+ 
+
+
+
+
+
+
+
+   Able to work in a fast pace environment
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color -
+ Navy Blue/ White
+   
+ 
+
+
+
+
+
+
+
+   No hoodies/ pull-overs/ T-Shirts 
+   
+
+
+             Awards/Recognition: 
+   
+ 
+
+
+
+
+
+
+
+   Top
+   patient experience scores- measured through HCAHPS
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 540082
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7323
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-22
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 08 2024 09:54:18
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771061 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=LEWISGALE MEDICAL CENTER VA ;City=SALEM ;State=VA ;Zip=24153 ;Start=11/29/2023;End=2/28/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$105.00;minBillRate=$105.00;OTRate=113 ;CallbackRate=88 ;HolidayRate=88 ;Orientation=0 ;Description=Description:TRAVEL RN MEDSURG
+13 WEEKS
+7:00PM- 7:00AM
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE ACTIVE VA LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+   5E MED SURG             Location: LewisGale Medical Center             
+Address: 1900   Electric Road, Salem, VA 24153
+         
+Floor: 5 East
+             
+Building: Main   Hospital
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   36 Beds
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   55 employees
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   1 Clinical coordinator/ 6   RN s / 3 techs / 1 unit secretary
+   
+o
+
+
+   Night Shift   1 Clinical coordinator/   6 RN s / 2 techs 
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   1:6 
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   Baxter IV pumps/   Medfusion pumps/ SCD s
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech
+   
+
+
+             Typical hiring profile             Skill Set Most recruited for:
+   (Travel RNs)   
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+BLS
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+Familiar with post-operative patients
+   
+ 
+
+
+
+
+
+
+
+   
+Competent with dressing changes/ wound care/   drain management 
+   
+
+
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   Care of   the post-operative patient
+   
+ 
+
+
+
+
+
+
+
+   Maintain   drains
+   
+ 
+
+
+
+
+
+
+
+   Wound   care
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Team player with positive attitude
+   
+ 
+
+
+
+
+
+
+
+   
+Strong patient advocate
+   
+ 
+
+
+
+
+
+
+
+   Able to work in a fast pace environment
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color -
+ Navy Blue/ White
+   
+ 
+
+
+
+
+
+
+
+   No hoodies/ pull-overs/ T-Shirts 
+   
+
+
+             Awards/Recognition: 
+   
+ 
+
+
+
+
+
+
+
+   Top
+   patient experience scores- measured through HCAHPS
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/771061;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => LewisGale Medical Center Salem Campus Travel
+    [shiftDateEnd] => 2024-04-22
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

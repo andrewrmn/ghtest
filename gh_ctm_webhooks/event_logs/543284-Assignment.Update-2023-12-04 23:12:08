@@ -1,0 +1,224 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '12900',
+  'Cf-Ray' => '8307bb80118923b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => SCOPE OF PRACTICE
+The Registered Professional Nurse utilizes the nursing process in provision of direct patient care.  The RN is responsible and accountable for assessing, planning, implementing, and evaluating nursing care of residents.  Supervises resident/patient care provided by other members of the nursing team.  Develops and implements the resident care plan and augments the Quality of Life for the residents.
+Diagnoses and treats human responses to actual and potential health problems through such services as case finding, health teaching, health counseling, and provision of care, supportive to or restorative of life and well-being.  Acts in accordance with the  Code of Ethics for Nurse! 
+ 
+JOB DUTIES
+1. Participates in determining conditions, resources, and policies essential to the delivery of nursing care services by:
+1.1.Knowing and adhering to objectives, policies of the facility and Nursing Department related to resident care.
+1.2.Establishing and maintaining good interpersonal relationships with residents, families/significant others, and visitors in accordance with patient Bill of Rights.
+REGISTERED NURSE CONT D
+ 
+1.3.Maintaining effective and proper use of equipment and supplies, including safekeeping of resident s belongings.
+1.4.Maintaining the safe keeping of drugs and their records according to the law.
+2. Participates in maintaining standards of nursing practice by: knowing and applying scientific principles in performing nursing procedures and applying knowledge of drugs, diagnostic tests, and other therapeutic modalities based on established principles and precautions.
+3. Conducts residents care rounds to identify residents  needs and problems; receives reports from staff nurse of the previous shift; distributes and discusses assignments with staff members.
+4. Initiates assessment of resident s needs (physical, psychological, social, and rehabilitative) and develops a comprehensive plan of care to meet these needs, utilizing the nursing process.
+5. Completes assigned sections of the Minimum Date Set Plus; applies appropriate RAPS, DS+; applies appropriate RAPS, to the facility, on a quarterly basis, change of condition and during annual reviews as per State guidelines. Coordinates and participates in the Comprehensive Care Planning process.
+6. Implements the comprehensive care plan in the conjunction with residents/families and members of the interdisciplinary team.
+7. Assesses the nutritional needs of the residents; actively participates at mealtime by assessing staff, observing and feeding residents.
+8.Revises nursing assignments as needed; observes and supervise staff members to ensure that care is given in accordance with facility policies/procedures.
+9.Ensures that unit programs of restorative nursing care are adequate to meet resident needs.
+10.Provides direct nursing care based on the needs of the residents.  Administers medication and treatments according to physician s order. 
+ Schedule Notes:Evening Shift  3:00 pm to 11:00 pm
+Possible 37.5 hours per week
+6 month contract
+
+Skills: 11. Delivers appropriate nursing intervention in response to physical and behavioral/emotional condition.
+12.Communicates plan of care to others providing care to residents.
+13.Assist with investigation of complaints and occurrences related to resident care.
+14.Responsible for carrying out Fire and Safety regulations to maintain a safe environment.
+15.Evaluates, documents, and communicates to other members of the health team residents  family, response to nursing intervention and treatments including teaching  and discharge plans.
+16.Assists with orientation, skill training, and evaluation of new nursing personnel.
+17.Participates in departmental and interdisciplinary committees, which influence or determine policies affecting nursing practice.
+18.Interprets philosophy and objectives of the facility and the Nursing Department to residents  families, personnel, and the community.
+19.Maintains professional competence through participation in continuing education and other appropriate learning experience.
+20.Participates in continuous performance improvement activities and demonstrates initiative in identifying and communicating performance problems and issues.
+21.Demonstrates professional responsibility and accountability for decisions made and actions taken within the scope of nursing practice in accordance with the facility policy and procedure.
+22.Performs other related duties assigned by the Nurse Manager.  In an emergency, performs other duties necessary for the welfare of residents or the efficient operations of the facility.
+23.Demonstrates knowledge, awareness, and responsiveness to the age specific requirements of the population(s) served.
+ Required
+	
+	  RAPS
+	   THERAPEUTIC
+	   RN
+	   REGISTERED NURSING
+	   TEACHING
+	          
+	
+	
+	
+	Additional
+	
+	            PATIENT CARE
+	   CPR CERTIFIED
+	   REGISTERED NURSE
+	   OPERATIONS
+
+Education: MINIMUM EDUCATION
+  Graduate of an accredited registered nursing program.  
+  Completion of an orientation on caring for residents with AIDS.  
+  Knowledge of MDS+.
+ 
+MINIMUM EXPERIENCE
+  Recent staff nurse experience, preferable in AIDS care.
+  License/Registration/Certification/Permit required:
+? Licensed to practice in New York State as:
+? Registered Professional Nurse
+? CPR Certification
+? PRI Assessor
+
+;Languages: 
+ 
+English
+&nbsp;Read
+&nbsp;Write
+&nbsp;Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: Clinical
+    [sitename] => giftednurses
+    [spec] => LTC
+    [assignmentid] => 543284
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 15899
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => December, 04 2023 18:11:37
+    [daysPerWeek] => 5
+    [orderNote] => Source=Wand;SourceID=25501279 ;Status=Pending;Client=Brookdale Hospital Medical Center ;City=Brooklyn ;State=NY ;Zip=11212 ;Start=9/25/2023;End=3/23/2024;Duration=180;Cert=Clinical ;Specialty=SSI - RN LTC ;Unit=9015 :					 Nursing Geriatrics 1N DDSI 9015 :  Nursing Geriatrics 1N DDSI ;Shift=Days Evening Shift  3:00 pm to 11:00 pm
+Possible 37.5 hours per week
+6 month contract 5x8 Hr;# of Postions=4;Guaranteed Hours=40.00;Type=Travel;BillRate=$103.00;HolidayRate=$154.50 ;Description=SCOPE OF PRACTICE
+The Registered Professional Nurse utilizes the nursing process in provision of direct patient care.  The RN is responsible and accountable for assessing, planning, implementing, and evaluating nursing care of residents.  Supervises resident/patient care provided by other members of the nursing team.  Develops and implements the resident care plan and augments the Quality of Life for the residents.
+Diagnoses and treats human responses to actual and potential health problems through such services as case finding, health teaching, health counseling, and provision of care, supportive to or restorative of life and well-being.  Acts in accordance with the  Code of Ethics for Nurse! 
+ 
+JOB DUTIES
+1. Participates in determining conditions, resources, and policies essential to the delivery of nursing care services by:
+1.1.Knowing and adhering to objectives, policies of the facility and Nursing Department related to resident care.
+1.2.Establishing and maintaining good interpersonal relationships with residents, families/significant others, and visitors in accordance with patient Bill of Rights.
+REGISTERED NURSE CONT D
+ 
+1.3.Maintaining effective and proper use of equipment and supplies, including safekeeping of resident s belongings.
+1.4.Maintaining the safe keeping of drugs and their records according to the law.
+2. Participates in maintaining standards of nursing practice by: knowing and applying scientific principles in performing nursing procedures and applying knowledge of drugs, diagnostic tests, and other therapeutic modalities based on established principles and precautions.
+3. Conducts residents care rounds to identify residents  needs and problems; receives reports from staff nurse of the previous shift; distributes and discusses assignments with staff members.
+4. Initiates assessment of resident s needs (physical, psychological, social, and rehabilitative) and develops a comprehensive plan of care to meet these needs, utilizing the nursing process.
+5. Completes assigned sections of the Minimum Date Set Plus; applies appropriate RAPS, DS+; applies appropriate RAPS, to the facility, on a quarterly basis, change of condition and during annual reviews as per State guidelines. Coordinates and participates in the Comprehensive Care Planning process.
+6. Implements the comprehensive care plan in the conjunction with residents/families and members of the interdisciplinary team.
+7. Assesses the nutritional needs of the residents; actively participates at mealtime by assessing staff, observing and feeding residents.
+8.Revises nursing assignments as needed; observes and supervise staff members to ensure that care is given in accordance with facility policies/procedures.
+9.Ensures that unit programs of restorative nursing care are adequate to meet resident needs.
+10.Provides direct nursing care based on the needs of the residents.  Administers medication and treatments according to physician s order. 
+ Schedule Notes:Evening Shift  3:00 pm to 11:00 pm
+Possible 37.5 hours per week
+6 month contract
+
+Skills: 11. Delivers appropriate nursing intervention in response to physical and behavioral/emotional condition.
+12.Communicates plan of care to others providing care to residents.
+13.Assist with investigation of complaints and occurrences related to resident care.
+14.Responsible for carrying out Fire and Safety regulations to maintain a safe environment.
+15.Evaluates, documents, and communicates to other members of the health team residents  family, response to nursing intervention and treatments including teaching  and discharge plans.
+16.Assists with orientation, skill training, and evaluation of new nursing personnel.
+17.Participates in departmental and interdisciplinary committees, which influence or determine policies affecting nursing practice.
+18.Interprets philosophy and objectives of the facility and the Nursing Department to residents  families, personnel, and the community.
+19.Maintains professional competence through participation in continuing education and other appropriate learning experience.
+20.Participates in continuous performance improvement activities and demonstrates initiative in identifying and communicating performance problems and issues.
+21.Demonstrates professional responsibility and accountability for decisions made and actions taken within the scope of nursing practice in accordance with the facility policy and procedure.
+22.Performs other related duties assigned by the Nurse Manager.  In an emergency, performs other duties necessary for the welfare of residents or the efficient operations of the facility.
+23.Demonstrates knowledge, awareness, and responsiveness to the age specific requirements of the population(s) served.
+ Required
+	
+	  RAPS
+	   THERAPEUTIC
+	   RN
+	   REGISTERED NURSING
+	   TEACHING
+	          
+	
+	
+	
+	Additional
+	
+	            PATIENT CARE
+	   CPR CERTIFIED
+	   REGISTERED NURSE
+	   OPERATIONS
+
+Education: MINIMUM EDUCATION
+  Graduate of an accredited registered nursing program.  
+  Completion of an orientation on caring for residents with AIDS.  
+  Knowledge of MDS+.
+ 
+MINIMUM EXPERIENCE
+  Recent staff nurse experience, preferable in AIDS care.
+  License/Registration/Certification/Permit required:
+? Licensed to practice in New York State as:
+? Registered Professional Nurse
+? CPR Certification
+? PRI Assessor
+
+;Languages: 
+ 
+English
+&nbsp;Read
+&nbsp;Write
+&nbsp;Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: Clinical ;url=https://prowand.pro-unlimited.com/supplier/standard/requisition/req_geninfo_view.html?id=25501279&type=REQUISITION&reqProfile=true;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 103
+    [facilityName] => Brookdale Hospital Medical Center (RS) TRAVEL
+    [shiftDateEnd] => 2024-06-21
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

@@ -1,0 +1,131 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4722',
+  'Cf-Ray' => '831831c030746a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Job Description
+Southeast has been named Best-In-State employers by Forbes for the 2nd year in a row! To see a full video from the CNO click the link below!!
+
+https://vimeo.com/855455514
+
+NO LOCALS allowed - 90 mile radius rule please list perm address on profile
+Orientations are every other Monday, but the facility is on a Wednesday - Tuesday Pay Period, so contracts will end on a Tuesday.
+This is a MS overflow/ Tele Unit 
+Will take NEW TRAVELERS
+All RNs MUST BE comfortable with High acuity and a 1:6 or 1:7 patient ratio
+Needs to be proficient in drips; Cardizem, Tridil and Amiodarone 
+Can offer Block Booking, EOW required
+BLS Required
+NIH Required
+Please submit with compact or AL license active and in good standing
+Hard Deadline for Compliance 1 week prior to start.
+COVID Vaccination required unless they have a documented Religious or Medical exemption.
+Flu shot required OR religious or medical exemption documented
+16 hours Non Bill for orientation
+Scrub colors: ALL Navy OR Navy pants and White top.
+
+ 
+
+
+ Modified Time:12/11/2023 12:00:00 AM
+
+ Account Manager: Jen Millican
+
+ Account Manager Email: Jen.Millican@qualivis.com
+
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+
+ Submittal Details: #Tier1 Travel ComplianceMust have active AL RN license at time of submittalLooking for candidates that have worked in large healthcare facilitiesTravel experience required, BUT if candidate has a lot of experience, they may be considered.This is a "do not call" facility.8+ hours of modules not included in the bill rate
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545556
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8476
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 06 2023 18:09:03
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2303588 ;Status=Open;Association=Qualivis MSP ;Client=Southeast Health Medical Center ;City=Dothan ;State=AL ;Zip=36301 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Registered Nurse ;Specialty=MS/Tele ;Unit=2 East | 400400 ;Shift=Night 4x12-Hour (19:00 - 07:00);# of Postions=1;Type=Travel;BillRate=$75.00;OTRules=48 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Job Description
+Southeast has been named Best-In-State employers by Forbes for the 2nd year in a row! To see a full video from the CNO click the link below!!
+
+https://vimeo.com/855455514
+
+NO LOCALS allowed - 90 mile radius rule please list perm address on profile
+Orientations are every other Monday, but the facility is on a Wednesday - Tuesday Pay Period, so contracts will end on a Tuesday.
+This is a MS overflow/ Tele Unit 
+Will take NEW TRAVELERS
+All RNs MUST BE comfortable with High acuity and a 1:6 or 1:7 patient ratio
+Needs to be proficient in drips; Cardizem, Tridil and Amiodarone 
+Can offer Block Booking, EOW required
+BLS Required
+NIH Required
+Please submit with compact or AL license active and in good standing
+Hard Deadline for Compliance 1 week prior to start.
+COVID Vaccination required unless they have a documented Religious or Medical exemption.
+Flu shot required OR religious or medical exemption documented
+16 hours Non Bill for orientation
+Scrub colors: ALL Navy OR Navy pants and White top.
+
+ 
+
+
+ Modified Time:12/11/2023 12:00:00 AM
+
+ Account Manager: Jen Millican
+
+ Account Manager Email: Jen.Millican@qualivis.com
+
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+
+ Submittal Details: #Tier1 Travel ComplianceMust have active AL RN license at time of submittalLooking for candidates that have worked in large healthcare facilitiesTravel experience required, BUT if candidate has a lot of experience, they may be considered.This is a "do not call" facility.8+ hours of modules not included in the bill rate ;url=https://app.ayaconnect.com/index.html#/vendor/job/2303588/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Southeast Alabama Medical Center
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

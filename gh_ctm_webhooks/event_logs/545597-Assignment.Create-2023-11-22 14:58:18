@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1572',
+  'Cf-Ray' => '82a207a0836b183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Bill Rate $80.00 / Local $65.00
+Shift times: 7a- 7p
+ General Comments
+ No. of Positions: 2/2.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545597
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6715
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-12
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 22 2023 09:58:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=777217 ;Status=Open;Association=QHCCS, LLC ;Client=Alta Vista Regional Medical Center ;City=Las Vegas ;State=NM ;Zip=87701 ;Start=12/12/2023;End=3/11/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=EXT-Other (911) ;Shift=07:00-19:00;# of Postions=2;Type=Travel;BillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Bill Rate $80.00 / Local $65.00
+Shift times: 7a- 7p
+ General Comments
+ No. of Positions: 2/2.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/777217;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Alta Vista Regional Hospital - NM
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

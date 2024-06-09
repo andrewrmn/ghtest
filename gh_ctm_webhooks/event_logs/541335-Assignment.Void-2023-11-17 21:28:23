@@ -1,0 +1,189 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5638',
+  'Cf-Ray' => '827b102a45ea1842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Data Collection:
+
+Unit Information:
+ Imaging, Radiology &amp; CT
+
+Location: Hill Country
+
+Address: 1020 S State Hwy 16, Fredericksburg, Texas 78624
+
+Floor: 1st
+
+Building: Hospital
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   licensed for 86 bedsNumber of Staff   
+28 imaging staffType of staff:CT &amp; X-ray is 7 days a week 24-hour coverage. Staffing for 2 technologists in CT &amp; 2 in X-ray during day hours and 1 on nightsPatient Ratios   
+Technologist will perform exams on outpatients, inpatients, and emergency patients.Type of equipment   CT is a GE 64 slice unit, X-ray equipment is Carestream, C-Arms are OECEMR   MeditechPACS   Merge Unity
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+competent in all areas of diagnostic radiography &amp; computerized tomography (CT), positioning, procedure preparation, and modality technical factors.
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+Ability to perform fluoroscopy exams.Willing to use the C-arm in the OR
+Ability to perform invasive procedures in CT
+List typical procedures performed on unit(s): 
+
+
+ All CT exams with &amp; without contrast including CT angiography.
+X-ray exams using fixed and mobile x-ray units
+Best personality Fit:
+
+Work focused, Teamwork minded, professional, collaborative
+REQUIRED CERTIFICATIONS:
+Medical Radiologic Technologist   General Certificate from Texas Medical Board (TMB)Radiography (R) &amp; Computed Tomography (CT) certifications from American Registry of Radiologic Technologists (ARRT).
+Floating Area(s):
+Work between X-ray and CT while supporting the imaging department within the hospital.
+Dress Code: 
+Scrub Color/Attire -
+ Navy color - Scrubs
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+
+
+
+
+
+Weekends and On call(if any)
+Position will work Saturday, Sunday, and Monday
+ General Comments
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 541335
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2507
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-20
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 17 2023 16:28:23
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=765175 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=Methodist Hospital Hill Country ;City=Fredericksburg ;State=TX ;Zip=78624 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=CT Tech ;Specialty=Radiology ;Unit=SAN ANTONIO DIVISION (39) ;Shift=7:00AM – 7:00PM ;# of Postions=1;Type=Travel;Description=Description:Data Collection:
+
+Unit Information:
+ Imaging, Radiology &amp; CT
+
+Location: Hill Country
+
+Address: 1020 S State Hwy 16, Fredericksburg, Texas 78624
+
+Floor: 1st
+
+Building: Hospital
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   licensed for 86 bedsNumber of Staff   
+28 imaging staffType of staff:CT &amp; X-ray is 7 days a week 24-hour coverage. Staffing for 2 technologists in CT &amp; 2 in X-ray during day hours and 1 on nightsPatient Ratios   
+Technologist will perform exams on outpatients, inpatients, and emergency patients.Type of equipment   CT is a GE 64 slice unit, X-ray equipment is Carestream, C-Arms are OECEMR   MeditechPACS   Merge Unity
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+competent in all areas of diagnostic radiography &amp; computerized tomography (CT), positioning, procedure preparation, and modality technical factors.
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+Ability to perform fluoroscopy exams.Willing to use the C-arm in the OR
+Ability to perform invasive procedures in CT
+List typical procedures performed on unit(s): 
+
+
+ All CT exams with &amp; without contrast including CT angiography.
+X-ray exams using fixed and mobile x-ray units
+Best personality Fit:
+
+Work focused, Teamwork minded, professional, collaborative
+REQUIRED CERTIFICATIONS:
+Medical Radiologic Technologist   General Certificate from Texas Medical Board (TMB)Radiography (R) &amp; Computed Tomography (CT) certifications from American Registry of Radiologic Technologists (ARRT).
+Floating Area(s):
+Work between X-ray and CT while supporting the imaging department within the hospital.
+Dress Code: 
+Scrub Color/Attire -
+ Navy color - Scrubs
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+
+
+
+
+
+Weekends and On call(if any)
+Position will work Saturday, Sunday, and Monday
+ General Comments ;url=https://vendor.healthtrustws.com/positions/765175;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => Methodist Hospital Hill Country
+    [shiftDateEnd] => 2024-02-19
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

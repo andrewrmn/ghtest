@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2538',
+  'Cf-Ray' => '8318894895456a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Required:Central Processing CertificationMinimum of 3 years experience as a Sterile Processing TechSuccessfulcompletionof at least 1 previous travel assignmentWillingness to work holidays if requiredDetails:5 x 8 hour shifts per week. Occasional weekend call (every 4th or 5th weekend)IMPORTANT NOTE: Traveler will be responsible for securing their own housing for the duration of this assignment.MUST be healthy enough to safelyfunction in a low oxygenenvironment(8,000' in elevation)NOT CURRENTLY ACCEPTING RTO   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Sterile Processing Tech 
+    [assignmentid] => 545096
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5970
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Sterile Processing Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 06 2023 19:08:48
+    [daysPerWeek] => 5
+    [orderNote] => Source=Medefis5;SourceID=261916 ;Status=Open;Association=Aspen Valley Hospital ;Client=Aspen Valley Hospital ;City=Aspen ;State=CO ;Zip=81611 ;Start=11/20/2023;End=4/8/2024;Duration=140;Cert=Nursing ;Specialty=Sterile Processing Technologist ;Unit=Sterile Processing Technologist ;Shift=M-F 1030a - 7p;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$60.00;OTRate=70 ;OTRules=By The Week, after 40, ;CallbackRate=60 (All Inclusive Rate) ;HolidayRate=60 (All Inclusive Rate) ;OnCallRateDescription=$10 per hour pager ;Description=Required:Central Processing CertificationMinimum of 3 years experience as a Sterile Processing TechSuccessfulcompletionof at least 1 previous travel assignmentWillingness to work holidays if requiredDetails:5 x 8 hour shifts per week. Occasional weekend call (every 4th or 5th weekend)IMPORTANT NOTE: Traveler will be responsible for securing their own housing for the duration of this assignment.MUST be healthy enough to safelyfunction in a low oxygenenvironment(8,000' in elevation)NOT CURRENTLY ACCEPTING RTO   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261916;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 60
+    [facilityName] => Aspen Valley Hospital
+    [shiftDateEnd] => 2024-05-12
+    [shiftStartTime] => 10:30
+    [subjectID] => 
+)

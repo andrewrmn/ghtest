@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3980',
+  'Cf-Ray' => '82a3833ee17d1836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => MUST HAVE SKILLED NURSING EXPERIENCE.........Job DescriptionResponsible for ensuring continuity of care by providing direct care as well as supervising the care given by CNAs, LVNs, RNs and support staff members. Communicates with physicians and health team about changes in patient s clinical condition including, results of diagnostic studies and symptomology and is able to respond quickly and accurately to changes in condition or response to treatment. Participates in Quality Improvement activities.Qualifications  SkillsCurrent California RN license with minimum two (2) years prior experience in a long-term care facility with working knowledge of Title 22, OBRA and other regulations with operating knowledge of Electronic Medical Records preferred Must pass nursing medical test and have current BLS certification. Assesses, plans, implements and evaluates the nursing care of residents within the skilled nursing setting. . Must be able to effectively communicate in English; both verbal and written. Must have good interpersonal skills and interface professionally, tactfully and respectfully with residents, patients, staff, general public and governmental agency reps. Basic computer skills required.   Position Urgency:Normal Billing string = Kern Valley Healthcare District
+    [sitename] => giftednurses
+    [spec] => Skilled Nursing
+    [assignmentid] => 545699
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11803
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-22
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 22 2023 14:17:26
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262106 ;Status=Open;Association=Kern Valley Healthcare District ;Client=Kern Valley Healthcare District ;City=Lake Isabella ;State=CA ;Zip=93240 ;Start=11/22/2023;End=2/21/2024;Duration=91;Cert=Nursing ;Specialty=Skilled Nursing (SNF) ;Unit=Skilled Nursing (SNF) ;Shift=Day Shift RN charge for Skilled Nursing ;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$80.00;OTRate=120 ;OTRules=By The Week, after 40, ;HolidayRate=120 (1.5 X All Inclusive Rate (Time & 1/2)) ;OnCallRateDescription=No Call ;Description=MUST HAVE SKILLED NURSING EXPERIENCE.........Job DescriptionResponsible for ensuring continuity of care by providing direct care as well as supervising the care given by CNAs, LVNs, RNs and support staff members. Communicates with physicians and health team about changes in patient s clinical condition including, results of diagnostic studies and symptomology and is able to respond quickly and accurately to changes in condition or response to treatment. Participates in Quality Improvement activities.Qualifications  SkillsCurrent California RN license with minimum two (2) years prior experience in a long-term care facility with working knowledge of Title 22, OBRA and other regulations with operating knowledge of Electronic Medical Records preferred Must pass nursing medical test and have current BLS certification. Assesses, plans, implements and evaluates the nursing care of residents within the skilled nursing setting. . Must be able to effectively communicate in English; both verbal and written. Must have good interpersonal skills and interface professionally, tactfully and respectfully with residents, patients, staff, general public and governmental agency reps. Basic computer skills required.   Position Urgency:Normal Billing string = Kern Valley Healthcare District ;url=https://vms.medefis5.com/jobs/262106;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Kern Valley Healthcare District
+    [shiftDateEnd] => 2024-02-21
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

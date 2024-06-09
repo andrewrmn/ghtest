@@ -1,0 +1,129 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '43',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8817',
+  'Cf-Ray' => '828d64a2d5201840-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Start date: Start date will be 2-3 weeks from offer
+Will work 3x12hr nights 1900-700 with every other weekend and no call
+Will float to med surg floors at the Main hospital and Ashley River tower
+Holidays required
+Years of experience Required: 1+ year of experience
+First-timers accepted: Yes
+Weekend requirement:  every other weekend
+Certs/Experience/Skills required:  BLS, South Carolina or Multi-State/Compact State RN License
+On-call requirement: no call
+Will clinician float within scope to meet facility needs?  Yes
+Open to accommodating block schedule? Requires managers approval upon request. Dependent on unit's needs.
+Locals accepted: Yes. 
+Local radius: 50 miles. Locals accepted on a case by case basis at lower rate
+Pending License accepted: No. Will not hire with pending license.
+SC is a walk through state and they can obtain a license during compliance
+RTO Restrictions: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the process.
+Guaranteed Hours:  Facility allowed to call off 1 shift per 2 weeks
+
+Hospital Highlights 
+Type of Facility:  Level I Trauma Center, Teaching Facility, Magnet Hospital
+Total Staffed Beds:  820
+Scrub Color:  All RNs - Solid Royal Blue or White top with Royal blue bottoms.
+Charting:  EPIC
+Parking Cost:  Parking management office (located 91presidents street) to obtain parking permit. $20 registration fee for a hang tag which will allow use of the garage. No additional fees. Hang tag will not cover parking in any other locations. If parking outside of the 91 Street Parking Garage, additional fees may be incurred.
+
+Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+
+ Modified Time:11/13/2023 5:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal radius: 50 miles. Locals accepted on a case by case basis at lower ratePerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 537549
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3712
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 19 2023 21:51:46
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2279536 ;Status=Open;Association=Qualivis MSP ;Client=MUSC Health Charleston ;City=Charleston ;State=SC ;Zip=29425 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Registered Nurse ;Specialty=Medical Surgical Float ;Unit=CC000517 CHS - Meduflex Team (Main) ;Shift=Night 3x12-Hour (19:00 - 07:00);# of Postions=1;Type=Travel;BillRate=$68.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Start date: Start date will be 2-3 weeks from offer
+Will work 3x12hr nights 1900-700 with every other weekend and no call
+Will float to med surg floors at the Main hospital and Ashley River tower
+Holidays required
+Years of experience Required: 1+ year of experience, 2+ years highly preferred
+First-timers accepted: Yes
+Weekend requirement:  every other weekend
+Certs/Experience/Skills required:  BLS, South Carolina or Multi-State/Compact State RN License
+On-call requirement: no call
+Will clinician float within scope to meet facility needs?  Yes
+Open to accommodating block schedule? Requires managers approval upon request. Dependent on unit's needs.
+Locals accepted: Yes. 
+Local radius: 50 miles. Locals accepted on a case by case basis at lower rate
+Pending License accepted: No. Will not hire with pending license.
+SC is a walk through state and they can obtain a license during compliance
+RTO Restrictions: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the process.
+Guaranteed Hours:  Facility allowed to call off 1 shift per 2 weeks
+
+Hospital Highlights 
+Type of Facility:  Level I Trauma Center, Teaching Facility, Magnet Hospital
+Total Staffed Beds:  820
+Scrub Color:  All RNs - Solid Royal Blue or White top with Royal blue bottoms.
+Charting:  EPIC
+Parking Cost:  Parking management office (located 91presidents street) to obtain parking permit. $20 registration fee for a hang tag which will allow use of the garage. No additional fees. Hang tag will not cover parking in any other locations. If parking outside of the 91 Street Parking Garage, additional fees may be incurred.
+
+Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+
+BF LS
+
+ Modified Time:11/27/2023 12:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal radius: 50 miles. Locals accepted on a case by case basis at lower ratePerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2279536/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 68
+    [facilityName] => MUSC- Medical Center
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

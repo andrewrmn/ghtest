@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '29',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '968',
+  'Cf-Ray' => '8316da4eb5f34961-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By Facility; No Longer Needed; Facility Withdrew Offer
+    [sitename] => giftednurses
+    [spec] => LTC
+    [assignmentid] => 532611
+    [workerID] => 238412
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 40
+    [facilityID] => 13754
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-05
+    [workerLastName] => Cobb
+    [shiftNum] => 4
+    [workerFirstName] => Fredricka
+    [cert] => LPN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 06 2023 14:14:35
+    [daysPerWeek] => 4
+    [orderNote] => EXTENSION
+BR:$65|RS:134880|FTK:Gifted Timecard
+    [guaranteedMinimum] => 
+    [workerEmail] => lpncobb@yahoo.com
+    [HoursPerWeekOT] => 8
+    [offContractRate] => 65
+    [facilityName] => Sapphire Center for Rehabilitation and Nursing of Central Queens
+    [shiftDateEnd] => 2023-11-10
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1842',
+  'Cf-Ray' => '84fbbae4e1001464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 04/15/2019 0634 MDTCerville Exavier					Skill Set: ARRT, CT registration, and must be able to act as X-Ray tech as well. Shift: 36 hours per week. 11p-7a M-Thursday. 1 Night  (afternoon actually, generally 4p-6p) call per week. 1 weekend on-call per month. There is a tech scheduled - the call will back up only.https://secure.shiftwise.net/esp/order.aspx?order_id=EAC675398043B4FA
+    [sitename] => giftednurses
+    [spec] => Radiology
+    [assignmentid] => 58305
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 8.5
+    [facilityID] => 2478
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-05-06
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:30
+    [whenmodified] => February, 03 2024 10:32:17
+    [daysPerWeek] => 1
+    [orderNote] => Source=ShiftWise;ID=0;SourceID=8092917;Status=;Client=AH: Seton Northwest Hospital Allied;City=Austin;State=TX;Start=5/6/2019;End=8/5/2019;Duration=92;Cert=Rad Tech;Specialty=CT Technologist;Unit=SNW Radiology;Shift=NOC 8.00 Hrs;# of Postions=1;Type=Travel;OTRate=;Description=04/15/2019 0634 MDTCerville ExavierSkill Set: ARRT, CT registration, and must be able to act as X-Ray tech as well. Shift: 36 hours per week. 11p-7a M-Thursday. 1 Night  (afternoon actually, generally 4p-6p) call per week. 1 weekend on-call per month. There is a tech scheduled - the call will back up only.https://secure.shiftwise.net/esp/order.aspx?order_id=EAC675398043B4FA;VMSPositionType= AvgHoursPerWeek=
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 
+    [facilityName] => Dell Children's Medical Center
+    [shiftDateEnd] => 2019-08-05
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

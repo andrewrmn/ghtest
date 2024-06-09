@@ -1,0 +1,158 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '20',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4773',
+  'Cf-Ray' => '82d4cabed555493d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name
+CVICU-RN-Mercy Joplin
+
+
+Organization
+Mercy
+
+
+Facility
+Mercy Hospital Joplin
+
+
+Unit
+Cardiovascular Intensive Care Unit
+
+
+Cost Center
+50-456130
+
+SHIFT INFO
+
+Shift Night
+
+
+Shifts per week3
+
+
+Hours per shift
+12
+
+EXPERIENCE
+
+Years of Experience
+One Year Plus
+
+
+Specialties
+
+Cardiac - required
+
+CERTIFICATIONS
+
+ACLS - requiredBLS - requiredPALS - preferred
+
+DESCRIPTIONUnit: Cardiac Evaluation ICUSpecialty: RNLocation: Mercy Joplin
+Overview: Performs direct patient care activities for all age groups to include assessment, planning, implementation, and evaluation. Monitors and coordinates patient care activities with ancillary departments to optimize patient care and comfort. Functions within the scope of nursing preparation and consistent with the established guidelines of nursing practice, the Missouri Nurse Practice Act, Mercy Code of Conduct, Mercy Mission and Values and Mercy Service Standards.
+Qualifications
+Licensure: Current AR Registered Nurse license or compact state license if living outside of Arkansas.Education: High school diploma or equivalent. Graduated from an accredited school of nursing.Other: Ability to hear and read effectively. Ability to read, write and communicate effectively in English. Ability to navigate effectively in many computer systems. Ability to work in a team focused environment. Ability to work in a rapid-paced work environment. Ability to work independently. Good problem-solving skills. Ability to provide quality bedside patient care.Preferred Experience: Two years current inpatient, acute care hospital experience.
+ General Comments
+    [sitename] => giftednurses
+    [spec] => CVICU
+    [assignmentid] => 538221
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8970
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-20
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 28 2023 13:49:38
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=769050 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Joplin ;City=Joplin ;State=MO ;Zip=64804 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=RN ;Specialty=CVICU ;Unit=Mercy ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Name
+CVICU-RN-Mercy Joplin
+
+
+Organization
+Mercy
+
+
+Facility
+Mercy Hospital Joplin
+
+
+Unit
+Cardiovascular Intensive Care Unit
+
+
+Cost Center
+50-456130
+
+SHIFT INFO
+
+Shift Night
+
+
+Shifts per week3
+
+
+Hours per shift
+12
+
+EXPERIENCE
+
+Years of Experience
+One Year Plus
+
+
+Specialties
+
+Cardiac - required
+
+CERTIFICATIONS
+
+ACLS - requiredBLS - requiredPALS - preferred
+
+DESCRIPTIONUnit: Cardiac Evaluation ICUSpecialty: RNLocation: Mercy Joplin
+Overview: Performs direct patient care activities for all age groups to include assessment, planning, implementation, and evaluation. Monitors and coordinates patient care activities with ancillary departments to optimize patient care and comfort. Functions within the scope of nursing preparation and consistent with the established guidelines of nursing practice, the Missouri Nurse Practice Act, Mercy Code of Conduct, Mercy Mission and Values and Mercy Service Standards.
+Qualifications
+Licensure: Current AR Registered Nurse license or compact state license if living outside of Arkansas.Education: High school diploma or equivalent. Graduated from an accredited school of nursing.Other: Ability to hear and read effectively. Ability to read, write and communicate effectively in English. Ability to navigate effectively in many computer systems. Ability to work in a team focused environment. Ability to work in a rapid-paced work environment. Ability to work independently. Good problem-solving skills. Ability to provide quality bedside patient care.Preferred Experience: Two years current inpatient, acute care hospital experience.
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/769050;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Mercy Hospital Joplin - TRAVEL
+    [shiftDateEnd] => 2024-02-19
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

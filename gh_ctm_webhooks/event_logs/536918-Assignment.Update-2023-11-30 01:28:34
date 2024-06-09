@@ -1,0 +1,288 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '9023',
+  'Cf-Ray' => '82df507ce3fd1464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL   RN   ICU 650 / 7:00PM - 7:00AM
+https://engage.healthtrustjobs.com/facility-spotlights/medical-city-denton        Hospital:
+ Med City Denton             Location: Denton, TX             Unit: ICU (650)         Classification: RN-ICU             Shift Detail:
+Building/Floor/Suite information of   unit :
+              General Information             Shift Details- Please correct   information below
+ if needed:   
+       Quantity:
+    Bill Rate
+    Assignment Length: 13        weeks    Shift/Workdays:
+    Weekend  
+    Call Requirements:
+    Guaranteed Hours: 36            Special        Skills/Experience required: 2 years +      
+   Unit Specifics - Information below is requested for better   sourcing:   
+
+
+       Unit staffing        description: Assignments        according to acuity and skills    Type of equipment        :
+ all ICU equipment-ventilators, NXStage, Arctic Sun, GE Cardiac        Output monitor    Documentation system: Meditech    Floating policy: As        needed      
+   Hospital Specifics:   
+       Certifications:        CCRN preferred      
+
+
+             Hiring profile             Requested   Skill Set:
+
+
+    
+   
+Must have: (candidates without these skills will not be   considered for the role)
+   
+   
+ 
+
+
+
+
+
+
+
+   2+ years ICU experience
+   
+ 
+
+
+
+
+
+
+
+   BLS
+   
+ 
+
+
+
+
+
+
+
+   ACLS
+    
+
+
+
+
+
+
+
+   NIH REQUIRED   
+   Preferred Skills/Advanced Skills Needed: (candidates with these skills will be considered   first)
+ Experience with the following:    
+    
+
+
+
+
+
+
+
+   Meditech   Experience preferred    
+
+
+
+
+
+
+
+   Experience with   advanced hemodynamic monitoring, ventilator management, and vasoactive drip   titrations   
+   Specialty/Unit Certifications Required:   (RN)   
+       Active RN TX license   temp        license will not be accepted       
+   Procedures performed on unit:
+    
+       Invasive        lines, temp pacers, bronchoscopy, chest tube insertion, thoracentesis,        cardioversion      
+   Patient Experience Required:    
+    
+
+
+
+
+
+
+
+   Pre-shift huddle attendance, bedside shift report,   communication board completion, ability to make meaningful personal   connections, and focus on Nurse listen/Explain tactics   
+             Dress Code: Include requirements, but most of all not acceptable   attire.       Scrub Color      o
+
+   RN:
+ Royal Blue   Scrubs       Nail Policy   Clean and Healthy, no        artificial nails, gel, next gen, etc.    Hair - hair should be neat        and clean with no extreme styles or colors. Beards, mustaches and        sideburns should be clean and neatly trimmed.
+ Hair must be pulled back if shoulder        length or longer when working in the lab.    Tattoos   Body art should be        covered whenever possible. Body art that is not feasible to cover on a        daily basis will be addressed individually    Piercings   Visible piercings        other than ears is prohibited.
+        This includes nose rings, tongue rings, etc.     Other  
+                 Unit Guidelines/Policies:        Floating        Guidelines:
+     Attendance        Policies:
+ The company wide attendance policy will be        followed.                Any additional information that would entice a worker to select your   unit for their assignment: 
+   
+   Consider items such as new equipment   or technology, tenure and experience of staff, schedule options, etc.    
+   Needs for both day and night shifts.   Both shifts will require 4 weekend shifts per month, and 3 scheduled shifts   per week.
+ General Comments
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 536918
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5532
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 29 2023 20:28:33
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=729657 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=MEDICAL CITY DENTON (DEN) ;City=Denton ;State=TX ;Zip=76210 ;Start=6/25/2023;End=9/24/2023;Duration=91;Cert=RN ;Specialty=ICU ;Unit=NORTH TEXAS DIVISION (17) ;Shift=7:00PM - 7:00AM;# of Postions=1;Type=Travel;BillRate=$70.00;OTRate=78 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL   RN   ICU 650 / 7:00PM - 7:00AM
+https://engage.healthtrustjobs.com/facility-spotlights/medical-city-denton        Hospital:
+ Med City Denton             Location: Denton, TX             Unit: ICU (650)         Classification: RN-ICU             Shift Detail:
+Building/Floor/Suite information of   unit :
+              General Information             Shift Details- Please correct   information below
+ if needed:   
+       Quantity:
+    Bill Rate
+    Assignment Length: 13        weeks    Shift/Workdays:
+    Weekend  
+    Call Requirements:
+    Guaranteed Hours: 36            Special        Skills/Experience required: 2 years +      
+   Unit Specifics - Information below is requested for better   sourcing:   
+
+
+       Unit staffing        description: Assignments        according to acuity and skills    Type of equipment        :
+ all ICU equipment-ventilators, NXStage, Arctic Sun, GE Cardiac        Output monitor    Documentation system: Meditech    Floating policy: As        needed      
+   Hospital Specifics:   
+       Certifications:        CCRN preferred      
+
+
+             Hiring profile             Requested   Skill Set:
+
+
+    
+   
+Must have: (candidates without these skills will not be   considered for the role)
+   
+   
+ 
+
+
+
+
+
+
+
+   2+ years ICU experience
+   
+ 
+
+
+
+
+
+
+
+   BLS
+   
+ 
+
+
+
+
+
+
+
+   ACLS
+    
+
+
+
+
+
+
+
+   NIH REQUIRED   
+   Preferred Skills/Advanced Skills Needed: (candidates with these skills will be considered   first)
+ Experience with the following:    
+    
+
+
+
+
+
+
+
+   Meditech   Experience preferred    
+
+
+
+
+
+
+
+   Experience with   advanced hemodynamic monitoring, ventilator management, and vasoactive drip   titrations   
+   Specialty/Unit Certifications Required:   (RN)   
+       Active RN TX license   temp        license will not be accepted       
+   Procedures performed on unit:
+    
+       Invasive        lines, temp pacers, bronchoscopy, chest tube insertion, thoracentesis,        cardioversion      
+   Patient Experience Required:    
+    
+
+
+
+
+
+
+
+   Pre-shift huddle attendance, bedside shift report,   communication board completion, ability to make meaningful personal   connections, and focus on Nurse listen/Explain tactics   
+             Dress Code: Include requirements, but most of all not acceptable   attire.       Scrub Color      o
+
+   RN:
+ Royal Blue   Scrubs       Nail Policy   Clean and Healthy, no        artificial nails, gel, next gen, etc.    Hair - hair should be neat        and clean with no extreme styles or colors. Beards, mustaches and        sideburns should be clean and neatly trimmed.
+ Hair must be pulled back if shoulder        length or longer when working in the lab.    Tattoos   Body art should be        covered whenever possible. Body art that is not feasible to cover on a        daily basis will be addressed individually    Piercings   Visible piercings        other than ears is prohibited.
+        This includes nose rings, tongue rings, etc.     Other  
+                 Unit Guidelines/Policies:        Floating        Guidelines:
+     Attendance        Policies:
+ The company wide attendance policy will be        followed.                Any additional information that would entice a worker to select your   unit for their assignment: 
+   
+   Consider items such as new equipment   or technology, tenure and experience of staff, schedule options, etc.    
+   Needs for both day and night shifts.   Both shifts will require 4 weekend shifts per month, and 3 scheduled shifts   per week.
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/729657;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Medical City Denton
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

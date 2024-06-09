@@ -1,0 +1,93 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4573',
+  'Cf-Ray' => '82937841e2f5183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 2yr. Radiology. CT, Relevant Equipment experience, GE experience | Graduate from AMA approved RT program, ARRT,  BLS, State MRTBE| 
+
+Integris requires contractors to know floating may be a requirement. 
+
+DRIVER'S LICENSE MUST BE INCLUDED WITH SUBMISSION 
+
+NO MORE THAN 5 DAYS OF RTO WILL BE ACCEPTED 
+
+Approved 10.19
+
+ Modified Time:11/14/2023 8:00:00 AM
+ Account Manager: Ashley Little
+ Account Manager Email: Ashley.little@vayaworkforce.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceNeed 2 weeks/ 14 calendar days + (confirm with CL if Quick Starts are okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance.RN &amp; Allied Travelers - A copy of traveler s valid State Issued Driver s License or State ID MUST be attached to ALL submittalsRN candidates only - Must have compact license to applyAmerican Heart Association certs requiredNo more than&nbsp;5&nbsp;days of RTO will be accepted per every 13 weeksFloating: All candidates must be willing to float to other areas   even if that is another Integris facility, up to 75 miles.&nbsp; Do not sub unless the traveler is aware and willing to float.Traveler must have a minimum of 1 year separation from INTEGRIS as an employee to be eligible for submissionCandidates within&nbsp;75 miles&nbsp;are considered local travelers and are&nbsp;NOT&nbsp;eligible to apply at Integris.ER candidates only: $32 for ESI certification not included in the BR
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 538469
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13233
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => November, 20 2023 15:33:45
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2279145 ;Status=Open;Association=Vaya Legacy MSP (Connect) ;Client=INTEGRIS Health Southwest Medical Center - OK ;City=Oklahoma City ;State=OK ;Zip=73109 ;Start=11/14/2023;End=2/13/2024;Duration=91;Cert=Radiology / Cardiology ;Specialty=CT Tech ;Unit=2004120 - CT - CT Tech ;Shift=Day 3x12-Hour (07:00 - 07:30);# of Postions=1;Type=Travel;BillRate=$100.00;OTRules=40 total hours in 1 week : 1.4% ;Orientation=8 ;Description=2yr. Radiology. CT, Relevant Equipment experience, GE experience | Graduate from AMA approved RT program, ARRT,  BLS, State MRTBE| 
+
+Integris requires contractors to know floating may be a requirement. 
+
+DRIVER'S LICENSE MUST BE INCLUDED WITH SUBMISSION 
+
+NO MORE THAN 5 DAYS OF RTO WILL BE ACCEPTED 
+
+Approved 10.19
+
+ Modified Time:11/14/2023 8:00:00 AM
+ Account Manager: Ashley Little
+ Account Manager Email: Ashley.little@vayaworkforce.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceNeed 2 weeks/ 14 calendar days + (confirm with CL if Quick Starts are okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance.RN &amp; Allied Travelers - A copy of traveler s valid State Issued Driver s License or State ID MUST be attached to ALL submittalsRN candidates only - Must have compact license to applyAmerican Heart Association certs requiredNo more than&nbsp;5&nbsp;days of RTO will be accepted per every 13 weeksFloating: All candidates must be willing to float to other areas   even if that is another Integris facility, up to 75 miles.&nbsp; Do not sub unless the traveler is aware and willing to float.Traveler must have a minimum of 1 year separation from INTEGRIS as an employee to be eligible for submissionCandidates within&nbsp;75 miles&nbsp;are considered local travelers and are&nbsp;NOT&nbsp;eligible to apply at Integris.ER candidates only: $32 for ESI certification not included in the BR ;url=https://app.ayaconnect.com/index.html#/vendor/job/2279145/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => INTEGRIS Southwest Medical Center Travel
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '887',
+  'Cf-Ray' => '8307a0cdc5e61838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: End Date Change
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 516659
+    [workerID] => 264958
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 36
+    [facilityID] => 13965
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-09-19
+    [workerLastName] => Snow
+    [shiftNum] => 4
+    [workerFirstName] => Elizabeth
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 04 2023 17:53:53
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$87lRS:131375lFTK:GiftTS(unsigned)
+    [guaranteedMinimum] => 
+    [workerEmail] => nicoletruax19@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 87
+    [facilityName] => Sweetwater Hospital Association
+    [shiftDateEnd] => 2023-12-15
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

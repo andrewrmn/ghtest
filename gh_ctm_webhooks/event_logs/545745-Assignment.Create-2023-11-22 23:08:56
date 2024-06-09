@@ -1,0 +1,78 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '26',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4501',
+  'Cf-Ray' => '82a4d65313bf4955-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Surgical/ Trauma
+Weekend A Shift
+
+ Modified Time:2/12/2024 12:00:00 AM
+ Account Manager: Lindsay Ferriss
+ Account Manager Email: lindsay.ferriss@vayaworkforce.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceEmail and Phone NumberRTO must be included at time of submittal or will not be approved- NO EXCEPTIONSMust have at least 2 years of experience and 1 year in the specialty being submitted for unless stated otherwise in job descriptionMO or Compact licensure must be in hand at time of submittalCPI Blue Card required for all Behavioral Health RNs and LCSW.&nbsp; Travelers can start with this pending and take the course onsite for FREE, but will not pay for any hours spent completing the course.Return Travelers: If a traveler takes a break after an assignment and returns within 18 months, re- orientation is not requiredLocals are accepted at different rates and must be confirmed with each specific job posting   75 miles or lessCerner preferred2 references in the profile at time of submittal from a charge nurse or above- REQUIREDFloating is required and mandatory for all units. All travelers will be expected to float to any area at UMHS as a Patient Observer (PTOB)    Sitter. ICU may float to PCU or MS unitsPCU may float to MS or ICU unitsMS may float to MS/TelePediatrics may float anywhere in the organization as a Patient Observer (sitter)Post-Partum may float to MS unitsL&amp;D may float within Maternal/Child
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545745
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13139
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-02-12
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => November, 22 2023 18:08:55
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2316937 ;Status=Open;Association=Vaya MSP ;Client=UMHS - University of Missouri Hospital ;City=Columbia ;State=MO ;Zip=65212 ;Start=2/12/2024;End=5/13/2024;Duration=91;Cert=Registered Nurse ;Specialty=Medical Surgical ;Unit=400349 - Surgical Specialties, H0349 ;Shift=Day 3x12-Hour (07:00 - 19:30);# of Postions=1;Type=Travel;BillRate=$87.00;OTRules=40 total hours in 1 week : 1.4% ;Orientation=8 ;Description=Surgical/ Trauma
+Weekend A Shift
+
+ Modified Time:2/12/2024 12:00:00 AM
+ Account Manager: Lindsay Ferriss
+ Account Manager Email: lindsay.ferriss@vayaworkforce.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceEmail and Phone NumberRTO must be included at time of submittal or will not be approved- NO EXCEPTIONSMust have at least 2 years of experience and 1 year in the specialty being submitted for unless stated otherwise in job descriptionMO or Compact licensure must be in hand at time of submittalCPI Blue Card required for all Behavioral Health RNs and LCSW.&nbsp; Travelers can start with this pending and take the course onsite for FREE, but will not pay for any hours spent completing the course.Return Travelers: If a traveler takes a break after an assignment and returns within 18 months, re- orientation is not requiredLocals are accepted at different rates and must be confirmed with each specific job posting   75 miles or lessCerner preferred2 references in the profile at time of submittal from a charge nurse or above- REQUIREDFloating is required and mandatory for all units. All travelers will be expected to float to any area at UMHS as a Patient Observer (PTOB)    Sitter. ICU may float to PCU or MS unitsPCU may float to MS or ICU unitsMS may float to MS/TelePediatrics may float anywhere in the organization as a Patient Observer (sitter)Post-Partum may float to MS unitsL&amp;D may float within Maternal/Child ;url=https://app.ayaconnect.com/index.html#/vendor/job/2316937/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 87
+    [facilityName] => University of Missouri Hospital Travel
+    [shiftDateEnd] => 2024-05-13
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

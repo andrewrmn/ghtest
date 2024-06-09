@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1508',
+  'Cf-Ray' => '829b946b44c91464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:CONTRACT - RN - DIALYSIS (749) - 7A-7P
+ON CALL REQUIRED
+BLS, ACLS
+ General Comments
+ No. of Positions: 1/2.
+    [sitename] => giftednurses
+    [spec] => Dialysis
+    [assignmentid] => 544223
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5423
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 21 2023 15:11:04
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=765900 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=LAS PALMAS MEDICAL CENTER El Paso ;City=El Paso ;State=TX ;Zip=79902 ;Start=10/30/2023;End=1/29/2024;Duration=91;Cert=RN ;Specialty=Dialysis ;Unit=CENTRAL AND WEST TEXAS DIVISION (50) ;Shift=7A-7P;# of Postions=1;Type=Travel;BillRate=$85.00;OTRate=93 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:CONTRACT - RN - DIALYSIS (749) - 7A-7P
+ON CALL REQUIRED
+BLS, ACLS
+ General Comments
+ No. of Positions: 1/2. ;url=https://vendor.healthtrustws.com/positions/765900;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Las Palmas Medical Center Travel
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

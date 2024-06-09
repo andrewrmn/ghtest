@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8650',
+  'Cf-Ray' => '8399f331864077bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => JJob Description Summary    The Registered Nurse provides direct nursing care in accordance with established policies, procedures and protocols of the organization. The nurse maintains the knowledge and skills necessary to provide care appropriate to the age of the patients served on the assigned unit. The nurse facilitates the coordination of patient care within the interdisciplinary care team and provides patient education to assure safe patient discharge.    Job Description    Performs daily rounds on all patients assuring quality      customer service by coordinating and taking action on any requirements not      met.  Develops a plan of care based on assessment that      reflects the patient's physical, psychological, social, educational, developmental      and rehabilitative needs based on patient's age, ethnic origin, economic      status, lifestyle, creed or philosophical beliefs.  Assesses the patient's condition and nursing needs,      sets goals, and prescribes appropriate nursing actions to meet those goals      and the physical, psychological, social, and rehabilitative needs of the      patient, including discharge planning.  Assesses, intervenes, and reassesses the patient's      self-report/symptoms of pain promptly and takes appropriate action      according to standard operating procedure.  Identifies the early warning signs of a change in a      patient's condition and responds appropriately to a deteriorating patient,      including contacting responsible clinicians as indicated by standard      operating procedure. Assists with or institutes emergency measures for      sudden adverse developments in patient conditions.  Reports pertinent observations and reactions regarding      patients to the appropriate multidisciplinary team member and records      those observations accurately and concisely. Ensures that intervention or      referrals are made promptly. Completes and submits all incident reports      (patient, visitor, staff) prior to the completion of each shift.  Establishes and maintains communication and utilizes      educational opportunities with patients and other significant individuals.  As early as possible, begins discharge planning,      appropriate education and counseling based on identified needs to optimize      patient/family understanding. Evaluates and documents according to      standard operating procedure.  Assigns or delegates, within the scope of practice,      education and experience, the responsibility for performance of nursing      interventions to other persons for which that person has the necessary      skills and competence to accomplish safely.  Performs other duties as assigned or needed to meet the      needs of the department/organization.   Certification:    Registered Nurse | North Dakota Board of Nursing (NDBON) or      Compact State Agreement | Prior to Start Date | HR Primary Sources  Registered Nurse | Minnesota Board of Nursing | Within 12      Months of Start Date | HR Primary Sources  Basic Life Support (BLS) | American Heart Association (AHA)| Within 90 days of Start Date | Learning      Management System   Additional specialty certification/training as required by the work area:    Procedural Services (PACU): ACLS and PALS within 90      Days of Start Date  Cardiac Cath Lab: ACLS within 6 Months of Start Date  Interventional Radiology: ACLS within 6 Months of Start      Date   Notes:    Temporary RN license accepted prior to start.  Must hold an unencumbered nursing license?prior to start.    Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Dialysis
+    [assignmentid] => 546301
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8949
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-31
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 22 2023 12:05:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262310 ;Status=Open;Association=Altru Health System ;Client=Altru Health System ;City=Grand Forks ;State=ND ;Zip=58206 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Nursing ;Specialty=Dialysis Nurse ;Unit=Dialysis Nurse ;Shift=4am-7pm Monday thru Saturday. Works every other Saturday. On-call 4 days per month to cover inpatient dialysis (On-call may be on a Sunday).;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$90.00;OTRate=90 ;OTRules=By The Week, after 40, ;CallbackRate=90 (All Inclusive Rate) ;HolidayRate=90 (All Inclusive Rate) ;OnCallRateDescription=$4 per hour pager ;Description=JJob Description Summary    The Registered Nurse provides direct nursing care in accordance with established policies, procedures and protocols of the organization. The nurse maintains the knowledge and skills necessary to provide care appropriate to the age of the patients served on the assigned unit. The nurse facilitates the coordination of patient care within the interdisciplinary care team and provides patient education to assure safe patient discharge.    Job Description    Performs daily rounds on all patients assuring quality      customer service by coordinating and taking action on any requirements not      met.  Develops a plan of care based on assessment that      reflects the patient's physical, psychological, social, educational, developmental      and rehabilitative needs based on patient's age, ethnic origin, economic      status, lifestyle, creed or philosophical beliefs.  Assesses the patient's condition and nursing needs,      sets goals, and prescribes appropriate nursing actions to meet those goals      and the physical, psychological, social, and rehabilitative needs of the      patient, including discharge planning.  Assesses, intervenes, and reassesses the patient's      self-report/symptoms of pain promptly and takes appropriate action      according to standard operating procedure.  Identifies the early warning signs of a change in a      patient's condition and responds appropriately to a deteriorating patient,      including contacting responsible clinicians as indicated by standard      operating procedure. Assists with or institutes emergency measures for      sudden adverse developments in patient conditions.  Reports pertinent observations and reactions regarding      patients to the appropriate multidisciplinary team member and records      those observations accurately and concisely. Ensures that intervention or      referrals are made promptly. Completes and submits all incident reports      (patient, visitor, staff) prior to the completion of each shift.  Establishes and maintains communication and utilizes      educational opportunities with patients and other significant individuals.  As early as possible, begins discharge planning,      appropriate education and counseling based on identified needs to optimize      patient/family understanding. Evaluates and documents according to      standard operating procedure.  Assigns or delegates, within the scope of practice,      education and experience, the responsibility for performance of nursing      interventions to other persons for which that person has the necessary      skills and competence to accomplish safely.  Performs other duties as assigned or needed to meet the      needs of the department/organization.   Certification:    Registered Nurse | North Dakota Board of Nursing (NDBON) or      Compact State Agreement | Prior to Start Date | HR Primary Sources  Registered Nurse | Minnesota Board of Nursing | Within 12      Months of Start Date | HR Primary Sources  Basic Life Support (BLS) | American Heart Association (AHA)| Within 90 days of Start Date | Learning      Management System   Additional specialty certification/training as required by the work area:    Procedural Services (PACU): ACLS and PALS within 90      Days of Start Date  Cardiac Cath Lab: ACLS within 6 Months of Start Date  Interventional Radiology: ACLS within 6 Months of Start      Date   Notes:    Temporary RN license accepted prior to start.  Must hold an unencumbered nursing license?prior to start.    Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262310;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Altru Health System
+    [shiftDateEnd] => 2024-03-31
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

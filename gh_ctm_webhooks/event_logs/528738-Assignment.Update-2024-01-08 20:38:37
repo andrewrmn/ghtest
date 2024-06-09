@@ -1,0 +1,428 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6566',
+  'Cf-Ray' => '84273ebfa22a6a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:4x10s
+
+Unit Information:
+   IR   SPECIAL PROCEDURES (727)Facility: 
+HCA FLORIDA KENDALL HOSPITAL
+Address: 
+11750 Bird Road, Miami, FL
+ 33175
+
+Floor: 1st   
+
+Building: Main
+
+Cost Center: 727
+General InformationTell us about the unit(s): 
+ 
+
+
+
+
+
+   Number of Labs: 5 
+
+ 
+
+
+
+
+
+   Number of Staff: 1-2 RNs + 1-2 Techs   per case, depending on complexity
+
+ 
+
+
+
+
+
+ Patient Ratios - 1:4 Ratio in holding,   depending on acuity
+
+ 
+
+
+
+
+
+   Type of Equipment: GE Imaging
+
+ 
+
+
+
+
+
+   Documentation System: MacLab and Meditech
+
+ 
+
+
+
+
+
+   Call Requirements: Four ten-hour   shifts per week, monthly call shift burden: goal =  15, float as needed,   Must arrive in less than 30 minutes when called in.
+Typical Hiring Profile
+
+Must have: (includes certifications and special skills, ex: ACLS, BLS, NIH)
+
+ 
+
+
+
+
+
+ACLS, BLS
+
+ 
+
+
+
+
+
+   RCIS or any procedural/cardiology-centered certification
+
+ 
+
+
+
+
+
+   Vascular IR procedural experience, Knowledge of Cath Lab/IR   protocols and procedures
+
+ 
+
+
+
+
+
+   Neuro-interventional experience
+
+ 
+
+
+
+
+
+   High-level communication skills 
+
+
+
+
+List Typical Procedures Performed on Unit(s): 
+
+
+ 
+
+
+
+
+
+   Full scope of Interventional radiology procedures, including   structural (TAVR, Mitra Clip), Carotid stenting, Peripheral arterial cases,   Lumbar punctures
+Additional Preferences: (ex:   previous travel experience preferred, easily adaptable to fast paced unit,   can function well independently)
+ 
+
+
+
+
+
+   
+CVT or
+ ARRT or RCIS
+
+ 
+
+
+
+
+
+   
+
+
+Dress Code:
+
+ 
+
+
+
+
+
+   Scrub Color     Surgical Scrubs, Unit will provide
+Awards/Recognition: 
+Feel free to include items such as   links to videos that feature the department, outstanding department/team   awards, etc.
+ 
+ 
+
+
+
+
+
+   Level 1 Trauma Center
+
+ 
+
+
+
+
+
+   Number one HCA stroke center in the   Company June 2022, July 2022
+
+ 
+
+
+
+
+
+ Huddle calls daily, development of   relationships with Director, staff and patients paramount
+
+ 
+
+
+
+
+
+   Gold seal of approval, well run   department, excellent Director
+ General Comments
+ No. of Positions: 0/3.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 528738
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 2823
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-24
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:30
+    [whenmodified] => January, 08 2024 15:38:36
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=755930 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA FLORIDA KENDALL HOSPITAL ;City=MIAMI ;State=FL ;Zip=33175 ;Start=11/24/2023;End=2/23/2024;Duration=91;Cert=Special Procedures Tech ;Specialty=Radiology ;Unit=EAST FLORIDA DIVISION (22) ;Shift=7:00AM - 5:30PM;# of Postions=0;Type=Travel;BillRate=$100.00;minBillRate=$100.00;OTRate=108 ;CallbackRate=108 ;HolidayRate=108 ;Description=Description:4x10s
+
+Unit Information:
+   IR   SPECIAL PROCEDURES (727)Facility: 
+HCA FLORIDA KENDALL HOSPITAL
+Address: 
+11750 Bird Road, Miami, FL
+ 33175
+
+Floor: 1st   
+
+Building: Main
+
+Cost Center: 727
+General InformationTell us about the unit(s): 
+ 
+
+
+
+
+
+   Number of Labs: 5 
+
+ 
+
+
+
+
+
+   Number of Staff: 1-2 RNs + 1-2 Techs   per case, depending on complexity
+
+ 
+
+
+
+
+
+ Patient Ratios - 1:4 Ratio in holding,   depending on acuity
+
+ 
+
+
+
+
+
+   Type of Equipment: GE Imaging
+
+ 
+
+
+
+
+
+   Documentation System: MacLab and Meditech
+
+ 
+
+
+
+
+
+   Call Requirements: Four ten-hour   shifts per week, monthly call shift burden: goal =  15, float as needed,   Must arrive in less than 30 minutes when called in.
+Typical Hiring Profile
+
+Must have: (includes certifications and special skills, ex: ACLS, BLS, NIH)
+
+ 
+
+
+
+
+
+ACLS, BLS
+
+ 
+
+
+
+
+
+   RCIS or any procedural/cardiology-centered certification
+
+ 
+
+
+
+
+
+   Vascular IR procedural experience, Knowledge of Cath Lab/IR   protocols and procedures
+
+ 
+
+
+
+
+
+   Neuro-interventional experience
+
+ 
+
+
+
+
+
+   High-level communication skills 
+
+
+
+
+List Typical Procedures Performed on Unit(s): 
+
+
+ 
+
+
+
+
+
+   Full scope of Interventional radiology procedures, including   structural (TAVR, Mitra Clip), Carotid stenting, Peripheral arterial cases,   Lumbar punctures
+Additional Preferences: (ex:   previous travel experience preferred, easily adaptable to fast paced unit,   can function well independently)
+ 
+
+
+
+
+
+   
+CVT or
+ ARRT or RCIS
+
+ 
+
+
+
+
+
+   
+
+
+Dress Code:
+
+ 
+
+
+
+
+
+   Scrub Color     Surgical Scrubs, Unit will provide
+Awards/Recognition: 
+Feel free to include items such as   links to videos that feature the department, outstanding department/team   awards, etc.
+ 
+ 
+
+
+
+
+
+   Level 1 Trauma Center
+
+ 
+
+
+
+
+
+   Number one HCA stroke center in the   Company June 2022, July 2022
+
+ 
+
+
+
+
+
+ Huddle calls daily, development of   relationships with Director, staff and patients paramount
+
+ 
+
+
+
+
+
+   Gold seal of approval, well run   department, excellent Director
+ General Comments
+ No. of Positions: 0/3.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/755930;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Kendall Regional Medical Center Travel
+    [shiftDateEnd] => 2024-02-23
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

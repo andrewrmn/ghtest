@@ -1,0 +1,66 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1595',
+  'Cf-Ray' => '829375d746731466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:SEASONAL-CONTRACT- RN-TELE 3S(622)-13 WEEKS -7P-7A
+MUST HAVE TELE EXPMUST HAVE BLS and ACLSJANUARY 7TH,2024 START
+ General Comments
+ No. of Positions: 2/2.
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 545177
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6727
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 20 2023 15:32:06
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=769920 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=SOUTH AUSTIN HOSPITAL TX ;City=AUSTIN ;State=TX ;Zip=78704 ;Start=1/7/2024;End=4/7/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=CENTRAL AND WEST TEXAS DIVISION (50) ;Shift=19:00-07:00;# of Postions=2;Type=Travel;BillRate=$70.00;OTRate=78 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:SEASONAL-CONTRACT- RN-TELE 3S(622)-13 WEEKS -7P-7A
+MUST HAVE TELE EXPMUST HAVE BLS and ACLSJANUARY 7TH,2024 START
+ General Comments
+ No. of Positions: 2/2. ;url=https://vendor.healthtrustws.com/positions/769920;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => St. David's South Austin Medical Center
+    [shiftDateEnd] => 2024-04-07
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

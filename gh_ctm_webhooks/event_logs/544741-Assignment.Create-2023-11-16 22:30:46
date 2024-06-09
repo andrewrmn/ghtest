@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '909',
+  'Cf-Ray' => '82732e2af2b61842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544741
+    [workerID] => 316236
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3585
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => Dimit
+    [shiftNum] => 4
+    [workerFirstName] => Keri
+    [cert] => RN
+    [floorDesc] => Cardiac
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 16 2023 17:30:45
+    [daysPerWeek] => 3
+    [orderNote] => FTK: GTC (unsigned)
+OnCl:P$3.50/B$7/hrPager
+Ornt:$20/NB:16hr-POT:$42>40hr
+BR:$80
+    [guaranteedMinimum] => 
+    [workerEmail] => lynnkeri.1984@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Holston Valley Medical Center TRAVEL
+    [shiftDateEnd] => 2024-04-13
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

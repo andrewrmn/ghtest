@@ -1,0 +1,208 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5734',
+  'Cf-Ray' => '82e7e8f146e01834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Data Collection:
+
+Unit Information:
+ Methodist Texsan Hospital   Cardiac Cath/EP Labs
+
+Location: 
+
+Address:
+ 6700 IH 10 West San Antonio, TX
+ 78201
+
+Floor:
+ 1st floor
+
+Building:
+ Methodist Texsan Hospital
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds -
+ 4 Cath Lab
+ (2 Cath Labs &amp; 2 EP Labs)Number of Staff   
+ 9 Cath Lab staff, 8 EP Lab staffType of staff:Day Shift   1 Nurse manager,
+ Cath Lab 3 or 4 person teams, EP Lab 3 person teamsNight Shift   Cath Lab call team starts at 1530Dayshift primarily 0700-1530 M-F.
+ May flex staff according to patient schedulePatient Ratios   N/AType of equipment   Siemens X-Ray equipment, GE Mac Lab recording, MeditechEMR -
+ Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+2 years Cardiac Cath Lab experienceComplex PCI experience   Impella placement/management, IABP placement/managementRecording experience with GE Mac Lab EMR
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+EP Lab experience.
+ Experience with EP device placement, EP ablations, EP studiesPeripheral vascular intervention experienceFlexibility with SchedulingAble to take extra call
+List typical procedures performed on unit(s): 
+
+Right/Left heart caths, PCI, Complex PCIDiagnostic/Interventional peripheralsEKOS, PFO occluders, Nitric Oxide studiesPacemaker/ICD implants, EP Ablations, Watchman implantsInterventional Radiology
+Best personality Fit:
+
+
+
+
+REQUIRED CERTIFICATIONS:
+1 of:
+ RCIS, RCES, ARRT
+Floating Area(s):
+Cath Lab and EP Lab
+Dress Code: 
+Scrub Color/Attire -
+ royal blue, provided by facility.
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+
+
+
+
+
+Weekends and On call(if any)
+On call M-F approximately 1-2 nights/week, from 1530-0700On call 1 weekend/month, 24 hrs Saturday &amp; Sunday
+ General Comments
+ No. of Positions: 1/2.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 544535
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5540
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Cath Lab Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 12:00
+    [whenmodified] => November, 30 2023 21:30:21
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=764449 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=METHODIST TEXSAN HOSPITAL ;City=San Antonio ;State=TX ;Zip=78201 ;Start=10/4/2023;End=1/3/2024;Duration=91;Cert=Cardiac Cath Lab Tech ;Specialty=Cardiac Cath Lab ;Unit=SAN ANTONIO DIVISION (39) ;Shift=12:00-22:00;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=105 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:Data Collection:
+
+Unit Information:
+ Methodist Texsan Hospital   Cardiac Cath/EP Labs
+
+Location: 
+
+Address:
+ 6700 IH 10 West San Antonio, TX
+ 78201
+
+Floor:
+ 1st floor
+
+Building:
+ Methodist Texsan Hospital
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds -
+ 4 Cath Lab
+ (2 Cath Labs &amp; 2 EP Labs)Number of Staff   
+ 9 Cath Lab staff, 8 EP Lab staffType of staff:Day Shift   1 Nurse manager,
+ Cath Lab 3 or 4 person teams, EP Lab 3 person teamsNight Shift   Cath Lab call team starts at 1530Dayshift primarily 0700-1530 M-F.
+ May flex staff according to patient schedulePatient Ratios   N/AType of equipment   Siemens X-Ray equipment, GE Mac Lab recording, MeditechEMR -
+ Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+2 years Cardiac Cath Lab experienceComplex PCI experience   Impella placement/management, IABP placement/managementRecording experience with GE Mac Lab EMR
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+EP Lab experience.
+ Experience with EP device placement, EP ablations, EP studiesPeripheral vascular intervention experienceFlexibility with SchedulingAble to take extra call
+List typical procedures performed on unit(s): 
+
+Right/Left heart caths, PCI, Complex PCIDiagnostic/Interventional peripheralsEKOS, PFO occluders, Nitric Oxide studiesPacemaker/ICD implants, EP Ablations, Watchman implantsInterventional Radiology
+Best personality Fit:
+
+
+
+
+REQUIRED CERTIFICATIONS:
+1 of:
+ RCIS, RCES, ARRT
+Floating Area(s):
+Cath Lab and EP Lab
+Dress Code: 
+Scrub Color/Attire -
+ royal blue, provided by facility.
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+
+
+
+
+
+Weekends and On call(if any)
+On call M-F approximately 1-2 nights/week, from 1530-0700On call 1 weekend/month, 24 hrs Saturday &amp; Sunday
+ General Comments
+ No. of Positions: 1/2.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/764449;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Methodist Texsan Hospital
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 00:00
+    [subjectID] => 
+)

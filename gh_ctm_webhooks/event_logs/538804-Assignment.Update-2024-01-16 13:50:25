@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '999',
+  'Cf-Ray' => '8466d3d102d21842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Extension Under 4 Weeks
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 538804
+    [workerID] => 300504
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 14109
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-13
+    [workerLastName] => Nitro
+    [shiftNum] => 4
+    [workerFirstName] => Ma Liezl
+    [cert] => RN
+    [floorDesc] => 2 Pines
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 16 2024 08:50:25
+    [daysPerWeek] => 3
+    [orderNote] => BR:$95 lRS:135439					
+Orient:$20lNonBill:8hrs  
+FTK Pay:GH Unsigned Timesheet	
+FTK Bill:  Kronos report from facility
+    [guaranteedMinimum] => 
+    [workerEmail] => maliezln@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => AtlantiCare Regional Medical Center - Mainland TRAVEL
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

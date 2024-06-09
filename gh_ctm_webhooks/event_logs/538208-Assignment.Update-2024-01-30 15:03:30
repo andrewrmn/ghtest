@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4628',
+  'Cf-Ray' => '84da9a1fc63f183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Looking fo Med Surg RN for 13 week contract 7p-7a. Must have NYS license. Temp license acceptable to start. Required BLS and ACLS. AHA Required. The Registered Professional Nurse cares for patients by diagnosing and treating their responses to actual or potential health problems in the acute care setting through implementation of the nursing process. Coordinates care of other disciplines, delegates tasks to other nursing personnel, supervises care, provides direct patient care and evaluates outcomes. Maintains competence in clinical practice and assists in the development of nursing practice standards through participation in professional committees and organizations.Graduate of accredited RN program. Current licensure in NYS or eligibility for limited permit to practice.  Bachelors  degree preferred.The position is located indoors under normal working conditions.  Should be able to push/pull 25 lb., lift/move 15 lb. from floor to table, be able to perform moderately difficult manual manipulations such as using a key board, writing and filing for extended periods of time, must be able to perform tasks which require hand-eye coordination such as data entry, typing and using photo copiers.  Mobility requirements may include the ability to sit at a computer terminal or work station for a prolonged period of time in addition to being able to squat, stand and walk for a reasonable length of time and distance.  Sensory requirements include the ability to articulate and comprehend the spoken English language in addition to being able to read the English language.   Position Urgency:Rapid Response Crisis Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 538208
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2194
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-10-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 30 2024 10:03:30
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=260333 ;Status=Open;Association=Ellis Hospital ;Client=Ellis Hospital ;City=Schenectady ;State=NY ;Zip=12308 ;Start=10/24/2023;End=1/23/2024;Duration=91;Cert=Nursing ;Specialty=Med-surg Adult ;Unit=Med-surg Adult ;Shift=Nights 7p-7a;# of Postions=4;Guaranteed Hours=36;Type=Travel;BillRate=$95.00;OTRate=142.5 ;OTRules=By The Week, after 40, ;CallbackRate=105 (All Inclusive Rate + $10) ;HolidayRate=105 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=Looking fo Med Surg RN for 13 week contract 7p-7a. Must have NYS license. Temp license acceptable to start. Required BLS and ACLS. AHA Required. The Registered Professional Nurse cares for patients by diagnosing and treating their responses to actual or potential health problems in the acute care setting through implementation of the nursing process. Coordinates care of other disciplines, delegates tasks to other nursing personnel, supervises care, provides direct patient care and evaluates outcomes. Maintains competence in clinical practice and assists in the development of nursing practice standards through participation in professional committees and organizations.Graduate of accredited RN program. Current licensure in NYS or eligibility for limited permit to practice.  Bachelors  degree preferred.The position is located indoors under normal working conditions.  Should be able to push/pull 25 lb., lift/move 15 lb. from floor to table, be able to perform moderately difficult manual manipulations such as using a key board, writing and filing for extended periods of time, must be able to perform tasks which require hand-eye coordination such as data entry, typing and using photo copiers.  Mobility requirements may include the ability to sit at a computer terminal or work station for a prolonged period of time in addition to being able to squat, stand and walk for a reasonable length of time and distance.  Sensory requirements include the ability to articulate and comprehend the spoken English language in addition to being able to read the English language.   Position Urgency:Rapid Response Crisis Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260333;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Ellis Hospital
+    [shiftDateEnd] => 2024-01-23
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

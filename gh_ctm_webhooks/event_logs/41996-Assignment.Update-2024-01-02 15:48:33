@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2523',
+  'Cf-Ray' => '83f4259bb77f6a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Weekdays, Every Other Weekend, Holidays, Possible Extension Job Description:                                2 Labor/Delivery/Post-Partum RNs needed for a 13 week assignment with possible extension. Shift: 6:34a-7:15p, weekdays, every other weekend, holidays. Requirements: 2 years experience + travel experience, IV start, FM intermediate. Unit: 13 bed unit- 5 LDRPs and 3 Physicians who deliver. Please submit candidates using the Qualivis Candidate Submission Cover. Minimal or no RTO during assignment. Preference given to fully compliant travelers.                                  Additional Requirements:                                BCLS, ACLS, IV, Med Host/Centricity Perinatal.https://jobboard.qualivis.com/Details.aspx?PositionId=11320
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 41996
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 37.5
+    [facilityID] => 10628
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2018-12-03
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:15
+    [whenmodified] => January, 02 2024 10:48:29
+    [daysPerWeek] => 3
+    [orderNote] => REC-Cmignacca
+Source=SCHA;ID=0;SourceID=11320;Status=Open;Client=Ouachita County Medical Center;City=Camden;State=AR;Zip=71701;Start=12/3/2018;End=2/25/2019;Duration=91;Cert=RNSP3;Specialty=L&D;Unit=L&D;Shift=6:45A - 7:15P;# of Postions=1;Type=Travel;Description=Weekdays, Every Other Weekend, Holidays, Possible Extension Job Description:                                2 Labor/Delivery/Post-Partum RNs needed for a 13 week assignment with possible extension. Shift: 6:34a-7:15p, weekdays, every other weekend, holidays. Requirements: 2 years experience + travel experience, IV start, FM intermediate. Unit: 13 bed unit- 5 LDRPs and 3 Physicians who deliver. Please submit candidates using the Qualivis Candidate Submission Cover. Minimal or no RTO during assignment. Preference given to fully compliant travelers.                                  Additional Requirements:                                BCLS, ACLS, IV, Med Host/Centricity Perinatal.https://jobboard.qualivis.com/Details.aspx?PositionId=11320;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => Ouachita County Medical Center - TRAVEL
+    [shiftDateEnd] => 2019-02-25
+    [shiftStartTime] => 06:45
+    [subjectID] => 
+)

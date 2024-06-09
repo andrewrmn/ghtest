@@ -1,0 +1,166 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3718',
+  'Cf-Ray' => '82e42f8a47201836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Unit Information:
+
+Cat Scan (726)
+
+Location:
+HCA
+
+Houston Healthcare Conroe
+
+Address:
+504 Medical Center Blvd
+
+Floor:
+2nd
+
+Building:
+
+
+
+
+General Information
+
+Tell us about the unit(s):
+Number of Beds
+  328 facility.
+
+4 total CT scanners, 2 on this unitNumber of Staff
+ 
+
+8Volumes:
+
+2600/month in this unitType of staff:Day Shift  
+4Eve shift - 2Night Shift -
+1Patient
+Ratios
+ 
+47% Inpatient, 49% Emergency, 4% Outpatient on this unit.Type of equipment
+ 
+GE 64 slice VCT, GE 16 slice
+Brightspeed, 2   GE 16 slice OptimaEMR
+ 
+Meditech
+RIS, McKesson PACS
+Typical hiring profile
+
+Skill Set Most recruited for:
+
+(Travel RNs, local CNAs and sitters)
+
+
+
+
+Must have:
+
+candidates without these skills will not be considered for the role.
+ARRT(R)(CT), Texas
+GMRT, BLS (American Heart)Acute care,
+TRAUMA
+CT experienceVenipunctureAll CT techs will be required to come with a copy of their High School or College Diploma.
+
+
+Preferred or nice to have:
+
+candidates with these skills will be considered first.
+Cardiac CTInterventional CT guidance
+
+List typical procedures performed on unit(s):
+
+
+
+Comprehensive diagnostic and interventional CT including cardiac.Trauma and stroke protocols
+Dress Code: Include requirements, but most of all not acceptable attire.
+Scrub Color -
+
+Hunter Greene
+
+Unit Guidelines/Policies:
+
+
+
+
+
+Awards/Recognition:
+
+
+ACR accredited
+Any additional information that would entice a worker to select your unit
+for their assignment:
+This is a dynamic department and facility committed to high quality, and customer/employee safety and satisfaction.
+
+We are ACR accredited in all Imaging modalities, Level II trauma center, accredited stroke and chest pain.
+ General CommentsOpen 2 backfill positions for a total of 3 ARRT positions.
+
+1.
+
+2.
+
+Position - EXT - Travel-RAD-ARRT (728) / 7:00PM-7:00AM / 13 Weeks (757144)-extension declined for Claudia Lopez1.
+    [sitename] => giftednurses
+    [spec] => MRI
+    [assignmentid] => 542760
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5408
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => MRI Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 30 2023 10:39:53
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=769043 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA Houston Conroe ;City=Conroe ;State=TX ;Zip=77304 ;Start=11/25/2023;End=2/24/2024;Duration=91;Cert=MRI Tech ;Specialty=Radiology ;Unit=GULF COAST DIVISION (14) ;Shift=7:00AM-7:00PM;# of Postions=1;Type=Travel;BillRate=$85.00;OTRate=93 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:
+ General CommentsOpen 2 backfill positions for a total of 3 ARRT positions.
+
+1.
+
+2.
+
+Position - EXT - Travel-RAD-ARRT (728) / 7:00PM-7:00AM / 13 Weeks (757144)-extension declined for Claudia Lopez1.
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/769043;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Conroe Medical Center Travel - Parallon
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

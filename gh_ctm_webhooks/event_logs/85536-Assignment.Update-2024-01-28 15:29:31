@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1802',
+  'Cf-Ray' => '84ca456e062d77bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 10/14/2019 0820 MDTCerville Exavier					OR RN, 2 years experience, prev travel preferred, TX not required for submission, 12H Days 7p-7a. Must end on 1/4 . some possible call. CERNER EMR not required, CCS to interview via montage, NM to make final offer.
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 85536
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9547
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-11-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 28 2024 10:29:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;ID=0;SourceID=8400143;Status=;Association=CCS WFS: Seton HealthCare Network;Client=AH: Seton Medical Center - Williamson;City=Round Rock;State=TX;Zip=78665;Start=11/4/2019;End=1/4/2020;Duration=62;Cert=RN;Specialty=OR;Unit=SMCW Surgery;Shift=NOC 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$72.58;OTRate= ;OTRules= ;ChargeRate= ;CallbackRate= ;CallbackRate= ;HolidayRate= ;OnCallRateDescription= ;Orientation= ;Description=10/14/2019 0820 MDTCerville Exavier					OR RN, 2 years experience, prev travel preferred, TX not required for submission, 12H Days 7p-7a. Must end on 1/4 . some possible call. CERNER EMR not required, CCS to interview via montage, NM to make final offer.;Buyer= ;VMSPositionType=  AvgHoursPerWeek=  InterviewRequired=False;WinterPlanNeed=;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 72.58
+    [facilityName] => Ascension Seton Williamson Hospital
+    [shiftDateEnd] => 2020-01-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

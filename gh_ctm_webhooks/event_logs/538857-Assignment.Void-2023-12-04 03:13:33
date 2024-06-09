@@ -1,0 +1,441 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5842',
+  'Cf-Ray' => '8300dfc835541465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL
+IR TECH DAYS 4 9'S + CALL
+7A-7P13 WEEKS
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTING
+
+BLS/ACLS REQUIRED
+ General CommentsUnit Information:
+   Special Procedures/Interventional Radiology Tech             Location: Reston Hospital Center             
+Address: 1850 Town   Center Pkwy, Reston, VA 20190
+         
+Floor: 1st
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   2 labs
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+3RNs, 2 RTs
+   
+ 
+
+
+
+
+
+
+
+   Type of staff: DAY SHIFT 2RN and 2RT
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   1:2
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   GE and Phillips   fluro
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech and Mac Lab
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   Extensive   scrub experience
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+Vascular and neuro experience
+   
+
+
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+TIPS, EVAR, AAA repair, PICC, Vertebroplasty,   Vascular-peripheral
+   
+ 
+
+
+
+
+
+
+
+   
+Heading toward neuro intervention route
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Amicable and flexible with   schedule.
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   BLS
+   Floating Areas:   
+ 
+
+
+
+
+
+
+
+   CVRU/Cath
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ scrubs will be provided from stock, will   need sizes
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   Call required, off hours and weekends   rotation.
+ Must be within 30 min call   radius.
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 538857
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 1394
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 03 2023 22:13:33
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=715051 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=RESTON HOSPITAL CENTER VA ;City=Reston ;State=VA ;Zip=20190 ;Start=10/26/2023;End=1/25/2024;Duration=91;Cert=Special Procedures Tech ;Specialty=Radiology ;Unit=CAPITAL DIVISION (20) ;Shift=DAYS;# of Postions=1;Type=Travel;BillRate=$98.00;OTRate=106 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL
+IR TECH DAYS 4 9'S + CALL
+7A-7P13 WEEKS
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTING
+
+BLS/ACLS REQUIRED
+ General CommentsUnit Information:
+   Special Procedures/Interventional Radiology Tech             Location: Reston Hospital Center             
+Address: 1850 Town   Center Pkwy, Reston, VA 20190
+         
+Floor: 1st
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   2 labs
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+3RNs, 2 RTs
+   
+ 
+
+
+
+
+
+
+
+   Type of staff: DAY SHIFT 2RN and 2RT
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   1:2
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   GE and Phillips   fluro
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech and Mac Lab
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   Extensive   scrub experience
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+Vascular and neuro experience
+   
+
+
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+TIPS, EVAR, AAA repair, PICC, Vertebroplasty,   Vascular-peripheral
+   
+ 
+
+
+
+
+
+
+
+   
+Heading toward neuro intervention route
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Amicable and flexible with   schedule.
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   BLS
+   Floating Areas:   
+ 
+
+
+
+
+
+
+
+   CVRU/Cath
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ scrubs will be provided from stock, will   need sizes
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   Call required, off hours and weekends   rotation.
+ Must be within 30 min call   radius. ;url=https://vendor.healthtrustws.com/positions/715051;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 98
+    [facilityName] => Reston Hospital Center Parallon- VA
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

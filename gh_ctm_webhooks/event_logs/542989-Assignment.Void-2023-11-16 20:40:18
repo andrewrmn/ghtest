@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '9967',
+  'Cf-Ray' => '82728c5a53ed23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Job Description   Performs       daily rounds on all patients assuring quality customer service by       coordinating and taking action on any requirements not met.   Develops       a plan of care based on assessment that reflects the patient's physical,       psychological, social, educational, developmental and rehabilitative       needs based on patient's age, ethnic origin, economic status, lifestyle,       creed or philosophical beliefs.   Assesses       the patient's condition and nursing needs, sets goals, and prescribes       appropriate nursing actions to meet those goals and the physical,       psychological, social, and rehabilitative needs of the patient, including       discharge planning.   Assesses,       intervenes, and reassesses the patient's self-report/symptoms of pain       promptly and takes appropriate action according to standard operating       procedure.   Identifies       the early warning signs of a change in a patient's condition and responds       appropriately to a deteriorating patient, including contacting       responsible clinicians as indicated by standard operating procedure.       Assists with or institutes emergency measures for sudden adverse       developments in patient conditions.   Reports       pertinent observations and reactions regarding patients to the       appropriate multidisciplinary team member and records those observations       accurately and concisely. Ensures that intervention or referrals are made       promptly. Completes and submits all incident reports (patient, visitor,       staff) prior to the completion of each shift.   Establishes       and maintains communication and utilizes educational opportunities with       patients and other significant individuals.   As       early as possible, begins discharge planning, appropriate education and       counseling based on identified needs to optimize patient/family       understanding. Evaluates and documents according to standard operating       procedure.   Assigns       or delegates, within the scope of practice, education and experience, the       responsibility for performance of nursing interventions to other persons       for which that person has the necessary skills and competence to       accomplish safely.   Performs       other duties as assigned or needed to meet the needs of the       department/organization.One position for weekend days and one position for weekend nights Certification:   Registered       Nurse | North Dakota Board of Nursing (NDBON) or Compact State Agreement       | Prior to Start Date    Basic       Life Support (BLS) | American Heart Association (AHA)| Prior to Start       Date    Advanced       Cardiac Life Support (ACLS) | Prior to Start Date    PALS       | American Heart Association (AHA) | Prior to Start Date    NIH       Stroke | Prior to Start Date   Essentials       of Critical Care Orientation (ECCO) | American Association of       Critical-Care Nurses | Preferred         Notes:   Temporary       RN license accepted prior to start.   ND       RN Graduate Work Authorization considered prior to start. The RN Graduate       Work Authorization is valid for up to 90 days after issue or upon       notification of the NCLEX results, whichever occurs first.   Must       hold an unencumbered nursing license?prior       to start. Additional Job Description   Demonstrates       understanding and follows infection control policies and procedures       according to standard operating procedure.   Maintains       requirements for age specific competencies for the position and       demonstrates the knowledge or principles of growth and developments and       the skills necessary to provide patient/customer care/services.   Demonstrates       knowledge and understanding of and compliance with:All        pertinent safety, health and environmental policies, procedures and        guidelines.Working        safely, without causing harm or risk to self, others or property.The        work environment safety procedures and prompt reporting of unsafe        practices, procedures, accidents, injuries or other safety violations to        the Leader.The        use of all safety equipment and personal protective equipment.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 542989
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8949
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 16 2023 15:40:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261296 ;Status=Open;Association=Altru Health System ;Client=Altru Health System ;City=Grand Forks ;State=ND ;Zip=58206 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Nursing ;Specialty=Intensive Care / Coronary Nurse (ICU), PCU ;Unit=Intensive Care / Coronary Nurse (ICU), PCU ;Shift=Rotating;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$125.00;OTRate=125 ;OTRules=By The Week, after 40, ;CallbackRate=125 (All Inclusive Rate) ;HolidayRate=125 (All Inclusive Rate) ;OnCallRateDescription=$4 per hour pager ;Description=Job Description   Performs       daily rounds on all patients assuring quality customer service by       coordinating and taking action on any requirements not met.   Develops       a plan of care based on assessment that reflects the patient's physical,       psychological, social, educational, developmental and rehabilitative       needs based on patient's age, ethnic origin, economic status, lifestyle,       creed or philosophical beliefs.   Assesses       the patient's condition and nursing needs, sets goals, and prescribes       appropriate nursing actions to meet those goals and the physical,       psychological, social, and rehabilitative needs of the patient, including       discharge planning.   Assesses,       intervenes, and reassesses the patient's self-report/symptoms of pain       promptly and takes appropriate action according to standard operating       procedure.   Identifies       the early warning signs of a change in a patient's condition and responds       appropriately to a deteriorating patient, including contacting       responsible clinicians as indicated by standard operating procedure.       Assists with or institutes emergency measures for sudden adverse       developments in patient conditions.   Reports       pertinent observations and reactions regarding patients to the       appropriate multidisciplinary team member and records those observations       accurately and concisely. Ensures that intervention or referrals are made       promptly. Completes and submits all incident reports (patient, visitor,       staff) prior to the completion of each shift.   Establishes       and maintains communication and utilizes educational opportunities with       patients and other significant individuals.   As       early as possible, begins discharge planning, appropriate education and       counseling based on identified needs to optimize patient/family       understanding. Evaluates and documents according to standard operating       procedure.   Assigns       or delegates, within the scope of practice, education and experience, the       responsibility for performance of nursing interventions to other persons       for which that person has the necessary skills and competence to       accomplish safely.   Performs       other duties as assigned or needed to meet the needs of the       department/organization.One position for weekend days and one position for weekend nights Certification:   Registered       Nurse | North Dakota Board of Nursing (NDBON) or Compact State Agreement       | Prior to Start Date    Basic       Life Support (BLS) | American Heart Association (AHA)| Prior to Start       Date    Advanced       Cardiac Life Support (ACLS) | Prior to Start Date    PALS       | American Heart Association (AHA) | Prior to Start Date    NIH       Stroke | Prior to Start Date   Essentials       of Critical Care Orientation (ECCO) | American Association of       Critical-Care Nurses | Preferred         Notes:   Temporary       RN license accepted prior to start.   ND       RN Graduate Work Authorization considered prior to start. The RN Graduate       Work Authorization is valid for up to 90 days after issue or upon       notification of the NCLEX results, whichever occurs first.   Must       hold an unencumbered nursing license?prior       to start. Additional Job Description   Demonstrates       understanding and follows infection control policies and procedures       according to standard operating procedure.   Maintains       requirements for age specific competencies for the position and       demonstrates the knowledge or principles of growth and developments and       the skills necessary to provide patient/customer care/services.   Demonstrates       knowledge and understanding of and compliance with:All        pertinent safety, health and environmental policies, procedures and        guidelines.Working        safely, without causing harm or risk to self, others or property.The        work environment safety procedures and prompt reporting of unsafe        practices, procedures, accidents, injuries or other safety violations to        the Leader.The        use of all safety equipment and personal protective equipment.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261296;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 125
+    [facilityName] => Altru Health System
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

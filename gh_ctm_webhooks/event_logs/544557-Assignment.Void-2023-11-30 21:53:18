@@ -1,0 +1,141 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4581',
+  'Cf-Ray' => '82e65288d1d21464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Demonstrates in depth knowledge of nursing process in addressing physical, psychosocial, and psychological needs of patients.Ability to demonstrate basic knowledge of unit specific age criteria for patient population.Must demonstrate critical thinking skills.Timely completion of unit specific orientation and competencies.Ability to read, write, hear and verbally communicate in English to the degree required to perform the job. 
+ Schedule Notes:Day Shift - 0700-1930
+
+Skills: Registered Nurse - State Licensure - RN -Required
+Advanced Cardiac Life Support - ACLS - Required
+Basic Life Support Certification - BLS - Required
+Pediatric Adv Life Support - PALS- Required
+NIHSS-required
+ Required
+	
+	  ADV
+	   ACLS
+	   RN
+	   TELEMETRY
+	   CARDIAC
+	      
+	
+	
+	
+	Additional
+	
+	            REGISTERED NURSE
+	   PEDIATRIC
+
+Education: BSN Preferred
+ 
+This is the pay range that RightSourcing (a part of Magnit) reasonably expects to pay someone for this position, however, as a supplier your expected pay range may vary and/or include certain benefits like: Stipends (for clinical traveler workers only), Medical, Dental, Vision, 401K [include any compulsory benefits such as commissions, incentive bonuses, etc. if applicable]. Pay range (USD)59 hrly - (USD)89 hrly
+
+;Languages: 
+ 
+English
+ Read
+ Write
+ Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: SVH-DPC-Nursing-Travel
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544557
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 12806
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 30 2023 16:53:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=Wand;SourceID=27512916 ;Status=Pending;Client=Sutter Health ;City=Tracy ;State=CA ;Zip=95376 ;Start=12/11/2023;End=3/9/2024;Duration=89;Cert=SVH-DPC-Nursing-Travel ;Specialty=RN - MedSurg/Telemetry  STCH - Day Shift ;Unit=SUT Central Valley Hosp*STCH-MED-SURG ACUTE 						: 200*406171    		                SUT Central Valley Hosp SUT Central Valley Hosp*STCH-MED-SURG ACUTE  : 200*406171   SUT Central Valley Hosp ;Shift=Day Shift - 0700-1930 Day Shift - 0700-1930 3x12 Hr;# of Postions=1;Guaranteed Hours=36.00;Type=Travel;BillRate=$118.59;Description=Demonstrates in depth knowledge of nursing process in addressing physical, psychosocial, and psychological needs of patients.Ability to demonstrate basic knowledge of unit specific age criteria for patient population.Must demonstrate critical thinking skills.Timely completion of unit specific orientation and competencies.Ability to read, write, hear and verbally communicate in English to the degree required to perform the job. 
+ Schedule Notes:Day Shift - 0700-1930
+
+Skills: Registered Nurse - State Licensure - RN -Required
+Advanced Cardiac Life Support - ACLS - Required
+Basic Life Support Certification - BLS - Required
+Pediatric Adv Life Support - PALS- Required
+NIHSS-required
+ Required
+	
+	  ADV
+	   ACLS
+	   RN
+	   TELEMETRY
+	   CARDIAC
+	      
+	
+	
+	
+	Additional
+	
+	            REGISTERED NURSE
+	   PEDIATRIC
+
+Education: BSN Preferred
+ 
+This is the pay range that RightSourcing (a part of Magnit) reasonably expects to pay someone for this position, however, as a supplier your expected pay range may vary and/or include certain benefits like: Stipends (for clinical traveler workers only), Medical, Dental, Vision, 401K [include any compulsory benefits such as commissions, incentive bonuses, etc. if applicable]. Pay range (USD)59 hrly - (USD)89 hrly
+
+;Languages: 
+ 
+English
+ Read
+ Write
+ Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: SVH-DPC-Nursing-Travel ;url=https://prowand.pro-unlimited.com/supplier/standard/requisition/req_geninfo_view.html?id=27512916&type=REQUISITION&reqProfile=true;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 118.59
+    [facilityName] => Sutter Tracy Community Hospital RS
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

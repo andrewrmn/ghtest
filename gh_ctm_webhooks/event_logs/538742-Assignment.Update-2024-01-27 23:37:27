@@ -1,0 +1,65 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1026',
+  'Cf-Ray' => '84c4d2d5e0e677bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By RN; Clinician Not Willing to Return
+Last shift worked was 12-20-23
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 538742
+    [workerID] => 153042
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 36
+    [facilityID] => 14
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-13
+    [workerLastName] => Leonard
+    [shiftNum] => 4
+    [workerFirstName] => Kirsten
+    [cert] => CST
+    [floorDesc] => Surgery 6211
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 27 2024 18:37:26
+    [daysPerWeek] => 3
+    [orderNote] => BR:$75lRS:136019
+ChrgDf:P$1/B$3lOnCl:P$10/B$18
+Orient:$20lNonBill:First16hrs
+FTK: API
+    [guaranteedMinimum] => 
+    [workerEmail] => Kmonique1980@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => North Oaks Medical Center
+    [shiftDateEnd] => 2024-01-20
+    [shiftStartTime] => 06:30
+    [subjectID] => 
+)

@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '29',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1801',
+  'Cf-Ray' => '82a574fa62884961-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => General Surgery Med/Surg Telemetry 13 weeks 24 hours per week, 2x12 D/N rotation Possible Floating to support staffing within Med/Surg Every other Weekend Every other Holiday No On-Call requirement BLS required EHR-EPIC  non-local contracts only 50+radius
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 541832
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12439
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 22 2023 19:57:14
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=47984 ;Status=Open;Association=Trinity Health ;Client=NY - St Joseph Hospital Health Center ;City=Syracuse ;State=NY ;Zip=13203 ;Start=11/26/2023;End=2/24/2024;Duration=90;Cert=RN Telemetry ;Specialty=Patient Care Unit 3-1 ;Unit=*Registered Nurse-Med Surg Tele-Patient Care Unit 3-1 ;Shift=1900-0730;# of Postions=1;Type=Travel;BillRate=$92.00;OTRate=119.60 ;ChargeRate=95.00 ;CallbackRate=119.60 ;HolidayRate=119.60 ;Description=General Surgery Med/Surg Telemetry 13 weeks 24 hours per week, 2x12 D/N rotation Possible Floating to support staffing within Med/Surg Every other Weekend Every other Holiday No On-Call requirement BLS required EHR-EPIC  non-local contracts only 50+radius ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 92
+    [facilityName] => St. Joseph's Health TRAVEL
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

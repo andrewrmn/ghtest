@@ -1,0 +1,83 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3894',
+  'Cf-Ray' => '831eaaeaf1254951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Backfill: B. Simon/K. Schroeder | Ratio 1:6 | Weekend: Yes | On-Call: No | Float: MS/Tele/PCU; float across all 5 units requiring MS Tele and PCU Exp | Epic Exp Req | Min 2 yrs: PCU/MS Tele | Pls Include PCU and MS Tele skills checklist | Unit Info: Must have worked in a cardiac tele unit with cardiazem, amiodarone, and other set rate drips are hung. Experience interpreting strips and making clinical decisions as to cardiac med admin and drip titration | Req Cert: BLS, ACLS | RTO <5 days
+
+
+DBs will only apply to weekend submittals - the completion bonuses for travelers will be extended until EOD 11/22. 
+
+ Modified Time:12/6/2023 12:00:00 AM
+ Account Manager: Shannon Steely
+ Account Manager Email: Ssteely@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544972
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13883
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-03
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => December, 07 2023 13:00:20
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2283667 ;Status=Open;Association=Vaya Legacy MSP (Connect) ;Client=LCMC Health East Jefferson General Hospital ;City=Metairie ;State=LA ;Zip=70006 ;Start=1/3/2024;End=4/3/2024;Duration=91;Cert=Registered Nurse ;Specialty=MS/Tele ;Unit=Vaya - 6 MS/Tele 70017 ;Shift=Night 3x12-Hour (19:00 - 07:30);# of Postions=1;Type=Travel;BillRate=$85.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Backfill: B. Simon/K. Schroeder | Ratio 1:6 | Weekend: Yes | On-Call: No | Float: MS/Tele/PCU; float across all 5 units requiring MS Tele and PCU Exp | Epic Exp Req | Min 2 yrs: PCU/MS Tele | Pls Include PCU and MS Tele skills checklist | Unit Info: Must have worked in a cardiac tele unit with cardiazem, amiodarone, and other set rate drips are hung. Experience interpreting strips and making clinical decisions as to cardiac med admin and drip titration | Req Cert: BLS, ACLS | RTO <5 days
+
+
+DBs will only apply to weekend submittals - the completion bonuses for travelers will be extended until EOD 11/22. 
+
+ Modified Time:1/3/2024 8:00:00 AM
+ Account Manager: Shannon Steely
+ Account Manager Email: Ssteely@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2283667/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => East Jefferson General Hospital TRV VAYA
+    [shiftDateEnd] => 2024-04-03
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

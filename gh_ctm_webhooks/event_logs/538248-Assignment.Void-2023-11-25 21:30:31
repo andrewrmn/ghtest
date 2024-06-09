@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '26',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2460',
+  'Cf-Ray' => '82bcfe49b4594955-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => We are looking for an ER Nurse that has at least 2 years of adult ER experience. Three shifts a week - every other weekend, rotating holidays.  This position will be scheduled full time at our Main Campus ER and may require floating to our Liberty Campus ER. Traveler RN's will be the first to float based on facility needs. This position may have contact with COVID positive patients.   Additional Information:Agency staff will be the first to float based on facility census and needs.   Position Urgency:Normal Billing string = The Christ Hospital
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 538248
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 9945
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 25 2023 16:30:30
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=260340 ;Status=Open;Association=The Christ Hospital ;Client=The Christ Hospital ;City=Cincinnati ;State=OH ;Zip=45219 ;Start=10/24/2023;End=1/23/2024;Duration=91;Cert=Nursing ;Specialty=Emergency Room Nurse ;Unit=Emergency Room Nurse ;Shift=Days;# of Postions=4;Guaranteed Hours=36;Type=Travel;BillRate=$75.00;OTRate=80 ;OTRules=By The Week, after 40, ;HolidayRate=80 (All Inclusive Rate + $5) ;OnCallRateDescription=No Call ;Description=We are looking for an ER Nurse that has at least 2 years of adult ER experience. Three shifts a week - every other weekend, rotating holidays.  This position will be scheduled full time at our Main Campus ER and may require floating to our Liberty Campus ER. Traveler RN's will be the first to float based on facility needs. This position may have contact with COVID positive patients.   Additional Information:Agency staff will be the first to float based on facility census and needs.   Position Urgency:Normal Billing string = The Christ Hospital ;url=https://vms.medefis5.com/jobs/260340;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Christ Hospital System (AKA the Christ Hospital Health Network)
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

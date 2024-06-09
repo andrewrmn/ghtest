@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '948',
+  'Cf-Ray' => '82e51c5fb45c23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Start/End Date Change
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 530627
+    [workerID] => 88573
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 16143
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => Golden
+    [shiftNum] => 2
+    [workerFirstName] => Stephanie
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 30 2023 13:21:33
+    [daysPerWeek] => 5
+    [orderNote] => BR:$93lRS:135355
+ChrgDf:P$1/B$2lOnCl:P$2/B$4
+Orient:$24lNonBill:12hrs
+FTK: Unsigned GiftedTC
+    [guaranteedMinimum] => 
+    [workerEmail] => sagclaire@aol.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 93
+    [facilityName] => Oklahoma Children's Hospital OU Health TRV (RS)
+    [shiftDateEnd] => 2024-02-24
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

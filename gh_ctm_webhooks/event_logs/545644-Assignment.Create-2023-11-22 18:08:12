@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2859',
+  'Cf-Ray' => '82a31dcdf1c023b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => OR RN needed for 26 week assignment. Must have a current New York RN license. RN's without a current NY license will not be consideredTraveler must have completed at least 1 successful traveler assignment.  New travelers will not be considered.Come work at Samaritan where travelers tell us they love doing their assignment here!  We are located in northern NY in the beautiful Thousand Islands Regions where lakes and rivers are a short 25 mile drive away!   Additional Information:Candidate must reside OUTSIDE of 60 miles. Cannot be a previous permanent employee unless been gone for 2 years. Can only be a traveler for the maximum of 1 year. MUST BE VACCINATED. Only medical declinations allowed in the state of NY   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 545644
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1486
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-22
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 22 2023 13:08:12
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262095 ;Status=Open;Association=Samaritan Medical Center ;Client=Samaritan Medical Center ;City=Watertown ;State=NY ;Zip=13601 ;Start=11/22/2023;End=5/22/2024;Duration=182;Cert=Nursing ;Specialty=Operating Room ;Unit=Operating Room ;Shift=7pm - 7:30am;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$125.00;OTRate=130 ;OTRules=By The Week, after 36, ;HolidayRate=135 (All Inclusive Rate + $10) ;OnCallRateDescription=$4 per hour pager ;Description=OR RN needed for 26 week assignment. Must have a current New York RN license. RN's without a current NY license will not be consideredTraveler must have completed at least 1 successful traveler assignment.  New travelers will not be considered.Come work at Samaritan where travelers tell us they love doing their assignment here!  We are located in northern NY in the beautiful Thousand Islands Regions where lakes and rivers are a short 25 mile drive away!   Additional Information:Candidate must reside OUTSIDE of 60 miles. Cannot be a previous permanent employee unless been gone for 2 years. Can only be a traveler for the maximum of 1 year. MUST BE VACCINATED. Only medical declinations allowed in the state of NY   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262095;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 125
+    [facilityName] => Samaritan Medical Center
+    [shiftDateEnd] => 2024-05-22
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

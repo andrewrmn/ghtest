@@ -1,0 +1,538 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7878',
+  'Cf-Ray' => '84df9c7c312723b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Facility  
+ 
+West Valley Medical center Caldwell, IDStart Date- asapCost Center - 746Need: Registered Cardiac Electrophysiology Tech *RCIS and ACLS is required **Shift   7:00AM-5:30PM Monday through Thursday with rotating call on Fridays.
+Assignment Length: 13 weeksGuarantee of hrs: 36
+7:00a-5:30p, Monday-Thursday. Rotating call on Fridays. No call weekends.
+        Unit Information:
+   West Valley Medical Center Cath Lab             
+             Location: Caldwell, ID             
+Address:1717   Arlington Ave, Caldwell, ID 83605
+         
+Floor: 1st
+             
+Building: Main   Campus
+         
+
+
+             General Information             Tell us about the unit(s):    
+
+
+   
+ 
+
+
+
+
+
+   Number of Beds   Cath Lab 3 rooms, 1   prep room with 2 beds
+   
+ 
+
+
+
+
+
+   Shift for this position   M-Th 07:0 to   17:30.
+ Rotating call on Fridays.
+ No call on Weekends
+   
+ 
+
+
+
+
+
+   Call Expectation   Rotating call on   Fridays from 09:00   17:00.
+ (Aprox 1   day every 3 weeks)
+   
+ 
+
+
+
+
+
+   Number of Staff   6 FT, 2 FT   travelers, 2 PRN
+   
+ 
+
+
+
+
+
+   Type of staff:
+   
+o
+
+   Day Shift   1 charge (tech), 2 techs,   5 nurses (3 that can monitor as well)
+   
+o
+
+   Night Shift - 
+N/A
+   
+ 
+
+
+
+
+
+   Patient Ratios   1:1
+   
+ 
+
+
+
+
+
+   Type of equipment   IVUS, MacLab,   Meditech, Phillips Azurion, etc .
+   
+ 
+
+
+
+
+
+   EMR   Meditech, MacLab
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+ 
+Experience   with scrubbing and monitoring EP and/or cath lab cases
+   
+ 
+
+
+
+
+
+ 
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+ 
+Experience   with scrubbing and monitoring EP and/or Cath Lab cases
+   
+ 
+
+
+
+
+
+ 
+
+   
+List typical procedures performed on unit(s): 
+
+   
+ 
+
+
+
+
+
+ 
+
+Left   Heart Cath
+   
+ 
+
+
+
+
+
+ Right Heart Cath
+   
+ 
+
+
+
+
+
+ EP studies with ablations
+   
+ 
+
+
+
+
+
+ Pulmonary Vein Isolations
+   
+ 
+
+
+
+
+
+ IR cases (ports, perm dialysis caths, ESI, LP,   neph tube placements)
+   
+ 
+
+
+
+
+
+ 
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+   
+Self-motivator that works   well in a laid-back environment.
+ Team   player.
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+   ACLS, RCIS
+   Floating Area(s):   
+ 
+
+
+
+
+
+   N/A
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+   Scrub Color/Attire -
+ OR/Hospital provided
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 543828
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 7595
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-02-19
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:30
+    [whenmodified] => January, 31 2024 00:38:55
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=773549 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=WEST VALLEY MEDICAL CENTER ID ;City=CALDWELL ;State=ID ;Zip=83605 ;Start=2/19/2024;End=5/20/2024;Duration=91;Cert=EP Tech ;Specialty=Radiology ;Unit=MOUNTAIN DIVISION (15) ;Shift=7:00AM-5:30PM;# of Postions=1;Type=Travel;BillRate=$85.00;minBillRate=$85.00;OTRate=93 ;CallbackRate=93 ;HolidayRate=93 ;Description=Description:Facility  
+ 
+West Valley Medical center Caldwell, IDStart Date- asapCost Center - 746Need: Registered Cardiac Electrophysiology Tech *RCIS and ACLS is required **Shift   7:00AM-5:30PM Monday through Thursday with rotating call on Fridays.
+Assignment Length: 13 weeksGuarantee of hrs: 36
+7:00a-5:30p, Monday-Thursday. Rotating call on Fridays. No call weekends.
+        Unit Information:
+   West Valley Medical Center Cath Lab             
+             Location: Caldwell, ID             
+Address:1717   Arlington Ave, Caldwell, ID 83605
+         
+Floor: 1st
+             
+Building: Main   Campus
+         
+
+
+             General Information             Tell us about the unit(s):    
+
+
+   
+ 
+
+
+
+
+
+   Number of Beds   Cath Lab 3 rooms, 1   prep room with 2 beds
+   
+ 
+
+
+
+
+
+   Shift for this position   M-Th 07:0 to   17:30.
+ Rotating call on Fridays.
+ No call on Weekends
+   
+ 
+
+
+
+
+
+   Call Expectation   Rotating call on   Fridays from 09:00   17:00.
+ (Aprox 1   day every 3 weeks)
+   
+ 
+
+
+
+
+
+   Number of Staff   6 FT, 2 FT   travelers, 2 PRN
+   
+ 
+
+
+
+
+
+   Type of staff:
+   
+o
+
+   Day Shift   1 charge (tech), 2 techs,   5 nurses (3 that can monitor as well)
+   
+o
+
+   Night Shift - 
+N/A
+   
+ 
+
+
+
+
+
+   Patient Ratios   1:1
+   
+ 
+
+
+
+
+
+   Type of equipment   IVUS, MacLab,   Meditech, Phillips Azurion, etc .
+   
+ 
+
+
+
+
+
+   EMR   Meditech, MacLab
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+ 
+Experience   with scrubbing and monitoring EP and/or cath lab cases
+   
+ 
+
+
+
+
+
+ 
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+ 
+Experience   with scrubbing and monitoring EP and/or Cath Lab cases
+   
+ 
+
+
+
+
+
+ 
+
+   
+List typical procedures performed on unit(s): 
+
+   
+ 
+
+
+
+
+
+ 
+
+Left   Heart Cath
+   
+ 
+
+
+
+
+
+ Right Heart Cath
+   
+ 
+
+
+
+
+
+ EP studies with ablations
+   
+ 
+
+
+
+
+
+ Pulmonary Vein Isolations
+   
+ 
+
+
+
+
+
+ IR cases (ports, perm dialysis caths, ESI, LP,   neph tube placements)
+   
+ 
+
+
+
+
+
+ 
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+   
+Self-motivator that works   well in a laid-back environment.
+ Team   player.
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+   ACLS, RCIS
+   Floating Area(s):   
+ 
+
+
+
+
+
+   N/A
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+   Scrub Color/Attire -
+ OR/Hospital provided
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/773549;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 
+    [offContractRate] => 85
+    [facilityName] => West Valley Medical Center
+    [shiftDateEnd] => 2024-05-20
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

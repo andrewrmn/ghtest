@@ -1,0 +1,251 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '11939',
+  'Cf-Ray' => '82899a20e1e41834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Cedar Park Regional Medical Center
+Shift:Start: ASAPRate: $60
+
+
+
+The role you'll contribute:
+
+
+
+Under supervision, the Endoscopy Technician -Advanced Practice is the primary assistant to the physician performing the procedure. They possess the knowledge and skills for assisting the physician on advanced endoscopic procedures for patients with complex digestive health issues with minimal direction. The Endoscopy Technician - Advanced Practice participates with patient care in the Endoscopy procedure room by performance of technical and other delegated duties. Trains his or her peers. Maintains, cares for, and disinfects all scopes and equipment. Adheres to the Florida Hospital Corporate Compliance Plan and to all rules and regulations of all applicable local, State and federal agencies and accrediting bodies. Actively participates in outstanding customer service and accepts responsibility in maintaining relationships that are equally respectful to all.
+
+
+
+The value you'll bring to the team:
+
+
+Assists the physician in performing advanced endoscopic procedures performed on high acuity patients including but not limited to: Grade Ill Complex ERCP procedures, SPYGiass (cholangioscopy), complex endomucosal resection, Sphincter of Oddi manometry and pancreatic endotherapy (stenting), Ultrasound-guided interventions, and Peroral endoscopic myotomy procedures, double balloon enteroscopies, endosuturing, Cystgastroscopy (irrigation and removal of necrotic tissue resulting from pancreatic pseudocyst), ESD (endoscopic submucosal dissection), Endoscopic Vac therapy, Overstitch (Endoscopic Suturing).
+
+appropriately selects and operates the appropriate equipment and accessories for advanced procedures. Troubleshoots equipment issues as needed. Anticipates needs of physician during the procedure to assist with obtaining biopsies, passing stents, and obtaining images.
+
+
+
+Uses procedure-specific lasers and selects appropriate laser fibers and supplies for the procedure. Adheres to all safety standards related to the use of the laser. Collaborates with the Florida Hospital Laser Safety Officer to provide annual safety in-services for Endo staff.
+
+
+  Participates in national teaching conferences and live training courses with physicians and department team members. Acts as preceptor or trainer for other technicians learning advanced procedures. Hosts observers in the clinical setting to facilitate learning procedure techniques and processes. Assists physicians and facilitates learning in porcine labs.
+
+  Provides safe. clean, tested and inspected items by performing the following decontamination functions: accurately operates instrument washers and disassembles and cleans with appropriate solutions and methods. Maintains all records relating to the monitoring and testing of the decontamination/disinfection process. Applies knowledge and ability for appropriate care and handling
+of instruments and scopes by inspecting for cleanliness, damage and proper function. Ensures leak testing is done on all scopes. Maintains records on scope and instrumentation maintenance.
+
+
+
+Qualifications
+
+
+The expertise and experiences you'll need to succeed: KNOWLEDGE AND SKILLS REQUIRED:
+
+
+
+  Ability to communicate by reading, writing legibly, and speaking English effectively
+
+  Knowledgeable about professional and practice issues related to the field of Gastrointestinal Endoscopy
+
+  Two years' experience as an endoscopy technician, or other comparable ancillary health care role.
+
+  Experience in assisting GI physicians with complex ERCP (SPYGiass, sphincter of Oddi manometry, pancreatic endotherapy) and EUS-guided biliary and pancreatic ductal interventions
+
+
+LICENSURE, CERTIFICATION, OR REGISTRATION REQUIRED:
+
+  Heartsaver / AED
+
+  Completion of the Society of Gastroenterology Nurses and Associates (SGNA) Advanced Associates Program (certificate required)
+
+
+This facility is an equal opportunity employer and complies with federal, state and local anti-discrimination laws, regulations and ordinances.
+
+
+Reportjob
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location:
+    [sitename] => giftednurses
+    [spec] => Endoscopy
+    [assignmentid] => 525456
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-09-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Endoscopy Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:48:41
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=749047 ;Status=Open;Association=Community Health Systems ;Client=Cedar Park Regional Medical Center ;City=Cedar Park ;State=TX ;Zip=78613 ;Start=9/11/2023;End=12/11/2023;Duration=91;Cert=Endoscopy Tech ;Specialty=Endoscopy ;Unit=EXT-Other (911) ;Shift=:;# of Postions=1;Type=Travel;BillRate=$60.00;OTRate=75 ;CallbackRate=75 ;HolidayRate=75 ;Orientation=0 ;Description=Description:Cedar Park Regional Medical Center
+Shift:Start: ASAPRate: $602+ Years Exp Req
+SGNA REQ
+Experience in assisting GI physicians with complex ERCP (SPYGiass, sphincter of Oddi manometry, pancreatic endotherapy) and EUS-guided biliary and pancreatic ductal interventions
+
+
+The role you'll contribute:
+
+
+
+Under supervision, the Endoscopy Technician -Advanced Practice is the primary assistant to the physician performing the procedure. They possess the knowledge and skills for assisting the physician on advanced endoscopic procedures for patients with complex digestive health issues with minimal direction. The Endoscopy Technician - Advanced Practice participates with patient care in the Endoscopy procedure room by performance of technical and other delegated duties. Trains his or her peers. Maintains, cares for, and disinfects all scopes and equipment. Adheres to the Florida Hospital Corporate Compliance Plan and to all rules and regulations of all applicable local, State and federal agencies and accrediting bodies. Actively participates in outstanding customer service and accepts responsibility in maintaining relationships that are equally respectful to all.
+
+
+
+The value you'll bring to the team:
+
+
+Assists the physician in performing advanced endoscopic procedures performed on high acuity patients including but not limited to: Grade Ill Complex ERCP procedures, SPYGiass (cholangioscopy), complex endomucosal resection, Sphincter of Oddi manometry and pancreatic endotherapy (stenting), Ultrasound-guided interventions, and Peroral endoscopic myotomy procedures, double balloon enteroscopies, endosuturing, Cystgastroscopy (irrigation and removal of necrotic tissue resulting from pancreatic pseudocyst), ESD (endoscopic submucosal dissection), Endoscopic Vac therapy, Overstitch (Endoscopic Suturing).
+
+appropriately selects and operates the appropriate equipment and accessories for advanced procedures. Troubleshoots equipment issues as needed. Anticipates needs of physician during the procedure to assist with obtaining biopsies, passing stents, and obtaining images.
+
+
+
+Uses procedure-specific lasers and selects appropriate laser fibers and supplies for the procedure. Adheres to all safety standards related to the use of the laser. Collaborates with the Florida Hospital Laser Safety Officer to provide annual safety in-services for Endo staff.
+
+
+  Participates in national teaching conferences and live training courses with physicians and department team members. Acts as preceptor or trainer for other technicians learning advanced procedures. Hosts observers in the clinical setting to facilitate learning procedure techniques and processes. Assists physicians and facilitates learning in porcine labs.
+
+  Provides safe. clean, tested and inspected items by performing the following decontamination functions: accurately operates instrument washers and disassembles and cleans with appropriate solutions and methods. Maintains all records relating to the monitoring and testing of the decontamination/disinfection process. Applies knowledge and ability for appropriate care and handling
+of instruments and scopes by inspecting for cleanliness, damage and proper function. Ensures leak testing is done on all scopes. Maintains records on scope and instrumentation maintenance.
+
+
+
+Qualifications
+
+
+The expertise and experiences you'll need to succeed: KNOWLEDGE AND SKILLS REQUIRED:
+
+
+
+  Ability to communicate by reading, writing legibly, and speaking English effectively
+
+  Knowledgeable about professional and practice issues related to the field of Gastrointestinal Endoscopy
+
+  Two years' experience as an endoscopy technician, or other comparable ancillary health care role.
+
+  Experience in assisting GI physicians with complex ERCP (SPYGiass, sphincter of Oddi manometry, pancreatic endotherapy) and EUS-guided biliary and pancreatic ductal interventions
+
+
+LICENSURE, CERTIFICATION, OR REGISTRATION REQUIRED:
+
+  Heartsaver / AED
+
+  Completion of the Society of Gastroenterology Nurses and Associates (SGNA) Advanced Associates Program (certificate required)
+
+
+This facility is an equal opportunity employer and complies with federal, state and local anti-discrimination laws, regulations and ordinances.
+
+
+Reportjob
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location: ;url=https://vendor.healthtrustws.com/positions/749047;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 60
+    [facilityName] => Cedar Park Regional Medical Center
+    [shiftDateEnd] => 2023-12-11
+    [shiftStartTime] => 06:30
+    [subjectID] => 
+)

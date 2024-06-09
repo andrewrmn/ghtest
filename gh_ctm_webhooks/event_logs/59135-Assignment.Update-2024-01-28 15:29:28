@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2001',
+  'Cf-Ray' => '84ca4569f4d06a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 04/23/2019 1716 MDTCerville Exavier					Mon-Fri 7a-3p.1 weekend call day per month (24 hours, 7a   7a), 5   7 eight-hour weekday call slots per month Weekday call slots are either 3p-11p or 11p   7a. Must have very strong skills in ortho, complex spine surgery, general, vascular. Level II trauma facility.  Prefer travel exp and exp in robotic surgery. OH exp a plus.  Must have at least 2 years of experience. IVS to interview via montage. NM to make final offer.
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 59135
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 42.5
+    [facilityID] => 9547
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-05-20
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:30
+    [whenmodified] => January, 28 2024 10:29:28
+    [daysPerWeek] => 5
+    [orderNote] => Source=ShiftWise;ID=0;SourceID=8107525;Status=;Client=AH: Seton Medical Center - Williamson;City=Round Rock;State=TX;Start=5/13/2019;End=8/12/2019;Duration=92;Cert=RN;Specialty=OR;Unit=SMCW Surgery;Shift=AM 8.00 Hrs;# of Postions=1;Type=Travel;BillRate=$70.22;OTRate=;Description=04/23/2019 1716 MDTCerville ExavierMon-Fri 7a-3p.1 weekend call day per month (24 hours, 7a   7a), 5   7 eight-hour weekday call slots per month Weekday call slots are either 3p-11p or 11p   7a. Must have very strong skills in ortho, complex spine surgery, general, vascular. Level II trauma facility.  Prefer travel exp and exp in robotic surgery. OH exp a plus.  Must have at least 2 years of experience. IVS to interview via montage. NM to make final offer.;VMSPositionType= AvgHoursPerWeek=
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70.22
+    [facilityName] => Ascension Seton Williamson Hospital
+    [shiftDateEnd] => 2019-08-19
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

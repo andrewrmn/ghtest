@@ -1,0 +1,120 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5162',
+  'Cf-Ray' => '8420906d433a23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => ED RN - busy 50+ bed unit w 4 trauma rooms; ASAP start; 13 week assignment w possible extension; EOW; Float - includes possible float to sister campuses if needed (all within 12 mile radius); Holidays; Minimal to no RTO (must be included on submission)
+
+Required Certifications: PALS, BLS
+Required Skills: Conscious Sedation, IV Start, Triage, Behavioral Health patients
+
+Minimum 2 years recent ED experience required; PEDS ED experience preferred; Recent travel experience preferred; EPIC charting highly preferred
+
+*Candidate Name, Email, SSN & DOB MUST be updated in Lotus Candidate Profile; Qualivis submission form, Skills Checklist, References and updated NURSYS (if applicable) required for all submissions*
+
+
+ Modified Time:1/9/2023 8:00:00 AM
+
+ Account Manager: Megan Hannemann
+
+ Account Manager Email: Megan.Hannemann@qualivis.com
+
+ Over Time Multiplier: 
+
+ Over Time Rule: 
+
+ Call Back: 
+
+ Charge: 
+
+ Holiday: 
+
+ Submittal Details: #Tier3 Travel ComplianceNeed 3 weeks/21 calendar days+ at minimum lead time from Booking to Start to account for Credentialing/ComplianceCHOA TESTS FOR COTININE/NICOTINE; they are a nicotine free campus and do not allow smoking. Flu Shot is requiredGeneral Experience Required (flu season Sept-Dec 1)- First time travelers are accepted if resume suggests they have the needed skills.- Will accept submissions with pending RN License. - BSN is preferred, but not required.- Epic EMR experience is preferred.  There is a compliance hard doc due date is 7 business days prior to start. No exceptions. please make sure the candidate is aware.  Orientation is held every 2 weeks at  at Children s Healthcare of Atlanta   Office Park Learning Services Building (1680) for 3 days. 
+
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+
+ Flu Vaccine: Required - No Exemptions
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 463680
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8495
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-01-09
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 07 2024 20:11:01
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=1932391 ;Status=Open;Association=Qualivis MSP ;Client=Childrens Healthcare of Atlanta at Scottish Rite ;City=Atlanta ;State=GA ;Zip=30342-1600 ;Start=1/9/2023;End=4/10/2023;Duration=91;Cert=Registered Nurse ;Specialty=ER ;Unit=Emergency Department - 22420 ;Shift=Night 3x12-Hour (17:00 - 05:00);# of Postions=1;Type=Travel;BillRate=$140.00;OTRules=48 total hours in 1 week : 10 ;Orientation=Non-Billable Orientation: 16 Hours ;Description=ED RN - busy 50+ bed unit w 4 trauma rooms; ASAP start; 13 week assignment w possible extension; EOW; Float - includes possible float to sister campuses if needed (all within 12 mile radius); Holidays; Minimal to no RTO (must be included on submission)
+
+Required Certifications: PALS, BLS
+Required Skills: Conscious Sedation, IV Start, Triage, Behavioral Health patients
+
+Minimum 2 years recent ED experience required; PEDS ED experience preferred; Recent travel experience preferred; EPIC charting highly preferred
+
+*Candidate Name, Email, SSN & DOB MUST be updated in Lotus Candidate Profile; Qualivis submission form, Skills Checklist, References and updated NURSYS (if applicable) required for all submissions*
+
+
+ Modified Time:1/9/2023 8:00:00 AM
+
+ Account Manager: Megan Hannemann
+
+ Account Manager Email: Megan.Hannemann@qualivis.com
+
+ Over Time Multiplier: 
+
+ Over Time Rule: 
+
+ Call Back: 
+
+ Charge: 
+
+ Holiday: 
+
+ Submittal Details: #Tier3 Travel ComplianceNeed 3 weeks/21 calendar days+ at minimum lead time from Booking to Start to account for Credentialing/ComplianceCHOA TESTS FOR COTININE/NICOTINE; they are a nicotine free campus and do not allow smoking. Flu Shot is requiredGeneral Experience Required (flu season Sept-Dec 1)- First time travelers are accepted if resume suggests they have the needed skills.- Will accept submissions with pending RN License. - BSN is preferred, but not required.- Epic EMR experience is preferred.  There is a compliance hard doc due date is 7 business days prior to start. No exceptions. please make sure the candidate is aware.  Orientation is held every 2 weeks at  at Children s Healthcare of Atlanta   Office Park Learning Services Building (1680) for 3 days. 
+
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+
+ Flu Vaccine: Required - No Exemptions ;url=https://app.ayaconnect.com/index.html#/vendor/job/1932391/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 140
+    [facilityName] => Childrens at Scottish Rite 
+    [shiftDateEnd] => 2023-04-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

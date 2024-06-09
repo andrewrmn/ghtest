@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4084',
+  'Cf-Ray' => '83f41ec5f33f6a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => SUMMARY  This position is responsible for providing patient  care via therapeutic use of self, the nursing process, the  environment/instrumentation, and other health team members by delegation of  responsibilities.     
+To perform this job successfully, an individual must be able to perform each responsibility satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability to be successful.   
+   DUTIES/RESPONSIBILITIES (include but are not limited to the following)  Make complete rounds and check condition      of assigned patients to ensure maximum care and to determine need for      additional or modified services.  Notify Charge Nurse of changes in patient      census so staffing can be adjusted accordingly.  Provide basic nursing care to the      medical-surgical and ER patients.  Maintain adequate records reflecting      patient condition, medications, and treatments.   EDUCATION AND/OR EXPERIENCE            Graduate from an accredited school of nursing            Have a current license as a registered nurse issued by the State of Iowa or is eligible for reciprocity or has a work permit issued by the State of Iowa            ACLS certified or willingness to complete within 1 year            PALS preferred   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 209364
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3763
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 1
+    [bonus] => 
+    [shiftDateStart] => 2021-05-01
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 02 2024 10:43:52
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=177313 ;Status=Open;Association=Washington County Hospital and Clinics ;Client=Washington County Hospital and Clinics ;City=Washington ;State=IA ;Zip=52353 ;Start=5/1/2021;End=7/31/2021;Duration=91;Cert=Nursing ;Specialty=Floor Nurse, Med-surg Adult, Registered Nurse ;Unit=Floor Nurse, Med-surg Adult, Registered Nurse ;Shift=Days;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$125.00;OTRate=125 ;OTRules=By The Week, after 40, ;CallbackRate=125 (All Inclusive Rate) ;HolidayRate=125 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=SUMMARY  This position is responsible for providing patient  care via therapeutic use of self, the nursing process, the  environment/instrumentation, and other health team members by delegation of  responsibilities.     
+To perform this job successfully, an individual must be able to perform each responsibility satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability to be successful.   
+   DUTIES/RESPONSIBILITIES (include but are not limited to the following)  Make complete rounds and check condition      of assigned patients to ensure maximum care and to determine need for      additional or modified services.  Notify Charge Nurse of changes in patient      census so staffing can be adjusted accordingly.  Provide basic nursing care to the      medical-surgical and ER patients.  Maintain adequate records reflecting      patient condition, medications, and treatments.   EDUCATION AND/OR EXPERIENCE            Graduate from an accredited school of nursing            Have a current license as a registered nurse issued by the State of Iowa or is eligible for reciprocity or has a work permit issued by the State of Iowa            ACLS certified or willingness to complete within 1 year            PALS preferred   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/177313;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 125
+    [facilityName] => Washington County Hospital
+    [shiftDateEnd] => 2021-07-31
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

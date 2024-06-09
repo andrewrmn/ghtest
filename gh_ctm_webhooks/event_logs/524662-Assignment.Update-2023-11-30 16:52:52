@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '991',
+  'Cf-Ray' => '82e49a74542423b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By Facility; Clinical Performance
+Last shift worked was 11-01
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 524662
+    [workerID] => 242797
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12643
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-02
+    [workerLastName] => Small
+    [shiftNum] => 5
+    [workerFirstName] => Ritesia
+    [cert] => RN
+    [floorDesc] => Neuro
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 30 2023 11:52:52
+    [daysPerWeek] => 3
+    [orderNote] => BR:$105lRS:133156lFTK:Kronos
+OnCl:P$2/B$3
+Orient:$20lNonBill:16hrs
+    [guaranteedMinimum] => 
+    [workerEmail] => r.dsmall@hotmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Banner - University Medical Center Phoenix TRAVEL
+    [shiftDateEnd] => 2023-11-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

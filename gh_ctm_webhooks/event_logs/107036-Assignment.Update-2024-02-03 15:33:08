@@ -1,0 +1,66 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1737',
+  'Cf-Ray' => '84fbbb04377b23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 02/20/2020 1437 MSTCerville Exavier
+                            
+                            
+                                RESERVED FOR J. SORRELL ATO 03/20-03/23
+    [sitename] => giftednurses
+    [spec] => Radiology
+    [assignmentid] => 107036
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 12
+    [facilityID] => 2478
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-03-23
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 09:00
+    [whenmodified] => February, 03 2024 10:32:17
+    [daysPerWeek] => 1
+    [orderNote] => Source=Shiftwise;SourceID=8610113;Status=Pending;Association=CCS WFS: Seton HealthCare Network;Client=AH: Dell Children's Medical Center Allied;City=Austin;State=TX;Zip=78723;Start=2/23/2020;End=4/19/2020;Duration=57;Cert=Rad Tech;Specialty=CT Technologist;Unit=DCMC Radiology;Shift=NOC 10.00 Hrs;# of Postions=1;Type=Travel;OTRate= ;OTRules= ;ChargeRate= ;CallbackRate= ;CallbackRate= ;HolidayRate= ;OnCallRateDescription= ;Orientation= ;Description=02/20/2020 1437 MSTCerville Exavier
+                            
+                            
+                                RESERVED FOR J. SORRELL ATO 03/20-03/23;Buyer= ;url=https://secure.shiftwise.net/esp/order.aspx?order_id=0D4401E8808D3C9B0BDA8E740B9D43E9;VMSPositionType= AvgHoursPerWeek= InterviewRequired=False;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 
+    [facilityName] => Dell Children's Medical Center
+    [shiftDateEnd] => 2020-05-18
+    [shiftStartTime] => 21:00
+    [subjectID] => 
+)

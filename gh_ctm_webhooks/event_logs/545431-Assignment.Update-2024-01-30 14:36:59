@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '27',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '827',
+  'Cf-Ray' => '84da7345f3a74959-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => Clinic
+    [assignmentid] => 545431
+    [workerID] => 344358
+    [WorkerContactNo] => 443-525-3129
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 40
+    [facilityID] => 16185
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 1
+    [bonus] => 
+    [shiftDateStart] => 2024-02-12
+    [workerLastName] => Smoot
+    [shiftNum] => 1
+    [workerFirstName] => Gail
+    [cert] => LPN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => January, 30 2024 09:36:58
+    [daysPerWeek] => 5
+    [orderNote] => RTO: 03/1/24 - 3/5/24
+    [guaranteedMinimum] => 
+    [workerEmail] => pinkgas39.gs@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 50
+    [facilityName] => VAMC-Myrtle Beach VA Clinic
+    [shiftDateEnd] => 2024-04-30
+    [shiftStartTime] => 08:00
+    [subjectID] => 
+)

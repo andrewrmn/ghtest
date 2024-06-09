@@ -1,0 +1,483 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '23',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6490',
+  'Cf-Ray' => '845a1466d2044949-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Hospital:
+
+Centennial Medical CenterLocation: 12T
+Address: 2300 Patterson Street
+
+Unit Name: 12 Tower
+
+Building:
+
+Cost Center: 607
+General InformationUnit Specifics:
+ 
+
+
+
+
+
+
+
+
+Number of Beds: 36
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios: 1:4 / 1:5
+
+ 
+
+
+
+
+
+
+
+
+Unit staffing description- secretary every day, PRN techs
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment: PD Cyclers, Basic equipment - Welch Allyn VS Carts, Hoyer Lift, Broda Chairs, Alaris IV Pumps
+
+ 
+
+
+
+
+
+
+
+
+Documentation system: Meditech
+
+ 
+
+
+
+
+
+
+
+
+Scheduling requirements: 4 weekend shifts in a 4-week block
+
+ 
+
+
+
+
+
+
+
+
+Floating policy: Will float over core staff
+
+ 
+
+
+
+
+
+
+
+
+Patient Experience requirements:
+Bedside shift report, safety checks q1-2h, focus on commination and responsiveness
+
+ 
+
+
+
+
+
+
+
+
+Must have:
+COVID Vaccine
+Hospital Specifics-
+ 
+
+
+
+
+
+
+
+
+Certifications: BLS, NIHSS
+Hiring profileRequested Skill Set:
+
+Able to perform basic patient assessments, general care and maintenance of the following: Wounds, Tracheostomy, Ostomy, Drains, Chest Tubes, Strokes, Seizures. Patient population has at times will require dialysis or PCA pumps. Only drip is Heparin.
+
+
+
+Post-Op procedures on unit:
+
+Amputations, ostomy, drains, chest tubes, oral surgeries and wound vacs.
+
+
+
+
+Dress Code:
+
+ 
+
+
+
+
+
+
+
+
+
+Scrubs   Navy, Blue, White, Black, Gray, Ceil Blue
+
+
+
+
+Unit Guidelines/Policies: Packet attached
+
+ 
+
+
+
+
+
+
+
+
+HAI prevention   CVC and Foley monitoring with standard precautions
+
+ 
+
+
+
+
+
+
+
+
+Fall prevention
+
+ 
+
+
+
+
+
+
+
+
+DCL Lounge/Throughput
+
+ 
+
+
+
+
+
+
+
+
+100% Medication Scanning, including controlled substances
+
+ 
+
+
+
+
+
+
+
+
+Attendance per policy
+
+Great teamwork, youthful group that is eager to get in and complete any task to enhance the outcomes of their patients. Charges are supportive and experienced, along with leadership to allow for smooth introduction to 12 Tower. All candidates will be treated as core staff and held to the same level of accountability and recognition for their work.
+ General Comments
+ No. of Positions: 1/2.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 530509
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1297
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-29
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 14 2024 19:42:35
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=712629 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=CENTENNIAL MEDICAL CENTER TN ;City=NASHVILLE ;State=TN ;Zip=37203 ;Start=11/21/2023;End=2/20/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=TRISTAR DIVISION (7) ;Shift=7:00PM - 7:00AM;# of Postions=1;Type=Travel;BillRate=$76.00;minBillRate=$76.00;OTRate=84 ;CallbackRate=84 ;HolidayRate=84 ;Description=Description:Hospital:
+
+Centennial Medical CenterLocation: 12T
+Address: 2300 Patterson Street
+
+Unit Name: 12 Tower
+
+Building:
+
+Cost Center: 607
+General InformationUnit Specifics:
+ 
+
+
+
+
+
+
+
+
+Number of Beds: 36
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios: 1:4 / 1:5
+
+ 
+
+
+
+
+
+
+
+
+Unit staffing description- secretary every day, PRN techs
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment: PD Cyclers, Basic equipment - Welch Allyn VS Carts, Hoyer Lift, Broda Chairs, Alaris IV Pumps
+
+ 
+
+
+
+
+
+
+
+
+Documentation system: Meditech
+
+ 
+
+
+
+
+
+
+
+
+Scheduling requirements: 4 weekend shifts in a 4-week block
+
+ 
+
+
+
+
+
+
+
+
+Floating policy: Will float over core staff
+
+ 
+
+
+
+
+
+
+
+
+Patient Experience requirements:
+Bedside shift report, safety checks q1-2h, focus on commination and responsiveness
+
+ 
+
+
+
+
+
+
+
+
+Must have:
+COVID Vaccine
+Hospital Specifics-
+ 
+
+
+
+
+
+
+
+
+Certifications: BLS, NIHSS
+Hiring profileRequested Skill Set:
+
+Able to perform basic patient assessments, general care and maintenance of the following: Wounds, Tracheostomy, Ostomy, Drains, Chest Tubes, Strokes, Seizures. Patient population has at times will require dialysis or PCA pumps. Only drip is Heparin.
+
+
+
+Post-Op procedures on unit:
+
+Amputations, ostomy, drains, chest tubes, oral surgeries and wound vacs.
+
+
+
+
+Dress Code:
+
+ 
+
+
+
+
+
+
+
+
+
+Scrubs   Navy, Blue, White, Black, Gray, Ceil Blue
+
+
+
+
+Unit Guidelines/Policies: Packet attached
+
+ 
+
+
+
+
+
+
+
+
+HAI prevention   CVC and Foley monitoring with standard precautions
+
+ 
+
+
+
+
+
+
+
+
+Fall prevention
+
+ 
+
+
+
+
+
+
+
+
+DCL Lounge/Throughput
+
+ 
+
+
+
+
+
+
+
+
+100% Medication Scanning, including controlled substances
+
+ 
+
+
+
+
+
+
+
+
+Attendance per policy
+
+Great teamwork, youthful group that is eager to get in and complete any task to enhance the outcomes of their patients. Charges are supportive and experienced, along with leadership to allow for smooth introduction to 12 Tower. All candidates will be treated as core staff and held to the same level of accountability and recognition for their work.
+ General Comments
+ No. of Positions: 1/2. ;url=https://vendor.healthtrustws.com/positions/712629;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 76
+    [facilityName] => Centennial Medical Center
+    [shiftDateEnd] => 2024-04-29
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

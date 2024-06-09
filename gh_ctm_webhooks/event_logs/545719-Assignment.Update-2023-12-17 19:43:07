@@ -1,0 +1,92 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3336',
+  'Cf-Ray' => '8371a73054b91836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Schedule:
+4/10 or 5/8s depending on the need and call varies 1-2 times per week and then every 5-6 weekend. 
+
+REQUIRED:
+- Vascular Interventional experience
+
+We are a comprehensive stroke and level 1 trauma center so they need to be competent in sterile technique, sterile field, neuro, vascular, body cases such as stroke, trauma, embolization, thrombectomy because these are the types of cases we do on call.
+
+It will either be 4/10 or 5/8s depending on the need and call varies 1-2 times per week and then every 5-6 weekend. 
+
+ Modified Time:12/11/2023 5:00:00 AM
+ Account Manager: Rodrigo Barreto
+ Account Manager Email: Rodrigo.Barreto@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceMust have 2 years experience in specialtyMust have a minimum of 1 reference"PASS OR FAIL" TEST FACILITY: Must be able to pass EKG test during Nursing OrientationLocals accepted at same BR
+    [sitename] => giftednurses
+    [spec] => Interventional Radiology
+    [assignmentid] => 545719
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 12793
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-31
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 17 2023 14:43:02
+    [daysPerWeek] => 4
+    [orderNote] => Source=AYA;SourceID=2320525 ;Status=Open;Association=Aya Healthcare Direct ;Client=UF Health Jacksonville ;City=Jacksonville ;State=FL ;Zip=32209-6595 ;Start=12/11/2023;End=6/10/2024;Duration=182;Cert=Radiology / Cardiology ;Specialty=Interventional Radiology ;Unit= ;Shift=Day 4x10-Hour (07:00 - 17:00);# of Postions=1;Type=Travel;BillRate=$70.00;OTRules=40 total hours in 1 week : 1.25% ;Description=Schedule:
+4/10 or 5/8s depending on the need and call varies 1-2 times per week and then every 5-6 weekend. 
+
+REQUIRED:
+- Vascular Interventional experience
+
+We are a comprehensive stroke and level 1 trauma center so they need to be competent in sterile technique, sterile field, neuro, vascular, body cases such as stroke, trauma, embolization, thrombectomy because these are the types of cases we do on call.
+
+It will either be 4/10 or 5/8s depending on the need and call varies 1-2 times per week and then every 5-6 weekend. 
+
+ Modified Time:12/11/2023 5:00:00 AM
+ Account Manager: Rodrigo Barreto
+ Account Manager Email: Rodrigo.Barreto@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceMust have 2 years experience in specialtyMust have a minimum of 1 reference"PASS OR FAIL" TEST FACILITY: Must be able to pass EKG test during Nursing OrientationLocals accepted at same BR ;url=https://app.ayaconnect.com/index.html#/vendor/job/2320525/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => UF Health Jacksonville
+    [shiftDateEnd] => 2024-06-30
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

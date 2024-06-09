@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2527',
+  'Cf-Ray' => '84ca459910f177ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 07/06/2021 0956 MDTJackie Pittmann
+                            
+                            
+                                Bill rate is $90 for 48 hours 48 hours. OBSERVATION UNIT. Must have 2 years of experience. Cerner experience a plus. Will agree to 8 week contracts as well. If an RN wants 36 hrs the bill rate would go down to $83/hr. IVS to interview and extend offer. Must be willing to float to nearby facilities when necessary. No block scheduling allowed.
+ RatePlan:AH-Rapid Response (Covid19) MAY 1
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 242676
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9547
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-08-16
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 28 2024 10:29:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;SourceID=9323740 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Medical Center - Williamson ;City=Round Rock ;State=TX ;Zip=78665 ;Start=8/2/2021;End=10/31/2021;Duration=91;Cert=RN ;Specialty=Med ;Unit=SMCW 3rd Floor Med Surg ;Shift=AM 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$90.00;minBillRate=$90.00;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=07/06/2021 0956 MDTJackie Pittmann
+                            
+                            
+                                Bill rate is $90 for 48 hours 48 hours. OBSERVATION UNIT. Must have 2 years of experience. Cerner experience a plus. Will agree to 8 week contracts as well. If an RN wants 36 hrs the bill rate would go down to $83/hr. IVS to interview and extend offer. Must be willing to float to nearby facilities when necessary. No block scheduling allowed.
+ RatePlan:AH-Rapid Response (Covid19) MAY 1 ;url=https://automated.shiftwise.net/esp/order.aspx?order_id=20BD79D76A037C8407F9AFD199CB67F2;minPayRate=$90.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Ascension Seton Williamson Hospital
+    [shiftDateEnd] => 2021-11-14
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

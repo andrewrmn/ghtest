@@ -1,0 +1,196 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3937',
+  'Cf-Ray' => '829ada6b00e3183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Data Collection:
+
+Unit Information:
+ 
+5 North Post Surgical
+
+Location: HCA Houston Medical Center
+
+Address: 1313 Hermann Drive
+
+Floor: 5th
+
+Building: North Tower
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds - 13Number of Staff   
+20Type of staff:Day Shift  1 charge, 2 RN, 1 CNANight Shift   1 Charge, 2 RN, 1CNAPatient Ratios   1:5Type of equipment - EMR - Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+
+At least 2 years experience 
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+Post-surgical, bariatric, med/surg experience
+
+List typical procedures performed on unit(s): 
+
+Post op care
+
+Best personality Fit:
+Team spirit, positive attitude
+ 
+
+REQUIRED CERTIFICATIONS:
+BLS
+Floating Area(s):
+Med Surg
+Dress Code: 
+Scrub Color/Attire -
+ Royal Blue
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+
+
+
+
+
+Weekends and On call(if any)
+Every other weekend requirement
+ General Comments1.
+Local Fill - 2951152
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545383
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13931
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 21 2023 13:04:05
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=776603 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA Houston Med Ctr ;City=Houston ;State=TX ;Zip=77004 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=GULF COAST DIVISION (14) ;Shift=7A-7P;# of Postions=1;Type=Travel;BillRate=$60.00;OTRate=68 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Data Collection:
+
+Unit Information:
+ 
+5 North Post Surgical
+
+Location: HCA Houston Medical Center
+
+Address: 1313 Hermann Drive
+
+Floor: 5th
+
+Building: North Tower
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds - 13Number of Staff   
+20Type of staff:Day Shift  1 charge, 2 RN, 1 CNANight Shift   1 Charge, 2 RN, 1CNAPatient Ratios   1:5Type of equipment - EMR - Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+
+At least 2 years experience 
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+Post-surgical, bariatric, med/surg experience
+
+List typical procedures performed on unit(s): 
+
+Post op care
+
+Best personality Fit:
+Team spirit, positive attitude
+ 
+
+REQUIRED CERTIFICATIONS:
+BLS
+Floating Area(s):
+Med Surg
+Dress Code: 
+Scrub Color/Attire -
+ Royal Blue
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+
+
+
+
+
+Weekends and On call(if any)
+Every other weekend requirement
+ General Comments1.
+Local Fill - 2951152
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/776603;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 60
+    [facilityName] => HCA Houston Healthcare Medical Center
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

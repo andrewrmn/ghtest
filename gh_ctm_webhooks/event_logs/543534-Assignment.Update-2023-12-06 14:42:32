@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3139',
+  'Cf-Ray' => '83154bc8a5c623c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DEPARTMENT DESCRIPTIONThe Progressive Care Unit provides direct care or influences care for acutely ill patients who are moderately stable with an elevated risk for instability. The PCU provides care through advanced knowledge and experience in a setting that provides advanced monitoring, assessments, and interventions. EXPERIENCE/EDUCATION/QUALIFICATIONSCurrent unencumbered Oregon RN license required upon submission.Healthcare Provider Level AHA BLS required upon submission.GSR PCU 2S:ACLS preferred with initial contract, required for extensions.Six (6) months RN experience in Med/Surg, PCU, ICU or a related area required. PCU and basic EKG experience preferred.Verification of high school diploma or equivalent required due to the College of American Pathologists (CAP) requirements for moderate complexity testing.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 543534
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5820
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 06 2023 09:42:29
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261454 ;Status=Open;Association=Samaritan Health Services ;Client=Good Samaritan Regional Medical Center ;City=Corvallis ;State=OR ;Zip=97330 ;Start=11/9/2023;End=2/8/2024;Duration=91;Cert=Nursing ;Specialty=PCU ;Unit=PCU ;Shift=Nights (1900-0730) every other weekend;# of Postions=7;Guaranteed Hours=36;Type=Travel;BillRate=$110.00;OTRate=120 ;OTRules=By The Week, after 40, ;CallbackRate=110 (All Inclusive Rate) ;HolidayRate=120 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=DEPARTMENT DESCRIPTIONThe Progressive Care Unit provides direct care or influences care for acutely ill patients who are moderately stable with an elevated risk for instability. The PCU provides care through advanced knowledge and experience in a setting that provides advanced monitoring, assessments, and interventions. EXPERIENCE/EDUCATION/QUALIFICATIONSCurrent unencumbered Oregon RN license required upon submission.Healthcare Provider Level AHA BLS required upon submission.GSR PCU 2S:ACLS preferred with initial contract, required for extensions.Six (6) months RN experience in Med/Surg, PCU, ICU or a related area required. PCU and basic EKG experience preferred.Verification of high school diploma or equivalent required due to the College of American Pathologists (CAP) requirements for moderate complexity testing.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261454;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => Good Samaritan Regional Medical Center
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

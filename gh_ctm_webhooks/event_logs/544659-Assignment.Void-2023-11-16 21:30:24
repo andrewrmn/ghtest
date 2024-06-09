@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4875',
+  'Cf-Ray' => '8272d5ba83a41465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => COVID-19 vaccination is recommended but not required. Flu vaccination will be required October through April. Flu exemption applications must be received and approved by Phoenix Children s prior to starting.  Anyone not vaccinated for either Flu or COVID-19 will be required to sign a Declination & Masking Protocol agreements and must mask during the respiratory virus season.Please do not include a COVID vaccination card in your submittal.We have one night and one day position available. Shift will be discussed during interview. This assignment will float across all Critical Care units, CVICU, NICU, and PICU as needed, and could float to Acute Care units as well.  We will have assignments starting 10/02/23 and 10/16/23 and continue through 03/30/24.  Night and Day shifts are available and will be decided in the interview. Working every other weekend, Sat/Sun, is required for all assignments and travelers are the first to float. Experience RequirementsTwo (2) years  experience as a registered nurseOne (1) year pediatric experienceTravel experience at a children s hospital strongly preferred. Education, License, & Certification RequirementsDiploma Nursing degree, Associate s degree, or Bachelor s degree in nursing (or higher)   Bachelor s degree preferredCurrent State of Arizona RN license or an RN license from a compact state with multistate privileges or the ability to establish licensure according to Arizona law prior to start date.Current BLS certification for Healthcare Providers from the American Heart AssociationCurrent PALS certification from the American Heart Association   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => PICU
+    [assignmentid] => 544659
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9965
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 16 2023 16:30:23
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261271 ;Status=Open;Association=Phoenix Children's Hospital ;Client=Phoenix Children's Hospital ;City=Phoenix ;State=AZ ;Zip=85016 ;Start=1/8/2024;End=4/8/2024;Duration=91;Cert=Nursing ;Specialty=Pediatric Intensive Care Nurse (PICU), NICU / Neonatal ICU, CVICU, Critical Care (CCU) ;Unit=Pediatric Intensive Care Nurse (PICU), NICU / Neonatal ICU, CVICU, Critical Care (CCU) ;Shift=1 Day and 1 Night Available ;# of Postions=3;Guaranteed Hours=36;Type=Travel;BillRate=$125.00;OTRate=135 ;OTRules=By The Week, after 40, ;CallbackRate=135 (All Inclusive Rate + $10) ;HolidayRate=135 (All Inclusive Rate + $10) ;OnCallRateDescription=$4 per hour pager ;Description=COVID-19 vaccination is recommended but not required. Flu vaccination will be required October through April. Flu exemption applications must be received and approved by Phoenix Children s prior to starting.  Anyone not vaccinated for either Flu or COVID-19 will be required to sign a Declination & Masking Protocol agreements and must mask during the respiratory virus season.Please do not include a COVID vaccination card in your submittal.We have one night and one day position available. Shift will be discussed during interview. This assignment will float across all Critical Care units, CVICU, NICU, and PICU as needed, and could float to Acute Care units as well.  We will have assignments starting 10/02/23 and 10/16/23 and continue through 03/30/24.  Night and Day shifts are available and will be decided in the interview. Working every other weekend, Sat/Sun, is required for all assignments and travelers are the first to float. Experience RequirementsTwo (2) years  experience as a registered nurseOne (1) year pediatric experienceTravel experience at a children s hospital strongly preferred. Education, License, & Certification RequirementsDiploma Nursing degree, Associate s degree, or Bachelor s degree in nursing (or higher)   Bachelor s degree preferredCurrent State of Arizona RN license or an RN license from a compact state with multistate privileges or the ability to establish licensure according to Arizona law prior to start date.Current BLS certification for Healthcare Providers from the American Heart AssociationCurrent PALS certification from the American Heart Association   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261271;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 125
+    [facilityName] => Phoenix Children's Hospital Medefis5
+    [shiftDateEnd] => 2024-04-08
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

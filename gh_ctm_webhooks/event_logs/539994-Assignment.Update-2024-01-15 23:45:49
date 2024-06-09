@@ -1,0 +1,450 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6040',
+  'Cf-Ray' => '8461fe9897dd1838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL MEDICAL SURGICAL7:00PM-7:00AM13 WEEKS
+
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE NH LICENSE/COMPACT AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+   3rd Surgical             Location: Portsmouth Regional Hospital             
+Address: 333   Borthwick Avenue, Portsmouth, NH, 03801
+         
+Floor: 3rd
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   27
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   5-6 RNs / 2-3 LNAs
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   Charge RN,
+ RNs, 
+LNAs, unit Coordinator ( Monday- Friday)
+   
+o
+
+
+   Night Shift   Charge RN,
+ RNs , 2-3 LNAs
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   5-6:1
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   
+Hoyer, CPM, 
+   
+ 
+
+
+
+
+
+
+
+   EMR   Code Cart
+   
+
+
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   Minimum 2   years  experience in Med Surg. in a Hospital Setting
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   2yrs   experience med surg, orthopedics, Bariatrics 
+   
+
+
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+
+Orthopedic Surgery (Knees, hips, Shoulder,   Cervical), bariatrics
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Work collaboratively with   team members, patient focus
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   BLS
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   Medical Oncology
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire   
+No Color
+   
+
+
+             Weekends and On call   
+ 
+
+
+
+
+
+
+
+   4 weekend   shift per 4 week schedule
+ No. of Positions: 1/3.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 539994
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-08
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 15 2024 18:45:48
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771044 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=PORTSMOUTH REGIONAL HOSPITAL NH ;City=PORTSMOUTH ;State=NH ;Zip='03801 ;Start=12/8/2023;End=3/8/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM-7:00AM ;# of Postions=1;Type=Travel;BillRate=$105.00;minBillRate=$105.00;OTRate=93 ;CallbackRate=93 ;HolidayRate=93 ;Description=Description:TRAVEL MEDICAL SURGICAL7:00PM-7:00AM13 WEEKS
+
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE NH LICENSE/COMPACT AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+   3rd Surgical             Location: Portsmouth Regional Hospital             
+Address: 333   Borthwick Avenue, Portsmouth, NH, 03801
+         
+Floor: 3rd
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   27
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   5-6 RNs / 2-3 LNAs
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   Charge RN,
+ RNs, 
+LNAs, unit Coordinator ( Monday- Friday)
+   
+o
+
+
+   Night Shift   Charge RN,
+ RNs , 2-3 LNAs
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   5-6:1
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   
+Hoyer, CPM, 
+   
+ 
+
+
+
+
+
+
+
+   EMR   Code Cart
+   
+
+
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   Minimum 2   years  experience in Med Surg. in a Hospital Setting
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   2yrs   experience med surg, orthopedics, Bariatrics 
+   
+
+
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+
+Orthopedic Surgery (Knees, hips, Shoulder,   Cervical), bariatrics
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Work collaboratively with   team members, patient focus
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   BLS
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   Medical Oncology
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire   
+No Color
+   
+
+
+             Weekends and On call   
+ 
+
+
+
+
+
+
+
+   4 weekend   shift per 4 week schedule
+ No. of Positions: 1/3.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/771044;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Portsmouth Regional Hospital
+    [shiftDateEnd] => 2024-03-08
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,98 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3917',
+  'Cf-Ray' => '82899769415f23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+$75 rate 
+8
+week contract with possible extension, AM position,  36 hours guaranteed,
+rotating weekends  2  plus years of ED experience, Must have AZ license,
+PALS, ACLS and BLS-- Must have Cerner experience.   parseGeneralComments Comments
+.bd_title { font-weight: bold }
+Reason for opening (special, internal vacancy, leave coverage) 
+          		******************************************************************************* 
+          		How long has it been open? 
+          		Will position be required to float to other units? 
+          		Number of beds in your facility? 
+          		Years of experience required? 
+          		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) 
+          		Willing to review clinicians with pending state license? 
+          		Is there anyone in the past that has worked for you that you would consider rehiring? 
+          		What is the work schedule for this position? (days needed, hours or shift) 
+			EMR for your facility: 
+          		Scrub colors / dress code: 
+			Parking location:  Contact: Michelle Warnock Resource Manager: Michelle Warnock
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 227333
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-06-21
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:47:10
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=478440 ;Status=Open;Association=CHS ;Client=Oro Valley Hospital ;City=Oro Valley ;State=AZ ;Zip=85755 ;Start=6/21/2021;End=8/16/2021;Duration=56;Cert=Registered Nurse (RN) ;Specialty=Emergency Dept ;Unit=EMERGENCY SERVICES ;Shift=for this position? (days needed, hours or shift)  			EMR for your facility:            		Scrub colors / dress code:  			Parking location:;# of Postions=1;Type=Travel;BillRate=$75.00;Description=Position Description
+$75 rate 
+8
+week contract with possible extension, AM position,  36 hours guaranteed,
+rotating weekends  2  plus years of ED experience, Must have AZ license,
+PALS, ACLS and BLS-- Must have Cerner experience.   parseGeneralComments Comments
+.bd_title { font-weight: bold }
+Reason for opening (special, internal vacancy, leave coverage) 
+          		******************************************************************************* 
+          		How long has it been open? 
+          		Will position be required to float to other units? 
+          		Number of beds in your facility? 
+          		Years of experience required? 
+          		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) 
+          		Willing to review clinicians with pending state license? 
+          		Is there anyone in the past that has worked for you that you would consider rehiring? 
+          		What is the work schedule for this position? (days needed, hours or shift) 
+			EMR for your facility: 
+          		Scrub colors / dress code: 
+			Parking location:  Contact: Michelle Warnock Resource Manager: Michelle Warnock ;Buyer=Michelle Warnock ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=478440#!/position/manage/478440;VMSPositionType=Travel InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Northwest Medical Center of Oro Valley
+    [shiftDateEnd] => 2021-08-16
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

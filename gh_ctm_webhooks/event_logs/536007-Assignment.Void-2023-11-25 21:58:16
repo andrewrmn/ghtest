@@ -1,0 +1,121 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4877',
+  'Cf-Ray' => '82bd26f000a31465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => On call required with 30 min response time. 
+3x12s's plus call required
+
+Minimum of 3 years' experience
+
+Unit Need: 
+Radiology Tech used in the OR Hybrid room, Cath Lab, and Endo Vascular Suite. 
+
+Has specialized knowledge in anatomy of the vascular system, the vascular disease process, the supplies that are used in angio and endovascular cases
+
+Specialized equipment in OR Hybrid: 
+Toshiba experience required
+
+
+
+
+
+
+
+ Modified Time:10/30/2023 12:00:00 AM
+
+ Account Manager: Ashley Belarmino
+
+ Account Manager Email: Ashley.Belarmino@vayaworkforce.com
+
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+
+ Submittal Details: #Tier2 Travel ComplianceFacility does not accept local travelers. Must be over 65 miles (address on drivers license to site address)Must have 2 years  experience in specialty for all locations. (New Orleans operating room req. 3 years)**NO CALL IN!**RTO must be on profile and brought up in the interview or there is a high chance offer's will be rescinded.Compact or LA license in hand upon submittalOrientation held 5 days a weekReferences: Not required for submission, however 2 Manager/Supervisor references will be required to obtain clearance to start contract. Recruiter, please obtain Manager/Supervisor contact information prior to submission. Charge RNs are NOT acceptable. PDF formatAHA certifications are requiredAWHONN Intermediate is required for L&D RNCPI required for all CNAER nurses must have CPI, or be able to get it before start.  This cert is somewhat difficult to get, so please be prepared for this.
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 536007
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3320
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 16:30
+    [whenmodified] => November, 25 2023 16:58:07
+    [daysPerWeek] => 4
+    [orderNote] => Source=AYA;SourceID=2261158 ;Status=Open;Association=Vaya MSP ;Client=Ochsner Medical Center - New Orleans ;City=New Orleans ;State=LA ;Zip=70121-2484 ;Start=10/30/2023;End=1/29/2024;Duration=91;Cert=Radiology / Cardiology ;Specialty=Interventional Radiology ;Unit=Surg & Recovery Svcs SOSH JH07 - 1082069 - Radiology Tech - Interventional Radiology ;Shift=Day 3x12-Hour (07:30 - 16:00);# of Postions=1;Type=Travel;BillRate=$100.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=8 ;Description=On call required with 30 min response time. 
+3x12s's plus call required
+
+Minimum of 3 years' experience
+
+Unit Need: 
+Radiology Tech used in the OR Hybrid room, Cath Lab, and Endo Vascular Suite. 
+
+Has specialized knowledge in anatomy of the vascular system, the vascular disease process, the supplies that are used in angio and endovascular cases
+
+Specialized equipment in OR Hybrid: 
+Toshiba experience required
+
+
+
+
+
+
+
+ Modified Time:10/30/2023 12:00:00 AM
+
+ Account Manager: Ashley Belarmino
+
+ Account Manager Email: Ashley.Belarmino@vayaworkforce.com
+
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+
+ Submittal Details: #Tier2 Travel ComplianceFacility does not accept local travelers. Must be over 65 miles (address on drivers license to site address)Must have 2 years  experience in specialty for all locations. (New Orleans operating room req. 3 years)**NO CALL IN!**RTO must be on profile and brought up in the interview or there is a high chance offer's will be rescinded.Compact or LA license in hand upon submittalOrientation held 5 days a weekReferences: Not required for submission, however 2 Manager/Supervisor references will be required to obtain clearance to start contract. Recruiter, please obtain Manager/Supervisor contact information prior to submission. Charge RNs are NOT acceptable. PDF formatAHA certifications are requiredAWHONN Intermediate is required for L&D RNCPI required for all CNAER nurses must have CPI, or be able to get it before start.  This cert is somewhat difficult to get, so please be prepared for this. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2261158/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Ochsner Medical Center- Main Campus Travel
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:30
+    [subjectID] => 
+)

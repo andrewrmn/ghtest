@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '29',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1794',
+  'Cf-Ray' => '8352337545f84961-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Certifications Needed       Specific Requirements: WA State Registered Nurse License, American      Heart Association BLS Card, NRP and C-EFM   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 546157
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13430
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-26
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:15
+    [whenmodified] => December, 13 2023 19:06:27
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262232 ;Status=Open;Association=Skagit Regional Health ;Client=Skagit Valley Hospital ;City=Mt Vernon ;State=WA ;Zip=98273 ;Start=12/26/2023;End=3/26/2024;Duration=91;Cert=Nursing ;Specialty=Labor and Delivery Nurse ;Unit=Labor and Delivery Nurse ;Shift=12 hrs 1845-0715;# of Postions=3;Guaranteed Hours=36;Type=Travel;BillRate=$105.00;OTRate=115 ;OTRules=By The Week, after 40, ;CallbackRate=115 (All Inclusive Rate + $10) ;HolidayRate=115 (All Inclusive Rate + $10) ;OnCallRateDescription=$4 per hour pager ;Description=Certifications Needed       Specific Requirements: WA State Registered Nurse License, American      Heart Association BLS Card, NRP and C-EFM   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262232;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Skagit Valley Hospital
+    [shiftDateEnd] => 2024-03-26
+    [shiftStartTime] => 06:45
+    [subjectID] => 
+)

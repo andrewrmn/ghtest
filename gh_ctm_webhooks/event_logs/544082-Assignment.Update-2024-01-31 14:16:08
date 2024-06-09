@@ -1,0 +1,118 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3568',
+  'Cf-Ray' => '84e2921867c71463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => RN Critical Care/ICU
+
+Arrhythmia Exam and EKG Exam needed
+ 
+Travelers will not be considered if working perm or per diem elsewhere
+Basic Certifications Required: (AHA) ACLS, BLS, NIHSS
+Christus St. Frances Cabrini Hospital - 3330 Prescott Rd. Alexandra, LA 71301
+$80.00; Orientation billable at 70% of the bill rate up to the first 36 hours
+
+No blocked scheduling available
+Ministry has COVID patients, this contractor must agree to care for COVID patients.
+12 hour Nights, EOH, EOW
+Minimum years of experience required: 3 years
+Number of Beds: 26
+Patient Population: Adult
+RN Ratio (Nights): 1:2; 1:1; - occasional 1:3 based on acuity
+On-call requirements? No
+Scrub/Uniform Color: Ceil Blue
+Length of unit orientation: Variable
+Nursing Assistant Support: Yes
+Charge Nurse on Unit: Yes
+Additional Support Staff on Unit:	Educators, manager, analyst; nurse lead
+Ventilators used? Drager
+Staff mix include RRTs: Yes
+Telemetry monitoring?   Yes
+Are telemetry skills required?  Yes
+Common Drips/Medications: Vasodilators, Vasopressors, etc.
+EMR:	Meditech
+IV Pumps: Alaris
+Floating: Will float to other units depending on acuity staffing needs
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 544082
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7833
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-02-19
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 31 2024 09:16:07
+    [daysPerWeek] => 3
+    [orderNote] => Source=StafferLink;SourceID=7935095 ;Status=O;Association=CHRISTUS St. Francis Cabrini (LA) ;Client=CHRISTUS St. Francis Cabrini (LA) ;City=Alexandria ;State=LA ;Zip=71301 ;Start=2/19/2024;End=5/18/2024;Duration=90;Cert=RN Critical Care ;Specialty=ICU MedSurgical A 1175 / 23 ;Unit=ICU MedSurgical A 1175 / 23 ;Shift=19:00:00 - 07:30:00;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$80.00;Description=RN Critical Care/ICU
+
+Arrhythmia Exam and EKG Exam needed
+ 
+Travelers will not be considered if working perm or per diem elsewhere
+Basic Certifications Required: (AHA) ACLS, BLS, NIHSS
+Christus St. Frances Cabrini Hospital - 3330 Prescott Rd. Alexandra, LA 71301
+$80.00; Orientation billable at 70% of the bill rate up to the first 36 hours
+
+No blocked scheduling available
+Ministry has COVID patients, this contractor must agree to care for COVID patients.
+12 hour Nights, EOH, EOW
+Minimum years of experience required: 3 years
+Number of Beds: 26
+Patient Population: Adult
+RN Ratio (Nights): 1:2; 1:1; - occasional 1:3 based on acuity
+On-call requirements? No
+Scrub/Uniform Color: Ceil Blue
+Length of unit orientation: Variable
+Nursing Assistant Support: Yes
+Charge Nurse on Unit: Yes
+Additional Support Staff on Unit:	Educators, manager, analyst; nurse lead
+Ventilators used? Drager
+Staff mix include RRTs: Yes
+Telemetry monitoring?   Yes
+Are telemetry skills required?  Yes
+Common Drips/Medications: Vasodilators, Vasopressors, etc.
+EMR:	Meditech
+IV Pumps: Alaris
+Floating: Will float to other units depending on acuity staffing needs ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => CHRISTUS St. Frances Cabrini Hospital - Travel
+    [shiftDateEnd] => 2024-05-18
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

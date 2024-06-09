@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '892',
+  'Cf-Ray' => '827b1408e0961834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: End Date Change
+8 Weeks; 2/17/2024
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 544592
+    [workerID] => 25744
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 36
+    [facilityID] => 13965
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => Brown
+    [shiftNum] => 5
+    [workerFirstName] => Cynthia
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 17 2023 16:31:01
+    [daysPerWeek] => 3
+    [orderNote] => EXT-FTK: Signed GH Timesheet
+BR:$98
+    [guaranteedMinimum] => 
+    [workerEmail] => cindy.brown5966@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 98
+    [facilityName] => Sweetwater Hospital Association
+    [shiftDateEnd] => 2024-02-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

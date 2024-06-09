@@ -1,0 +1,137 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7680',
+  'Cf-Ray' => '82cb7d2e61bf1836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => CT Scan Tech
+
+***AGENCY MUST SUPPLY RADIATION BADGE
+
+Start Date: Start date will be 2-3 weeks from offer
+Shift: Will work Fri-Sun 7:00p-7:00a
+Is on-call REQ? Yes   per unit needs
+Open to accommodating block schedule? Approval prior to assignment, but not guaranteed.
+
+Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+
+Years of experience REQ: 1 year
+First-timers accepted: Yes
+Certs/License Required: BLS, ARRT (R) (CT), SC License
+Will clinician float within scope meet facility needs? No
+Floating Req to Sister Facilities: No
+Radius rule? Yes, 50 miles. Are locals accepted? Yes, at $4 less than the posted bill rate
+Pending State License accepted: No, must have in hand at time of start 
+RTO Restrictions:  All RTO must be included at time of submission. Approval will be based on
+Guaranteed Hours: Facility allowed to call off 1 shift per 2 weeks
+
+Special Requirements: We perform inpatient, ER and scheduled interventional cases (Saturday only). Required skills: be able to start IV, Contrast, Biopsies, PACS system, AGENCY MUST SUPPLY RADIATION BADGE
+
+Hospital Highlights
+Type of Facility: Acute Care Hospital
+Level Trauma: Level III Trauma
+Total Staffed Beds: 286
+Scrub Color: Teal top, Black bottoms
+Charting: Cerner
+Parking Cost: Free
+
+
+ Modified Time:11/20/2023 5:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal radius: 50 miles. Locals accepted on a case by case basis at lower ratePerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 541462
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3561
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 27 2023 10:43:49
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2292850 ;Status=Open;Association=Qualivis MSP ;Client=MUSC Health Orangeburg ;City=Orangeburg ;State=SC ;Zip=29118 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=Radiology / Cardiology ;Specialty=CT Tech ;Unit=CC004790 - CT Scan ;Shift=Night 3x12-Hour (19:00 - 07:00);# of Postions=1;Type=Travel;BillRate=$85.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=CT Scan Tech
+
+***AGENCY MUST SUPPLY RADIATION BADGE
+
+Start Date: Start date will be 2-3 weeks from offer
+Shift: Will work Fri-Sun 7:00p-7:00a
+Is on-call REQ? Yes   per unit needs
+Open to accommodating block schedule? Approval prior to assignment, but not guaranteed.
+
+Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+
+Years of experience REQ: 1 year
+First-timers accepted: Yes
+Certs/License Required: BLS, ARRT (R) (CT), SC License
+Will clinician float within scope meet facility needs? No
+Floating Req to Sister Facilities: No
+Radius rule? Yes, 50 miles. Are locals accepted? Yes, at $4 less than the posted bill rate
+Pending State License accepted: No, must have in hand at time of start 
+RTO Restrictions:  All RTO must be included at time of submission. Approval will be based on
+Guaranteed Hours: Facility allowed to call off 1 shift per 2 weeks
+
+Special Requirements: We perform inpatient, ER and scheduled interventional cases (Saturday only). Required skills: be able to start IV, Contrast, Biopsies, PACS system, AGENCY MUST SUPPLY RADIATION BADGE
+
+Hospital Highlights
+Type of Facility: Acute Care Hospital
+Level Trauma: Level III Trauma
+Total Staffed Beds: 286
+Scrub Color: Teal top, Black bottoms
+Charting: Cerner
+Parking Cost: Free
+
+
+ Modified Time:11/20/2023 5:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal radius: 50 miles. Locals accepted on a case by case basis at lower ratePerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2292850/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => The Regional Medical Center of Orangeburg & Calhoun Counties Travel
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

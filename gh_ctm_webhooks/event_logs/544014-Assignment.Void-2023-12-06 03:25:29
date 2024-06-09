@@ -1,0 +1,65 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1341',
+  'Cf-Ray' => '83116bfef60f23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 Wks
+Licensed RN
+BLS required
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544014
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12994
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 05 2023 22:25:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48394 ;Status=In-Progress (O);Association=Trinity Health ;Client=IA - Genesis Medical Center Davenport-East ;City=Davenport ;State=IA ;Zip=52803 ;Start=12/3/2023;End=3/2/2024;Duration=90;Cert=RN Medical / Surgical ;Specialty=SSU ;Unit=E-RN-SSU-IA ;Shift=7a7p;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=117.00 ;ChargeRate=93.00 ;CallbackRate=117.00 ;HolidayRate=117.00 ;Orientation=0.00 ;Description=13 Wks
+Licensed RN
+BLS required ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Genesis Medical Center - Davenport
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

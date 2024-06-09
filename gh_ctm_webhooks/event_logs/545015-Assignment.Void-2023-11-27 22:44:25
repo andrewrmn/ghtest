@@ -1,0 +1,67 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '22',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1648',
+  'Cf-Ray' => '82cde54b230c4945-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Acute Medical Inpatient Med/Surg Telemetry RN - ORTHO ASAP 13 weeks 36/wk 3x12D  7a-7:30p  Every other Weekend Every other Holiday
+BLS 
+Orthopedic Experience preferred
+EPIC- EHR
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 545015
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12439
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => November, 27 2023 17:44:25
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48513 ;Status=Open;Association=Trinity Health ;Client=NY - St Joseph Hospital Health Center ;City=Syracuse ;State=NY ;Zip=13203 ;Start=12/17/2023;End=3/16/2024;Duration=90;Cert=RN Telemetry ;Specialty=Patient Care Unit 4-1 ;Unit=*Registered Nurse-Med Surg Tele-Patient Care Unit 4-1 ;Shift=0700-1930;# of Postions=1;Type=Travel;BillRate=$92.00;OTRate=119.60 ;ChargeRate=95.00 ;CallbackRate=119.60 ;HolidayRate=119.60 ;Description=Acute Medical Inpatient Med/Surg Telemetry RN - ORTHO ASAP 13 weeks 36/wk 3x12D  7a-7:30p  Every other Weekend Every other Holiday
+BLS 
+Orthopedic Experience preferred
+EPIC- EHR ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 92
+    [facilityName] => St. Joseph's Health TRAVEL
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

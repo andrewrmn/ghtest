@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '53',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '958',
+  'Cf-Ray' => '856145dad75b7b12-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By RN; Went Perm with Facility
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543722
+    [workerID] => 77061
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13618
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => Baxter
+    [shiftNum] => 4
+    [workerFirstName] => Rachael
+    [cert] => RN
+    [floorDesc] => Med/Surg-Hosp
+    [Subject] => 
+    [shiftEndTime] => 19:15
+    [whenmodified] => February, 15 2024 18:18:56
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$95lRS:136571
+OnCl:P$2/B$3
+FTK: Kronos
+    [guaranteedMinimum] => 
+    [workerEmail] => rachealmedic35@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Banner - Platte County Memorial Hospital TRAVEL
+    [shiftDateEnd] => 2024-01-28
+    [shiftStartTime] => 06:45
+    [subjectID] => 
+)

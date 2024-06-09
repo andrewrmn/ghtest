@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '9677',
+  'Cf-Ray' => '82d7a25d06b86a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Please Read Before Submitting:Do not submit if traveler is not flexible to work Evening and Night rotation, 8 and 12 hr shifts.Do not submit if traveler is requesting block scheduling.Do not submit if duo travelers are requesting the same schedule.??Quote from other travelers "I have felt welcomed and well supported while working here. There is many resources available to ensure safety for staff and positive outcomes for patients and their caregivers. There is great teamwork in the ER.I would highly recommend UW to any traveler!"The Emergency Department offers comprehensive services with access to a full team of subspecialists for our local and regional patients and referring hospitals and organizations. Over 60,000 patients per year are treated on an urgent and emergent basis in our 58-bed department; which includes a 10-bed observation unit. Our staff coordinates care with ground ambulances and Med Flight for severely ill and injured patients. As the focal point for emergency care, the Emergency Department performs diagnostic interventions, offers immediate consultations for cardiac catheterization, Level I trauma care, acute stroke care, burn center, operative procedures, special diagnostic testing and definitive care for all patients   pediatrics to adults.We are seeking aRegistered Nurse (RN) - Emergency Department (ED/ER)to:Apply your clinical knowledge and expertise in a fast-paced environment where patients require complex assessments and interventions.Broaden the scope of your skills while working with patients and families of all ages and acuities.Be part of a remarkable team of nurses, providers, and support staff, and have the opportunity to provide exceptional emergency care.Minimum Requirements:  Facility Requirement:    Traveler must have permanent address outside50mile radius of Madison (address must be included in       traveler's profile).  Experience:    Two (2) years of Emergency Department experience with adult and/or pediatric populationswithin last 3 years.   Traveler must have experience in an Academic Level 1 -       Trauma center.   Successfully completed traveler assignment       (13 weeks).  Licensure and Certification:   Traveler must have WI nursing license or compact       license from their permanent address state.   BLS, ACLS, and PALS (American Heart Association only) .TNCC preferred.  References   Needs 2 completed references from recent work assignments for work in the last two years (supervisor or manager only).  Telemetry Exam   Traveler must have Basic Arrhythmia experience. Traveler       will be required to pass UW Health Telemetry test prior to being cleared       to start (not for clinic positions).       UW Health Recruitment will send instructions to traveler 2-3 weeks       prior to start date.   Floating    Travelers       are the first to float to floors working with children up to 1 year of       age and/or based on the traveler's competency skills/experience. The Traveler may       have shifts scheduled in multiple units, depending on the current       staffing needs and/or different locations within the       organization.       During the traveler s assignment, if the primary unit no longer has a       need, shifts will be re-assigned to another unit in order to complete       contract. **Maybe float between different locations as needed. Location:UW Health East Madison Hospital 4602 Eastpark Boulevard, Madison, WI (Parking: free)ANDUW Hospital 600 Highland Ave, Madison, WI (Parking: permit required through UW transportation)   Additional Information: 	UW Health is moving away from using outdated file formats for Microsoft (Word, PowerPoint, and Excel). Profiles will need to be submitted in the following format: .docx, .xlsx and .pptx file types or our IS department will be blocking them and we will no longer receive the files nor able to forward internal to our hiring managers.-------------------------------------   	QuantiFERON/TSpot results will NOT be accepted for any reason   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 546311
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11999
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 28 2023 22:05:27
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262312 ;Status=Open;Association=UW Health ;Client=UW Health East Madison Hospital ;City=Madison ;State=WI ;Zip=53718 ;Start=1/8/2024;End=4/8/2024;Duration=91;Cert=Nursing ;Specialty=Emergency Room Nurse ;Unit=Emergency Room Nurse ;Shift=36 hrs/week -   evening/nights, 12 hr shifts, 1900 - 0730. Weekend rotation, holiday rotation. 
+
+*Could possibly be scheduled at both locations:  East Madison Hospital and University Hospital. 
+
+;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$111.00;OTRate=121 ;OTRules=By The Week, after 40, ;CallbackRate=111 (All Inclusive Rate) ;HolidayRate=121 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=Please Read Before Submitting:Do not submit if traveler is not flexible to work Evening and Night rotation, 8 and 12 hr shifts.Do not submit if traveler is requesting block scheduling.Do not submit if duo travelers are requesting the same schedule.??Quote from other travelers "I have felt welcomed and well supported while working here. There is many resources available to ensure safety for staff and positive outcomes for patients and their caregivers. There is great teamwork in the ER.I would highly recommend UW to any traveler!"The Emergency Department offers comprehensive services with access to a full team of subspecialists for our local and regional patients and referring hospitals and organizations. Over 60,000 patients per year are treated on an urgent and emergent basis in our 58-bed department; which includes a 10-bed observation unit. Our staff coordinates care with ground ambulances and Med Flight for severely ill and injured patients. As the focal point for emergency care, the Emergency Department performs diagnostic interventions, offers immediate consultations for cardiac catheterization, Level I trauma care, acute stroke care, burn center, operative procedures, special diagnostic testing and definitive care for all patients   pediatrics to adults.We are seeking aRegistered Nurse (RN) - Emergency Department (ED/ER)to:Apply your clinical knowledge and expertise in a fast-paced environment where patients require complex assessments and interventions.Broaden the scope of your skills while working with patients and families of all ages and acuities.Be part of a remarkable team of nurses, providers, and support staff, and have the opportunity to provide exceptional emergency care.Minimum Requirements:  Facility Requirement:    Traveler must have permanent address outside50mile radius of Madison (address must be included in       traveler's profile).  Experience:    Two (2) years of Emergency Department experience with adult and/or pediatric populationswithin last 3 years.   Traveler must have experience in an Academic Level 1 -       Trauma center.   Successfully completed traveler assignment       (13 weeks).  Licensure and Certification:   Traveler must have WI nursing license or compact       license from their permanent address state.   BLS, ACLS, and PALS (American Heart Association only) .TNCC preferred.  References   Needs 2 completed references from recent work assignments for work in the last two years (supervisor or manager only).  Telemetry Exam   Traveler must have Basic Arrhythmia experience. Traveler       will be required to pass UW Health Telemetry test prior to being cleared       to start (not for clinic positions).       UW Health Recruitment will send instructions to traveler 2-3 weeks       prior to start date.   Floating    Travelers       are the first to float to floors working with children up to 1 year of       age and/or based on the traveler's competency skills/experience. The Traveler may       have shifts scheduled in multiple units, depending on the current       staffing needs and/or different locations within the       organization.       During the traveler s assignment, if the primary unit no longer has a       need, shifts will be re-assigned to another unit in order to complete       contract. **Maybe float between different locations as needed. Location:UW Health East Madison Hospital 4602 Eastpark Boulevard, Madison, WI (Parking: free)ANDUW Hospital 600 Highland Ave, Madison, WI (Parking: permit required through UW transportation)   Additional Information: 	UW Health is moving away from using outdated file formats for Microsoft (Word, PowerPoint, and Excel). Profiles will need to be submitted in the following format: .docx, .xlsx and .pptx file types or our IS department will be blocking them and we will no longer receive the files nor able to forward internal to our hiring managers.-------------------------------------   	QuantiFERON/TSpot results will NOT be accepted for any reason   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262312;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 111
+    [facilityName] => UW Health at The American Center Travel
+    [shiftDateEnd] => 2024-04-08
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

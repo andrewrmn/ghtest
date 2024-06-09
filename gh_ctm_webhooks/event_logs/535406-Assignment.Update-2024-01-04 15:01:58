@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '978',
+  'Cf-Ray' => '84045c1e77051464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By Facility; No Longer Needed
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 535406
+    [workerID] => 142926
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3127
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-23
+    [workerLastName] => Busker
+    [shiftNum] => 5
+    [workerFirstName] => Scotti
+    [cert] => RN
+    [floorDesc] => General Medicine 6020
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 04 2024 10:01:57
+    [daysPerWeek] => 3
+    [orderNote] => BR:$85lRS:135258
+ChrgDf:P$1/B$3lOnCl:P$10/B$18
+Orient:$20lNonBill:16hrs
+FTK: API
+    [guaranteedMinimum] => 
+    [workerEmail] => scottiabusker@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => North Oaks Medical Center - Travel
+    [shiftDateEnd] => 2023-12-23
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

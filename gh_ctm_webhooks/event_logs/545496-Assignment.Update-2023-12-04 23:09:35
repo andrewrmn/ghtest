@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '29',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4303',
+  'Cf-Ray' => '8307b7c260274961-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Med Surg RN needed 7a-7:30p at Samaritan Medical Center located in Watertown, NY  RN should be comfortable Floating to Med/Surg and PCUDay Shift, 13 week assignment, possibly longerTraveler must hold CURRENT NY license.  Coronary Care experience needed as wellTraveler should have completed at least 1 successful traveler assignment.  First time travelers will NOT be considered.Previous Samaritan employee's have to be gone at least 2 years and be eligible for rehire to be considered. (Contact facility for inquires) Permanent residence of traveler must be at least 60 miles away.Guarantee 3 shifts per week or 6 shifts bi-weekly.  BLS and ACLS required. PALS a plus!  Meditech experience a plus!*Guaranteed Hours are Bi-Weekly**The facility schedules in two week periods. 72 hour biweekly guaranteed for 12 hour shifts (OT begins after 72);  It may or may not be split evenly between the two weeks. **Work Week** The facility's work week is Thursday to Wednesday.Come work at Samaritan where travelers tell us they love doing their assignments here!  We are located in northern NY where lakes, rivers and the Adirondack Mountains are a short 25 mile drive away   Additional Information:Candidate must reside OUTSIDE of 60 miles. Cannot be a previous permanent employee unless been gone for 2 years. Can only be a traveler for the maximum of 1 year. MUST BE VACCINATED. Only medical declinations allowed in the state of NY   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545496
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1486
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => December, 04 2023 18:09:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262019 ;Status=Open;Association=Samaritan Medical Center ;Client=Samaritan Medical Center ;City=Watertown ;State=NY ;Zip=13601 ;Start=11/21/2023;End=2/20/2024;Duration=91;Cert=Nursing ;Specialty=Med-surg Adult ;Unit=Med-surg Adult ;Shift=Days, 7a-7:30p (every other weekend schedule);# of Postions=1;Guaranteed Hours=48;Type=Travel;BillRate=$105.00;OTRate=110 ;OTRules=By The Week, after 40, ;HolidayRate=115 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=Med Surg RN needed 7a-7:30p at Samaritan Medical Center located in Watertown, NY  RN should be comfortable Floating to Med/Surg and PCUDay Shift, 13 week assignment, possibly longerTraveler must hold CURRENT NY license.  Coronary Care experience needed as wellTraveler should have completed at least 1 successful traveler assignment.  First time travelers will NOT be considered.Previous Samaritan employee's have to be gone at least 2 years and be eligible for rehire to be considered. (Contact facility for inquires) Permanent residence of traveler must be at least 60 miles away.Guarantee 3 shifts per week or 6 shifts bi-weekly.  BLS and ACLS required. PALS a plus!  Meditech experience a plus!*Guaranteed Hours are Bi-Weekly**The facility schedules in two week periods. 72 hour biweekly guaranteed for 12 hour shifts (OT begins after 72);  It may or may not be split evenly between the two weeks. **Work Week** The facility's work week is Thursday to Wednesday.Come work at Samaritan where travelers tell us they love doing their assignments here!  We are located in northern NY where lakes, rivers and the Adirondack Mountains are a short 25 mile drive away   Additional Information:Candidate must reside OUTSIDE of 60 miles. Cannot be a previous permanent employee unless been gone for 2 years. Can only be a traveler for the maximum of 1 year. MUST BE VACCINATED. Only medical declinations allowed in the state of NY   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262019;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Samaritan Medical Center
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

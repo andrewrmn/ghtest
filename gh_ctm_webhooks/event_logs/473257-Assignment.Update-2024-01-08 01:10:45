@@ -1,0 +1,114 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '20',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3993',
+  'Cf-Ray' => '84209006a2f9493d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Special Procedures RN 
+3 x 12hr days; 48 hours of call each six weeks
+Experience doing EGDs and Colonoscopies
+
+PALS, BLS Required 
+
+
+ Modified Time:2/13/2023 5:00:00 AM
+
+ Account Manager: Megan Hannemann
+
+ Account Manager Email: Megan.Hannemann@qualivis.com
+
+ Over Time Multiplier: 
+
+ Over Time Rule: 
+
+ Call Back: 
+
+ Charge: 
+
+ Holiday: 
+
+ Submittal Details: #Tier3 Travel ComplianceNeed 3 weeks/21 calendar days+ at minimum lead time from Booking to Start to account for Credentialing/ComplianceCHOA TESTS FOR COTININE/NICOTINE; they are a nicotine free campus and do not allow smoking. Flu Shot is requiredGeneral Experience Required (flu season Sept-Dec 1)- First time travelers are accepted if resume suggests they have the needed skills.- Will accept submissions with pending RN License. - BSN is preferred, but not required.- Epic EMR experience is preferred.  There is a compliance hard doc due date is 7 business days prior to start. No exceptions. please make sure the candidate is aware.  Orientation is held every 2 weeks at  at Children s Healthcare of Atlanta   Office Park Learning Services Building (1680) for 3 days. 
+
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+
+ Flu Vaccine: Required - No Exemptions
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 473257
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8495
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-02-13
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 07 2024 20:10:44
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=1965236 ;Status=Open;Association=Qualivis MSP ;Client=Childrens Healthcare of Atlanta at Scottish Rite ;City=Atlanta ;State=GA ;Zip=30342-1600 ;Start=2/13/2023;End=5/15/2023;Duration=91;Cert=Registered Nurse ;Specialty=Pediatric OR ;Unit=SR- Special Procedures Unit, 12404 ;Shift=Day 3x12-Hour (07:00 - 19:00);# of Postions=1;Type=Travel;BillRate=$140.00;OTRules=48 total hours in 1 week : 10 ;Orientation=Non-Billable Orientation: 16 Hours ;Description=Special Procedures RN 
+3 x 12hr days; 48 hours of call each six weeks
+Experience doing EGDs and Colonoscopies
+
+PALS, BLS Required 
+
+
+ Modified Time:2/13/2023 5:00:00 AM
+
+ Account Manager: Megan Hannemann
+
+ Account Manager Email: Megan.Hannemann@qualivis.com
+
+ Over Time Multiplier: 
+
+ Over Time Rule: 
+
+ Call Back: 
+
+ Charge: 
+
+ Holiday: 
+
+ Submittal Details: #Tier3 Travel ComplianceNeed 3 weeks/21 calendar days+ at minimum lead time from Booking to Start to account for Credentialing/ComplianceCHOA TESTS FOR COTININE/NICOTINE; they are a nicotine free campus and do not allow smoking. Flu Shot is requiredGeneral Experience Required (flu season Sept-Dec 1)- First time travelers are accepted if resume suggests they have the needed skills.- Will accept submissions with pending RN License. - BSN is preferred, but not required.- Epic EMR experience is preferred.  There is a compliance hard doc due date is 7 business days prior to start. No exceptions. please make sure the candidate is aware.  Orientation is held every 2 weeks at  at Children s Healthcare of Atlanta   Office Park Learning Services Building (1680) for 3 days. 
+
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+
+ Flu Vaccine: Required - No Exemptions ;url=https://app.ayaconnect.com/index.html#/vendor/job/1965236/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 140
+    [facilityName] => Childrens at Scottish Rite 
+    [shiftDateEnd] => 2023-05-15
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

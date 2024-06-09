@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '28',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1459',
+  'Cf-Ray' => '827b4053e300495d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => RatePlan:
+    [sitename] => giftednurses
+    [spec] => Rehab
+    [assignmentid] => 543927
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3496
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-05
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 17 2023 17:01:15
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;SourceID=10638980 ;Status=Open;Association=Orlando Health ;Client=Orlando Regional Medical Center ;City=Orlando ;State=FL ;Zip=32806 ;Start=12/5/2023;End=3/5/2024;Duration=92;Cert=RN ;Specialty=Rehab ;Unit=OHARI Rehab Nursing ;Shift=NOC 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$65.00;minBillRate=$65.00;OTRate=Additive 10.000 ;OTRules=Additive 10.000 ;ChargeRate=Additive 3.000 ;CallbackRate=Multiplier 1.000 ;HolidayRate=Additive 10.000 ;Orientation=Multiplier 1.000 ;Description=RatePlan: ;url=https://secure.shiftwise.net/esp/order.aspx?order_id=8DEB878009713A2251DF6B583C221240;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Orlando Health-Orlando Regional Medical Center
+    [shiftDateEnd] => 2024-03-05
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

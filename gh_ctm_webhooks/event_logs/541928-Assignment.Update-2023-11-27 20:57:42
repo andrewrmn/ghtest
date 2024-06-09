@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3114',
+  'Cf-Ray' => '82cd48f656b01842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Main OR in need of RN (Texas licensed or multi-state compact). Must have Robotics experience. Must have at least 5 years of Surgery Experience.8 hour rotating shifts (i) 10:30am - 7:30pm and (ii) 3:00pm - 11:00pm; On-Call at least 1 - 2 weekend per month, plus 4-5 weekday shifts per week, holiday call is required. Request time off should not be coincided with a Holiday. Floating to sister facility and Surgery center is required. \*\*BLS REQUIRED\*\***Shannon Medical Center has a 110 mile radius rule, no contractor will be employed if they live within this radius.**   Additional Information:**Shannon Medical does NOT hire travelers/contractors that have a permanent address within 110 miles of the facility.**   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 541928
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 1343
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 27 2023 15:57:36
+    [daysPerWeek] => 5
+    [orderNote] => Source=Medefis5;SourceID=260912 ;Status=Open;Association=Shannon Medical Center ;Client=Shannon Medical Center ;City=San Angelo ;State=TX ;Zip=76903 ;Start=11/1/2023;End=1/31/2024;Duration=91;Cert=Nursing ;Specialty=Operating Room, Operating Room / Circulate ;Unit=Operating Room, Operating Room / Circulate ;Shift=8 hour rotating shifts (i) 10:30am - 7:30pm and (ii) 3:00pm - 11:00pm; On-Call at least 1 - 2 weekend per month, plus 4-5 weekday shifts per week, holiday call is required;# of Postions=3;Guaranteed Hours=36;Type=Travel;BillRate=$100.00;OTRate=110 ;OTRules=By The Week, after 48, ;CallbackRate=100 (All Inclusive Rate) ;HolidayRate=110 (All Inclusive Rate + $10) ;OnCallRateDescription=$2 per hour pager ;Description=Main OR in need of RN (Texas licensed or multi-state compact). Must have Robotics experience. Must have at least 5 years of Surgery Experience.8 hour rotating shifts (i) 10:30am - 7:30pm and (ii) 3:00pm - 11:00pm; On-Call at least 1 - 2 weekend per month, plus 4-5 weekday shifts per week, holiday call is required. Request time off should not be coincided with a Holiday. Floating to sister facility and Surgery center is required. \*\*BLS REQUIRED\*\***Shannon Medical Center has a 110 mile radius rule, no contractor will be employed if they live within this radius.**   Additional Information:**Shannon Medical does NOT hire travelers/contractors that have a permanent address within 110 miles of the facility.**   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260912;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Shannon Medical Center Medefis
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 10:30
+    [subjectID] => 
+)

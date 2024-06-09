@@ -1,0 +1,90 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2272',
+  'Cf-Ray' => '83f40b0dd26f23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Reserved for JL - returning traveler
+L&D department
+13 weeks 
+
+
+ Modified Time:6/6/2022 4:00:00 AM
+ Account Manager: Lisa Beebe
+ Account Manager Email: Lisa.Beebe@qualivis.com
+ Over Time Multiplier: 
+ Over Time Rule: 
+ Call Back: 
+ Charge: 
+ Holiday: 
+ Submittal Details: #Tier1 Crisis ComplianceNeed  3 days at minimum lead time from BOOKING to START to account for crisis compliance
+ COVID-19 Vaccine: Unknown
+ Flu Vaccine: Unknown
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 381342
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10628
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-06-06
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 02 2024 10:30:22
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=1684323 ;Status=Open;Association=Qualivis EPA ;Client=Ouachita County Medical Center Crisis Response ;City=Camden ;State=AR ;Zip=71701 ;Start=6/6/2022;End=9/5/2022;Duration=91;Cert=Registered Nurse ;Specialty=Labor and Delivery ;Unit=Labor and Delivery ;Shift=Day 3x12-Hour (07:00 - 19:00);# of Postions=1;Type=Travel;BillRate=$125.00;OTRules=48 total hours in 1 week :1.25% ;Orientation=Non-Billable Orientation: 16 Hours ;Description=Reserved for JL - returning traveler
+L&D department
+13 weeks 
+
+
+ Modified Time:6/6/2022 4:00:00 AM
+ Account Manager: Lisa Beebe
+ Account Manager Email: Lisa.Beebe@qualivis.com
+ Over Time Multiplier: 
+ Over Time Rule: 
+ Call Back: 
+ Charge: 
+ Holiday: 
+ Submittal Details: #Tier1 Crisis ComplianceNeed  3 days at minimum lead time from BOOKING to START to account for crisis compliance
+ COVID-19 Vaccine: Unknown
+ Flu Vaccine: Unknown ;url=https://app.ayaconnect.com/index.html#/vendor/job/1684323/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 125
+    [facilityName] => Ouachita County Medical Center - TRAVEL
+    [shiftDateEnd] => 2022-09-05
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,66 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '28',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1922',
+  'Cf-Ray' => '8305bfa616d5495d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Registered Nurse
+Specialized Orthopedic and Neurologic care are provided on this 20-bed unit acute care unit.  Our patients can be post-surgical or neuro medical.  We focus on pain control, ambulation and preparing our patients for discharge.
+
+Would be required to float to all acute care at Waterloo and Cedar Falls Medical Centers.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 531468
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13399
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 04 2023 12:25:25
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=46803 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne Waterloo Medical Center ;City=Waterloo ;State=IA ;Zip=50702 ;Start=12/17/2023;End=3/16/2024;Duration=90;Cert=RN Medical / Surgical ;Specialty=4G ;Unit=*Registered Nurse-Med Surg-4G ;Shift=7p7a;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=117.00 ;ChargeRate=93.00 ;CallbackRate=117.00 ;HolidayRate=117.00 ;Description=Registered Nurse
+Specialized Orthopedic and Neurologic care are provided on this 20-bed unit acute care unit.  Our patients can be post-surgical or neuro medical.  We focus on pain control, ambulation and preparing our patients for discharge.
+
+Would be required to float to all acute care at Waterloo and Cedar Falls Medical Centers. ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => MercyOne Waterloo Medical Center - Travel
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

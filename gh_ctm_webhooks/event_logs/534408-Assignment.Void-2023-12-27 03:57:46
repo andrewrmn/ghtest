@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1499',
+  'Cf-Ray' => '83bea42b84d11465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 weeks
+Part Time (.8 FTE) - Fri 6a-6:30p, Sat-Sun 7a-7:30p
+    [sitename] => giftednurses
+    [spec] => Ultrasound Tech
+    [assignmentid] => 534408
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13399
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Ultrasound Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 26 2023 22:57:45
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=47176 ;Status=In-Progress (O);Association=Trinity Health ;Client=IA - MercyOne Waterloo Medical Center ;City=Waterloo ;State=IA ;Zip=50702 ;Start=12/31/2023;End=3/30/2024;Duration=90;Cert=Ultrasound Tech ;Specialty=Ultrasound ;Unit=IA\MercyOne Waterloo\US Tech ;Shift=06:00:00 - 18:30:00;# of Postions=1;Type=Travel;BillRate=$105.00;OTRate=136.50 ;ChargeRate=108.00 ;CallbackRate=136.50 ;HolidayRate=136.50 ;Orientation=0.00 ;Description=13 weeks
+This is a full time position with variable hours Friday through Monday.  Call is required. ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => MercyOne Waterloo Medical Center - Travel
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

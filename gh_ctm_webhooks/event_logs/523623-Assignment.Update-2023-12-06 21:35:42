@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '904',
+  'Cf-Ray' => '8317a902535e77bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO END Date Change. Family Emergency
+    [sitename] => giftednurses
+    [spec] => LTAC
+    [assignmentid] => 523623
+    [workerID] => 3440
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 333
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-09-24
+    [workerLastName] => Thompson
+    [shiftNum] => 5
+    [workerFirstName] => Valencia
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 06:30
+    [whenmodified] => December, 06 2023 16:35:41
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$90lRS:133000lFTK:GiftTC
+ChrgDiff:P$1/B$3
+    [guaranteedMinimum] => 
+    [workerEmail] => msvee66@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => LHC - Acadia Extended Care Travel
+    [shiftDateEnd] => 2023-11-15
+    [shiftStartTime] => 18:00
+    [subjectID] => 
+)

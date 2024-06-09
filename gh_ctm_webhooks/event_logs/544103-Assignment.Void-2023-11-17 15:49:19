@@ -1,0 +1,121 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '43',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5236',
+  'Cf-Ray' => '82791f78c5d71840-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:Required:
+Experience with EPIC 
+Administration of specialized treatments such as oxygen, blood products, tube feeding, TPN, etc.
+Experience with various drainage tubes, dressings or wound care devices
+Complete Description:4W is a mixed  acute / intermediate medicine unit with a small population of thoracic surgical patients and neuroscience step down.  For intermediate care the ratios are 4:1 and for the acute the ratios are 5:1. 
+
+Our thoracic surgical patients are on the evidence based ERAS pathway and are up moving quickly, treated with multi modal pain control, and length of stay is between 3-4 days. We are also caring for overflow cardiac patients utilizing cardiac drips for rate control, multiple therapies for congestive heart failure, treating unstable angina and a variety of cardiac diagnosis. Post cardiac catheterization if TR Band is in place. In addition to our intermediate patient population, we care for a variety of medical patients with diagnoses that can include, but not limited to COPD, diabetes, pneumonia, and renal failure. We are a dynamic team that works well together and searching for likeminded individuals.
+Requisition Comments:Local Rate: 10% rate decreased within 60 miles. 
+
+Lotus Offers- Fast Offers! 
+Candidates will NOT interview. 
+
+Must include RTO in submittal in order to be honored at time of offer!
+
+Traveler is expected to float to like acuities or less if needed
+Scheduling Details:3x12's, Days, 7a-7p
+
+EOW/EOH
+
+No Call 
+
+No holiday RTO will be approved 
+
+Must be OK with floating to other units as required
+
+No block scheduling
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544103
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10747
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 17 2023 10:49:18
+    [daysPerWeek] => 3
+    [orderNote] => Source=PeopleFluent;SourceID=724724 ;Status=Open;Association=3 East Medical Short Stay Unit, 103 - 110907 - 1100\r\n3 West- General Medicine, 103 - 110908 - 1100\r\n4 East Pulmonary/ Nephrology Intermediate Care, 103 - 110913 - 1100\r\n4 West - Surgical Short Stay Unit, 103 - 110914 - 1100\r\n6 East Surgical Observation, 103 - 110927 - 1100\r\n6 West Orthopedics, 103 - 110932 - 1100\r\n7 East Adult Bariatric and Thoracic Surgery, 103 - 110935 - 1100\r\n7 West General Surgery, 103 - 110940 - 1100\r\nEmergency Dept, 103 - 240216 - 1100\r\nStaffing Reponse Team, 103 - 110045 - 1100\r\n5 West Neuro, 103 - 110923 - 1100\r\n5 East Oncology, 103 - 110919 - 1100 ;Client=UNC Health ;Start=12/11/2023;End=3/9/2024;Duration=89;Cert=RN ;Specialty=Med/Surg ;Unit=RN - 4 West - IMC/MS - Days - UNC Rex ;Shift=3x12.0 3x12's, Days, 7a-7p
+
+EOW/EOH
+
+No Call 
+
+No holiday RTO will be approved 
+
+Must be OK with floating to other units as required
+
+No block scheduling;# of Postions=1;Type=Travel;BillRate=$76.00;Description=Short Description:Required:
+Experience with EPIC 
+Administration of specialized treatments such as oxygen, blood products, tube feeding, TPN, etc.
+Experience with various drainage tubes, dressings or wound care devices
+Complete Description:4W is a mixed  acute / intermediate medicine unit with a small population of thoracic surgical patients and neuroscience step down.  For intermediate care the ratios are 4:1 and for the acute the ratios are 5:1. 
+
+Our thoracic surgical patients are on the evidence based ERAS pathway and are up moving quickly, treated with multi modal pain control, and length of stay is between 3-4 days. We are also caring for overflow cardiac patients utilizing cardiac drips for rate control, multiple therapies for congestive heart failure, treating unstable angina and a variety of cardiac diagnosis. Post cardiac catheterization if TR Band is in place. In addition to our intermediate patient population, we care for a variety of medical patients with diagnoses that can include, but not limited to COPD, diabetes, pneumonia, and renal failure. We are a dynamic team that works well together and searching for likeminded individuals.
+Requisition Comments:Local Rate: 10% rate decreased within 60 miles. 
+
+Lotus Offers- Fast Offers! 
+Candidates will NOT interview. 
+
+Must include RTO in submittal in order to be honored at time of offer!
+
+Traveler is expected to float to like acuities or less if needed
+Scheduling Details:3x12's, Days, 7a-7p
+
+EOW/EOH
+
+No Call 
+
+No holiday RTO will be approved 
+
+Must be OK with floating to other units as required
+
+No block scheduling ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=724724;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 76
+    [facilityName] => UNC REX Healthcare TRAVEL
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

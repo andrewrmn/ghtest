@@ -1,0 +1,83 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3645',
+  'Cf-Ray' => '82eefd08c1831830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 5 days a week with on call requirements. 15 call shifts per month.
+
+Please be advised that January 13th 2024, all clinicians working at Tulane campus will be transitioned over and will continue their assignments at East Jefferson campus. 
+Location : 4200 Houma Blvd, Metairie, LA 70006
+
+ Modified Time:12/18/2023 12:00:00 AM
+ Account Manager: Chad Samuel
+ Account Manager Email: csamuel@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Med
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel.FLOAT REQUIREMENT   Everyone floats. If clinicians are floated to a unit outside their specialty, they will only be assigned lower acuity patients within their skillset. ICU will float down with lower patient ratios.
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 545784
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 16204
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:30
+    [whenmodified] => December, 01 2023 18:07:47
+    [daysPerWeek] => 5
+    [orderNote] => Source=AYA;SourceID=2314833 ;Status=Open;Association=Vaya Legacy MSP (Connect) ;Client=Tulane Medical Center ;City=New Orleans ;State=LA ;Zip=70112 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Registered Nurse ;Specialty=Cath Lab ;Unit=Cath Lab RN | 72774 ;Shift=Day 5x8-Hour (07:00 - 15:30);# of Postions=4;Type=Travel;BillRate=$115.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=5 days a week with on call requirements. 15 call shifts per month.
+
+Please be advised that January 13th 2024, all clinicians working at Tulane campus will be transitioned over and will continue their assignments at East Jefferson campus. 
+Location : 4200 Houma Blvd, Metairie, LA 70006
+
+ Modified Time:12/18/2023 12:00:00 AM
+ Account Manager: Chad Samuel
+ Account Manager Email: csamuel@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Med
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel.FLOAT REQUIREMENT   Everyone floats. If clinicians are floated to a unit outside their specialty, they will only be assigned lower acuity patients within their skillset. ICU will float down with lower patient ratios. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2314833/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 115
+    [facilityName] => Tulane Medical Center-Travel
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

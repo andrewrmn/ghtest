@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1265',
+  'Cf-Ray' => '84ca5975c6ac77bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Cath Lab RN   13 week assignment, ASAP start, 40 hours a week, 8 hour days varied start times, 15 days a month callhttps://vms.medefis5.com/jobs/123299
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 33158
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6555
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2018-07-18
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 28 2024 10:43:03
+    [daysPerWeek] => 3
+    [orderNote] => Medefis5 ; 123299 ; Open ; Franklin Hospital - WFHC ; Cath Lab RN ; 3 ; 6/20/2018 ; 9/19/2018 ; 91 ; Cath Lab RN ; Franklin ; WI ; days varied starts ; 1 ; Cath Lab RN   13 week assignment, ASAP start, 40 hours a week, 8 hour days varied start times, 15 days a month callhttps://vms.medefis5.com/jobs/123299 ; Nursing ; 74 ; 53132 ; 36 ;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 74
+    [facilityName] => Ascension SE Wisconsin Hospital - Franklin Campus
+    [shiftDateEnd] => 2018-10-17
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

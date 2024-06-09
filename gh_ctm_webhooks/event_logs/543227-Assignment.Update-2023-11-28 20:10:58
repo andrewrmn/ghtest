@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6361',
+  'Cf-Ray' => '82d541e2608223b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Job DescriptionSummaryThe Registered Nurse (RN) 2 is responsible for assessing, planning, implementing and evaluating nursing care for a group of population specific patients for the department /unit, from simple to complex, with multi-system issues in a safe and therapeutic environment. The RN uses knowledge of the principles of growth and development over the life span, assesses data reflective of the patient's status and interprets information needed to identify each patients requirements relative to his/her age specific needs. The RN engages in caring relationships with patient's, families, and significant others, works collaboratively with other health care workers, and uses sound judgments while performing nursing and medical interventions. The RN adheres to specialty standards and organizational standards, policies, procedures, guidelines and protocols. Reports to the Director and/or Nurse Manager. May participate in supervision of Licensed Nursing Assistants and unlicensed personnel.EducationGraduated from an accredited School of Nursing, BSN preferred.Certification, Registration & LicensureRegistered Nurse - New Hampshire Board of Nursing ?Basic Life Support - American Heart AssociationExperienceOne year prior clinical nursing experience.  Evidence of experience in working effectively and positively with patients, care providers, and the multi-disciplinary team. Evidence of the ability to perform as a member of a team.ResponsibilitiesBases nursing actions by applying principles of purposeful, organized thinking to make clinical judgment/decisions.Gathers data through history taking and physical assessment and interprets data in order to plan and implement interventions to meet patient care needs.Develops, evaluates and revises patient's plan of care and nursing actions in response to patient's needs.Documents care provided and patient's progress toward attainment of desired outcomes.Directs and supervises others in the performance of delegated nursing activities.Teaches the patient and/or significant other(s) about the plan of care. Prepares patients to manage their care after discharge, transfer or preparation for procedure/test.Manages time and resources to deliver patient care.Administers medications to patients.Provides direct patient care.Leads the health care team.Serves as a Resource Person for assigned shift.Serves as a preceptor for new employees.Performs job specific requirements and other duties as assigned.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543227
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2169
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-20
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 06:30
+    [whenmodified] => November, 28 2023 15:10:57
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261360 ;Status=Open;Association=Concord Hospital ;Client=Concord Hospital ;City=Concord ;State=NH ;Zip='03301 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=Nursing ;Specialty=Med-surg Adult ;Unit=Med-surg Adult ;Shift=Nights 6:00pm-6:30am, every other weekend;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$95.00;OTRate=100 ;OTRules=By The Week, after 40, ;HolidayRate=100 (All Inclusive Rate + $5) ;OnCallRateDescription=No Call ;Description=Job DescriptionSummaryThe Registered Nurse (RN) 2 is responsible for assessing, planning, implementing and evaluating nursing care for a group of population specific patients for the department /unit, from simple to complex, with multi-system issues in a safe and therapeutic environment. The RN uses knowledge of the principles of growth and development over the life span, assesses data reflective of the patient's status and interprets information needed to identify each patients requirements relative to his/her age specific needs. The RN engages in caring relationships with patient's, families, and significant others, works collaboratively with other health care workers, and uses sound judgments while performing nursing and medical interventions. The RN adheres to specialty standards and organizational standards, policies, procedures, guidelines and protocols. Reports to the Director and/or Nurse Manager. May participate in supervision of Licensed Nursing Assistants and unlicensed personnel.EducationGraduated from an accredited School of Nursing, BSN preferred.Certification, Registration & LicensureRegistered Nurse - New Hampshire Board of Nursing ?Basic Life Support - American Heart AssociationExperienceOne year prior clinical nursing experience.  Evidence of experience in working effectively and positively with patients, care providers, and the multi-disciplinary team. Evidence of the ability to perform as a member of a team.ResponsibilitiesBases nursing actions by applying principles of purposeful, organized thinking to make clinical judgment/decisions.Gathers data through history taking and physical assessment and interprets data in order to plan and implement interventions to meet patient care needs.Develops, evaluates and revises patient's plan of care and nursing actions in response to patient's needs.Documents care provided and patient's progress toward attainment of desired outcomes.Directs and supervises others in the performance of delegated nursing activities.Teaches the patient and/or significant other(s) about the plan of care. Prepares patients to manage their care after discharge, transfer or preparation for procedure/test.Manages time and resources to deliver patient care.Administers medications to patients.Provides direct patient care.Leads the health care team.Serves as a Resource Person for assigned shift.Serves as a preceptor for new employees.Performs job specific requirements and other duties as assigned.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261360;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Concord Hospital
+    [shiftDateEnd] => 2024-02-19
+    [shiftStartTime] => 18:00
+    [subjectID] => 
+)

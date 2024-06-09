@@ -1,0 +1,96 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '24',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2062',
+  'Cf-Ray' => '83bd977dc025494d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:$80 Bill Rate
+1 - Remaining Shift: Night 7p-7a13-week contract
+36 hours guaranteed3/12 hr. shifts, rotating weekends
+Must take Covid patients
+AZ license
+BLS2+ years of Tele experience,
+Cerner experience is preferred.
+ General Comments1011-005
+
+
+1011-015
+
+
+1011-024
+
+
+1011-048
+ No. of Positions: 1/4.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 545453
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13691
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-08-28
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 26 2023 19:54:20
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=744174 ;Status=Open;Association=Community Health Systems ;Client=Northwest Houghton ;City=Tucson ;State=AZ ;Zip=85748 ;Start=8/28/2023;End=11/27/2023;Duration=91;Cert=RN ;Specialty=Tele ;Unit=EXT-Other (911) ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$70.00;minBillRate=$70.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:$70 Bill Rate
+1 - Remaining Shift: Night 7p-7a13-week contract
+36 hours guaranteed3/12 hr. shifts, rotating weekends
+Must take Covid patients
+AZ license
+BLS2+ years of Tele experience,
+Cerner experience is preferred.
+ General Comments1011-005
+
+
+1011-015
+
+
+1011-024
+
+
+1011-048
+ No. of Positions: 1/4.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/744174;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Northwest Medical Center Houghton
+    [shiftDateEnd] => 2023-11-27
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

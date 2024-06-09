@@ -1,0 +1,168 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4131',
+  'Cf-Ray' => '875d2c3bd14f183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN MEDICAL SURGICAL7:00PM - 7:00AM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information: Medical Care
+
+Location: Henrico Doctors  Hospital Forest Campus
+
+Address:1602 Skipwith Road, Richmond, VA
+
+Floor:2nd Floor
+
+Building: Main Hospital
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds -21Number of Staff   Total Department FTE s 30.66Type of staff:Day Shift   1 Charge RN, 4 Staff Nurses, 2 PCTsNight Shift   1 Charge RN, 3 Staff Nurses, and 2 PCTs  until 2300Patient Ratios   5:1Type of equipment   IV pumps, feeding pumps, etc..EMR - Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ (Travel RNs, local CNAs and sitters)
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+Registered NurseBLS
+
+
+
+List typical procedures performed on unit(s): 
+
+
+Total patient care for Medical Patients 
+Best personality Fit:
+OutgoingTeam player 
+Dress Code: 
+Scrub Color -
+ 
+All Navy
+Unit Guidelines/Policies: 
+
+We focus on the patient. We do bedside report and update the Communication Boards 100% of the time.
+
+
+
+
+Awards/Recognition: 
+
+Unit of Distinction 2 years in a row
+ No. of Positions: 1/4.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 525104
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5469
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-05-05
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => April, 17 2024 10:40:47
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=746927 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HENRICO DOCTORS HOSPITAL-FOREST VA ;City=RICHMOND ;State=VA ;Zip=23229 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM-7:00AM;# of Postions=1;Type=Travel;BillRate=$78.00;minBillRate=$78.00;OTRate=86 ;CallbackRate=86 ;HolidayRate=86 ;Description=Description:TRAVEL RN MEDICAL SURGICAL7:00PM - 7:00AM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information: Medical Care
+
+Location: Henrico Doctors  Hospital Forest Campus
+
+Address:1602 Skipwith Road, Richmond, VA
+
+Floor:2nd Floor
+
+Building: Main Hospital
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds -21Number of Staff   Total Department FTE s 30.66Type of staff:Day Shift   1 Charge RN, 4 Staff Nurses, 2 PCTsNight Shift   1 Charge RN, 3 Staff Nurses, and 2 PCTs  until 2300Patient Ratios   5:1Type of equipment   IV pumps, feeding pumps, etc..EMR - Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ (Travel RNs, local CNAs and sitters)
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+Registered NurseBLS
+
+
+
+List typical procedures performed on unit(s): 
+
+
+Total patient care for Medical Patients 
+Best personality Fit:
+OutgoingTeam player 
+Dress Code: 
+Scrub Color -
+ 
+All Navy
+Unit Guidelines/Policies: 
+
+We focus on the patient. We do bedside report and update the Communication Boards 100% of the time.
+
+
+
+
+Awards/Recognition: 
+
+Unit of Distinction 2 years in a row
+ No. of Positions: 1/4. ;url=https://vendor.healthtrustws.com/positions/746927;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 78
+    [facilityName] => Henrico Doctors' Hospital Travel- Forest Campus
+    [shiftDateEnd] => 2024-08-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

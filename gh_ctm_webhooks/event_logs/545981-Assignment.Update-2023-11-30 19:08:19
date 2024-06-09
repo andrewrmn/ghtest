@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1746',
+  'Cf-Ray' => '82e560de92846a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 4 x 10s, rotating weekend on callNOTE: Guaranteed Hours are exempt during holiday weeks   Position Urgency:Normal Billing string = Barrett Hospital & HealthCare
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 545981
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5590
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 30 2023 14:08:19
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=262162 ;Status=Open;Association=Barrett Hospital & HealthCare ;Client=Barrett Hospital & HealthCare ;City=Dillon ;State=MT ;Zip=59725 ;Start=11/27/2023;End=1/22/2024;Duration=56;Cert=Nursing ;Specialty=Scrub Technologist ;Unit=Scrub Technologist ;Shift=4 x 10s, rotating weekends on call
+;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$70.00;OTRate=80 ;OTRules=By The Week, after 40, ;CallbackRate=75 (All Inclusive Rate + $5) ;HolidayRate=80 (All Inclusive Rate + $10) ;OnCallRateDescription=$2 per hour pager ;Description=4 x 10s, rotating weekend on callNOTE: Guaranteed Hours are exempt during holiday weeks   Position Urgency:Normal Billing string = Barrett Hospital & HealthCare ;url=https://vms.medefis5.com/jobs/262162;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Barrett Hospital & Healthcare
+    [shiftDateEnd] => 2024-01-22
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

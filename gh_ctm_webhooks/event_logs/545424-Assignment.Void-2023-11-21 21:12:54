@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2055',
+  'Cf-Ray' => '829beefa969d23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 75 mile radius restriction enforced SHIFT: The candidate must be flexible to take this assignment. The hours are typically 8am - 4:30 pm but COULD VARY. Orientation is 12/11, 1/2, 1/22*holiday coverage is required HS diploma required   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Sterile Processing Tech 
+    [assignmentid] => 545424
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 9793
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Sterile Processing Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 21 2023 16:12:53
+    [daysPerWeek] => 5
+    [orderNote] => Source=Medefis5;SourceID=262010 ;Status=Open;Association=Saint Francis Healthcare System ;Client=Saint Francis Medical Center-MO ;City=Cape Girardeau ;State=MO ;Zip=63703 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Nursing ;Specialty=Sterile Processing Technologist ;Unit=Sterile Processing Technologist ;Shift=Day;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$55.00;OTRate=60 ;OTRules=By The Week, after 40, ;CallbackRate=60 (All Inclusive Rate + $5) ;HolidayRate=60 (All Inclusive Rate + $5) ;OnCallRateDescription=$2 per hour pager ;Description=75 mile radius restriction enforced SHIFT: The candidate must be flexible to take this assignment. The hours are typically 8am - 4:30 pm but COULD VARY. Orientation is 12/11, 1/2, 1/22*holiday coverage is required HS diploma required   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262010;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 55
+    [facilityName] => Saint Francis Medical Center - MO Travel
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

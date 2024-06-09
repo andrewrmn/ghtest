@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1976',
+  'Cf-Ray' => '82dbc9fc67216a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 48 Hour Rotating - Float as needed to take similar Med-Surg assignment on units. Prefer candidates with travel and epic experience.  - Certifications: ACLS, BLS & NIHSS.8 Reasons To Move to North Dakota - LivabilityWhy Grand Forks, ND is a Best Place to Live - Livability   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544794
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8949
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 29 2023 10:12:26
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261530 ;Status=Open;Association=Altru Health System ;Client=Altru Health System ;City=Grand Forks ;State=ND ;Zip=58206 ;Start=11/13/2023;End=2/12/2024;Duration=91;Cert=Nursing ;Specialty=Med-surg Adult ;Unit=Med-surg Adult ;Shift=Days;# of Postions=1;Guaranteed Hours=48;Type=Travel;BillRate=$105.00;OTRate=105 ;OTRules=By The Week, after 48, ;CallbackRate=105 (All Inclusive Rate) ;HolidayRate=105 (All Inclusive Rate) ;OnCallRateDescription=$4 per hour pager ;Description=48 Hour Rotating - Float as needed to take similar Med-Surg assignment on units. Prefer candidates with travel and epic experience.  - Certifications: ACLS, BLS & NIHSS.8 Reasons To Move to North Dakota - LivabilityWhy Grand Forks, ND is a Best Place to Live - Livability   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261530;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Altru Health System
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

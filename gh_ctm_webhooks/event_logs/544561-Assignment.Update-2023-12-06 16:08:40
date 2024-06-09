@@ -1,0 +1,76 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2830',
+  'Cf-Ray' => '8315c9ee83eb183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Provide radiation therapy to patients as prescribed by a radiologist according to established practices and standards. Duties may include reviewing prescription and diagnosis; acting as liaison with physician and supportive care personnel; preparing equipment, such as immobilization, treatment, and protection devices; and maintaining records, reports, and files. May assist in dosimetry procedures and tumor localization.
+What shift do you want this person to work? Mon - Fri 7a-1530 No Call  Any specific requirements?
+BLS  Any specific certifications?
+Registered in Radiation
+Therapy  Will they have to take on-call?
+No On Call  Bill Rate: $70
+ General CommentsRADIA280276
+ No. of Positions: 2/2.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 544561
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5112
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:30
+    [whenmodified] => December, 06 2023 11:08:25
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=776064 ;Status=Pending Approval;Association=Community Health Systems ;Client=Eastern New Mexico Medical Center ;City=Roswell ;State=NM ;Zip=88201 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Rad Therapist ;Specialty=Radiology ;Unit=EXT-Other (911) ;Shift=07:00-00:30;# of Postions=2;Type=Travel;BillRate=$70.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:Provide radiation therapy to patients as prescribed by a radiologist according to established practices and standards. Duties may include reviewing prescription and diagnosis; acting as liaison with physician and supportive care personnel; preparing equipment, such as immobilization, treatment, and protection devices; and maintaining records, reports, and files. May assist in dosimetry procedures and tumor localization.
+What shift do you want this person to work? Mon - Fri 7a-1530 No Call  Any specific requirements?
+BLS  Any specific certifications?
+Registered in Radiation
+Therapy  Will they have to take on-call?
+No On Call  Bill Rate: $70
+ General CommentsRADIA280276
+ No. of Positions: 2/2.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/776064;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Eastern New Mexico Medical Center
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

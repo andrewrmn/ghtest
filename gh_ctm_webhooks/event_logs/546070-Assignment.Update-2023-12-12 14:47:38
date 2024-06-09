@@ -1,0 +1,198 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4106',
+  'Cf-Ray' => '8346c376510e6a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name
+
+Emergency Department-RN-Mercy Lebanon
+
+Organization
+
+Mercy
+
+Facility
+
+Mercy Hospital Lebanon
+
+Unit
+
+Emergency Department
+
+Cost Center
+
+35-416400
+
+
+
+
+
+
+Shift
+
+day
+
+Shifts per week
+
+3
+
+Hours per shift
+
+12
+EXPERIENCE
+Years of Experience
+
+One Year Plus
+
+Specialties
+
+Trauma
+-
+required
+
+
+Technologies
+CERTIFICATIONS
+Certifications
+
+TNCC
+-
+required
+BLS
+-
+required
+NIHSS
+-
+required
+ACLS
+-
+required
+
+DESCRIPTION
+Unit: Emergency Department Speciality: RN Location: Mercy Lebanon Shift: 3x12 [36 hours]  Utilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards. Required education: Current RN license. Required licensure: Meets the criteria to be eligible for licensure in state of Missouri or currently licensed in the state of Missouri.
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 546070
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8389
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-31
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 12 2023 09:47:30
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=778291 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Lebanon ;City=Lebanon ;State=MO ;Zip=65536 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=RN ;Specialty=Emergency Dept ;Unit=Mercy ;Shift=07:00-19:00;# of Postions=1;Type=Travel;BillRate=$75.00;minBillRate=$75.00;OTRate=83 ;CallbackRate=83 ;HolidayRate=83 ;Orientation=0 ;Description=Description:Name
+
+Emergency Department-RN-Mercy Lebanon
+
+Organization
+
+Mercy
+
+Facility
+
+Mercy Hospital Lebanon
+
+Unit
+
+Emergency Department
+
+Cost Center
+
+35-416400
+
+
+
+
+
+
+Shift
+
+day
+
+Shifts per week
+
+3
+
+Hours per shift
+
+12
+EXPERIENCE
+Years of Experience
+
+One Year Plus
+
+Specialties
+
+Trauma
+-
+required
+
+
+Technologies
+CERTIFICATIONS
+Certifications
+
+TNCC
+-
+required
+BLS
+-
+required
+NIHSS
+-
+required
+ACLS
+-
+required
+
+DESCRIPTION
+Unit: Emergency Department Speciality: RN Location: Mercy Lebanon Shift: 3x12 [36 hours]  Utilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards. Required education: Current RN license. Required licensure: Meets the criteria to be eligible for licensure in state of Missouri or currently licensed in the state of Missouri.
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/778291;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Mercy Hospital Lebanon - TRAVEL
+    [shiftDateEnd] => 2024-03-31
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

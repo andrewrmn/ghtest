@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6661',
+  'Cf-Ray' => '82d64784978f1834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 75 MILE STRAIGHT LINE RADIUS RULE (not driving distance) - NO LOCAL TRAVELERS -Please only submit candidates that area aware of their submission to our facility. Please do not allow candidates to contact facility.Please note time off requests must be disclosed with initial submission to be considered for approval. Time off requested after the acceptance date will not be approved. When submitting candidates include at least two references (one must be from current manager), a resume, and completed skills checklist/competency assessment.Orto, ENT and/or vascular experience a plus. Must be a team player, flexible and accustomed to fast paced environment. Must have successfully completed at least one 13-week travel assignment.CERTS: BLS certification required. BLS must be completed through American Heart Association, American Health and Safety, or American Red Cross. NBSTSA or equivalent preferred but not required. SHIFTS: start time: 0645 or 0900. Shift length 4 - 10-hour shifts. On Call requirements: weekday 4x in 6 wks and weekend call. 3 - 12-hour shifts at 0630 start/orientation. Weekend requirements: as needed in the rotation. Holiday requirements: as needed. Shifts may fluctuate to fulfill department staffing needs. ??Travelers are first to float within facility and to alternate locations within 20 miles of permanent assigned location. Traveling pairs are not guaranteed same schedules or same shifts.ORIENTATION: 1st week of the contract, not to exceed 40 total hours, and includes EPIC training. 
+ SCRUBS: Scrubs required and not provided by facility.   Additional Information:Presbyterian was voted #1 hospital of NM for 2022-2023 by U.S. News & World Report! *1.	Travelers must have a permanent address outside of the 75 MILE STRAIGHT LINE RADIUS of intended facility (not driving distance). 2.	Travelers must not have been an employee of any healthcare facility located within the Albuquerque Metropolitan area within the past year in order to be considered for a position. 3. Travelers are first to float within facility and to alternate locations within 20 miles of permanent assigned location. 4. Please visit the New Mexico Department of Health COVID page at https://cv.nmhealth.org/. 5. State tax is passed through to your agency and will be reflected on your invoice. The state tax should be paid to the state of New Mexico. 6. ENSURE AN ACCURATE SS# and DOB IS ENTERED. IF NOT, TRAVELER MAY BE PUSHED/AGENCY SUSPENED (creates I.T. onboarding issues).   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 544758
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 11993
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 28 2023 18:09:34
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=261812 ;Status=Open;Association=Presbyterian Healthcare Services ;Client=NURSING Presbyterian Rust Medical Center ;City=Rio Rancho ;State=NM ;Zip=87124 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Nursing ;Specialty=Operating Room, Surgical Technologist, OR Technologist, Scrub Technologist, Operating Room / Scrub ;Unit=Operating Room, Surgical Technologist, OR Technologist, Scrub Technologist, Operating Room / Scrub ;Shift=4 to 10 hour days;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$70.00;OTRate=80 ;OTRules=By The Week, after 40, ;CallbackRate=80 (All Inclusive Rate + $10) ;HolidayRate=80 (All Inclusive Rate + $10) ;OnCallRateDescription=$4 per hour pager ;Description=75 MILE STRAIGHT LINE RADIUS RULE (not driving distance) - NO LOCAL TRAVELERS -Please only submit candidates that area aware of their submission to our facility. Please do not allow candidates to contact facility.Please note time off requests must be disclosed with initial submission to be considered for approval. Time off requested after the acceptance date will not be approved. When submitting candidates include at least two references (one must be from current manager), a resume, and completed skills checklist/competency assessment.Orto, ENT and/or vascular experience a plus. Must be a team player, flexible and accustomed to fast paced environment. Must have successfully completed at least one 13-week travel assignment.CERTS: BLS certification required. BLS must be completed through American Heart Association, American Health and Safety, or American Red Cross. NBSTSA or equivalent preferred but not required. SHIFTS: start time: 0645 or 0900. Shift length 4 - 10-hour shifts. On Call requirements: weekday 4x in 6 wks and weekend call. 3 - 12-hour shifts at 0630 start/orientation. Weekend requirements: as needed in the rotation. Holiday requirements: as needed. Shifts may fluctuate to fulfill department staffing needs. ??Travelers are first to float within facility and to alternate locations within 20 miles of permanent assigned location. Traveling pairs are not guaranteed same schedules or same shifts.ORIENTATION: 1st week of the contract, not to exceed 40 total hours, and includes EPIC training. 
+ SCRUBS: Scrubs required and not provided by facility.   Additional Information:Presbyterian was voted #1 hospital of NM for 2022-2023 by U.S. News & World Report! *1.	Travelers must have a permanent address outside of the 75 MILE STRAIGHT LINE RADIUS of intended facility (not driving distance). 2.	Travelers must not have been an employee of any healthcare facility located within the Albuquerque Metropolitan area within the past year in order to be considered for a position. 3. Travelers are first to float within facility and to alternate locations within 20 miles of permanent assigned location. 4. Please visit the New Mexico Department of Health COVID page at https://cv.nmhealth.org/. 5. State tax is passed through to your agency and will be reflected on your invoice. The state tax should be paid to the state of New Mexico. 6. ENSURE AN ACCURATE SS# and DOB IS ENTERED. IF NOT, TRAVELER MAY BE PUSHED/AGENCY SUSPENED (creates I.T. onboarding issues).   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261812;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Presbyterian Rust Medical Center Travel
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

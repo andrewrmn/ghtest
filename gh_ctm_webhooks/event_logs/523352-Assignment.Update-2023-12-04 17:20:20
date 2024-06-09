@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '937',
+  'Cf-Ray' => '8305b82ef6b7183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By Facility; No Call/No Show a Shift
+    [sitename] => giftednurses
+    [spec] => School
+    [assignmentid] => 523352
+    [workerID] => 280635
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 37.5
+    [facilityID] => 13870
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-08-21
+    [workerLastName] => Zamora
+    [shiftNum] => 1
+    [workerFirstName] => Maria
+    [cert] => Paraprofessional
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:30
+    [whenmodified] => December, 04 2023 12:20:19
+    [daysPerWeek] => 5
+    [orderNote] => BR:$40lRS:136674
+FTK:GiftTC(Signed) Reg 37.5 hrs
+    [guaranteedMinimum] => 
+    [workerEmail] => mz729544@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 40
+    [facilityName] => Peoria Unified School District #11
+    [shiftDateEnd] => 2023-11-17
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

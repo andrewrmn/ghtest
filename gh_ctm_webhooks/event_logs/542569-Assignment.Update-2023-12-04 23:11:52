@@ -1,0 +1,180 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '13372',
+  'Cf-Ray' => '8307bb1b67311830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 weeks
+36 hrs/wk
+Rotating shifts
+Job Title:  Staff Nurse   RN 				Department/Subsidiary:  Medical/Surgical
+
+Effective Date: December 4, 2017 			Job Code:  Y8350
+
+JOB SUMMARY 
+Provides direct and indirect patient care in the Medical and Surgical area.  Is responsible and accountable for the delivery of patient care during the patient stay.  Assists and directs the work of the support staff in the provision of care while maintaining professional nursing standards.  Performs general nursing duties with minimal supervision. Assists in the Emergency Room as needed.
+
+ORGANIZATIONAL SUMMARY      
+A.	Reports to: Clinical Leader, Chief Nursing Officer, Charge Nurse
+B.	Supervises:  Unit Secretary and Clinical Care Technicians
+C.	Key Working Relationships: Staff members, physicians and staff from other departments
+D.	Primary Customer Groups:  Patients, families, the public and other community and health care agencies.
+E.	Age/Population of Patients Served:
+
+	Neonatal		Adolescent		Geriatric
+	Pediatric		Adult	X	All Ages
+
+ESSENTIAL FUNCTIONS  
+A.	Assesses the patient's physical, psychosocial, environmental, spiritual, social and education needs.  Develops and implements patient's plan of care, including collaboration of the discharge plan based on evidence-based practice standards, health center policy, and patient/family needs.  Reviews and updates the plan of care based on changes in patient's condition.
+B.	Evaluates and documents patient/family responses to nursing interventions while working collaboratively with the interdisciplinary team to achieve desired patient care outcomes.  Provides or facilitates learning opportunities to meet the educational needs of patient/family by assessing the learning needs and formulating and initiating a teaching plan to meet those needs.
+C.	Effectively communicates pertinent patient changes/conditions to co-workers and to multidisciplinary caregivers.  Delegates and supervises patient care activities within the scope of practice of the healthcare worker to meet the patient care needs for the above-indicated population.
+D.	 Identifies and acts to solve problems, supports process improvement teams, which influence customer satisfaction clinical outcomes and financial stability.
+E.	Documents patient information in the electronic/paper medical record, at the bedside and as soon as possible, in an accurate, timely manner. 
+F.	Maintains active logons/passwords for computer software systems that support patient care and education.  
+G.	Supports, positively, the ever-changing health care environment by supporting technology and process changes.  Willing to learn new things, is open to change and maintains a calm positive manner under stressful conditions.  
+H.	Serves as a steward for the hospital s human and material resources.  Meets productivity expectations of unit/department as defined by Clinical Leader/Chief Nursing Officer.
+I.	Recognizes personal learning and development needs. Participates in developing yearly performance goals. Creates a plan for professional or personal growth.  Responsible for maintaining certification/licensure requirements as directed by position.
+J.	Maintains required department confidentiality and abides by HIPPA regulations.
+K.	Provides competent patient care to the above-indicated patient populations by obtaining and appropriately interpreting data, making appropriate decisions based on demonstrated knowledge of age-specific growth and development, and appropriately adapting procedures and treatments.
+L.	Takes an active role in enhancing ability to carry out job functions through personal and professional/job-related growth and development and participates in medical center and/or departmental education programs.
+M.	Communicates with and performs duties following the philosophy of MercyOne New Hampton Medical Center and the Sisters of Mercy reflecting the organization s Mission, Vision, Values, and Cultural Beliefs.
+N.	Supports and abides by all medical center, departmental and safety policies and procedures.  Proactively identifies safety concerns surrounding the work environment. 
+O.	Will perform chart audits and charge audits as assigned.
+P.	Performs other responsibilities as requested by the Clinical Leader, Chief Nursing Officer, Charge Nurse or designee.
+
+ADDITIONAL FUNCTIONS 
+A.	Serves as a preceptor for new staff
+B.	Will designate an additional  area to be exposed to so he or she can feel comfortable functioning as a helper, if necessary.
+
+POSITION QUALIFICATIONS
+A.	Education: 
+1.	Graduate of a program in professional nursing
+2.	Current RN licensure in the State of Iowa required
+3.	BSN preferred.
+B.	Experience:  
+1.	Previous experience in a hospital setting preferred
+2.	Previous Emergency Room experience desirable 
+C.	Special Skills and Competencies: 
+1.	Completes Introduction to Telemetry class or equivalent within 3 months of hire
+2.	Experience with computer software and willingness to learn new software (Excel, Microsoft, electronic health record, WorkDay, etc.)
+3.	Ability to work flexible hours.
+
+X	Must provide proof of Basic Life Support (BLS Healthcare Provider, American Heart Association; or American Red Cross, Professional Rescuer-LIVE class only) via current card prior to employment or within 60 days of hire and maintains current status.
+X	Completes Mandatory Reporting: Child and Dependent Adult Abuse requirement within 6 months of hire and renews this requirement every 5 years.
+X	Completes Advanced Cardiac Life Support (ACLS)   American Heart Association within 6 months of hire and maintains current status.
+X	Completes Pediatric Advance Life Support (PALS)   American Heart Association within 6 months of hire and maintains current status.
+X	Completes Neonatal Resuscitation Program (NRP)   American Heart Association within 6 months of hire and maintains current status.
+	Completes Trauma Nurse Core Course (TNCC) within 12 months of hire and maintains current status.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 542569
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15848
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 04 2023 18:11:04
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48120 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne New Hampton Medical Center ;City=New Hampto ;State=IA ;Zip=50659 ;Start=11/26/2023;End=2/24/2024;Duration=90;Cert=RN Medical / Surgical ;Specialty=Med Surg ;Unit=*Registered Nurse-Med Surg-Med Surg ;Shift=7a7p;# of Postions=1;Type=Travel;BillRate=$74.00;OTRate=96.20 ;ChargeRate=77.00 ;CallbackRate=96.20 ;HolidayRate=96.20 ;Description=13 weeks
+36 hrs/wk
+Rotating shifts
+Job Title:  Staff Nurse   RN 				Department/Subsidiary:  Medical/Surgical
+
+Effective Date: December 4, 2017 			Job Code:  Y8350
+
+JOB SUMMARY 
+Provides direct and indirect patient care in the Medical and Surgical area.  Is responsible and accountable for the delivery of patient care during the patient stay.  Assists and directs the work of the support staff in the provision of care while maintaining professional nursing standards.  Performs general nursing duties with minimal supervision. Assists in the Emergency Room as needed.
+
+ORGANIZATIONAL SUMMARY      
+A.	Reports to: Clinical Leader, Chief Nursing Officer, Charge Nurse
+B.	Supervises:  Unit Secretary and Clinical Care Technicians
+C.	Key Working Relationships: Staff members, physicians and staff from other departments
+D.	Primary Customer Groups:  Patients, families, the public and other community and health care agencies.
+E.	Age/Population of Patients Served:
+
+	Neonatal		Adolescent		Geriatric
+	Pediatric		Adult	X	All Ages
+
+ESSENTIAL FUNCTIONS  
+A.	Assesses the patient's physical, psychosocial, environmental, spiritual, social and education needs.  Develops and implements patient's plan of care, including collaboration of the discharge plan based on evidence-based practice standards, health center policy, and patient/family needs.  Reviews and updates the plan of care based on changes in patient's condition.
+B.	Evaluates and documents patient/family responses to nursing interventions while working collaboratively with the interdisciplinary team to achieve desired patient care outcomes.  Provides or facilitates learning opportunities to meet the educational needs of patient/family by assessing the learning needs and formulating and initiating a teaching plan to meet those needs.
+C.	Effectively communicates pertinent patient changes/conditions to co-workers and to multidisciplinary caregivers.  Delegates and supervises patient care activities within the scope of practice of the healthcare worker to meet the patient care needs for the above-indicated population.
+D.	 Identifies and acts to solve problems, supports process improvement teams, which influence customer satisfaction clinical outcomes and financial stability.
+E.	Documents patient information in the electronic/paper medical record, at the bedside and as soon as possible, in an accurate, timely manner. 
+F.	Maintains active logons/passwords for computer software systems that support patient care and education.  
+G.	Supports, positively, the ever-changing health care environment by supporting technology and process changes.  Willing to learn new things, is open to change and maintains a calm positive manner under stressful conditions.  
+H.	Serves as a steward for the hospital s human and material resources.  Meets productivity expectations of unit/department as defined by Clinical Leader/Chief Nursing Officer.
+I.	Recognizes personal learning and development needs. Participates in developing yearly performance goals. Creates a plan for professional or personal growth.  Responsible for maintaining certification/licensure requirements as directed by position.
+J.	Maintains required department confidentiality and abides by HIPPA regulations.
+K.	Provides competent patient care to the above-indicated patient populations by obtaining and appropriately interpreting data, making appropriate decisions based on demonstrated knowledge of age-specific growth and development, and appropriately adapting procedures and treatments.
+L.	Takes an active role in enhancing ability to carry out job functions through personal and professional/job-related growth and development and participates in medical center and/or departmental education programs.
+M.	Communicates with and performs duties following the philosophy of MercyOne New Hampton Medical Center and the Sisters of Mercy reflecting the organization s Mission, Vision, Values, and Cultural Beliefs.
+N.	Supports and abides by all medical center, departmental and safety policies and procedures.  Proactively identifies safety concerns surrounding the work environment. 
+O.	Will perform chart audits and charge audits as assigned.
+P.	Performs other responsibilities as requested by the Clinical Leader, Chief Nursing Officer, Charge Nurse or designee.
+
+ADDITIONAL FUNCTIONS 
+A.	Serves as a preceptor for new staff
+B.	Will designate an additional  area to be exposed to so he or she can feel comfortable functioning as a helper, if necessary.
+
+POSITION QUALIFICATIONS
+A.	Education: 
+1.	Graduate of a program in professional nursing
+2.	Current RN licensure in the State of Iowa required
+3.	BSN preferred.
+B.	Experience:  
+1.	Previous experience in a hospital setting preferred
+2.	Previous Emergency Room experience desirable 
+C.	Special Skills and Competencies: 
+1.	Completes Introduction to Telemetry class or equivalent within 3 months of hire
+2.	Experience with computer software and willingness to learn new software (Excel, Microsoft, electronic health record, WorkDay, etc.)
+3.	Ability to work flexible hours.
+
+X	Must provide proof of Basic Life Support (BLS Healthcare Provider, American Heart Association; or American Red Cross, Professional Rescuer-LIVE class only) via current card prior to employment or within 60 days of hire and maintains current status.
+X	Completes Mandatory Reporting: Child and Dependent Adult Abuse requirement within 6 months of hire and renews this requirement every 5 years.
+X	Completes Advanced Cardiac Life Support (ACLS)   American Heart Association within 6 months of hire and maintains current status.
+X	Completes Pediatric Advance Life Support (PALS)   American Heart Association within 6 months of hire and maintains current status.
+X	Completes Neonatal Resuscitation Program (NRP)   American Heart Association within 6 months of hire and maintains current status.
+	Completes Trauma Nurse Core Course (TNCC) within 12 months of hire and maintains current status. ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 74
+    [facilityName] => Mercy Medical Center - New Hampton Travel
+    [shiftDateEnd] => 2024-03-23
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

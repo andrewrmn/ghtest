@@ -1,0 +1,503 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5626',
+  'Cf-Ray' => '82948ae347e11832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Data Collection:
+          Unit Information:
+   CT             Location: HCA Houston Healthcare West             
+Address: 12141   Richmond Ave Houston, TX 77082
+         
+Floor: 1
+             
+Building: 
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds - 275
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+6
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   2
+   
+o
+
+
+   Night Shift - 1
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   GE Revolution   Ascend and VCT 64 slice
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech, McKesson PACs
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+    
+
+
+
+
+
+
+
+   
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+    
+
+
+
+
+
+
+
+   
+    
+
+
+
+
+
+
+
+   
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+
+Inpatient, outpatient, er ct
+    
+
+
+
+
+
+
+
+   
+   Best personality Fit:    
+
+
+
+
+
+
+
+   
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   ARRT (R), (CT) , BCLS
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   
+
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ None preferred
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   No call, open 24/7
+ General Comments
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 542001
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5941
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 20 2023 18:41:11
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=764986 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA Houston West ;City=Houston ;State=TX ;Zip=77082 ;Start=10/30/2023;End=1/29/2024;Duration=91;Cert=CT Tech ;Specialty=Radiology ;Unit=GULF COAST DIVISION (14) ;Shift=830p-7a;# of Postions=1;Type=Travel;BillRate=$95.00;OTRate=103 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Data Collection:
+          Unit Information:
+   CT             Location: HCA Houston Healthcare West             
+Address: 12141   Richmond Ave Houston, TX 77082
+         
+Floor: 1
+             
+Building: 
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds - 275
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+6
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   2
+   
+o
+
+
+   Night Shift - 1
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   GE Revolution   Ascend and VCT 64 slice
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech, McKesson PACs
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+    
+
+
+
+
+
+
+
+   
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+    
+
+
+
+
+
+
+
+   
+    
+
+
+
+
+
+
+
+   
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+
+Inpatient, outpatient, er ct
+    
+
+
+
+
+
+
+
+   
+   Best personality Fit:    
+
+
+
+
+
+
+
+   
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   ARRT (R), (CT) , BCLS
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   
+
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ None preferred
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   No call, open 24/7
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/764986;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => HCA Houston West fka West Houston Medical Center
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 21:00
+    [subjectID] => 
+)

@@ -1,0 +1,105 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4690',
+  'Cf-Ray' => '82a4d64e806823c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => CT/Radiology Tech (CT Scans and Radiography X-rays)
+
+Shift: 1830 - 0300 (Monday - Friday) Weeknights
+
+No weekends and no call 
+
+Required: AART (R)(CT)
+
+2 years of experience required
+
+Travel experience preferred
+
+Locals accepted - same rate
+
+Start date is flexible.  Can start 12/26, 1/2 or 1/8.
+
+ Modified Time:12/26/2023 5:00:00 AM
+ Account Manager: Katie Severance
+ Account Manager Email: Katie.Severance@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceSSN should be included under the traveler profile upon submissionDOB should be included under the traveler profile upon submissionRTO must be included on the cover page at time of submissionOnly 1 submission needed per specialty   please specify if traveler is open to shiftWilling to consider travelers with 1 year of experienceWill hire with pending license, but must provide documentation showing license is in progressNo set mileage restrictionTwo professional references completed within two years of current date   must be completed by someone who worked with candidate in supervisory capacityLocals Accepted   same rateCandidates will float within hospital as neededCopy of Nursys required at time of submission   pulled within the last 7 daysWill accept candidates with background hitsReturn Staff Policy   must be gone 6 months and still in good standingCopy of covid vaccination card required at submission.&nbsp; If requesting a medical or religious exemption traveler must provide the completed exemption request within 48 hours of acceptance (must use facility form)
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 545038
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3600
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-26
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 22 2023 18:08:55
+    [daysPerWeek] => 5
+    [orderNote] => Source=AYA;SourceID=2313351 ;Status=Open;Association=Qualivis EPA ;Client=Northern Regional Hospital ;City=Mount Airy ;State=NC ;Zip=27030-5365 ;Start=12/26/2023;End=3/26/2024;Duration=91;Cert=Radiology / Cardiology ;Specialty=CT Tech ;Unit=Imaging - CT-6220 ;Shift=Night 5x8-Hour (18:30 - 03:00);# of Postions=1;Type=Travel;BillRate=$90.00;OTRules=48 total hours in 1 week : 1.25% ;Orientation=16 ;Description=CT/Radiology Tech (CT Scans and Radiography X-rays)
+
+Shift: 1830 - 0300 (Monday - Friday) Weeknights
+
+No weekends and no call 
+
+Required: AART (R)(CT)
+
+2 years of experience required
+
+Travel experience preferred
+
+Locals accepted - same rate
+
+Start date is flexible.  Can start 12/26, 1/2 or 1/8.
+
+ Modified Time:12/26/2023 5:00:00 AM
+ Account Manager: Katie Severance
+ Account Manager Email: Katie.Severance@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceSSN should be included under the traveler profile upon submissionDOB should be included under the traveler profile upon submissionRTO must be included on the cover page at time of submissionOnly 1 submission needed per specialty   please specify if traveler is open to shiftWilling to consider travelers with 1 year of experienceWill hire with pending license, but must provide documentation showing license is in progressNo set mileage restrictionTwo professional references completed within two years of current date   must be completed by someone who worked with candidate in supervisory capacityLocals Accepted   same rateCandidates will float within hospital as neededCopy of Nursys required at time of submission   pulled within the last 7 daysWill accept candidates with background hitsReturn Staff Policy   must be gone 6 months and still in good standingCopy of covid vaccination card required at submission.&nbsp; If requesting a medical or religious exemption traveler must provide the completed exemption request within 48 hours of acceptance (must use facility form) ;url=https://app.ayaconnect.com/index.html#/vendor/job/2313351/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Northern Hospital of Surry County
+    [shiftDateEnd] => 2024-03-26
+    [shiftStartTime] => 06:30
+    [subjectID] => 
+)

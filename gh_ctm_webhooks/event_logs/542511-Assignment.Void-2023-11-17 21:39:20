@@ -1,0 +1,95 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3246',
+  'Cf-Ray' => '827b203243fa23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Looking for an SC or Compact Med Surg RN's
+Shift: 3x12HR Nights (19:00- 07:00) *some weekends required
+
+20 bed Medical Surgical unit with remote tele
+EPIC ERM
+2 years Med Surg/ Tele experience.
+Prefer travel experience.
+** All nurses must have current BLS and ACLS
+Scrubs: Galaxy or Cobalt blue
+
+
+ Modified Time:11/27/2023 12:00:00 AM
+ Account Manager: Lisa Beebe
+ Account Manager Email: Lisa.Beebe@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceRTOMinimum 1 year experience (depending on job)&nbsp;Valid State License: SC or Compact required -&nbsp;Nursys&nbsp;must be included&nbsp;References Required in the profile&nbsp;Local Rules: Local Travelers are accepted at the same rateCopy of CertificationsAny License or BG hits must be approved by HR&nbsp;Return Staff Policy: Staff RNs cannot return to facility as travelers&nbsp;Unit manager and HR must approve return
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 542511
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3641
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 17 2023 16:39:19
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2293791 ;Status=Open;Association=Qualivis EPA ;Client=AnMed Health Cannon ;City=Pickens ;State=SC ;Zip=29671-2739 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Registered Nurse ;Specialty=MS/Tele ;Unit=Med Surg, 6535 ;Shift=Night 3x12-Hour (19:00 - 07:00);# of Postions=1;Type=Travel;BillRate=$85.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Looking for an SC or Compact Med Surg RN's
+Shift: 3x12HR Nights (19:00- 07:00) *some weekends required
+
+20 bed Medical Surgical unit with remote tele
+EPIC ERM
+2 years Med Surg/ Tele experience.
+Prefer travel experience.
+** All nurses must have current BLS and ACLS
+Scrubs: Galaxy or Cobalt blue
+
+
+ Modified Time:11/27/2023 12:00:00 AM
+ Account Manager: Lisa Beebe
+ Account Manager Email: Lisa.Beebe@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceRTOMinimum 1 year experience (depending on job)&nbsp;Valid State License: SC or Compact required -&nbsp;Nursys&nbsp;must be included&nbsp;References Required in the profile&nbsp;Local Rules: Local Travelers are accepted at the same rateCopy of CertificationsAny License or BG hits must be approved by HR&nbsp;Return Staff Policy: Staff RNs cannot return to facility as travelers&nbsp;Unit manager and HR must approve return ;url=https://app.ayaconnect.com/index.html#/vendor/job/2293791/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Cannon Memorial Hospital
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

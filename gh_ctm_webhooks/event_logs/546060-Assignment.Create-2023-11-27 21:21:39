@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2524',
+  'Cf-Ray' => '82cd6c0c70d71834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Performs the primary function of a R.N. in assessing, planning, implementing, and evaluating the care of all assigned patients on the unit during the shift. Is responsible for meeting the established standards of practice of Med/Surg for managing all assigned personnel, supplies, and equipment and for promoting teamwork with physician s and personnel of other departments. Cares for patients in all age groups (infants, children, adolescents, adults).Must have BLS, ACLS, and PALS.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 546060
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12407
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-02
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 27 2023 16:21:39
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262188 ;Status=Open;Association=Rolling Plains Memorial Hospital ;Client=Rolling Plains Memorial Hospital ;City=Sweetwater ;State=TX ;Zip=79556 ;Start=1/2/2024;End=4/2/2024;Duration=91;Cert=Nursing ;Specialty=Med-surg Peds, Med-Surg Ortho, Med-surg Adult ;Unit=Med-surg Peds, Med-Surg Ortho, Med-surg Adult ;Shift=7a-7p;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$70.00;OTRate=105 ;OTRules=By The Week, after 40, ;CallbackRate=70 (All Inclusive Rate) ;HolidayRate=105 (1.5 X All Inclusive Rate (Time & 1/2)) ;OnCallRateDescription=$2 per hour pager ;Description=Performs the primary function of a R.N. in assessing, planning, implementing, and evaluating the care of all assigned patients on the unit during the shift. Is responsible for meeting the established standards of practice of Med/Surg for managing all assigned personnel, supplies, and equipment and for promoting teamwork with physician s and personnel of other departments. Cares for patients in all age groups (infants, children, adolescents, adults).Must have BLS, ACLS, and PALS.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262188;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Fresenius Kidney Care Rolling Plains
+    [shiftDateEnd] => 2024-04-02
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

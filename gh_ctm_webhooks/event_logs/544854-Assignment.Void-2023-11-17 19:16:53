@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3208',
+  'Cf-Ray' => '827a4f8644051834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Must be able to scrub for Open Heart Procedures!Open Heart / Cardiovascular (CVOR) Surgical Tech***Magnet Recognition; Voted Best Places to Work in AR, four years in a row; Strong Focus on Workplace Culture!***ASAP Start Date Candidates NeededDays: 5-8 hour days; Mon - FriCall Required: Up to 50% of TimeWill assist as needed per the organizations needs.Job Requirements:Education:High School Diploma or equivalentCertification: BLS requiredExperience: 1 year experience as a surgical technologist.Safety Sensitive Designation: This position is deemed safety sensitive in accordance with Arkansas Act 593 governing Medical Marijuana.Note: candidates who have worked for Baxter Regional within the last five years nor who live within a 50 mile radius of Mountain Home, Arkansas will not be considered   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => CVOR
+    [assignmentid] => 544854
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3333
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-05
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 17 2023 14:16:29
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=261835 ;Status=Open;Association=Baxter Regional Medical Center ;Client=Baxter Regional Medical Center ;City=Mountain Home ;State=AR ;Zip=72653-2955 ;Start=12/5/2023;End=3/5/2024;Duration=91;Cert=Nursing ;Specialty=Open Heart Surgery, Surgical Technologist, CVOR ;Unit=Open Heart Surgery, Surgical Technologist, CVOR ;Shift=10 Hour Shifts, Rotate Days Off if necessary;# of Postions=1;Type=Travel;BillRate=$115.00;OTRate=125 ;OTRules=By The Week, after 40, ;CallbackRate=125 (All Inclusive Rate + $10) ;HolidayRate=125 (All Inclusive Rate + $10) ;OnCallRateDescription=$6 per hour pager ;Description=Must be able to scrub for Open Heart Procedures!Open Heart / Cardiovascular (CVOR) Surgical Tech***Magnet Recognition; Voted Best Places to Work in AR, four years in a row; Strong Focus on Workplace Culture!***ASAP Start Date Candidates NeededDays: 5-8 hour days; Mon - FriCall Required: Up to 50% of TimeWill assist as needed per the organizations needs.Job Requirements:Education:High School Diploma or equivalentCertification: BLS requiredExperience: 1 year experience as a surgical technologist.Safety Sensitive Designation: This position is deemed safety sensitive in accordance with Arkansas Act 593 governing Medical Marijuana.Note: candidates who have worked for Baxter Regional within the last five years nor who live within a 50 mile radius of Mountain Home, Arkansas will not be considered   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261835;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 115
+    [facilityName] => Baxter Regional Medical Center
+    [shiftDateEnd] => 2024-03-05
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

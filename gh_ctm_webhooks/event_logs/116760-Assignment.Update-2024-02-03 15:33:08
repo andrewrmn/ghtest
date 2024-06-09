@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1890',
+  'Cf-Ray' => '84fbbb0616ac23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 04/08/2020 0918 MDTCerville Exavier
+                            
+                            
+                                RESERVED FOR MK TURRURRO.
+ RatePlan:AH-STANDARD TRAVEL RATE
+    [sitename] => giftednurses
+    [spec] => PICU
+    [assignmentid] => 116760
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2478
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-04-20
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => February, 03 2024 10:32:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=Shiftwise;SourceID=8685477 ;Status=Pending;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Dell Children's Medical Center ;City=Austin ;State=TX ;Zip=78723 ;Start=4/20/2020;End=7/19/2020;Duration=91;Cert=RN ;Specialty=PICU Cardiac ;Unit=DCMC Pediatric ICU ;Shift=AM 12.00 Hrs;# of Postions=1;Type=Travel;minBillRate=$70.23;OTRate=Multiplier 1.35 x Std1.350 ;OTRules=Multiplier 1.35 x Std1.350 ;ChargeRate=Additive Std + $4.004.000 ;CallbackRate=Multiplier 1.35 x Std1.350 ;HolidayRate=Multiplier 1.35 x Std1.350 ;OnCallRateDescription=Flat $6.006.000 ;Orientation=Flat $0.000.000 ;Description=04/08/2020 0918 MDTCerville Exavier
+                            
+                            
+                                RESERVED FOR MK TURRURRO.
+ RatePlan:AH-STANDARD TRAVEL RATE ;url=https://secure.shiftwise.net/esp/order.aspx?order_id=51C4CBCAE6456A0783C5CFB11283C072;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70.23
+    [facilityName] => Dell Children's Medical Center
+    [shiftDateEnd] => 2020-07-19
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

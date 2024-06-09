@@ -1,0 +1,79 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1216',
+  'Cf-Ray' => '83b9d514468f6a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => School
+    [assignmentid] => 542890
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Contract
+    [hoursPerWeek] => 32.5
+    [facilityID] => 13869
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Paraprofessional
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => December, 26 2023 08:57:20
+    [daysPerWeek] => 5
+    [orderNote] => Position: Paraprofessional
+
+Start Date: ASAP
+
+End Date: May 23, 2023
+
+Campus: Washington High School
+
+Address:  2217 W Glendale Ave, Phoenix, AZ 85021
+
+Start Time: 7:45 am End time: 2:45 pm
+
+Hours: 32.5 hours with 30 minute unpaid lunch
+
+Program: SEP ( Social Emotional Program)
+
+Special Education, High School level students.
+
+Dress code: Business casual
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 36.72
+    [facilityName] => Glendale Union High School District
+    [shiftDateEnd] => 2024-05-23
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,79 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2932',
+  'Cf-Ray' => '82cc2c1594121838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => UNIT: 12 West- Neurosurgery/Neurology
+	Shift:PM
+	Experience:Med Surg/Tele Acute Care-Must haveexperience with neurology patients
+	Every third weekend, Holidays as needed
+	On-Call: 2 (12 hour) shifts per 6 week schedule
+	Required: RN License, BLS;Minimum 2 years  neuro med surg experience
+	Preferred: (1) travel experience, EPIC
+	Joint Commission-certified stroke program caring for acute stroke (hemorrhagic and ischemic), transient ischemic attacks, vasculitis, carotid and vertebral dissection, and subarachnoid hemorrhage
+	Patient Population
+		Adult; Spinal surgery, intracranial hemorrhage, Subarachnoid hemorrhage, Parkinson s disease, multiple sclerosis, Amyotrophic lateral sclerosis, any disease that would affect the brain or spinal column, and seizure
+    [sitename] => giftednurses
+    [spec] => Neuro
+    [assignmentid] => 544507
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1877
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 27 2023 12:43:13
+    [daysPerWeek] => 3
+    [orderNote] => Source=IntrastaffVMS;SourceID=304467 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Johns Hopkins Hospital ;Start=12/11/2023;End=3/9/2024;Duration=89;Cert=MSP RN Enhanced High Needs ;Specialty=Zayed 12W (4801336912) ;Unit=Zayed 12W (4801336912) ;Shift=Night 12 (7:00 PM - 7:30 AM);# of Postions=1;Type=Travel;BillRate=$85.00;minBillRate=$85.00;Description=UNIT: 12 West- Neurosurgery/Neurology
+	Shift:PM
+	Experience:Med Surg/Tele Acute Care-Must haveexperience with neurology patients
+	Every third weekend, Holidays as needed
+	On-Call: 2 (12 hour) shifts per 6 week schedule
+	Required: RN License, BLS;Minimum 2 years  neuro med surg experience
+	Preferred: (1) travel experience, EPIC
+	Joint Commission-certified stroke program caring for acute stroke (hemorrhagic and ischemic), transient ischemic attacks, vasculitis, carotid and vertebral dissection, and subarachnoid hemorrhage
+	Patient Population
+		Adult; Spinal surgery, intracranial hemorrhage, Subarachnoid hemorrhage, Parkinson s disease, multiple sclerosis, Amyotrophic lateral sclerosis, any disease that would affect the brain or spinal column, and seizure ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=qwocUterbp4=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => The Johns Hopkins Hospital TRAVEL
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

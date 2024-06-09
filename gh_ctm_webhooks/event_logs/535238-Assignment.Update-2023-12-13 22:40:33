@@ -1,0 +1,69 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1686',
+  'Cf-Ray' => '8351b59f46a177ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL ECHO TECHDAYS13 WEEKS
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTING
+BLS REQUIRED
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Echocardiography
+    [assignmentid] => 535238
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5469
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-13
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => Echo Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 13 2023 17:40:32
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=764924 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HENRICO DOCTORS HOSPITAL-FOREST VA ;City=RICHMOND ;State=VA ;Zip=23229 ;Start=12/13/2023;End=3/13/2024;Duration=91;Cert=Echo Tech ;Specialty=Radiology ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM - 7:00AM;# of Postions=1;Type=Travel;BillRate=$95.00;minBillRate=$95.00;OTRate=103 ;CallbackRate=103 ;HolidayRate=103 ;Orientation=0 ;Description=Description:TRAVEL ECHO TECHNIGHTS
+12, 10 or 8 hour shifts.13 WEEKS
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTING
+BLS REQUIRED
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/764924;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Henrico Doctors' Hospital Travel- Forest Campus
+    [shiftDateEnd] => 2024-03-13
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

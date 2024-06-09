@@ -1,0 +1,120 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2736',
+  'Cf-Ray' => '84053f81248823c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => NO LOCAL CANDIDATES (115 mile radius)
+NO FORMER SPOHN EMPLOYEES
+
+CT Tech
+CHRISTUS Spohn Hospital Corpus Christus - Shoreline
+600 Elizabeth St, Corpus Christi, TX 78404
+
+Shift: 9p-7a Thurs-Sun - Changed to 1900-0700 Thurs-Sat
+Length: 13wks
+HOL: Per Ministry Requirement
+Bill Rate: $90
+Orientation billable at 70% of the bill rate up to the first 36 hours
+Guarantee: 36 hrs
+Call: Yes
+Scrubs: Caribbean Blue
+
+REQUIRED EXPERIENCE
+Min 1yr CT Tech exp
+Travel Exp Required
+
+REQUIRED CREDENTIALS at the time of submission
+TX License - MRT
+ARRT (R)(CT)
+BLS (AHA only)
+
+SUBMISSION REQUIREMENTS (Must be combined into 1 PDF file)
+Filled out coversheet (blank coversheet attached)
+Resume/work history
+Skills checklist
+Licensures
+Certifications
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 526695
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5179
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-29
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 04 2024 12:37:11
+    [daysPerWeek] => 4
+    [orderNote] => Source=StafferLink;SourceID=7812171 ;Status=O;Association=CHRISTUS Spohn (STX) ;Client=CHRISTUS Spohn (STX) ;City=Corpus Christi ;State=TX ;Zip=78404 ;Start=1/29/2024;End=5/11/2024;Duration=104;Cert=CT Tech ;Specialty=Imaging CAT Scan 2503 / 378 ;Unit=Imaging CAT Scan 2503 / 378 ;Shift=21:00:00 - 07:00:00;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$90.00;Description=NO LOCAL CANDIDATES (115 mile radius)
+NO FORMER SPOHN EMPLOYEES
+
+CT Tech
+CHRISTUS Spohn Hospital Corpus Christus - Shoreline
+600 Elizabeth St, Corpus Christi, TX 78404
+
+Shift: 9p-7a Thurs-Sun - Changed to 1900-0700 Thurs-Sat
+Length: 13wks
+HOL: Per Ministry Requirement
+Bill Rate: $90
+Orientation billable at 70% of the bill rate up to the first 36 hours
+Guarantee: 36 hrs
+Call: Yes
+Scrubs: Caribbean Blue
+
+REQUIRED EXPERIENCE
+Min 1yr CT Tech exp
+Travel Exp Required
+
+REQUIRED CREDENTIALS at the time of submission
+TX License - MRT
+ARRT (R)(CT)
+BLS (AHA only)
+
+SUBMISSION REQUIREMENTS (Must be combined into 1 PDF file)
+Filled out coversheet (blank coversheet attached)
+Resume/work history
+Skills checklist
+Licensures
+Certifications ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => CHRISTUS Spohn Hospital Shoreline TRAVEL
+    [shiftDateEnd] => 2024-05-11
+    [shiftStartTime] => 21:00
+    [subjectID] => 
+)

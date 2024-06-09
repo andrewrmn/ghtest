@@ -1,0 +1,253 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7076',
+  'Cf-Ray' => '82d6014f74aa23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Traveler shall be scheduled in accordance with facility policy and is expected to work every other weekend and Holidays in rotation with Hospital employees
+
+1+
+ experience acceptable
+
+Hospital:
+ Orange Park Medical Center   Cath Lab
+
+General Information
+
+Unit Specifics: 
+Number of Beds : 370Patient Ratios : (n/a   procedural position)Type of equipment : GE Innova, OCT, Boston IVUS, Impella, IABP, RotoPro, CSI, Penumbra Documentation system: MacLab/Meditech
+Hospital Specifics-
+Certifications: GWTG Awards (CAD, Mission Lifeline, Afib, CHF)
+Unit Specifics: 
+Scheduling requirements: 4-10 hour shifts/weekFloating: Support in prep/recovery area as neededOn call schedule: 2 call teams and approx. 15-18 days per monthEMR: MeditechWeekends: Rotating
+
+
+
+Hiring profile
+
+Requested Skill Set Questions
+
+
+
+
+Must have: 
+
+ACLS, BLS 
+
+
+
+
+Advanced skills needed:
+
+Scrub for LHC/RHC/ PCI/ STEMI/ Peripherals.
+ Must be able to monitor as well. 
+
+
+
+
+
+
+
+Procedures performed on unit: Diagnostic Left Heart Cath, PCI, STEMI, Stroke, Carotid Stenting, Peripheral diagnostic and intervention. 
+
+
+
+
+
+
+
+Certifications Required:
+ RCIS or RCES or RT(R)
+ (Or eligible to sit for the RCIS)
+
+
+
+
+
+
+
+Dress Code: (Required uniform)
+
+Ceil blue scrubs supplied
+Awards/Recognition: 
+Please include anything that you would like prospective candidates to be aware of, such as, links to videos that feature the department, outstanding department/team awards..
+ 
+
+
+Any additional information that would entice a worker to select your unit for their assignment: 
+Newer procedure rooms and equipment.
+ 5-10 physicians, Dedicated Charge Nurse for flow of day.
+ General CommentsOrange Park Medical Center is a 317-bed HCA Healthcare facility located in Northeast Florida. Featuring 170 private rooms, the hospital is known for its high-quality
+services, including
+cardiovascular care, a Level II
+NICU, and the only Level II
+trauma center
+in the county.
+
+
+The Center has earned many
+awards and accreditations, such as the Get With The Guidelines - Gold Plus
+Stroke
+Achievement Award and being recognized as a Top Performer on Quality Measures by The Joint Commission. Staff members
+enjoy
+working at Orange Park Medical Center because of its friendly culture, supportive management, and fast-paced environment.
+
+
+The hospital's location in Orange Park is about a 30 minute drive from
+Downtown Jacksonville.
+Orange Park is home to many outdoor activities, including
+golf courses,
+bike trails, and
+historic parks. Complete with its own
+Fall Festival, Orange Park has something for everyone.
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 544131
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5698
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Cath Lab Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => November, 28 2023 17:21:38
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=773222 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA Florida Orange Park Hospital ;City=Orange Park ;State=FL ;Zip=32073 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Cardiac Cath Lab Tech ;Specialty=Cardiac Cath Lab ;Unit=SOUTH ATLANTIC DIVISION (23) ;Shift=7:30AM - 6:00PM;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=98 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Traveler shall be scheduled in accordance with facility policy and is expected to work every other weekend and Holidays in rotation with Hospital employees
+
+1+
+ experience acceptable
+
+Hospital:
+ Orange Park Medical Center   Cath Lab
+
+General Information
+
+Unit Specifics: 
+Number of Beds : 370Patient Ratios : (n/a   procedural position)Type of equipment : GE Innova, OCT, Boston IVUS, Impella, IABP, RotoPro, CSI, Penumbra Documentation system: MacLab/Meditech
+Hospital Specifics-
+Certifications: GWTG Awards (CAD, Mission Lifeline, Afib, CHF)
+Unit Specifics: 
+Scheduling requirements: 4-10 hour shifts/weekFloating: Support in prep/recovery area as neededOn call schedule: 2 call teams and approx. 15-18 days per monthEMR: MeditechWeekends: Rotating
+
+
+
+Hiring profile
+
+Requested Skill Set Questions
+
+
+
+
+Must have: 
+
+ACLS, BLS 
+
+
+
+
+Advanced skills needed:
+
+Scrub for LHC/RHC/ PCI/ STEMI/ Peripherals.
+ Must be able to monitor as well. 
+
+
+
+
+
+
+
+Procedures performed on unit: Diagnostic Left Heart Cath, PCI, STEMI, Stroke, Carotid Stenting, Peripheral diagnostic and intervention. 
+
+
+
+
+
+
+
+Certifications Required:
+ RCIS or RCES or RT(R)
+ (Or eligible to sit for the RCIS)
+
+
+
+
+
+
+
+Dress Code: (Required uniform)
+
+Ceil blue scrubs supplied
+Awards/Recognition: 
+Please include anything that you would like prospective candidates to be aware of, such as, links to videos that feature the department, outstanding department/team awards..
+ 
+
+
+Any additional information that would entice a worker to select your unit for their assignment: 
+Newer procedure rooms and equipment.
+ 5-10 physicians, Dedicated Charge Nurse for flow of day.
+ General CommentsOrange Park Medical Center is a 317-bed HCA Healthcare facility located in Northeast Florida. Featuring 170 private rooms, the hospital is known for its high-quality
+services, including
+cardiovascular care, a Level II
+NICU, and the only Level II
+trauma center
+in the county.
+
+
+The Center has earned many
+awards and accreditations, such as the Get With The Guidelines - Gold Plus
+Stroke
+Achievement Award and being recognized as a Top Performer on Quality Measures by The Joint Commission. Staff members
+enjoy
+working at Orange Park Medical Center because of its friendly culture, supportive management, and fast-paced environment.
+
+
+The hospital's location in Orange Park is about a 30 minute drive from
+Downtown Jacksonville.
+Orange Park is home to many outdoor activities, including
+golf courses,
+bike trails, and
+historic parks. Complete with its own
+Fall Festival, Orange Park has something for everyone.
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/773222;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Orange Park Medical Center
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

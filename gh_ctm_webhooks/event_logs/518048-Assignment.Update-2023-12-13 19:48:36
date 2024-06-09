@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '940',
+  'Cf-Ray' => '8350b9be411b4951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: End Date Change
+    [sitename] => giftednurses
+    [spec] => NICU 3
+    [assignmentid] => 518048
+    [workerID] => 146394
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 13338
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-09-04
+    [workerLastName] => Forges
+    [shiftNum] => 5
+    [workerFirstName] => LaKyra
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 13 2023 14:48:35
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$131.61lRS:131767lFTK:Gifted TC; OT/Missed Meal Form Req
+OnCl:P$0/B$10
+    [guaranteedMinimum] => 
+    [workerEmail] => ms1kyra@yahoo.com
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 131.61
+    [facilityName] => Alta Bates Summit Medical Center - Berkeley Travel RS
+    [shiftDateEnd] => 2023-11-21
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

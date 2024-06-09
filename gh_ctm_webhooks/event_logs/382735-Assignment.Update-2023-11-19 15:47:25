@@ -1,0 +1,70 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3568',
+  'Cf-Ray' => '82899772346423c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+The PACU Registered Nurse holds shift accountability for providing care to Post Anesthesia Care patients working with Surgeons, Anesthesiologists, Surgical staff, and other personnel by utilizing the Nursing Process in accordance with the state Nurse Practice Act, AORN, and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care.parseGeneralComments Comments
+.bd_title { font-weight: bold }
+PCR 2112-022
+Days with rotation and call
+13 week contract, 36 hours guaranteed, 3/12 hr shifts, rotating weekends, Must take Covid patients, willing to float to the Tele Unit and sister hospital, AZ license, BLS, ACLS, 2  years of ICU experience, Cerner experience is preferred. Contact: CHS MSP HOUSE Resource Manager: CHS MSP HOUSE
+    [sitename] => giftednurses
+    [spec] => PACU
+    [assignmentid] => 382735
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-06-06
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:47:10
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=601471 ;Status=Open;Association=CHS ;Client=Oro Valley Hospital ;City=Oro Valley ;State=AZ ;Zip=85755 ;Start=ASAP;End=;Duration=91;Cert=CHS Travel:Registered Nurse (RN) / PACU (601471) ;Specialty=1112: RECOVERY ROOM ;Unit=RECOVERY ROOM ;Shift=7:00 AM - 7:00 PM;# of Postions=1;Type=Travel;BillRate=$120.00;Description=Position Description
+The PACU Registered Nurse holds shift accountability for providing care to Post Anesthesia Care patients working with Surgeons, Anesthesiologists, Surgical staff, and other personnel by utilizing the Nursing Process in accordance with the state Nurse Practice Act, AORN, and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care.parseGeneralComments Comments
+.bd_title { font-weight: bold }
+PCR 2112-022
+Days with rotation and call
+13 week contract, 36 hours guaranteed, 3/12 hr shifts, rotating weekends, Must take Covid patients, willing to float to the Tele Unit and sister hospital, AZ license, BLS, ACLS, 2  years of ICU experience, Cerner experience is preferred. Contact: CHS MSP HOUSE Resource Manager: CHS MSP HOUSE ;Buyer=CHS MSP HOUSE ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=601471#!/position/manage/601471;VMSPositionType=Travel InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 120
+    [facilityName] => Northwest Medical Center of Oro Valley
+    [shiftDateEnd] => 2022-09-05
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

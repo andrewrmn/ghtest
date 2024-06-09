@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2627',
+  'Cf-Ray' => '82e50762b3f26a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Must have experience with Acute MI, CHF, Pneumonia, A-Fib, Sepsis, Chest Pain, Diabetes, Renal Failure, anything requiring cardiac telemetry monitoring; pacemakersMust have strong cardiac rhythm interpretation skills and cardiac medication knowledgeMust have experience with titration of vasoactive dripsTraveler must live 150 miles or more  from our facilities in order to be considered   Additional Information:Traveler must live 150 miles or more  from our facilities in order to be considered   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 543116
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2474
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 30 2023 13:07:14
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261316 ;Status=Open;Association=Hendrick Health System ;Client=Hendrick Medical Center South ;City=Abilene ;State=TX ;Zip=79606 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Nursing ;Specialty=Telemetry Nurse, PCU, Telemetry Cardiac, Cardiac Progressive Care (CPCU), Step Down ;Unit=Telemetry Nurse, PCU, Telemetry Cardiac, Cardiac Progressive Care (CPCU), Step Down ;Shift=7p-7a , 7a-7p;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$90.00;OTRate=100 ;OTRules=By The Week, after 40, ;CallbackRate=100 (All Inclusive Rate + $10) ;HolidayRate=100 (All Inclusive Rate + $10) ;OnCallRateDescription=$5 per hour pager ;Description=Must have experience with Acute MI, CHF, Pneumonia, A-Fib, Sepsis, Chest Pain, Diabetes, Renal Failure, anything requiring cardiac telemetry monitoring; pacemakersMust have strong cardiac rhythm interpretation skills and cardiac medication knowledgeMust have experience with titration of vasoactive dripsTraveler must live 150 miles or more  from our facilities in order to be considered   Additional Information:Traveler must live 150 miles or more  from our facilities in order to be considered   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261316;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Hendrick Medical Center South
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

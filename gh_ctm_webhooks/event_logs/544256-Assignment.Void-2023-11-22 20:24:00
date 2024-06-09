@@ -1,0 +1,159 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6143',
+  'Cf-Ray' => '82a3e4b803116a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name Ped and Specialty Surg-RN-Joplin  
+Facility Mercy Hospital Joplin
+  
+Unit Pediatric Surgical Unit
+  
+Cost Center 50-456067
+FLU
+and
+COVID-19:
+
+
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.  SHIFT INFO  
+Shift Night
+  
+Shifts per week 3
+  
+Hours per shift 12
+
+  EXPERIENCE  
+Years of Experience - One Year 
+  
+Peds Primary Care
+ 
+required
+  
+
+
+  CERTIFICATIONS  BLS
+-
+required
+ ACLS
+-
+required
+ CPEN
+-
+required
+ NRP
+ 
+required  
+
+
+  DESCRIPTION  
+Unit: Ped and Specialty Surg Specialty: Ped and Surg Location: Central Facility: Mercy Hospital Joplin 100 Mercy Way Joplin, Missouri 64804 Shift: 3x12 (36 hours) Overview Maintains safe patient environment according to AWOHHN, ACOG, and AAP guidelines. Assist in annual unit duties and precepting new co-workers to the unit. Coordinates staffing duties daily Provides call coverage according to guidelines. Maintains Professional and supporting relationships among health care teams by communicating information, responding to request, building rapport and participating in team problem-solving methods. Performs duties and responsibilities in a manner consistent with Mercy Service Standards. Adheres to hospital policies and procedures. Promotes patients' independence by establishing patient care goals; teaching patients and families to understand condition, medications, newborn and self-care skills; answering questions using methods / strategies that are individualized to better promote learning and compliance. Proficient documentation, record maintenance, and Acute Care charging to ensure accurate patient records and billing. Attends monthly unit meeting, completes annual skills labs, and other recommended continued education. Qualifications Education: Must possess ADN or BSN. Licensure: Current Registered Nurse License in State of Missouri Experience: 1 year experience in Pediatric Department Certifications:
+ PEARS, NRP and BLS
+completed prior to end of orientation.
+ PALS certification only requires additional BLS certification. 
+ Other: Ability to read and communicate effectively in English Basic Computer Skills Basic knowledge of office equipment: printer, computer skills, fax machine, and copier
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Peds
+    [assignmentid] => 544256
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8970
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 22 2023 15:23:55
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=775654 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Joplin ;City=Joplin ;State=MO ;Zip=64804 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=RN ;Specialty=Peds ;Unit=Mercy ;Shift=19:00-07:30;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Name Ped and Specialty Surg-RN-Joplin  
+Facility Mercy Hospital Joplin
+  
+Unit Pediatric Surgical Unit
+  
+Cost Center 50-456067
+FLU
+and
+COVID-19:
+
+
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.  SHIFT INFO  
+Shift Night
+  
+Shifts per week 3
+  
+Hours per shift 12
+
+  EXPERIENCE  
+Years of Experience - One Year 
+  
+Peds Primary Care
+ 
+required
+  
+
+
+  CERTIFICATIONS  BLS
+-
+required
+ ACLS
+-
+required
+ CPEN
+-
+required
+ NRP
+ 
+required  
+
+
+  DESCRIPTION  
+Unit: Ped and Specialty Surg Specialty: Ped and Surg Location: Central Facility: Mercy Hospital Joplin 100 Mercy Way Joplin, Missouri 64804 Shift: 3x12 (36 hours) Overview Maintains safe patient environment according to AWOHHN, ACOG, and AAP guidelines. Assist in annual unit duties and precepting new co-workers to the unit. Coordinates staffing duties daily Provides call coverage according to guidelines. Maintains Professional and supporting relationships among health care teams by communicating information, responding to request, building rapport and participating in team problem-solving methods. Performs duties and responsibilities in a manner consistent with Mercy Service Standards. Adheres to hospital policies and procedures. Promotes patients' independence by establishing patient care goals; teaching patients and families to understand condition, medications, newborn and self-care skills; answering questions using methods / strategies that are individualized to better promote learning and compliance. Proficient documentation, record maintenance, and Acute Care charging to ensure accurate patient records and billing. Attends monthly unit meeting, completes annual skills labs, and other recommended continued education. Qualifications Education: Must possess ADN or BSN. Licensure: Current Registered Nurse License in State of Missouri Experience: 1 year experience in Pediatric Department Certifications:
+ PEARS, NRP and BLS
+completed prior to end of orientation.
+ PALS certification only requires additional BLS certification. 
+ Other: Ability to read and communicate effectively in English Basic Computer Skills Basic knowledge of office equipment: printer, computer skills, fax machine, and copier
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/775654;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital Joplin - TRAVEL
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,118 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4612',
+  'Cf-Ray' => '82c80ae215bf4951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Southeast has been named Best-In-State employers by Forbes for the 2nd year in a row! To see a full video from the CNO click the link below!!
+
+https://vimeo.com/855455514
+
+This is a MS/ Tele/ Nephrology Unit
+NEW TRAVELERS ARE WELCOME!
+NO LOCALS allowed - 90 mile radius rule please list perm address on profile
+Orientations are every other Monday, but the facility is on a Wednesday - Tuesday Pay Period, so contracts will end on a Tuesday.
+MUST have 2 years of Med/Surg Tele experience
+***Peritoneal Dialysis Experience is a PLUS!
+All RNs MUST BE comfortable with High acuity and a 1:6 or 1:7 patient ratio
+Clinical review and auto offer
+Can offer 36 or 48 hours
+Can offer Block Booking
+BLS Required
+NIH Required
+Please submit with compact or AL license active and in good standing
+Hard Deadline for Compliance 1 week prior to start.
+COVID Vaccination required unless they have a documented Religious or Medical exemption.
+16 hours Non Bill for orientation
+Orientation is every other Monday
+Scrub colors: ALL Navy OR Navy pants and White top.
+
+ Modified Time:12/11/2023 12:00:00 AM
+ Account Manager: Jen Millican
+ Account Manager Email: Jen.Millican@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceMust have active AL RN license at time of submittalLooking for candidates that have worked in large healthcare facilitiesTravel experience required, BUT if candidate has a lot of experience, they may be considered.This is a "do not call" facility.8+ hours of modules not included in the bill rate
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545880
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8476
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 27 2023 00:41:30
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2310032 ;Status=Open;Association=Qualivis MSP ;Client=Southeast Health Medical Center ;City=Dothan ;State=AL ;Zip=36301 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Registered Nurse ;Specialty=MS/Tele ;Unit=5 East | 400800 ;Shift=Night 3x12-Hour (19:00 - 07:00);# of Postions=2;Type=Travel;BillRate=$75.00;OTRules=48 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Southeast has been named Best-In-State employers by Forbes for the 2nd year in a row! To see a full video from the CNO click the link below!!
+
+https://vimeo.com/855455514
+
+This is a MS/ Tele/ Nephrology Unit
+NEW TRAVELERS ARE WELCOME!
+NO LOCALS allowed - 90 mile radius rule please list perm address on profile
+Orientations are every other Monday, but the facility is on a Wednesday - Tuesday Pay Period, so contracts will end on a Tuesday.
+MUST have 2 years of Med/Surg Tele experience
+***Peritoneal Dialysis Experience is a PLUS!
+All RNs MUST BE comfortable with High acuity and a 1:6 or 1:7 patient ratio
+Clinical review and auto offer
+Can offer 36 or 48 hours
+Can offer Block Booking
+BLS Required
+NIH Required
+Please submit with compact or AL license active and in good standing
+Hard Deadline for Compliance 1 week prior to start.
+COVID Vaccination required unless they have a documented Religious or Medical exemption.
+16 hours Non Bill for orientation
+Orientation is every other Monday
+Scrub colors: ALL Navy OR Navy pants and White top.
+
+ Modified Time:12/11/2023 12:00:00 AM
+ Account Manager: Jen Millican
+ Account Manager Email: Jen.Millican@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceMust have active AL RN license at time of submittalLooking for candidates that have worked in large healthcare facilitiesTravel experience required, BUT if candidate has a lot of experience, they may be considered.This is a "do not call" facility.8+ hours of modules not included in the bill rate ;url=https://app.ayaconnect.com/index.html#/vendor/job/2310032/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Southeast Alabama Medical Center
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

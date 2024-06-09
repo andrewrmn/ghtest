@@ -1,0 +1,72 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2314',
+  'Cf-Ray' => '84bbe5a973dc6a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Telemetry/Cardiac RN
+
+Day Shift (7am-7pm)
+every other weekend requirement
+
+
+Unit Description - 7 South is a 36-room cardiac/telemetry floor. Their focus is congestive heart failure and other comorbidities. One unique thing about the unit is the fact they are the only acute care floor trained to care for patients with a left ventricular assist device (LVAD). They also see patients before and after procedures in the cath lab, with cardiac IV medications, severe arrhythmias, and cardio-renal syndrome.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 532641
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15840
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-30
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 26 2024 16:37:25
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=47086 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne Des Moines Medical Center ;City=Des Moines ;State=IA ;Zip=50314 ;Start=1/30/2024;End=4/27/2024;Duration=88;Cert=RN Telemetry ;Specialty=7 South Med Surg Tele ;Unit=Iowa/Des Moines/Telemetry Cardiac RN/DAYS ;Shift=7a7p;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=117.00 ;ChargeRate=93.00 ;CallbackRate=117.00 ;HolidayRate=117.00 ;Orientation=0.00 ;Description=Telemetry/Cardiac RN
+
+Day Shift (7am-7pm)
+every other weekend requirement
+
+
+Unit Description - 7 South is a 36-room cardiac/telemetry floor. Their focus is congestive heart failure and other comorbidities. One unique thing about the unit is the fact they are the only acute care floor trained to care for patients with a left ventricular assist device (LVAD). They also see patients before and after procedures in the cath lab, with cardiac IV medications, severe arrhythmias, and cardio-renal syndrome. ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => MercyOne Des Moines Medical Center (Trinity) TRAVEL
+    [shiftDateEnd] => 2024-04-27
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

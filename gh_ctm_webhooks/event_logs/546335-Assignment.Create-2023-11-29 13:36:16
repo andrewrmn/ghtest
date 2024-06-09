@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1591',
+  'Cf-Ray' => '82db3d1571b9183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:CONTRACT - RAD TECH (728) - 13 WEEKS - 11A-11P
+NO ON CALL REQUIRED
+ARRT, CT REQUIRED
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 546335
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5537
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => November, 29 2023 08:36:02
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=778646 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=GEORGETOWN HOSPITAL (St.Davids) TX ;City=Georgetown ;State=TX ;Zip=78626 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Rad Tech ;Specialty=Radiology ;Unit=CENTRAL AND WEST TEXAS DIVISION (50) ;Shift=11A-11P;# of Postions=1;Type=Travel;BillRate=$85.00;OTRate=93 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:CONTRACT - RAD TECH (728) - 13 WEEKS - 11A-11P
+NO ON CALL REQUIRED
+ARRT, CT REQUIRED
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/778646;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => St. David's Georgetown Hospital Travel
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

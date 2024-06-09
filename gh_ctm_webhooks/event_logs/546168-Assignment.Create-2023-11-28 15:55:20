@@ -1,0 +1,92 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4307',
+  'Cf-Ray' => '82d3cb6c80616a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => The Johns Hopkins Comprehensive Transplant Unit (CTU-Zayed 9 West)
+
+	Strong Med Surg orIMCNursewho has worked on a unit with patients who have had surgery.
+
+	Required: 2 years nursing experience; dysrhythmia management; BLS
+
+	Preferred : IMC/PCU experience, EPIC experience; 1-2 travel assignments; experience with pre- and post-liver and kidney transplant patients and live donors, Abdominal organ transplant experience
+
+	Pre and post-surgical care on the unit, IMC level skills or a very strong med surg skills, some patients have a-lines and tracheostomies
+
+	Multiple levels of care- Adult inpatient acute, tele, and intermediate care unit with continuous vital sign and some advanced monitoring,
+
+	The CTU is a 32-bed dedicated to the transplant patient population.Comprehensive Transplant Unit (CTU) is a 26-bed unit that serves pre- and post-liver and kidney transplant patients and live donors.
+
+	Nurse-Patient Ratio: IMC (1:3), Tele (1:4)
+
+	9W is a 32-bed unit specializing in the care of post-operative abdominal organ transplant recipients (kidney, liver, pancreas transplant recipients). This includes the care of abdominal organ recipients in the immediate postoperative period and subsequent readmissions to the inpatient setting for the management of medical complications secondary to transplantation. The unit also is the designated step down and inpatient unit for the Composite Tissue Allotransplantation Recipients (Hand and Face Transplant recipients)
+    [sitename] => giftednurses
+    [spec] => IMC
+    [assignmentid] => 546168
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1877
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 28 2023 10:55:20
+    [daysPerWeek] => 3
+    [orderNote] => Source=IntrastaffVMS;SourceID=305410 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Johns Hopkins Hospital ;Start=1/8/2024;End=4/6/2024;Duration=89;Cert=MSP RN Enhanced High Needs ;Specialty=Zayed 9W (CTU)  (4801336943) ;Unit=Zayed 9W (CTU)  (4801336943) ;Shift=Night 12 (7:00 PM - 7:30 AM);# of Postions=1;Type=Travel;BillRate=$95.00;minBillRate=$95.00;Description=The Johns Hopkins Comprehensive Transplant Unit (CTU-Zayed 9 West)
+
+	Strong Med Surg orIMCNursewho has worked on a unit with patients who have had surgery.
+
+	Required: 2 years nursing experience; dysrhythmia management; BLS
+
+	Preferred : IMC/PCU experience, EPIC experience; 1-2 travel assignments; experience with pre- and post-liver and kidney transplant patients and live donors, Abdominal organ transplant experience
+
+	Pre and post-surgical care on the unit, IMC level skills or a very strong med surg skills, some patients have a-lines and tracheostomies
+
+	Multiple levels of care- Adult inpatient acute, tele, and intermediate care unit with continuous vital sign and some advanced monitoring,
+
+	The CTU is a 32-bed dedicated to the transplant patient population.Comprehensive Transplant Unit (CTU) is a 26-bed unit that serves pre- and post-liver and kidney transplant patients and live donors.
+
+	Nurse-Patient Ratio: IMC (1:3), Tele (1:4)
+
+	9W is a 32-bed unit specializing in the care of post-operative abdominal organ transplant recipients (kidney, liver, pancreas transplant recipients). This includes the care of abdominal organ recipients in the immediate postoperative period and subsequent readmissions to the inpatient setting for the management of medical complications secondary to transplantation. The unit also is the designated step down and inpatient unit for the Composite Tissue Allotransplantation Recipients (Hand and Face Transplant recipients) ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=HtbwNpxqfxE=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => The Johns Hopkins Hospital TRAVEL
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

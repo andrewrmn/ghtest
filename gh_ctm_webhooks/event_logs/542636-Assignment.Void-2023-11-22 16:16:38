@@ -1,0 +1,181 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4826',
+  'Cf-Ray' => '82a27a5fe7a51465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name Wash Cardiac Telemetry 5-RN-Mercy Hospital Washington
+  
+Organization Mercy
+  
+Facility Mercy Hospital Washington
+  
+Unit Telemetry Unit
+  
+Cost Center 15-416090
+
+FLU
+and
+COVID-19:
+
+
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.
+  SHIFT INFO  
+Shift night
+  
+Shifts per week 3
+  
+Hours per shift 12
+
+Hours: 1830- 0700 &amp; every other weekend required
+  EXPERIENCE  
+Years of Experience One Year Plus
+  
+Specialties Cardiac
+Tele
+-
+required
+  CERTIFICATIONS  
+Certifications
+  
+BLS
+-
+required
+ ACLS
+-
+required
+ NIHSS
+-
+required
+  DESCRIPTION  
+Utilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care for the assigned patients. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. 
+  
+Required licensure: Currently licensed in the state of Missouri.
+  
+Other: Employment conditional upon successful completion of cardiac fellowship and cardiac arrhythmia test.
+
+Approved Assignment Details:
+
+Blocked Scheduling
+will need facility approvalMust be willing to work weekends as neededRTO of 5 days or less, must make up the week on the back end
+
+ 
+Any RTO over 5 days would need facility approval
+No assignment details auto approved for length or guaranteed hours Can request facility approval
+If requesting any of the above, it must be listed on Mercy Submission Form
+ General Comments
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 542636
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11770
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 22 2023 11:16:38
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=761626 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Washington ;City=Washington ;State=MO ;Zip=63090 ;Start=10/30/2023;End=1/29/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=Mercy ;Shift=18:30-07:00;# of Postions=3;Type=Travel;BillRate=$90.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Name Wash Cardiac Telemetry 5-RN-Mercy Hospital Washington
+  
+Organization Mercy
+  
+Facility Mercy Hospital Washington
+  
+Unit Telemetry Unit
+  
+Cost Center 15-416090
+
+FLU
+and
+COVID-19:
+
+
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.
+  SHIFT INFO  
+Shift night
+  
+Shifts per week 3
+  
+Hours per shift 12
+
+Hours: 1830- 0700 &amp; every other weekend required
+  EXPERIENCE  
+Years of Experience One Year Plus
+  
+Specialties Cardiac
+Tele
+-
+required
+  CERTIFICATIONS  
+Certifications
+  
+BLS
+-
+required
+ ACLS
+-
+required
+ NIHSS
+-
+required
+  DESCRIPTION  
+Utilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care for the assigned patients. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. 
+  
+Required licensure: Currently licensed in the state of Missouri.
+  
+Other: Employment conditional upon successful completion of cardiac fellowship and cardiac arrhythmia test.
+
+Approved Assignment Details:
+
+Blocked Scheduling
+will need facility approvalMust be willing to work weekends as neededRTO of 5 days or less, must make up the week on the back end
+
+ 
+Any RTO over 5 days would need facility approval
+No assignment details auto approved for length or guaranteed hours Can request facility approval
+If requesting any of the above, it must be listed on Mercy Submission Form
+ General Comments
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/761626;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Mercy Hospital Washington - TRAVEL
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 18:30
+    [subjectID] => 
+)

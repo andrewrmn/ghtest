@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '24',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1590',
+  'Cf-Ray' => '84fbbae417a6494d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 01/24/2019 2100 MSTCerville Exavier					MRI Tec needed. Min 2yrs exp.required. Previous travel experience preferred.  8 Hr. shifts, Mon. - Fri., 11p -7:30a. NM to interview and make offer.https://secure.shiftwise.net/esp/order.aspx?order_id=78D312F71DEB5CC5
+    [sitename] => giftednurses
+    [spec] => MRI
+    [assignmentid] => 49612
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 42.5
+    [facilityID] => 2478
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-02-25
+    [workerLastName] => 
+    [shiftNum] => 3
+    [workerFirstName] => 
+    [cert] => MRI Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => February, 03 2024 10:32:17
+    [daysPerWeek] => 5
+    [orderNote] => Source=ShiftWise;ID=0;SourceID=7961615;Status=Open;Client=AH: Dell Children's Medical Center Allied;City=Austin;State=TX;Start=2/25/2019;End=5/26/2019;Duration=91;Cert=Rad Tech;Specialty=Radiology;Unit=DCMC Imaging Support Services;Shift=NOC 8.00 Hrs;# of Postions=1;Type=Travel;BillRate=$56.40;Description=01/24/2019 2100 MSTCerville ExavierMRI Tec needed. Min 2yrs exp.required. Previous travel experience preferred.  8 Hr. shifts, Mon. - Fri., 11p -7:30a. NM to interview and make offer.https://secure.shiftwise.net/esp/order.aspx?order_id=34273DB35DFAA3DA;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 56.4
+    [facilityName] => Dell Children's Medical Center
+    [shiftDateEnd] => 2019-05-26
+    [shiftStartTime] => 23:00
+    [subjectID] => 
+)

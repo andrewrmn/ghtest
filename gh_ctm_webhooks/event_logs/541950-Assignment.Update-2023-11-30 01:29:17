@@ -1,0 +1,96 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3073',
+  'Cf-Ray' => '82df51889791183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => The Johns Hopkins Hospital- Vascular Access Team
+
+	Day/Evening/night; 7a-7:30p, 11a-11:30p , 7p-7a
+
+	Required: 2 years nursing experience; 1-2 travel assignments;BLS
+
+	Both adult and pediatric experience would be helpful. They must bevery proficientat IV insertions. Ultrasound Guided PIV insertion experience preferred
+
+	Preferred EPIC experience;PICC dressing change and Port accessing.
+
+	Must have excellent adult IV skills;Peds experience preferred
+
+	Prefer : Adult Vascular Access experience or ED is typically the most helpful if no adult vascular access team experience.
+
+	Have current IV placement from working in an ICU, Preop or L  D area please note on cover sheet or profile.
+
+	Knowledge of Hopkins layout is also helpful as they will be walking all over the hospital to provide care.
+
+	EOW; holidays as needed, No availability call
+    [sitename] => giftednurses
+    [spec] => Vascular
+    [assignmentid] => 541950
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1877
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => November, 29 2023 20:29:12
+    [daysPerWeek] => 3
+    [orderNote] => Source=IntrastaffVMS;SourceID=303240 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Johns Hopkins Hospital ;Start=12/4/2023;End=3/2/2024;Duration=89;Cert=MSP RN Enhanced High Needs ;Specialty=Vascular Access Team  (4801357440) ;Unit=Vascular Access Team  (4801357440) ;Shift=Day 12 (11:00 AM - 11:00 PM);# of Postions=1;Type=Travel;BillRate=$80.00;minBillRate=$80.00;Description=The Johns Hopkins Hospital- Vascular Access Team
+
+	Day/Evening/night; 7a-7:30p, 11a-11:30p , 7p-7a
+
+	Required: 2 years nursing experience; 1-2 travel assignments;BLS
+
+	Both adult and pediatric experience would be helpful. They must bevery proficientat IV insertions. Ultrasound Guided PIV insertion experience preferred
+
+	Preferred EPIC experience;PICC dressing change and Port accessing.
+
+	Must have excellent adult IV skills;Peds experience preferred
+
+	Prefer : Adult Vascular Access experience or ED is typically the most helpful if no adult vascular access team experience.
+
+	Have current IV placement from working in an ICU, Preop or L  D area please note on cover sheet or profile.
+
+	Knowledge of Hopkins layout is also helpful as they will be walking all over the hospital to provide care.
+
+	EOW; holidays as needed, No availability call ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=9qHSuCcspzc=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => The Johns Hopkins Hospital TRAVEL
+    [shiftDateEnd] => 2024-03-15
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

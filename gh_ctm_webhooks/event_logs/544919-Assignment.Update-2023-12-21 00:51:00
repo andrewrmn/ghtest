@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4530',
+  'Cf-Ray' => '838c225166f21838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Traveler s permanent residence must be 100 miles or   from the hospital s service area.General orientation will begin on Sundays. Sunday will be online CBLs. I can start the traveler any Sunday that you can complete the compliance documents by the deadline. Please include in the confirmation: 16 hours of nonbillable orientation. Hospital can cancel/call off one shift biweekly without a financial penalty from the employed 36/36 or 36/48 schedule (use whichever is appropriate for the employment agreement) if there is a decrease in census. Additional shifts picked up above the work commitment as additional overtime shifts will be flexed as needed for hospital census decrease/decreased resource need without penalty. Contract RN/LPN team members are expected to actively participate in nursing student support and clinical education as we prepare future nurses for the profession. The clinical nursing student education responsibility is expected in addition to/alongside the provision of clinical care practice in every nursing specialty at Ballad Health.   Additional Information:Radius Rule is 100 miles to qualify as a traveler. Do not submit candidates that live within 100 miles of the facility. Please include, profile, skills checklist, and the following items:   1. Legal full name and last 4 digits of SS # 2. Copy of Driver s License with permanent address  3. Nursing License - # and state of issue 4. Copy of utility bill with candidates name and permanent address  Please put all into one PDF.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 544919
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3767
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-14
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 20 2023 19:50:55
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=259515 ;Status=Open;Association=Ballad Health ;Client=Bristol Regional Medical Center ;City=Bristol ;State=TN ;Zip=37620 ;Start=12/17/2023;End=3/17/2024;Duration=91;Cert=Nursing ;Specialty=Registered Nurse ;Unit=Registered Nurse ;Shift=Nights 7pm - 7am; 36/48 schedule;# of Postions=8;Guaranteed Hours=36;Type=Travel;BillRate=$75.00;OTRate=85 ;OTRules=By The Week, after 48, ;CallbackRate=85 (All Inclusive Rate + $10) ;HolidayRate=85 (All Inclusive Rate + $10) ;OnCallRateDescription=$7 per hour pager ;Orientation=16 ;Description=Traveler s permanent residence must be 100 miles or   from the hospital s service area.General orientation will begin on Sundays. Sunday will be online CBLs. I can start the traveler any Sunday that you can complete the compliance documents by the deadline. Please include in the confirmation: 16 hours of nonbillable orientation. Hospital can cancel/call off one shift biweekly without a financial penalty from the employed 36/36 or 36/48 schedule (use whichever is appropriate for the employment agreement) if there is a decrease in census. Additional shifts picked up above the work commitment as additional overtime shifts will be flexed as needed for hospital census decrease/decreased resource need without penalty. Contract RN/LPN team members are expected to actively participate in nursing student support and clinical education as we prepare future nurses for the profession. The clinical nursing student education responsibility is expected in addition to/alongside the provision of clinical care practice in every nursing specialty at Ballad Health.   Additional Information:Radius Rule is 100 miles to qualify as a traveler. Do not submit candidates that live within 100 miles of the facility. Please include, profile, skills checklist, and the following items:   1. Legal full name and last 4 digits of SS # 2. Copy of Driver s License with permanent address  3. Nursing License - # and state of issue 4. Copy of utility bill with candidates name and permanent address  Please put all into one PDF.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/259515;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Bristol Regional Medical Center TRAVEL
+    [shiftDateEnd] => 2024-04-14
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,84 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1707',
+  'Cf-Ray' => '8317bc62f7196a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => ICU Nurse
+
+	Ability to float to SCU and 3P (stepdown, Tele)
+
+	Every Other Weekend
+
+	Holiday as Needed
+
+	Required: ACLS and BLS
+
+	No ON-CALL
+
+	NO Local Travelers for this assignment
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 545402
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2907
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => December, 06 2023 16:48:50
+    [daysPerWeek] => 3
+    [orderNote] => Source=IntrastaffVMS;SourceID=304988 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Howard CNTY General Hospital ;Start=12/18/2023;End=3/16/2024;Duration=89;Cert=MSP RN Enhanced High Needs ;Specialty=3 C ICU (6407235000) ;Unit=3 C ICU (6407235000) ;Shift=Night 12 (7:00 PM - 7:30 AM);# of Postions=1;Type=Travel;BillRate=$105.00;minBillRate=$105.00;Description=ICU Nurse
+
+	Ability to float to SCU and 3P (stepdown, Tele)
+
+	Every Other Weekend
+
+	Holiday as Needed
+
+	Required: ACLS and BLS
+
+	No ON-CALL
+
+	NO Local Travelers for this assignment ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=lU5vFh1GPmE=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => JHHS Howard County General Hospital
+    [shiftDateEnd] => 2024-03-22
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

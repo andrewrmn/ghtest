@@ -1,0 +1,197 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '27',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4287',
+  'Cf-Ray' => '83be7c1ff66b4959-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL ULTRASOUND TECH13 WEEKSNIGHTS
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE NH LICENSE
+BLS REQUIRED
+ General CommentsUnit Information: The Breast Center
+
+Location: Portsmouth Regional Hospital
+
+Address: 155 Borthwick Ave. Ste. 101, Portsmouth, NH 03801
+
+Floor:1st floor
+
+Building: West
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds -naNumber of Staff   12Type of staff:Day Shift   4 techs from 7 am-530pmWed
+ 5 techs from 8am-7pm eveningsPatient Ratios   Type of equipment   Hologic Selenia dimesnsions 3DEMR   Meditech
+
+ pen rad
+ 
+
+
+
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+
+Mammography Registration (M) for 2 years
+Able to do diagnostic and screening mammography 
+
+
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+Bone Density 
+experienceBreast biopsy experience
+
+
+
+List typical procedures performed on unit(s): 
+
+Screening , Diagnostic , breast biopsy with affirmSavi scout placement 
+
+
+
+REQUIRED CERTIFICATIONS:
+ARRT(R)(M)NH State License
+Floating Area(s):
+none
+Dress Code: 
+Scrub Color/Attire -
+ scrubs
+
+
+
+Weekends and On call:
+1 Saturday rotation 730am-1130am
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Ultrasound Tech
+    [assignmentid] => 543791
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => Ultrasound Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 26 2023 22:30:25
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=766817 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=PORTSMOUTH REGIONAL HOSPITAL NH ;City=PORTSMOUTH ;State=NH ;Zip='03801 ;Start=11/12/2023;End=2/11/2024;Duration=91;Cert=Ultrasound Tech/Sonographer ;Specialty=Radiology ;Unit=CAPITAL DIVISION (20) ;Shift=NIGHTS;# of Postions=1;Type=Travel;BillRate=$85.00;OTRate=93 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL ULTRASOUND TECH13 WEEKSNIGHTS
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE NH LICENSE
+BLS REQUIRED
+ General CommentsUnit Information: The Breast Center
+
+Location: Portsmouth Regional Hospital
+
+Address: 155 Borthwick Ave. Ste. 101, Portsmouth, NH 03801
+
+Floor:1st floor
+
+Building: West
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds -naNumber of Staff   12Type of staff:Day Shift   4 techs from 7 am-530pmWed
+ 5 techs from 8am-7pm eveningsPatient Ratios   Type of equipment   Hologic Selenia dimesnsions 3DEMR   Meditech
+
+ pen rad
+ 
+
+
+
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+
+Mammography Registration (M) for 2 years
+Able to do diagnostic and screening mammography 
+
+
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+Bone Density 
+experienceBreast biopsy experience
+
+
+
+List typical procedures performed on unit(s): 
+
+Screening , Diagnostic , breast biopsy with affirmSavi scout placement 
+
+
+
+REQUIRED CERTIFICATIONS:
+ARRT(R)(M)NH State License
+Floating Area(s):
+none
+Dress Code: 
+Scrub Color/Attire -
+ scrubs
+
+
+
+Weekends and On call:
+1 Saturday rotation 730am-1130am
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/766817;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Portsmouth Regional Hospital
+    [shiftDateEnd] => 2024-04-07
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

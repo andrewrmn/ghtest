@@ -1,0 +1,157 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '26',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5713',
+  'Cf-Ray' => '828d7154e1584955-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:ASAP START
+BILL RATE $75.00
+SHIFT- DAYS 8-4:30 - MON-FRI - FULLTIME
+CALL REQUIRED
+
+REQUIREMENTS
+MUST HAVE XRAY LICENSE
+BLS
+MUST INCLUDE THE HOME ADDRESS ON THE SUBMISSION
+MUST BE AT LEAST 50 MILES FROM THE FACILITY
+
+The CT Technologist is a graduate of an accredited AMA school and registered with the American Registry of Radiologic Technology (ARRT).  The CT Technologist is licensed by the state as a general radiographer and  is responsible for providing timely diagnostic services to both inpatient and outpatients under the direction of a Radiologist and departmental protocols. Responsibilities include but are not limited to the performance of basic radiographic procedures, fluoroscopy, portable radiographic procedures, C-arm procedures, and OR imaging services.  The CT Technologist demonstrates proficiency at routine diagnostic CT Scanning procedures including but not limited to CT of head/brain, neck, thorax, spine, abdomen/pelvis extremities and biopsy/drainage procedures.  Responsibilities also include: knowledge of processing of CT system, surgical/sterile procedure, studies with or without contrast media and cross sectional anatomy.
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location:
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 536264
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 9698
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 16:30
+    [whenmodified] => November, 19 2023 22:00:25
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=766161 ;Status=Open;Association=Community Health Systems ;Client=Northwest Health Physicians Specialty Hospital ;City=Fayetteville ;State=AR ;Zip=72703 ;Start=10/30/2023;End=1/29/2024;Duration=91;Cert=CT Tech ;Specialty=Radiology ;Unit=EXT-Other (911) ;Shift=8-4:30;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:ASAP START
+BILL RATE $75.00
+SHIFT- DAYS 8-4:30 - MON-FRI - FULLTIME
+CALL REQUIRED
+
+REQUIREMENTS
+MUST HAVE XRAY LICENSE
+BLS
+MUST INCLUDE THE HOME ADDRESS ON THE SUBMISSION
+MUST BE AT LEAST 50 MILES FROM THE FACILITY
+
+The CT Technologist is a graduate of an accredited AMA school and registered with the American Registry of Radiologic Technology (ARRT).  The CT Technologist is licensed by the state as a general radiographer and  is responsible for providing timely diagnostic services to both inpatient and outpatients under the direction of a Radiologist and departmental protocols. Responsibilities include but are not limited to the performance of basic radiographic procedures, fluoroscopy, portable radiographic procedures, C-arm procedures, and OR imaging services.  The CT Technologist demonstrates proficiency at routine diagnostic CT Scanning procedures including but not limited to CT of head/brain, neck, thorax, spine, abdomen/pelvis extremities and biopsy/drainage procedures.  Responsibilities also include: knowledge of processing of CT system, surgical/sterile procedure, studies with or without contrast media and cross sectional anatomy.
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location: ;url=https://vendor.healthtrustws.com/positions/766161;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Northwest Health Physicians' Specialty Hospital - CHS
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 08:30
+    [subjectID] => 
+)

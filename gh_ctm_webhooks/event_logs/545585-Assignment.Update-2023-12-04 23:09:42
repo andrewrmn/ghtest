@@ -1,0 +1,86 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3102',
+  'Cf-Ray' => '8307b7ed34744951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Unit: Vascular - Mercy Hospital Springfield
+Specialty: Cath Lab/Vascular Radiology Technologist (THIS IS NOT AN XRAY TECH POSITION)Shift: Days,
+4x10, 0630-1700
+(hours may vary), with rotational Weeknight/Weekend/Holiday call
+Guaranteed Hours: 36
+
+Assignment Length: 13 weeksRequired Certifications:
+Radiology Technologist
+Required Experience:
+2 years Radiology Tech/Interventional VascularMust be willing to float when neededMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsQualifications: Interventional VascularCertifications: Radiology Technologist
+Job Summary: Assist with Vascular Surgeon in OR and Hybrid Imaging suite. Work with a team of nurses and surgical techs for Endo and Open cases. Must have experience in a sterile environment working in an OR setting.
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Vascular
+    [assignmentid] => 545585
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13126
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Ultrasound Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 04 2023 18:09:28
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=776163 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Springfield ;City=Springfield ;State=MO ;Zip=65804 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Vascular Tech ;Specialty=Vascular Medicine ;Unit=Mercy ;Shift=06:30-17:00;# of Postions=1;Type=Travel;BillRate=$95.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Unit: Vascular - Mercy Hospital Springfield
+Specialty: Cath Lab/Vascular Radiology Technologist (THIS IS NOT AN XRAY TECH POSITION)Shift: Days,
+4x10, 0630-1700
+(hours may vary), with rotational Weeknight/Weekend/Holiday call
+Guaranteed Hours: 36
+
+Assignment Length: 13 weeksRequired Certifications:
+Radiology Technologist
+Required Experience:
+2 years Radiology Tech/Interventional VascularMust be willing to float when neededMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsQualifications: Interventional VascularCertifications: Radiology Technologist
+Job Summary: Assist with Vascular Surgeon in OR and Hybrid Imaging suite. Work with a team of nurses and surgical techs for Endo and Open cases. Must have experience in a sterile environment working in an OR setting.
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/776163;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Mercy Hospital Springfield TRAVEL
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 06:30
+    [subjectID] => 
+)

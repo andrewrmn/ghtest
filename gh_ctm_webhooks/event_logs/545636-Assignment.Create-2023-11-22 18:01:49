@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '906',
+  'Cf-Ray' => '82a31474516f23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 545636
+    [workerID] => 46953
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 36
+    [facilityID] => 13882
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-14
+    [workerLastName] => Ceaser
+    [shiftNum] => 5
+    [workerFirstName] => Ashley
+    [cert] => RN
+    [floorDesc] => Float
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 22 2023 13:01:48
+    [daysPerWeek] => 3
+    [orderNote] => FTK:Vaya/SignCorrectionReq
+Chrg:P$2.50/B$5-OnCl:P$4/B$7
+Ornt:$22/NB:16hr
+BR:$70
+    [guaranteedMinimum] => 
+    [workerEmail] => ashley.ceaser@selu.edu
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => East Jefferson General Hospital VAYA
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

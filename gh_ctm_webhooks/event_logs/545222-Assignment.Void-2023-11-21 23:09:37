@@ -1,0 +1,133 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5016',
+  'Cf-Ray' => '829c99efb730183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Patient Population:
+Malignant Hematology/BMT
+Oncology 
+Bone Marrow Biopsy
+Central Line Management
+Blood and Bone Marrow Transplants
+
+Unit Info:
+Beds: 16
+Patient Ratios: Patient Ratios 1:4 (Float: No)
+Required Certs: BLS | ONS/ONCC | CHEMO | ACLS | CPI 
+1 Year Min Experience Required (Prefer 2yrs experience)
+Meditech Exp Preferred
+Please note that we may still have Covid-19 patients and all nurses are expected to be able to take care of any isolation patient. Please know your N95 Mask size.
+ 
+Schedule Requirements:
+Weekend Requirements: may be required every other weekend. unit needs vary throughout the week. Weekends are Days: Sat and Sunday only.  Nights:  Friday, Sat and Sunday
+NO BLOCKED SCHEDULING 
+RTO: <5 Days Total (All RTO is approved by unit manager)
+
+Required Skills:
+Administer Chemo
+Telemetry (Preferred) 
+
+Other Notes:
+Scrubs: Teal/White Combo 
+Parking: one-time $40 fee
+Locals: 75 Miles > $10 less than the base rate 
+
+
+ Modified Time:12/18/2023 12:00:00 AM
+ Account Manager: Chad Samuel
+ Account Manager Email: csamuel@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Med
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel.FLOAT REQUIREMENT   Everyone floats. If clinicians are floated to a unit outside their specialty, they will only be assigned lower acuity patients within their skillset. ICU will float down with lower patient ratios.
+    [sitename] => giftednurses
+    [spec] => BMT
+    [assignmentid] => 545222
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 16204
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 21 2023 18:09:35
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2290098 ;Status=Open;Association=Vaya Legacy MSP (Connect) ;Client=Tulane Medical Center ;City=New Orleans ;State=LA ;Zip=70112 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Registered Nurse ;Specialty=BMT ;Unit=BMT RN | 6 East Bone Marrow | 69474 ;Shift=Night 4x12-Hour (19:00 - 07:30);# of Postions=1;Type=Travel;BillRate=$100.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Patient Population:
+Malignant Hematology/BMT
+Oncology 
+Bone Marrow Biopsy
+Central Line Management
+Blood and Bone Marrow Transplants
+
+Unit Info:
+Beds: 16
+Patient Ratios: Patient Ratios 1:4 (Float: No)
+Required Certs: BLS | ONS/ONCC | CHEMO | ACLS | CPI 
+1 Year Min Experience Required (Prefer 2yrs experience)
+Meditech Exp Preferred
+Please note that we may still have Covid-19 patients and all nurses are expected to be able to take care of any isolation patient. Please know your N95 Mask size.
+ 
+Schedule Requirements:
+Weekend Requirements: may be required every other weekend. unit needs vary throughout the week. Weekends are Days: Sat and Sunday only.  Nights:  Friday, Sat and Sunday
+NO BLOCKED SCHEDULING 
+RTO: <5 Days Total (All RTO is approved by unit manager)
+
+Required Skills:
+Administer Chemo
+Telemetry (Preferred) 
+
+Other Notes:
+Scrubs: Teal/White Combo 
+Parking: one-time $40 fee
+Locals: 75 Miles > $10 less than the base rate 
+
+
+ Modified Time:12/18/2023 12:00:00 AM
+ Account Manager: Chad Samuel
+ Account Manager Email: csamuel@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Med
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel.FLOAT REQUIREMENT   Everyone floats. If clinicians are floated to a unit outside their specialty, they will only be assigned lower acuity patients within their skillset. ICU will float down with lower patient ratios. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2290098/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Tulane Medical Center-Travel
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,94 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7420',
+  'Cf-Ray' => '844168e5e5c077bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => A.	Assesses patient s physical, psychosocial, environmental, spiritual, social and education needs.
+B.	Develops and implements patient s plan of care, including the discharge plan based on standards of nursing practice, health center policy, and patient/family needs. Reviews and updates the plan of care based on changes in patient s condition.
+C.	Evaluates and documents patient/family responses to nursing interventions while working collaboratively with the interdisciplinary team to achieve desired patient care outcomes.
+D.	Provides or facilitates learning opportunities to meet the educational needs of patient/family by assessing the learning needs and formulating and initiating a teaching plan to meet those needs.
+E.	Guides and directs patient care activities for the above-indicated population, by utilizing clinical/critical thinking skills.
+F.	Effectively communicates pertinent patient changes/conditions to coworkers and to multidisciplinary caregivers.
+G.	Serves as a steward for the hospital s human and material resources. Meets productivity expectations of unit/department as defined by unit manager.
+H.	Adapts positively to the ever changing health care environment by supporting technology and process changes. Willing to learn new things, is open to change and maintains a calm, positive manner under stressful conditions.
+I.	Identifies and takes action to solve problems, supports process improvement teams, which influence customer satisfaction, clinical outcomes and financial stability.
+J.	Documents patient information in the electronic/paper medical record in an accurate, timely manner.
+K.	Delegates/supervises appropriately based on patient needs and the scope of practice.
+L.	Provides competent patient care to the above indicated patient populations by obtaining and appropriately interpreting data, making appropriate decisions based on demonstrated knowledge of age-specific growth and development, and appropriately adapting procedures and treatments.
+M.	Maintains required department confidentiality and abides by HIPPA regulations.
+N.	Provides competent patient care to the above indicated patient populations by obtaining and appropriately interpreting data, making appropriate decisions based on demonstrated knowledge of age-specific growth and development, and appropriately adapting procedures and treatments.
+O.	Takes an active role in enhancing ability to carry out job functions through personal and professional/job-related growth and development, and participates in medical center and/or departmental education programs.
+P.	Communicates with and performs duties following the philosophy of MercyOne Medical Center   North Iowa and the Sisters of Mercy reflecting the organization s Mission, Values, and Guiding Behaviors.
+Q.	Supports and abides by all medical center, departmental, and safety policies and procedures.  Proactively identifies safety concerns surrounding the work environment. 
+R.	Performs other responsibilities as requested by supervisor, manager or department head.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545257
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12691
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-21
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 11 2024 19:51:12
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48563 ;Status=In-Progress (O);Association=Trinity Health ;Client=IA - MercyOne North Iowa Medical Center ;City=Mason City ;State=IA ;Zip=50401 ;Start=1/21/2024;End=4/20/2024;Duration=90;Cert=RN Medical / Surgical ;Specialty=Skilled Nursing Facilities ;Unit=*Registered Nurse- Acute Rehab ;Shift=7a-7p;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=117.00 ;ChargeRate=93.00 ;CallbackRate=117.00 ;HolidayRate=117.00 ;Description=A.	Assesses patient s physical, psychosocial, environmental, spiritual, social and education needs.
+B.	Develops and implements patient s plan of care, including the discharge plan based on standards of nursing practice, health center policy, and patient/family needs. Reviews and updates the plan of care based on changes in patient s condition.
+C.	Evaluates and documents patient/family responses to nursing interventions while working collaboratively with the interdisciplinary team to achieve desired patient care outcomes.
+D.	Provides or facilitates learning opportunities to meet the educational needs of patient/family by assessing the learning needs and formulating and initiating a teaching plan to meet those needs.
+E.	Guides and directs patient care activities for the above-indicated population, by utilizing clinical/critical thinking skills.
+F.	Effectively communicates pertinent patient changes/conditions to coworkers and to multidisciplinary caregivers.
+G.	Serves as a steward for the hospital s human and material resources. Meets productivity expectations of unit/department as defined by unit manager.
+H.	Adapts positively to the ever changing health care environment by supporting technology and process changes. Willing to learn new things, is open to change and maintains a calm, positive manner under stressful conditions.
+I.	Identifies and takes action to solve problems, supports process improvement teams, which influence customer satisfaction, clinical outcomes and financial stability.
+J.	Documents patient information in the electronic/paper medical record in an accurate, timely manner.
+K.	Delegates/supervises appropriately based on patient needs and the scope of practice.
+L.	Provides competent patient care to the above indicated patient populations by obtaining and appropriately interpreting data, making appropriate decisions based on demonstrated knowledge of age-specific growth and development, and appropriately adapting procedures and treatments.
+M.	Maintains required department confidentiality and abides by HIPPA regulations.
+N.	Provides competent patient care to the above indicated patient populations by obtaining and appropriately interpreting data, making appropriate decisions based on demonstrated knowledge of age-specific growth and development, and appropriately adapting procedures and treatments.
+O.	Takes an active role in enhancing ability to carry out job functions through personal and professional/job-related growth and development, and participates in medical center and/or departmental education programs.
+P.	Communicates with and performs duties following the philosophy of MercyOne Medical Center   North Iowa and the Sisters of Mercy reflecting the organization s Mission, Values, and Guiding Behaviors.
+Q.	Supports and abides by all medical center, departmental, and safety policies and procedures.  Proactively identifies safety concerns surrounding the work environment. 
+R.	Performs other responsibilities as requested by supervisor, manager or department head. ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Mercy Medical Center - North Iowa East Travel
+    [shiftDateEnd] => 2024-04-20
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

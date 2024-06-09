@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2680',
+  'Cf-Ray' => '84ca3fe5733e1834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 09/02/2021 1733 EDTTricia Wichtoski
+                            
+                            
+                                clinic nurses for hematology oncology providers, experience with the ambulatory oncology version of cerner which is different than what is used on the inpatient side - plus clinic experience - so they are familiar with clinic process and procedures. M-F 0800-1630, no call, no nights, no weekends, no ministry holidays. 	preferred previous hematology oncology experience, chemotherapy/bio therapy certified preferred but we can help with that if not.
+ RatePlan:AH-Covid 19 RN rates (8-25-2021)
+    [sitename] => giftednurses
+    [spec] => Oncol
+    [assignmentid] => 280978
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13445
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-09-27
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => January, 28 2024 10:25:06
+    [daysPerWeek] => 5
+    [orderNote] => Source=ShiftWise;SourceID=9436811 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH:  Seton Specialty Care Clinic ;City=Austin ;State=TX ;Zip=78705 ;Start=9/27/2021;End=12/27/2021;Duration=92;Cert=RN ;Specialty=Oncology ;Unit=Infusion Services ;Shift=AM 8.00 Hrs;# of Postions=1;Type=Travel;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=09/02/2021 1733 EDTTricia Wichtoski
+                            
+                            
+                                clinic nurses for hematology oncology providers, experience with the ambulatory oncology version of cerner which is different than what is used on the inpatient side - plus clinic experience - so they are familiar with clinic process and procedures. M-F 0800-1630, no call, no nights, no weekends, no ministry holidays. 	preferred previous hematology oncology experience, chemotherapy/bio therapy certified preferred but we can help with that if not.
+ RatePlan:AH-Covid 19 RN rates (8-25-2021) ;url=https://automated.shiftwise.net/esp/order.aspx?order_id=6AAB42C0B0D8C046D2BE018CE4A10DAF;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => Ascension Seton Medical Center Austin
+    [shiftDateEnd] => 2021-12-27
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

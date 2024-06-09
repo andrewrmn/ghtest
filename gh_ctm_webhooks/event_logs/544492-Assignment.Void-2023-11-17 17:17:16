@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4507',
+  'Cf-Ray' => '8279a04f34561836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => PLEASE READ BELOW:  Agency will invoice the hourly rate for all 12 hours.  Any hours worked in excess of 12 hours per day will be invoiced at 1.5x   Additional Information:OVERTIME & BILLING RULES: Billing Cycle is weekly. Any missed meals and breaks must be pre-approved by Supervisor prior to missing and will be paid with proof of approval. Overtime Policy: The overtime rate for any hours worked in excess of 40 hours/week shall be billable at the Regular Hourly Rate plus $10/hr. The holiday rate shall be defined as the Regular Hourly Rate plus $10/hr. The on-call rate shall be defined in the Job Posting. Note: For any 10-hour or 12-hour shifts, the Agency is to invoice MMH the All-Inclusive Rate for the entire shift. There is no elevated billing allowed for hours 9, 10, 11 & 12. Housing can be somewhat difficult to find. The facility prefers credentialing be sent in one batch. It is acceptable and encouraged to provide updates but please send compliance all at the same time once completed. Housing options in King City:1) Keefer s Inn   King City 615 Canal Street (831) 385-4843 (Good for 2-4 weeks until an apartment is found)2) Greenfield Village Apartments (in nearby Greenfield) 104 S. El Camino Real (831) 674-9298 BILLING PROCESS: Agency will invoice MMH directly for temp staff. Invoices shall be sent to: Luz Argueta in Finance largueta@meememorial.com. Defined workweek begins Monday at 12:01am and ends the following Sunday at 11:59pm. UPDATED 10/1/2015   Position Urgency:Rapid Response Crisis Billing string = Mee Memorial Hospital
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 544492
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 8366
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-15
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 17 2023 12:17:15
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261731 ;Status=Open;Association=Mee Memorial Hospital ;Client=Mee Memorial Hospital ;City=King City ;State=CA ;Zip=93930 ;Start=1/15/2024;End=4/15/2024;Duration=91;Cert=Nursing ;Specialty=Emergency Room Nurse ;Unit=Emergency Room Nurse ;Shift=Nights ;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$110.00;OTRate=120 ;OTRules=By The Week, after 40, ;CallbackRate=120 (All Inclusive Rate + $10) ;HolidayRate=120 (All Inclusive Rate + $10) ;OnCallRateDescription=$6 per hour pager ;Description=PLEASE READ BELOW:  Agency will invoice the hourly rate for all 12 hours.  Any hours worked in excess of 12 hours per day will be invoiced at 1.5x   Additional Information:OVERTIME & BILLING RULES: Billing Cycle is weekly. Any missed meals and breaks must be pre-approved by Supervisor prior to missing and will be paid with proof of approval. Overtime Policy: The overtime rate for any hours worked in excess of 40 hours/week shall be billable at the Regular Hourly Rate plus $10/hr. The holiday rate shall be defined as the Regular Hourly Rate plus $10/hr. The on-call rate shall be defined in the Job Posting. Note: For any 10-hour or 12-hour shifts, the Agency is to invoice MMH the All-Inclusive Rate for the entire shift. There is no elevated billing allowed for hours 9, 10, 11 & 12. Housing can be somewhat difficult to find. The facility prefers credentialing be sent in one batch. It is acceptable and encouraged to provide updates but please send compliance all at the same time once completed. Housing options in King City:1) Keefer s Inn   King City 615 Canal Street (831) 385-4843 (Good for 2-4 weeks until an apartment is found)2) Greenfield Village Apartments (in nearby Greenfield) 104 S. El Camino Real (831) 674-9298 BILLING PROCESS: Agency will invoice MMH directly for temp staff. Invoices shall be sent to: Luz Argueta in Finance largueta@meememorial.com. Defined workweek begins Monday at 12:01am and ends the following Sunday at 11:59pm. UPDATED 10/1/2015   Position Urgency:Rapid Response Crisis Billing string = Mee Memorial Hospital ;url=https://vms.medefis5.com/jobs/261731;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 110
+    [facilityName] => Mee Memorial Hospital
+    [shiftDateEnd] => 2024-04-15
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

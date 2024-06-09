@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2785',
+  'Cf-Ray' => '827cbba89609183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	 	A hidden gem--our family oriented acute care unit at Oelwein Medical Center keeps our patients to close to home while providing exceptional care! Common admissions are for acute medical diagnosis and skilled rehab nursing care. We welcome new grads and experienced nurses to join us in Oelwein!
+ 
+Through evidence-based practice, the RN utilizes critical thinking to assess, plan, implement and evaluate outcome based care of patients. The RN supervises and coordinates care provided to patients by the LPN, Patient Care Assistants and other nursing team members. The RN facilitates communication with physicians, patient and family, other departments and/or team members.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 537646
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12710
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-26
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 17 2023 21:20:13
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=47582 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne Oelwein Medical Center ;City=Oelwein ;State=IA ;Zip=50662 ;Start=11/26/2023;End=2/24/2024;Duration=90;Cert=RN Medical / Surgical ;Specialty=Medical Surgical ;Unit=*Registered Nurse-Med Surg-Medical Surgical ;Shift=06:00:00 - 18:30:00;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=117.00 ;ChargeRate=93.00 ;CallbackRate=117.00 ;HolidayRate=117.00 ;Description=. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	 	A hidden gem--our family oriented acute care unit at Oelwein Medical Center keeps our patients to close to home while providing exceptional care! Common admissions are for acute medical diagnosis and skilled rehab nursing care. We welcome new grads and experienced nurses to join us in Oelwein!
+ 
+Through evidence-based practice, the RN utilizes critical thinking to assess, plan, implement and evaluate outcome based care of patients. The RN supervises and coordinates care provided to patients by the LPN, Patient Care Assistants and other nursing team members. The RN facilitates communication with physicians, patient and family, other departments and/or team members. ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => MercyOne Oelwein Medical Center TRAVEL
+    [shiftDateEnd] => 2024-02-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

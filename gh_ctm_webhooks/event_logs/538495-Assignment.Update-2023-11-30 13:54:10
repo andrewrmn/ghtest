@@ -1,0 +1,78 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '29',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2066',
+  'Cf-Ray' => '82e394ad42b64961-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 10/18/2023 0748 CDTMcHugh Misty-Lynn
+                            
+                            
+                                Cath lab tech minimum two years experience as a travel cath lab tech
+4-10 hour days - Call 1-3 nights a week and 2 weekends per 6 weeks
+BLS
+EPIC
+Bill rate $115
+ RatePlan: 
+Group Order: 0 of 2 Filled
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 538495
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3433
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Cath Lab Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 30 2023 08:54:09
+    [daysPerWeek] => 4
+    [orderNote] => Source=ShiftWise;SourceID=10612424 ;Status=Open;Association=Baptist Memorial Health Care ;Client=Memphis ;City=Memphis ;State=TN ;Zip=38120 ;Start=11/6/2023;End=2/5/2024;Duration=92;Cert=Technician ;Specialty=Cardiac Cath Lab ;Unit=Cath Lab ;Shift=AM 10.00 Hrs;# of Postions=2;Type=Travel;BillRate=$115.00;OTRate=Multiplier 1.000 ;OTRules=Multiplier 1.000 ;CallbackRate=Multiplier 1.000 ;Orientation=Flat 0.000 ;Description=10/18/2023 0748 CDTMcHugh Misty-Lynn
+                            
+                            
+                                Cath lab tech minimum two years experience as a travel cath lab tech
+4-10 hour days - Call 1-3 nights a week and 2 weekends per 6 weeks
+BLS
+EPIC
+Bill rate $115
+ RatePlan: 
+Group Order: 0 of 2 Filled ;url=https://secure.shiftwise.net/esp/order.aspx?order_id=32F7706B56D6F1C7E9374E71A217E866;minPayRate=$115.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 115
+    [facilityName] => Baptist Memorial Hospital - Memphis Travel
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

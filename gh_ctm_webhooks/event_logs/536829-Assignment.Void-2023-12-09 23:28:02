@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5975',
+  'Cf-Ray' => '833105b065791836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Children's Hospital of Richmond opened a newly renovated facility May 2023. This position is located there.**VA Child Protective Services Background Check and FBI fingerprinting required for any traveler working in Pediatrics or the Child Care Center, as well as PEDS/Adult Psych and PEDS Emergency Department**. Youmusthave the ability to run FBI fingerprints on your candidates. VCU will not be giving out their facility code. Thank youAcute Care Pediatrics RN (ACP 10)-Now interviewing for Winter start dates (Late November to January starts)-Acute Care Pediatrics is a general medical surgical unit with 49 bed unit comprising of private and semi private rooms. It incorporates 7 progressive level of care beds. The patient population consists of hematology-oncology, pulmonary, nephrology, general surgery with subspecialties. -Pediatric med/surg/stepdown nurses (vent experience a plus)-Looking for chemo/BMT experience please.APHON chemo experience is a plus but not a requirement.-Must have at least 1.5 years of pediatric experience at major medical centers/large teaching facilities.-Advanced PEDS experience/progressive level of care required.-CPR  PEARS or PALS required-The ratio is 1:2-3 nurse/patient ratio with the progressive level of care patients and 1:3-4 for the general level of care patients.-3x12-hour shifts per week-Straight nights or rotating 50/50 shifts available-Every other weekend.-Can offer block scheduling-Holidays per unit needs-No on call.-Can be reassigned within the division (general care pediatrics, NICU, Newborn nursery, Burn unit, Epilepsy Monitoring Unit, Bone Marrow Transplant Unit).-Dress code:Ceil blue or white pants. Scrub tops can be plain ceil blue or white or have a ceil blue or white background with a print. The Background of printed tops should match the pants. ie. Printed shirt with ceil blue background worn with ceil blue pants.Prints should be kid friendly.   Additional Information:Orientation: The first 16 hours of orientation are unpaid. Call Off Policy: 5 shifts (or the equivalent hours) per 13 week assignment.  Parking: Travelers may need to  pay for parking at VCU depending on how close they want to be to the hospital.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 536829
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1675
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 09 2023 18:27:54
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=258248 ;Status=Open;Association=VCU Health ;Client=Children s Hospital of Richmond Pavilion ;City=Richmond ;State=VA ;Zip=23219 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Nursing ;Specialty=Pediatric, PCU, Med-surg Peds, Step Down, BMT, Oncology Nurse ;Unit=Pediatric, PCU, Med-surg Peds, Step Down, BMT, Oncology Nurse ;Shift=Nights or rotating;# of Postions=5;Guaranteed Hours=36;Type=Travel;BillRate=$95.00;OTRate=105 ;OTRules=By The Week, after 40, ;CallbackRate=95 (All Inclusive Rate) ;HolidayRate=95 (All Inclusive Rate) ;OnCallRateDescription=$10 per hour pager ;Description=Children's Hospital of Richmond opened a newly renovated facility May 2023. This position is located there.**VA Child Protective Services Background Check and FBI fingerprinting required for any traveler working in Pediatrics or the Child Care Center, as well as PEDS/Adult Psych and PEDS Emergency Department**. Youmusthave the ability to run FBI fingerprints on your candidates. VCU will not be giving out their facility code. Thank youAcute Care Pediatrics RN (ACP 10)-Now interviewing for Winter start dates (Late November to January starts)-Acute Care Pediatrics is a general medical surgical unit with 49 bed unit comprising of private and semi private rooms. It incorporates 7 progressive level of care beds. The patient population consists of hematology-oncology, pulmonary, nephrology, general surgery with subspecialties. -Pediatric med/surg/stepdown nurses (vent experience a plus)-Looking for chemo/BMT experience please.APHON chemo experience is a plus but not a requirement.-Must have at least 1.5 years of pediatric experience at major medical centers/large teaching facilities.-Advanced PEDS experience/progressive level of care required.-CPR  PEARS or PALS required-The ratio is 1:2-3 nurse/patient ratio with the progressive level of care patients and 1:3-4 for the general level of care patients.-3x12-hour shifts per week-Straight nights or rotating 50/50 shifts available-Every other weekend.-Can offer block scheduling-Holidays per unit needs-No on call.-Can be reassigned within the division (general care pediatrics, NICU, Newborn nursery, Burn unit, Epilepsy Monitoring Unit, Bone Marrow Transplant Unit).-Dress code:Ceil blue or white pants. Scrub tops can be plain ceil blue or white or have a ceil blue or white background with a print. The Background of printed tops should match the pants. ie. Printed shirt with ceil blue background worn with ceil blue pants.Prints should be kid friendly.   Additional Information:Orientation: The first 16 hours of orientation are unpaid. Call Off Policy: 5 shifts (or the equivalent hours) per 13 week assignment.  Parking: Travelers may need to  pay for parking at VCU depending on how close they want to be to the hospital.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/258248;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Children's Hospital of Richmond at VCU
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

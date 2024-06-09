@@ -1,0 +1,87 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4301',
+  'Cf-Ray' => '83499fb6a47b1842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Scrub Cardiovascular, Pediatrics and other service lines; 
+
+Day 12 (6:15am-6:45pm) with call, required. Minimum of 3 years  experience as a Scrub Tech. Must know Pediatric Cardiovascular.   
+
+
+ Modified Time:1/2/2024 7:00:00 AM
+
+ Account Manager: Ashley Belarmino
+
+ Account Manager Email: Ashley.Belarmino@vayaworkforce.com
+
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+
+ Submittal Details: #Tier2 Travel ComplianceFacility does not accept local travelers. Must be over 65 miles (address on drivers license to site address)Must have 2 years  experience in specialty for all locations. (New Orleans operating room req. 3 years)**NO CALL IN!**RTO must be on profile and brought up in the interview or there is a high chance offer's will be rescinded.Compact or LA license in hand upon submittalOrientation held 5 days a weekReferences: Not required for submission, however 2 Manager/Supervisor references will be required to obtain clearance to start contract. Recruiter, please obtain Manager/Supervisor contact information prior to submission. Charge RNs are NOT acceptable. PDF formatAHA certifications are requiredAWHONN Intermediate is required for L&D RNCPI required for all CNAER nurses must have CPI, or be able to get it before start.  This cert is somewhat difficult to get, so please be prepared for this.
+    [sitename] => giftednurses
+    [spec] => CVOR
+    [assignmentid] => 545776
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3320
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-16
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 18:30
+    [whenmodified] => December, 12 2023 18:07:29
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2316994 ;Status=Open;Association=Vaya MSP ;Client=Ochsner Medical Center - New Orleans ;City=New Orleans ;State=LA ;Zip=70121-2484 ;Start=1/16/2024;End=4/16/2024;Duration=91;Cert=Surgical Services ;Specialty=Pediatric CVOR Tech ;Unit=Surg & Recovery Svcs SOSH JH07 - 1082069 - Surgical Tech - Cardiovascular Operating Room ;Shift=Day 3x12-Hour (06:15 - 18:45);# of Postions=1;Type=Travel;BillRate=$90.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=8 ;Description=Scrub Cardiovascular, Pediatrics and other service lines; 
+
+Day 12 (6:15am-6:45pm) with call, required. Minimum of 3 years  experience as a Scrub Tech. Must know Pediatric Cardiovascular.   
+
+ Modified Time:1/16/2024 7:00:00 AM
+ Account Manager: Ashley Belarmino
+ Account Manager Email: Ashley.Belarmino@vayaworkforce.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceFacility does not accept local travelers. Must be over 65 miles (address on drivers license to site address)Must have 2 years  experience in specialty for all locations. (New Orleans operating room req. 3 years)**NO CALL IN!**RTO must be on profile and brought up in the interview or there is a high chance offer's will be rescinded.Compact or LA license in hand upon submittalOrientation held 5 days a weekReferences:&nbsp;Not required for submission, however 2 Manager/Supervisor references will be required to obtain clearance to start contract. Recruiter, please obtain Manager/Supervisor contact information prior to submission. Charge RNs are NOT acceptable. PDF formatAHA certifications are requiredAWHONN Intermediate is required for L&amp;D RNCPI required for all CNAER nurses must have CPI, or be able to get it before start. &nbsp;This cert is somewhat difficult to get, so please be prepared for this. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2316994/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Ochsner Medical Center- Main Campus Travel
+    [shiftDateEnd] => 2024-04-16
+    [shiftStartTime] => 06:00
+    [subjectID] => 
+)

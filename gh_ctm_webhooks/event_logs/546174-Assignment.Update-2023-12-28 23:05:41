@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '9268',
+  'Cf-Ray' => '83cd7311c37e77ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 3- 12 hour shifts per week, days vary but can include weekends and holidaysmust have BLS, ACLS and NIHSS cardiac experienceJob Duties/Performance ExpectationsObtains a comprehensive admission history, performs physical assessment per unit policy and demonstrates integrated assessment abilities. a. Differentiates variations of normal and abnormal assessment findings. b. Analyzes and prioritizes abnormal findings. Initiates appropriate response. c. Anticipates actual or potential problems or health concerns in the hospital and/or home setting.Demonstrates ongoing assessment of patient s psychosocial, physiological and educational process per unit policy. a. Anticipates, recognizes and documents subtle changes in patient s physical and mental status. b. Integrates analysis of diagnostic information in patient assessment and care. c. Analyzes ongoing assessments to determine patient s and/or significant other s learning and discharge needs.Integrates assessment data and formulates an individualized nursing diagnosis according to the Department of Nursing s policies and procedures. Formulates an individualized plan of care based on standards of care and practice and hospital/unit policies. a. Identifies and focuses on the physical, emotional, spiritual, cultural, learning and discharge planning needs of the patient and significant other(s). b. Develops, interprets and correlates realistic goals and orders which will maintain or improve patient health status. c. Discusses and disseminates information concerning patient plan of care with members of the interdisciplinary health care team. d. Participates in ongoing discharge planning with members of the interdisciplinary health care team. Modifies individualized plan of care based on ongoing assessment and changes in patient status. a. Re-evaluates current goals and priorities for action. b. Appropriately coordinates holistic care. c. Anticipates and manages changing situations. Administers prescribed treatments and medications promptly according to hospital policies and procedures. Guides and provides functional supervision of ancillary staff while maintaining accountability for patient care. Assists and guides peers with patient care decisions. Utilizes opportunities during the delivery of patient care to teach the patient information necessary to attain the optimal level of self care. a. Recognizes patient s readiness to learn. b. Develops and enhances an individualized teaching plan conjunction with the patient s needs. c. Utilizes available teaching materials and support groups, etc.; formulates instructional material as needed. d. Reinforces teaching done by other members of the interdisciplinary health care team.Evaluates patient s responses to care and comprehension of education. a. Monitors response to intervention and progress towards goals. b. Evaluates the effectiveness of patient care provided by ancillary nursing personnel.Documents all aspects of the nursing process in a legible, concise, clear and timely manner utilizing appropriate hospital forms or technology and terminology.Involves patient and significant other(s) in all aspects of the nursing process. a. Acts as a patient advocate and respects the rights and confidentiality of patients. b. Promotes communication and relays information in a clear manner. Utilizes information and communication systems effectively. c. Understands and acts within the guidelines for addressing ethical concerns.Demonstrates sound judgment with the Nursing Process based upon critical thinking skills and a problem solving approach. a. Organizes, prioritizes and demonstrates accountability for nursing care. b. Demonstrates sensitivity to strengths and limitations of peers. Offers praise, direction and evaluation as needed. c. Recognizes own limitations, seeks assistance and takes corrective action as needed. Performs other related duties as assigned   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 546174
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9980
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 28 2023 18:05:12
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262237 ;Status=Open;Association=Mercy Iowa City ;Client=Mercy Iowa City ;City=Iowa City ;State=IA ;Zip=52245 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Nursing ;Specialty=Telemetry Nurse ;Unit=Telemetry Nurse ;Shift=7pm-7:30am, 36 hours per week, include weekends and holidays;# of Postions=5;Type=Travel;BillRate=$105.00;OTRate=115 ;OTRules=By The Week, after 40, ;CallbackRate=105 (All Inclusive Rate) ;HolidayRate=105 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=3- 12 hour shifts per week, days vary but can include weekends and holidaysmust have BLS, ACLS and NIHSS cardiac experienceJob Duties/Performance ExpectationsObtains a comprehensive admission history, performs physical assessment per unit policy and demonstrates integrated assessment abilities. a. Differentiates variations of normal and abnormal assessment findings. b. Analyzes and prioritizes abnormal findings. Initiates appropriate response. c. Anticipates actual or potential problems or health concerns in the hospital and/or home setting.Demonstrates ongoing assessment of patient s psychosocial, physiological and educational process per unit policy. a. Anticipates, recognizes and documents subtle changes in patient s physical and mental status. b. Integrates analysis of diagnostic information in patient assessment and care. c. Analyzes ongoing assessments to determine patient s and/or significant other s learning and discharge needs.Integrates assessment data and formulates an individualized nursing diagnosis according to the Department of Nursing s policies and procedures. Formulates an individualized plan of care based on standards of care and practice and hospital/unit policies. a. Identifies and focuses on the physical, emotional, spiritual, cultural, learning and discharge planning needs of the patient and significant other(s). b. Develops, interprets and correlates realistic goals and orders which will maintain or improve patient health status. c. Discusses and disseminates information concerning patient plan of care with members of the interdisciplinary health care team. d. Participates in ongoing discharge planning with members of the interdisciplinary health care team. Modifies individualized plan of care based on ongoing assessment and changes in patient status. a. Re-evaluates current goals and priorities for action. b. Appropriately coordinates holistic care. c. Anticipates and manages changing situations. Administers prescribed treatments and medications promptly according to hospital policies and procedures. Guides and provides functional supervision of ancillary staff while maintaining accountability for patient care. Assists and guides peers with patient care decisions. Utilizes opportunities during the delivery of patient care to teach the patient information necessary to attain the optimal level of self care. a. Recognizes patient s readiness to learn. b. Develops and enhances an individualized teaching plan conjunction with the patient s needs. c. Utilizes available teaching materials and support groups, etc.; formulates instructional material as needed. d. Reinforces teaching done by other members of the interdisciplinary health care team.Evaluates patient s responses to care and comprehension of education. a. Monitors response to intervention and progress towards goals. b. Evaluates the effectiveness of patient care provided by ancillary nursing personnel.Documents all aspects of the nursing process in a legible, concise, clear and timely manner utilizing appropriate hospital forms or technology and terminology.Involves patient and significant other(s) in all aspects of the nursing process. a. Acts as a patient advocate and respects the rights and confidentiality of patients. b. Promotes communication and relays information in a clear manner. Utilizes information and communication systems effectively. c. Understands and acts within the guidelines for addressing ethical concerns.Demonstrates sound judgment with the Nursing Process based upon critical thinking skills and a problem solving approach. a. Organizes, prioritizes and demonstrates accountability for nursing care. b. Demonstrates sensitivity to strengths and limitations of peers. Offers praise, direction and evaluation as needed. c. Recognizes own limitations, seeks assistance and takes corrective action as needed. Performs other related duties as assigned   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262237;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Mercy Iowa City
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

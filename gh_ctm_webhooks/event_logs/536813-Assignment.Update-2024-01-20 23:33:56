@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '941',
+  'Cf-Ray' => '848b2014a4d677ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Start/End Date Change
+Last shift worked was 12-12-23
+    [sitename] => giftednurses
+    [spec] => LTAC
+    [assignmentid] => 536813
+    [workerID] => 331490
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 36
+    [facilityID] => 10417
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-08
+    [workerLastName] => Molinari
+    [shiftNum] => 4
+    [workerFirstName] => Maria
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 20 2024 18:33:55
+    [daysPerWeek] => 3
+    [orderNote] => BR:$95lRS:135609
+Orient:$24lNonBill:8hrs
+FTK: GIFTED TC
+    [guaranteedMinimum] => 
+    [workerEmail] => Molinari.mv@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => ContinueCare Hospital at Palmetto Health
+    [shiftDateEnd] => 2023-12-16
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

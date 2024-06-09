@@ -1,0 +1,77 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2132',
+  'Cf-Ray' => '84fdeb06e212183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:**Updated Bill Rate**$80 Bill RateNeed: 2- Adult Med Surg RN
+
+(1 position filled)Preferred: Pediatrics experience
+
+2-Night Shifts 7p - 7a13 Week assignment36 hours per week.Required to float as needed - occasionally to the Pediatric Unit.No On-Call
+BLS REQUIRED ACLS PREFERRED
+ General Comments1011-019 &amp; 1011-021
+ No. of Positions: 2/3.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 531188
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5112
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-02-19
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => February, 03 2024 16:55:25
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=759451 ;Status=Open;Association=Community Health Systems ;Client=Eastern New Mexico Medical Center ;City=Roswell ;State=NM ;Zip=88201 ;Start=10/16/2023;End=1/15/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=EXT-Other (911) ;Shift=19:00-07:00;# of Postions=2;Type=Travel;BillRate=$80.00;minBillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:**Updated Bill Rate**$80 Bill RateNeed: 2- Adult Med Surg RN
+
+(1 position filled)Preferred: Pediatrics experience
+
+2-Night Shifts 7p - 7a13 Week assignment36 hours per week.Required to float as needed - occasionally to the Pediatric Unit.No On-Call
+BLS REQUIRED ACLS PREFERRED
+ General Comments1011-019 &amp; 1011-021
+ No. of Positions: 2/3.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/759451;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Eastern New Mexico Medical Center
+    [shiftDateEnd] => 2024-05-20
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

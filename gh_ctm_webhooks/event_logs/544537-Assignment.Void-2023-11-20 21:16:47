@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3380',
+  'Cf-Ray' => '8293b74c563e23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 week opening for experienced Emergency Room RN in busy trauma level 3 department. Will work day/evening flex shift with one or two other nurses and a full-time ER physician. New, clean, modern facility in rural northeast Oregon. Applicants should have three or more years of ER experience and the ability to come in and work with minimal direction or supervision. Will be scheduled to work three - 12-hour shifts per week including every other weekend. Assesses, prescribes, delegates, coordinates, and evaluates the nursing care provided. Ensures provision of quality care for selected groups of patients through utilization of nursing process, established standards of care, policies and procedures. He/She is responsible for the written Nursing Care Plan, acts as the patient advocate, and is responsible for the direction and supervision of any personnel assigned to him/her. The RN is responsible to the Unit Nurse Manager or House Supervisor.   Position Urgency:Normal Billing string = Good Shepherd Med Ctr
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 544537
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9092
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 20 2023 16:16:47
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261361 ;Status=Open;Association=Good Shepherd Med Ctr ;Client=Good Shepherd Med Ctr ;City=Hermiston ;State=OR ;Zip=97838 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Nursing ;Specialty=Emergency Room Nurse ;Unit=Emergency Room Nurse ;Shift=Day/Evening Flex;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$110.00;OTRate=115 ;OTRules=By The Week, after 40, ;HolidayRate=115 (All Inclusive Rate + $5) ;OnCallRateDescription=No Call ;Description=13 week opening for experienced Emergency Room RN in busy trauma level 3 department. Will work day/evening flex shift with one or two other nurses and a full-time ER physician. New, clean, modern facility in rural northeast Oregon. Applicants should have three or more years of ER experience and the ability to come in and work with minimal direction or supervision. Will be scheduled to work three - 12-hour shifts per week including every other weekend. Assesses, prescribes, delegates, coordinates, and evaluates the nursing care provided. Ensures provision of quality care for selected groups of patients through utilization of nursing process, established standards of care, policies and procedures. He/She is responsible for the written Nursing Care Plan, acts as the patient advocate, and is responsible for the direction and supervision of any personnel assigned to him/her. The RN is responsible to the Unit Nurse Manager or House Supervisor.   Position Urgency:Normal Billing string = Good Shepherd Med Ctr ;url=https://vms.medefis5.com/jobs/261361;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => Good Shepherd Medical Center
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

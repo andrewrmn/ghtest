@@ -1,0 +1,86 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4002',
+  'Cf-Ray' => '82b30d137039183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:DeTar Navarro Campus - 506 E. San Antonio, Victoria, TX 77901
+
+START ASAPBILL RATE: $90SHIFT:
+Schedule:
+ 7am to 5pm (4 - 10's).
+
+Call rotation during the week with 3 techs total and every 4th weekend as back up call.
+REQUIREMENTS: ARDMS LICENSE, RVT, &amp; BLS
+
+The Ultrasound Technician is a graduate of an accredited AMA school and registered with the American Registry of Radiologic Technology (ARRT), maintains a State License as a general radiographer, and/or is a Registered Diagnostic Medical Sonographer (RDMS).  The Ultrasound Technician is responsible for providing timely diagnostic services to both inpatient and outpatients under the direction of a Radiologist and departmental protocols.  Responsibilities include but are not limited to: abdominal, pelvic, (gynecological &amp; obstetrical), and transvaginal sonograms.  Additionally is proficient at scanning small parts (thyroid, breast &amp; scrotom) along with ultrasound-guided biopsies, drainage, thoracentesis, paracentesis and aspirations.
+ General CommentsThis temp employee will cover for two employees who are out on leave and additionally cover for tech who was recently promoted and trying to transition to new role.    
+Schedule:
+ 7am to 5pm (4 - 10's).
+ Call rotation during the week with 3 techs total and every 4th weekend as back up call.
+    [sitename] => giftednurses
+    [spec] => Ultrasound Tech
+    [assignmentid] => 538007
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 9491
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-06
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Ultrasound Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 24 2023 11:32:48
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=766654 ;Status=Open;Association=Community Health Systems ;Client=DeTar Healthcare System ;City=Victoria ;State=TX ;Zip=77904 ;Start=11/6/2023;End=2/5/2024;Duration=91;Cert=Ultrasound Tech/Sonographer ;Specialty=Radiology ;Unit=EXT-Other (911) ;Shift=4 - 10;4 - 10;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:DeTar Navarro Campus - 506 E. San Antonio, Victoria, TX 77901
+
+START ASAPBILL RATE: $90SHIFT:
+Schedule:
+ 7am to 5pm (4 - 10's).
+
+Call rotation during the week with 3 techs total and every 4th weekend as back up call.
+REQUIREMENTS: ARDMS LICENSE, RVT, &amp; BLS
+
+The Ultrasound Technician is a graduate of an accredited AMA school and registered with the American Registry of Radiologic Technology (ARRT), maintains a State License as a general radiographer, and/or is a Registered Diagnostic Medical Sonographer (RDMS).  The Ultrasound Technician is responsible for providing timely diagnostic services to both inpatient and outpatients under the direction of a Radiologist and departmental protocols.  Responsibilities include but are not limited to: abdominal, pelvic, (gynecological &amp; obstetrical), and transvaginal sonograms.  Additionally is proficient at scanning small parts (thyroid, breast &amp; scrotom) along with ultrasound-guided biopsies, drainage, thoracentesis, paracentesis and aspirations.
+ General CommentsThis temp employee will cover for two employees who are out on leave and additionally cover for tech who was recently promoted and trying to transition to new role.    
+Schedule:
+ 7am to 5pm (4 - 10's).
+ Call rotation during the week with 3 techs total and every 4th weekend as back up call. ;url=https://vendor.healthtrustws.com/positions/766654;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => DeTar Hospital - North 
+    [shiftDateEnd] => 2024-02-05
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

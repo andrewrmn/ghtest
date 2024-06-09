@@ -1,0 +1,141 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '121',
+  'Ki-Request-Colo' => '398',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5072',
+  'Cf-Ray' => '830d87e0c4f72d64-ORD',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Summary of Services:The Registered Nurse is responsible for evaluating patients and assisting physicians with patient care. Plans, implements, and documents nursing care based on patient&rsquo;s needs.Identifies patient needs and determines priorities for care through assessment, planning, intervention, and evaluation.Develops, implements and coordinates individualized plan of care for patients assigned through initial and on-going assessments.Initiates assessment based on the patient&rsquo;s problems or needs, the physician&rsquo;s medical diagnosis, and the functional health framework.Performs therapeutic nursing interventions.Manages care of patients.Documents care based on standards of care and practice, patient acuity, and/or clinical priorities.Advocates for evidence-based practice care standards and supports adoption of evidence-based practices and innovations in care delivery.Provides patient centric care in alignment with professional nursing practice model.Other duties and responsibilities as assigned.
+
+
+ 
+ Schedule Notes:NIGHT
+
+Skills: 
+
+
+Minimum qualifications required for services:Experience:2+ years of experience in Med Surg OncologyExperience as a BMT RN needed for role- Updated to required as of 6/5/20Experience as a Chemo RN needed for roleLicenses/Certifications:Current RN licensure from the State of PracticeCurrent BLS*Current ACLS preferred, not required
+
+
+
+ Required
+	
+	  REGISTERED NURSE
+	   RN
+	   PATIENT CARE
+	   THERAPEUTIC
+	  
+	
+	
+	
+	Additional
+
+Education: Bachelor's or Associate's accepted
+
+;Languages: 
+ 
+English
+&nbsp;Read
+&nbsp;Write
+&nbsp;Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: Clinical-Nursing-Travel
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 538487
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3508
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 05 2023 11:05:20
+    [daysPerWeek] => 3
+    [orderNote] => Source=Wand;SourceID=26900036 ;Status=Pending;Client=St. Lukes Health System ;City=Boise ;State=ID ;Zip=83712 ;Start=11/20/2023;End=2/17/2024;Duration=89;Cert=Clinical-Nursing-Travel ;Specialty=Registered Nurse (RN) - MedSurg Onc ;Unit=Medical Surgical Boise Hospital Flr 4 						: 1695    		                Default Lvl 2 Medical Surgical Boise Hospital Flr 4  : 1695   Default Lvl 2 ;Shift=NIGHT NIGHT 3x12 Hr;# of Postions=1;Guaranteed Hours=36.00;Type=Travel;BillRate=$90.00;HolidayRate=$121.50 ;Description=
+
+
+Summary of Services:The Registered Nurse is responsible for evaluating patients and assisting physicians with patient care. Plans, implements, and documents nursing care based on patient&rsquo;s needs.Identifies patient needs and determines priorities for care through assessment, planning, intervention, and evaluation.Develops, implements and coordinates individualized plan of care for patients assigned through initial and on-going assessments.Initiates assessment based on the patient&rsquo;s problems or needs, the physician&rsquo;s medical diagnosis, and the functional health framework.Performs therapeutic nursing interventions.Manages care of patients.Documents care based on standards of care and practice, patient acuity, and/or clinical priorities.Advocates for evidence-based practice care standards and supports adoption of evidence-based practices and innovations in care delivery.Provides patient centric care in alignment with professional nursing practice model.Other duties and responsibilities as assigned.
+
+
+ 
+ Schedule Notes:NIGHT
+
+Skills: 
+
+
+Minimum qualifications required for services:Experience:2+ years of experience in Med Surg OncologyExperience as a BMT RN needed for role- Updated to required as of 6/5/20Experience as a Chemo RN needed for roleLicenses/Certifications:Current RN licensure from the State of PracticeCurrent BLS*Current ACLS preferred, not required
+
+
+
+ Required
+	
+	  REGISTERED NURSE
+	   RN
+	   PATIENT CARE
+	   THERAPEUTIC
+	  
+	
+	
+	
+	Additional
+
+Education: Bachelor's or Associate's accepted
+
+;Languages: 
+ 
+English
+&nbsp;Read
+&nbsp;Write
+&nbsp;Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: Clinical-Nursing-Travel ;url=https://prowand.pro-unlimited.com/supplier/standard/requisition/req_geninfo_view.html?id=26900036&type=REQUISITION&reqProfile=true;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => St. Luke's Boise Medical Center
+    [shiftDateEnd] => 2024-03-22
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,628 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6924',
+  'Cf-Ray' => '863ee6f70250183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL IR TECH
+8:00AM - 4:30PM
+13 WEEK ASSIGNMENT
+2 YEARS OF EXPERIENCE IN HOSPITAL SETTING REQUIREDMUST HOLD CURRENT ACTIVE VA LICENSE AT TIME OF SUBMISSIONBLS &amp; ARRT CERTIFICATION REQUIRED
+
+        Unit Information:
+   INTERVENTIONAL RADIOLOGY             Location: Henrico Doctors Hospital - Forest             
+Address: 1602   Skipwith Rd, Richmond, VA 23228
+         
+Floor: 1st
+             
+Building: Main   Hospital
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   4 holding spaces
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   When fully staffed 5   RN s 4 Techs, 1 PCT
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   (2RN s, 3 Techs, 1 PCT)
+   
+o
+
+
+   Night Shift   On Call
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   
+Phillips Biplane
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   Current   IR experience
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+Neuro IR Experience
+   
+
+
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+PICC, C-lines
+   
+ 
+
+
+
+
+
+
+
+   
+Paracentesis, Thoracentesis
+   
+ 
+
+
+
+
+
+
+
+   Embolizations
+   
+ 
+
+
+
+
+
+
+
+   Filter   placements
+   
+ 
+
+
+
+
+
+
+
+   Neuro
+   
+ 
+
+
+
+
+
+
+
+   Biopsies
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   Multi-tasker
+   
+ 
+
+
+
+
+
+
+
+   Easily adjusts to change
+   
+ 
+
+
+
+
+
+
+
+   Team player
+   
+ 
+
+
+
+
+
+
+
+   Friendly
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   RT-R
+   
+ 
+
+
+
+
+
+
+
+   BLS
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire   
+Hospital provided
+   
+
+
+             Weekends and On call:   
+ 
+
+
+
+
+
+
+
+   After hours   on weekdays (6p-7a) 
+   
+ 
+
+
+
+
+
+
+
+   24hr   weekends
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Interventional Radiology
+    [assignmentid] => 544300
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5469
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-03-25
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => March, 13 2024 16:50:58
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=773359 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HENRICO DOCTORS HOSPITAL-FOREST VA ;City=RICHMOND ;State=VA ;Zip=23229 ;Start=12/3/2023;End=3/3/2024;Duration=91;Cert=Special Procedures Tech ;Specialty=Radiology ;Unit=CAPITAL DIVISION (20) ;Shift=8:00AM - 4:30PM;# of Postions=1;Type=Travel;BillRate=$98.00;minBillRate=$98.00;OTRate=106 ;CallbackRate=106 ;HolidayRate=106 ;Orientation=0 ;Description=Description:TRAVEL IR TECH
+8:00AM - 4:30PM
+13 WEEK ASSIGNMENT
+2 YEARS OF EXPERIENCE IN HOSPITAL SETTING REQUIREDMUST HOLD CURRENT ACTIVE VA LICENSE AT TIME OF SUBMISSIONBLS &amp; ARRT CERTIFICATION REQUIRED
+
+        Unit Information:
+   INTERVENTIONAL RADIOLOGY             Location: Henrico Doctors Hospital - Forest             
+Address: 1602   Skipwith Rd, Richmond, VA 23228
+         
+Floor: 1st
+             
+Building: Main   Hospital
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   4 holding spaces
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   When fully staffed 5   RN s 4 Techs, 1 PCT
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   (2RN s, 3 Techs, 1 PCT)
+   
+o
+
+
+   Night Shift   On Call
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   
+Phillips Biplane
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   Current   IR experience
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+Neuro IR Experience
+   
+
+
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+PICC, C-lines
+   
+ 
+
+
+
+
+
+
+
+   
+Paracentesis, Thoracentesis
+   
+ 
+
+
+
+
+
+
+
+   Embolizations
+   
+ 
+
+
+
+
+
+
+
+   Filter   placements
+   
+ 
+
+
+
+
+
+
+
+   Neuro
+   
+ 
+
+
+
+
+
+
+
+   Biopsies
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   Multi-tasker
+   
+ 
+
+
+
+
+
+
+
+   Easily adjusts to change
+   
+ 
+
+
+
+
+
+
+
+   Team player
+   
+ 
+
+
+
+
+
+
+
+   Friendly
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   RT-R
+   
+ 
+
+
+
+
+
+
+
+   BLS
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire   
+Hospital provided
+   
+
+
+             Weekends and On call:   
+ 
+
+
+
+
+
+
+
+   After hours   on weekdays (6p-7a) 
+   
+ 
+
+
+
+
+
+
+
+   24hr   weekends
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/773359;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 98
+    [facilityName] => Henrico Doctors' Hospital Travel- Forest Campus
+    [shiftDateEnd] => 2024-06-24
+    [shiftStartTime] => 08:00
+    [subjectID] => 
+)

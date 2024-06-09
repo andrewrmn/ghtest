@@ -1,0 +1,134 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7808',
+  'Cf-Ray' => '831174b2f1a577bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => X-Ray Tech
+
+Start Date: Start date will be 2-3 weeks from offer
+Shift: Will work 5x8hr days Monday thru Friday 11a-730p.
+Is on-call REQ? Call rotation for weekly call, 3-4 days/month.
+Open to accommodating block schedule? Approval prior to assignment, but not guaranteed.
+
+Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September. 
+
+Daily Caseload per tech: Varies
+Years of experience REQ: 1yr
+First-timers accepted: Yes, travel experience preferred
+Will clinician float within scope meet facility needs? Floating to other buildings on the same campus may be required
+Floating Req to Sister Facilities: No
+Radius rule? Yes, 50 miles. Are locals accepted? Yes, at $4 less than the posted bill rate
+Pending State License accepted: SC license must be in hand prior to start
+RTO Restrictions:  All RTO must be included at time of submission. Approval will be based on facility needs
+Guaranteed Hours: Facility allowed to call off 1 shift per 2 weeks
+
+Special Requirements: Must have OR/c-arm experience; Required: ARRT, AHA BLS, AGENCY MUST SUPPLY RADIATION BADGE
+
+Hospital Highlights
+Type of Facility: Teaching Hospital
+Magnet / Teaching / Level Trauma: Magnet, Teaching and Level 1 Trauma
+Total Staffed Beds: 865
+Scrub Color: Teal Top/Black Bottoms
+Charting: Epic
+Parking Cost: Nights and weekends only. One time payment of $20 for a parking pass. 
+
+
+
+ Modified Time:12/11/2023 5:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal radius: 50 miles. Locals accepted on a case by case basis at lower ratePerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+    [sitename] => giftednurses
+    [spec] => X-Ray
+    [assignmentid] => 545120
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3712
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-02
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 05 2023 22:31:24
+    [daysPerWeek] => 5
+    [orderNote] => Source=AYA;SourceID=2316261 ;Status=Open;Association=Qualivis MSP ;Client=MUSC Health Charleston ;City=Charleston ;State=SC ;Zip=29425 ;Start=1/2/2024;End=4/2/2024;Duration=91;Cert=Radiology / Cardiology ;Specialty=X-Ray Tech ;Unit=CHS Diagnostic Radiology (Main), CC000399 ;Shift=Day 5x8-Hour (11:00 - 19:30);# of Postions=1;Type=Travel;BillRate=$65.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=X-Ray Tech
+
+Start Date: Start date will be 2-3 weeks from offer
+Shift: Will work 5x8hr days Monday thru Friday 11a-730p.
+Is on-call REQ? Call rotation for weekly call, 3-4 days/month.
+Open to accommodating block schedule? Approval prior to assignment, but not guaranteed.
+
+Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September. 
+
+Daily Caseload per tech: Varies
+Years of experience REQ: 1yr
+First-timers accepted: Yes, travel experience preferred
+Will clinician float within scope meet facility needs? Floating to other buildings on the same campus may be required
+Floating Req to Sister Facilities: No
+Radius rule? Yes, 50 miles. Are locals accepted? Yes, at $4 less than the posted bill rate
+Pending State License accepted: SC license must be in hand prior to start
+RTO Restrictions:  All RTO must be included at time of submission. Approval will be based on facility needs
+Guaranteed Hours: Facility allowed to call off 1 shift per 2 weeks
+
+Special Requirements: Must have OR/c-arm experience; Required: ARRT, AHA BLS, AGENCY MUST SUPPLY RADIATION BADGE
+
+Hospital Highlights
+Type of Facility: Teaching Hospital
+Magnet / Teaching / Level Trauma: Magnet, Teaching and Level 1 Trauma
+Total Staffed Beds: 865
+Scrub Color: Teal Top/Black Bottoms
+Charting: Epic
+Parking Cost: Nights and weekends only. One time payment of $20 for a parking pass. 
+
+
+
+ Modified Time:1/2/2024 12:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Med
+ Submittal Details: #Tier3 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal radius: 50 miles. Locals accepted on a case by case basis at lower ratePerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2316261/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => MUSC- Medical Center
+    [shiftDateEnd] => 2024-04-02
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

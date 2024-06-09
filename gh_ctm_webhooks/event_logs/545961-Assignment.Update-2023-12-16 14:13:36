@@ -1,0 +1,163 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4037',
+  'Cf-Ray' => '8367871d435e77bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:ASAP START
+
+BILL RATE
+ $65
+RATIO 1:6 (SURGES AT 1:7)
+CHARTING: CERNER
+REQUIREMENTS:
+NIHSSBLS
+CURRENTCOMPACT OR MS RN LICENSURE
+
+
+MUST INCLUDE THE HOME ADDRESS AND SSN ON THE SUBMISSION
+MUST BE GREATER THAN 50 MILES FROM THE FACILITY
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location:
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545961
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8460
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-31
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 16 2023 09:13:30
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=778192 ;Status=Open;Association=Community Health Systems ;Client=Merit Health River Region ;City=Vicksburg ;State=MS ;Zip=39183 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=EXT-Other (911) ;Shift=07:00-19:30;# of Postions=1;Type=Travel;BillRate=$65.00;minBillRate=$65.00;OTRate=73 ;CallbackRate=73 ;HolidayRate=73 ;Orientation=0 ;Description=Description:ASAP START
+
+BILL RATE
+ $65
+
+SHIFT: DAYS- 7am to 730pm12 hours -every other weekend3 days per weekCHARTING-CERNERRATIO 1:6 (SURGES AT 1:7)
+
+REQUIREMENTS:
+NIHSSBLS
+CURRENTCOMPACT OR MS RN LICENSURE
+
+
+MUST INCLUDE THE HOME ADDRESS AND SSN ON THE SUBMISSION
+MUST BE GREATER THAN 50 MILES FROM THE FACILITY
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location:
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/778192;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Merit Health River Region TRAVEL
+    [shiftDateEnd] => 2024-03-31
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

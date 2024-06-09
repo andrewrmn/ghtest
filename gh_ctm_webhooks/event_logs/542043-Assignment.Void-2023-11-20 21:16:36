@@ -1,0 +1,119 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '27',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3814',
+  'Cf-Ray' => '8293b704f4eb4959-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 10803 Falls Road, Pavilion lll Suite 1100
+
+	Lutherville, MD 21093
+
+	MRI Tech
+
+	4 (10s) 11:30-10p Mon/Tues/Wed/Fri and Mon/Tues/Thurs/Fri
+
+	Reports to MRI Manager or Chief Imaging Technologist/Immediate Supervisor. Performs Diagnostic magnetic resonance imaging of organs, organ systems and blood flow studies. Provides radiologists with images necessary to obtain diagnostic results so that a comprehensive diagnostic report is available to referring physician. Orients physicians, residents, staff and student technologist in
+	objectives and applications of magnetic resonance imaging and safety. Assists nursing staff in area e.g. witnesses nursing staff in wasting medication and documents in Pyxis.
+
+	
+				Education: 
+				Requires completion of an AMA approved program in Radiologic Technology or equivalent,
+				which normally is acquired in a two-year college or technical school program. Prefer one year
+				experience in an imaging modality
+	
+
+	
+
+	
+
+	
+
+	
+				Required Licensure,
+				Certification, Etc.:
+					ARRT certified with current registration required. 
+					CPR certification required. 
+					Advanced ARRT MRI certification required .
+    [sitename] => giftednurses
+    [spec] => MRI
+    [assignmentid] => 542043
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1877
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => MRI Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => November, 20 2023 16:16:35
+    [daysPerWeek] => 3
+    [orderNote] => Source=IntrastaffVMS;SourceID=302714 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Johns Hopkins Imaging LLC ;Start=11/19/2023;End=2/17/2024;Duration=90;Cert=MRI Tech ;Specialty=GREEN SPRING IMAGING (5550000200) ;Unit=GREEN SPRING IMAGING (5550000200) ;Shift=Day 12 (11:00 AM - 11:00 PM);# of Postions=1;Type=Travel;BillRate=$115.00;minBillRate=$115.00;Description=10803 Falls Road, Pavilion lll Suite 1100
+
+	Lutherville, MD 21093
+
+	MRI Tech
+
+	4 (10s) 11:30-10p Mon/Tues/Wed/Fri and Mon/Tues/Thurs/Fri
+
+	Reports to MRI Manager or Chief Imaging Technologist/Immediate Supervisor. Performs Diagnostic magnetic resonance imaging of organs, organ systems and blood flow studies. Provides radiologists with images necessary to obtain diagnostic results so that a comprehensive diagnostic report is available to referring physician. Orients physicians, residents, staff and student technologist in
+	objectives and applications of magnetic resonance imaging and safety. Assists nursing staff in area e.g. witnesses nursing staff in wasting medication and documents in Pyxis.
+
+	
+				Education: 
+				Requires completion of an AMA approved program in Radiologic Technology or equivalent,
+				which normally is acquired in a two-year college or technical school program. Prefer one year
+				experience in an imaging modality
+	
+
+	
+
+	
+
+	
+
+	
+				Required Licensure,
+				Certification, Etc.:
+					ARRT certified with current registration required. 
+					CPR certification required. 
+					Advanced ARRT MRI certification required . ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=w4nytEl8*U8=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 115
+    [facilityName] => The Johns Hopkins Hospital TRAVEL
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

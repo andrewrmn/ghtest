@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '26',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4464',
+  'Cf-Ray' => '82de2b3da2c14955-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => All candidates will need to complete a virtual interview for this role, and offers will be made based on that interview. Please ensure that all candidates have a full skills checklist with their detailed resume combined on one document.Boone Health now requires that all nurse candidates provide current CEU documentation during the interview processTop 10 Diagnosis/Procedures:POST OP - CAB, Valve replacement, lung surgeries; chest pain, STEMI, NON-STEMI, CHF, Arrhythmia, Syncope, variety of caring for patients post cath lab procedures,Vasoactive Drip Titration Required -lasix, amiodarone, dopamine, cardizem, dobutamine, heparin, integralin, nitro??Patient Age Groups: Adutls, Geriatric, OutpatientNumber of Beds/Cases: 32Nurse to Patient Ratio: Days- 1:4/5 - Ratio is not guaranteed and ratios are higher during covidFloating as needed will be requiredRequired/Preferred Skills:Line Management/SkillsRequiredIV Insertions??Cardiac Skills:Required????Obtain 12 Lead EKGRemote TeleAirway:Required??CPAP/BiPAP   Additional Information:For roles with a guarantee, Boone Health can call off staff for up to 36 hours in a contract ---------------------------------------------  For Boone Health RN, LPN's and RRT Requests  *A VIRTUAL INTERVIEW WILL BE SENT TO YOUR CANDIDATE TO COMPLETE PRIOR TO SUBMITTING TO THE HOSPTIAL FOR CONSIDERATION**  **PLEASE BE SURE TO HAVE A COMPLETE PACKET OR YOUR CANDIDATE WILL BE DENIED**  **CHECKLIST IS ATTACHED AND MUST BE THE FIRST PAGE OF THE SUBMISSION PACKET**   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 541536
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9740
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 29 2023 17:08:22
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=260748 ;Status=Open;Association=Boone Health ;Client=Boone Health ;City=Columbia ;State=MO ;Zip=65201 ;Start=10/31/2023;End=1/30/2024;Duration=91;Cert=Nursing ;Specialty=Cardiology ;Unit=Cardiology ;Shift=1900-0730;# of Postions=1;Guaranteed Hours=48;Type=Travel;BillRate=$95.00;OTRate=105 ;OTRules=By The Week, after 48, ;CallbackRate=105 (All Inclusive Rate + $10) ;HolidayRate=105 (All Inclusive Rate + $10) ;OnCallRateDescription=$5 per hour pager ;Description=All candidates will need to complete a virtual interview for this role, and offers will be made based on that interview. Please ensure that all candidates have a full skills checklist with their detailed resume combined on one document.Boone Health now requires that all nurse candidates provide current CEU documentation during the interview processTop 10 Diagnosis/Procedures:POST OP - CAB, Valve replacement, lung surgeries; chest pain, STEMI, NON-STEMI, CHF, Arrhythmia, Syncope, variety of caring for patients post cath lab procedures,Vasoactive Drip Titration Required -lasix, amiodarone, dopamine, cardizem, dobutamine, heparin, integralin, nitro??Patient Age Groups: Adutls, Geriatric, OutpatientNumber of Beds/Cases: 32Nurse to Patient Ratio: Days- 1:4/5 - Ratio is not guaranteed and ratios are higher during covidFloating as needed will be requiredRequired/Preferred Skills:Line Management/SkillsRequiredIV Insertions??Cardiac Skills:Required????Obtain 12 Lead EKGRemote TeleAirway:Required??CPAP/BiPAP   Additional Information:For roles with a guarantee, Boone Health can call off staff for up to 36 hours in a contract ---------------------------------------------  For Boone Health RN, LPN's and RRT Requests  *A VIRTUAL INTERVIEW WILL BE SENT TO YOUR CANDIDATE TO COMPLETE PRIOR TO SUBMITTING TO THE HOSPTIAL FOR CONSIDERATION**  **PLEASE BE SURE TO HAVE A COMPLETE PACKET OR YOUR CANDIDATE WILL BE DENIED**  **CHECKLIST IS ATTACHED AND MUST BE THE FIRST PAGE OF THE SUBMISSION PACKET**   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260748;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Boone Hospital Center
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

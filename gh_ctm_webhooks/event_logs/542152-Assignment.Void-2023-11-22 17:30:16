@@ -1,0 +1,115 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2579',
+  'Cf-Ray' => '82a2e63dd26c1842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => JHH- Nelson 5 MPCU
+
+	
+
+	IMC RN
+
+	
+
+	Shift: Rotating
+
+	36 hrs/week no guaranteed hours
+		Float:Float as needed within scope
+		Weekend:Every other weekend
+		Holiday:Holidays as needed
+		Availability on call:(2) call shifts per schedule per 6 week grid
+	
+
+	
+
+	Experience:
+		2 years Medical IMC
+		At least 1 IMC travel assignment in comparable Medicine in a large teaching hospital
+		Must have current experience with patients on ventilatorsa-lines, drip titration, high flow nasal canula, tracheostomies, g-tubes
+		EPIC experience
+	
+
+	Certifications:
+		ACLS, BLS
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 542152
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1877
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 22 2023 12:30:16
+    [daysPerWeek] => 3
+    [orderNote] => Source=IntrastaffVMS;SourceID=303366 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Johns Hopkins Hospital ;Start=12/4/2023;End=3/2/2024;Duration=89;Cert=MSP RN Enhanced High Needs ;Specialty=Nelson 5 (MPCU) (4801337060) ;Unit=Nelson 5 (MPCU) (4801337060) ;Shift=ROTATING 7A/7P (12:00 AM - 12:00 AM);# of Postions=1;Type=Travel;BillRate=$95.00;minBillRate=$95.00;Description=JHH- Nelson 5 MPCU
+
+	
+
+	IMC RN
+
+	
+
+	Shift: Rotating
+
+	36 hrs/week no guaranteed hours
+		Float:Float as needed within scope
+		Weekend:Every other weekend
+		Holiday:Holidays as needed
+		Availability on call:(2) call shifts per schedule per 6 week grid
+	
+
+	
+
+	Experience:
+		2 years Medical IMC
+		At least 1 IMC travel assignment in comparable Medicine in a large teaching hospital
+		Must have current experience with patients on ventilatorsa-lines, drip titration, high flow nasal canula, tracheostomies, g-tubes
+		EPIC experience
+	
+
+	Certifications:
+		ACLS, BLS ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=FXtioCk+Lb8=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => The Johns Hopkins Hospital TRAVEL
+    [shiftDateEnd] => 2024-03-02
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

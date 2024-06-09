@@ -1,0 +1,130 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '27',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5872',
+  'Cf-Ray' => '82ce0c95c70f4959-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Patient Diagnoses:
+Ischemic & Hemorrhagic Stroke, CEA, Seizures, Neurosurgery ( craniotomy, hemi-craniectomy, spinal), neuromuscular disorders, etc
+
+Special Procedures/Unit Details:
+Post procedure monitoring ( TPA, Thrombectomy , Pipeline Stent, Cerebral Aneurysm Coiling or Clipping), etc.
+
+Special Equipment:
+BIS, TOF, Arctic Sun, EEG, FloTrac, A-line, Central Line, Zoll Intravascular Cooling, Bolt, EVD
+
+Patient Ratio: 1:2
+Float requirement
+EPIC experience required
+
+Preferred Certifications: 
+ACLS, BCLS, NIH
+
+Must be able to interpret and manage dysrhythmias, manage multi-system organ failure
+Must be able to follow IV insulin protocols
+Management of continuous IV sedation, procedural sedation administration, titrate cardiac drips, and titrate vasoactive drips
+Ventilator management
+
+
+ Modified Time:11/6/2023 12:00:00 AM
+
+ Account Manager: Ashley Belarmino
+
+ Account Manager Email: Ashley.Belarmino@vayaworkforce.com
+
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+
+ Submittal Details: #Tier2 Travel ComplianceFacility does not accept local travelers. Must be over 65 miles (address on drivers license to site address)Must have 2 years  experience in specialty for all locations. (New Orleans operating room req. 3 years)**NO CALL IN!**RTO must be on profile and brought up in the interview or there is a high chance offer's will be rescinded.Compact or LA license in hand upon submittalOrientation held 5 days a weekReferences: Not required for submission, however 2 Manager/Supervisor references will be required to obtain clearance to start contract. Recruiter, please obtain Manager/Supervisor contact information prior to submission. Charge RNs are NOT acceptable. PDF formatAHA certifications are requiredAWHONN Intermediate is required for L&D RNCPI required for all CNAER nurses must have CPI, or be able to get it before start.  This cert is somewhat difficult to get, so please be prepared for this.
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 537918
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3320
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 27 2023 18:11:07
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2275379 ;Status=Open;Association=Vaya MSP ;Client=Ochsner Medical Center - New Orleans ;City=New Orleans ;State=LA ;Zip=70121-2484 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Registered Nurse ;Specialty=ICU ;Unit=Neurosci Crit Care SOSH JH07 - 1172051 - Intensive / Critical Care Unit ICU CCU ;Shift=Night 3x12-Hour (18:45 - 07:15);# of Postions=1;Type=Travel;BillRate=$80.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=8 ;Description=Patient Diagnoses:
+Stroke, Seizures, Subdural Hematoma, Brain Tumor, Neurosurgical Intervention, Neuromuscular disorders, Post Arrest 
+
+Special Procedures/Unit Details:
+Post procedure monitoring ( TPA, Thrombectomy , Pipeline Stent, Cerebral Aneurysm Coiling or Clipping), etc.
+Bedside procedures include: intubation, arterial and central line placement, EVD, etc.  Post procedural monitoring of clipping and/or coiling of aneurysms, post craniotomy , TPA or Tenectaplase administration monitoring 
+
+Special Equipment:
+BIS, TOF, Arctic Sun, EEG, FloTrac, A-line, Central Line, Zoll Intravascular Cooling, Bolt, EVD, Camino ICP 
+
+Patient Ratio: 1:2
+Float requirement
+EPIC experience required
+Unit does not accept first time travelers
+3 years min ICU experience
+
+Preferred Certifications: 
+ACLS, BCLS, NIH
+
+Must be able to interpret and manage dysrhythmias, manage multi-system organ failure
+Must be able to follow IV insulin protocols
+Management of continuous IV sedation, procedural sedation administration, titrate cardiac drips, and titrate vasoactive drips
+Ventilator management
+
+
+
+ Modified Time:12/4/2023 12:00:00 AM
+
+ Account Manager: Ashley Belarmino
+
+ Account Manager Email: Ashley.Belarmino@vayaworkforce.com
+
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Med
+
+ Submittal Details: #Tier2 Travel ComplianceFacility does not accept local travelers. Must be over 65 miles (address on drivers license to site address)Must have 2 years  experience in specialty for all locations. (New Orleans operating room req. 3 years)**NO CALL IN!**RTO must be on profile and brought up in the interview or there is a high chance offer's will be rescinded.Compact or LA license in hand upon submittalOrientation held 5 days a weekReferences: Not required for submission, however 2 Manager/Supervisor references will be required to obtain clearance to start contract. Recruiter, please obtain Manager/Supervisor contact information prior to submission. Charge RNs are NOT acceptable. PDF formatAHA certifications are requiredAWHONN Intermediate is required for L&D RNCPI required for all CNAER nurses must have CPI, or be able to get it before start.  This cert is somewhat difficult to get, so please be prepared for this. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2275379/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Ochsner Medical Center- Main Campus Travel
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

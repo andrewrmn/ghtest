@@ -1,0 +1,144 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5461',
+  'Cf-Ray' => '863ee7cf57776a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Facility Overview:
+If not for the people, hospitals begin to look a lot alike. With modern advancement, a visitor finds similar equipment, devices and computers within the bricks and mortar of the buildings that comprise our nation s healthcare system. What separates Methodist Stone Oak Hospital is our ability to attract the most talented nurses, physicians, technicians, pharmacists, housekeepers and therapists that play a part on this healthcare team. Talent stems from one s ability to hone their trade in technical superiority, but most importantly at Methodist Stone Oak, it means having exceptionally positive, caring attitude for our all of our patients.
+
+How we are perceived in Stone Oak, San Antonio and all the surrounding communities we care for will be based entirely on the clinical outcome and the patient experience. So that is where we stay focused. I m proud to lead this team into the future with our patients and all those that enter our facility as the benefactors of outstanding quality and great service. Our brightest days are yet ahead of us!
+
+
+ 
+  
+
+
+
+
+Unit Highlights: IMPORTANT SHIFT INFORMATION
+
+Position Description: Oncology (632) / Shift:
+
+
+Skill Set Most recruited for:
+ (Travel RNs)
+
+
+
+
+**Oncology Exp. Is not required**
+
+
+
+
+Must have: (candidates without these skills will not be considered for the role)
+Must BLS &amp; ACLSAt least 2+ years of Experience
+Preferred Skills: (candidates with these skills will be considered first)
+Telemetry skills must haveEKG experience
+Typical procedures performed on unit(s):
+Tele monitoringMed pass including ABX, narcotics, cardiac medicationsWound care
+Unit Guidelines/Policies:
+As per Facility Guidelines
+Dress Code: Include requirements, but most of all not acceptable attire.
+Scrub Color -
+ navy blueNail Policy   no fake nail coveringHair   tidy Tattoos   discreet and covered
+ General Comments:Local Fill
+3098965
+ No. of Positions: 1/2.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Oncol
+    [assignmentid] => 541732
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5539
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-03-25
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => March, 13 2024 16:50:58
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=762155 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=METHODIST STONE OAK HOSPITAL ;City=San Antonio ;State=TX ;Zip=78258 ;Start=12/6/2023;End=3/6/2024;Duration=91;Cert=RN ;Specialty=Oncology ;Unit=SAN ANTONIO DIVISION (39) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$70.00;minBillRate=$70.00;OTRate=85 ;CallbackRate=85 ;HolidayRate=85 ;Description=Description:Facility Overview:
+If not for the people, hospitals begin to look a lot alike. With modern advancement, a visitor finds similar equipment, devices and computers within the bricks and mortar of the buildings that comprise our nation s healthcare system. What separates Methodist Stone Oak Hospital is our ability to attract the most talented nurses, physicians, technicians, pharmacists, housekeepers and therapists that play a part on this healthcare team. Talent stems from one s ability to hone their trade in technical superiority, but most importantly at Methodist Stone Oak, it means having exceptionally positive, caring attitude for our all of our patients.
+
+How we are perceived in Stone Oak, San Antonio and all the surrounding communities we care for will be based entirely on the clinical outcome and the patient experience. So that is where we stay focused. I m proud to lead this team into the future with our patients and all those that enter our facility as the benefactors of outstanding quality and great service. Our brightest days are yet ahead of us!
+
+
+ 
+  
+
+
+
+
+Unit Highlights: IMPORTANT SHIFT INFORMATION
+
+Position Description: Oncology (632) / Shift:
+
+
+Skill Set Most recruited for:
+ (Travel RNs)
+
+
+
+
+**Oncology Exp. Is not required**
+
+
+
+
+Must have: (candidates without these skills will not be considered for the role)
+Must BLS &amp; ACLSAt least 2+ years of Experience
+Preferred Skills: (candidates with these skills will be considered first)
+Telemetry skills must haveEKG experience
+Typical procedures performed on unit(s):
+Tele monitoringMed pass including ABX, narcotics, cardiac medicationsWound care
+Unit Guidelines/Policies:
+As per Facility Guidelines
+Dress Code: Include requirements, but most of all not acceptable attire.
+Scrub Color -
+ navy blueNail Policy   no fake nail coveringHair   tidy Tattoos   discreet and covered
+ General Comments:Local Fill
+3098965
+ No. of Positions: 1/2.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/762155;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Methodist Stone Oak Hospital Travel
+    [shiftDateEnd] => 2024-06-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

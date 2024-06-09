@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1632',
+  'Cf-Ray' => '82b30d0e91c24951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:DeTar Healthcare System
+RN Cath LabShift: Days w/ callStart: ASAPRate: $1002+ Years Exp Required
+ General CommentsIt's 40 hours and the call schedule is 7 on and 7 off.
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 502614
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9491
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-05-29
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Cath Lab Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 24 2023 11:32:48
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=716976 ;Status=Open;Association=Community Health Systems ;Client=DeTar Healthcare System ;City=Victoria ;State=TX ;Zip=77904 ;Start=5/29/2023;End=8/28/2023;Duration=91;Cert=Cardiac Cath Lab Tech ;Specialty=Cardiac Cath Lab ;Unit= ;Shift=Days w/ call;# of Postions=1;Type=Travel;BillRate=$100.00;OTRate=140 ;CallbackRate=140 ;HolidayRate=150 ;Orientation=0 ;Description=Description:DeTar Healthcare System
+RN Cath LabShift: Days w/ callStart: ASAPRate: $1002+ Years Exp Required
+ General CommentsIt's 40 hours and the call schedule is 7 on and 7 off. ;url=https://vendor.healthtrustws.com/positions/716976;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => DeTar Hospital - North 
+    [shiftDateEnd] => 2023-08-28
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

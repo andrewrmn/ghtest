@@ -1,0 +1,130 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4273',
+  'Cf-Ray' => '82bad2112659183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:BACKFILL
+ - TRAVEL   CT TECHNOLOGIST - COST CENTER (726) / 7:00PM-7:00AM
+Saturday Sunday Monday
+
+
+
+
+Facility Overview:
+
+Osceola Regional Medical Center is a Joint Commission accredited 332-bed hospital that builds on a proud tradition of healthcare excellence in Osceola County, Florida. Osceola Regional is conveniently and centrally located in Heart of Kissimmee only minutes from Orlando, St. Cloud, Celebration and Poinciana.
+
+Completed in April 1997 with over $125 million in expansions, Osceola Regional Medical Center is designed to be patient friendly that blends comprehensive state-of-the-art medical technology with the highest level of comfort and convenience possible for patients and visitors.
+
+We are committed to continually enhancing the standard of healthcare by providing services to include:
+Emergency Care,
+Trauma Care,
+Pediatric ER,
+Heart &amp; Vascular Institute,
+Advanced Primary Stroke Center,
+The Baby Suites maternity care,
+Neonatal Intensive Care Unit Level II,
+Women s Services,
+Behavioral Health,
+Orthopedics &amp; Spine
+and a
+Graduate Medical Education Program. We also expand our care to the community with our freestanding Emergency Department at
+Hunter s Creek ER.
+
+
+
+
+Click the
+below icons to discover fun things to do while on your next travel assignment!
+ General Comments1
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 543813
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1214
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 25 2023 10:10:46
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=742260 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA Florida Osceola Hospital? ;City=Kissimmee ;State=FL ;Zip=32742 ;Start=9/12/2023;End=12/12/2023;Duration=91;Cert=CT Tech ;Specialty=Radiology ;Unit=NORTH FLORIDA DIVISION (18) ;Shift=7:00PM - 7:00AM;# of Postions=1;Type=Travel;BillRate=$73.00;OTRate=81 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:BACKFILL
+ - TRAVEL   CT TECHNOLOGIST - COST CENTER (726) / 7:00PM-7:00AM
+Saturday Sunday Monday
+
+
+
+
+Facility Overview:
+
+Osceola Regional Medical Center is a Joint Commission accredited 332-bed hospital that builds on a proud tradition of healthcare excellence in Osceola County, Florida. Osceola Regional is conveniently and centrally located in Heart of Kissimmee only minutes from Orlando, St. Cloud, Celebration and Poinciana.
+
+Completed in April 1997 with over $125 million in expansions, Osceola Regional Medical Center is designed to be patient friendly that blends comprehensive state-of-the-art medical technology with the highest level of comfort and convenience possible for patients and visitors.
+
+We are committed to continually enhancing the standard of healthcare by providing services to include:
+Emergency Care,
+Trauma Care,
+Pediatric ER,
+Heart &amp; Vascular Institute,
+Advanced Primary Stroke Center,
+The Baby Suites maternity care,
+Neonatal Intensive Care Unit Level II,
+Women s Services,
+Behavioral Health,
+Orthopedics &amp; Spine
+and a
+Graduate Medical Education Program. We also expand our care to the community with our freestanding Emergency Department at
+Hunter s Creek ER.
+
+
+
+
+Click the
+below icons to discover fun things to do while on your next travel assignment!
+ General Comments1
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/742260;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 73
+    [facilityName] => Osceola Regional Medical Center-Parallon
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1639',
+  'Cf-Ray' => '829a3703e16223b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 14 bed med surg unit. ratio 1:5. day shift 7p-7a   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544176
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2896
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 21 2023 11:12:32
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261622 ;Status=Open;Association=Comanche County Memorial Hospital ;Client=Comanche County Memorial Hospital ;City=Lawton ;State=OK ;Zip=73505 ;Start=11/14/2023;End=2/13/2024;Duration=91;Cert=Nursing ;Specialty=Registered Nurse, Med-surg Adult ;Unit=Registered Nurse, Med-surg Adult ;Shift=7p-7a;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$80.00;OTRate=80 ;OTRules=By The Week, after 40, ;CallbackRate=80 (All Inclusive Rate) ;HolidayRate=80 (All Inclusive Rate) ;OnCallRateDescription=$2 per hour pager ;Description=14 bed med surg unit. ratio 1:5. day shift 7p-7a   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261622;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Comanche County Memorial Hospital
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

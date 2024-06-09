@@ -1,0 +1,262 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3790',
+  'Cf-Ray' => '82cd48fe41731832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:HCA Florida Fawcett Hospital
+ Address:
+21298 Olean Blvd. Port Charlotte, FL 33949
+    Parking:
+Please      park on the third or fourth floor of the parking garage (AM &amp; PM      Shifts)  Scrub Color:   
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RN - Navy Blue
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Clinical Support   Caribbean Blue
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Radiology   Black
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lab   Khaki
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RT   Grey
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Surgical Staff  Ciel Blue
+  
+Freestanding ERs
+  
+Cape Coral ER
+(941)249-6858
+  
+Address:
+322 SW Pine Island Rd, Cape Coral, FL 33991
+  
+HCA Florida Tamiami Trail Emergency
+941-629-1181
+or
+941-255-6610
+  
+Address:
+150 Tamiami Trail, Port Charlotte, FL 33953
+  Additional Information:
+  Beds capacity:
+253
+ General CommentsTraveler shall be scheduled in accordance with facility policy and is expected to work every other weekend and Holidays in rotation with Hospital employees.
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 545948
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1390
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Cath Lab Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 27 2023 15:57:36
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=775115 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA Florida Fawcett Hospital ;City=PORT CHARLOTTE ;State=FL ;Zip=33949 ;Start=11/29/2023;End=2/21/2024;Duration=84;Cert=Cardiac Cath Lab Tech ;Specialty=Cardiac Cath Lab ;Unit=WEST FLORIDA DIVISION (21) ;Shift=7:00AM-7:00PM;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=88 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:HCA Florida Fawcett Hospital
+ Address:
+21298 Olean Blvd. Port Charlotte, FL 33949
+    Parking:
+Please      park on the third or fourth floor of the parking garage (AM &amp; PM      Shifts)  Scrub Color:   
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RN - Navy Blue
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Clinical Support   Caribbean Blue
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Radiology   Black
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lab   Khaki
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RT   Grey
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Surgical Staff  Ciel Blue
+  
+Freestanding ERs
+  
+Cape Coral ER
+(941)249-6858
+  
+Address:
+322 SW Pine Island Rd, Cape Coral, FL 33991
+  
+HCA Florida Tamiami Trail Emergency
+941-629-1181
+or
+941-255-6610
+  
+Address:
+150 Tamiami Trail, Port Charlotte, FL 33953
+  Additional Information:
+  Beds capacity:
+253
+ General CommentsTraveler shall be scheduled in accordance with facility policy and is expected to work every other weekend and Holidays in rotation with Hospital employees.
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/775115;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Fawcett Memorial Hospital Parallon TRAVEL
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

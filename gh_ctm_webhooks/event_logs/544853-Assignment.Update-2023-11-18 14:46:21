@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2539',
+  'Cf-Ray' => '8281009ce73b6a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 4x 10hrs Day/Evening shifts (0700-1730), 32 hours guaranteed. Need working knowledge of EPIC EHR. Need to have strong Ortho and Neuro experience.Preferred CNOR certified.   Additional Information:There will be up to 36 hours of call off available to the facility at no cost during the course of the assignment.  Please ensure attention to requested facility start date.   Any candidate that is submitted with start dates more than 2 weeks after requested start date will be automatically declined.   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 544853
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 32
+    [facilityID] => 2192
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:30
+    [whenmodified] => November, 18 2023 09:46:20
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=261834 ;Status=Open;Association=MarinHealth Medical Center ;Client=MarinHealth Medical Center ;City=Greenbrae ;State=CA ;Zip=94904 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Nursing ;Specialty=Registered Nurse, Operating Room, Operating Room / Circulate ;Unit=Registered Nurse, Operating Room, Operating Room / Circulate ;Shift=4x 10hrs Day/Evening shifts (0700-1730);# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$115.00;OTRate=125 ;OTRules=By The Week, after 40, ;HolidayRate=125 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=4x 10hrs Day/Evening shifts (0700-1730), 32 hours guaranteed. Need working knowledge of EPIC EHR. Need to have strong Ortho and Neuro experience.Preferred CNOR certified.   Additional Information:There will be up to 36 hours of call off available to the facility at no cost during the course of the assignment.  Please ensure attention to requested facility start date.   Any candidate that is submitted with start dates more than 2 weeks after requested start date will be automatically declined.   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261834;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 8
+    [offContractRate] => 115
+    [facilityName] => Marin General Hospital Travel
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

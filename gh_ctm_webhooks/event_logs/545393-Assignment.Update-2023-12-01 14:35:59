@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '951',
+  'Cf-Ray' => '82ec0f4be5f623c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Shift Change/Hours per Week - 36hrs
+    [sitename] => giftednurses
+    [spec] => PICU
+    [assignmentid] => 545393
+    [workerID] => 251613
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 16046
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-22
+    [workerLastName] => Jimenez Pinol
+    [shiftNum] => 5
+    [workerFirstName] => Ivonne
+    [cert] => RN
+    [floorDesc] => Pediatrics
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 01 2023 09:35:58
+    [daysPerWeek] => 3
+    [orderNote] => FTK: API Reports
+Chrg:P$1/B$3-OnCl:P$10/B$18
+Ornt:$25/NB:12hrs
+BR:$140
+    [guaranteedMinimum] => 
+    [workerEmail] => ivonnejimenez_09@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 140
+    [facilityName] => AHS - Morristown Medical Center
+    [shiftDateEnd] => 2024-04-20
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

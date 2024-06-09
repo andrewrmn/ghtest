@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '28',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8892',
+  'Cf-Ray' => '8330c777161f495d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => The professional Registered Nurse in collaboration with the provider and other healthcare team members, coordinates the delivery of patient care primarily in the Acute Care or Skilled setting as assigned. Responsible for utilizing the nursing process to assess, plan, implement, and evaluate provision of safe patient care, assuring confidentiality, comfort, and advocacy within the scope of nursing practice. The Charge RN will oversee nursing unit operations, delegating nursing care for patients and supervise care by nursing staff on an assigned shift. Assume responsibility and accountability for the coordination of patient care in collaboration with members of the medical staff and all members of the health care team.Qualifications:RN required, BSN preferred.Previous Acute Care experience preferredCalifornia Registered Nursing License; current, active and in good standingCurrent BLS, ACLS Certificate (PALS recommended)CMSN certification preferredJob Requirements / Competence:Provides nursing care utilizing all components of the nursing process-Including:  assessment, diagnosis, care planning, intervention and evaluation and Identifies opportunities to meet the learning needs of patient and family, overcoming barriers to learning.Proficiently uses critical thinking skills and evidenced based practice in the nursing process in delivering care to patients based on their functional and developmental age; identifying actual and potential risk and demonstrating leadership in emergent or crisis situations.Demonstrates proper use of all equipment utilized in the nursing units assigned; how to access and scan medications in pharmacy automated dispensing system and provide medication safety and error reporting in a competent manner; how to conduct beginning and end-of-shift narcotic count.Based on information obtained from the nursing assessment, provides a concise problem focused report to the provider as indicated and ensures continuity of care by processing and follow through on provider orders and treatment plan in a timely manner.Demonstrate competency in utilization review, discharge planning and transfer process   internal and external.Demonstrates competency in the process of admixture and all infusion and medication preparations; treatments, follow up labs, positive cultures, diagnostic imaging, monitoring system, nurse call system, organ donation and release of remains. Demonstrates proficiency navigating through Orchard Hospital Health Information Systems (HIS) including Evident,  Radiology Information System, Relias, and Orchard Hospital Policies and Procedures - entering and noting orders, obtaining diagnostic test results, accessing information from previous hospital visits and locating policy and proceduresDemonstrates effective communication with members of the health care team to achieve desired outcomes; attends and participates in all required in-service training and mandatory meetings (75% staff meetings) per policy.Charge Nurse specific ability to direct activities on the assigned unit and in the event of an emergency, supervising nursing care provided by team members and hold staff accountable for responsibilities within position descriptions; regularly round with patients on assigned shift and unit   review care provided with direct observation and document review; assure point of care testing (POCT) quality, acuity and classification, restraint and all other log/record keeping; provide for lunch/break relief, overflow staffing support, oversight of LVN IV or medication support, primary RN for Central Automated Medication Dispensing Unit access.   Position Urgency:Normal Billing string = Orchard Hospital-Formely Biggs Gridley Memorial Hospital
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 542599
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 13859
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 09 2023 17:45:33
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261161 ;Status=Open;Association=Orchard Hospital-Formely Biggs Gridley Memorial Hospital ;Client=Orchard Hospital-Formely Biggs Gridley Memorial Hospital ;City=Gridley ;State=CA ;Zip=95948 ;Start=11/6/2023;End=2/5/2024;Duration=91;Cert=RN ;Specialty=Med-surg Adult ;Unit=Med-surg Adult ;Shift=Night Shift 6:45pm to 7:15am;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$105.00;OTRate=105 ;OTRules=By The Week, after 40, ;CallbackRate=105 (All Inclusive Rate) ;HolidayRate=105 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=The professional Registered Nurse in collaboration with the provider and other healthcare team members, coordinates the delivery of patient care primarily in the Acute Care or Skilled setting as assigned. Responsible for utilizing the nursing process to assess, plan, implement, and evaluate provision of safe patient care, assuring confidentiality, comfort, and advocacy within the scope of nursing practice. The Charge RN will oversee nursing unit operations, delegating nursing care for patients and supervise care by nursing staff on an assigned shift. Assume responsibility and accountability for the coordination of patient care in collaboration with members of the medical staff and all members of the health care team.Qualifications:RN required, BSN preferred.Previous Acute Care experience preferredCalifornia Registered Nursing License; current, active and in good standingCurrent BLS, ACLS Certificate (PALS recommended)CMSN certification preferredJob Requirements / Competence:Provides nursing care utilizing all components of the nursing process-Including:  assessment, diagnosis, care planning, intervention and evaluation and Identifies opportunities to meet the learning needs of patient and family, overcoming barriers to learning.Proficiently uses critical thinking skills and evidenced based practice in the nursing process in delivering care to patients based on their functional and developmental age; identifying actual and potential risk and demonstrating leadership in emergent or crisis situations.Demonstrates proper use of all equipment utilized in the nursing units assigned; how to access and scan medications in pharmacy automated dispensing system and provide medication safety and error reporting in a competent manner; how to conduct beginning and end-of-shift narcotic count.Based on information obtained from the nursing assessment, provides a concise problem focused report to the provider as indicated and ensures continuity of care by processing and follow through on provider orders and treatment plan in a timely manner.Demonstrate competency in utilization review, discharge planning and transfer process   internal and external.Demonstrates competency in the process of admixture and all infusion and medication preparations; treatments, follow up labs, positive cultures, diagnostic imaging, monitoring system, nurse call system, organ donation and release of remains. Demonstrates proficiency navigating through Orchard Hospital Health Information Systems (HIS) including Evident,  Radiology Information System, Relias, and Orchard Hospital Policies and Procedures - entering and noting orders, obtaining diagnostic test results, accessing information from previous hospital visits and locating policy and proceduresDemonstrates effective communication with members of the health care team to achieve desired outcomes; attends and participates in all required in-service training and mandatory meetings (75% staff meetings) per policy.Charge Nurse specific ability to direct activities on the assigned unit and in the event of an emergency, supervising nursing care provided by team members and hold staff accountable for responsibilities within position descriptions; regularly round with patients on assigned shift and unit   review care provided with direct observation and document review; assure point of care testing (POCT) quality, acuity and classification, restraint and all other log/record keeping; provide for lunch/break relief, overflow staffing support, oversight of LVN IV or medication support, primary RN for Central Automated Medication Dispensing Unit access.   Position Urgency:Normal Billing string = Orchard Hospital-Formely Biggs Gridley Memorial Hospital ;url=https://vms.medefis5.com/jobs/261161;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 105
+    [facilityName] => Orchard Hospital - TRAVEL
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

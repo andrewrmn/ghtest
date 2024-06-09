@@ -1,0 +1,50 @@
+.ghBlurbs{
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  row-gap: 32px;
+
+  &__item{
+    flex: 250px 1 0;
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  &__image{
+    > img{
+      display: block;
+      width: 48px;
+      height: 48px;
+      border-radius: 48px;
+      overflow: hidden;
+      object-fit: cover;
+      object-position: center center;
+    }
+  }
+
+  &__number{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: $color-light-green;
+    border-radius: 60px;
+    height: 64px;
+    width: 64px;
+    font-size: 20px;
+    font-weight: bold;
+    color: $color-dark-teal;
+  }
+
+  &__text{
+    @include capHeight;
+  }
+
+  &__cta{
+    @include capHeight;
+    a{
+      color: $color-teal;
+      font-weight: bold;
+    }
+  }
+}

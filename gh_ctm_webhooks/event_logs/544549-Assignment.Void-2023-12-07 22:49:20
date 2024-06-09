@@ -1,0 +1,159 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5289',
+  'Cf-Ray' => '8320523a53661830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Facility:
+  Mercy Heart &amp; Vascular Hospital St. Louis
+625 S. New Ballas Road | 6th Floor Heart Hospital, Suite 6090 | St. Louis, MO 63141
+Unit:           Cardiac Procedural
+
+Cost Center:
+
+15406610
+
+Specialty:   RN -
+Cardiac Tele experience is required
+
+
+Experience:
+  1+ years Tele experience required
+
+
+
+Shift:     7p - 7a and one weekend per month required; weekend and overnight rotating call required
+
+
+
+Certifications: ACLS &amp; BLS required
+
+Overview:
+ R.N. to take care of telemetry patient s that spend the night for procedures performed in the Cath Lab, EP Lab, PVL, and for  cardiac/vascular outpatient surgeries.  Will also admit outpatient telemetry patients that come in from the E.R. 
+FLU
+and
+COVID-19:
+
+
+All travelers must be completely vaccinated PRIOR TO START. There are no exemptions.
+ General CommentsSt. Louis Hospital Offering Nationally Recognized Care
+
+Mercy Hospital St. Louis has been a healing presence in the St. Louis region for more than 150 years. Today, we continue providing compassionate medical and specialty care on our centrally located campus at I-270 and
+I-64/US 40.
+We offer all-private rooms and the peace of mind of our nationally-recognized care. Mercy's hospital in St. Louis has been recognized numerous times including:
+CMS Five-Star HospitalLeapfrog Straight A Hospital2020 Top Hospital Award
+by Leapfrog100 Top Hospital by Watson HealthLevel I Time Critical Diagnosis
+(TCD) STEMI CenterTop 50 Nation s Best Hospital
+by Newsweek magazine
+
+
+
+Featured Medical Services
+
+At Mercy Hospital St. Louis, you have an entire care team bringing a wealth of expertise to you on one campus. Our
+St. Louis hospital specialty services
+include oncology, cardiovascular care, obstetrics, women s health, pediatrics, emergency services, burn care, stroke care, behavioral health, home health and many others.
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 544549
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8384
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 07 2023 17:49:19
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=776082 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital St Louis ;City=Saint Louis ;State=MO ;Zip=63141 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=Mercy ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Facility:
+  Mercy Heart &amp; Vascular Hospital St. Louis
+625 S. New Ballas Road | 6th Floor Heart Hospital, Suite 6090 | St. Louis, MO 63141
+Unit:           Cardiac Procedural
+
+Cost Center:
+
+15406610
+
+Specialty:   RN -
+Cardiac Tele experience is required
+
+
+Experience:
+  1+ years Tele experience required
+
+
+
+Shift:     7p - 7a and one weekend per month required; weekend and overnight rotating call required
+
+
+
+Certifications: ACLS &amp; BLS required
+
+Overview:
+ R.N. to take care of telemetry patient s that spend the night for procedures performed in the Cath Lab, EP Lab, PVL, and for  cardiac/vascular outpatient surgeries.  Will also admit outpatient telemetry patients that come in from the E.R. 
+FLU
+and
+COVID-19:
+
+
+All travelers must be completely vaccinated PRIOR TO START. There are no exemptions.
+ General CommentsSt. Louis Hospital Offering Nationally Recognized Care
+
+Mercy Hospital St. Louis has been a healing presence in the St. Louis region for more than 150 years. Today, we continue providing compassionate medical and specialty care on our centrally located campus at I-270 and
+I-64/US 40.
+We offer all-private rooms and the peace of mind of our nationally-recognized care. Mercy's hospital in St. Louis has been recognized numerous times including:
+CMS Five-Star HospitalLeapfrog Straight A Hospital2020 Top Hospital Award
+by Leapfrog100 Top Hospital by Watson HealthLevel I Time Critical Diagnosis
+(TCD) STEMI CenterTop 50 Nation s Best Hospital
+by Newsweek magazine
+
+
+
+Featured Medical Services
+
+At Mercy Hospital St. Louis, you have an entire care team bringing a wealth of expertise to you on one campus. Our
+St. Louis hospital specialty services
+include oncology, cardiovascular care, obstetrics, women s health, pediatrics, emergency services, burn care, stroke care, behavioral health, home health and many others.
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/776082;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Mercy Hospital St. Louis - HT
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

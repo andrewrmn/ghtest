@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2613',
+  'Cf-Ray' => '84ca457fa46b77ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 01/07/2021 0956 MSTTricia Wichtoski
+                            
+                            
+                                48 hour contracts. Certified or Registered, but they do need to have experience caring for ventilated patients.  They will be assigned to a primary site - but if they aren't needed there they could be floated to another facility.  We are so busy everywhere that I don't foresee that happening immediately.  Manager to interview and extend offer.
+ RatePlan:AH-RAPID RESPONSE (COVID 19) M/S, TELE/IMC, ICU (L
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 189234
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9547
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-02-22
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RRT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 28 2024 10:29:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;SourceID=9059984 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Medical Center - Williamson ;City=Round Rock ;State=TX ;Zip=78665 ;Start=1/25/2021;End=3/22/2021;Duration=57;Cert=Respiratory Therapist ;Specialty=Respiratory Therapist ;Unit=SMCW Respiratory Therapy ;Shift=NOC 12.00 Hrs;# of Postions=1;Type=Travel;OTRate=Multiplier 1.35 x Std1.350 ;OTRules=Multiplier 1.35 x Std1.350 ;ChargeRate=Additive Std + $4.004.000 ;CallbackRate=Multiplier 1.35 x Std1.350 ;HolidayRate=Multiplier 1.35 x Std1.350 ;OnCallRateDescription=Flat $6.006.000 ;Orientation=Flat $0.000.000 ;Description=01/07/2021 0956 MSTTricia Wichtoski
+                            
+                            
+                                48 hour contracts. Certified or Registered, but they do need to have experience caring for ventilated patients.  They will be assigned to a primary site - but if they aren't needed there they could be floated to another facility.  We are so busy everywhere that I don't foresee that happening immediately.  Manager to interview and extend offer.
+ RatePlan:AH-RAPID RESPONSE (COVID 19) M/S, TELE/IMC, ICU (L ;url=https://secure.shiftwise.net/esp/order.aspx?order_id=5E6FD4D1AF6B2EF4FA73FDE5E683E255;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 
+    [facilityName] => Ascension Seton Williamson Hospital
+    [shiftDateEnd] => 2021-04-19
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

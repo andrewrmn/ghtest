@@ -1,0 +1,126 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5767',
+  'Cf-Ray' => '82c31d9824191465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => **50 mile radius restirciton
+
+Shift: 3, 12Hr 19:00 - 07:00
+Ratios:  4:1
+Years of experience REQ: 
+First-timers accepted: (Y/N) Travel experience: 
+Weekend REQ:
+Certs REQ: BCLS required 
+Is on-call REQ? (Y/N) What is the req? 
+Will clinician float within scope to meet facility needs?  
+Open to accommodating block schedule?  
+Locals accepted: (Y/N) What is the local radius rule? Cannot live within 50 miles of facility   no local applicants - candidates need to live at least 50 miles away from facility
+Pending State License accepted: (Y/N) 
+RTO Restrictions:  
+Guaranteed Hours: (if it s over 36/hrs for 13 weeks):  
+Comments:  
+PCU days
+EMR Meditech
+Hospital Highlights 
+Type of Facility:  
+Magnet, Major Teaching, & Level I Trauma Center:  
+Scrub Color: Royal blue/white
+Parking Cost:  Free in any unrestricted space
+
+
+
+
+ Modified Time:11/29/2023 5:00:00 AM
+ Account Manager: Ashley Glass
+ Account Manager Email: Ashley.Glass@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceNeed 1.5 weeks/10 calendar days + (Quick Starts okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance.SSN&nbsp;DOB&nbsp;&nbsp;RTO:&nbsp;Minimal to no RTO - if RTO is NOT on the submittal and NOT discussed in interview - it will NOT be approved.Valid State License required at time of submission: Exceptions will be made for hard to fill positions&nbsp;Mile Radius Rule Applies: 50 mile radius restriction&nbsp;References are not required for submittalLocal Rules: locals not acceptedThis facility has high ratios and lots of floating - if your candidate isn't comfortable with this, please do not submit! -floating is possible depending on unit. Only 1 facility so would only be floated within the hospitalCopy of Certifications  &nbsp;not required at submission, but nice to have&nbsp;Meditech&nbsp;is EMR   only requires for RRT jobs, just preferred for other units&nbsp;Background Policy to be noted prior to submission: no set policy, will review hits as they come&nbsp;Return Staff Policy: must be gone 1 year&nbsp;16 Hours NBO with a max of 8 hours going toward modules&nbsp;
+    [sitename] => giftednurses
+    [spec] => Stepdown
+    [assignmentid] => 544790
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3633
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 26 2023 10:20:27
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2310258 ;Status=Open;Association=Qualivis PA ;Client=Beaufort Memorial Hospital ;City=Beaufort ;State=SC ;Zip=29902-5441 ;Start=11/29/2023;End=2/28/2024;Duration=91;Cert=Registered Nurse ;Specialty=Step down ;Unit=PCU ;Shift=Night 3x12-Hour (19:00 - 07:00);# of Postions=1;Type=Travel;BillRate=$88.00;OTRules=40 total hours in 1 week : % ;Orientation=16 ;Description=**50 mile radius restirciton
+
+Shift: 3, 12Hr 19:00 - 07:00
+Ratios:  4:1
+Years of experience REQ: 
+First-timers accepted: (Y/N) Travel experience: 
+Weekend REQ:
+Certs REQ: BCLS required 
+Is on-call REQ? (Y/N) What is the req? 
+Will clinician float within scope to meet facility needs?  
+Open to accommodating block schedule?  
+Locals accepted: (Y/N) What is the local radius rule? Cannot live within 50 miles of facility   no local applicants - candidates need to live at least 50 miles away from facility
+Pending State License accepted: (Y/N) 
+RTO Restrictions:  
+Guaranteed Hours: (if it s over 36/hrs for 13 weeks):  
+Comments:  
+PCU days
+EMR Meditech
+Hospital Highlights 
+Type of Facility:  
+Magnet, Major Teaching, & Level I Trauma Center:  
+Scrub Color: Royal blue/white
+Parking Cost:  Free in any unrestricted space
+
+
+
+
+ Modified Time:11/29/2023 5:00:00 AM
+ Account Manager: Ashley Glass
+ Account Manager Email: Ashley.Glass@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceNeed 1.5 weeks/10 calendar days + (Quick Starts okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance.SSN&nbsp;DOB&nbsp;&nbsp;RTO:&nbsp;Minimal to no RTO - if RTO is NOT on the submittal and NOT discussed in interview - it will NOT be approved.Valid State License required at time of submission: Exceptions will be made for hard to fill positions&nbsp;Mile Radius Rule Applies: 50 mile radius restriction&nbsp;References are not required for submittalLocal Rules: locals not acceptedThis facility has high ratios and lots of floating - if your candidate isn't comfortable with this, please do not submit! -floating is possible depending on unit. Only 1 facility so would only be floated within the hospitalCopy of Certifications  &nbsp;not required at submission, but nice to have&nbsp;Meditech&nbsp;is EMR   only requires for RRT jobs, just preferred for other units&nbsp;Background Policy to be noted prior to submission: no set policy, will review hits as they come&nbsp;Return Staff Policy: must be gone 1 year&nbsp;16 Hours NBO with a max of 8 hours going toward modules&nbsp; ;url=https://app.ayaconnect.com/index.html#/vendor/job/2310258/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 88
+    [facilityName] => Beaufort Memorial Hospital Travel
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

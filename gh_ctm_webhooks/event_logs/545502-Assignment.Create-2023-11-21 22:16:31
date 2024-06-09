@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3783',
+  'Cf-Ray' => '829c4c29004e1836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Inspect, decontaminate, assemble, wrap, disinfect and sterilize trays, container systems, linen, instruments, and equipment for facility wide use according to written hospital procedures.High school graduate or equivalent and must be a Certified Operating Room Technician or Certified Central Service Technician.   Additional Information:COVID Vaccine mandate PLEASE REVIEW COVID DOCUMENT IN THEIR ACCOUNT. Former perm employees will not be considered for a traveler position. ***Travelers are the first to float***Strict RADIUS RULE of 100 miles***  We will not accept agency time cards. Time will be processed and uploaded into Medefis the following week.  21 days discrepancies policy.  There is a time card walk through tutorial attached along with the facility contract and required docs under hospital profile page.  Medefis will handle all billing for this client. By clicking on the profile you can see a list of the documents required. That list must also be completed, signed and uploaded into Medefis.  Anyone directly contacting us will not be considered for this or any other positions at Parkview.   Position Urgency:Rapid Response Crisis Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 545502
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1349
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 21 2023 17:16:30
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262057 ;Status=Open;Association=Parkview Medical Center ;Client=Parkview Medical Center ;City=Pueblo ;State=CO ;Zip=81009 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Nursing ;Specialty=Sterile Processing Technologist ;Unit=Sterile Processing Technologist ;Shift=Varied Days/Nights/Shifts ;# of Postions=2;Guaranteed Hours=40;Type=Travel;BillRate=$45.00;OTRate=55 ;OTRules=By The Week, after 40, ;CallbackRate=55 (All Inclusive Rate + $10) ;HolidayRate=55 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=Inspect, decontaminate, assemble, wrap, disinfect and sterilize trays, container systems, linen, instruments, and equipment for facility wide use according to written hospital procedures.High school graduate or equivalent and must be a Certified Operating Room Technician or Certified Central Service Technician.   Additional Information:COVID Vaccine mandate PLEASE REVIEW COVID DOCUMENT IN THEIR ACCOUNT. Former perm employees will not be considered for a traveler position. ***Travelers are the first to float***Strict RADIUS RULE of 100 miles***  We will not accept agency time cards. Time will be processed and uploaded into Medefis the following week.  21 days discrepancies policy.  There is a time card walk through tutorial attached along with the facility contract and required docs under hospital profile page.  Medefis will handle all billing for this client. By clicking on the profile you can see a list of the documents required. That list must also be completed, signed and uploaded into Medefis.  Anyone directly contacting us will not be considered for this or any other positions at Parkview.   Position Urgency:Rapid Response Crisis Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262057;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 45
+    [facilityName] => Parkview Medical Center Travel
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

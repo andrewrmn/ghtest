@@ -1,0 +1,91 @@
+.jobApplication{
+  background: #f2f2f2;
+  padding: 32px 24px;
+  border-radius: 6px;
+
+  &__title{
+    font-family: futura-pt, sans-serif;
+    font-size: 24px;
+    letter-spacing: -0.01em;
+    font-weight: bold;
+    color: $color-dark-teal;
+    margin-top: 0;
+  }
+
+  .application_details{
+    display: block !important;
+  }
+
+  // Overrides
+
+  .teal{
+    color: inherit;
+
+    a{
+      font-weight: bold;
+      text-transform: lowercase;
+    }
+  }
+
+  .ghc_qa_wrap{
+    padding: 0;
+  }
+  .ghc_qa_container{
+    border: 0;
+    padding: 0;
+    box-shadow: none;
+  }
+  .ghc_qa_row{
+    gap: 8px;
+    label{
+      margin-bottom: 0;
+      font-weight: 400;
+    }
+  }
+  .ghc_qa_col-1-2{
+    width: 100%;
+  }
+  .ghc_qa_col-1-3{
+    width: 100%;
+    label{
+      margin-bottom: 8px;
+    }
+  }
+
+  fieldset label:first-child{
+    margin-bottom: 8px;
+  }
+
+  .ghc_qa_col-1-1{
+    label{
+      margin-bottom: 8px;
+    }
+  }
+
+  .ghc_qa_check{
+    input{
+      flex-shrink: 0;
+    }
+  }
+
+  .ghc_qa_btn{
+    transition: all 0.2s ease;
+    display: block;
+    width: 100%;
+    padding: 22px 40px;
+    border: none !important;
+    text-align: center;
+    font-family: futura-pt, sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 17px;
+    line-height: 1;
+    border-radius: 6px;
+  }
+
+  .ghc_qa_error{
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 8px;
+  }
+}

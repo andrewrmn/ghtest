@@ -1,0 +1,162 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4937',
+  'Cf-Ray' => '82938dd162d423b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL - RN - MED SURG (604) - Sky Ridge MC - Nights
+
+****ESCALATED APPROVAL TO $85 FOR A 12 /1 START DATE****
+Unit Information:
+ (Med Surge / 604)Location: Sky Ridge MC
+Address:
+
+Floor:
+
+Building:
+
+
+
+General InformationTell us about the unit(s):Number of Beds -240 bed facilityNumber of Staff   15 RT staffType of staff:Day Shift   Minimum staffing of 3Night Shift   Minimum staffing of 3Patient Ratios   30-40 points average per shiftType of equipment   PB 840 ventilators in ICUEMR - MeditechTypical hiring profileSkill Set Most recruited for:
+ (Travel RNs, local CNAs and sitters)
+
+Must have:
+ candidates without these skills will not be considered for the role.
+ACLS/BLS
+
+Preferred or nice to have:
+ candidates with these skills will be considered first.
+
+NRP/PALS
+
+List typical procedures performed on unit(s):
+
+
+
+Administer treatments, Ventilator set up, assist intubation, ABG, Patient/Staff education, ALL RT therapies
+ED,PEDS,ICU,NICU,MED SURGBest personality Fit:Team player, Collaborative
+
+Unit Guidelines/Policies:
+Please feel free to attach unit policies and guidelines.
+
+
+
+
+Any additional information that would entice a worker to select your unit for their assignment:
+
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc.
+
+*Remember it is a
+very
+competitive market any information you can provide will help attract talent.[Welcom David] Only have 1 vacancy at this time.
+ Low turnover.
+ Flexing up for Flu Season and cover one FMLA in November.
+ Flexible scheduling.
+ RT plays a key role in NICU and ICU in terms of therapy and ventilator liberation.
+ Autonomy required.
+ General Comments
+ No. of Positions: 3/8.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545171
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1273
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 20 2023 15:48:24
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771411 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=SKY RIDGE MEDICAL CENTER CO ;City=Lonetree ;State=CO ;Zip=80124 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=CONTINENTAL DIVISION (10) ;Shift=7:00PM - 7:00AM;# of Postions=3;Type=Travel;BillRate=$85.00;OTRate=93 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:TRAVEL - RN - MED SURG (604) - Sky Ridge MC - Nights
+
+****ESCALATED APPROVAL TO $85 FOR A 12 /1 START DATE****
+Unit Information:
+ (Med Surge / 604)Location: Sky Ridge MC
+Address:
+
+Floor:
+
+Building:
+
+
+
+General InformationTell us about the unit(s):Number of Beds -240 bed facilityNumber of Staff   15 RT staffType of staff:Day Shift   Minimum staffing of 3Night Shift   Minimum staffing of 3Patient Ratios   30-40 points average per shiftType of equipment   PB 840 ventilators in ICUEMR - MeditechTypical hiring profileSkill Set Most recruited for:
+ (Travel RNs, local CNAs and sitters)
+
+Must have:
+ candidates without these skills will not be considered for the role.
+ACLS/BLS
+
+Preferred or nice to have:
+ candidates with these skills will be considered first.
+
+NRP/PALS
+
+List typical procedures performed on unit(s):
+
+
+
+Administer treatments, Ventilator set up, assist intubation, ABG, Patient/Staff education, ALL RT therapies
+ED,PEDS,ICU,NICU,MED SURGBest personality Fit:Team player, Collaborative
+
+Unit Guidelines/Policies:
+Please feel free to attach unit policies and guidelines.
+
+
+
+
+Any additional information that would entice a worker to select your unit for their assignment:
+
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc.
+
+*Remember it is a
+very
+competitive market any information you can provide will help attract talent.[Welcom David] Only have 1 vacancy at this time.
+ Low turnover.
+ Flexing up for Flu Season and cover one FMLA in November.
+ Flexible scheduling.
+ RT plays a key role in NICU and ICU in terms of therapy and ventilator liberation.
+ Autonomy required.
+ General Comments
+ No. of Positions: 3/8. ;url=https://vendor.healthtrustws.com/positions/771411;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Sky Ridge Medical Center Parallon
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

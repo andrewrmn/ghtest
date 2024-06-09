@@ -1,0 +1,98 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3949',
+  'Cf-Ray' => '835853482291183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => *MUST BE ABLE TO START 12/4 or 12/11 - no exceptions!
+
+Must not reside in Moore county.
+
+4 night shifts needed
+1 yr exp required
+First time travelers accepted!!!
+
+1:5 Ratios
+BCLS required
+
+3 Surgical is a 38-bed orthopedic/urology unit. We specialize in orthopedic surgery, ortho. spine surgery, and urological surgery. We also get med/surg overflow when needed.
+
+ Modified Time:12/4/2023 5:00:00 AM
+ Account Manager: Ashley Glass
+ Account Manager Email: Ashley.Glass@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceRTO must be included in submissionPending License is okayPlease include&nbsp;HSS Cover Sheet.Please make candidates aware: Where permitted by applicable law, this facility performs their own pre-employment drug screen on all candidates upon arrival to assignment. This is in addition to what is required during the credentialing process.Travelers who reside in Moore County are not eligible for Travel FirstHealth will not consider FHC employees for contract positions unless they have been gone from our employment for at least 1 year.Need 2 weeks/ 14 calendar days + (confirm with CL if Quick Starts are okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543891
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3569
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-02
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 14 2023 12:56:45
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2304340 ;Status=Open;Association=Qualivis EPA ;Client=FirstHealth Moore Regional Hospital ;City=Pinehurst ;State=NC ;Zip=28374 ;Start=1/2/2024;End=4/2/2024;Duration=91;Cert=Registered Nurse ;Specialty=Medical Surgical ;Unit=3 Surgical /Ortho, 106022 ;Shift=Night 3x12-Hour (19:00 - 07:00);# of Postions=1;Type=Travel;BillRate=$85.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=*MUST BE ABLE TO START 12/4 or 12/11 - no exceptions!
+
+Must not reside in Moore county.
+
+4 night shifts needed
+1 yr exp required
+First time travelers accepted!!!
+
+1:5 Ratios
+BCLS required
+
+3 Surgical is a 38-bed orthopedic/urology unit. We specialize in orthopedic surgery, ortho. spine surgery, and urological surgery. We also get med/surg overflow when needed.
+
+ Modified Time:1/2/2024 12:00:00 AM
+ Account Manager: Ashley Glass
+ Account Manager Email: Ashley.Glass@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceRTO must be included in submissionPending License is okayPlease include&nbsp;HSS Cover Sheet.Please make candidates aware: Where permitted by applicable law, this facility performs their own pre-employment drug screen on all candidates upon arrival to assignment. This is in addition to what is required during the credentialing process.Travelers who reside in Moore County are not eligible for Travel FirstHealth will not consider FHC employees for contract positions unless they have been gone from our employment for at least 1 year.Need 2 weeks/ 14 calendar days + (confirm with CL if Quick Starts are okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2304340/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => FirstHealth Moore Regional Hospital
+    [shiftDateEnd] => 2024-04-02
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

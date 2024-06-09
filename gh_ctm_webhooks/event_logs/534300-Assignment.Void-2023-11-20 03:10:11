@@ -1,0 +1,114 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4046',
+  'Cf-Ray' => '828d7f9705381465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:THIS POSITION IS AUTO-OFFER
+Unit: Burn ICU 7H - Mercy Hospital Springfield
+Specialty: ICU
+Role/Title: RN
+Shift: Days, 0700-1900
+
+Guaranteed Hours: 36
+Assignment Length: 16-26 weeks
+- must be indicated on submission form
+ALL CONTINGENCY REQUESTS MUST BE ON THE SUBMISSION FORMRequired Licensure:
+Current RN
+License (Meets the criteria to be eligible for licensure in state of Missouri or currently licensed in the state of Missouri.)
+Required Certifications:
+BLS and ACLS from AHA only
+Required Experience:
+1 year ICU
+Preferred Experience: 1 year Burn unitMust be willing to float when needed
+MUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsTo ensure patient safety it is mandatory that all licensed co-workers who provide direct patient care pass a medication and math competency test before assuming medication administration responsibilities. This exam will cover knowledge of the actions and side effects of commonly used drugs along with math regarding correct dosages and IV problems.
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 534300
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13126
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 22:10:09
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=763490 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Springfield ;City=Springfield ;State=MO ;Zip=65804 ;Start=10/30/2023;End=2/19/2024;Duration=112;Cert=RN ;Specialty=ICU ;Unit=Mercy ;Shift=07:00-19:00;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:THIS POSITION IS AUTO-OFFER
+Unit: Burn ICU 7H - Mercy Hospital Springfield
+Specialty: ICU
+Role/Title: RN
+Shift: Days, 0700-1900
+
+Guaranteed Hours: 36
+Assignment Length: 16-26 weeks
+- must be indicated on submission form
+ALL CONTINGENCY REQUESTS MUST BE ON THE SUBMISSION FORMRequired Licensure:
+Current RN
+License (Meets the criteria to be eligible for licensure in state of Missouri or currently licensed in the state of Missouri.)
+Required Certifications:
+BLS and ACLS from AHA only
+Required Experience:
+1 year ICU
+Preferred Experience: 1 year Burn unitMust be willing to float when needed
+MUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsTo ensure patient safety it is mandatory that all licensed co-workers who provide direct patient care pass a medication and math competency test before assuming medication administration responsibilities. This exam will cover knowledge of the actions and side effects of commonly used drugs along with math regarding correct dosages and IV problems.
+
+Call Requirements- no call requirements.
+Float Requirements-yes variable/intermittent based on census fluctuations
+
+Number of Beds- 9
+Patient Ratios-variable mixed-- acuity unit ICU, stepdown and floor status patient acuities
+Equipment Phillips ICU monitors, NIcom, ventilators, hydrotherapy equipment
+ 
+
+
+EMR---EPIC
+
+Must Have Skills/Experience ICU
+Type of Patients on Unit
+ Complex burn, complex wound, med/surge ICU, occasional stepdown/icu overflow
+Scrub Color -Black top and Pant (scrubs only)
+Any unacceptable attire -Tshirts/holes in shoes (crocs, etc.) ;url=https://vendor.healthtrustws.com/positions/763490;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Mercy Hospital Springfield TRAVEL
+    [shiftDateEnd] => 2024-03-31
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

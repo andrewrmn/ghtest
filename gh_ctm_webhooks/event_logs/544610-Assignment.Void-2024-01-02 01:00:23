@@ -1,0 +1,129 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3766',
+  'Cf-Ray' => '83ef1097b6526a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name Wash Cardiac Telemetry 5-RN-Mercy Hospital Washington  
+Facility Mercy Hospital Washington
+  
+Unit Telemetry Unit
+  
+Cost Center 15-416090
+  SHIFT INFO  
+Shift Night
+  
+Shifts per week 3
+  
+Hours per shift 12
+  EXPERIENCE  
+Years of Experience 2
+  
+Tele
+-
+required
+  CERTIFICATIONS  
+Certifications
+  
+BLS
+-
+required
+ ACLS
+-
+required
+ NIHSS
+ 
+required
+  DESCRIPTION  
+Utilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care for the assigned patients. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Required education: Completion of accredited nursing program. Required licensure: Currently licensed in the state of Missouri. Required certifications: BLS, NIH Stroke scale and ACLS prior to completing orientation. Other: Employment conditional upon successful completion of cardiac fellowship and cardiac arrhythmia test.
+ General Comments
+ No. of Positions: 4/4.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 544610
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11770
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-14
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => January, 01 2024 20:00:21
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=776211 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Washington ;City=Washington ;State=MO ;Zip=63090 ;Start=12/11/2023;End=12/9/2024;Duration=364;Cert=RN ;Specialty=Tele ;Unit=Mercy ;Shift=19:00-07:30;# of Postions=4;Type=Travel;BillRate=$90.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Name Wash Cardiac Telemetry 5-RN-Mercy Hospital Washington  
+Facility Mercy Hospital Washington
+  
+Unit Telemetry Unit
+  
+Cost Center 15-416090
+  SHIFT INFO  
+Shift Night
+  
+Shifts per week 3
+  
+Hours per shift 12
+  EXPERIENCE  
+Years of Experience 2
+  
+Tele
+-
+required
+  CERTIFICATIONS  
+Certifications
+  
+BLS
+-
+required
+ ACLS
+-
+required
+ NIHSS
+ 
+required
+  DESCRIPTION  
+Utilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care for the assigned patients. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Required education: Completion of accredited nursing program. Required licensure: Currently licensed in the state of Missouri. Required certifications: BLS, NIH Stroke scale and ACLS prior to completing orientation. Other: Employment conditional upon successful completion of cardiac fellowship and cardiac arrhythmia test.
+ General Comments
+ No. of Positions: 4/4.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/776211;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Mercy Hospital Washington - TRAVEL
+    [shiftDateEnd] => 2025-01-12
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

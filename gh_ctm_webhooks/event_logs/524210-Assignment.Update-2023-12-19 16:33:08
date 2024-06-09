@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '980',
+  'Cf-Ray' => '83810babb2f56a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISO: End Date Change
+Ended Early 11/17/2023
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 524210
+    [workerID] => 244040
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3615
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-08-31
+    [workerLastName] => Cole
+    [shiftNum] => 5
+    [workerFirstName] => Malexus
+    [cert] => RN
+    [floorDesc] => 9 West 9 Heart
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 19 2023 11:33:07
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION 
+BR:$97lRS:132808lOnCl:P$5/B$10
+FTK: Facility sends KRONOS (Gifted TC-unsigned)
+    [guaranteedMinimum] => 
+    [workerEmail] => malexuscole97@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 97
+    [facilityName] => University of Tennessee Medical Center TRAVEL
+    [shiftDateEnd] => 2023-11-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,98 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '26',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6388',
+  'Cf-Ray' => '83ba340a46a54955-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:***WellSpan is not currently accepting compact licenses - do not submit compact licenses. All vendors will be updated once this changes. thank you***Rate $115/hrSHIFT-
+
+5x8 hrs shift w/
+weekend, holiday, On Call as needed by unit
+-
+
+40 hrs per weekNeed Travelers to work HOLIDAYS/no RTO for Major Holidays*CALL REQUIRED AS NEEDED BY UNIT, MUST BE ABLE TO COMPLETE MANDATED CALL AS NECESSARY IN EMERGENT CASES FOR UNIT, TRAVELERS MAY CARE FOR/COME INTO CONTACT WITH COVID PATIENTS, TRAVELERS WILL FLOAT TO OTHER DEPARTMENTS AS NEEDED**Peds experience required**
+*Could care for Covid patients
+*Epic experience required
+*2 yrs experience requiredClinical Checklist*Do not submit local candidates to these travel positions. Contact the PMO team for the local rate first. If candidate accepts the lower local rate, submit the profile which clearly notates candidate is local and aware local rates are lower.*As of 1/5/2022 all travelers must be fully vaccinated for COVID-19.**Any traveler declining the COVID-19 vaccine, must be approved for a medical/religious exemption by their agency
+Performs echocardiograms in accordance with established practices and procedures. Provides preliminary diagnostic evaluation and notifies cardiologists of results of examinations. Consults with cardiologist to establish requirements for non-standard examinations and determines technical factors to satisfy requirements. Requires an associates degree, and passing the Echocardiography Registry Exam. Familiar with standard concepts, practices, and procedures within a particular field. Relies on experience and judgment to plan and accomplish goals. Performs a variety of tasks. Works under general supervision. A certain degree of creativity and latitude is required. Typically reports to a manager.
+ General Comments*Nicotine-free facility   ALL FORMS OF NICOTINE   ASSIGNMENT WILL BE CANCELED &amp; NOT ELIGIBLE FOR REHIRE FOR 12 MONTHS IF THERE IS A POSITIVE RESULT FOR ANY REASON*
+*WELLSPAN WILL NOT CONSIDER CANDIDATES THAT HAVE HAD LICENSE SUSPENDED ANYTIME IN THE PAST - DO NOT SUBMIT THESE PROFILES**All time off and/or scheduling requests must be included in the submission*Candidates cannot be considered if they have been employed as a perm hire at any WellSpan site within the year.*WellSpan requires the flu vaccine from
+September 7
+- April 30. Please ensure your traveler is willing to obtain prior to submitting
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => Echocardiography
+    [assignmentid] => 544933
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 2396
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-15
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Echo Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => December, 26 2023 10:02:08
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=776422 ;Status=Open;Association=WellSpan Health ;Client=Chambersburg Hospital ;City=Chambersburg ;State=PA ;Zip=17201 ;Start=12/11/2023;End=3/10/2024;Duration=91;Cert=Echo Tech ;Specialty=Radiology ;Unit=EXT-Allspire (525) ;Shift=-
+
+5x8 hrs shift w/
+weekend, holiday, On Call as needed by unit
+-
+
+40 hrs per week;# of Postions=1;Type=Travel;BillRate=$115.00;minBillRate=$115.00;OTRate=143.75 ;CallbackRate=143.75 ;HolidayRate=143.75 ;Description=Description:12/19-Per HR, leaving open until final decision is made on current offer12/8-Offer AcceptedRate $115/hrSHIFT-
+
+5x8 hrs shift w/
+weekend, holiday, On Call as needed by unit
+-
+
+40 hrs per weekNeed Travelers to work HOLIDAYS/no RTO for Major Holidays*CALL REQUIRED AS NEEDED BY UNIT, MUST BE ABLE TO COMPLETE MANDATED CALL AS NECESSARY IN EMERGENT CASES FOR UNIT, TRAVELERS MAY CARE FOR/COME INTO CONTACT WITH COVID PATIENTS, TRAVELERS WILL FLOAT TO OTHER DEPARTMENTS AS NEEDED**Peds experience required**
+*Could care for Covid patients
+*Epic experience required
+*2 yrs experience requiredClinical Checklist*Do not submit local candidates to these travel positions. Contact the PMO team for the local rate first. If candidate accepts the lower local rate, submit the profile which clearly notates candidate is local and aware local rates are lower.*As of 1/5/2022 all travelers must be fully vaccinated for COVID-19.**Any traveler declining the COVID-19 vaccine, must be approved for a medical/religious exemption by their agency
+Performs echocardiograms in accordance with established practices and procedures. Provides preliminary diagnostic evaluation and notifies cardiologists of results of examinations. Consults with cardiologist to establish requirements for non-standard examinations and determines technical factors to satisfy requirements. Requires an associates degree, and passing the Echocardiography Registry Exam. Familiar with standard concepts, practices, and procedures within a particular field. Relies on experience and judgment to plan and accomplish goals. Performs a variety of tasks. Works under general supervision. A certain degree of creativity and latitude is required. Typically reports to a manager.
+ General Comments*Nicotine-free facility   ALL FORMS OF NICOTINE   ASSIGNMENT WILL BE CANCELED &amp; NOT ELIGIBLE FOR REHIRE FOR 12 MONTHS IF THERE IS A POSITIVE RESULT FOR ANY REASON*
+*WELLSPAN WILL NOT CONSIDER CANDIDATES THAT HAVE HAD LICENSE SUSPENDED ANYTIME IN THE PAST - DO NOT SUBMIT THESE PROFILES**All time off and/or scheduling requests must be included in the submission*Candidates cannot be considered if they have been employed as a perm hire at any WellSpan site within the year.*WellSpan requires the flu vaccine from
+September 7
+- April 30. Please ensure your traveler is willing to obtain prior to submitting
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/776422;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 115
+    [facilityName] => Chambersburg Hospital
+    [shiftDateEnd] => 2024-04-14
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

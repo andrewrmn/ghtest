@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1815',
+  'Cf-Ray' => '83f41ed347d077bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Full-time ER nightline, scheduled 36 hours/week, shifts are 5p-5a.repeating 3-week schedule:Mon, Tue, WedTues, Wed, SatMon, Tues, WedEMR: T-systems   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 476009
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 
+    [facilityID] => 3763
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-02-06
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 06:00
+    [whenmodified] => January, 02 2024 10:43:52
+    [daysPerWeek] => 
+    [orderNote] => Source=Medefis5;SourceID=242179 ;Status=Open;Association=Washington County Hospital and Clinics ;Client=Washington County Hospital and Clinics ;City=Washington ;State=IA ;Zip=52353 ;Start=2/6/2023;End=5/1/2023;Duration=84;Cert=Nursing ;Specialty=Emergency Room Nurse, Critical Access Hospital RN ;Unit=Emergency Room Nurse, Critical Access Hospital RN ;Shift=5pm-5am;# of Postions=1;Type=Travel;BillRate=$115.00;OTRate=115 ;OTRules=By The Week, after 40, ;CallbackRate=115 (All Inclusive Rate) ;HolidayRate=115 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=Full-time ER nightline, scheduled 36 hours/week, shifts are 5p-5a.repeating 3-week schedule:Mon, Tue, WedTues, Wed, SatMon, Tues, WedEMR: T-systems   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/242179;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 115
+    [facilityName] => Washington County Hospital
+    [shiftDateEnd] => 2023-05-01
+    [shiftStartTime] => 17:30
+    [subjectID] => 
+)

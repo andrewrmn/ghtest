@@ -1,0 +1,150 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5356',
+  'Cf-Ray' => '840864a584eb1834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:*offer madeTravel CSTStart: ASAP
+Duration: 13 weeks
+Shift: Days, 12:30p-11p, 4x10, holidays and call requiredNeuro &amp;
+Bariatric
+Experience needed**$60/hr rate approved
+
+Surgical technologists prepare the operating room, including the sterile field, setting up surgical equipment, supplies and solutions. During surgery, surgical technologists pass instruments, fluids and supplies to the surgeon and prepare and manage surgical equipment. Surgical technologists simultaneously manage the sterile field and specimens. Surgical technologists perform a count of sponges and supplies to prevent foreign retained objects. Surgical technologists are certified following successful completion of a CAAHEP-accredited program or other programmatically-accredited surgical technology program and the national Certified Surgical Technologist (CST) examination administered by the National Board of Surgical Technology and Surgical Assisting.
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location:
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 543350
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 8294
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-21
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => January, 04 2024 21:46:50
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=773174 ;Status=Open;Association=Community Health Systems ;Client=Lutheran Hospital ;City=Fort Wayne ;State=IN ;Zip=46804 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=CST/ORT ;Specialty=OR ;Unit=EXT-Other (911) ;Shift=06:30-17:00;# of Postions=1;Type=Travel;BillRate=$60.00;minBillRate=$60.00;OTRate=78 ;CallbackRate=78 ;HolidayRate=78 ;Orientation=0 ;Description=Description:*offer madeTravel CSTStart: ASAP
+Duration: 13 weeks
+Shift: Days, 12:30p-11p, 4x10, holidays and call requiredNeuro &amp;
+Bariatric
+Experience needed**$60/hr rate approved
+
+Surgical technologists prepare the operating room, including the sterile field, setting up surgical equipment, supplies and solutions. During surgery, surgical technologists pass instruments, fluids and supplies to the surgeon and prepare and manage surgical equipment. Surgical technologists simultaneously manage the sterile field and specimens. Surgical technologists perform a count of sponges and supplies to prevent foreign retained objects. Surgical technologists are certified following successful completion of a CAAHEP-accredited program or other programmatically-accredited surgical technology program and the national Certified Surgical Technologist (CST) examination administered by the National Board of Surgical Technology and Surgical Assisting.
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location:
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/773174;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 60
+    [facilityName] => Lutheran Hospital - Parallon Travel
+    [shiftDateEnd] => 2024-04-21
+    [shiftStartTime] => 06:30
+    [subjectID] => 
+)

@@ -1,0 +1,73 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '27',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3123',
+  'Cf-Ray' => '83ef07a345c44959-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Wilkes Barre  Travel Dialysis RN
+ Start: ASAP
+ Duration: 13 weeks
+ Shift: Days, 4x10hr shifts, 7am daily start  **$80/hr rate approved**Call required: rotational overnights, weekends, and holidays
+ General CommentsThe Dialysis Registered Nurse holds shift accountability for providing care to Dialysis patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The Registered Nurse demonstrates critical thinking skills, scientific judgment and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Dialysis
+    [assignmentid] => 545707
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 2412
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-21
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => January, 01 2024 19:54:16
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=777772 ;Status=Open;Association=Community Health Systems ;Client=Wilkes-Barre General Hospital ;City=Kingston ;State=PA ;Zip=18704 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=RN ;Specialty=Dialysis ;Unit=EXT-Other (911) ;Shift=07:00-17:00;# of Postions=1;Type=Travel;BillRate=$80.00;minBillRate=$80.00;OTRate=88 ;CallbackRate=88 ;HolidayRate=88 ;Orientation=0 ;Description=Description:Travel Dialysis RN
+Start: ASAP
+Duration: 13 weeks
+Shift: Days, 4x10hr shifts, 7am daily start  **$80/hr rate approved**Call required: rotational overnights, weekends, and holidays
+ General CommentsThe Dialysis Registered Nurse holds shift accountability for providing care to Dialysis patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The Registered Nurse demonstrates critical thinking skills, scientific judgment and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/777772;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Wilkes-Barre General Hospital
+    [shiftDateEnd] => 2024-04-21
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

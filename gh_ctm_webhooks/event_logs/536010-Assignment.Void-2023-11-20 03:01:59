@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2184',
+  'Cf-Ray' => '828d739532774951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => ACLS required   2 recent references   Recent travel experience preferred.**Shannon Medical Center has a 110 mile radius rule, no contractor will be employed if they live within this radius.**   Additional Information:**Shannon Medical does NOT hire travelers/contractors that have a permanent address within 110 miles of the facility.**   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 536010
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1343
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 22:01:58
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=259621 ;Status=Open;Association=Shannon Medical Center ;Client=Shannon Medical Center ;City=San Angelo ;State=TX ;Zip=76903 ;Start=10/11/2023;End=1/10/2024;Duration=91;Cert=Nursing ;Specialty=Telemetry Med / Surg, Med-Surg Ortho, Med-surg Adult ;Unit=Telemetry Med / Surg, Med-Surg Ortho, Med-surg Adult ;Shift=7am to 7pm;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$90.00;OTRate=100 ;OTRules=By The Week, after 48, ;HolidayRate=100 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=ACLS required   2 recent references   Recent travel experience preferred.**Shannon Medical Center has a 110 mile radius rule, no contractor will be employed if they live within this radius.**   Additional Information:**Shannon Medical does NOT hire travelers/contractors that have a permanent address within 110 miles of the facility.**   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/259621;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Shannon Medical Center Medefis
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

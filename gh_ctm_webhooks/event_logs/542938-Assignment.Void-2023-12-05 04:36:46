@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1402',
+  'Cf-Ray' => '8309970b309423b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => LRM 00469132
+ Every Sun, Mon, and Tues 1830-0700. No call required.
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 542938
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15857
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 04 2023 23:36:45
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48227 ;Status=Open;Association=Trinity Health ;Client=OH - Mount Carmel Grove City ;City=Grove City ;State=OH ;Zip=43123 ;Start=1/7/2024;End=4/6/2024;Duration=90;Cert=CT Tech ;Specialty=CT ;Unit=TH VMS   CT Radiographer ;Shift=18:30:00 - 07:00:00;# of Postions=1;Type=Travel;BillRate=$97.00;OTRate=126.10 ;ChargeRate=100.00 ;CallbackRate=126.10 ;HolidayRate=126.10 ;Orientation=1.00 ;Description=LRM 00469132
+ Every Sun, Mon, and Tues 1830-0700. No call required. ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 97
+    [facilityName] => Mount Carmel Grove City
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 18:30
+    [subjectID] => 
+)

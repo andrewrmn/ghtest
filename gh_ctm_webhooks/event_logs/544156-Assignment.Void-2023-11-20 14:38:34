@@ -1,0 +1,103 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5887',
+  'Cf-Ray' => '82916ff822971466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Unit: Surgical 3N - Mercy Hospital Ada
+Specialty: MedSurg
+Role/Title: RN
+Shift: Nights, 1900-0700
+4x12
+Guaranteed Hours: 48
+Assignment Length: 13 weeks
+ALL CONTINGENCY REQUESTS MUST BE ON THE SUBMISSION FORM
+Required Licensure:
+Current RN
+License (Meets the criteria to be eligible for licensure in state of Oklahoma or currently licensed in the state of Oklahoma.)
+Required Certifications:
+BLS and ACLS from AHA only
+Preferred Certifications:
+PALS, PEARS from AHA only
+Required Experience:
+1 year MedSurg
+
+Must be willing to float when needed
+MUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsThe registered nurse (RN) is accountable for the provision of nursing care for assigned patients in all phases of care. He/she is responsible for prescribing nursing interventions, and coordination of patient activities, and delegation of the aspects of are that are provided by others. The individual will demonstrate professional accountability through adherence to standards of nursing care and a commitment to act in an ethical manner. The RN provides care to patients ranging in age from pediatric to geriatrics. He/she will perform all duties in accordance with the mission, vision, and values of Mercy. Required education: Is a graduate of an accredited school of nursing. Required licensure: Licensed to practice as a registered nurse in the state of Oklahoma. Other: Successful completion of the hospital approved medication test. Demonstrates competency by successful completion of orientation competency assessment and verification form and department specific orientation within the first three months of employment. Demonstrates professional conduct and development. Able to learn and react quickly. Competent to make certain independent decisions concerning the quality and accuracy of the procedures performed. The RN functions autonomously and is responsible for the direction of the health care team and overall plan of care for the patient. Must be able to engage in technical conversation involving discussion with physicians, nurses, patients, families/significant others and co-workers.   Travelers must be willing to float to other areas within the scope of their competencies.
+ No. of Positions: 2/2.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544156
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3240
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 20 2023 09:38:34
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=775366 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Ada ;City=Ada ;State=OK ;Zip=74820 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=Mercy ;Shift=19:00-07:00;# of Postions=2;Type=Travel;BillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Unit: Surgical 3N - Mercy Hospital Ada
+Specialty: MedSurg
+Role/Title: RN
+Shift: Nights, 1900-0700
+4x12
+Guaranteed Hours: 48
+Assignment Length: 13 weeks
+ALL CONTINGENCY REQUESTS MUST BE ON THE SUBMISSION FORM
+Required Licensure:
+Current RN
+License (Meets the criteria to be eligible for licensure in state of Oklahoma or currently licensed in the state of Oklahoma.)
+Required Certifications:
+BLS and ACLS from AHA only
+Preferred Certifications:
+PALS, PEARS from AHA only
+Required Experience:
+1 year MedSurg
+
+Must be willing to float when needed
+MUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsThe registered nurse (RN) is accountable for the provision of nursing care for assigned patients in all phases of care. He/she is responsible for prescribing nursing interventions, and coordination of patient activities, and delegation of the aspects of are that are provided by others. The individual will demonstrate professional accountability through adherence to standards of nursing care and a commitment to act in an ethical manner. The RN provides care to patients ranging in age from pediatric to geriatrics. He/she will perform all duties in accordance with the mission, vision, and values of Mercy. Required education: Is a graduate of an accredited school of nursing. Required licensure: Licensed to practice as a registered nurse in the state of Oklahoma. Other: Successful completion of the hospital approved medication test. Demonstrates competency by successful completion of orientation competency assessment and verification form and department specific orientation within the first three months of employment. Demonstrates professional conduct and development. Able to learn and react quickly. Competent to make certain independent decisions concerning the quality and accuracy of the procedures performed. The RN functions autonomously and is responsible for the direction of the health care team and overall plan of care for the patient. Must be able to engage in technical conversation involving discussion with physicians, nurses, patients, families/significant others and co-workers.   Travelers must be willing to float to other areas within the scope of their competencies.
+ No. of Positions: 2/2. ;url=https://vendor.healthtrustws.com/positions/775366;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital Ada-Travel
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

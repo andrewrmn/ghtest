@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '930',
+  'Cf-Ray' => '84dadb72e3431842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: End Date Change
+Ending: 3/1/2024
+(Going Perm w/ another Facility)
+    [sitename] => giftednurses
+    [spec] => School
+    [assignmentid] => 510125
+    [workerID] => 259294
+    [WorkerContactNo] => 505-218-0098
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 35
+    [facilityID] => 13923
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-08-01
+    [workerLastName] => Torrez
+    [shiftNum] => 1
+    [workerFirstName] => Frank
+    [cert] => COTA
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => January, 30 2024 10:48:05
+    [daysPerWeek] => 5
+    [orderNote] => BR:$63lRS:129928lFTK:GiftTC(No Sign)
+    [guaranteedMinimum] => 
+    [workerEmail] => franktherapia@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 63
+    [facilityName] => Los Lunas School District - Travel
+    [shiftDateEnd] => 2024-03-01
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,79 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3212',
+  'Cf-Ray' => '830fb29022316a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 1/2 START | Backfill: G. Lambert | Weekend Requirement: Yes | On Call Requirement: Yes rotating call every 3rd day and every 3rd weekend | Float Requirement: N/A | Holiday Requirement: Possible holiday call | Scrubs: Hospital provided | Required Certs: ACLS & BLS
+
+
+ Modified Time:1/2/2024 6:00:00 AM
+ Account Manager: Shannon Steely
+ Account Manager Email: Ssteely@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:High
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel.
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 544967
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13892
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-02
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:15
+    [whenmodified] => December, 05 2023 17:24:07
+    [daysPerWeek] => 5
+    [orderNote] => Source=AYA;SourceID=2310022 ;Status=Open;Association=Vaya Legacy MSP (Connect) ;Client=LCMC Health West Jefferson Medical Center ;City=Marrero ;State=LA ;Zip=70072 ;Start=1/2/2024;End=4/2/2024;Duration=91;Cert=Registered Nurse ;Specialty=Cath Lab ;Unit=60240 - WJMCSpecial Procedures - Cath Lab ;Shift=Day 5x8-Hour (06:45 - 15:15);# of Postions=1;Type=Travel;BillRate=$115.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=1/2 START | Backfill: G. Lambert | Weekend Requirement: Yes | On Call Requirement: Yes rotating call every 3rd day and every 3rd weekend | Float Requirement: N/A | Holiday Requirement: Possible holiday call | Scrubs: Hospital provided | Required Certs: ACLS & BLS
+
+
+ Modified Time:1/2/2024 6:00:00 AM
+ Account Manager: Shannon Steely
+ Account Manager Email: Ssteely@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2310022/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 115
+    [facilityName] => West Jefferson Medical Center TRV VAYA
+    [shiftDateEnd] => 2024-04-02
+    [shiftStartTime] => 06:45
+    [subjectID] => 
+)

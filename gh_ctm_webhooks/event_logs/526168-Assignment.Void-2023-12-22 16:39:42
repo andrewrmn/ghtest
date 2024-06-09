@@ -1,0 +1,67 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1663',
+  'Cf-Ray' => '8399cd6755ab77ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => School
+    [assignmentid] => 526168
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Contract
+    [hoursPerWeek] => 40
+    [facilityID] => 14310
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-06
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => SLP
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => December, 22 2023 11:39:31
+    [daysPerWeek] => 5
+    [orderNote] => Dates of work: ASAP-5/24/23 (district calendar is attached) 
+Hours: 8/day, M-F = 40/week (30 min/day, unpaid lunch) -- Option for 8/day, 4 days a week = 32/week 
+Location: Solano Elementary School 1526 W Missouri Ave, Phoenix, AZ 85021 in-person only
+Current caseload (8/22/23): 35, 7 SLI only 
+Duties: Services, evaluations, case management (as appropriate), collaboration with teachers, staff, and families; ability to work closely with self-contained classrooms for students with communication and sensory disorders (including Autism)
+Requirements: SLP state certification (ADE certification optional), familiarity with medicaid billing, appropriate fingerprint clearance, passed background check, integrity with services and billing, school-based experience
+Desired: Familiarity and experience with eIEPpro; bilingual; familiarity and experience with DSCtop
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 81.6
+    [facilityName] => OSBORN SCHOOL DISTRICT #8
+    [shiftDateEnd] => 2024-05-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '924',
+  'Cf-Ray' => '860bc09062786a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By RN; Unable to Finish Assignment
+    [sitename] => giftednurses
+    [spec] => School
+    [assignmentid] => 533037
+    [workerID] => 330401
+    [WorkerContactNo] => PhoneNumber
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 40
+    [facilityID] => 13972
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-16
+    [workerLastName] => Martinez
+    [shiftNum] => 1
+    [workerFirstName] => Omar
+    [cert] => COTA
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => March, 07 2024 10:52:21
+    [daysPerWeek] => 5
+    [orderNote] => BR:$65lRS:134921
+FTK: GiftTS(Sign) Reg hours 35
+    [guaranteedMinimum] => 
+    [workerEmail] => txcota2018@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Gadsden Independent School District
+    [shiftDateEnd] => 2024-03-22
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,122 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4622',
+  'Cf-Ray' => '828d7842c4bd23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:THIS POSITION IS AUTO-OFFERUnit: Med Telemetry 3D
+- Mercy Hospital Springfield
+Specialty: Tele
+Role/Title: RN
+Shift: Nights, 1900-0700
+
+Guaranteed Hours: 36 or 48 - must be indicated on submission form
+Assignment Length: 8-26 weeks
+- must be indicated on submission form
+ALL CONTINGENCY REQUESTS MUST BE ON THE SUBMISSION FORMRequired Licensure:
+Current RN
+License (Meets the criteria to be eligible for licensure in state of Missouri or currently licensed in the state of Missouri.)
+Required Certifications:
+BLS from AHA only,
+NIHSS (may be submitted without, but must obtain prior to start)
+Required Experience:
+1 year Tele
+Preferred Experience: 1 year OrthoMust be willing to float when neededMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsCall Requirements- None
+Float Requirements- will float on a rotational basis
+Patient Ratios: varies. Days 1:5-1:6, nights 1:6-1:8
+(estimates, not guarantees)
+Equipment- Alaris pumps, telemetry, lift equipment
+EMR-EPIC
+Must Have Skills/Experience- BLS
+Scrub Color   Black
+
+Number of beds: 20
+Type of Patients on Unit:
+Med/Surg
+Utilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards.
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 535391
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13126
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 19 2023 22:05:10
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=765252 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Springfield ;City=Springfield ;State=MO ;Zip=65804 ;Start=11/6/2023;End=2/5/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=Mercy ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:THIS POSITION IS AUTO-OFFERUnit: Med Telemetry 3D
+- Mercy Hospital Springfield
+Specialty: Tele
+Role/Title: RN
+Shift: Nights, 1900-0700
+
+Guaranteed Hours: 36 or 48 - must be indicated on submission form
+Assignment Length: 8-26 weeks
+- must be indicated on submission form
+ALL CONTINGENCY REQUESTS MUST BE ON THE SUBMISSION FORMRequired Licensure:
+Current RN
+License (Meets the criteria to be eligible for licensure in state of Missouri or currently licensed in the state of Missouri.)
+Required Certifications:
+BLS from AHA only,
+NIHSS (may be submitted without, but must obtain prior to start)
+Required Experience:
+1 year Tele
+Preferred Experience: 1 year OrthoMust be willing to float when neededMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsCall Requirements- None
+Float Requirements- will float on a rotational basis
+Patient Ratios: varies. Days 1:5-1:6, nights 1:6-1:8
+(estimates, not guarantees)
+Equipment- Alaris pumps, telemetry, lift equipment
+EMR-EPIC
+Must Have Skills/Experience- BLS
+Scrub Color   Black
+
+Number of beds: 20
+Type of Patients on Unit:
+Med/Surg
+Utilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/765252;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Mercy Hospital Springfield TRAVEL
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

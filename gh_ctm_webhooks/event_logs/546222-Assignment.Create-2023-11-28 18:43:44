@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '20',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2471',
+  'Cf-Ray' => '82d4c2166669493d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Work Schedule:Full-Time, 4 x 10 hour shifts, One weekend per contract call, possibly holiday coverageLocation: HospitalResponsibilities:Prepare for surgical procedures by assisting surgeon s needs and collaborating with surgery staff.Inspect supplies, equipment, and instruments pulled for surgery procedures.Label medications on sterile field.Prepare patient s surgical suite for needed supplies.Assist in room turnover, including cleanup of supplies, instruments, and equipment returns.   Position Urgency:Rapid Response Crisis Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 546222
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2316
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 28 2023 13:43:43
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262261 ;Status=Open;Association=Community Hospital ;Client=Community Hospital ;City=Grand Junction ;State=CO ;Zip=81505 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Nursing ;Specialty=Scrub Technologist ;Unit=Scrub Technologist ;Shift=Day shift ;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$80.00;OTRate=80 ;OTRules=By The Week, after 40, ;CallbackRate=80 (All Inclusive Rate) ;HolidayRate=80 (All Inclusive Rate) ;OnCallRateDescription=$2 per hour pager ;Description=Work Schedule:Full-Time, 4 x 10 hour shifts, One weekend per contract call, possibly holiday coverageLocation: HospitalResponsibilities:Prepare for surgical procedures by assisting surgeon s needs and collaborating with surgery staff.Inspect supplies, equipment, and instruments pulled for surgery procedures.Label medications on sterile field.Prepare patient s surgical suite for needed supplies.Assist in room turnover, including cleanup of supplies, instruments, and equipment returns.   Position Urgency:Rapid Response Crisis Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262261;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Community Hospital
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

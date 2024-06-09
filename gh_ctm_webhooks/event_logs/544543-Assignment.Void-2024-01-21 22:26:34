@@ -1,0 +1,71 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1723',
+  'Cf-Ray' => '8492fabfa5971466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Updated Bill Rate $70
+2 Night Shifts 7p -7a
+Required BLS, ACLSOn-Call: NoFloat: Yes to IMC &amp; Tele
+ General CommentsPCR #'s:
+ No. of Positions: 1/2.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544543
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2326
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-02-05
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 21 2024 17:26:32
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=776062 ;Status=Open;Association=Community Health Systems ;Client=Mountainview Regional Medical Center ;City=Las Cruces ;State=NM ;Zip=88011 ;Start=12/8/2023;End=3/8/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=EXT-Other (911) ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$70.00;minBillRate=$70.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:Updated Bill Rate $70
+2 Night Shifts 7p -7a
+Required BLS, ACLSOn-Call: NoFloat: Yes to IMC &amp; Tele
+ General CommentsPCR #'s:
+ No. of Positions: 1/2.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/776062;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Mountainview Regional Medical Center
+    [shiftDateEnd] => 2024-05-06
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3144',
+  'Cf-Ray' => '82e50753f70c6a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Seeking a Med Surg RN to include  ER exp as well.  Positive, upbeat, dynamic professional who is flexible and willing to be a team player. 3-5 years of experience in Critical Access Hospital if possible. This is a Med Surg position with STRONG  ER exp needed.   Cerner Community Works experience preferred  BLS, ACLS, TNCC required. NRP or PALS is preferred. Job would involve full time nights. Schedule as needed, 36 hours/week. 3/6 weekends - Weekends are Friday, Saturday, and Sunday. Christmas Eve night needed for this contract. Shift is 5p-5a. Contract length is negotiable. Candidates are required to have days off requested at the time of contract approval.   Additional Information:Please research motel/hotel as housing is limited. On call rooms are limited and upon request.   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 544650
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10330
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 30 2023 13:07:11
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261763 ;Status=Open;Association=Thayer County Health Services ;Client=Thayer County Health Services ;City=Hebron ;State=NE ;Zip=68370 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Nursing ;Specialty=Critical Access Hospital RN, Emergency Room Nurse, Med-surg Adult ;Unit=Critical Access Hospital RN, Emergency Room Nurse, Med-surg Adult ;Shift=Night shift and 3/6 weekends.;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$85.00;OTRate=95 ;OTRules=By The Week, after 40, ;HolidayRate=95 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=Seeking a Med Surg RN to include  ER exp as well.  Positive, upbeat, dynamic professional who is flexible and willing to be a team player. 3-5 years of experience in Critical Access Hospital if possible. This is a Med Surg position with STRONG  ER exp needed.   Cerner Community Works experience preferred  BLS, ACLS, TNCC required. NRP or PALS is preferred. Job would involve full time nights. Schedule as needed, 36 hours/week. 3/6 weekends - Weekends are Friday, Saturday, and Sunday. Christmas Eve night needed for this contract. Shift is 5p-5a. Contract length is negotiable. Candidates are required to have days off requested at the time of contract approval.   Additional Information:Please research motel/hotel as housing is limited. On call rooms are limited and upon request.   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261763;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Thayer County Health Services
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

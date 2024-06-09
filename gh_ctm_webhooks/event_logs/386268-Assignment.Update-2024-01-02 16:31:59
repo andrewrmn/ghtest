@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '21',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2274',
+  'Cf-Ray' => '83f4653b075d4941-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Extremely low NAC patient ratios at our rural facility.  1:5 ratio for Long Term Care Residents.  Option to work in acute care unit if preferred.  Very supportive nursing and co-worker team.  Lots of time to focus on 1:1 activities and take Residents to our outdoor garden space.Support exists for lodging; either in identifying local options or providing shared residential spaces as a gratis benefit.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => LTAC
+    [assignmentid] => 386268
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 12.5
+    [facilityID] => 3544
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2022-12-19
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 06:30
+    [whenmodified] => January, 02 2024 11:31:57
+    [daysPerWeek] => 1
+    [orderNote] => Source=Medefis5;SourceID=222471 ;Status=Open;Association=Ferry County Health ;Client=Ferry County Health ;City=Republic ;State=WA ;Zip=99166 ;Start=6/1/2022;End=9/14/2022;Duration=105;Cert=Nursing ;Specialty=Long Term Acute Care, Long Term Care (LTC) ;Unit=Long Term Acute Care, Long Term Care (LTC) ;Shift=1800-0600;# of Postions=2;Type=Travel;BillRate=$35.00;OTRate=52.5 ;OTRules=By The Week, after 40, ;CallbackRate=52.5 (1.5 X All Inclusive Rate (Time & 1/2)) ;OnCallRateDescription=No Call ;Description=Extremely low NAC patient ratios at our rural facility.  1:5 ratio for Long Term Care Residents.  Option to work in acute care unit if preferred.  Very supportive nursing and co-worker team.  Lots of time to focus on 1:1 activities and take Residents to our outdoor garden space.Support exists for lodging; either in identifying local options or providing shared residential spaces as a gratis benefit.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/222471;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 35
+    [facilityName] => Washington Registry- Ferry County Memorial Hospital
+    [shiftDateEnd] => 2023-04-03
+    [shiftStartTime] => 18:00
+    [subjectID] => 
+)

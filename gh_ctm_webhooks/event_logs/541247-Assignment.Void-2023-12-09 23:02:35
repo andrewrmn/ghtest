@@ -1,0 +1,372 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4255',
+  'Cf-Ray' => '8330e064b5af77ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL
+RAD TECH
+
+NIGHTS
+
+WEEKEND DAYS
+
+13 WEEK ASSIGNMENT
+
+2 YEARS OF EXPERIENCE IN HOSPITAL SETTING REQUIRED
+ARRT (R) CERTIFICATION &amp; BLS REQUIRED
+
+Unit Information:
+
+Diagnostic RadiologyLocation: Chippenham Hospital
+Address: 7101 Jahnke Road, Richmond VA 23225
+
+Floor: 1st
+Floor
+
+Building: Main
+
+
+
+General InformationTell us about the unit(s): 
+
+
+
+
+
+
+
+
+Number of Beds   NA 
+
+
+
+
+
+
+
+
+Number of Staff   ~35 
+
+
+
+
+
+
+
+
+Type of staff:o
+
+
+
+Day Shift   (7 techs, 3 clerical )o
+
+
+
+Evening Shift-(4 techs, 1 clericalo
+
+
+
+Night Shift   (3 techs)o
+
+
+
+Weekends(Varies, typically 4, 4, 3) 
+
+
+
+
+
+
+
+
+Patient Ratios   NA 
+
+
+
+
+
+
+
+
+Type of equipment - GE 
+
+
+
+
+
+
+
+
+EMR   Meditech/Centricity PACS
+Typical hiring profile
+Must have:
+ 
+
+
+
+
+
+
+
+
+ARRT (R)Preferred or nice to have:
+ 
+
+
+
+
+
+
+
+
+
+Trauma, OR, Meditech
+List typical procedures performed on unit(s):
+
+ 
+
+
+
+
+
+
+
+
+
+
+General and Fluoroscopy
+Best personality Fit: 
+
+
+
+
+
+
+
+
+
+Hard working
+Dress Code: 
+
+
+
+
+
+
+
+
+Scrub Color -
+
+Steel Gray
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 541247
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8325
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-25
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 09 2023 18:02:34
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=765954 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=CJW MEDICAL CENTER CHIPPENHAM CAMPUS VA ;City=RICHMOND ;State=VA ;Zip=23225 ;Start=11/21/2023;End=2/20/2024;Duration=91;Cert=Rad Tech ;Specialty=Radiology ;Unit=CAPITAL DIVISION (20) ;Shift=NIGHTS;# of Postions=1;Type=Travel;BillRate=$72.00;minBillRate=$72.00;OTRate=80 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL
+RAD TECH
+
+NIGHTS
+
+WEEKEND DAYS
+
+13 WEEK ASSIGNMENT
+
+2 YEARS OF EXPERIENCE IN HOSPITAL SETTING REQUIRED
+ARRT (R) CERTIFICATION &amp; BLS REQUIRED
+
+Unit Information:
+
+Diagnostic RadiologyLocation: Chippenham Hospital
+Address: 7101 Jahnke Road, Richmond VA 23225
+
+Floor: 1st
+Floor
+
+Building: Main
+
+
+
+General InformationTell us about the unit(s): 
+
+
+
+
+
+
+
+
+Number of Beds   NA 
+
+
+
+
+
+
+
+
+Number of Staff   ~35 
+
+
+
+
+
+
+
+
+Type of staff:o
+
+
+
+Day Shift   (7 techs, 3 clerical )o
+
+
+
+Evening Shift-(4 techs, 1 clericalo
+
+
+
+Night Shift   (3 techs)o
+
+
+
+Weekends(Varies, typically 4, 4, 3) 
+
+
+
+
+
+
+
+
+Patient Ratios   NA 
+
+
+
+
+
+
+
+
+Type of equipment - GE 
+
+
+
+
+
+
+
+
+EMR   Meditech/Centricity PACS
+Typical hiring profile
+Must have:
+ 
+
+
+
+
+
+
+
+
+ARRT (R)Preferred or nice to have:
+ 
+
+
+
+
+
+
+
+
+
+Trauma, OR, Meditech
+List typical procedures performed on unit(s):
+
+ 
+
+
+
+
+
+
+
+
+
+
+General and Fluoroscopy
+Best personality Fit: 
+
+
+
+
+
+
+
+
+
+Hard working
+Dress Code: 
+
+
+
+
+
+
+
+
+Scrub Color -
+
+Steel Gray
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/765954;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 72
+    [facilityName] => Chippenham Medical Center
+    [shiftDateEnd] => 2024-03-25
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,91 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4974',
+  'Cf-Ray' => '82cd3fe7a50a1465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => New opening | Graduate from AMA Accredited Program, MQSA, ARRT-M, State License (as required), BLS, State MRTBE | MAM, Relevant Equipment| ARRT-QM Specialization Certificate (preferred). Integris requires contractors to know floating may be a requirement. 
+
+DRIVER'S LICENSE MUST BE INCLUDED WITH SUBMISSION 
+
+NO MORE THAN 5 DAYS OF RTO WILL BE ACCEPTED 
+
+ Req:92758
+Job Code: 9228
+
+ Modified Time:12/5/2023 8:00:00 AM
+ Account Manager: Jennifer Davis
+ Account Manager Email: Jennifer.Davis@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceNeed 2 weeks/ 14 calendar days + (confirm with CL if Quick Starts are okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance.RN &amp; Allied Travelers - A copy of traveler s valid State Issued Driver s License or State ID MUST be attached to ALL submittalsRN candidates only - Must have compact license to applyAmerican Heart Association certs requiredNo more than&nbsp;5&nbsp;days of RTO will be accepted per every 13 weeksFloating: All candidates must be willing to float to other areas   even if that is another Integris facility, up to 75 miles.&nbsp; Do not sub unless the traveler is aware and willing to float.Traveler must have a minimum of 1 year separation from INTEGRIS as an employee to be eligible for submissionCandidates within&nbsp;75 miles&nbsp;are considered local travelers and are&nbsp;NOT&nbsp;eligible to apply at Integris.ER candidates only: $32 for ESI certification not included in the BROrientation - held every OTHER Tuesday: 11/14/23, 11/28/23, 12/5/23, 12/19/23, 1/9/24, 1/24/24, etc.DOES NOT ACCEPT TRAVEL PAIRS
+    [sitename] => giftednurses
+    [spec] => Mamography
+    [assignmentid] => 544038
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13235
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-05
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 27 2023 15:51:30
+    [daysPerWeek] => 5
+    [orderNote] => Source=AYA;SourceID=2304012 ;Status=Open;Association=Vaya Legacy MSP (Connect) ;Client=INTEGRIS Health Baptist Medical Center - OK ;City=Oklahoma City ;State=OK ;Zip=73112 ;Start=12/5/2023;End=3/5/2024;Duration=91;Cert=Radiology / Cardiology ;Specialty=Mammography Tech ;Unit=1004155 - Mammography - Mammography Tech ;Shift=Day 5x8-Hour (08:00 - 16:30);# of Postions=1;Type=Travel;BillRate=$80.00;OTRules=40 total hours in 1 week : 1.4% ;Orientation=8 ;Description=New opening | Graduate from AMA Accredited Program, MQSA, ARRT-M, State License (as required), BLS, State MRTBE | MAM, Relevant Equipment| ARRT-QM Specialization Certificate (preferred). Integris requires contractors to know floating may be a requirement. 
+
+DRIVER'S LICENSE MUST BE INCLUDED WITH SUBMISSION 
+
+NO MORE THAN 5 DAYS OF RTO WILL BE ACCEPTED 
+
+ Req:92758
+Job Code: 9228
+
+ Modified Time:12/5/2023 8:00:00 AM
+ Account Manager: Jennifer Davis
+ Account Manager Email: Jennifer.Davis@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceNeed 2 weeks/ 14 calendar days + (confirm with CL if Quick Starts are okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance.RN &amp; Allied Travelers - A copy of traveler s valid State Issued Driver s License or State ID MUST be attached to ALL submittalsRN candidates only - Must have compact license to applyAmerican Heart Association certs requiredNo more than&nbsp;5&nbsp;days of RTO will be accepted per every 13 weeksFloating: All candidates must be willing to float to other areas   even if that is another Integris facility, up to 75 miles.&nbsp; Do not sub unless the traveler is aware and willing to float.Traveler must have a minimum of 1 year separation from INTEGRIS as an employee to be eligible for submissionCandidates within&nbsp;75 miles&nbsp;are considered local travelers and are&nbsp;NOT&nbsp;eligible to apply at Integris.ER candidates only: $32 for ESI certification not included in the BROrientation - held every OTHER Tuesday: 11/14/23, 11/28/23, 12/5/23, 12/19/23, 1/9/24, 1/24/24, etc.DOES NOT ACCEPT TRAVEL PAIRS ;url=https://app.ayaconnect.com/index.html#/vendor/job/2304012/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => INTEGRIS Baptist Medical Center Travel
+    [shiftDateEnd] => 2024-03-05
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

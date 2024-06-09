@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5326',
+  'Cf-Ray' => '828999f4c36a183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+The Respiratory Therapist is either registered or certified by the National Board of Respiratory Care to provide Cardiopulmonary Services.  The Respiratory Therapist is responsible for following protocols approved by the medical staff and department policy and procedures in order to provide timely diagnostic and therapeutic services to both inpatients and outpatients.  Responsibilities include: assisting physicians with invasive and non-invasive procedures, delivery of medicated aerosols via medical compressed gas, maintaining airways, ventilator management, insertion of arterial lines, intubations, pulmonary function studies, cardiac and pulmonary stress tests, and blood gases.parseGeneralComments Comments
+.bd_title { font-weight: bold }
+Shift: Days 6:30a-7pStart: ASAPRate: $135Requirements: 1  years of acute care
+Reason for opening (special, internal vacancy, leave coverage) Vacancy in 1171-008             *******************************************************************************              How long has it been open?              Will position be required to float to other units?              Number of beds in your facility? 126             Years of experience required? At least one year of acute care             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) Bonnie Medina, bonnie_medina@cedarparkregional.com             Willing to review clinicians with pending state license? No             Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift) 06:30am-0700pm    EMR for your facility:              Scrub colors / dress code: Grey    Parking location:  Contact: CHS MSP HOUSE Resource Manager: Christopher Stearns
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 330337
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-01-17
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RRT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:48:41
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=557545 ;Status=Open;Association=CHS ;Client=Cedar Park Regional Medical Center ;City=Cedar Park ;State=TX ;Zip=78613 ;Start=1/17/2022;End=4/18/2022;Duration=91;Cert=CHS Travel:Registered Respiratory Therapist (RRT) (557545) ;Specialty=1171: RESPIRATORY THERAPY ;Unit=RESPIRATORY THERAPY ;Shift=for this position? (days needed, hours or shift) 06:30am-0700pm    EMR for your facility:              Scrub colors / dress code: Grey    Parking location:;# of Postions=1;Type=Travel;BillRate=$135.00;minBillRate=$135.00;Description=Position Description
+The Respiratory Therapist is either registered or certified by the National Board of Respiratory Care to provide Cardiopulmonary Services.  The Respiratory Therapist is responsible for following protocols approved by the medical staff and department policy and procedures in order to provide timely diagnostic and therapeutic services to both inpatients and outpatients.  Responsibilities include: assisting physicians with invasive and non-invasive procedures, delivery of medicated aerosols via medical compressed gas, maintaining airways, ventilator management, insertion of arterial lines, intubations, pulmonary function studies, cardiac and pulmonary stress tests, and blood gases.parseGeneralComments Comments
+.bd_title { font-weight: bold }
+Shift: Days 6:30a-7pStart: ASAPRate: $135Requirements: 1  years of acute care
+Reason for opening (special, internal vacancy, leave coverage) Vacancy in 1171-008             *******************************************************************************              How long has it been open?              Will position be required to float to other units?              Number of beds in your facility? 126             Years of experience required? At least one year of acute care             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) Bonnie Medina, bonnie_medina@cedarparkregional.com             Willing to review clinicians with pending state license? No             Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift) 06:30am-0700pm    EMR for your facility:              Scrub colors / dress code: Grey    Parking location:  Contact: CHS MSP HOUSE Resource Manager: Christopher Stearns ;Buyer=CHS MSP HOUSE ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=557545#!/position/manage/557545;VMSPositionType=Travel minPayRate=$135.00;maxPayRate=$135.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 135
+    [facilityName] => Cedar Park Regional Medical Center
+    [shiftDateEnd] => 2022-04-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6163',
+  'Cf-Ray' => '830e90ffa2a723b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => JOB SUMMARY / PURPOSE The Registered Nurse functions as a vital member of the healthcare team who contributes to the success of the practice by demonstrating patient focus, effective communication, professionalism, and teamwork. Utilizes the nursing process to asses, plan, implement, and evaluate comprehensive care provided to selected patient populations and their families. ESSENTIAL KEY JOB RESPONSIBILITIES 1. Identifies patient care requirements by establishing personal rapport with potential and actual patients and other persons in a position to understand care requirements; initiates plan of care 2. Establishes a compassionate environment by providing emotional, psychological, and spiritual support to patients, friends, and families 3. Promotes patient s independence by establishing patient care goals; teaching patient, friends, and family to understand condition, medications, and self-care skills; answering questions 4. Assures quality of care by adhering to therapeutic standards; measuring health outcomes against patient care goals and standards; making or recommending necessary adjustments; following hospital and nursing division s philosophies and standards of care set by board of nursing, state nurse practice act, and other governing agency regulations 5. Resolves patient problems and needs by utilizing multidisciplinary team strategies 6. Protects patients and employees by adhering to infection control policies and protocols, medication administration and storage procedures, and controlled substance regulations 7. Documents patient care services by charting in patient and department records where relevant 8. Maintains patient confidence and protects operations by keeping information confidential 9. Maintains a cooperative relationship among health care teams by communicating information; responding to requests; building rapport; participating in team problem-solving methods 10. Completes other duties within scope as assigned   Additional Information:50 mile radius rule is in place. traveler's permanent address must be 50 miles or further from facility -------------All of the travelers documents must be in by 3pm Wednesday the week before the traveler starts. They will automatically be pushed out till the next orientation class.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 545645
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10591
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 05 2023 14:06:26
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262101 ;Status=Open;Association=CHI Hospital System ;Client=St. Josephs Hospital and Health Center - Dickinson MBO 4200 ;City=Dickinson ;State=ND ;Zip=58601 ;Start=11/22/2023;End=2/21/2024;Duration=91;Cert=Nursing ;Specialty=Intensive Care / Coronary Nurse (ICU) ;Unit=Intensive Care / Coronary Nurse (ICU) ;Shift=rotating ;# of Postions=1;Guaranteed Hours=24;Type=Travel;BillRate=$95.00;OTRate=95 ;OTRules=By The Week, after 40, ;ChargeRate=5 (Charge Rate Differential) ;CallbackRate=95 (All Inclusive Rate) ;HolidayRate=95 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=JOB SUMMARY / PURPOSE The Registered Nurse functions as a vital member of the healthcare team who contributes to the success of the practice by demonstrating patient focus, effective communication, professionalism, and teamwork. Utilizes the nursing process to asses, plan, implement, and evaluate comprehensive care provided to selected patient populations and their families. ESSENTIAL KEY JOB RESPONSIBILITIES 1. Identifies patient care requirements by establishing personal rapport with potential and actual patients and other persons in a position to understand care requirements; initiates plan of care 2. Establishes a compassionate environment by providing emotional, psychological, and spiritual support to patients, friends, and families 3. Promotes patient s independence by establishing patient care goals; teaching patient, friends, and family to understand condition, medications, and self-care skills; answering questions 4. Assures quality of care by adhering to therapeutic standards; measuring health outcomes against patient care goals and standards; making or recommending necessary adjustments; following hospital and nursing division s philosophies and standards of care set by board of nursing, state nurse practice act, and other governing agency regulations 5. Resolves patient problems and needs by utilizing multidisciplinary team strategies 6. Protects patients and employees by adhering to infection control policies and protocols, medication administration and storage procedures, and controlled substance regulations 7. Documents patient care services by charting in patient and department records where relevant 8. Maintains patient confidence and protects operations by keeping information confidential 9. Maintains a cooperative relationship among health care teams by communicating information; responding to requests; building rapport; participating in team problem-solving methods 10. Completes other duties within scope as assigned   Additional Information:50 mile radius rule is in place. traveler's permanent address must be 50 miles or further from facility -------------All of the travelers documents must be in by 3pm Wednesday the week before the traveler starts. They will automatically be pushed out till the next orientation class.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262101;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => St. Josephs Hospital and Health Center - Dickinson
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

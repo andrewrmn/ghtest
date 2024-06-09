@@ -1,0 +1,162 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5625',
+  'Cf-Ray' => '8272a3e734a61834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name
+
+Anesthesia   Mercy Hospital South - ANES TECH - Mercy Hospital South
+
+Organization
+
+Mercy
+
+Facility
+
+Mercy Hospital South
+
+Unit
+
+Other
+
+Cost Center
+
+15-446560
+
+
+
+
+
+
+
+Shift
+
+variable
+
+Shifts per week
+
+5
+
+Hours per shift
+
+8
+EXPERIENCE
+Years of Experience
+
+Two Years Plus
+
+Specialties
+
+Technologies
+CERTIFICATIONS
+Certifications
+DESCRIPTION
+Demonstrates proper time management skills and priority setting. b. Turn Over of anesthesia machine by wiping down the machine and Lionville cart by following the infection control standard set by the department after each case: Circuits, blades,stimulator, etc. c. Monitors daily schedules to provide necessary equipment for routine and specialty anesthesia cases.  d. May replenish supplies in remote areas including: All travel carts, Airway carts, GI Lab, X-ray, Test and Treatment, Cancer Center, and MRI carts  e. Has knowledge of all anesthesia equipment used by the Anesthesia staff.  -Demonstrates competency in checking anesthesia machine circuits and system.  - Demonstrates ability to troubleshoot and performs minor corrections on equipment. - Identify and set up equipment and supplies needed for difficult intubation, including: ET tubes, circuits and masks, laryngoscope blades, self-inflating resuscitation bags, and trans-tracheal jet ventilation devices.  f. Demonstrates aseptic and sterile techniques for all invasive anesthesia procedures: Arterial line insertion, Central line insertion; Swan Ganz insertion. g. Describe airway management utilizing emergency intubation kits, fiberoptic bronchoscopes, bullards, LMAs, and emergency cricothyrotomy sets.  h. Demonstrates flexibility regarding workload, assignments, and schedule. i. Cleans departmental equipment including but not limited to Bronchoscopes, Bullards, Video scopes, Glidescopes, TEE probe, and LMAs, according to manufacturers guidelines  j. Uses down time productively by: Cleaning of all equipment and workroom.
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 544691
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15624
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 16 2023 15:56:22
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=758156 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital South ;City=Saint Louis ;State=MO ;Zip=63128 ;Start=10/2/2023;End=1/1/2024;Duration=91;Cert=Special Procedures Tech ;Specialty=Radiology ;Unit=Mercy ;Shift=07:00-19:00;# of Postions=1;Type=Travel;BillRate=$65.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Name
+
+Anesthesia   Mercy Hospital South - ANES TECH - Mercy Hospital South
+
+Organization
+
+Mercy
+
+Facility
+
+Mercy Hospital South
+
+Unit
+
+Other
+
+Cost Center
+
+15-446560
+
+
+
+
+
+
+
+Shift
+
+variable
+
+Shifts per week
+
+5
+
+Hours per shift
+
+8
+EXPERIENCE
+Years of Experience
+
+Two Years Plus
+
+Specialties
+
+Technologies
+CERTIFICATIONS
+Certifications
+DESCRIPTION
+Demonstrates proper time management skills and priority setting. b. Turn Over of anesthesia machine by wiping down the machine and Lionville cart by following the infection control standard set by the department after each case: Circuits, blades,stimulator, etc. c. Monitors daily schedules to provide necessary equipment for routine and specialty anesthesia cases.  d. May replenish supplies in remote areas including: All travel carts, Airway carts, GI Lab, X-ray, Test and Treatment, Cancer Center, and MRI carts  e. Has knowledge of all anesthesia equipment used by the Anesthesia staff.  -Demonstrates competency in checking anesthesia machine circuits and system.  - Demonstrates ability to troubleshoot and performs minor corrections on equipment. - Identify and set up equipment and supplies needed for difficult intubation, including: ET tubes, circuits and masks, laryngoscope blades, self-inflating resuscitation bags, and trans-tracheal jet ventilation devices.  f. Demonstrates aseptic and sterile techniques for all invasive anesthesia procedures: Arterial line insertion, Central line insertion; Swan Ganz insertion. g. Describe airway management utilizing emergency intubation kits, fiberoptic bronchoscopes, bullards, LMAs, and emergency cricothyrotomy sets.  h. Demonstrates flexibility regarding workload, assignments, and schedule. i. Cleans departmental equipment including but not limited to Bronchoscopes, Bullards, Video scopes, Glidescopes, TEE probe, and LMAs, according to manufacturers guidelines  j. Uses down time productively by: Cleaning of all equipment and workroom.
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/758156;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Mercy Hospital South - Travel
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

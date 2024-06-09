@@ -1,0 +1,102 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4136',
+  'Cf-Ray' => '82b2aaf3b7e21832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:Caring, Empathy, Attention to detail, Problem solver, Stamina, Patient advocate, willingness to learn, critical thinking skills, time managment, sense of humor, professional
+Complete Description:UNC Health Care Hillsborough Campus  includes a 15-bed Emergency Department - The Emergency Department at the Hillsborough Campus delivers direct and indirect care for patients presenting with minor illnesses/ injuries to critical/ trauma injuries. Critical/traumatic injuries may require stabilization and potential transport to the Main ED / Trauma Level 1 Medical Center in Chapel Hill. This diverse environment in a community hospital setting contributes to a challenging and rewarding clinical environment. This Emergency Department has been accredited by the American College of Emergency Medicine as a Level 2 Geriatric Emergency Department.
+Requisition Comments:Lotus Offers- Fast Offers! 
+Candidates will not interview with MGR.
+
+Must include RTO in submittal in order to be honored at time of offer! 
+
+Traveler is expected to float to like acuities or less if needed. 
+
+No block scheduling
+
+EPIC Required
+Scheduling Details:3/12s, Nights  7pm -7am
+
+Weekend Requirement : EOW EOH 
+
+Call Requirements: NO call 
+
+You will be asked to float to other units as Needed and float to main campus
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 542835
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12017
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 24 2023 10:25:56
+    [daysPerWeek] => 3
+    [orderNote] => Source=PeopleFluent;SourceID=724077 ;Status=Engagement Pending;Association=Behavioral Health ED (BHED), 100 - 240202 - 1000\r\nEmergency Department, 100 - 240216 - 1000\r\nHBH - ED 101 - 240211 - 1000 ;Client=UNC Health ;Start=11/27/2023;End=2/24/2024;Duration=89;Cert=RN ;Specialty=ER ;Unit=RN - ED - Nights - Hillsborough ;Shift=3x12.0 3/12s, Nights  7pm -7am
+
+Weekend Requirement : EOW EOH 
+
+Call Requirements: NO call 
+
+You will be asked to float to other units as Needed and float to main campus;# of Postions=1;Type=Travel;BillRate=$80.00;Description=Short Description:Caring, Empathy, Attention to detail, Problem solver, Stamina, Patient advocate, willingness to learn, critical thinking skills, time managment, sense of humor, professional
+Complete Description:UNC Health Care Hillsborough Campus  includes a 15-bed Emergency Department - The Emergency Department at the Hillsborough Campus delivers direct and indirect care for patients presenting with minor illnesses/ injuries to critical/ trauma injuries. Critical/traumatic injuries may require stabilization and potential transport to the Main ED / Trauma Level 1 Medical Center in Chapel Hill. This diverse environment in a community hospital setting contributes to a challenging and rewarding clinical environment. This Emergency Department has been accredited by the American College of Emergency Medicine as a Level 2 Geriatric Emergency Department.
+Requisition Comments:Lotus Offers- Fast Offers! 
+Candidates will not interview with MGR.
+
+Must include RTO in submittal in order to be honored at time of offer! 
+
+Traveler is expected to float to like acuities or less if needed. 
+
+No block scheduling
+
+EPIC Required
+Scheduling Details:3/12s, Nights  7pm -7am
+
+Weekend Requirement : EOW EOH 
+
+Call Requirements: NO call 
+
+You will be asked to float to other units as Needed and float to main campus ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=724077;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => UNC Hospitals Hillsborough Campus
+    [shiftDateEnd] => 2024-03-08
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

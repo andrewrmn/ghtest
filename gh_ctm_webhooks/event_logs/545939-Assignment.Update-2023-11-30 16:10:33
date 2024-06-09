@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '24',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '926',
+  'Cf-Ray' => '82e45c746167494d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Bill Rate Change $100
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545939
+    [workerID] => 316081
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 16050
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => O'Neill
+    [shiftNum] => 4
+    [workerFirstName] => Erin
+    [cert] => RN
+    [floorDesc] => 7D
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 30 2023 11:10:32
+    [daysPerWeek] => 3
+    [orderNote] => FTK: API Reports
+Chrg:P$1/B$3-OnCl:P$10/B$18
+Ornt:$20/NB:12hr-POT$68.70>40hr
+BR:$100
+    [guaranteedMinimum] => 
+    [workerEmail] => erinloneill14@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => AHS - Overlook Medical Center
+    [shiftDateEnd] => 2024-02-17
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

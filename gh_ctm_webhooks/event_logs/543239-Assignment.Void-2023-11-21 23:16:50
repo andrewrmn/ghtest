@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '9912',
+  'Cf-Ray' => '829ca48664b36a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => COMPANY OVERVIEW:Estes Park Health exists to make a positive differencetothe health and well-being of all we serve.Locatedabout 90 miles northwest of Denver, at7,522 feetabove sea level, Estes ParkHealthsits in the heart of the Rocky Mountains.As a gateway to Rocky Mountain National Park,theadventurous lifestyle Estes Parksuppliesopenendless outdoor opportunities for our staff.We promote a healthy work-life balanceto give our staff the time to enjoy the  playground  that is Colorado.From pediatrics to geriatrics, Estes Park Healthsuppliesafull spectrum of care for our friends, neighbors, and visitors in the entire Estes Park Valley and Rocky Mountain National Park.Today, over18,000 patients residents and visitors alike see our health care teams for both outpatient and inpatient services.SUMMARY:Provide nursing care topatients in Med/Surg.All aspectsof nursing process; assess plans, implement and evaluate and documentation of care.POSITION REQUIREMENTS: Graduate of accredited School of Nursing. Current Colorado RN licensure required. Must be American Heart Association BLS certified upon employment. ACLS, basic ECG competency and PALS.DUTIES:Plans for and utilizes nursing process to meet needs of patients of all ages.Includes assessment, planning(discharge, nursing care), implementation and evaluation. (Assess per chart review)Performs treatment in a safe and effective manner.Administers medications in a safe and timely manner.Maintains responsibility for preparation, interpretation and evaluation of test data.Demonstrates knowledge and skills to act appropriately in an emergency situation.Demonstrates knowledge and participates in education and counseling of patients and significant other in a plan of care.Demonstrates commitment to professional growth and competency. May be required to complete periodic mandatory education as established by the Education Director and the Director of Medical/Surgical Nursing.Promotes positive interpersonal relationships and demonstrates effective communication skills.Maintains confidentiality of all patient and hospital information.Practices according to professional and ethical standards and enforces the same. Demonstrates an understanding of and functions as a professional nurse in accordance with Colorado State Nurse Practice Act.Provides care to patients in Medical/Surgical floor.IMPORTANT PLEASE READ!!VERIFICATION OF CREDENTIALSCHECKLISTBefore agency personnel may provide care to patients or perform any responsibility requiring a license, a HR representative will confirm receipt of the following credentials/documents from candidates travel agency: Current CO license or multistate license and source verifiedoIf permanent license, verify online  print a copy of the page.oIf temporary license, have copy of authorization letter fromColorado Board of Nursing; verify by phone, note on copy and place in their file. Copies of certifications required for the position thatare listed in the Job Description.oSuch as: BLS and ACLS must be AHA, and PALS.  Immunization records including documentation of immunity to Rubella, Rubeola, Mumps, Varicella-Zoste, Hep B and Tetanus. TB test within the last year. Acceptable tests include QuantiFERON or Tspot or TrueTwostep PPD (which means skins test and read must be done 2 times not just once. If they do not have the Two step PPD already it will take a few weeks to get it, so the other options are suggested.) Influenza shot is required by the State of Coloradono exceptionsduring influenza season. Influenza season is Sept 1st(depending on availability of flu vaccines) through to March 31stof the following year, or as otherwise defined by the Department of Epidemiology and Flu Surveillance Team. Confirmation of having received the COVID Vaccine (copy of vaccine card). Copy of negative 10 panel drug screen results (within the last 30 days). Resume  with work experience. Documented references. Proof of all required Regulatory (OSHA) Training. Assessment of skills/competencies. Results of criminal background check including OIG (within the last 30 days). CAPS check through the State of Colorado (required for all patient care positions).I will also need a W-9 for your company.   Position Urgency:Normal Billing string = Estes Park Health
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543239
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2311
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 21 2023 18:16:50
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261383 ;Status=Open;Association=Estes Park Medical Center ;Client=Estes Park Health ;City=Estes Park ;State=CO ;Zip=80517 ;Start=11/8/2023;End=2/7/2024;Duration=91;Cert=Nursing ;Specialty=Med-surg Adult ;Unit=Med-surg Adult ;Shift=Night Shift, 7pm-7am, 12 hour shifts;# of Postions=1;Type=Travel;BillRate=$96.00;OTRate=96 ;OTRules=By The Week, after 40, ;CallbackRate=96 (All Inclusive Rate) ;HolidayRate=96 (All Inclusive Rate) ;OnCallRateDescription=$3.50 ;Description=COMPANY OVERVIEW:Estes Park Health exists to make a positive differencetothe health and well-being of all we serve.Locatedabout 90 miles northwest of Denver, at7,522 feetabove sea level, Estes ParkHealthsits in the heart of the Rocky Mountains.As a gateway to Rocky Mountain National Park,theadventurous lifestyle Estes Parksuppliesopenendless outdoor opportunities for our staff.We promote a healthy work-life balanceto give our staff the time to enjoy the  playground  that is Colorado.From pediatrics to geriatrics, Estes Park Healthsuppliesafull spectrum of care for our friends, neighbors, and visitors in the entire Estes Park Valley and Rocky Mountain National Park.Today, over18,000 patients residents and visitors alike see our health care teams for both outpatient and inpatient services.SUMMARY:Provide nursing care topatients in Med/Surg.All aspectsof nursing process; assess plans, implement and evaluate and documentation of care.POSITION REQUIREMENTS: Graduate of accredited School of Nursing. Current Colorado RN licensure required. Must be American Heart Association BLS certified upon employment. ACLS, basic ECG competency and PALS.DUTIES:Plans for and utilizes nursing process to meet needs of patients of all ages.Includes assessment, planning(discharge, nursing care), implementation and evaluation. (Assess per chart review)Performs treatment in a safe and effective manner.Administers medications in a safe and timely manner.Maintains responsibility for preparation, interpretation and evaluation of test data.Demonstrates knowledge and skills to act appropriately in an emergency situation.Demonstrates knowledge and participates in education and counseling of patients and significant other in a plan of care.Demonstrates commitment to professional growth and competency. May be required to complete periodic mandatory education as established by the Education Director and the Director of Medical/Surgical Nursing.Promotes positive interpersonal relationships and demonstrates effective communication skills.Maintains confidentiality of all patient and hospital information.Practices according to professional and ethical standards and enforces the same. Demonstrates an understanding of and functions as a professional nurse in accordance with Colorado State Nurse Practice Act.Provides care to patients in Medical/Surgical floor.IMPORTANT PLEASE READ!!VERIFICATION OF CREDENTIALSCHECKLISTBefore agency personnel may provide care to patients or perform any responsibility requiring a license, a HR representative will confirm receipt of the following credentials/documents from candidates travel agency: Current CO license or multistate license and source verifiedoIf permanent license, verify online  print a copy of the page.oIf temporary license, have copy of authorization letter fromColorado Board of Nursing; verify by phone, note on copy and place in their file. Copies of certifications required for the position thatare listed in the Job Description.oSuch as: BLS and ACLS must be AHA, and PALS.  Immunization records including documentation of immunity to Rubella, Rubeola, Mumps, Varicella-Zoste, Hep B and Tetanus. TB test within the last year. Acceptable tests include QuantiFERON or Tspot or TrueTwostep PPD (which means skins test and read must be done 2 times not just once. If they do not have the Two step PPD already it will take a few weeks to get it, so the other options are suggested.) Influenza shot is required by the State of Coloradono exceptionsduring influenza season. Influenza season is Sept 1st(depending on availability of flu vaccines) through to March 31stof the following year, or as otherwise defined by the Department of Epidemiology and Flu Surveillance Team. Confirmation of having received the COVID Vaccine (copy of vaccine card). Copy of negative 10 panel drug screen results (within the last 30 days). Resume  with work experience. Documented references. Proof of all required Regulatory (OSHA) Training. Assessment of skills/competencies. Results of criminal background check including OIG (within the last 30 days). CAPS check through the State of Colorado (required for all patient care positions).I will also need a W-9 for your company.   Position Urgency:Normal Billing string = Estes Park Health ;url=https://vms.medefis5.com/jobs/261383;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 96
+    [facilityName] => Estes Park Medical Center
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

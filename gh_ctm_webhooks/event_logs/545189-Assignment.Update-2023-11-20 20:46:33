@@ -1,0 +1,212 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6945',
+  'Cf-Ray' => '82938b01b24223c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN MEDICAL SURGICALVARIABLE
+13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+ Medical/Surgical
+
+Location: Spotsylvania Regional Medical Center
+
+Address: 4600 Spotsylvania Pkwy.
+ Fredericksburg, VA
+
+Floor: 4th 
+
+Building: Main
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   36 bedsNumber of Staff   
+60-65Type of staff:Day Shift   
+1 Charge, 7 RN, 3 PCT, 1-3 sittersNight Shift   1 Charge, 7 RN, 3 PCT, 1-3 SittersPatient Ratios   
+6:1 (low acuity) surge to 7:1 (Rare)Type of equipment - TypicalEMR - Meditech
+Typical hiring profile
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+Ability to handle 6:1 ratio Time management skills 
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+Teamwork Meditech experience
+List typical procedures performed on unit(s): 
+
+
+1 Full assessment, Q8 focused assessment, IV ABX
+Bladder scans, Discharge education, admission assessments
+Best personality Fit:
+
+Upbeat and energetic
+Positive
+Dress Code: 
+Scrub Color -
+ Teal or white
+No Offensive tattoos or t-shirts
+Unit Guidelines/Policies: 
+Per Hospital policy, available on date of start
+
+
+
+Awards/Recognition: 
+
+
+Kudos from coworkers entered into monthly drawings for prizesHighly energetic management and administration always willing to help
+Any additional information:
+
+The Med/Surg unit at Spotsylvania Regional Medical Center is a fun filled, energetic atmosphere.
+ The patient acuity on our unit tends to be lower, therefore our typical ratio is 6:1 which makes our mornings busy but our afternoons very manageable.
+ We would love to eventually get our ratio to 5:1 and that often happens, but to be fair to all staff, I must state that it is currently 6:1.
+ Our staff are always smiling and always willing to help each other out.
+ We have a group messaging site which allows for quick real-time updates from coworkers and management.
+ We also have a director and 4 clinical coordinators that are always on the unit and helping in any way they can.
+ Our clinical coordinators are often in staffing or on the unit lending a hand to anyone needing it.
+ 
+
+
+
+
+We have a good mix of experience with a few of our nurses having over 15-20 years of nursing experience.
+ We are also new graduate friendly and enjoy helping our new nurses get started in their careers.
+ We allow for self-scheduling by staff in order of HR status and we allow 4 guaranteed request off shifts per 4 week schedule period.
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545189
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5914
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 20 2023 15:46:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=754553 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=SPOTSYLVANIA REGIONAL MEDICAL CENTER ;City=Fredricksburg ;State=VA ;Zip=22408 ;Start=10/4/2023;End=1/3/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=CAPITAL DIVISION (20) ;Shift=VARIABLE;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=88 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:TRAVEL RN MEDICAL SURGICALVARIABLE
+13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+ Medical/Surgical
+
+Location: Spotsylvania Regional Medical Center
+
+Address: 4600 Spotsylvania Pkwy.
+ Fredericksburg, VA
+
+Floor: 4th 
+
+Building: Main
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   36 bedsNumber of Staff   
+60-65Type of staff:Day Shift   
+1 Charge, 7 RN, 3 PCT, 1-3 sittersNight Shift   1 Charge, 7 RN, 3 PCT, 1-3 SittersPatient Ratios   
+6:1 (low acuity) surge to 7:1 (Rare)Type of equipment - TypicalEMR - Meditech
+Typical hiring profile
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+Ability to handle 6:1 ratio Time management skills 
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+Teamwork Meditech experience
+List typical procedures performed on unit(s): 
+
+
+1 Full assessment, Q8 focused assessment, IV ABX
+Bladder scans, Discharge education, admission assessments
+Best personality Fit:
+
+Upbeat and energetic
+Positive
+Dress Code: 
+Scrub Color -
+ Teal or white
+No Offensive tattoos or t-shirts
+Unit Guidelines/Policies: 
+Per Hospital policy, available on date of start
+
+
+
+Awards/Recognition: 
+
+
+Kudos from coworkers entered into monthly drawings for prizesHighly energetic management and administration always willing to help
+Any additional information:
+
+The Med/Surg unit at Spotsylvania Regional Medical Center is a fun filled, energetic atmosphere.
+ The patient acuity on our unit tends to be lower, therefore our typical ratio is 6:1 which makes our mornings busy but our afternoons very manageable.
+ We would love to eventually get our ratio to 5:1 and that often happens, but to be fair to all staff, I must state that it is currently 6:1.
+ Our staff are always smiling and always willing to help each other out.
+ We have a group messaging site which allows for quick real-time updates from coworkers and management.
+ We also have a director and 4 clinical coordinators that are always on the unit and helping in any way they can.
+ Our clinical coordinators are often in staffing or on the unit lending a hand to anyone needing it.
+ 
+
+
+
+
+We have a good mix of experience with a few of our nurses having over 15-20 years of nursing experience.
+ We are also new graduate friendly and enjoy helping our new nurses get started in their careers.
+ We allow for self-scheduling by staff in order of HR status and we allow 4 guaranteed request off shifts per 4 week schedule period.
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/754553;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Spotsylvania Regional Medical Center
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

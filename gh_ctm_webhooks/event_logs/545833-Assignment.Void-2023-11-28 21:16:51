@@ -1,0 +1,595 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6690',
+  'Cf-Ray' => '82d5a26457b41834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Data Collection:
+          Unit Information:
+   Cath Lab              Location: HCA Houston Medical Center              
+Address:1313   Hermann Houston, Texas 77004
+         
+Floor:2nd
+             
+Building:HCA   Medical Center
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   3 Cath Labs
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   3-4 Staff per room
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   (example 1 charge, 3 RN, 2 CNA, and 1-3 sitters)
+   
+o
+
+
+   Night Shift - 
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment - 
+   
+ 
+
+
+
+
+
+
+
+   EMR -
+             Typical hiring profile             Skill Set Most recruited for:
+   Interventional and EO Skills   
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+ACLS
+   
+ 
+
+
+
+
+
+
+
+   Previous   Cath Lab experience
+   
+ 
+
+
+
+
+
+
+
+   BLS
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+Structural Heart experience, TAVR, Mitra   Clips ect. 
+    
+
+
+
+
+
+
+
+   
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   EP
+   
+ 
+
+
+
+
+
+
+
+   Device implants
+   
+ 
+
+
+
+
+
+
+
+   Structural   Heart
+ 
+    
+
+
+
+
+
+
+
+   
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+We have a solid team that is   very cohesive and will make them feel welcome. 
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   
+
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   No
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ Any
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   On call for after hour cases.
+ Very little call backs as we are not a   STEMI facility although we can perform them.
+ General Comments
+ No. of Positions: 2/2.
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 545833
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13931
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 28 2023 16:16:50
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=775734 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA Houston Med Ctr ;City=Houston ;State=TX ;Zip=77004 ;Start=12/10/2023;End=3/10/2024;Duration=91;Cert=Rad Tech ;Specialty=Radiology ;Unit=GULF COAST DIVISION (14) ;Shift=7A-5P;# of Postions=2;Type=Travel;BillRate=$85.00;OTRate=93 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Data Collection:
+          Unit Information:
+   Cath Lab              Location: HCA Houston Medical Center              
+Address:1313   Hermann Houston, Texas 77004
+         
+Floor:2nd
+             
+Building:HCA   Medical Center
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   3 Cath Labs
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   3-4 Staff per room
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   (example 1 charge, 3 RN, 2 CNA, and 1-3 sitters)
+   
+o
+
+
+   Night Shift - 
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment - 
+   
+ 
+
+
+
+
+
+
+
+   EMR -
+             Typical hiring profile             Skill Set Most recruited for:
+   Interventional and EO Skills   
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+ACLS
+   
+ 
+
+
+
+
+
+
+
+   Previous   Cath Lab experience
+   
+ 
+
+
+
+
+
+
+
+   BLS
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+Structural Heart experience, TAVR, Mitra   Clips ect. 
+    
+
+
+
+
+
+
+
+   
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   EP
+   
+ 
+
+
+
+
+
+
+
+   Device implants
+   
+ 
+
+
+
+
+
+
+
+   Structural   Heart
+ 
+    
+
+
+
+
+
+
+
+   
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+We have a solid team that is   very cohesive and will make them feel welcome. 
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   
+
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   No
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ Any
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   On call for after hour cases.
+ Very little call backs as we are not a   STEMI facility although we can perform them.
+ General Comments
+ No. of Positions: 2/2. ;url=https://vendor.healthtrustws.com/positions/775734;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => HCA Houston Healthcare Medical Center
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

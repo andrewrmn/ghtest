@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1571',
+  'Cf-Ray' => '83f4267c65d01466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+Todd Trevino declined extension parseGeneralComments Comments
+N/A Contact: Kristopher David Resource Manager: Kristopher David
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 390620
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13775
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-07-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 02 2024 10:49:08
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=591525 ;Status=Open;Association=HWS ;Client=Methodist Hospital Atascosa ;City=Jourdanton ;State=TX ;Zip=78026 ;Start=ASAP;End=;Duration=91;Cert=Contract-RN-ER(780)-7P-7A/13 Weeks (591525) ;Specialty=ER (780) ;Unit=ER ;Shift=7:00 PM - 7:00 AM;# of Postions=1;Type=Travel;BillRate=$83.00;Description=Position Description
+Todd Trevino declined extension parseGeneralComments Comments
+N/A Contact: Kristopher David Resource Manager: Kristopher David ;Buyer=Kristopher David ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=591525#!/position/manage/591525;VMSPositionType=Travel InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 83
+    [facilityName] => Methodist Hospital Atascosa
+    [shiftDateEnd] => 2022-10-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

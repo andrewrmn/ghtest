@@ -1,0 +1,95 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3612',
+  'Cf-Ray' => '84ca405313611464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 11/30/2021 1546 CSTJennifer Carner
+                            
+                            
+                                SPT - $62.00, EMR: Cerner, 13 weeks, Shift: Evening, 2 years exp. Cerner exp a plus. All travelers must be willing to float to sister facilities. Only float when necessary. All must be fully vaccinated with covid 19 and flu and proof of vaccinations must be in the sub packets. Navy Blue Scrubs will be required.
+                            
+                        
+                    
+                        
+                            
+                                11/30/2021 1644 CSTJennifer Carner
+                            
+                            
+                                8 hours/day, 40 hours/wk
+ RatePlan:AH-Covid 19 RN rates (8-25-2021)
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 322689
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13445
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-01-17
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => January, 28 2024 10:25:06
+    [daysPerWeek] => 5
+    [orderNote] => Source=ShiftWise;SourceID=9594203 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Medical Center ;City=Austin ;State=TX ;Zip=78701 ;Start=1/17/2022;End=4/30/2022;Duration=104;Cert=Sterile Processing Tech ;Specialty=Technician ;Unit=SMC Surgery ;Shift=PM 8.00 Hrs;# of Postions=1;Type=Travel;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=11/30/2021 1546 CSTJennifer Carner
+                            
+                            
+                                SPT - $62.00, EMR: Cerner, 13 weeks, Shift: Evening, 2 years exp. Cerner exp a plus. All travelers must be willing to float to sister facilities. Only float when necessary. All must be fully vaccinated with covid 19 and flu and proof of vaccinations must be in the sub packets. Navy Blue Scrubs will be required.
+                            
+                        
+                    
+                        
+                            
+                                11/30/2021 1644 CSTJennifer Carner
+                            
+                            
+                                8 hours/day, 40 hours/wk
+                            
+                        
+                    
+                        
+                            
+                                12/20/2021 1850 CSTJennifer Carner
+                            
+                            
+                                2 full years of experience in specific specialty. At least 1 Travel contract required for submittal. IVS w/Offer. Navy blue scrubs will be required. 150 mile radius rule (no locals). Request # 4854
+ RatePlan:AH-Covid 19 RN rates (8-25-2021) ;url=https://secure.shiftwise.net/esp/order.aspx?order_id=C951D71048A52A06531CD072A09048D0;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => Ascension Seton Medical Center Austin
+    [shiftDateEnd] => 2022-04-30
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

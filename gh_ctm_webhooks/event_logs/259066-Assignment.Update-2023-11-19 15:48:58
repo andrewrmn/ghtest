@@ -1,0 +1,78 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5041',
+  'Cf-Ray' => '828999bae29d23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+TRAVEL RN - DIALYSIS
+Start Date: ASAP
+Duration: 13 Weeks
+Shift: STANDARD, ONCALL
+The Dialysis Registered Nurse holds shift accountability for providing care to Dialysis patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The Registered Nurse demonstrates critical thinking skills, scientific judgment and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient careparseGeneralComments Comments
+.bd_title { font-weight: bold }
+Coverage for FT Dialysis RN 1204-001
+Reason for opening (special, internal vacancy, leave coverage) Vacancy             *******************************************************************************              How long has it been open?              Will position be required to float to other units?              Number of beds in your facility? 126             Years of experience required? 2 years             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) Jennifer LeBlanc, jennifer_leblanc@cedarparkregional.com
+Alyson Albion, alyson_albion@cedarparkregiona.com             Willing to review clinicians with pending state license? No             Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift)     EMR for your facility: HMS Med/Host             Scrub colors / dress code: Navy Blue    Parking location:  Contact: CHS MSP HOUSE Resource Manager: CHS MSP HOUSE
+    [sitename] => giftednurses
+    [spec] => Dialysis
+    [assignmentid] => 259066
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-08-23
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:48:41
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=504764 ;Status=Open;Association=CHS ;Client=Cedar Park Regional Medical Center ;City=Cedar Park ;State=TX ;Zip=78613 ;Start=8/9/2021;End=11/8/2021;Duration=91;Cert=Registered Nurse (RN) ;Specialty=Dialysis ;Unit=DIALYSIS UNIT ;Shift=STANDARD, ONCALL;# of Postions=1;Type=Travel;BillRate=$66.40;Description=Position Description
+TRAVEL RN - DIALYSIS
+Start Date: ASAP
+Duration: 13 Weeks
+Shift: STANDARD, ONCALL
+The Dialysis Registered Nurse holds shift accountability for providing care to Dialysis patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The Registered Nurse demonstrates critical thinking skills, scientific judgment and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient careparseGeneralComments Comments
+.bd_title { font-weight: bold }
+Coverage for FT Dialysis RN 1204-001
+Reason for opening (special, internal vacancy, leave coverage) Vacancy             *******************************************************************************              How long has it been open?              Will position be required to float to other units?              Number of beds in your facility? 126             Years of experience required? 2 years             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) Jennifer LeBlanc, jennifer_leblanc@cedarparkregional.com
+Alyson Albion, alyson_albion@cedarparkregiona.com             Willing to review clinicians with pending state license? No             Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift)     EMR for your facility: HMS Med/Host             Scrub colors / dress code: Navy Blue    Parking location:  Contact: CHS MSP HOUSE Resource Manager: CHS MSP HOUSE ;Buyer=CHS MSP HOUSE ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=504764#!/position/manage/504764;VMSPositionType=Travel InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 66.4
+    [facilityName] => Cedar Park Regional Medical Center
+    [shiftDateEnd] => 2021-11-22
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

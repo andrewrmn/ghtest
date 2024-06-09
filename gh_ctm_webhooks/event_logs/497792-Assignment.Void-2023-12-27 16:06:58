@@ -1,0 +1,79 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1524',
+  'Cf-Ray' => '83c2d052e4be77ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => School
+    [assignmentid] => 497792
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Contract
+    [hoursPerWeek] => 37.5
+    [facilityID] => 13941
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 1
+    [bonus] => 
+    [shiftDateStart] => 2023-10-30
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:30
+    [whenmodified] => December, 27 2023 11:06:57
+    [daysPerWeek] => 5
+    [orderNote] => PLEASE send candidates with the following information:
+ name
+ resume
+ contact information (phone and email)
+ interview availability
+ references (we have to get in contact with at least 1 supervisor reference from the list)
+ phone numbers and emails are helpful
+ are they able to go on the military base?
+ do they have military ID
+ or a current passport
+ or an enhanced WA state driver's license
+ if certificated:
+ OSPI account created?
+ current ESA certification for WA state?
+ working on certification?
+ where in the process?
+ when would they be available to start?
+ have they completed fingerprints within the last 2 years for WA state?
+This will help move the process along smoothly.
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 68
+    [facilityName] => Clover Park School District
+    [shiftDateEnd] => 2024-06-12
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

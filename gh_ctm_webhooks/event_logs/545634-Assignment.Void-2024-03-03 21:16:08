@@ -1,0 +1,633 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '9963',
+  'Cf-Ray' => '85eca551b4b81465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:CONTRACT - RN - CASE MANAGEMENT (846) - 13 WEEKS - 8A-4:30P
+Rotating Weekends
+
+NO ON CALL
+
+RN licensure, CM experience, BLS
+
+
+Unit Profiles:
+  
+The purpose of a unit profile is to help provide an exceptional understanding of the unit.
+ Profiles will include location, number of beds, patient rations, and other unique details to assist recruiting professional in effectively and efficiently identifying highly qualified staff. 
+
+Below you will find a data collection tool to help you identify essential data needed to complete your profile.
+ 
+  
+
+
+  
+Data Collection:
+          Unit Information:
+                Location:              
+Building: Las   Palmas Medical Center
+   
+1801 N Oregon St.   El Paso, Tx 79902
+         
+Floor: Med/Surg,   Tele, MICU, SICU, Oncology, Peds/PICU/NICU
+             Order Detail:             Facility Department   Number: 84626   Discipline: RN Case   Manager   Quantity: 1   Target Start Date: TBD   Shift: 0800-1630   Call Requirements: None   Weekends: Yes             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   Each unit varies
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   5 SWs; 10 RNs; 1 CM   Manager; 1 SW supervisor; 1 CMA
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   13 staff members/skill mix
+   
+o
+
+
+   Night Shift - NA
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   1:25 RNCM to patient
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   computer; office   equipment
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech; Midas
+   
+ 
+
+
+
+
+
+
+
+   Permanent Positions on Unit Avaliable?   (Y/N)   
+             Typical hiring profile             Skill Set Most recruited for:
+   (Travel RNs, local CNAs and sitters)   
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   Meditech;   HCA experience
+   
+ 
+
+
+
+
+
+
+
+   Bedside   CM experience 1 year minimum
+   
+ 
+
+
+
+
+
+
+
+   Post   acute care knowledge
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   Neditech;   Midas experience; prior HCA experience 
+   
+ 
+
+
+
+
+
+
+
+   
+Knowledge of throughput in acute care   setting
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+
+Progression of care; discharge planning
+   
+ 
+
+
+
+
+
+
+
+   Multidisciplinary   rounds
+   
+ 
+
+
+
+
+
+
+
+   Discussions,   sometimes difficult ones,
+ about dc   plans with families and MDs 
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   Strong type A personality; assertive but not aggressive 
+   
+ 
+
+
+
+
+
+
+
+   Proactive; able to adapt to different environments
+             
+Dress Code: Include requirements, but most of   all not acceptable attire.
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color -
+ black
+   
+ 
+
+
+
+
+
+
+
+   
+Business casual; no open toe shoes, no artificial   nails, no crocs
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+
+
+             Awards/Recognition: 
+Feel free to include items such as   links to videos that feature the department, outstanding department/team   awards, reigning annual chili cook-off winners, etc.
+     
+
+
+
+
+
+
+
+   
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.
+ *Remember it is a very   competitive market any information you can provide will help attract talent.
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Case Mgmt
+    [assignmentid] => 545634
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5422
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-03-18
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => March, 03 2024 16:16:06
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=774223 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=DEL SOL MEDICAL CENTER El Paso ;City=El Paso ;State=TX ;Zip=79925 ;Start=2/23/2024;End=5/24/2024;Duration=91;Cert=RN ;Specialty=Case Mgmt ;Unit=CENTRAL AND WEST TEXAS DIVISION (50) ;Shift=8:00AM-4:30PM;# of Postions=1;Type=Travel;BillRate=$70.00;minBillRate=$70.00;OTRate=78 ;CallbackRate=78 ;HolidayRate=78 ;Orientation=0 ;Description=Description:CONTRACT - RN - CASE MANAGEMENT (846) - 13 WEEKS - 8A-4:30P
+Rotating Weekends
+
+NO ON CALL
+
+RN licensure, CM experience, BLS
+
+
+Unit Profiles:
+  
+The purpose of a unit profile is to help provide an exceptional understanding of the unit.
+ Profiles will include location, number of beds, patient rations, and other unique details to assist recruiting professional in effectively and efficiently identifying highly qualified staff. 
+
+Below you will find a data collection tool to help you identify essential data needed to complete your profile.
+ 
+  
+
+
+  
+Data Collection:
+          Unit Information:
+                Location:              
+Building: Las   Palmas Medical Center
+   
+1801 N Oregon St.   El Paso, Tx 79902
+         
+Floor: Med/Surg,   Tele, MICU, SICU, Oncology, Peds/PICU/NICU
+             Order Detail:             Facility Department   Number: 84626   Discipline: RN Case   Manager   Quantity: 1   Target Start Date: TBD   Shift: 0800-1630   Call Requirements: None   Weekends: Yes             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   Each unit varies
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   5 SWs; 10 RNs; 1 CM   Manager; 1 SW supervisor; 1 CMA
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   13 staff members/skill mix
+   
+o
+
+
+   Night Shift - NA
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   1:25 RNCM to patient
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   computer; office   equipment
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech; Midas
+   
+ 
+
+
+
+
+
+
+
+   Permanent Positions on Unit Avaliable?   (Y/N)   
+             Typical hiring profile             Skill Set Most recruited for:
+   (Travel RNs, local CNAs and sitters)   
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   Meditech;   HCA experience
+   
+ 
+
+
+
+
+
+
+
+   Bedside   CM experience 1 year minimum
+   
+ 
+
+
+
+
+
+
+
+   Post   acute care knowledge
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   Neditech;   Midas experience; prior HCA experience 
+   
+ 
+
+
+
+
+
+
+
+   
+Knowledge of throughput in acute care   setting
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+
+Progression of care; discharge planning
+   
+ 
+
+
+
+
+
+
+
+   Multidisciplinary   rounds
+   
+ 
+
+
+
+
+
+
+
+   Discussions,   sometimes difficult ones,
+ about dc   plans with families and MDs 
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   Strong type A personality; assertive but not aggressive 
+   
+ 
+
+
+
+
+
+
+
+   Proactive; able to adapt to different environments
+             
+Dress Code: Include requirements, but most of   all not acceptable attire.
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color -
+ black
+   
+ 
+
+
+
+
+
+
+
+   
+Business casual; no open toe shoes, no artificial   nails, no crocs
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+
+
+             Awards/Recognition: 
+Feel free to include items such as   links to videos that feature the department, outstanding department/team   awards, reigning annual chili cook-off winners, etc.
+     
+
+
+
+
+
+
+
+   
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.
+ *Remember it is a very   competitive market any information you can provide will help attract talent.
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/774223;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Del Sol Medical Center Travel
+    [shiftDateEnd] => 2024-06-17
+    [shiftStartTime] => 08:00
+    [subjectID] => 
+)

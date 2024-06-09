@@ -1,0 +1,234 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3752',
+  'Cf-Ray' => '82cb9574f4e51838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:DupontTravel ER RN
+ Start: ASAP
+ Duration: 8 weeks
+ Shift: Nights, 7p-7a, Weekdays    **$85/hr rate approved**BCLS required**ACLS, PALS, NRP, STABLE certs preferred
+ General Comments**Schedule: Full-time, 36 hours per week, Weekday Nights8 Weeks
+Job Summary:
+Under the immediate direction of the ER Director or other designated clinical management as assigned, functions as a clinical nurse mentor/preceptor with responsibility for the delivery of individualized, effective nursing care to a module of patients.
+
+Registration/Certification/Licensure:
+Current state licensure/ or compact with Indiana as a Registered Nurse required
+
+ 
+
+
+
+
+
+
+ BCLS required
+
+ 
+
+
+
+
+
+
+
+ACLS preferred
+
+ 
+
+
+
+
+
+
+
+PALS preferred
+
+ 
+
+
+
+
+
+
+
+NRP preferred
+
+ 
+
+
+
+
+
+
+
+STABLE preferred
+
+
+
+
+
+
+Experience:
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Emergency Department experience required
+
+
+
+
+Education:
+
+Completion of a nursing program diploma or Associates Degree in Nursing from an accredited school of 
+nursing.
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 538729
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10703
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 27 2023 11:00:08
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=770164 ;Status=Open;Association=Community Health Systems ;Client=Dupont Hospital ;City=Fort Wayne ;State=IN ;Zip=46825 ;Start=11/27/2023;End=12/31/2023;Duration=56;Cert=RN ;Specialty=Emergency Dept ;Unit=EXT-Other (911) ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:DupontTravel ER RN
+ Start: ASAP
+ Duration: 8 weeks
+ Shift: Nights, 7p-7a, Weekdays    **$80/hr rate approved**BCLS required**ACLS, PALS, NRP, STABLE certs preferred
+ General Comments**Schedule: Full-time, 36 hours per week, Weekday Nights8 Weeks
+Job Summary:
+Under the immediate direction of the ER Director or other designated clinical management as assigned, functions as a clinical nurse mentor/preceptor with responsibility for the delivery of individualized, effective nursing care to a module of patients.
+
+Registration/Certification/Licensure:
+Current state licensure/ or compact with Indiana as a Registered Nurse required
+
+ 
+
+
+
+
+
+
+ BCLS required
+
+ 
+
+
+
+
+
+
+
+ACLS preferred
+
+ 
+
+
+
+
+
+
+
+PALS preferred
+
+ 
+
+
+
+
+
+
+
+NRP preferred
+
+ 
+
+
+
+
+
+
+
+STABLE preferred
+
+
+
+
+
+
+Experience:
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Emergency Department experience required
+
+
+
+
+Education:
+
+Completion of a nursing program diploma or Associates Degree in Nursing from an accredited school of 
+nursing.
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/770164;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Dupont Hospital
+    [shiftDateEnd] => 2023-12-31
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

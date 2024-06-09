@@ -1,0 +1,375 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7577',
+  'Cf-Ray' => '84fe20b863bd23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Hospital:
+ Parkridge Medical Center             Location: 2333 McCallie Avenue             
+Address: Chattanooga, TN 30404
+         
+Unit Name: 3West Cardiac
+             
+Building: Main- 3rd floor
+         
+Cost Center: 609/ 62025
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds: 30
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratio: 5-6 : 1
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- Unit clerk on days, 2-3 PCT s day &amp; night, Nursing Supervisor,   Hospitalists
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment: Welch Allyn vitals neuron, Novameter glucose, Philips Telemetry and   MP2 s
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech-HCA version
+   
+ 
+
+
+
+
+
+
+
+   Medications:
+ WOW with med drawers,   PyxisES dispensing system
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: equivalent of every other weekend (4 weekend shifts/4-week   schedule)
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: other M/S areas: general MS, Ortho, PCU (Progressive Care Unit),   M/S surgical w oncology.
+ We rotate   unless skill mix is needed. 
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements: Bedside Rounding, Hourly Rounding with 5P s checked. Reporting to   PCT s of known needs at beginning and during shifts, Check glass board for   dept focus areas, Scrolling video kiosk available as well as email for update   references. 
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications: BLS/ACLS/NIH
+             Hiring profile             Requested Skill Set: Cardiac knowledge   preferred   
+   
+Must have: ACLS/BLS
+   
+   
+
+
+   
+Advanced skills needed: Knowledge of Heparin, Cardizem, Dobutamine, Dopamine, and Amiodarone   drips
+   
+
+
+   
+   
+Procedures performed on unit: 
+Chest Tube management, wound   vac management, EKG s ad lib, 
+   
+
+
+   
+
+
+   
+Certifications Required: ACLS
+   
+   
+
+
+             
+Dress Code: RN- Navy and CNA/PCT- ceil blue scrub   set and jacket (if desired). May wear white, blue, grey, or black tshirt   underneath if desired- no graphics. 
+   
+No artificial or gel nails or gel nail polish
+   
+             
+Unit Guidelines/Policies: Documentation of telemetry application,   acknowledging rhythm strips and place in chart each shift. NO PASS ZONE for   bed alarms, call lights, and IV alarms, etc.
+   
+
+
+             
+Awards/Recognition: Facebook/ Parkridge Medical Center page has many photos, stories, and   videos, Daisy and Bee Awards, iHEAL nominations
+   
+
+
+             
+Any additional information that would   entice a worker to select your unit for their assignment: We have Charge Nurses with 12, 16-, and 39-year seniority on   dayshift and 15+ on nightshift. Shared Governance per units and facility.
+ General Comments
+ No. of Positions: 1/2.
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 529616
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7580
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-02-19
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => February, 03 2024 17:32:04
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=748300 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=PARKRIDGE MEDICAL CENTER ;City=CHATTANOOGA ;State=TN ;Zip=37404 ;Start=12/8/2023;End=3/8/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=TRISTAR DIVISION (7) ;Shift=7:00AM – 7:00PM ;# of Postions=1;Type=Travel;BillRate=$69.00;minBillRate=$69.00;OTRate=77 ;CallbackRate=77 ;HolidayRate=77 ;Orientation=0 ;Description=Description:Hospital:
+ Parkridge Medical Center             Location: 2333 McCallie Avenue             
+Address: Chattanooga, TN 30404
+         
+Unit Name: 3West Cardiac
+             
+Building: Main- 3rd floor
+         
+Cost Center: 609/ 62025
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds: 30
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratio: 5-6 : 1
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- Unit clerk on days, 2-3 PCT s day &amp; night, Nursing Supervisor,   Hospitalists
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment: Welch Allyn vitals neuron, Novameter glucose, Philips Telemetry and   MP2 s
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech-HCA version
+   
+ 
+
+
+
+
+
+
+
+   Medications:
+ WOW with med drawers,   PyxisES dispensing system
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: equivalent of every other weekend (4 weekend shifts/4-week   schedule)
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: other M/S areas: general MS, Ortho, PCU (Progressive Care Unit),   M/S surgical w oncology.
+ We rotate   unless skill mix is needed. 
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements: Bedside Rounding, Hourly Rounding with 5P s checked. Reporting to   PCT s of known needs at beginning and during shifts, Check glass board for   dept focus areas, Scrolling video kiosk available as well as email for update   references. 
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications: BLS/ACLS/NIH
+             Hiring profile             Requested Skill Set: Cardiac knowledge   preferred   
+   
+Must have: ACLS/BLS
+   
+   
+
+
+   
+Advanced skills needed: Knowledge of Heparin, Cardizem, Dobutamine, Dopamine, and Amiodarone   drips
+   
+
+
+   
+   
+Procedures performed on unit: 
+Chest Tube management, wound   vac management, EKG s ad lib, 
+   
+
+
+   
+
+
+   
+Certifications Required: ACLS
+   
+   
+
+
+             
+Dress Code: RN- Navy and CNA/PCT- ceil blue scrub   set and jacket (if desired). May wear white, blue, grey, or black tshirt   underneath if desired- no graphics. 
+   
+No artificial or gel nails or gel nail polish
+   
+             
+Unit Guidelines/Policies: Documentation of telemetry application,   acknowledging rhythm strips and place in chart each shift. NO PASS ZONE for   bed alarms, call lights, and IV alarms, etc.
+   
+
+
+             
+Awards/Recognition: Facebook/ Parkridge Medical Center page has many photos, stories, and   videos, Daisy and Bee Awards, iHEAL nominations
+   
+
+
+             
+Any additional information that would   entice a worker to select your unit for their assignment: We have Charge Nurses with 12, 16-, and 39-year seniority on   dayshift and 15+ on nightshift. Shared Governance per units and facility.
+ General Comments
+ No. of Positions: 1/2. ;url=https://vendor.healthtrustws.com/positions/748300;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 69
+    [facilityName] => Parkridge Medical Center
+    [shiftDateEnd] => 2024-05-20
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

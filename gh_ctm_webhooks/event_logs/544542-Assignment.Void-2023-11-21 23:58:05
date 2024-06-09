@@ -1,0 +1,97 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3582',
+  'Cf-Ray' => '829ce0f3a3096a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:The Ultrasound Technician is a graduate of an accredited AMA school and registered with the American Registry of Radiologic Technology (ARRT), maintains a State License as a general radiographer, and/or is a Registered Diagnostic Medical Sonographer (RDMS).  The Ultrasound Technician is responsible for providing timely diagnostic services to both inpatient and outpatients under the direction of a Radiologist and departmental protocols.  Responsibilities include but are not limited to: abdominal, pelvic, (gynecological &amp; obstetrical), and transvaginal sonograms.  Additionally is proficient at scanning small parts (thyroid, breast &amp; scrotom) along with ultrasound-guided biopsies, drainage, thoracentesis, paracentesis and aspirations.
+
+
+ 
+ 
+$105 Bill RateShift: 4x10's
+ 
+Tue - Fri
+ 7-1730
+Credentials required:
+ RDMS or ARRT
+Specific unit requirements: BLS, Registered, and NM License
+On-Call required: yes         
+ 
+ 
+  	Float to other units: no
+ General Comments11620280912
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => Ultrasound Tech
+    [assignmentid] => 544542
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5112
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Ultrasound Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => November, 21 2023 18:58:04
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=776065 ;Status=Pending Approval;Association=Community Health Systems ;Client=Eastern New Mexico Medical Center ;City=Roswell ;State=NM ;Zip=88201 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Ultrasound Tech/Sonographer ;Specialty=Radiology ;Unit=EXT-Other (911) ;Shift=07:00-17:30;# of Postions=1;Type=Travel;BillRate=$105.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:The Ultrasound Technician is a graduate of an accredited AMA school and registered with the American Registry of Radiologic Technology (ARRT), maintains a State License as a general radiographer, and/or is a Registered Diagnostic Medical Sonographer (RDMS).  The Ultrasound Technician is responsible for providing timely diagnostic services to both inpatient and outpatients under the direction of a Radiologist and departmental protocols.  Responsibilities include but are not limited to: abdominal, pelvic, (gynecological &amp; obstetrical), and transvaginal sonograms.  Additionally is proficient at scanning small parts (thyroid, breast &amp; scrotom) along with ultrasound-guided biopsies, drainage, thoracentesis, paracentesis and aspirations.
+
+
+ 
+ 
+$105 Bill RateShift: 4x10's
+ 
+Tue - Fri
+ 7-1730
+Credentials required:
+ RDMS or ARRT
+Specific unit requirements: BLS, Registered, and NM License
+On-Call required: yes         
+ 
+ 
+  	Float to other units: no
+ General Comments11620280912
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/776065;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Eastern New Mexico Medical Center
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

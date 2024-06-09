@@ -1,0 +1,80 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2107',
+  'Cf-Ray' => '82ccbc4066c86a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => The Johns Hopkins Hospital-WBG4CD
+
+	Surgical -Med Surg - surgical patients, Pre and post-surgical care on the unit.
+
+	Pre/post op: Otolaryngology, plastics, hepatobiliary, and GI surgery
+
+	Required: 2 years nursing experience; 1-2 travel assignments;BLS
+
+	Preferred EPIC experience
+
+	every other weekend;holiday as needed/every other, 2 availability call shifts per 6-week schedule
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545968
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1877
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => November, 27 2023 14:21:24
+    [daysPerWeek] => 3
+    [orderNote] => Source=IntrastaffVMS;SourceID=305275 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Johns Hopkins Hospital ;Start=1/8/2024;End=4/6/2024;Duration=89;Cert=MSP RN Enhanced High Needs ;Specialty=Weinberg 4CD  (4801336944) ;Unit=Weinberg 4CD  (4801336944) ;Shift=Day 12 (7:00 AM - 7:30 PM);# of Postions=1;Type=Travel;BillRate=$85.00;minBillRate=$85.00;Description=The Johns Hopkins Hospital-WBG4CD
+
+	Surgical -Med Surg - surgical patients, Pre and post-surgical care on the unit.
+
+	Pre/post op: Otolaryngology, plastics, hepatobiliary, and GI surgery
+
+	Required: 2 years nursing experience; 1-2 travel assignments;BLS
+
+	Preferred EPIC experience
+
+	every other weekend;holiday as needed/every other, 2 availability call shifts per 6-week schedule ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=TpMp8dlo7jU=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => The Johns Hopkins Hospital TRAVEL
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

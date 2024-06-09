@@ -1,0 +1,69 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1635',
+  'Cf-Ray' => '82d6015c17a91466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:CONTRACT - RN - POSTPARTUM (660) - 7:00AM-7:00PM
+NO ON CALL REQUIRED
+MUST HAVE BLS, NRP
+ General Comments
+ No. of Positions: 4/5.
+    [sitename] => giftednurses
+    [spec] => Mother/Baby
+    [assignmentid] => 545040
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5451
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 28 2023 17:21:40
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=768599 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=NORTH AUSTIN MEDICAL CENTER TX ;City=AUSTIN ;State=TX ;Zip=78758 ;Start=11/13/2023;End=2/12/2024;Duration=91;Cert=RN ;Specialty=Post Partum/Mom Baby ;Unit=CENTRAL AND WEST TEXAS DIVISION (50) ;Shift=7:00AM – 7:00PM ;# of Postions=4;Type=Travel;BillRate=$75.00;OTRate=83 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:CONTRACT - RN - POSTPARTUM (660) - 7:00AM-7:00PM
+NO ON CALL REQUIRED
+MUST HAVE BLS, NRP
+ General Comments
+ No. of Positions: 4/5. ;url=https://vendor.healthtrustws.com/positions/768599;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => St. David's North Austin Medical Center Travel
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

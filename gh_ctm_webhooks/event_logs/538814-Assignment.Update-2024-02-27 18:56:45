@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '931',
+  'Cf-Ray' => '85c2a64c80e023c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Ended assignment due to health reasons- she can't return to work until she gets a doctor note
+    [sitename] => giftednurses
+    [spec] => CNA
+    [assignmentid] => 538814
+    [workerID] => 342158
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 36
+    [facilityID] => 9825
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-16
+    [workerLastName] => Patterson
+    [shiftNum] => 3
+    [workerFirstName] => Keerstin
+    [cert] => CNA
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => February, 27 2024 13:56:45
+    [daysPerWeek] => 3
+    [orderNote] => Start date moved
+    [guaranteedMinimum] => 
+    [workerEmail] => patterson23keerstin@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => VA-JEB Western KY Veterans Center
+    [shiftDateEnd] => 2024-02-01
+    [shiftStartTime] => 23:00
+    [subjectID] => 
+)

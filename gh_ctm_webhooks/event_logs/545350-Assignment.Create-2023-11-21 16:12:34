@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4053',
+  'Cf-Ray' => '829a3707c2d723c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Midland Health is seeking an experiencedER RNShift and ScheduleNIGHTS 1p - 1aPosition SummaryWe are looking forexperiencedED RNs for our Emergency Department. Will provide care in emergency rooms and other critical care settings. Work to quickly assess conditions and stabilize patients in life-threatening emergencies such as strokes, heart attacks or severe injuries. RN will also be working with COVID patients. May also see to less urgent medical issues, such as bone sprains or sore throats, depending on whether they have more urgent cases. Triage cases in order of urgency and need. Must be ableto work in a fast-paced environment under pressure.Flexibility is a MUST.Skills, Knowledge and AbilitiesMust have current State of Texas RN license, American Heart Association (AHA) BLS, ACLS, PALS, NIHSS, TNCC are required. Please do not submit candidates that do not have this experience. Experienced and strong in Emergency areas.Housing is no longer provided. Please secure housing for your traveler. Mask must be work in all areas of the hospital. Hallways, Cafeteria (unless you are dining), Teaming Stations, Department, Common Areas, Etc.  **If a traveler is selected for assignment, a FULL State and County Criminal Background Check is required, not limited to 7 years. **   Additional Information:l   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 545350
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1326
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-21
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 00:00
+    [whenmodified] => November, 21 2023 11:12:33
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261988 ;Status=Open;Association=Midland Memorial Hospital ;Client=Midland Memorial Hospital ;City=Midland ;State=TX ;Zip=79701 ;Start=11/21/2023;End=1/16/2024;Duration=56;Cert=Nursing ;Specialty=Emergency Room Nurse ;Unit=Emergency Room Nurse ;Shift=Nights 1p - 1a;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$95.00;OTRate=105 ;OTRules=By The Week, after 40, ;HolidayRate=105 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=Midland Health is seeking an experiencedER RNShift and ScheduleNIGHTS 1p - 1aPosition SummaryWe are looking forexperiencedED RNs for our Emergency Department. Will provide care in emergency rooms and other critical care settings. Work to quickly assess conditions and stabilize patients in life-threatening emergencies such as strokes, heart attacks or severe injuries. RN will also be working with COVID patients. May also see to less urgent medical issues, such as bone sprains or sore throats, depending on whether they have more urgent cases. Triage cases in order of urgency and need. Must be ableto work in a fast-paced environment under pressure.Flexibility is a MUST.Skills, Knowledge and AbilitiesMust have current State of Texas RN license, American Heart Association (AHA) BLS, ACLS, PALS, NIHSS, TNCC are required. Please do not submit candidates that do not have this experience. Experienced and strong in Emergency areas.Housing is no longer provided. Please secure housing for your traveler. Mask must be work in all areas of the hospital. Hallways, Cafeteria (unless you are dining), Teaming Stations, Department, Common Areas, Etc.  **If a traveler is selected for assignment, a FULL State and County Criminal Background Check is required, not limited to 7 years. **   Additional Information:l   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261988;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Midland Memorial Hospital Medefis
+    [shiftDateEnd] => 2024-01-16
+    [shiftStartTime] => 12:00
+    [subjectID] => 
+)

@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1649',
+  'Cf-Ray' => '83ee649b15e877bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN FSEDMIXED13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General Comments
+ No. of Positions: 1/2.
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 545178
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1394
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-22
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 01 2024 18:02:58
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=769036 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=RESTON HOSPITAL CENTER VA ;City=Reston ;State=VA ;Zip=20190 ;Start=12/10/2023;End=3/10/2024;Duration=91;Cert=RN ;Specialty=Emergency Dept ;Unit=CAPITAL DIVISION (20) ;Shift=MIXED;# of Postions=1;Type=Travel;BillRate=$78.00;minBillRate=$78.00;OTRate=86 ;CallbackRate=86 ;HolidayRate=86 ;Description=Description:TRAVEL RN FSEDMIXED13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General Comments
+ No. of Positions: 1/2. ;url=https://vendor.healthtrustws.com/positions/769036;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 78
+    [facilityName] => Reston Hospital Center Parallon- VA
+    [shiftDateEnd] => 2024-04-22
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

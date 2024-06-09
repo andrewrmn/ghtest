@@ -1,0 +1,202 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3978',
+  'Cf-Ray' => '8799a02285496a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Data Collection:
+
+Unit Information:
+ Oncology
+
+Location: 
+Metropolitan Methodist 
+
+Address: 1310 McCullough
+
+Floor:
+ 7th
+
+Building: Main 
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds - 12Number of Staff   
+2-3 RN and 1 PCT per shiftType of staff:Day Shift   (example 1 charge, 3 RN, 2 CNA, and 1-3 sitters)Night Shift - Patient Ratios   1-5
+ or 1-6Type of equipment - EMR - Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ Oncology and Medical Surgical Skills
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+
+Med-Surgical
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+Medical Surgical
+
+List typical procedures performed on unit(s): 
+
+
+ Medical/Surgical/Chemo
+
+Best personality Fit:
+
+
+REQUIRED CERTIFICATIONS:
+
+
+Floating Area(s):
+Comparable units
+Dress Code: 
+Scrub Color/Attire -
+ Methodist Navy Blue
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+
+
+
+
+
+Weekends and On call(if any)
+Rotational
+ General Comments
+ No. of Positions: 2/2.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Oncol
+    [assignmentid] => 525952
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2736
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-07
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => April, 24 2024 18:45:25
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=747012 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=METROPOLITAN METHODIST HOSPITAL ;City=SAN ANTONIO ;State=TX ;Zip=78212 ;Start=12/7/2023;End=3/7/2024;Duration=91;Cert=RN ;Specialty=Oncology ;Unit=SAN ANTONIO DIVISION (39) ;Shift=7:00PM – 7:00AM ;# of Postions=2;Type=Travel;BillRate=$70.00;minBillRate=$70.00;OTRate=85 ;CallbackRate=85 ;HolidayRate=85 ;Description=Description:Data Collection:
+
+Unit Information:
+ Oncology
+
+Location: 
+Metropolitan Methodist 
+
+Address: 1310 McCullough
+
+Floor:
+ 7th
+
+Building: Main 
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds - 12Number of Staff   
+2-3 RN and 1 PCT per shiftType of staff:Day Shift   (example 1 charge, 3 RN, 2 CNA, and 1-3 sitters)Night Shift - Patient Ratios   1-5
+ or 1-6Type of equipment - EMR - Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ Oncology and Medical Surgical Skills
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+
+Med-Surgical
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+Medical Surgical
+
+List typical procedures performed on unit(s): 
+
+
+ Medical/Surgical/Chemo
+
+Best personality Fit:
+
+
+REQUIRED CERTIFICATIONS:
+
+
+Floating Area(s):
+Comparable units
+Dress Code: 
+Scrub Color/Attire -
+ Methodist Navy Blue
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+
+
+
+
+
+Weekends and On call(if any)
+Rotational
+ General Comments
+ No. of Positions: 2/2.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/747012;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Metropolitan Methodist Hospital
+    [shiftDateEnd] => 2024-03-07
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

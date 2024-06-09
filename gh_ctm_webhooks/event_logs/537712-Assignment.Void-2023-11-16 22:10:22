@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '9966',
+  'Cf-Ray' => '82731048b1891834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => **Traveler must meet all minimum requirements below to be consider.**Do not submit traveler who have or will have expiring licenses and/or certifications during time frame of entire assignment. Traveler will automatically be declined.**Only submit traveler who can work schedule in posting and interested in the unit.Traumatic injury is a disease process unto itself requiring specialized and experienced multidisciplinary treatment and specialized resources. According to the CDC, the leading causes of trauma are motor vehicle accidents, falls, and assaults.The F4/4 Trauma/Trauma and Surgical IMC is a 26 bed unit that consists of a 12 bed intermediate care unit (IMC) for trauma and surgical patients and a 14 bed general care unit.The Trauma and Surgical Intermediate Care Unit on F4/4 provides comprehensive multidisciplinary care to patients who have sustained multi-system trauma as well as high acuity surgical patients. Major clinical activities may include chest tube management, tracheostomy management, complex wound care, orthopedic stabilization, medication and blood product administration, rehabilitation preparation, mechanical ventilation, central venous pressure and arterial line monitoring and moderate sedation. The trauma general care unit provides care for multi-system trauma patients that are admitted to the unit directly from the emergency department, ICU or IMC.Minimum Requirements:  Facility Requirement:    Traveler must have permanent address outside50mile radius of Madison (address must be included in       traveler's profile).  Experience:    IMC and recent acute medical or surgical experience required.If ICU experience, must be willing to care for IMC and general care patient population.Traveler must have completed two years of acute care       experience within last 3 years.   Traveler must have experience in an Academic Level 1 -       Trauma center or similar size hospital.   Successfully completed traveler assignment       (13 weeks).  Licensure and Certification:   Traveler must have WI nursing license or compact       license from their permanent address state.*Will consider candidates without WI or compact license       but must apply for a temporary license under the Wisconsin Act 10 order       within 48 hours of offer accepted and provide screenshot of application       submitted. Traveler must complete this requirement prior to being       cleared to start.   BLS  ACLS   must       be certified through American Heart Association ONLY  Reference   Needs 2 references from recent work       environment/assignments (supervisor or manager only).  Telemetry    Traveler must have Basic Arrhythmia experience. Traveler will be required to pass UW Health Telemetry test prior to being cleared to start (not for clinic positions).UW Health Recruitment will send instructions to traveler 2-3 weeks prior to start date.  Floating    Travelers       are the first to float to floors working with children up to 1 year of       age and/or based on the traveler's competency skills/experience. The Traveler may       have shifts scheduled in multiple units, depending on the current       staffing needs and/or different locations within the       organization.       During the traveler s assignment, if the primary unit no longer has a       need, shifts will be re-assigned to another unit in order to complete       contract. Location:University Hospital, 600 Highland Ave, Madison, WI 53792Parking:Permit required through UW Transportation. University Hospitalin Madison is a Magnet -designated facility that sranked Wisconsin s #1 hospitaland considered one of the nation's leading hospitals, teaching institutions and referral centers.   Additional Information: 	UW Health is moving away from using outdated file formats for Microsoft (Word, PowerPoint, and Excel). Profiles will need to be submitted in the following format: .docx, .xlsx and .pptx file types or our IS department will be blocking them and we will no longer receive the files nor able to forward internal to our hiring managers.-------------------------------------   	QuantiFERON/TSpot results will NOT be accepted for any reason   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Stepdown
+    [assignmentid] => 537712
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3538
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 16 2023 17:10:21
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=260178 ;Status=Open;Association=UW Health ;Client=UW Health University Hospital ;City=Madison ;State=WI ;Zip=53792 ;Start=11/13/2023;End=2/12/2024;Duration=91;Cert=Nursing ;Specialty=Step Down, PCU, IMC (Intermediate Care) ;Unit=Step Down, PCU, IMC (Intermediate Care) ;Shift=36 hrs/week, Evening/Night, 8/12 hour shifts, 1900-0730. Every other weekend rotation, and some holidays. ;# of Postions=4;Guaranteed Hours=36;Type=Travel;BillRate=$108.00;OTRate=118 ;OTRules=By The Week, after 40, ;CallbackRate=108 (All Inclusive Rate) ;HolidayRate=118 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=**Traveler must meet all minimum requirements below to be consider.**Do not submit traveler who have or will have expiring licenses and/or certifications during time frame of entire assignment. Traveler will automatically be declined.**Only submit traveler who can work schedule in posting and interested in the unit.Traumatic injury is a disease process unto itself requiring specialized and experienced multidisciplinary treatment and specialized resources. According to the CDC, the leading causes of trauma are motor vehicle accidents, falls, and assaults.The F4/4 Trauma/Trauma and Surgical IMC is a 26 bed unit that consists of a 12 bed intermediate care unit (IMC) for trauma and surgical patients and a 14 bed general care unit.The Trauma and Surgical Intermediate Care Unit on F4/4 provides comprehensive multidisciplinary care to patients who have sustained multi-system trauma as well as high acuity surgical patients. Major clinical activities may include chest tube management, tracheostomy management, complex wound care, orthopedic stabilization, medication and blood product administration, rehabilitation preparation, mechanical ventilation, central venous pressure and arterial line monitoring and moderate sedation. The trauma general care unit provides care for multi-system trauma patients that are admitted to the unit directly from the emergency department, ICU or IMC.Minimum Requirements:  Facility Requirement:    Traveler must have permanent address outside50mile radius of Madison (address must be included in       traveler's profile).  Experience:    IMC and recent acute medical or surgical experience required.If ICU experience, must be willing to care for IMC and general care patient population.Traveler must have completed two years of acute care       experience within last 3 years.   Traveler must have experience in an Academic Level 1 -       Trauma center or similar size hospital.   Successfully completed traveler assignment       (13 weeks).  Licensure and Certification:   Traveler must have WI nursing license or compact       license from their permanent address state.*Will consider candidates without WI or compact license       but must apply for a temporary license under the Wisconsin Act 10 order       within 48 hours of offer accepted and provide screenshot of application       submitted. Traveler must complete this requirement prior to being       cleared to start.   BLS  ACLS   must       be certified through American Heart Association ONLY  Reference   Needs 2 references from recent work       environment/assignments (supervisor or manager only).  Telemetry    Traveler must have Basic Arrhythmia experience. Traveler will be required to pass UW Health Telemetry test prior to being cleared to start (not for clinic positions).UW Health Recruitment will send instructions to traveler 2-3 weeks prior to start date.  Floating    Travelers       are the first to float to floors working with children up to 1 year of       age and/or based on the traveler's competency skills/experience. The Traveler may       have shifts scheduled in multiple units, depending on the current       staffing needs and/or different locations within the       organization.       During the traveler s assignment, if the primary unit no longer has a       need, shifts will be re-assigned to another unit in order to complete       contract. Location:University Hospital, 600 Highland Ave, Madison, WI 53792Parking:Permit required through UW Transportation. University Hospitalin Madison is a Magnet -designated facility that sranked Wisconsin s #1 hospitaland considered one of the nation's leading hospitals, teaching institutions and referral centers.   Additional Information: 	UW Health is moving away from using outdated file formats for Microsoft (Word, PowerPoint, and Excel). Profiles will need to be submitted in the following format: .docx, .xlsx and .pptx file types or our IS department will be blocking them and we will no longer receive the files nor able to forward internal to our hiring managers.-------------------------------------   	QuantiFERON/TSpot results will NOT be accepted for any reason   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260178;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 108
+    [facilityName] => University of Wisconsin Hospital and Clinics
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

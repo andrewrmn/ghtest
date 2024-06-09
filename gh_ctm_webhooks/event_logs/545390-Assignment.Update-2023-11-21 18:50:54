@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '21',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3868',
+  'Cf-Ray' => '829b1efa07194941-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => **CANDIDATES WILLING TO COVER THE UPCOMING HOLIDAYS WILL RECEIVE PRIORITY CONSIDERATION**ST will work 36-40 hours/week (start and end times are negotiable), with approximately every5th weekendas a call weekend (split between Call 1 and Call 2) and 1-2Calls per week(split between call 1 and call 2). Based upon department need and potential changes in staffing, the call volume could increase.The call requirements must mirror what the current staffing takes week to week. All call requires a 30-minute response time.This occurs from the time of the call, to arriving on site. Also, possible Holiday call rotation may be required if a holiday falls within the ST s contract. This rotation is based on current patient census and staffing, so some variability could be possible to this rotation if census/staffing experiences a significant change.    Candidate must be a graduate of an accredited surgical technology program. BLS required. CST preferred but not required. Candidate must possess a minimum of current or very recent 2 years of General Surg Tech experience.Excellent critical thinking and knowledge of central processing and instrumentation required   Position Urgency:Rapid Response Crisis Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 545390
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6285
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 21 2023 13:50:54
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261992 ;Status=Open;Association=Genesis Healthcare System ;Client=Genesis Healthcare System ;City=Zanesville ;State=OH ;Zip=43701 ;Start=11/21/2023;End=2/20/2024;Duration=91;Cert=Nursing ;Specialty=Surgical Technologist ;Unit=Surgical Technologist ;Shift=To be decided during interview;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$85.00;OTRate=95 ;OTRules=By The Week, after 40, ;CallbackRate=90 (All Inclusive Rate + $5) ;HolidayRate=110 (All Inclusive Rate + $25) ;OnCallRateDescription=$5 per hour pager ;Description=**CANDIDATES WILLING TO COVER THE UPCOMING HOLIDAYS WILL RECEIVE PRIORITY CONSIDERATION**ST will work 36-40 hours/week (start and end times are negotiable), with approximately every5th weekendas a call weekend (split between Call 1 and Call 2) and 1-2Calls per week(split between call 1 and call 2). Based upon department need and potential changes in staffing, the call volume could increase.The call requirements must mirror what the current staffing takes week to week. All call requires a 30-minute response time.This occurs from the time of the call, to arriving on site. Also, possible Holiday call rotation may be required if a holiday falls within the ST s contract. This rotation is based on current patient census and staffing, so some variability could be possible to this rotation if census/staffing experiences a significant change.    Candidate must be a graduate of an accredited surgical technology program. BLS required. CST preferred but not required. Candidate must possess a minimum of current or very recent 2 years of General Surg Tech experience.Excellent critical thinking and knowledge of central processing and instrumentation required   Position Urgency:Rapid Response Crisis Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261992;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Genesis Healthcare System
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

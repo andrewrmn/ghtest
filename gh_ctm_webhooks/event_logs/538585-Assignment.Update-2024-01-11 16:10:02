@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '930',
+  'Cf-Ray' => '843e6d4dc5a41830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 3-11 or 3-3 and night shift 7-7.
+RTO: None at this time
+    [sitename] => giftednurses
+    [spec] => CNA
+    [assignmentid] => 538585
+    [workerID] => 344635
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 36
+    [facilityID] => 9825
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-02-05
+    [workerLastName] => Murphy
+    [shiftNum] => 5
+    [workerFirstName] => Tamra
+    [cert] => CNA
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => January, 11 2024 11:09:16
+    [daysPerWeek] => 3
+    [orderNote] => Local- Non federal
+Need to adjust date due to FP schedule
+    [guaranteedMinimum] => 
+    [workerEmail] => tamrachantel1999@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => VA-JEB Western KY Veterans Center
+    [shiftDateEnd] => 2024-05-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

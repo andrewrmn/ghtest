@@ -1,0 +1,72 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1934',
+  'Cf-Ray' => '82b30d03e0221830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+DeTar
+Shift: Nights
+Start: ASAP
+Rate: $110/hrparseGeneralComments Comments
+.bd_title { font-weight: bold }
+Replacing employees who will be leaving due to internal contracts being suspended.  Contact: Jasmine Rivera Resource Manager: Christopher Stearns
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 360474
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9491
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-04-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 24 2023 11:32:48
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=581449 ;Status=Open;Association=CHS ;Client=DeTar Healthcare System ;City=Victoria ;State=TX ;Zip=77904 ;Start=4/4/2022;End=7/4/2022;Duration=91;Cert=CHS Travel:Registered Nurse (RN) / Medical Surgical (581449) ;Specialty=1019: MED/SURG/TELE UNIT ;Unit=MED/SURG/TELE UNIT ;Shift=Nights;# of Postions=1;Type=Travel;BillRate=$110.00;minBillRate=$110.00;Description=Position Description
+DeTar
+Shift: Nights
+Start: ASAP
+Rate: $110/hrparseGeneralComments Comments
+.bd_title { font-weight: bold }
+Replacing employees who will be leaving due to internal contracts being suspended.  Contact: Jasmine Rivera Resource Manager: Christopher Stearns ;Buyer=Jasmine Rivera ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=581449#!/position/manage/581449;VMSPositionType=Travel minPayRate=$110.00;maxPayRate=$110.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => DeTar Hospital - North 
+    [shiftDateEnd] => 2022-07-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

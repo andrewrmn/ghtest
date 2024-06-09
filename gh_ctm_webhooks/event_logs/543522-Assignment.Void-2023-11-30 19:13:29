@@ -1,0 +1,147 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5969',
+  'Cf-Ray' => '82e5686da27b183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Travel RN- Case Manager-
+Must have 3+yrs acute CM RN experience in hospital settingStart Date: ASAP
+Duration: 13wksShift: 8a-4:30p M-F*Available to work every other weekend and rotate major/minor holidays.
+No planned time off throughout contractBLS required, Discharge planning and Utilization Management experienceRate: $75
+*Reminder that AHCA is required for all CHS FL travelers through HealthTrust
+The Case Manager collaborates with the interdisciplinary healthcare team efforts to meet facility resource management expectations, assist in the reduction of physician practice variations and enhance patient outcomes with emphasis on decreasing length of stay and monitoring cost effective patient care across the continuum of care. Responsibilities include but are not limited to: determine the medical necessity of all admissions and the need for continued stay, identify the provision of inappropriate or untimely services, assess discharge planning needs for patients of all ages and coordinate the delivery of services to meet those needs, facilitate timely and appropriate discharges from the hospital, identify opportunities for improvement in patient care, and provide documentation of all functions as required by regulatory agencies
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+           		*******************************************************************************
+
+
+           		How long has it been open?
+
+
+           		Will position be required to float to other units?
+
+
+           		Number of beds in your facility?
+
+
+           		Years of experience required?
+
+
+           		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+           		Willing to review clinicians with pending state license?
+
+
+           		Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+           		What is the work schedule for this position? (days needed, hours or shift)
+
+
+ 			EMR for your facility:
+
+
+           		Scrub colors / dress code:
+
+
+ 			Parking location:
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Case Mgmt
+    [assignmentid] => 543522
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8281
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => November, 30 2023 14:13:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=774683 ;Status=Open;Association=Community Health Systems ;Client=Bayfront Health Port Charlotte ;City=Port Charlotte ;State=FL ;Zip=33952-0000 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=RN ;Specialty=Case Mgmt ;Unit=EXT-Other (911) ;Shift=08:00-16:30;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Travel RN- Case Manager-
+Must have 3+yrs acute CM RN experience in hospital settingStart Date: ASAP
+Duration: 13wksShift: 8a-4:30p M-F*Available to work every other weekend and rotate major/minor holidays.
+No planned time off throughout contractBLS required, Discharge planning and Utilization Management experienceRate: $75
+*Reminder that AHCA is required for all CHS FL travelers through HealthTrust
+The Case Manager collaborates with the interdisciplinary healthcare team efforts to meet facility resource management expectations, assist in the reduction of physician practice variations and enhance patient outcomes with emphasis on decreasing length of stay and monitoring cost effective patient care across the continuum of care. Responsibilities include but are not limited to: determine the medical necessity of all admissions and the need for continued stay, identify the provision of inappropriate or untimely services, assess discharge planning needs for patients of all ages and coordinate the delivery of services to meet those needs, facilitate timely and appropriate discharges from the hospital, identify opportunities for improvement in patient care, and provide documentation of all functions as required by regulatory agencies
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+           		*******************************************************************************
+
+
+           		How long has it been open?
+
+
+           		Will position be required to float to other units?
+
+
+           		Number of beds in your facility?
+
+
+           		Years of experience required?
+
+
+           		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+           		Willing to review clinicians with pending state license?
+
+
+           		Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+           		What is the work schedule for this position? (days needed, hours or shift)
+
+
+ 			EMR for your facility:
+
+
+           		Scrub colors / dress code:
+
+
+ 			Parking location:
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/774683;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Bayfront Health Port Charlotte
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

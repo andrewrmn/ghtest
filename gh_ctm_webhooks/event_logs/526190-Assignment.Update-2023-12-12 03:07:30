@@ -1,0 +1,72 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2257',
+  'Cf-Ray' => '8342c1eb318f1830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Med Surg Tele RN
+West Des Moines location 
+
+Night Shift (7pm-7am)
+every other weekend requirement
+36hr/wk
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 526190
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15842
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-02
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 11 2023 22:07:29
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=46239 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne West Des Moines Medical Center ;City=West Des Moines ;State=IA ;Zip=50266 ;Start=1/2/2024;End=3/30/2024;Duration=88;Cert=RN Telemetry ;Specialty=3rd Floor Med/Surg ;Unit=Iowa/West Des Moines/Med Surg Tele RN/NIGHTS ;Shift=7p7a;# of Postions=1;Type=Travel;BillRate=$95.00;OTRate=123.50 ;ChargeRate=98.00 ;CallbackRate=123.50 ;HolidayRate=123.50 ;Orientation=0.00 ;Description=Med Surg Tele RN
+West Des Moines location 
+
+Night Shift (7pm-7am)
+every other weekend requirement
+
+
+West Des Moines Acute Care provides the feel of a small, community hospital, with the resources of a major metropolitan hospital. We specialize in orthopedic and bariatric surgeries, as well as other specialty and general surgeries. Also found in West Des Moines are two inpatient care units that provide care to a wide variety of diagnosis. Our telemetry unit regularly provides cardiac drips, treats and manages arrhythmias, and works with the interdisciplinary team to provide care and education to CHF patients. Our medical/surgical unit takes anything and everything that comes through the emergency department. This creates a constant learning environment and a variety of diagnosis, ensuring you are never bored. ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => MercyOne West Des Moines Medical Center (Trinity) TRAVEL
+    [shiftDateEnd] => 2024-03-30
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

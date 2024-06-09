@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '899',
+  'Cf-Ray' => '82e5117db7ca6a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => MICU
+    [assignmentid] => 542512
+    [workerID] => 55519
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6630
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-12
+    [workerLastName] => Raus
+    [shiftNum] => 1
+    [workerFirstName] => Meghan
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 16:30
+    [whenmodified] => November, 30 2023 13:14:07
+    [daysPerWeek] => 4
+    [orderNote] => EXTENSION
+BR:$90lRS:136357
+ChrgDiff:P$1/B$2lOnCl:P$2/B$4
+FTK: Kronos/unsigned Gifted timesheet
+    [guaranteedMinimum] => 
+    [workerEmail] => msraus@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => OU Medical Center Travel - OK
+    [shiftDateEnd] => 2023-11-16
+    [shiftStartTime] => 07:30
+    [subjectID] => 
+)

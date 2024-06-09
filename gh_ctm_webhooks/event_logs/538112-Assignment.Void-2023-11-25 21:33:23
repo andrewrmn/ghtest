@@ -1,0 +1,103 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5402',
+  'Cf-Ray' => '82bd027b624f23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:ShiftvariableShifts per week4Hours per shift10
+
+
+Years of Experience
+
+One Year Plus
+
+Specialties
+
+Cardiac Cath
+-
+preferred
+
+
+
+Radiologic Technology Certification
+-
+required
+ General CommentsDescription:
+
+
+Responsible for assisting the Surgeon or Radiologist with diagnostic and interventional procedures requiring sound understanding of anatomical positioning and physiology so that independent selection and modification of technical factors may produce optimal results. Responsible for the cleaning of all necessary equipment and supplies involved in all Special Procedures. When not performing Special Procedures, will perform all routine duties of the department as needed. Responsible for the instruction and training of students and other technologists in Special Procedures. Will perform other related duties within the department as required. When not performing Special Procedures, will perform all routine duties of the department as needed. Will rotate call and weekend duties within the department. Is able to stand for up to six hours with lead apron, mask, gown, glasses and gloves. This is for the protection of the employee. Able to assist with pre and post procedure patient care if needed. Able to locate and stock all necessary supplies for diagnostic and interventional procedures. Understands and able to perform all aspects of patient scheduling and coordination. Observes universal precautions consistently. Wears proper personal protective equipment when appropriate. Wears clothing and Health System badge consistent with dress code, and attends to personal hygiene to maintain a clean, well-groomed appearance .Meets Health System attendance standards. Performs other duties as assigned. Under the direct supervision of the Surgeon draws up heparin and sews in sheaths Responsible for billing and coding for procedures performed within the surgical endovascular suite. Perform designated responsibilities at the sterile field under the direction of the surgeon.
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 538112
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 8646
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 25 2023 16:33:22
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=768683 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Northwest Arkansas ;City=Rogers ;State=AR ;Zip=72758 ;Start=11/6/2023;End=2/5/2024;Duration=91;Cert=Rad Tech ;Specialty=Radiology ;Unit=Mercy ;Shift=00:00-00:00;# of Postions=1;Type=Travel;BillRate=$95.00;OTRate=103 ;CallbackRate=103 ;HolidayRate=103 ;Orientation=0 ;Description=Description:ShiftvariableShifts per week4Hours per shift10
+
+
+Years of Experience
+
+One Year Plus
+
+Specialties
+
+Cardiac Cath
+-
+preferred
+
+
+
+Radiologic Technology Certification
+-
+required
+ General CommentsDescription:
+
+
+Responsible for assisting the Surgeon or Radiologist with diagnostic and interventional procedures requiring sound understanding of anatomical positioning and physiology so that independent selection and modification of technical factors may produce optimal results. Responsible for the cleaning of all necessary equipment and supplies involved in all Special Procedures. When not performing Special Procedures, will perform all routine duties of the department as needed. Responsible for the instruction and training of students and other technologists in Special Procedures. Will perform other related duties within the department as required. When not performing Special Procedures, will perform all routine duties of the department as needed. Will rotate call and weekend duties within the department. Is able to stand for up to six hours with lead apron, mask, gown, glasses and gloves. This is for the protection of the employee. Able to assist with pre and post procedure patient care if needed. Able to locate and stock all necessary supplies for diagnostic and interventional procedures. Understands and able to perform all aspects of patient scheduling and coordination. Observes universal precautions consistently. Wears proper personal protective equipment when appropriate. Wears clothing and Health System badge consistent with dress code, and attends to personal hygiene to maintain a clean, well-groomed appearance .Meets Health System attendance standards. Performs other duties as assigned. Under the direct supervision of the Surgeon draws up heparin and sews in sheaths Responsible for billing and coding for procedures performed within the surgical endovascular suite. Perform designated responsibilities at the sterile field under the direction of the surgeon. ;url=https://vendor.healthtrustws.com/positions/768683;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Mercy Hospital Northwest Arkansas - TRAVEL
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

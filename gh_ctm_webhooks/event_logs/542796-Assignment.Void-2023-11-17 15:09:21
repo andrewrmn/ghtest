@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7520',
+  'Cf-Ray' => '8278e4eef29c4951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Exciting Job Opportunity for Adventurous Nurses in Picturesque Vermont!Escape the hustle and bustle of the big city and embark on a thrilling adventure in the breathtaking state of Vermont. Immerse yourself in the natural beauty of the Northeast Kingdom, where outdoor enthusiasts thrive with endless opportunities for excitement!Discover the exhilaration of skiing at Burke Mountain or conquer the trails at Kingdom Trails, perfect for both fat biking and snowshoeing. Explore the wonders of Vermont and indulge in a multitude of thrilling activities. Vermont's Northeast Kingdom is an outdoor wonderland, offering a paradise of adventures for you to enjoy!Join our dedicated team as a Registered Nurse (RN) and be at the forefront of coordinating exceptional patient care. The RN provides quality nursing care for those patients requiring a critical care setting during hospitalization. Care is reflective of the AACN Standards and is delivered in a professional manner that is appropriate to each patient s age, physical ability, and intellectual development. The nurse demonstrates proficiency in delivering treatment and adapting care to meet the needs of one or more of the following patient populations: pediatric, adult, and geriatric.To join our team, we require a minimum of three years' acute care experience, with preference given to candidates with Meditech familiarity. Possessing a current Vermont RN or multi state licensure and BCLS, ACLS certifications are required. Nestled in the heart of Vermont's historic Northeast Kingdom, NVRH is a cherished 25-bed independent and nonprofit critical access hospital. Renowned for its unspoiled beauty and year-round recreational activities, this region is a haven for those seeking a vibrant and fulfilling lifestyle. At NVRH, we deliver primary and preventive care, surgical and specialty services, inpatient and outpatient care, and round-the-clock emergency services manned by our dedicated board-certified physicians.We understand the importance of a seamless onboarding process, and therefore, we request that all required credentials be uploaded three business days prior to your start date. This ensures a prompt and hassle-free integration into our remarkable team.In addition to this incredible opportunity, we also offer housing options conveniently located a mere 10 minutes from NVRH. Enjoy the comfort of a private dorm room and share common spaces with fellow professionals. All utilities are included, and the premises are located on a high school campus. Please note we have a limited number of dorms and one may not always be available but we do have a wait list. For more housing information, or to reserve a dorm room, please reach out to Erin Unsworth at e.unsworth@nvrh.org. Join us at NVRH, where excitement meets exceptional healthcare in the captivating realm of Vermont's Northeast Kingdom!   Additional Information:**Orientation will be the 2nd and 4th Monday of the month**   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 542796
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9983
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 17 2023 10:09:20
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261224 ;Status=Open;Association=Northeastern Vermont Regional Hospital ;Client=Northeastern Vermont Regional Hospital ;City=St Johnsbury ;State=VT ;Zip='05819 ;Start=11/7/2023;End=2/6/2024;Duration=91;Cert=Nursing ;Specialty=Intensive Care / Coronary Nurse (ICU) ;Unit=Intensive Care / Coronary Nurse (ICU) ;Shift=3, 12 hour shifts per week. 7pm - 7am;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$85.00;OTRate=95 ;OTRules=By The Week, after 40, ;CallbackRate=90 (All Inclusive Rate + $5) ;HolidayRate=95 (All Inclusive Rate + $10) ;OnCallRateDescription=$4 per hour pager ;Description=Exciting Job Opportunity for Adventurous Nurses in Picturesque Vermont!Escape the hustle and bustle of the big city and embark on a thrilling adventure in the breathtaking state of Vermont. Immerse yourself in the natural beauty of the Northeast Kingdom, where outdoor enthusiasts thrive with endless opportunities for excitement!Discover the exhilaration of skiing at Burke Mountain or conquer the trails at Kingdom Trails, perfect for both fat biking and snowshoeing. Explore the wonders of Vermont and indulge in a multitude of thrilling activities. Vermont's Northeast Kingdom is an outdoor wonderland, offering a paradise of adventures for you to enjoy!Join our dedicated team as a Registered Nurse (RN) and be at the forefront of coordinating exceptional patient care. The RN provides quality nursing care for those patients requiring a critical care setting during hospitalization. Care is reflective of the AACN Standards and is delivered in a professional manner that is appropriate to each patient s age, physical ability, and intellectual development. The nurse demonstrates proficiency in delivering treatment and adapting care to meet the needs of one or more of the following patient populations: pediatric, adult, and geriatric.To join our team, we require a minimum of three years' acute care experience, with preference given to candidates with Meditech familiarity. Possessing a current Vermont RN or multi state licensure and BCLS, ACLS certifications are required. Nestled in the heart of Vermont's historic Northeast Kingdom, NVRH is a cherished 25-bed independent and nonprofit critical access hospital. Renowned for its unspoiled beauty and year-round recreational activities, this region is a haven for those seeking a vibrant and fulfilling lifestyle. At NVRH, we deliver primary and preventive care, surgical and specialty services, inpatient and outpatient care, and round-the-clock emergency services manned by our dedicated board-certified physicians.We understand the importance of a seamless onboarding process, and therefore, we request that all required credentials be uploaded three business days prior to your start date. This ensures a prompt and hassle-free integration into our remarkable team.In addition to this incredible opportunity, we also offer housing options conveniently located a mere 10 minutes from NVRH. Enjoy the comfort of a private dorm room and share common spaces with fellow professionals. All utilities are included, and the premises are located on a high school campus. Please note we have a limited number of dorms and one may not always be available but we do have a wait list. For more housing information, or to reserve a dorm room, please reach out to Erin Unsworth at e.unsworth@nvrh.org. Join us at NVRH, where excitement meets exceptional healthcare in the captivating realm of Vermont's Northeast Kingdom!   Additional Information:**Orientation will be the 2nd and 4th Monday of the month**   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261224;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Northeastern Vermont Regional Hospital 
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

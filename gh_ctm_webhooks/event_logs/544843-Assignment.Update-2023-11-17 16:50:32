@@ -1,0 +1,102 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '10780',
+  'Cf-Ray' => '8279792677cc1838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => TWO YEARS CURRENT EXPERIENCE AS STERILE PROCESSING TECH in high volume setting required. REQUIRED: CRCST or CBSPD Certification,BLS (AHA),Education - HS Diploma / GED.SFHS COVER SUBMISSION SHEET MUST be attached with submission or submission will be declined.Current permanent address by direct route must be  100 miles from facility.Position is Safety Sensitive:Safety Sensitive Under the Oklahoma Medical Marijuana Use and Patient Protection Act (OMMA), is defined as any job that includes tasks or duties that the employer believes could affect the safety and health of the employee performing the task or others. This position has been identified as a safety sensitive position. This statute allows employers to lawfully refuse to hire applicants for safety-sensitive jobs or to discipline or discharge employees who work in safety- sensitive jobs if they test positive for marijuana, even if they have a valid license to use medical marijuana.JOB DESCRIPTION:
+Performs all aspects of sterile processing inclusive of basic decontamination of medical equipment, surgical instruments, miscellaneous supplies, and prepares items for processing/sterilization. Assists with the timely completion of the surgery schedule by ensuring the proper supply of instrumentation and equipment for each surgical procedure. Responsible for maintaining quality assurance logs and documentation for all sterilization equipment and processes. Must be able to show competence in all areas of the department with proficiency in a minimum of two areas i.e., decontamination, prep and pack, sterilization and sterile holding.  
+
+Essential Functions and Responsibilities  
+
+Ensures sterilization parameters are met by selecting appropriate sterilization methods and following correct principles of sterilization and consulting manufacturer's written instructions for use, if necessary. Properly review and document sterilization load and biological test results to confirm required parameters for sterilization have been achieved.  
+
+Consistently creates a safe work environment by selecting appropriate personal protective equipment (PPE), monitoring proper environmental controls, properly handling bio hazardous waste and maintaining a clean work area. Displays understanding of "surgical conscience" and this principle guides work performance and training of subsequent employees.  
+
+Cleans and validates proper functionality of all general and specialty instruments by conducting a thorough inspection. Uses an electronic instrument management system or count sheet to correctly assemble, protect, wrap, containerize, peel pack and label basic and advanced instruments and instrument sets and various power equipment per manufacturer's written instructions for use.  
+
+Demonstrates proper use, maintenance and operation of the equipment specific to sterile processing, i.e. steam, and gas plasma sterilizers; cart washers; washer/disinfectors, ultrasonic cleaners and heat sealers as well as a variety of monitoring/testing devices. Displays ability to distinguish between operator errors versus equipment malfunction and can perform basic trouble shooting. Reports equipment failures or errors immediately to supervisor or manager and prepares repair work order for equipment. Displays the ability to use an electronic instrument management system to log activity, instrument tracking, autoclave load documentation as well as other features of the instrument management system.  
+
+Responsible for the knowledge of the processes involved in ordering, receiving, stocking, rotating, delivering and monitoring usage of disposable surgical supplies and communicates supply issues to appropriate personnel in a timely manner. Maintains sterile integrity and assures timely delivery of supplies and instrumentation to surgery by following proper handling, inspection and storage methods. Functions as resource for surgery and floor units in determining supplies needed.  
+
+Responsible for knowledge of hospital policies and procedures, as well as standards and guidelines issued by AAMI, AORN, OSHA andJoint Commission related to sterile processing. Attends all departmental in- services. Continually develops an understanding of  
+
+the rationale guiding the field of sterile processing, including current trends and topics in the field.  
+
+Communicates appropriately with Central Sterile Processing (CSP) and Operating Room (OR) staff to define and resolve problems and promote continuity of service. Anticipates unit's and operating rooms daily needs.Other duties as assigned.
+
+ .   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Sterile Processing Tech 
+    [assignmentid] => 544843
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 1328
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 3
+    [workerFirstName] => 
+    [cert] => Sterile Processing Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 17 2023 11:50:31
+    [daysPerWeek] => 5
+    [orderNote] => Source=Medefis5;SourceID=261822 ;Status=Open;Association=Saint Francis Health System--Tulsa ;Client=Saint Francis Health System--Tulsa ;City=Tulsa ;State=OK ;Zip=74136 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Nursing ;Specialty=Sterile Processing Technologist ;Unit=Sterile Processing Technologist ;Shift=11p - 7a Monday-Friday; No 'call';# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$47.00;OTRate=47 ;OTRules=By The Week, after 40, ;HolidayRate=47 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=TWO YEARS CURRENT EXPERIENCE AS STERILE PROCESSING TECH in high volume setting required. REQUIRED: CRCST or CBSPD Certification,BLS (AHA),Education - HS Diploma / GED.SFHS COVER SUBMISSION SHEET MUST be attached with submission or submission will be declined.Current permanent address by direct route must be  100 miles from facility.Position is Safety Sensitive:Safety Sensitive Under the Oklahoma Medical Marijuana Use and Patient Protection Act (OMMA), is defined as any job that includes tasks or duties that the employer believes could affect the safety and health of the employee performing the task or others. This position has been identified as a safety sensitive position. This statute allows employers to lawfully refuse to hire applicants for safety-sensitive jobs or to discipline or discharge employees who work in safety- sensitive jobs if they test positive for marijuana, even if they have a valid license to use medical marijuana.JOB DESCRIPTION:
+Performs all aspects of sterile processing inclusive of basic decontamination of medical equipment, surgical instruments, miscellaneous supplies, and prepares items for processing/sterilization. Assists with the timely completion of the surgery schedule by ensuring the proper supply of instrumentation and equipment for each surgical procedure. Responsible for maintaining quality assurance logs and documentation for all sterilization equipment and processes. Must be able to show competence in all areas of the department with proficiency in a minimum of two areas i.e., decontamination, prep and pack, sterilization and sterile holding.  
+
+Essential Functions and Responsibilities  
+
+Ensures sterilization parameters are met by selecting appropriate sterilization methods and following correct principles of sterilization and consulting manufacturer's written instructions for use, if necessary. Properly review and document sterilization load and biological test results to confirm required parameters for sterilization have been achieved.  
+
+Consistently creates a safe work environment by selecting appropriate personal protective equipment (PPE), monitoring proper environmental controls, properly handling bio hazardous waste and maintaining a clean work area. Displays understanding of "surgical conscience" and this principle guides work performance and training of subsequent employees.  
+
+Cleans and validates proper functionality of all general and specialty instruments by conducting a thorough inspection. Uses an electronic instrument management system or count sheet to correctly assemble, protect, wrap, containerize, peel pack and label basic and advanced instruments and instrument sets and various power equipment per manufacturer's written instructions for use.  
+
+Demonstrates proper use, maintenance and operation of the equipment specific to sterile processing, i.e. steam, and gas plasma sterilizers; cart washers; washer/disinfectors, ultrasonic cleaners and heat sealers as well as a variety of monitoring/testing devices. Displays ability to distinguish between operator errors versus equipment malfunction and can perform basic trouble shooting. Reports equipment failures or errors immediately to supervisor or manager and prepares repair work order for equipment. Displays the ability to use an electronic instrument management system to log activity, instrument tracking, autoclave load documentation as well as other features of the instrument management system.  
+
+Responsible for the knowledge of the processes involved in ordering, receiving, stocking, rotating, delivering and monitoring usage of disposable surgical supplies and communicates supply issues to appropriate personnel in a timely manner. Maintains sterile integrity and assures timely delivery of supplies and instrumentation to surgery by following proper handling, inspection and storage methods. Functions as resource for surgery and floor units in determining supplies needed.  
+
+Responsible for knowledge of hospital policies and procedures, as well as standards and guidelines issued by AAMI, AORN, OSHA andJoint Commission related to sterile processing. Attends all departmental in- services. Continually develops an understanding of  
+
+the rationale guiding the field of sterile processing, including current trends and topics in the field.  
+
+Communicates appropriately with Central Sterile Processing (CSP) and Operating Room (OR) staff to define and resolve problems and promote continuity of service. Anticipates unit's and operating rooms daily needs.Other duties as assigned.
+
+ .   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261822;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 47
+    [facilityName] => Saint Francis Hospital Travel
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 23:00
+    [subjectID] => 
+)

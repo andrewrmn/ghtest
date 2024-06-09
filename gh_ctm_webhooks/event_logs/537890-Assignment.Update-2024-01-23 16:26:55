@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '887',
+  'Cf-Ray' => '84a166af73d11838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 537890
+    [workerID] => 224614
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 36
+    [facilityID] => 16188
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-19
+    [workerLastName] => Suerto
+    [shiftNum] => 5
+    [workerFirstName] => Ethel
+    [cert] => RN
+    [floorDesc] => 1N Observation
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 23 2024 11:26:54
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$88lRS:135844
+FTK: GH Signed Timesheet
+    [guaranteedMinimum] => 
+    [workerEmail] => ethelsuerto@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 88
+    [facilityName] => Cape Fear Valley Medical Center LOCAL
+    [shiftDateEnd] => 2024-02-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

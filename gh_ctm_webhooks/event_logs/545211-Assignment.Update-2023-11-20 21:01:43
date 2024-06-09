@@ -1,0 +1,190 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '20',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6819',
+  'Cf-Ray' => '8293a13b63e1493d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Patient Population:
+Adult internal medicine 
+Post Surgery
+Urology
+
+Unit Info:
+Beds: 26
+Patient Ratios: Patient Ratios 1:6 (Float: All contract staff are expected to float.) Medical Surgical/PCU (RN) may float to ICU/ED to care for MS patients in that area.
+Required Certs: BLS | NIHSS | CPI 
+Preferred Certs: ACLS 
+1 Year Min Experience Required (Prefer 2 yrs experience)
+Meditech Exp Preferred
+Please note that we may still have Covid-19 patients and all nurses are expected to be able to take care of any isolation patient. Please know your N95 Mask size.
+ 
+Schedule Requirements:
+Weekend Requirements: 1/2 schedule with need weekend as described by the manager. Unit needs vary throughout the week. Weekend Days: Sat and Sunday only.  Weekend Nights:  Friday, Sat and Sunday
+NO BLOCKED SCHEDULING 
+RTO: <5 Days Total (Unit manager approves all RTO)
+
+Required Skills:
+Med/Surg
+Use of Rapid Response Teams
+Isolation Precautions
+
+Preferred Skills:
+Post Angiogram		
+Post Cardiac Surgery		
+Post MI				
+Gastrointestinal
+Colostomy care		
+Feeding tube care and management		
+Pre/Post Hemodialysis Management		
+Renal failure		
+Accessing Ports		
+Blood Product Administration		
+Central line blood draw		
+Phlebotomy		
+PICC line management		
+Starting IVs		
+Heparin		
+Insulin		
+PCA
+Ortho Truama
+Peripheral nerve block catheters		
+Total Joint Replacements
+Surgical drains
+Chest tubes-Emerson/Pleur-evac		
+CPAP/BiPAP		
+High Flow Nasal Cannula (HFNC)	
+Wound Care
+
+Other Notes:
+Scrubs: Teal/White Combo 
+Parking: one-time $40 fee
+Locals: <75 miles, $10 less than the base rate
+
+Please be advised that January 13th 2024, all clinicians working at Tulane campus will be transitioned over and will continue their assignments at East Jefferson campus. 
+Location : 4200 Houma Blvd, Metairie, LA 70006
+
+ Modified Time:12/18/2023 12:00:00 AM
+ Account Manager: Chad Samuel
+ Account Manager Email: csamuel@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel.FLOAT REQUIREMENT   Everyone floats. If clinicians are floated to a unit outside their specialty, they will only be assigned lower acuity patients within their skillset. ICU will float down with lower patient ratios.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545211
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 16204
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 1
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 20 2023 16:01:43
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2261110 ;Status=Open;Association=Vaya Legacy MSP (Connect) ;Client=Tulane Medical Center ;City=New Orleans ;State=LA ;Zip=70112 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Registered Nurse ;Specialty=Medical Surgical ;Unit=Med Surg RN | USSU - 6 West | 61474 ;Shift=Night 3x12-Hour (19:00 - 07:30);# of Postions=2;Type=Travel;BillRate=$80.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Patient Population:
+Adult internal medicine 
+Post Surgery
+Urology
+
+Unit Info:
+Beds: 26
+Patient Ratios: Patient Ratios 1:6 (Float: All contract staff are expected to float.) Medical Surgical/PCU (RN) may float to ICU/ED to care for MS patients in that area.
+Required Certs: BLS | NIHSS | CPI 
+Preferred Certs: ACLS 
+1 Year Min Experience Required (Prefer 2 yrs experience)
+Meditech Exp Preferred
+Please note that we may still have Covid-19 patients and all nurses are expected to be able to take care of any isolation patient. Please know your N95 Mask size.
+ 
+Schedule Requirements:
+Weekend Requirements: 1/2 schedule with need weekend as described by the manager. Unit needs vary throughout the week. Weekend Days: Sat and Sunday only.  Weekend Nights:  Friday, Sat and Sunday
+NO BLOCKED SCHEDULING 
+RTO: <5 Days Total (Unit manager approves all RTO)
+
+Required Skills:
+Med/Surg
+Use of Rapid Response Teams
+Isolation Precautions
+
+Preferred Skills:
+Post Angiogram		
+Post Cardiac Surgery		
+Post MI				
+Gastrointestinal
+Colostomy care		
+Feeding tube care and management		
+Pre/Post Hemodialysis Management		
+Renal failure		
+Accessing Ports		
+Blood Product Administration		
+Central line blood draw		
+Phlebotomy		
+PICC line management		
+Starting IVs		
+Heparin		
+Insulin		
+PCA
+Ortho Truama
+Peripheral nerve block catheters		
+Total Joint Replacements
+Surgical drains
+Chest tubes-Emerson/Pleur-evac		
+CPAP/BiPAP		
+High Flow Nasal Cannula (HFNC)	
+Wound Care
+
+Other Notes:
+Scrubs: Teal/White Combo 
+Parking: one-time $40 fee
+Locals: <75 miles, $10 less than the base rate
+
+Please be advised that January 13th 2024, all clinicians working at Tulane campus will be transitioned over and will continue their assignments at East Jefferson campus. 
+Location : 4200 Houma Blvd, Metairie, LA 70006
+
+ Modified Time:12/18/2023 12:00:00 AM
+ Account Manager: Chad Samuel
+ Account Manager Email: csamuel@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel.FLOAT REQUIREMENT   Everyone floats. If clinicians are floated to a unit outside their specialty, they will only be assigned lower acuity patients within their skillset. ICU will float down with lower patient ratios. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2261110/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Tulane Medical Center-Travel
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

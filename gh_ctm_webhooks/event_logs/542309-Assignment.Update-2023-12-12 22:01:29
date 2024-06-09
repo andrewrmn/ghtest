@@ -1,0 +1,69 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1132',
+  'Cf-Ray' => '83493f04b0731834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Shawna Davis
+REF LTO: 542309
+
+New RS: 136335
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 542309
+    [workerID] => 323583
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => Scrub Color: Scrubs will be provided. 
+Approved Time Off: None.
+
+Special Notes: Facility may cancel one shift per pay period without penalty.
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8932
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => Davis
+    [shiftNum] => 5
+    [workerFirstName] => Shawna
+    [cert] => CST
+    [floorDesc] => OR
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 12 2023 17:01:28
+    [daysPerWeek] => 3
+    [orderNote] => FTK: GH Unsigned Timesheet
+OnCl:P$10/B$18
+Ornt:$20/NB:8hr
+BR:$110
+    [guaranteedMinimum] => 
+    [workerEmail] => shawnahddrr@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => AtlantiCare Regional Medical Center - Atlantic City TRAVEL
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

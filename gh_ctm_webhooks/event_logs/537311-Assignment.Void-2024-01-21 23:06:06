@@ -1,0 +1,69 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2967',
+  'Cf-Ray' => '849334a931e477ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 weeks
+Various Hours 4x10 
+On call required
+
+Assists physicians during special radiologic procedures requiring experience and advanced training in the Cath lab. Serves as a resource person for other personnel regarding hemodynamic monitoring and radiation safety.  These procedures vary in advanced diagnostic and interventional cardiovascular procedures requiring experience and advanced training in the cardiac cath lab. Such procedures include, but are not limited to, coronary angiograms, PTCAs, peripheral and coronary artery stent placements, pediatric and adult heart catheterizations, peripheral PTAs, ICD implants, PPM implants, electrophysiology studies, EP mapping, EP ablation, valvuloplastie, structural heart procedures, and laser procedures. Serves as a leader on the Cath Lab team and an expert in the field.
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 537311
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15840
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-02-05
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 21 2024 18:06:05
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=47697 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne Des Moines Medical Center ;City=Des Moines ;State=IA ;Zip=50314 ;Start=1/28/2024;End=4/27/2024;Duration=90;Cert=RN Cath lab ;Specialty=Cath Lab ;Unit=IA/Des Moines/Cath Lab RN - Various Hours ;Shift=7a7p;# of Postions=1;Type=Travel;BillRate=$100.00;OTRate=130.00 ;ChargeRate=103.00 ;CallbackRate=130.00 ;HolidayRate=130.00 ;Orientation=0.00 ;Description=13 weeks
+Various Hours 4x10 
+On call required
+
+Assists physicians during special radiologic procedures requiring experience and advanced training in the Cath lab. Serves as a resource person for other personnel regarding hemodynamic monitoring and radiation safety.  These procedures vary in advanced diagnostic and interventional cardiovascular procedures requiring experience and advanced training in the cardiac cath lab. Such procedures include, but are not limited to, coronary angiograms, PTCAs, peripheral and coronary artery stent placements, pediatric and adult heart catheterizations, peripheral PTAs, ICD implants, PPM implants, electrophysiology studies, EP mapping, EP ablation, valvuloplastie, structural heart procedures, and laser procedures. Serves as a leader on the Cath Lab team and an expert in the field. ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => MercyOne Des Moines Medical Center (Trinity) TRAVEL
+    [shiftDateEnd] => 2024-05-05
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

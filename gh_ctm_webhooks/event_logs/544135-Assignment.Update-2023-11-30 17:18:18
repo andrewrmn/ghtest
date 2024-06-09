@@ -1,0 +1,106 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4335',
+  'Cf-Ray' => '82e4bfb1161b183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Unit: Endoscopy - Mercy Hospital Springfield
+Specialty: Technician
+Shift: Days,
+5x8, 0700-1900
+(hours may vary)
+Guaranteed Hours: 36
+
+Assignment Length: 13 weeks
+ALL CONTINGENCY REQUESTS MUST BE ON THE SUBMISSION FORM
+Required Certifications:
+BLS from AHA only
+Preferred Certifications:
+ACLS from AHA only
+Required Experience:
+1 year Endo TechMust be willing to float when neededMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsUnder the direction of supervisor or RN will perform duties as listed in the  Specific Job Duties and Responsibilities . Primary duties include: instrument processing, equipment cleanliness, transportation of patients and equipment, some patient care, assisting with procedures if necessary and supply inventory. Performs related duties as assigned.
+
+
+Other: Skills, Knowledge, and Abilities: Good communication skills. Working Conditions,
+
+Mental and Physical Requirements: Able to lift and move heavy equipment, lift and turn sedated patients, walk long distance, work with delicate instruments and harsh chemicals. May be required to work differing schedules, shifts, days of the week, or work frequency according to patient care requirements and staffing needs.
+Equipment Used: Various kinds of equipment and their processors, all endoscopic related scopes and instrumentation, transport carts, basic pt monitoring equipment.
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Endoscopy
+    [assignmentid] => 544135
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13126
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Endoscopy Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 30 2023 12:18:15
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=775436 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Springfield ;City=Springfield ;State=MO ;Zip=65804 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Endoscopy Tech ;Specialty=Endoscopy ;Unit=Mercy ;Shift=07:00-19:00;# of Postions=1;Type=Travel;BillRate=$60.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Unit: Endoscopy - Mercy Hospital Springfield
+Specialty: Technician
+Shift: Days,
+5x8, 0700-1900
+(hours may vary)
+Guaranteed Hours: 36
+
+Assignment Length: 13 weeks
+ALL CONTINGENCY REQUESTS MUST BE ON THE SUBMISSION FORM
+Required Certifications:
+BLS from AHA only
+Preferred Certifications:
+ACLS from AHA only
+Required Experience:
+1 year Endo TechMust be willing to float when neededMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsUnder the direction of supervisor or RN will perform duties as listed in the  Specific Job Duties and Responsibilities . Primary duties include: instrument processing, equipment cleanliness, transportation of patients and equipment, some patient care, assisting with procedures if necessary and supply inventory. Performs related duties as assigned.
+
+
+Other: Skills, Knowledge, and Abilities: Good communication skills. Working Conditions,
+
+Mental and Physical Requirements: Able to lift and move heavy equipment, lift and turn sedated patients, walk long distance, work with delicate instruments and harsh chemicals. May be required to work differing schedules, shifts, days of the week, or work frequency according to patient care requirements and staffing needs.
+Equipment Used: Various kinds of equipment and their processors, all endoscopic related scopes and instrumentation, transport carts, basic pt monitoring equipment.
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/775436;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 60
+    [facilityName] => Mercy Hospital Springfield TRAVEL
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

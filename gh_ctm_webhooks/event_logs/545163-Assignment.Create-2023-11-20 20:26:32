@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '23',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2975',
+  'Cf-Ray' => '82936dad67324949-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => RNs for Surgical Ortho Unit/ Med Surg with surgical post operative experience.  MUST HAVE CURRENT WA license. Evening/ Night, 12 hr shifts, 7:00 pm - 7:30 am.COVID-19 Vaccine medical and religious exemptions will be reviewed on an individual basis. With an approved accommodation travelers will be required to follow the current CH masking protocol.   Additional Information:PLEASE NOTE THAT CONFLUENCE HEALTH PARTICIPATES IN THE MEDEFIS CREDENTIAL SERVICE. PLEASE SUBMIT ALL CREDENTIALS THROUGH THE MEDEFIS PORTAL. THEY ALSO PARTICIPATE IN THE MEDEFIS INVOICING SERVICE OF WHICH KRONOS REPORTS ARE UPLOADED BIWEEKLY.  TRAVELERS ARE NOT TO USE PAPER TIMECARDS.  AGENCY MUST HAVE WA STATE NURSE POOL LICENSE IN ORDER TO HAVE TRAVELERS WORKING AT THIS FACILITY.   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545163
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1368
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 20 2023 15:26:31
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261952 ;Status=Open;Association=Confluence Health ;Client=Confluence Health Hospital - Central Campus ;City=Wenatchee ;State=WA ;Zip=98801 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Nursing ;Specialty=Med-surg Adult ;Unit=Med-surg Adult ;Shift=Evening/Nights, 12 hrs, 6-630;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$105.00;OTRate=115 ;OTRules=By The Week, after 40, ;HolidayRate=115 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=RNs for Surgical Ortho Unit/ Med Surg with surgical post operative experience.  MUST HAVE CURRENT WA license. Evening/ Night, 12 hr shifts, 7:00 pm - 7:30 am.COVID-19 Vaccine medical and religious exemptions will be reviewed on an individual basis. With an approved accommodation travelers will be required to follow the current CH masking protocol.   Additional Information:PLEASE NOTE THAT CONFLUENCE HEALTH PARTICIPATES IN THE MEDEFIS CREDENTIAL SERVICE. PLEASE SUBMIT ALL CREDENTIALS THROUGH THE MEDEFIS PORTAL. THEY ALSO PARTICIPATE IN THE MEDEFIS INVOICING SERVICE OF WHICH KRONOS REPORTS ARE UPLOADED BIWEEKLY.  TRAVELERS ARE NOT TO USE PAPER TIMECARDS.  AGENCY MUST HAVE WA STATE NURSE POOL LICENSE IN ORDER TO HAVE TRAVELERS WORKING AT THIS FACILITY.   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261952;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Central Washington Hospital
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

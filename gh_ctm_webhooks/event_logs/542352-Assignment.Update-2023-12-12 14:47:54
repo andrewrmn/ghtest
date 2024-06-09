@@ -1,0 +1,114 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3125',
+  'Cf-Ray' => '8346c3d87524183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Orthopedics RN 
+36 hours per week, 12 hr shifts
+
+Nightshift
+
+Work every third weekend
+
+Holidays: Per unit requirement
+
+Possible reassignment within competency
+
+Preferred 3 years of med/surg experience. Ortho experience required.
+
+31 bed unit that include 4 step-down beds
+
+Ratio: 1:4, sometimes 1:5
+
+Unit is located in the Main Hospital, 11th floor
+
+Dress code is Ceil Blue and White
+
+Basic Knowledge Assessment Test (BKAT) required
+
+Lawson Code 2411/ CC100263
+
+RN1
+
+   Additional Information:Orientation: The first 16 hours of orientation are unpaid. Call Off Policy: 5 shifts (or the equivalent hours) per 13 week assignment.  Parking: Travelers may need to  pay for parking at VCU depending on how close they want to be to the hospital.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 542352
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3760
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-31
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 12 2023 09:47:48
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261116 ;Status=Open;Association=VCU Health ;Client=VCU Medical Center ;City=Richmond ;State=VA ;Zip=23298 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Nursing ;Specialty=Orthopedic, Med-Surg Ortho, PCU, Step Down ;Unit=Orthopedic, Med-Surg Ortho, PCU, Step Down ;Shift=Nights;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$90.00;OTRate=100 ;OTRules=By The Week, after 40, ;CallbackRate=90 (All Inclusive Rate) ;HolidayRate=90 (All Inclusive Rate) ;OnCallRateDescription=$10 per hour pager ;Description=Orthopedics RN 
+36 hours per week, 12 hr shifts
+
+Nightshift
+
+Work every third weekend
+
+Holidays: Per unit requirement
+
+Possible reassignment within competency
+
+Preferred 3 years of med/surg experience. Ortho experience required.
+
+31 bed unit that include 4 step-down beds
+
+Ratio: 1:4, sometimes 1:5
+
+Unit is located in the Main Hospital, 11th floor
+
+Dress code is Ceil Blue and White
+
+Basic Knowledge Assessment Test (BKAT) required
+
+Lawson Code 2411/ CC100263
+
+RN1
+
+   Additional Information:Orientation: The first 16 hours of orientation are unpaid. Call Off Policy: 5 shifts (or the equivalent hours) per 13 week assignment.  Parking: Travelers may need to  pay for parking at VCU depending on how close they want to be to the hospital.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261116;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => VCU Medical Center - TRAVEL
+    [shiftDateEnd] => 2024-03-31
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

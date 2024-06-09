@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '952',
+  'Cf-Ray' => '8328aa5a02ec23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Start/End Date Change
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 536347
+    [workerID] => 221580
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 14109
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => Jean-Baptiste
+    [shiftNum] => 4
+    [workerFirstName] => Noleweed-Guethy
+    [cert] => RN
+    [floorDesc] => 2 Pines
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 08 2023 18:07:06
+    [daysPerWeek] => 3
+    [orderNote] => BR:$95lRS:135640
+Orient:$20lNonBill:8hrs
+FTK: GH Unsigned Timesheet
+    [guaranteedMinimum] => 
+    [workerEmail] => Edweedg@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => AtlantiCare Regional Medical Center - Mainland TRAVEL
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

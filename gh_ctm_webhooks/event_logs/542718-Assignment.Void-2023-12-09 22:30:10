@@ -1,0 +1,96 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4394',
+  'Cf-Ray' => '8330b0e7f47477ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL - FSED CT - COST CENTER (719) - 7:00PM-7:00AM
+
+Facility Overview:
+
+Part of North Florida Regional Healthcare
+
+North Florida Regional Healthcare is an organization centered around the community hospitals in Gainesville, Florida -- North Florida Regional Medical Center (NFRMC) and Lake City Medical Center (LCMC). NFRMC is a 432-bed, full-service medical and surgical acute care center serving North Central Florida and offering comprehensive
+cardiovascular care,
+oncology,
+orthopedics,
+neurosciences,
+minimally-invasive laparoscopic and robotic surgery,
+weight loss surgery and treatment,
+women s health
+and
+wound therapy, among other services. A proven leader, NFRMC is fully accredited, is certified as a Primary Stroke Center and a Quality Top Performer by The Joint Commission in four consecutive years, is an accredited Chest Pain Center, is designated as a Blue Distinction  Center for Knee and Hip Replacement, Spine Surgery and Bariatric Surgery and recognized b y U.S.News &amp; World Report for its High-Performing Gynecology Program in 2010. North Florida Regional Medical Center is a member of Hospital Corporation of America (HCA). Based in Nashville, Tennessee, HCA is the nation's leading provider of healthcare services, a company comprised of locally managed facilities that includes about 163 hospitals and 109 freestanding surgery centers in 20 states and Great Britain.
+ General Comments1
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 542718
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5663
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 09 2023 17:30:09
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=770324 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA Florida North Florida Hospital? ;City=GAINESVILLE ;State=FL ;Zip=32614 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=CT Tech ;Specialty=Radiology ;Unit=NORTH FLORIDA DIVISION (18) ;Shift=7:00PM-7:00AM;# of Postions=1;Type=Travel;BillRate=$73.00;minBillRate=$73.00;OTRate=81 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:TRAVEL - FSED CT - COST CENTER (719) - 7:00PM-7:00AM
+
+Facility Overview:
+
+Part of North Florida Regional Healthcare
+
+North Florida Regional Healthcare is an organization centered around the community hospitals in Gainesville, Florida -- North Florida Regional Medical Center (NFRMC) and Lake City Medical Center (LCMC). NFRMC is a 432-bed, full-service medical and surgical acute care center serving North Central Florida and offering comprehensive
+cardiovascular care,
+oncology,
+orthopedics,
+neurosciences,
+minimally-invasive laparoscopic and robotic surgery,
+weight loss surgery and treatment,
+women s health
+and
+wound therapy, among other services. A proven leader, NFRMC is fully accredited, is certified as a Primary Stroke Center and a Quality Top Performer by The Joint Commission in four consecutive years, is an accredited Chest Pain Center, is designated as a Blue Distinction  Center for Knee and Hip Replacement, Spine Surgery and Bariatric Surgery and recognized b y U.S.News &amp; World Report for its High-Performing Gynecology Program in 2010. North Florida Regional Medical Center is a member of Hospital Corporation of America (HCA). Based in Nashville, Tennessee, HCA is the nation's leading provider of healthcare services, a company comprised of locally managed facilities that includes about 163 hospitals and 109 freestanding surgery centers in 20 states and Great Britain.
+ General Comments1
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/770324;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 73
+    [facilityName] => North Florida Regional Medical Center Travel
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

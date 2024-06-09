@@ -1,0 +1,102 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5748',
+  'Cf-Ray' => '82d8ca4b72cd6a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Clinical review and auto offer
+The Inpatient Oncology unit located on 3 South, is a 28 bed adult acute care hematology/oncology unit as well as a 15-bed intermediate care (IMU) Stem Cell Transplant Unit (SCTU).
+12/18  or 1/8 starts only
+Nights
+Can offer 36 or 48 hours
+13 weeks
+Every other weekend
+Must meet holiday requirements
+Can approve 40 hours max for time off
+ONS cert in hand required, please attach cert with submittal. Can submit with second part of cert pending provided clinician has completed the first part
+BLS, ACLS preferred not required
+Must adhere to UVAs float policy
+Can submit with VA license pending
+Must have Epic experience
+
+ Modified Time:1/8/2024 12:00:00 AM
+ Account Manager: Christian Brown
+ Account Manager Email: Christian.Brown@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceRTO - Travelers are only guaranteed up to 40 hours of RTO per 13-week contract.&nbsp; The facility will try to accommodate any additional time off that exceeds the allotted 40 hours.If traveler has any vacation plans during the period between Sign Date and Start Date, this must be communicated to the Account Manager at the time of submission to ensure a realistic start date may be requestedExperience - Please refer to the job description for required experience.Valid State License - Will accept pending licenses, but must have license in-hand the Wednesday before start date.&nbsp; However, RRT travelers must have license in-hand at time of submissionMile Radius Rule - No rule.References Required - YesFloat Requirements - Candidates will be asked to float within their scope of practice within the facility.Copy of Certification - Please include copy of certification(s) that are required in the job description with submissions.Required Charting Exp. - SRO Float Pool and Inpatient Units need Epic ExperienceBackground Policy - If aware of background hit(s), please inform Account Manager.Return Staff Policy - 12 months must pass to return as traveler.&nbsp; Please inform Account Manager if previously employed at UVA as permanent staff member or traveler.BSN preferred
+    [sitename] => giftednurses
+    [spec] => Oncol
+    [assignmentid] => 546326
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12555
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 29 2023 01:28:22
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2312484 ;Status=Open;Association=Qualivis MSP ;Client=University of Virginia Medical Center ;City=Charlottesville ;State=VA ;Zip=22908-0001 ;Start=1/8/2024;End=4/8/2024;Duration=91;Cert=Registered Nurse ;Specialty=Oncology ;Unit=3 South Oncology - 2060 ;Shift=Night 3x12-Hour (19:00 - 07:00);# of Postions=3;Type=Travel;BillRate=$100.00;OTRules=48 total hours in 1 week : 10 ;Orientation=16 ;Description=Clinical review and auto offer
+The Inpatient Oncology unit located on 3 South, is a 28 bed adult acute care hematology/oncology unit as well as a 15-bed intermediate care (IMU) Stem Cell Transplant Unit (SCTU).
+12/18  or 1/8 starts only
+Nights
+Can offer 36 or 48 hours
+13 weeks
+Every other weekend
+Must meet holiday requirements
+Can approve 40 hours max for time off
+ONS cert in hand required, please attach cert with submittal. Can submit with second part of cert pending provided clinician has completed the first part
+BLS, ACLS preferred not required
+Must adhere to UVAs float policy
+Can submit with VA license pending
+Must have Epic experience
+
+ Modified Time:1/8/2024 12:00:00 AM
+ Account Manager: Christian Brown
+ Account Manager Email: Christian.Brown@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceRTO - Travelers are only guaranteed up to 40 hours of RTO per 13-week contract.&nbsp; The facility will try to accommodate any additional time off that exceeds the allotted 40 hours.If traveler has any vacation plans during the period between Sign Date and Start Date, this must be communicated to the Account Manager at the time of submission to ensure a realistic start date may be requestedExperience - Please refer to the job description for required experience.Valid State License - Will accept pending licenses, but must have license in-hand the Wednesday before start date.&nbsp; However, RRT travelers must have license in-hand at time of submissionMile Radius Rule - No rule.References Required - YesFloat Requirements - Candidates will be asked to float within their scope of practice within the facility.Copy of Certification - Please include copy of certification(s) that are required in the job description with submissions.Required Charting Exp. - SRO Float Pool and Inpatient Units need Epic ExperienceBackground Policy - If aware of background hit(s), please inform Account Manager.Return Staff Policy - 12 months must pass to return as traveler.&nbsp; Please inform Account Manager if previously employed at UVA as permanent staff member or traveler.BSN preferred ;url=https://app.ayaconnect.com/index.html#/vendor/job/2312484/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => University of Virginia Medical Center Travel
+    [shiftDateEnd] => 2024-04-08
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

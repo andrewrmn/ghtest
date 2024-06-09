@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '939',
+  'Cf-Ray' => '85c1e907b7511838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: End Date Change
+End: 2/17/2024
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 538792
+    [workerID] => 330754
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 12757
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-20
+    [workerLastName] => Tadiaman
+    [shiftNum] => 4
+    [workerFirstName] => Felina
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => February, 27 2024 11:47:32
+    [daysPerWeek] => 3
+    [orderNote] => BR:$115lRS:136023
+Orient:$41lNonBill:8hrs
+FTK: GIFTED timecard
+    [guaranteedMinimum] => 
+    [workerEmail] => Felinatadiaman@yahoo.com
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 115
+    [facilityName] => Sutter Health - Memorial Medical Center RS Travel
+    [shiftDateEnd] => 2024-02-17
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,155 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '16820',
+  'Cf-Ray' => '82d382a0b7de1464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:The Case Manager is responsible for utilization reviews, resource management, discharge planning, treatment plan management and financial management, while also completing medical record documentation.
+Complete Description:Embraces the Select Medical Way and Core Values of the Company:
+  We deliver superior quality in all that we do.
+  We treat others as they would like to be treated.
+  We are results oriented and achieve our objectives.
+  We are team players.
+  We are resourceful in overcoming obstacles.
+																													One of our 4 Key organizational results is to Keep our Patients and Each Other Safe:
+Select Medical is an organization where patient safety and employee safety are a priority. This focus on safety is applicable to all business lines and levels of care. To those of us who work for Select Medical, these are more than words. Putting safety first allows us to provide superior care for our patients and provides a work environment where each employee is expected to take care of themselves and each other by making safe choices, using equipment provided, identifying work place hazards, adhering to safety policies and procedures and reporting risks or hazards as soon as possible.																														
+
+Promotes Patient and Employee Safety   Focused on 10 Foot Circle of Safety and displays safety awareness in all of the below key areas:
+  Safe Patient Handling
+  Materials Handling
+  Infectious Diseases
+  Slips/Trips and Falls
+  Work Environment
+																														
+Follows all facility guidelines outlining standards of personal appearance, attendance and punctuality.																															
+Identify the patient's problem or situation presently affecting the patient and/or families ability to adapt to or participate in their treatment plan.																															
+Assist the patient and/or family in the utilization of all hospital resources to remove barriers to adjust to their healthcare situation.																															
+Assists the patient and/or family to participate in the decision making of their individual plan of care and development of a safe discharge plan.																															
+In collaboration with the interdisciplinary team, including the physician, the CM manages and directs a clinical plan of care to overcome barriers and assist the patient to achieve a safe and timely discharge to the next most appropriate lower level of care.																															
+Interacts appropriately with patients according to age and level of understanding.																															
+Refer patients and families to outside agencies for social problems unrelated to the health care situation as required by state regulation.																															
+Informs DCM/CEO of all major conditions, subsequent changes, and emergency situations. Submits accurate and thorough work on time. Completes data collection and tabulation of statistical information as directed.																															
+Follows correct company procedures when interacting with patients and families. Assures team and family conferences are conducted according to policy and procedure. Assures team conference reports are professional and appropriate in collaboration with clinical services.																															
+Works cooperatively as a team member to identify and solve facility-wide needs and improve operations. Participates in scheduled meetings.																															
+Assures medical necessity review criteria, as mandated by the QIO, is implemented for all admissions and continued stays.																															
+Assures thorough and timely completion of utilization review and non-Medicare utilization. 																															
+Identify barriers to reaching a solution to the problem or situation defined above.																															
+Stresses Payor/Referral satisfaction. Effectively interacts with patients, families, and visitors to enhance guest relations. Represents the facility in all contacts with other health professionals and the general public in a manner which enhances the facility s reputation. Meets payor requirements by assuring all insurance certifications are timely. Assures payor/referral satisfaction with Case Management to promote repeat business. Assures team is notified immediately of payor requirements.																															
+Maintains an up-to-date community resource system and assists patient and family in gaining knowledge of, and access to, appropriate services.																															
+In collaboration with the Clinical Services Department, assures clinical documentation is in accordance with payor guidelines for reimbursement.																															
+Works in collaboration with the clinical team and physicians to identify unnecessary appointments, tests and procedures in accordance with the patient s plan of care.   																															
+Assures discharge planning evaluations are completed per policy and regulatory standards. 																															
+Maintains fiscal responsibilities by assuring appropriate levels of contract are being billed.																															
+Completes Director of Case Manager reports/duties in their absence as instructed. Reviews insurance verification form to minimize risk.    																															
+Provides payor-friendly options to promote prompt payments while reducing facility's financial risks. Communicates any billing or payor concerns to CBO as needed. Assures thorough and timely completion of critical payor information in the MedHost commercial UR system. Submits accurate projections weekly of commercial to Corporate finance. Assures Billing and Reimbursement form is completed and signed if indicated. Reviews insurance verification form to minimize risk.  																															
+Assures all national and local contract requirements are identified and fulfilled.  																															
+Outlier Management: Demonstrates working knowledge, actively manages patients utilizing appropriate tools to optimize outcomes.  Attends weekly meetings as indicated.  																															
+Document the plan of care and progress notes in the medical record as required by policy and state regulations.																															
+Performs other duties as assigned.
+Skills
+|  Skill | SkillTypeDescription | Duration | ExpertiseRatingDescription |
+|  Current licensure in a clinical discipline per state guidelines (RN, RT, SW preferred) | Required | 0  |  |
+|  Associates Degree in a healthcare field (Bachelor s degree preferred) | Required | 0  |  |
+|  Working knowledge of the insurance industry and government reimbursement | Required | 0  |  |
+|  2 years experience in Case Management and Discharge Planning in an Acute Care setting | Required | 0  |  |
+    [sitename] => giftednurses
+    [spec] => Case Mgmt
+    [assignmentid] => 543192
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3366
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 28 2023 10:05:38
+    [daysPerWeek] => 5
+    [orderNote] => Source=PeopleFluent;SourceID=724246 ;Status=Open;Association=Select Specialty Hospital - Nashville ;Client=Critical Illness and Rehab ;ASAP;Start=ASAP;End=;Duration=91;Cert=Case Manager ;Specialty=Case Manager - 4602 ;Unit=Case Manager - 4602 ;Shift=Day   5x8.0;# of Postions=1;Type=Travel;BillRate=$77.00;minBillRate=$60.00;Description=Short Description:The Case Manager is responsible for utilization reviews, resource management, discharge planning, treatment plan management and financial management, while also completing medical record documentation.
+Complete Description:Embraces the Select Medical Way and Core Values of the Company:
+  We deliver superior quality in all that we do.
+  We treat others as they would like to be treated.
+  We are results oriented and achieve our objectives.
+  We are team players.
+  We are resourceful in overcoming obstacles.
+																													One of our 4 Key organizational results is to Keep our Patients and Each Other Safe:
+Select Medical is an organization where patient safety and employee safety are a priority. This focus on safety is applicable to all business lines and levels of care. To those of us who work for Select Medical, these are more than words. Putting safety first allows us to provide superior care for our patients and provides a work environment where each employee is expected to take care of themselves and each other by making safe choices, using equipment provided, identifying work place hazards, adhering to safety policies and procedures and reporting risks or hazards as soon as possible.																														
+
+Promotes Patient and Employee Safety   Focused on 10 Foot Circle of Safety and displays safety awareness in all of the below key areas:
+  Safe Patient Handling
+  Materials Handling
+  Infectious Diseases
+  Slips/Trips and Falls
+  Work Environment
+																														
+Follows all facility guidelines outlining standards of personal appearance, attendance and punctuality.																															
+Identify the patient's problem or situation presently affecting the patient and/or families ability to adapt to or participate in their treatment plan.																															
+Assist the patient and/or family in the utilization of all hospital resources to remove barriers to adjust to their healthcare situation.																															
+Assists the patient and/or family to participate in the decision making of their individual plan of care and development of a safe discharge plan.																															
+In collaboration with the interdisciplinary team, including the physician, the CM manages and directs a clinical plan of care to overcome barriers and assist the patient to achieve a safe and timely discharge to the next most appropriate lower level of care.																															
+Interacts appropriately with patients according to age and level of understanding.																															
+Refer patients and families to outside agencies for social problems unrelated to the health care situation as required by state regulation.																															
+Informs DCM/CEO of all major conditions, subsequent changes, and emergency situations. Submits accurate and thorough work on time. Completes data collection and tabulation of statistical information as directed.																															
+Follows correct company procedures when interacting with patients and families. Assures team and family conferences are conducted according to policy and procedure. Assures team conference reports are professional and appropriate in collaboration with clinical services.																															
+Works cooperatively as a team member to identify and solve facility-wide needs and improve operations. Participates in scheduled meetings.																															
+Assures medical necessity review criteria, as mandated by the QIO, is implemented for all admissions and continued stays.																															
+Assures thorough and timely completion of utilization review and non-Medicare utilization. 																															
+Identify barriers to reaching a solution to the problem or situation defined above.																															
+Stresses Payor/Referral satisfaction. Effectively interacts with patients, families, and visitors to enhance guest relations. Represents the facility in all contacts with other health professionals and the general public in a manner which enhances the facility s reputation. Meets payor requirements by assuring all insurance certifications are timely. Assures payor/referral satisfaction with Case Management to promote repeat business. Assures team is notified immediately of payor requirements.																															
+Maintains an up-to-date community resource system and assists patient and family in gaining knowledge of, and access to, appropriate services.																															
+In collaboration with the Clinical Services Department, assures clinical documentation is in accordance with payor guidelines for reimbursement.																															
+Works in collaboration with the clinical team and physicians to identify unnecessary appointments, tests and procedures in accordance with the patient s plan of care.   																															
+Assures discharge planning evaluations are completed per policy and regulatory standards. 																															
+Maintains fiscal responsibilities by assuring appropriate levels of contract are being billed.																															
+Completes Director of Case Manager reports/duties in their absence as instructed. Reviews insurance verification form to minimize risk.    																															
+Provides payor-friendly options to promote prompt payments while reducing facility's financial risks. Communicates any billing or payor concerns to CBO as needed. Assures thorough and timely completion of critical payor information in the MedHost commercial UR system. Submits accurate projections weekly of commercial to Corporate finance. Assures Billing and Reimbursement form is completed and signed if indicated. Reviews insurance verification form to minimize risk.  																															
+Assures all national and local contract requirements are identified and fulfilled.  																															
+Outlier Management: Demonstrates working knowledge, actively manages patients utilizing appropriate tools to optimize outcomes.  Attends weekly meetings as indicated.  																															
+Document the plan of care and progress notes in the medical record as required by policy and state regulations.																															
+Performs other duties as assigned.
+Skills
+|  Skill | SkillTypeDescription | Duration | ExpertiseRatingDescription |
+|  Current licensure in a clinical discipline per state guidelines (RN, RT, SW preferred) | Required | 0  |  |
+|  Associates Degree in a healthcare field (Bachelor s degree preferred) | Required | 0  |  |
+|  Working knowledge of the insurance industry and government reimbursement | Required | 0  |  |
+|  2 years experience in Case Management and Discharge Planning in an Acute Care setting | Required | 0  |  | ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=724246;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 77
+    [facilityName] => Select Specialty Nashville-Midtown-TRAVEL
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

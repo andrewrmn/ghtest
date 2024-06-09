@@ -1,0 +1,70 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3316',
+  'Cf-Ray' => '82930c5bc26a23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Travel CVOR CST Start: ASAP
+ Duration: 13 weeks
+ Shift: Days, 6:30a-5p, holidays and call required  **$90/hr rate approved**Cardiovascular experience required
+ General CommentsSurgical technologists prepare the operating room, including the sterile field, setting up surgical equipment, supplies and solutions. During surgery, surgical technologists pass instruments, fluids and supplies to the surgeon and prepare and manage surgical equipment. Surgical technologists simultaneously manage the sterile field and specimens. Surgical technologists perform a count of sponges and supplies to prevent foreign retained objects. Surgical technologists are certified following successful completion of a CAAHEP-accredited program or other programmatically-accredited surgical technology program and the national Certified Surgical Technologist (CST) examination administered by the National Board of Surgical Technology and Surgical Assisting.
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 545138
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 8294
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 20 2023 14:20:05
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=776972 ;Status=Open;Association=Community Health Systems ;Client=Lutheran Hospital ;City=Fort Wayne ;State=IN ;Zip=46804 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=CST/ORT ;Specialty=OR ;Unit=EXT-Other (911) ;Shift=06:30-17:00;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Travel CVOR CST Start: ASAP
+ Duration: 13 weeks
+ Shift: Days, 6:30a-5p, holidays and call required  **$90/hr rate approved**Cardiovascular experience required
+ General CommentsSurgical technologists prepare the operating room, including the sterile field, setting up surgical equipment, supplies and solutions. During surgery, surgical technologists pass instruments, fluids and supplies to the surgeon and prepare and manage surgical equipment. Surgical technologists simultaneously manage the sterile field and specimens. Surgical technologists perform a count of sponges and supplies to prevent foreign retained objects. Surgical technologists are certified following successful completion of a CAAHEP-accredited program or other programmatically-accredited surgical technology program and the national Certified Surgical Technologist (CST) examination administered by the National Board of Surgical Technology and Surgical Assisting.
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/776972;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Lutheran Hospital - Parallon Travel
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 06:30
+    [subjectID] => 
+)

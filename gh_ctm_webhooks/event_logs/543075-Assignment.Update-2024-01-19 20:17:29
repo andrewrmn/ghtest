@@ -1,0 +1,442 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7408',
+  'Cf-Ray' => '8481c2ee52011464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Hospital:
+ 
+Summit Medical Center             Location: 1st Floor             
+Address: 5655   Frist Blvd Hermitage, TN 37076
+         
+Unit Name: Observation   Unit
+             
+Building: Main 
+         
+Cost Center: 634
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds: 25
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios: 4:1 days / 5:1 nights
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit secretaries   and tech availability): 1 CNC, 6-7RN, 2 tech, 1 US 
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment : Alaris Pumps,   tele-tracking, Imobile Communication, B450 Monitors, Pyxis
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: Full time- 36   hrs &amp; every 3rd weekend. Part time 24 hrs &amp; every 3rd   weekend, PRN- 3 shifts a month with one day being a weekend. Travelers/Contract-   36 hrs &amp; every other weekend.
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: On a rotating system   to meet needs of hospital
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements: Triaging   acute care patients, identifying life-threatening rhythms 
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:   BLS required 
+             Hiring profile             
+Requested Skill Set: Neuro &amp;   Cardiac experience
+   
+   
+Must have: 
+   
+   
+
+
+   Advanced skills needed:   
+
+
+   
+   
+Procedures performed on unit: 
+Glucose   monitoring, Foley insertion, Dressing changes, EKG s, peritoneal dialysis
+   
+
+
+   
+
+
+   
+Certifications Required: ACLS, NIH, &amp; EKG rhythm certification 
+   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   
+Black scrubs (RN), Royal Blue (Techs), Grey   (US). Closed toed shoes (no crocs)
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards...
+    
+ 
+
+
+
+
+
+
+
+   Daisy Award for Nurses
+   
+ 
+
+
+
+
+
+
+
+   BEE Award of techs
+   
+ 
+
+
+
+
+
+
+
+   High Fives for employees
+             
+Any additional information that would entice a worker to select your   unit for their assignment: 
+This is a newly build unit with brand new equipment &amp; technology   especially designated for the observation unit.
+ If you like fast pace, energetic, &amp;   friendly environment, then the Observation Unit is for you!
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 543075
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7587
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-12
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 19 2024 15:17:29
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=765648 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=SUMMIT MEDICAL CENTER ;City=HERMITAGE ;State=TN ;Zip=37076 ;Start=12/12/2023;End=3/12/2024;Duration=91;Cert=RN ;Specialty=PCU ;Unit=TRISTAR DIVISION (7) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$83.00;minBillRate=$83.00;OTRate=91 ;CallbackRate=81 ;HolidayRate=81 ;Orientation=0 ;Description=Description:Hospital:
+ 
+Summit Medical Center             Location: 1st Floor             
+Address: 5655   Frist Blvd Hermitage, TN 37076
+         
+Unit Name: Observation   Unit
+             
+Building: Main 
+         
+Cost Center: 634
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds: 25
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios: 4:1 days / 5:1 nights
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit secretaries   and tech availability): 1 CNC, 6-7RN, 2 tech, 1 US 
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment : Alaris Pumps,   tele-tracking, Imobile Communication, B450 Monitors, Pyxis
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: Full time- 36   hrs &amp; every 3rd weekend. Part time 24 hrs &amp; every 3rd   weekend, PRN- 3 shifts a month with one day being a weekend. Travelers/Contract-   36 hrs &amp; every other weekend.
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: On a rotating system   to meet needs of hospital
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements: Triaging   acute care patients, identifying life-threatening rhythms 
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:   BLS required 
+             Hiring profile             
+Requested Skill Set: Neuro &amp;   Cardiac experience
+   
+   
+Must have: 
+   
+   
+
+
+   Advanced skills needed:   
+
+
+   
+   
+Procedures performed on unit: 
+Glucose   monitoring, Foley insertion, Dressing changes, EKG s, peritoneal dialysis
+   
+
+
+   
+
+
+   
+Certifications Required: ACLS, NIH, &amp; EKG rhythm certification 
+   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   
+Black scrubs (RN), Royal Blue (Techs), Grey   (US). Closed toed shoes (no crocs)
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards...
+    
+ 
+
+
+
+
+
+
+
+   Daisy Award for Nurses
+   
+ 
+
+
+
+
+
+
+
+   BEE Award of techs
+   
+ 
+
+
+
+
+
+
+
+   High Fives for employees
+             
+Any additional information that would entice a worker to select your   unit for their assignment: 
+This is a newly build unit with brand new equipment &amp; technology   especially designated for the observation unit.
+ If you like fast pace, energetic, &amp;   friendly environment, then the Observation Unit is for you!
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/765648;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 83
+    [facilityName] => Summit Medical Center - TN
+    [shiftDateEnd] => 2024-03-12
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

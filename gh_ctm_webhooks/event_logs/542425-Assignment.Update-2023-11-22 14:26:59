@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '29',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1573',
+  'Cf-Ray' => '82a1d9b8f6524961-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:BCK - LOCAL- RN - PICU (645) - 13 WEEKS - 7:00PM - 7:00AM
+NO ON CALL REQUIRED
+MUST HAVE
+BLS, ACLS, PALS, NRP, RN LICENSE
+ General Comments
+    [sitename] => giftednurses
+    [spec] => PICU
+    [assignmentid] => 542425
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5423
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 22 2023 09:26:56
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=753763 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=LAS PALMAS MEDICAL CENTER El Paso ;City=El Paso ;State=TX ;Zip=79902 ;Start=8/31/2023;End=11/30/2023;Duration=91;Cert=RN ;Specialty=PICU ;Unit=CENTRAL AND WEST TEXAS DIVISION (50) ;Shift=7:00PM - 7:00AM;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=83 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:BCK - LOCAL- RN - PICU (645) - 13 WEEKS - 7:00PM - 7:00AM
+NO ON CALL REQUIRED
+MUST HAVE
+BLS, ACLS, PALS, NRP, RN LICENSE
+ General Comments ;url=https://vendor.healthtrustws.com/positions/753763;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Las Palmas Medical Center Travel
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

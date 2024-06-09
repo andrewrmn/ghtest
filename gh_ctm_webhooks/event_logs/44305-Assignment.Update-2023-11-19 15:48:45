@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2982',
+  'Cf-Ray' => '8289996333a3183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position DescriptionOPERATING ROOM CST     8 WEEK CONTRACT 3-11P*NO CALL* RATE$37.00 Local (< 50miles from facility) $42.00 Travel (>50 miles from facility)Minimum 2-3 years of operating room general surgery experienceREQUIRED. Ortho or robotics experience a plus.- Afternoon Shift 3:00pm     11:00 pm NO CALL REQUIRED- Certified SurgicalTechnician (CST) license required- American HeartAssociation (AHA) approved Basic Life Support (BLS ) requiredIMMEDIATE AVAILABILITY REQUIRED** All submissions MUSTinclude the bill rate, skills checklist and a minimum of 2 references to beconsidered **parseGeneralComments Comments.bd_title                                  {                                         font-weight: bold;                                  } Contact: Christi Hahn Resource Manager: Suhani Desai OT Rate:?/$58.80 Holiday Rate: ?/$63.00https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=256928&null 
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 44305
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 8
+    [facilityID] => 8782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-01-21
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => November, 19 2023 10:48:41
+    [daysPerWeek] => 2
+    [orderNote] => Source=Parallon;ID=0;SourceID=256928;Status=Open;Client=Cedar Park Regional Medical Center;City=Cedar Park;State=TX;Zip=78613;Start=1/7/2019;End=3/4/2019;Duration=56;Cert=Certified Surgical Technician (CST);Specialty=(OR);Unit=1111: OPERATING ROOM;Shift=3:00 PM - 11:00 PM;# of Postions=1;Type=Travel;BillRate=$42.00;OnCallRate=$4.20;Description=Position DescriptionOPERATING ROOM CST     8 WEEK CONTRACT 3-11P*NO CALL* RATE$37.00 Local (< 50miles from facility) $42.00 Travel (>50 miles from facility)Minimum 2-3 years of operating room general surgery experienceREQUIRED. Ortho or robotics experience a plus.- Afternoon Shift 3:00pm     11:00 pm NO CALL REQUIRED- Certified SurgicalTechnician (CST) license required- American HeartAssociation (AHA) approved Basic Life Support (BLS ) requiredIMMEDIATE AVAILABILITY REQUIRED** All submissions MUSTinclude the bill rate, skills checklist and a minimum of 2 references to beconsidered **parseGeneralComments Comments.bd_title                                  {                                         font-weight: bold;                                  } Contact: Christi Hahn Resource Manager: Suhani Desai OT Rate:?/$58.80 Holiday Rate: ?/$63.00https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=256928&null;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 
+    [facilityName] => Cedar Park Regional Medical Center
+    [shiftDateEnd] => 2019-03-18
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

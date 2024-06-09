@@ -1,0 +1,190 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '43',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4196',
+  'Cf-Ray' => '8307b8e000101840-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN 2F MED SURG
+7P-7A13 WEEKS
+
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE VA/COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+ 2F Med Surg
+
+Location: CJW Chippenham Hospital
+
+Address: 7101 Jahnke Rd. Richmond, VA 23225
+
+Floor: 2 Front
+
+Building: Main Hospital
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   34 (max capacity of 43 pts)Number of Staff   Type of staff:Day Shift   1 charge, 8 RNs, 3 techs, 1 unit secretary if at max capacityNight Shift   1 charge, 8 RNs, 1 tech, 1 unit secretary if at max capacity Patient Ratios   5:1Type of equipment   Remote teleEMR   Meditech
+
+
+
+Typical hiring profile
+
+Skill Set Most recruited for:
+ (Travel RNs, local CNAs and sitters)
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+BLS
+
+
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+NIH Stroke certificationACLS
+
+
+
+List typical procedures performed on unit(s): 
+
+
+ General medical surgical floor, also stroke and nuero designated unit
+
+
+
+Best personality Fit:
+
+Upbeat, engaged, compassionate
+Dress Code: 
+Scrub Color - navy
+
+
+
+Awards/Recognition: 
+
+
+Multiple Daisy awards, stroke certified, 850+ days CAUTI free
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 541327
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8325
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 04 2023 18:10:12
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771125 ;Status=Pending Approval;Association=HCA Healthcare (Parent) ;Client=CJW MEDICAL CENTER CHIPPENHAM CAMPUS VA ;City=RICHMOND ;State=VA ;Zip=23225 ;Start=11/26/2023;End=2/25/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=CAPITAL DIVISION (20) ;Shift=7P - 7A;# of Postions=1;Type=Travel;BillRate=$78.00;OTRate=86 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL RN 2F MED SURG
+7P-7A13 WEEKS
+
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE VA/COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+ 2F Med Surg
+
+Location: CJW Chippenham Hospital
+
+Address: 7101 Jahnke Rd. Richmond, VA 23225
+
+Floor: 2 Front
+
+Building: Main Hospital
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   34 (max capacity of 43 pts)Number of Staff   Type of staff:Day Shift   1 charge, 8 RNs, 3 techs, 1 unit secretary if at max capacityNight Shift   1 charge, 8 RNs, 1 tech, 1 unit secretary if at max capacity Patient Ratios   5:1Type of equipment   Remote teleEMR   Meditech
+
+
+
+Typical hiring profile
+
+Skill Set Most recruited for:
+ (Travel RNs, local CNAs and sitters)
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+BLS
+
+
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+NIH Stroke certificationACLS
+
+
+
+List typical procedures performed on unit(s): 
+
+
+ General medical surgical floor, also stroke and nuero designated unit
+
+
+
+Best personality Fit:
+
+Upbeat, engaged, compassionate
+Dress Code: 
+Scrub Color - navy
+
+
+
+Awards/Recognition: 
+
+
+Multiple Daisy awards, stroke certified, 850+ days CAUTI free ;url=https://vendor.healthtrustws.com/positions/771125;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 78
+    [facilityName] => Chippenham Medical Center
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

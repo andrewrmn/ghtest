@@ -1,0 +1,69 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1654',
+  'Cf-Ray' => '83bea6ee014b1464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 weeks
+36 hrs/wk
+Nights - 12 hr shifts 
+6:00pm   6:30am
+Holiday Rotation (it will be whatever holiday is included in their contract   unless request time off)-, every other weekend
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 531719
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13402
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-14
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 06:30
+    [whenmodified] => December, 26 2023 22:59:38
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=46943 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne Dubuque Medical Center ;City=Dubuque ;State=IA ;Zip=52001 ;Start=12/31/2023;End=3/30/2024;Duration=90;Cert=RN Medical / Surgical ;Specialty=Med Surg ;Unit=*Registered Nurse-Med Surg-Med Surg ;Shift=18:00:00 - 06:30:00;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=97.50 ;ChargeRate=78.00 ;CallbackRate=97.50 ;HolidayRate=97.50 ;Description=13 weeks
+36 hrs/wk
+Nights - 12 hr shifts 
+6:00pm   6:30am
+Holiday Rotation (it will be whatever holiday is included in their contract   unless request time off)-, every other weekend ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Mercy Medical Center - Dubuque Travel
+    [shiftDateEnd] => 2024-04-13
+    [shiftStartTime] => 18:00
+    [subjectID] => 
+)

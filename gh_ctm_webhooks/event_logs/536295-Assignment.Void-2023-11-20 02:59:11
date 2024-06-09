@@ -1,0 +1,114 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3668',
+  'Cf-Ray' => '828d6f7d350823b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:RN's in Flex Pool will float to units including ED, ICU, and two Med/Surg Units
+Complete Description:UNC Lenoir Health Care is a not-for-profit hospital located in Kinston, North Carolina. The hospital is licensed for 150 beds and serves the residents of Lenoir, Greene and Jones counties. The hospital is staffed with over 100 physicians. The hospital offers inpatient, outpatient and preventive healthcare services. In addition to general medical, surgical, and obstetrical, and gynecological care, UNC Lenoir Health Care offers specialized services including cardiology, pulmonology, oncology, radiology, and urology.
+Requisition Comments:Lotus Offers- Fast Offers!
+Candidates will NOT interview.
+
+Must include RTO in submittal in order to be honored at time of offer!
+
+Traveler is expected to float to like acuities or less if needed
+
+BLS Required
+Scheduling Details:3x12 Hour Shifts: Nights
+19:00-07:00
+
+Will float to Med Surg, tele and COVID unit
+
+Weekend: EOW/Holidays as needed
+
+Call: No call
+
+MS/Tele unit - CHF, ESRD, CVA, HTN, DM, COPD, Telemetry
+
+No complex drips
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 536295
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3617
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 19 2023 21:59:08
+    [daysPerWeek] => 3
+    [orderNote] => Source=PeopleFluent;SourceID=722671 ;Status=Open;Association=Flex Pool ;Client=UNC Health ;Start=11/13/2023;End=2/10/2024;Duration=89;Cert=RN ;Specialty=Med/Surg ;Unit=RN - Flex Pool - Nights - UNC Lenoir Health Care ;Shift=3x12.0 3x12 Hour Shifts: Nights
+19:00-07:00
+
+Will float to Med Surg, tele and COVID unit
+
+Weekend: EOW/Holidays as needed
+
+Call: No call
+
+MS/Tele unit - CHF, ESRD, CVA, HTN, DM, COPD, Telemetry
+
+No complex drips;# of Postions=1;Type=Travel;BillRate=$85.00;Description=Short Description:RN's in Flex Pool will float to units including ED, ICU, and two Med/Surg Units
+Complete Description:UNC Lenoir Health Care is a not-for-profit hospital located in Kinston, North Carolina. The hospital is licensed for 150 beds and serves the residents of Lenoir, Greene and Jones counties. The hospital is staffed with over 100 physicians. The hospital offers inpatient, outpatient and preventive healthcare services. In addition to general medical, surgical, and obstetrical, and gynecological care, UNC Lenoir Health Care offers specialized services including cardiology, pulmonology, oncology, radiology, and urology.
+Requisition Comments:Lotus Offers- Fast Offers!
+Candidates will NOT interview.
+
+Must include RTO in submittal in order to be honored at time of offer!
+
+Traveler is expected to float to like acuities or less if needed
+
+BLS Required
+Scheduling Details:3x12 Hour Shifts: Nights
+19:00-07:00
+
+Will float to Med Surg, tele and COVID unit
+
+Weekend: EOW/Holidays as needed
+
+Call: No call
+
+MS/Tele unit - CHF, ESRD, CVA, HTN, DM, COPD, Telemetry
+
+No complex drips ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=722671;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Lenoir Memorial Hospital
+    [shiftDateEnd] => 2024-02-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

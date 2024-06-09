@@ -1,0 +1,88 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5683',
+  'Cf-Ray' => '8306d2f915c823c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => CVOR Tech
+Shift: 4x10s Days
+Must be able to work in the first assist/scrub role along with pump side
+
+Call every 4th or 5th weekend and 1-2 days a week depending on staffing. They would also have an OT day where they would stay past there shift if needed.
+
+
+
+ Modified Time:12/4/2023 5:00:00 AM
+ Account Manager: Reenada Khair
+ Account Manager Email: Reenada.Khair@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:High
+ Submittal Details: #Tier3 Travel ComplianceWill consider nurses with 1+ years of recent experience in unit.Travelers must be  100 miles from every Prisma facility (regardless of where they are applying) to be eligible to travel in the system, unless they are one of the two exceptions below&nbsp;90-99.9 miles are accepted at a 10% bill rate reduction100+ miles full bill rate&nbsp;Exception 1: Night shift travelers for below specialties must be 50+ miles ONLY from the contracted campus they re applying to. Full BR granted at 100+ miles away. 50.0-99.9 miles is 10% bill rate reduction. Under 50 miles is ineligible.Medical Surgical / Oncology / Ortho&nbsp;Adult Tele /&nbsp; Observation Unit / Step Down / PCU&nbsp;Adult ICUs&nbsp;Emergency DepartmentsRRTException 2: The below specialties are accepted regardless of radius. They must be   50 miles from the relevant flagship hospital (Prisma Richland or Prisma Greenville) for full BR. 10% rate reduction if under 50 miles, but still eligible to apply.&nbsp;Operating Room (including allied and SPT)PACUCT / MRI / IR Techs / Echo Techs / X-RayCath Lab (including allied)MLTSLP / PT / OT / Dietician-Must send SOCIAL SECURITY NUMBER&nbsp;with submittal.-Orientation is every Monday.-Pre Assignment testing (all RN s) and modules required for all travelers to complete within 48 hours of receiving the login information (which usually comes within 24 hours of the nurse signing their contract). Travelers are eligible for reimbursement for hours spent completing modules (up to 16 hours) and time will be verified upon start of contract.-If you have any issues, please let the Account Manager or your CS know ASAP.
+    [sitename] => giftednurses
+    [spec] => CVOR
+    [assignmentid] => 545020
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3670
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-02
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => ORT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 04 2023 15:33:23
+    [daysPerWeek] => 4
+    [orderNote] => Source=AYA;SourceID=2306920 ;Status=Open;Association=Qualivis MSP ;Client=Prisma Health Greenville Memorial Hospital ;City=Greenville ;State=SC ;Zip=29605 ;Start=1/2/2024;End=4/2/2024;Duration=91;Cert=Surgical Services ;Specialty=CVOR Tech ;Unit=Operating Room, 11010086160 ;Shift=Day 4x10-Hour (06:50 - 17:20);# of Postions=1;Type=Travel;BillRate=$97.00;OTRules=40 total hours in 1 week : 1.35% ;Orientation=16 ;Description=CVOR Tech
+Shift: 4x10s Days
+Must be able to work in the first assist/scrub role along with pump side
+
+Call every 4th or 5th weekend and 1-2 days a week depending on staffing. They would also have an OT day where they would stay past there shift if needed.
+
+
+
+ Modified Time:1/2/2024 12:00:00 AM
+ Account Manager: Reenada Khair
+ Account Manager Email: Reenada.Khair@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceWill consider nurses with 1+ years of recent experience in unit.Travelers must be  100 miles from every Prisma facility (regardless of where they are applying) to be eligible to travel in the system, unless they are one of the two exceptions below&nbsp;90-99.9 miles are accepted at a 10% bill rate reduction100+ miles full bill rate&nbsp;Exception 1: Night shift travelers for below specialties must be 50+ miles ONLY from the contracted campus they re applying to. Full BR granted at 100+ miles away. 50.0-99.9 miles is 10% bill rate reduction. Under 50 miles is ineligible.Medical Surgical / Oncology / Ortho&nbsp;Adult Tele /&nbsp; Observation Unit / Step Down / PCU&nbsp;Adult ICUs&nbsp;Emergency DepartmentsRRTException 2: The below specialties are accepted regardless of radius. They must be   50 miles from the relevant flagship hospital (Prisma Richland or Prisma Greenville) for full BR. 10% rate reduction if under 50 miles, but still eligible to apply.&nbsp;Operating Room (including allied and SPT)PACUCT / MRI / IR Techs / Echo Techs / X-RayCath Lab (including allied)MLTSLP / PT / OT / Dietician-Must send SOCIAL SECURITY NUMBER&nbsp;with submittal.-Orientation is every Monday.-Pre Assignment testing (all RN s) and modules required for all travelers to complete within 48 hours of receiving the login information (which usually comes within 24 hours of the nurse signing their contract). Travelers are eligible for reimbursement for hours spent completing modules (up to 16 hours) and time will be verified upon start of contract.-If you have any issues, please let the Account Manager or your CS know ASAP. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2306920/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 97
+    [facilityName] => Greenville Memorial Hospital
+    [shiftDateEnd] => 2024-04-02
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

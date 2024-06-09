@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2932',
+  'Cf-Ray' => '8281074d87d56a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => All of our Warnerview Nurses are in Caribbean Blue scrubs. This is a requirement for accepting the position.RN at its Skilled Nursing Facility (SNF).  Qualifications  Job Requirements (but not limited to):  -	CA licensed RN and active CPR certification.  Above average mental ability, good physical and mental health with previous experience in a long term care facility.    -	Able to communicate in English, both verbally and in writing.    -	Dependable, organized, reliable, has good attendance.  Relates well with co-workers, staff and residents  -	Shows adaptability to varied situations, is empathetic, enthusiastic, creative and a resourceful personality   Position Urgency:Quick Start Billing string = Modoc Medical Center
+    [sitename] => giftednurses
+    [spec] => Skilled Nursing
+    [assignmentid] => 542269
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 9943
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 18 2023 09:50:47
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261105 ;Status=Open;Association=Modoc Medical Center ;Client=Modoc Medical Center ;City=Alturas ;State=CA ;Zip=96101 ;Start=11/3/2023;End=2/2/2024;Duration=91;Cert=RN ;Specialty=Skilled Nursing (SNF), Long Term Care (LTC) ;Unit=Skilled Nursing (SNF), Long Term Care (LTC) ;Shift=Days, Nights, Weekends - depends on needs of scheduling / 12 hrs;# of Postions=4;Guaranteed Hours=36;Type=Travel;BillRate=$89.50;OTRate=99.5 ;OTRules=By The Week, after 40, ;CallbackRate=99.5 (All Inclusive Rate + $10) ;HolidayRate=99.5 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=All of our Warnerview Nurses are in Caribbean Blue scrubs. This is a requirement for accepting the position.RN at its Skilled Nursing Facility (SNF).  Qualifications  Job Requirements (but not limited to):  -	CA licensed RN and active CPR certification.  Above average mental ability, good physical and mental health with previous experience in a long term care facility.    -	Able to communicate in English, both verbally and in writing.    -	Dependable, organized, reliable, has good attendance.  Relates well with co-workers, staff and residents  -	Shows adaptability to varied situations, is empathetic, enthusiastic, creative and a resourceful personality   Position Urgency:Quick Start Billing string = Modoc Medical Center ;url=https://vms.medefis5.com/jobs/261105;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 89.5
+    [facilityName] => Modoc Medical Center
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

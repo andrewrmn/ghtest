@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4518',
+  'Cf-Ray' => '82ddda0d8349183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 25 bed CAH (ICU/PCU/Telemetry Required) must be experienced in all areasWA license must be ACTIVE.Identifies patient's/significant others needs for patient education and provides education utilizing appropriate education modalities. Identifies and provides for patient safety through preventative measures (i.e., side rails, restraints, safe use of equipment, etc.) follows restraint policy correctly, evaluates and documents appropriately. Demonstrates knowledge of safe operation of all equipment in the ICU/PCU/Telemetry areas. Is aware of troubleshooting techniques and follows procedures for repair of essential equipment and able to access equipment manuals as needed. Implements infection control and isolation procedures using proper procedures and documentation. Utilizes standard precautions at all times. Maintains complete, accurate, concise documentation of patient status, nursing interventions and patient responses during assigned shift. Documents charge accurately. Ensures accuracy and completes physicians orders in a timely manner. Completes 24 hour check of orders (if within duties of assigned shift). Gives change of shift report to oncoming employees in a complete and accurate manner. Communicates with other department completely and accurately. Reports critical lab values to the physician in a timely manner according to policy. Maintains and restocks emergency carts, room and general supplies. Other duties as assigned.   Position Urgency:Rapid Response Crisis Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 545004
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10038
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 29 2023 16:12:56
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261239 ;Status=Open;Association=Tri-State ;Client=Tri-State ;City=Clarkston ;State=WA ;Zip=99403 ;Start=11/7/2023;End=2/6/2024;Duration=91;Cert=RN ;Specialty=Intensive Care / Coronary Nurse (ICU), Telemetry Cardiac, Telemetry Med / Surg, PCU ;Unit=Intensive Care / Coronary Nurse (ICU), Telemetry Cardiac, Telemetry Med / Surg, PCU ;Shift=Days;# of Postions=3;Guaranteed Hours=36;Type=Travel;BillRate=$110.00;OTRate=120 ;OTRules=By The Week, after 40, ;CallbackRate=120 (All Inclusive Rate + $10) ;HolidayRate=120 (All Inclusive Rate + $10) ;OnCallRateDescription=$5 per hour pager ;Description=25 bed CAH (ICU/PCU/Telemetry Required) must be experienced in all areasWA license must be ACTIVE.Identifies patient's/significant others needs for patient education and provides education utilizing appropriate education modalities. Identifies and provides for patient safety through preventative measures (i.e., side rails, restraints, safe use of equipment, etc.) follows restraint policy correctly, evaluates and documents appropriately. Demonstrates knowledge of safe operation of all equipment in the ICU/PCU/Telemetry areas. Is aware of troubleshooting techniques and follows procedures for repair of essential equipment and able to access equipment manuals as needed. Implements infection control and isolation procedures using proper procedures and documentation. Utilizes standard precautions at all times. Maintains complete, accurate, concise documentation of patient status, nursing interventions and patient responses during assigned shift. Documents charge accurately. Ensures accuracy and completes physicians orders in a timely manner. Completes 24 hour check of orders (if within duties of assigned shift). Gives change of shift report to oncoming employees in a complete and accurate manner. Communicates with other department completely and accurately. Reports critical lab values to the physician in a timely manner according to policy. Maintains and restocks emergency carts, room and general supplies. Other duties as assigned.   Position Urgency:Rapid Response Crisis Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261239;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => Tri-State Memorial Hospital
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

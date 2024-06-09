@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5661',
+  'Cf-Ray' => '82ce059537ad1832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Facility3/OR Suites with 3/PACU  Pre-op area1/anesthesia providerSurgical cases: General, OB/GYN, Ophth (cataract surgery)  Orthopedics surgeries once to twice a monthGeneral DescriptionThe RN is responsible for providing direct patient care within all 3/scope of practice with in surgical services; see listing below:Must have experience in all 3 areas!!1. Pre-op2. OR/Circulator3. PACU.The RN will function as a primary care giver, an must be able to function in all three areas.40/hr. work week, Rotational call, weekdays, weekends,  Holidays.ResponsibilityConducts assessments, documents care, provides emotional support, coordinates transfers, recovers patients, circulates cases, assist with processing instruments/equipment in central sterilizing and prepares patients for surgery.Assist other staff members and provides patient education.Knowledge of and/or interest in technical procedures and care.Adheres to principles of infection control and general policies of the department.Follows national standards thru IAHCSMM, AORN, ASGE, and ASPAN.Accountability Reports directly to the Surgical Services Manager and/or her designee.Special DemandsMental:Able to perform effectively in highly stressful situations. Able to interact effectively with a wide variety of people and have good communication skills.Physical:Long periods of standing, walking, and heavy lifting. Exposure to blood and body fluids, unpleasant sights, smells and infectious diseases possible.QualificationsEducation: RN graduate with current Colorado licensure.Experience:  3 Years Pre-op/OR/PACU experience preferred.Skills:       ACLS certification, CNOR preferred, scrub experience preferred also. Employment VariablesGeneral working hours are 6:30 a.m. to 3:00 pm Monday thru Friday, with occasional late date to complete surgical case load of that day. Rotational surgical call with other circulating staff members averaging 1 to 2/days a week and every other weekend or every 3rd weekend, depending on number of circulators at that time.    Position Urgency:Normal Billing string = Prowers Medical Center
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 545525
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5871
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 27 2023 18:06:27
+    [daysPerWeek] => 5
+    [orderNote] => Source=Medefis5;SourceID=262065 ;Status=Open;Association=Prowers Medical Center ;Client=Prowers Medical Center ;City=Lamar ;State=CO ;Zip=81052 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=RN ;Specialty=Operating Room / Circulate, Operating Room ;Unit=Operating Room / Circulate, Operating Room ;Shift=Day Shift 6:30am- 2:30pm M-F with some call coverage on weekends;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$118.00;OTRate=128 ;OTRules=By The Week, after 40, ;CallbackRate=128 (All Inclusive Rate + $10) ;HolidayRate=128 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=Facility3/OR Suites with 3/PACU  Pre-op area1/anesthesia providerSurgical cases: General, OB/GYN, Ophth (cataract surgery)  Orthopedics surgeries once to twice a monthGeneral DescriptionThe RN is responsible for providing direct patient care within all 3/scope of practice with in surgical services; see listing below:Must have experience in all 3 areas!!1. Pre-op2. OR/Circulator3. PACU.The RN will function as a primary care giver, an must be able to function in all three areas.40/hr. work week, Rotational call, weekdays, weekends,  Holidays.ResponsibilityConducts assessments, documents care, provides emotional support, coordinates transfers, recovers patients, circulates cases, assist with processing instruments/equipment in central sterilizing and prepares patients for surgery.Assist other staff members and provides patient education.Knowledge of and/or interest in technical procedures and care.Adheres to principles of infection control and general policies of the department.Follows national standards thru IAHCSMM, AORN, ASGE, and ASPAN.Accountability Reports directly to the Surgical Services Manager and/or her designee.Special DemandsMental:Able to perform effectively in highly stressful situations. Able to interact effectively with a wide variety of people and have good communication skills.Physical:Long periods of standing, walking, and heavy lifting. Exposure to blood and body fluids, unpleasant sights, smells and infectious diseases possible.QualificationsEducation: RN graduate with current Colorado licensure.Experience:  3 Years Pre-op/OR/PACU experience preferred.Skills:       ACLS certification, CNOR preferred, scrub experience preferred also. Employment VariablesGeneral working hours are 6:30 a.m. to 3:00 pm Monday thru Friday, with occasional late date to complete surgical case load of that day. Rotational surgical call with other circulating staff members averaging 1 to 2/days a week and every other weekend or every 3rd weekend, depending on number of circulators at that time.    Position Urgency:Normal Billing string = Prowers Medical Center ;url=https://vms.medefis5.com/jobs/262065;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 118
+    [facilityName] => Prowers Medical Center
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

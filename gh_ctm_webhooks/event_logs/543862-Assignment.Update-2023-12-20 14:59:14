@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '945',
+  'Cf-Ray' => '8388bf7dd3921830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 12/1/23 new pay change! 33.28 total
+RFQ1322647-Ebuy 092118
+    [sitename] => giftednurses
+    [spec] => X-Ray
+    [assignmentid] => 543862
+    [workerID] => 330366
+    [WorkerContactNo] => 217-671-1602
+    [housingNote] => 136597
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 32
+    [facilityID] => 7695
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-01
+    [workerLastName] => McClure
+    [shiftNum] => 1
+    [workerFirstName] => Melissa
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:30
+    [whenmodified] => December, 20 2023 09:59:13
+    [daysPerWeek] => 5
+    [orderNote] => 4.57 Insurance stipend:
+RTO:12/25/23 -01/01/2023
+    [guaranteedMinimum] => 
+    [workerEmail] => missymcclure90@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 42.92
+    [facilityName] => FCI Coleman Correctional Institution
+    [shiftDateEnd] => 2024-01-06
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

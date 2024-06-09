@@ -1,0 +1,81 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1927',
+  'Cf-Ray' => '841f3b2b60cf183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Travel Med Surg RN
+Start: ASAP
+
+Duration: 13 weeks
+Shift: Days, 7a - 7p, EOW**$85/hr rate approved
+**Must have Tele experience
+**BLS &amp; ACLS required
+**Blocked scheduling NOT available
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 538612
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2412
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-15
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 07 2024 16:18:03
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=770483 ;Status=Open;Association=Community Health Systems ;Client=Wilkes-Barre General Hospital ;City=Kingston ;State=PA ;Zip=18704 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=EXT-Other (911) ;Shift=07:00-19:00;# of Postions=1;Type=Travel;BillRate=$85.00;minBillRate=$85.00;OTRate=98 ;CallbackRate=98 ;HolidayRate=98 ;Orientation=0 ;Description=Description:Travel Med Surg RN
+Start: ASAP
+
+Duration: 13 weeks
+Shift: Days, 7a - 7p, EOW**$85/hr rate approved
+**Must have Tele experience
+**BLS &amp; ACLS required
+**Blocked scheduling NOT available
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/770483;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Wilkes-Barre General Hospital
+    [shiftDateEnd] => 2024-04-15
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

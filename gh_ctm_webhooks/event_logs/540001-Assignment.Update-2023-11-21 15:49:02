@@ -1,0 +1,277 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3834',
+  'Cf-Ray' => '829a1490f3a41842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:
+ General Comments
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 540001
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-26
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 21 2023 10:49:01
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771022 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=PORTSMOUTH REGIONAL HOSPITAL NH ;City=PORTSMOUTH ;State=NH ;Zip='03801 ;Start=11/26/2023;End=2/25/2024;Duration=91;Cert=RN ;Specialty=Emergency Dept ;Unit=CAPITAL DIVISION (20) ;Shift=NIGHTS;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=98 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:TRAVEL FSED RN
+7P-7A13 WEEKS
+MUST HAVE 2 YEARS EXPERIENCE IN A HOSPITAL SETTINGMUST HAVE ACTIVE NH/COMPACT LICENSE AT SUBMISSION
+BLS/ACLS/TNCC/PALS REQUIRED
+ General CommentsUnit Information:
+   Dover FSED             Location: Dover, NH             
+Address: 10   Central Ave, Dover, NH
+         
+
+
+             
+Building: Dover   FSED
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   11
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+16
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   2 RN Day Shift 7a-7p
+   
+o
+
+
+   Mid Shift -
+ 1 RN Mid Shift 11a   11p
+   
+o
+
+
+   Night Shift   2 RN Night Shift 7p- 7a
+   
+o
+
+
+   Matrix   2 RN s at 7; 3 RN s at 11a; 2   RN s at 7p
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   Varies
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech
+   
+
+
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+Previous 2 years ED Experience
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   Experience   in FSED environment
+   
+ 
+
+
+
+
+
+
+
+   CEN,   CPEN, TCRN
+   
+
+
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+Full service emergency department
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   Independent, Autonomous, Critical Thinker, Adaptable, &amp; Strong   Clinical/Relational Attributes supporting optimal care experience for the   patients we serve. 
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   ACLS, BLS, PALS and/or ENPC, TNCC
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   780   Portsmouth ED
+   
+ 
+
+
+
+
+
+
+
+   781   Seabrook ED
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire   
+Navy Blue Scrubs
+   
+
+
+             Weekends and On call:   
+ 
+
+
+
+
+
+
+
+   Every Other   Weekend with no on call requirement
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/771022;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Portsmouth Regional Hospital
+    [shiftDateEnd] => 2024-02-25
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

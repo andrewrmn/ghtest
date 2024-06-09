@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3303',
+  'Cf-Ray' => '834a9fb414fd1830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Required:Central Processing CertificationMinimum of 3 years experience as a Sterile Processing TechSuccessfulcompletionof at least 1 previous travel assignmentWillingness to work holidays if requiredDetails:5 x 8 hour shifts per week. Occasional weekend call (every 4th or 5th weekend)IMPORTANT NOTE: Traveler will be responsible for securing their own housing for the duration of this assignment.MUST be healthy enough to safelyfunction in a low oxygenenvironment(8,000' in elevation)NOT CURRENTLY ACCEPTING RTO   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 545097
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5970
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-31
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:30
+    [whenmodified] => December, 12 2023 21:02:08
+    [daysPerWeek] => 5
+    [orderNote] => Source=Medefis5;SourceID=261915 ;Status=Open;Association=Aspen Valley Hospital ;Client=Aspen Valley Hospital ;City=Aspen ;State=CO ;Zip=81611 ;Start=12/18/2023;End=5/6/2024;Duration=140;Cert=Nursing ;Specialty=Sterile Processing Technologist ;Unit=Sterile Processing Technologist ;Shift=M-F 7a-330p;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$60.00;OTRate=70 ;OTRules=By The Week, after 40, ;CallbackRate=60 (All Inclusive Rate) ;HolidayRate=60 (All Inclusive Rate) ;OnCallRateDescription=$10 per hour pager ;Description=CERTS Required:Central Processing CertificationEXPERIENCE: Minimum of 3 years experience as a Sterile Processing Tech -Successfulcompletionof at least 1 previous travel assignmentSHIFTS:5 x 8 hour shifts per week. Occasional weekend call (every 4th or 5th weekend)Willingness to work holidays if requiredHOUSING:Extremely expensive, even more so in winter. Please consider housing options in the surrounding towns: Basalt, Carbondale,  Glenwood Springs. FYI $3500/month is common for a 1 BR apartment in Basalt.Travelers looking for a housing budget less than this should probably not be submitted.Traveler will be responsible for securing their own housing for the duration of this assignmentIMPORTANT NOTE: Traveler will be responsible for securing their own housing for the duration of this assignment.MUST be healthy enough to safelyfunction in a low oxygenenvironment(8,000' in elevation)NOT CURRENTLY ACCEPTING RTO   Additional Information:HOUSING: Extremely expensive, especially in winter. Please consider housing options in the surrounding towns: Basalt, Carbondale, & Glenwood Springs. FYI $3500/month is common for a 1 BR apartment in Basalt. Travelers looking for a housing budget less than this should probably not be submitted. DISPUTES: 30 DAY TIMEFRAME  otherwise they'll be denied   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261915;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 60
+    [facilityName] => Aspen Valley Hospital
+    [shiftDateEnd] => 2024-05-19
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

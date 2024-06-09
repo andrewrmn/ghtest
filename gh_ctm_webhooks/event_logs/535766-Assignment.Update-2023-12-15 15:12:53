@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '954',
+  'Cf-Ray' => '835fa09b40811832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Rate Change
+NEW RS: 135356
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 535766
+    [workerID] => 105746
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 16145
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-15
+    [workerLastName] => Cooper
+    [shiftNum] => 4
+    [workerFirstName] => Lori
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 15 2023 10:12:52
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$93lRS:135356
+ChrgDiff:P$1/B$2lOnCl:P$2/B$4
+FTK: Workday Screenshot
+    [guaranteedMinimum] => 
+    [workerEmail] => newleafn2010@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 93
+    [facilityName] => OU Health University of Oklahoma Medical Center TRV (RS)
+    [shiftDateEnd] => 2023-12-30
+    [shiftStartTime] => 06:00
+    [subjectID] => 
+)

@@ -1,0 +1,71 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1659',
+  'Cf-Ray' => '831f3c2ab54077bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL MEDICAL SURGICAL7P-7A13 WEEKS
+
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE NH LICENSE/COMPACT AT SUBMISSION
+BLS REQUIRED
+ General Comments
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 539994
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-25
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 07 2023 14:39:23
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771044 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=PORTSMOUTH REGIONAL HOSPITAL NH ;City=PORTSMOUTH ;State=NH ;Zip='03801 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM-7:00AM ;# of Postions=1;Type=Travel;BillRate=$93.00;minBillRate=$93.00;OTRate=93 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:TRAVEL MEDICAL SURGICAL7P-7A13 WEEKS
+
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE NH LICENSE/COMPACT AT SUBMISSION
+BLS REQUIRED
+ General Comments
+ No. of Positions: 1/2. ;url=https://vendor.healthtrustws.com/positions/771044;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 93
+    [facilityName] => Portsmouth Regional Hospital
+    [shiftDateEnd] => 2024-03-25
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

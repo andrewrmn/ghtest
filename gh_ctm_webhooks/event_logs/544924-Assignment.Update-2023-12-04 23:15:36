@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2530',
+  'Cf-Ray' => '8307c090e4556a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => **Epic Experience Preferred**Night shift RNs needed for busy med/surg unit. No overtime until after 48 hours. Ability to take charge position if needed. No Block scheduling. BLS required, ACLS preferred; Previous Travel experience, 2 recent references; Shift to be discussed during interview.**Shannon Medical Center has a 110 mile radius rule, no contractor will be employed if they live within this radius.**   Additional Information:**Shannon Medical does NOT hire travelers/contractors that have a permanent address within 110 miles of the facility.**   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544924
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1343
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 04 2023 18:15:31
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261867 ;Status=Open;Association=Shannon Medical Center ;Client=Shannon Medical Center   South ;City=San Angelo ;State=TX ;Zip=76904 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Nursing ;Specialty=Med-surg Adult ;Unit=Med-surg Adult ;Shift=7pm to 7am;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$90.00;OTRate=100 ;OTRules=By The Week, after 48, ;HolidayRate=100 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=**Epic Experience Preferred**Night shift RNs needed for busy med/surg unit. No overtime until after 48 hours. Ability to take charge position if needed. No Block scheduling. BLS required, ACLS preferred; Previous Travel experience, 2 recent references; Shift to be discussed during interview.**Shannon Medical Center has a 110 mile radius rule, no contractor will be employed if they live within this radius.**   Additional Information:**Shannon Medical does NOT hire travelers/contractors that have a permanent address within 110 miles of the facility.**   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261867;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Shannon Medical Center Medefis
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

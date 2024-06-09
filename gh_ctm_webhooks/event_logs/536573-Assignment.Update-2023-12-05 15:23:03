@@ -1,0 +1,425 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '71',
+  'Ki-Request-Colo' => '398',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7760',
+  'Cf-Ray' => '830d49bac2c72c58-ORD',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:MUST HAVE PEDS CHEMO CERTIFICATION
+
+
+  
+
+
+          Hospital:
+ TriStar   Centennial             Location: Nashville, TN             
+Address: 2300   Patterson Street, Nashville, TN 37203
+         
+Unit Name: Pediatric   Oncology/BMT
+             
+Building: The   Children s Hospital
+         
+Cost Center:627/62711
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds : 11
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios : 2:1 or 3:1
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) : The unit is staffed solely with RN s. We   do not have secretaries or patient care techs. 
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment :
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: Prepare to   work every other weekend (or 2 weekends in a 4 week schedule)
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: Will float to take   assignments on Peds Med Surg, NICU, or PICU (not critical care patients), and   can at times float to the adult hospital to help task (perform blood sugars,   Vital signs, observe behavioral health patients, etc.)
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements: We   strive to provide our patients with the best experience possible. Nursing   leadership rounds on patients daily, and all staff (contract or core) are   expected to uphold our ICARE standards.
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:   Must have BLS, PALS, and APHON certifications
+             Hiring profile             Requested Skill Set: Pediatric Hem/Onc experience required (BMT   preferred)   
+   
+Must have: APHON certification
+   
+
+
+   
+
+
+   Advanced skills needed:   
+
+
+   
+
+
+   
+Procedures performed on unit: 
+
+   
+
+
+   
+
+
+   Certifications Required: BLS, PALS, APHON   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   
+Any color/patter scrubs
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   Attached are   the pediatric practice guidelines of our unit
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+
+
+
+
+
+
+
+   We are one   of the few facilities in the country that is participating in the CRISPR/Cas   9 gene editing clinical trial for patients with Sickle Cell Disease and   beta-thalassemia.
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Oncol
+    [assignmentid] => 536573
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1297
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 05 2023 10:22:58
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=756782 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=CENTENNIAL MEDICAL CENTER TN ;City=NASHVILLE ;State=TN ;Zip=37203 ;Start=11/21/2023;End=2/20/2024;Duration=91;Cert=RN ;Specialty=Oncology ;Unit=TRISTAR DIVISION (7) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$73.00;OTRate=81 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:MUST HAVE PEDS CHEMO CERTIFICATION
+
+
+  
+
+
+          Hospital:
+ TriStar   Centennial             Location: Nashville, TN             
+Address: 2300   Patterson Street, Nashville, TN 37203
+         
+Unit Name: Pediatric   Oncology/BMT
+             
+Building: The   Children s Hospital
+         
+Cost Center:627/62711
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds : 11
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios : 2:1 or 3:1
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) : The unit is staffed solely with RN s. We   do not have secretaries or patient care techs. 
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment :
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: Prepare to   work every other weekend (or 2 weekends in a 4 week schedule)
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: Will float to take   assignments on Peds Med Surg, NICU, or PICU (not critical care patients), and   can at times float to the adult hospital to help task (perform blood sugars,   Vital signs, observe behavioral health patients, etc.)
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements: We   strive to provide our patients with the best experience possible. Nursing   leadership rounds on patients daily, and all staff (contract or core) are   expected to uphold our ICARE standards.
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:   Must have BLS, PALS, and APHON certifications
+             Hiring profile             Requested Skill Set: Pediatric Hem/Onc experience required (BMT   preferred)   
+   
+Must have: APHON certification
+   
+
+
+   
+
+
+   Advanced skills needed:   
+
+
+   
+
+
+   
+Procedures performed on unit: 
+
+   
+
+
+   
+
+
+   Certifications Required: BLS, PALS, APHON   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   
+Any color/patter scrubs
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   Attached are   the pediatric practice guidelines of our unit
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+
+
+
+
+
+
+
+   We are one   of the few facilities in the country that is participating in the CRISPR/Cas   9 gene editing clinical trial for patients with Sickle Cell Disease and   beta-thalassemia.
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/756782;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 73
+    [facilityName] => Centennial Medical Center
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

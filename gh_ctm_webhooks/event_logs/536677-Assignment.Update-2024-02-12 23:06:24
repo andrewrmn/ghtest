@@ -1,0 +1,84 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6291',
+  'Cf-Ray' => '85487b5a43421466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 48 hours only
+Must have at least 2 yrs ER exp with travel or 3 yrs ER exp with no travel
+Must have TN or compact license at time of submittal
+Block scheduling not guaranteed
+Must live at least 100 miles from facility.
+
+ Modified Time:3/11/2024 12:00:00 AM
+ Account Manager: Nyyah Rivers
+ Account Manager Email: Nyyah.Rivers@qualivis.com
+ COVID-19 Vaccine: Required - No Exemptions
+ Flu Vaccine: Required - No Exemptions
+ Submittals:High
+ Submittal Details: #Tier2 Travel ComplianceTHIS FACILITY IS VERY STRICT- PLEASE BE SURE CANDIDATES ARE MEETING ALL OF THE REQUIREMENTS BEFORE SUBMISSION!Please only submit your candidate to one job ID and one branch. Your candidate will be rejected if they are submitted to more than one job ID and/or branch.A copy of the traveler's DL is required at time of submittalPlease include ALL RTO in submission packet. Facility WILL NOT honor RTO that is included after submittal.During end of the year holidays: if Thanksgiving, Christmas, and New Years fall during assignment, traveler must be willing to work 2 of the 3 holidays. If 2 holidays fall during assignment, traveler must be willing to work at least 1 of the 2.&nbsp;*PLEASE NO CALL IN - They don t want to be contacted by recruiter, credentialing specialist, or accounting.Former Perm and Internal Associate travelers: must be separated for one year before being eligible to return as a traveler through QualivisShould your traveler be previously employed by the facility, please reach out to the AM to ensure they are eligible for rehireRNs can be floated between like units and campuses within 20 miles of each other, however, floating between campuses (unless specifically stated in posting) will be rare.Traveler requirements:&nbsp;2+ years of experience for ALL specialties.&nbsp;3+ is preferable.At least 1 completed previous travel assignment.Active RN license in the state or compact license.The only positions that require a BSN are for Le Bonheur Children s, Methodist Rheumatology and the Centralized staffing positions (float pool). All other positions allow ADN.Cerner Experience preferred.Best time to contact traveler must be listed clearly on profile. If certifications are going to expire during assignment, plan to renew must be clearly listed on profile. (i.e. BLS expires 5/30/18   Sydney is enrolled in class on 5/7/18 to renew)Include vaccination status with submissionLocal travelers: Travelers must live at least 100 miles from the facility to be considered
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 536677
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 48
+    [facilityID] => 9940
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-03-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => Lindsay, Sam- 10.16
+    [shiftEndTime] => 19:00
+    [whenmodified] => February, 12 2024 18:06:23
+    [daysPerWeek] => 4
+    [orderNote] => Source=AYA;SourceID=2273208 ;Status=Open;Association=Qualivis MSP ;Client=Methodist South Hospital ;City=Memphis ;State=TN ;Zip=38116 ;Start=3/11/2024;End=6/10/2024;Duration=91;Cert=Registered Nurse ;Specialty=ER ;Unit=EMERGENCY ROOM, 26230 ;Shift=Day 4x12-Hour (07:00 - 19:00);# of Postions=1;Type=Travel;BillRate=$90.00;OTRules=48 total hours in 1 week : 1.25% ;Orientation=16 ;Description=48 hours only
+Must have at least 2 yrs ER exp with travel or 3 yrs ER exp with no travel
+Must have TN or compact license at time of submittal
+Block scheduling not guaranteed
+Must live at least 100 miles from facility.
+
+ Modified Time:3/11/2024 12:00:00 AM
+ Account Manager: Nyyah Rivers
+ Account Manager Email: Nyyah.Rivers@qualivis.com
+ COVID-19 Vaccine: Required - No Exemptions
+ Flu Vaccine: Required - No Exemptions
+ Submittals:High
+ Submittal Details: #Tier2 Travel ComplianceTHIS FACILITY IS VERY STRICT- PLEASE BE SURE CANDIDATES ARE MEETING ALL OF THE REQUIREMENTS BEFORE SUBMISSION!Please only submit your candidate to one job ID and one branch. Your candidate will be rejected if they are submitted to more than one job ID and/or branch.A copy of the traveler's DL is required at time of submittalPlease include ALL RTO in submission packet. Facility WILL NOT honor RTO that is included after submittal.During end of the year holidays: if Thanksgiving, Christmas, and New Years fall during assignment, traveler must be willing to work 2 of the 3 holidays. If 2 holidays fall during assignment, traveler must be willing to work at least 1 of the 2.&nbsp;*PLEASE NO CALL IN - They don t want to be contacted by recruiter, credentialing specialist, or accounting.Former Perm and Internal Associate travelers: must be separated for one year before being eligible to return as a traveler through QualivisShould your traveler be previously employed by the facility, please reach out to the AM to ensure they are eligible for rehireRNs can be floated between like units and campuses within 20 miles of each other, however, floating between campuses (unless specifically stated in posting) will be rare.Traveler requirements:&nbsp;2+ years of experience for ALL specialties.&nbsp;3+ is preferable.At least 1 completed previous travel assignment.Active RN license in the state or compact license.The only positions that require a BSN are for Le Bonheur Children s, Methodist Rheumatology and the Centralized staffing positions (float pool). All other positions allow ADN.Cerner Experience preferred.Best time to contact traveler must be listed clearly on profile. If certifications are going to expire during assignment, plan to renew must be clearly listed on profile. (i.e. BLS expires 5/30/18   Sydney is enrolled in class on 5/7/18 to renew)Include vaccination status with submissionLocal travelers: Travelers must live at least 100 miles from the facility to be considered ;url=https://app.ayaconnect.com/index.html#/vendor/job/2273208/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Methodist South Hospital Travel
+    [shiftDateEnd] => 2024-06-10
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

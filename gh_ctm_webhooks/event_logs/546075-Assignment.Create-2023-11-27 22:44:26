@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1376',
+  'Cf-Ray' => '82cde550b4bf1842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 4 10's Nights
+
+2100-0730 /2200-0830
+
+LRM 00472893
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 546075
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 10945
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 27 2023 17:44:26
+    [daysPerWeek] => 4
+    [orderNote] => Source=EinsteinTrinity;SourceID=48682 ;Status=In-Progress (O);Association=Trinity Health ;Client=OH - Mount Carmel East ;City=Columbus ;State=OH ;Zip=43213 ;Start=1/7/2024;End=4/6/2024;Duration=90;Cert=Radiology Tech ;Specialty=Diagnostic Radiology ;Unit=*TH VMS Radiographer II_M 4852 ;Shift=21:00:00 - 07:30:00;# of Postions=1;Type=Travel;BillRate=$78.00;OTRate=101.40 ;ChargeRate=81.00 ;CallbackRate=101.40 ;HolidayRate=101.40 ;Orientation=1.00 ;Description=4 10's Nights
+
+2100-0730 /2200-0830
+
+LRM 00472893 ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 78
+    [facilityName] => Mount Carmel East TRAVEL
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 21:00
+    [subjectID] => 
+)

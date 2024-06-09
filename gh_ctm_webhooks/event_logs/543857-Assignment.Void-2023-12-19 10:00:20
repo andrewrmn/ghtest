@@ -1,0 +1,191 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '26',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4191',
+  'Cf-Ray' => '837ecc4907ba4955-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN ICU7:00PM - 7:00AM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS/ACLS REQUIRED
+ General CommentsUnit Information:
+ ICU
+
+Location: 
+Portsmouth, NH 
+
+Address: 333 Borthwick Ave. Portsmouth, NH 03801
+
+Floor: 2nd
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   18Number of Staff   68Type of staff:Night Shift   8 RN, I CCTPatient Ratios   1:2, 1:1Type of equipment   GE Monitors, Ventilators ( PB 840, 980), Baxter Sigma Spectrum IV pumpsEMR   Meditech
+
+
+
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+
+Current ICU experience ( Strong Critical Care skills)
+
+
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+Open Heart experience
+
+
+
+List typical procedures performed on unit(s): 
+
+
+ Intubations, Central Line and A-line insertions, Chest tubes. 
+
+
+
+Best personality Fit:
+Positive attitude, team player 
+
+REQUIRED CERTIFICATIONS:
+ACLSBLS
+Floating Area(s):
+All areas in the hospital 
+Dress Code: 
+Scrub Color/Attire   
+Any color as long as it is professional attire 
+
+
+
+
+Weekends and On call:
+Every other weekend
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 543857
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-31
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 19 2023 05:00:20
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=765905 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=PORTSMOUTH REGIONAL HOSPITAL NH ;City=PORTSMOUTH ;State=NH ;Zip='03801 ;Start=11/5/2023;End=2/4/2024;Duration=91;Cert=RN ;Specialty=ICU ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM - 7:00AM;# of Postions=1;Type=Travel;BillRate=$85.00;OTRate=93 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL RN ICU7:00PM - 7:00AM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS/ACLS REQUIRED
+ General CommentsUnit Information:
+ ICU
+
+Location: 
+Portsmouth, NH 
+
+Address: 333 Borthwick Ave. Portsmouth, NH 03801
+
+Floor: 2nd
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   18Number of Staff   68Type of staff:Night Shift   8 RN, I CCTPatient Ratios   1:2, 1:1Type of equipment   GE Monitors, Ventilators ( PB 840, 980), Baxter Sigma Spectrum IV pumpsEMR   Meditech
+
+
+
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+
+Current ICU experience ( Strong Critical Care skills)
+
+
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+Open Heart experience
+
+
+
+List typical procedures performed on unit(s): 
+
+
+ Intubations, Central Line and A-line insertions, Chest tubes. 
+
+
+
+Best personality Fit:
+Positive attitude, team player 
+
+REQUIRED CERTIFICATIONS:
+ACLSBLS
+Floating Area(s):
+All areas in the hospital 
+Dress Code: 
+Scrub Color/Attire   
+Any color as long as it is professional attire 
+
+
+
+
+Weekends and On call:
+Every other weekend
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/765905;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Portsmouth Regional Hospital
+    [shiftDateEnd] => 2024-03-31
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

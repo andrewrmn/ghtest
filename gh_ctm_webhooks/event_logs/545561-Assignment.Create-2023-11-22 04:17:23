@@ -1,0 +1,80 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5778',
+  'Cf-Ray' => '829e5cc2a1e9183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => The earliest start time will be 6:30am and shift will end when cases are completed if 8 hours worked.  If cases end before 8 hour shift then RN will be expected to float to Radiology to assist needs there.
+
+Moderate sedation experience as well as pre/post procedure experience required.
+
+ Modified Time:12/18/2023 12:00:00 AM
+ Account Manager: Reenada Khair
+ Account Manager Email: Reenada.Khair@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:High
+ Submittal Details: #Tier3 Travel ComplianceWill consider nurses with 1+ years of recent experience in unit.Travelers must be  100 miles from every Prisma facility (regardless of where they are applying) to be eligible to travel in the system, unless they are one of the two exceptions below&nbsp;90-99.9 miles are accepted at a 10% bill rate reduction100+ miles full bill rate&nbsp;Exception 1: Night shift travelers for below specialties must be 50+ miles ONLY from the contracted campus they re applying to. Full BR granted at 100+ miles away. 50.0-99.9 miles is 10% bill rate reduction. Under 50 miles is ineligible.Medical Surgical / Oncology / Ortho&nbsp;Adult Tele /&nbsp; Observation Unit / Step Down / PCU&nbsp;Adult ICUs&nbsp;Emergency DepartmentsRRTException 2: The below specialties are accepted regardless of radius. They must be   50 miles from the relevant flagship hospital (Prisma Richland or Prisma Greenville) for full BR. 10% rate reduction if under 50 miles, but still eligible to apply.&nbsp;Operating Room (including allied and SPT)PACUCT / MRI / IR Techs / Echo Techs / X-RayCath Lab (including allied)MLTSLP / PT / OT / Dietician-Must send SOCIAL SECURITY NUMBER&nbsp;with submittal.-Orientation is every Monday.-Pre Assignment testing (all RN s) and modules required for all travelers to complete within 48 hours of receiving the login information (which usually comes within 24 hours of the nurse signing their contract). Travelers are eligible for reimbursement for hours spent completing modules (up to 16 hours) and time will be verified upon start of contract.-If you have any issues, please let the Account Manager or your CS know ASAP.
+    [sitename] => giftednurses
+    [spec] => Interventional Radiology
+    [assignmentid] => 545561
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3623
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 21 2023 23:17:21
+    [daysPerWeek] => 5
+    [orderNote] => Source=AYA;SourceID=2311323 ;Status=Open;Association=Qualivis MSP ;Client=Prisma Health Baptist Easley Hospital ;City=Easley ;State=SC ;Zip=29640-2076 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Registered Nurse ;Specialty=Interventional Radiology ;Unit=Vascular/Special Procedures, 11010157137 ;Shift=Day 5x8-Hour (06:30 - 15:00);# of Postions=1;Type=Travel;BillRate=$100.00;OTRules=40 total hours in 1 week : 1.35% ;Orientation=16 ;Description=The earliest start time will be 6:30am and shift will end when cases are completed if 8 hours worked.  If cases end before 8 hour shift then RN will be expected to float to Radiology to assist needs there.
+
+Moderate sedation experience as well as pre/post procedure experience required.
+
+ Modified Time:12/18/2023 12:00:00 AM
+ Account Manager: Reenada Khair
+ Account Manager Email: Reenada.Khair@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:High
+ Submittal Details: #Tier3 Travel ComplianceWill consider nurses with 1+ years of recent experience in unit.Travelers must be  100 miles from every Prisma facility (regardless of where they are applying) to be eligible to travel in the system, unless they are one of the two exceptions below&nbsp;90-99.9 miles are accepted at a 10% bill rate reduction100+ miles full bill rate&nbsp;Exception 1: Night shift travelers for below specialties must be 50+ miles ONLY from the contracted campus they re applying to. Full BR granted at 100+ miles away. 50.0-99.9 miles is 10% bill rate reduction. Under 50 miles is ineligible.Medical Surgical / Oncology / Ortho&nbsp;Adult Tele /&nbsp; Observation Unit / Step Down / PCU&nbsp;Adult ICUs&nbsp;Emergency DepartmentsRRTException 2: The below specialties are accepted regardless of radius. They must be   50 miles from the relevant flagship hospital (Prisma Richland or Prisma Greenville) for full BR. 10% rate reduction if under 50 miles, but still eligible to apply.&nbsp;Operating Room (including allied and SPT)PACUCT / MRI / IR Techs / Echo Techs / X-RayCath Lab (including allied)MLTSLP / PT / OT / Dietician-Must send SOCIAL SECURITY NUMBER&nbsp;with submittal.-Orientation is every Monday.-Pre Assignment testing (all RN s) and modules required for all travelers to complete within 48 hours of receiving the login information (which usually comes within 24 hours of the nurse signing their contract). Travelers are eligible for reimbursement for hours spent completing modules (up to 16 hours) and time will be verified upon start of contract.-If you have any issues, please let the Account Manager or your CS know ASAP. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2311323/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Baptist Easley Hospital
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

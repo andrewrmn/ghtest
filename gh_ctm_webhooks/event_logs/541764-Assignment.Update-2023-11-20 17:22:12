@@ -1,0 +1,525 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7321',
+  'Cf-Ray' => '82925faab7e9183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Candidates must have experience with the following procedures:Spirometry, DLCO, lung volumes, MVO2, blood gases, methacholine challenge, 6 minute walk test
+Candidates must have experience using the following machines:
+Vyaire VMAX, Vyaire Vyntus, MGC Platinum Elite, MGC Ultima
+ 
+
+
+
+
+
+
+
+
+EMR   Meditech, Tele results
+
+          Unit Information:
+ Pulmonary Function (738)             Location: Methodist Hospital             
+Address: 7700   Floyd Curl Dr., San Antonio, TX 78229
+         
+Floor: 3rd   floor Central Tower
+             
+Building:
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds - 
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   core team 5 PFT   techs
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Monday-Friday 0700-1600
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   support of inpatient,   outpatient PFTs, heart and lung clinic, BMT clinic, pedi clinic
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   Vyaire VMAX,   Vyaire Vyntus, MGC Platinum Elite, MGC Ultima
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech, Teleresults
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+1 year PFT experience with one of the   machines listed above
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+    
+
+
+
+
+
+
+
+   
+    
+
+
+
+
+
+
+
+   
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+
+Spirometry, DLCO, lung volumes, MVO2, blood   gases, methacholine challenge, 6 minute walk test
+    
+
+
+
+
+
+
+
+   
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Flexible, patient focused
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   CRT or RRT, BLS, ACLS, Texas RCP license
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   none
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ olive/sage scrub top, black scrub bottom,   will accept all black (olive/sage hard to find at times)
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   No weekends, call is rotated between PFT techs   approximately every 4 weeks.
+ General Comments
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 541764
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5314
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RRT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 20 2023 12:22:12
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=749737 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=METHODIST HOSPITAL ;City=SAN ANTONIO ;State=TX ;Zip=78229 ;Start=9/5/2023;End=12/5/2023;Duration=91;Cert=RRT ;Specialty=Respiratory Therapy ;Unit=SAN ANTONIO DIVISION (39) ;Shift=8:00AM-4:00PM;# of Postions=1;Type=Travel;BillRate=$55.15;OTRate=70.15 ;CallbackRate=70.15 ;HolidayRate=70.15 ;Orientation=0 ;Description=Description:Candidates must have experience with the following procedures:Spirometry, DLCO, lung volumes, MVO2, blood gases, methacholine challenge, 6 minute walk test
+Candidates must have experience using the following machines:
+Vyaire VMAX, Vyaire Vyntus, MGC Platinum Elite, MGC Ultima
+ 
+
+
+
+
+
+
+
+
+EMR   Meditech, Tele results
+
+          Unit Information:
+ Pulmonary Function (738)             Location: Methodist Hospital             
+Address: 7700   Floyd Curl Dr., San Antonio, TX 78229
+         
+Floor: 3rd   floor Central Tower
+             
+Building:
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds - 
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   core team 5 PFT   techs
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Monday-Friday 0700-1600
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   support of inpatient,   outpatient PFTs, heart and lung clinic, BMT clinic, pedi clinic
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   Vyaire VMAX,   Vyaire Vyntus, MGC Platinum Elite, MGC Ultima
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech, Teleresults
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+1 year PFT experience with one of the   machines listed above
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+    
+
+
+
+
+
+
+
+   
+    
+
+
+
+
+
+
+
+   
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+
+Spirometry, DLCO, lung volumes, MVO2, blood   gases, methacholine challenge, 6 minute walk test
+    
+
+
+
+
+
+
+
+   
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Flexible, patient focused
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   CRT or RRT, BLS, ACLS, Texas RCP license
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   none
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ olive/sage scrub top, black scrub bottom,   will accept all black (olive/sage hard to find at times)
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   No weekends, call is rotated between PFT techs   approximately every 4 weeks.
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/749737;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 55.15
+    [facilityName] => Methodist Hospital - Main TRAVEL
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 08:00
+    [subjectID] => 
+)

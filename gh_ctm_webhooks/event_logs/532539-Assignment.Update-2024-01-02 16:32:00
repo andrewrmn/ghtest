@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4268',
+  'Cf-Ray' => '83f46540539677bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Remote CAH with low census.Provides direct and indirect patient care in the emergency, acute care, outpatient, and swing bed care setting. Provides care that reflects initiative, flexibility and responsibility indicative of professional expectation with a minimum of supervision. Is able to triage patients safely, rapidly and accurately, when they enter the emergency care department. Determines priorities of care based on physical and psychosocial needs, as well as factors influencing patient flow through the system. Communicates with the attending provider about changes in patient's status, symptomatology and results of diagnostic studies. Is able to respond quickly and accurately to changes in condition or response to treatment.   Normal   0   false   false   false   EN-US   X-NONE   X-NONE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => LTC
+    [assignmentid] => 532539
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3544
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-10-16
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 06:30
+    [whenmodified] => January, 02 2024 11:31:57
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=258815 ;Status=Open;Association=Ferry County Health ;Client=Ferry County Health ;City=Republic ;State=WA ;Zip=99166 ;Start=9/27/2023;End=12/27/2023;Duration=91;Cert=RN ;Specialty=ACU, Registered Nurse, Long Term Care (LTC) ;Unit=ACU, Registered Nurse, Long Term Care (LTC) ;Shift=1800-0630;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$80.00;OTRate=120 ;OTRules=By The Week, after 36, ;CallbackRate=80 (All Inclusive Rate) ;HolidayRate=80 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=Remote CAH with low census.Provides direct and indirect patient care in the emergency, acute care, outpatient, and swing bed care setting. Provides care that reflects initiative, flexibility and responsibility indicative of professional expectation with a minimum of supervision. Is able to triage patients safely, rapidly and accurately, when they enter the emergency care department. Determines priorities of care based on physical and psychosocial needs, as well as factors influencing patient flow through the system. Communicates with the attending provider about changes in patient's status, symptomatology and results of diagnostic studies. Is able to respond quickly and accurately to changes in condition or response to treatment.   Normal   0   false   false   false   EN-US   X-NONE   X-NONE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/258815;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Washington Registry- Ferry County Memorial Hospital
+    [shiftDateEnd] => 2024-01-15
+    [shiftStartTime] => 18:00
+    [subjectID] => 
+)

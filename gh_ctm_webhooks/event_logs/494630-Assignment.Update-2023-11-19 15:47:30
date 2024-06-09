@@ -1,0 +1,82 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '21',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3347',
+  'Cf-Ray' => '82899793c0504941-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:The PACU Registered Nurse holds shift accountability for providing care to Post Anesthesia Care patients working with Surgeons, Anesthesiologists, Surgical staff, and other personnel by utilizing the Nursing Process in accordance with the state Nurse Practice Act, AORN, and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care.
+Shift:
+
+Days 7a-7p -
+Hours may vary due to surgical schedule and census
+3/12's plus On-Call.
+
+
+Bill Rate $11013 week contract, 36 hours guaranteed, rotating weekends,
+Must take Covid patientsRequired:
+ BLS, ACLS, 2+ years of PACU experienceCerner experience is preferred.
+ General CommentsPCR# s are (2112-022 and 2112-014
+    [sitename] => giftednurses
+    [spec] => PACU
+    [assignmentid] => 494630
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-05-01
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:47:10
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=707199 ;Status=Pending Approval;Association=Community Health Systems ;Client=Oro Valley Hospital ;City=Oro Valley ;State=AZ ;Zip=85755 ;Start=5/1/2023;End=7/31/2023;Duration=91;Cert=RN ;Specialty=PACU ;Unit= ;Shift=7a-7p;7a-7p;7a-7p;# of Postions=2;Type=Travel;BillRate=$110.00;OTRate=154 ;CallbackRate=154 ;HolidayRate=165 ;Orientation=0 ;Description=Description:The PACU Registered Nurse holds shift accountability for providing care to Post Anesthesia Care patients working with Surgeons, Anesthesiologists, Surgical staff, and other personnel by utilizing the Nursing Process in accordance with the state Nurse Practice Act, AORN, and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care.
+Shift:
+
+Days 7a-7p -
+Hours may vary due to surgical schedule and census
+3/12's plus On-Call.
+
+
+Bill Rate $11013 week contract, 36 hours guaranteed, rotating weekends,
+Must take Covid patientsRequired:
+ BLS, ACLS, 2+ years of PACU experienceCerner experience is preferred.
+ General CommentsPCR# s are (2112-022 and 2112-014 ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => Northwest Medical Center of Oro Valley
+    [shiftDateEnd] => 2023-07-31
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '962',
+  'Cf-Ray' => '8690c25567936a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By Facility; No Longer Needed
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 542066
+    [workerID] => 220166
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3127
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-03
+    [workerLastName] => Lambert
+    [shiftNum] => 5
+    [workerFirstName] => Elvia
+    [cert] => RN
+    [floorDesc] => General Medicine 6020
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => March, 23 2024 15:16:59
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$85lRS:136273
+ChrgDiff:P$1/B$3lOnCl:P$10/B$18
+FTK: API
+    [guaranteedMinimum] => 
+    [workerEmail] => elvialambert@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => North Oaks Medical Center - Travel
+    [shiftDateEnd] => 2024-02-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

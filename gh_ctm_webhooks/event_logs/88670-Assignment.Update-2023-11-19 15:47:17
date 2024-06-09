@@ -1,0 +1,70 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '28',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4089',
+  'Cf-Ray' => '8289974240bb495d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+AM and PM position
+for Med Surg.  36 hours guaranteed, rotating weekends, two years of acute
+care experience, Must have AZ license and BLS-Cerner experience is a plus.parseGeneralComments Comments
+.bd_title                                   {                                          font-weight: bold;                                   }
+Reason for opening (special, internal vacancy, leave coverage)              *******************************************************************************              How long has it been open?              Will position be required to float to other units?              Number of beds in your facility?              Years of experience required?              Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)              Willing to review clinicians with pending state license?              Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift)     EMR for your facility:              Scrub colors / dress code:     Parking location:  Contact: CHS MSP HOUSE Resource Manager: Whitney Nelson OT Rate:Custom Rate
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 88670
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-11-25
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:47:10
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;ID=0;SourceID=316669;Status=Open;Client=Oro Valley Hospital;City=Oro Valley;State=AZ;Zip=85755;Start=11/25/2019;End=2/24/2020;Duration=91;Cert=Registered Nurse (RN);Specialty=Medical Surgical;Unit=MED/SURG (UNIT/FLOOR 3);Shift=for this position? (days needed, hours or shift)     EMR for your facility:              Scrub colors / dress code:     Parking location:;# of Postions=2;Guaranteed Hours=?;Type=Travel;BillRate=$60.00;OTRate=?/$84.00 ;OTRules=1.00x (OT), 1.00x (DT) ;ChargeRate= ;CallbackRate=?/$84.00 ;CallbackRate=?/$84.00 ;HolidayRate=?/$90.00 ;OnCallRateDescription= ;Orientation= ;Description=Position Description
+AM and PM position
+for Med Surg.  36 hours guaranteed, rotating weekends, two years of acute
+care experience, Must have AZ license and BLS-Cerner experience is a plus.parseGeneralComments Comments
+.bd_title                                   {                                          font-weight: bold;                                   }
+Reason for opening (special, internal vacancy, leave coverage)              *******************************************************************************              How long has it been open?              Will position be required to float to other units?              Number of beds in your facility?              Years of experience required?              Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)              Willing to review clinicians with pending state license?              Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift)     EMR for your facility:              Scrub colors / dress code:     Parking location:  Contact: CHS MSP HOUSE Resource Manager: Whitney Nelson OT Rate:Custom Rate;Buyer=CHS MSP HOUSE ;VMSPositionType=Travel AvgHoursPerWeek= maxPayRate=$60.00;InterviewRequired=False;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 60
+    [facilityName] => Northwest Medical Center of Oro Valley
+    [shiftDateEnd] => 2020-02-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

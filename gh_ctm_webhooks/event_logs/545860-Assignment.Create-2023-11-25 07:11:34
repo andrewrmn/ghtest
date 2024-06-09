@@ -1,0 +1,66 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2776',
+  'Cf-Ray' => '82b8140da24b6a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => WDM provides the feel of a small, community hospital, with the resources of a major metropolitan area hospital. We specialize in orthopedic and bariatric surgeries, as well as other specialty and general surgeries. Also found in WDM are two inpatient care units that provide care to a wide variety of diagnosis. Our telemetry unit regularly provides cardiac drips, treats and manages arrhythmias, and works with the interdisciplinary team to provide care and education to CHF patients. Our medical/surgical unit takes anything and everything that comes through the Emergency Department, creating a constant learning environment and a variety of diagnosis, ensuring you never get bored.
+
+Night Shift 7p-7a
+Every Other Weekend Requirement
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545860
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15842
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-02
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 25 2023 02:11:33
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48661 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne West Des Moines Medical Center ;City=West Des Moines ;State=IA ;Zip=50266 ;Start=1/2/2024;End=3/30/2024;Duration=88;Cert=RN Medical / Surgical ;Specialty=3rd Floor Med/Surg ;Unit=*Registered Nurse-Med Surg-3rd Floor Med/Surg ;Shift=7p7a;# of Postions=1;Type=Travel;BillRate=$74.00;OTRate=96.20 ;ChargeRate=77.00 ;CallbackRate=96.20 ;HolidayRate=96.20 ;Description=WDM provides the feel of a small, community hospital, with the resources of a major metropolitan area hospital. We specialize in orthopedic and bariatric surgeries, as well as other specialty and general surgeries. Also found in WDM are two inpatient care units that provide care to a wide variety of diagnosis. Our telemetry unit regularly provides cardiac drips, treats and manages arrhythmias, and works with the interdisciplinary team to provide care and education to CHF patients. Our medical/surgical unit takes anything and everything that comes through the Emergency Department, creating a constant learning environment and a variety of diagnosis, ensuring you never get bored.
+
+Night Shift 7p-7a
+Every Other Weekend Requirement ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 74
+    [facilityName] => MercyOne West Des Moines Medical Center (Trinity) TRAVEL
+    [shiftDateEnd] => 2024-03-30
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

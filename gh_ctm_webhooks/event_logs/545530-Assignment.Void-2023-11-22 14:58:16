@@ -1,0 +1,587 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6979',
+  'Cf-Ray' => '82a20793a6221832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Data Collection:
+          Unit Information:
+   HCA Houston Mainland Surgical Services             Location: Texas City, TX             
+Address: 6801 Emmett F Lowry Expy, Texas City, TX 77591
+         
+Floor: 3rd
+             
+Building: Main   building
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   6 ORs/ 2 run at a   time
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   6
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   1 charge, 2 RNs, 2 CSTs
+   
+o
+
+
+   Night Shift   None- Call
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   1:1
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   N/A
+   
+ 
+
+
+
+
+
+
+
+   EMR - Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   Must have:
+ candidates without these skills will not be   considered for the role.   
+ 
+
+
+
+
+
+
+
+   
+In-patient experience with: urology, ortho,   vascular, GYN, general, robotics, thoracic, podiatry
+   
+ 
+
+
+
+
+
+
+
+   Ability   to take call; 2 weeknights a week and 1 weekend a month
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   Trauma   experience (level 3 or higher)
+   
+ 
+
+
+
+
+
+
+
+   Robotic   experience
+   
+ 
+
+
+
+
+
+
+
+   Willing   to take more call than expected
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   Lap-chole/   lap-appy/ robotic chole
+   
+ 
+
+
+
+
+
+
+
+   Totals   (knee/hip)
+   
+ 
+
+
+
+
+
+
+
+   Shoulder/   Knee scopes
+   
+ 
+
+
+
+
+
+
+
+   ORIFs
+   
+ 
+
+
+
+
+
+
+
+   Fem-pop   bypass
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Easy going
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   CST
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   None at this time
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ hospital issued scrubs
+   
+
+
+             
+Unit Guidelines/Policies: Please feel free   to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+
+
+             Weekends and On call(if any)   
+ 
+
+
+
+
+
+
+
+   1 weekend a   month (Friday evening-Monday morning) &amp; 2 weeknights a week
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 545530
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5695
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 22 2023 09:58:15
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=763058 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA HOUSTON MAINLAND ;City=Texas City ;State=TX ;Zip=77591 ;Start=10/23/2023;End=1/22/2024;Duration=91;Cert=CST/ORT ;Specialty=OR ;Unit=GULF COAST DIVISION (14) ;Shift=7:00AM – 7:00PM ;# of Postions=1;Type=Travel;BillRate=$70.00;OTRate=78 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Data Collection:
+          Unit Information:
+   HCA Houston Mainland Surgical Services             Location: Texas City, TX             
+Address: 6801 Emmett F Lowry Expy, Texas City, TX 77591
+         
+Floor: 3rd
+             
+Building: Main   building
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   6 ORs/ 2 run at a   time
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   6
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   1 charge, 2 RNs, 2 CSTs
+   
+o
+
+
+   Night Shift   None- Call
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   1:1
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   N/A
+   
+ 
+
+
+
+
+
+
+
+   EMR - Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   Must have:
+ candidates without these skills will not be   considered for the role.   
+ 
+
+
+
+
+
+
+
+   
+In-patient experience with: urology, ortho,   vascular, GYN, general, robotics, thoracic, podiatry
+   
+ 
+
+
+
+
+
+
+
+   Ability   to take call; 2 weeknights a week and 1 weekend a month
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   Trauma   experience (level 3 or higher)
+   
+ 
+
+
+
+
+
+
+
+   Robotic   experience
+   
+ 
+
+
+
+
+
+
+
+   Willing   to take more call than expected
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   Lap-chole/   lap-appy/ robotic chole
+   
+ 
+
+
+
+
+
+
+
+   Totals   (knee/hip)
+   
+ 
+
+
+
+
+
+
+
+   Shoulder/   Knee scopes
+   
+ 
+
+
+
+
+
+
+
+   ORIFs
+   
+ 
+
+
+
+
+
+
+
+   Fem-pop   bypass
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Easy going
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   CST
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   None at this time
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ hospital issued scrubs
+   
+
+
+             
+Unit Guidelines/Policies: Please feel free   to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+
+
+             Weekends and On call(if any)   
+ 
+
+
+
+
+
+
+
+   1 weekend a   month (Friday evening-Monday morning) &amp; 2 weeknights a week
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/763058;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Mainland Medical Center
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

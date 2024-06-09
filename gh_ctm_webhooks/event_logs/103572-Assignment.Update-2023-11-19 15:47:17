@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '43',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5442',
+  'Cf-Ray' => '8289974171d91840-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+The Registered Nurse holds shift accountability for providing care to adult psychiatric patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care.
+Must have 2  years of adult psych experience, 36 hours guaranteed, must have AZ license, BLS and CPI or Handle with Care.  PM shift 19-0730 with rotating weekends.  Cerner experience is a plus.parseGeneralComments Comments
+.bd_title                                   {                                          font-weight: bold;                                   }
+Reason for opening (special, internal vacancy, leave coverage)              *******************************************************************************              How long has it been open?              Will position be required to float to other units?              Number of beds in your facility?              Years of experience required?              Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)              Willing to review clinicians with pending state license?              Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift)     EMR for your facility:              Scrub colors / dress code:     Parking location:  Contact: Whitney Nelson Resource Manager: Whitney Nelson OT Rate:Custom Rate
+    [sitename] => giftednurses
+    [spec] => Psych
+    [assignmentid] => 103572
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-03-23
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:47:10
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=336216;Status=Open;Client=Oro Valley Hospital;City=Oro Valley;State=AZ;Zip=85755;Start=2/17/2020;End=5/18/2020;Duration=91;Cert=Registered Nurse (RN);Specialty=Adult Psych;Unit=PSYCH DPU;Shift=for this position? (days needed, hours or shift)     EMR for your facility:              Scrub colors / dress code:     Parking location:;# of Postions=1;Guaranteed Hours=?;Type=Travel;BillRate=$59.00;OTRate=?/$82.60 ;OTRules=1.00x (OT), 1.00x (DT) ;ChargeRate= ;CallbackRate=?/$82.60 ;CallbackRate=?/$82.60 ;HolidayRate=?/$88.50 ;OnCallRateDescription= ;Orientation= ;Description=Position Description
+The Registered Nurse holds shift accountability for providing care to adult psychiatric patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care.
+Must have 2  years of adult psych experience, 36 hours guaranteed, must have AZ license, BLS and CPI or Handle with Care.  PM shift 19-0730 with rotating weekends.  Cerner experience is a plus.parseGeneralComments Comments
+.bd_title                                   {                                          font-weight: bold;                                   }
+Reason for opening (special, internal vacancy, leave coverage)              *******************************************************************************              How long has it been open?              Will position be required to float to other units?              Number of beds in your facility?              Years of experience required?              Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)              Willing to review clinicians with pending state license?              Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift)     EMR for your facility:              Scrub colors / dress code:     Parking location:  Contact: Whitney Nelson Resource Manager: Whitney Nelson OT Rate:Custom Rate;Buyer=Whitney Nelson ;url=https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=336216&null;VMSPositionType=Travel AvgHoursPerWeek= maxPayRate=$59.00;InterviewRequired=False;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 59
+    [facilityName] => Northwest Medical Center of Oro Valley
+    [shiftDateEnd] => 2020-06-22
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

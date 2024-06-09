@@ -1,0 +1,141 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '11320',
+  'Cf-Ray' => '82e47662e4ba23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:The Registered Nurse (RN) maintains the delivery of quality care by assuring the nursing care plan is followed.  The RN supervises Licensed Practical Nurses, Certified Nursing Assistants, and orientees.
+
+8 Week Assignment
+Complete Description:Embraces the Select Medical Way and Core Values of the Company:
+ 	We deliver superior quality in all that we do.
+ 	We treat others as they would like to be treated.
+ 	We are results oriented and achieve our objectives.
+ 	We are team players.
+ 	We are resourceful in overcoming obstacles.
+One of our 4 Key organizational results is to Keep our Patients and Each Other Safe:
+Select Medical is an organization where patient safety and employee safety are a priority. This focus on safety is applicable to all business lines and levels of care. To those of us who work for Select Medical, these are more than words. Putting safety first allows us to provide superior care for our patients and provides a work environment where each employee is expected to take care of themselves and each other by making safe choices, using equipment provided, identifying work place hazards, adhering to safety policies and procedures and reporting risks or hazards as soon as possible.
+ Promotes Patient and Employee Safety   Focused on 10 Foot Circle of Safety and displays safety awareness in all of the below key areas:
+ 	Safe Patient Handling
+ 	Materials Handling
+ 	Infectious Diseases
+ 	Slips/Trips and Falls
+ 	Work Environment
+Follows all hospital guidelines outlining standards of personal appearance, attendance and punctuality.
+Based on the Competency Program established for direct care providers, possesses the skills and competencies necessary to perform job function in accordance with population served criteria.
+JOB-SPECIFIC DUTIES/COMPETENCIES
+Performs a nursing assessment on all patients within 8 hours of admission. The data collected forms the basis of an individualized plan of care. Identifies teaching needs and goals related to the diagnosis of each patient from the nursing admission assessment and by
+collaborating with patient/family and the Interdisciplinary team.
+Provides patient information and status in a timely manner for the Initial Team Conference and for Re-evaluation Team Conferences on a weekly basis. Responsible and accountable for accurate, succinct and timely documentation of all assessments, interventions and patient s response in the medical record in accordance with policy.
+Participates in the patient rehabilitation program on an assigned unit. Is responsible and accountable for direct patient care by utilizing the nursing process of assessing, planning, implementing and evaluating patient care with a priority on the education of the patient/family/significant other based on the health care needs identified. Uses a positive and encouraging approach to achieve patient goals and quality outcomes.
+Initiates discharge planning on all patients from the day of admission. Initiates patient teaching in anticipation of the discharge date.
+Communicates all pertinent information regarding changes in patient s status from one care provider to another, to support continuity of care and patient safety. This includes the attending physician and the Charge Nurse. Seeks consultation from more senior nursing staff in support of complex clinical decision-making.
+Provides direction, training and supervision of ancillary nursing personnel by utilizing problem solving techniques in decision making, organizing, setting priorities and using time effectively. Delegates appropriately.
+Provides for and assures personal and environmental safety in accordance with hospital and nursing policies and procedures.
+Positively contributes to the functioning of the unit by providing calm direction and reassurance to ancillary staff, other departments,
+patients and families. Participates in team building activities on the unit to create a positive and efficient work environment.
+Maintains communication with manager and senior nursing staff related to service needs such as necessary supplies, equipment (including repairs) and clinical training in order to effectively complete assigned duties. Provides care in a cost effective manner while promoting quality patient outcomes, monitors supplies and charges.
+Assumes charge responsibility following orientation period as requested.
+Identifies and initiates own professional growth, actively pursuing professional development through continuing education and self
+study.
+Prioritizes activities and plans for effective use of time and staff in meeting patient needs.
+Performs other duties as requested.
+Skills
+|  Skill | SkillTypeDescription | Duration | ExpertiseRatingDescription |
+|  BLS certification required prior to first shift | Required | 0  |  |
+|  ACLS required prior to first shift (CIRH ONLY) | Required | 0  |  |
+|  Minimum two (2) years bedside clinical experience | Highly desired | 0  |  |
+    [sitename] => giftednurses
+    [spec] => LTAC
+    [assignmentid] => 545685
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11766
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 30 2023 11:28:14
+    [daysPerWeek] => 3
+    [orderNote] => Source=PeopleFluent;SourceID=725299 ;Status=Open;Association=Select Specialty Hospital - The Villages ;Client=Critical Illness and Rehab ;ASAP;Start=ASAP;End=;Duration=91;Cert=Registered Nurse ;Specialty=Registered Nurse - 4595 (Night) ;Unit=Registered Nurse - 4595 (Night) ;Shift=Night   3x12.0;# of Postions=2;Type=Travel;BillRate=$75.00;minBillRate=$66.00;Description=Short Description:The Registered Nurse (RN) maintains the delivery of quality care by assuring the nursing care plan is followed.  The RN supervises Licensed Practical Nurses, Certified Nursing Assistants, and orientees.
+
+8 Week Assignment
+Complete Description:Embraces the Select Medical Way and Core Values of the Company:
+ 	We deliver superior quality in all that we do.
+ 	We treat others as they would like to be treated.
+ 	We are results oriented and achieve our objectives.
+ 	We are team players.
+ 	We are resourceful in overcoming obstacles.
+One of our 4 Key organizational results is to Keep our Patients and Each Other Safe:
+Select Medical is an organization where patient safety and employee safety are a priority. This focus on safety is applicable to all business lines and levels of care. To those of us who work for Select Medical, these are more than words. Putting safety first allows us to provide superior care for our patients and provides a work environment where each employee is expected to take care of themselves and each other by making safe choices, using equipment provided, identifying work place hazards, adhering to safety policies and procedures and reporting risks or hazards as soon as possible.
+ Promotes Patient and Employee Safety   Focused on 10 Foot Circle of Safety and displays safety awareness in all of the below key areas:
+ 	Safe Patient Handling
+ 	Materials Handling
+ 	Infectious Diseases
+ 	Slips/Trips and Falls
+ 	Work Environment
+Follows all hospital guidelines outlining standards of personal appearance, attendance and punctuality.
+Based on the Competency Program established for direct care providers, possesses the skills and competencies necessary to perform job function in accordance with population served criteria.
+JOB-SPECIFIC DUTIES/COMPETENCIES
+Performs a nursing assessment on all patients within 8 hours of admission. The data collected forms the basis of an individualized plan of care. Identifies teaching needs and goals related to the diagnosis of each patient from the nursing admission assessment and by
+collaborating with patient/family and the Interdisciplinary team.
+Provides patient information and status in a timely manner for the Initial Team Conference and for Re-evaluation Team Conferences on a weekly basis. Responsible and accountable for accurate, succinct and timely documentation of all assessments, interventions and patient s response in the medical record in accordance with policy.
+Participates in the patient rehabilitation program on an assigned unit. Is responsible and accountable for direct patient care by utilizing the nursing process of assessing, planning, implementing and evaluating patient care with a priority on the education of the patient/family/significant other based on the health care needs identified. Uses a positive and encouraging approach to achieve patient goals and quality outcomes.
+Initiates discharge planning on all patients from the day of admission. Initiates patient teaching in anticipation of the discharge date.
+Communicates all pertinent information regarding changes in patient s status from one care provider to another, to support continuity of care and patient safety. This includes the attending physician and the Charge Nurse. Seeks consultation from more senior nursing staff in support of complex clinical decision-making.
+Provides direction, training and supervision of ancillary nursing personnel by utilizing problem solving techniques in decision making, organizing, setting priorities and using time effectively. Delegates appropriately.
+Provides for and assures personal and environmental safety in accordance with hospital and nursing policies and procedures.
+Positively contributes to the functioning of the unit by providing calm direction and reassurance to ancillary staff, other departments,
+patients and families. Participates in team building activities on the unit to create a positive and efficient work environment.
+Maintains communication with manager and senior nursing staff related to service needs such as necessary supplies, equipment (including repairs) and clinical training in order to effectively complete assigned duties. Provides care in a cost effective manner while promoting quality patient outcomes, monitors supplies and charges.
+Assumes charge responsibility following orientation period as requested.
+Identifies and initiates own professional growth, actively pursuing professional development through continuing education and self
+study.
+Prioritizes activities and plans for effective use of time and staff in meeting patient needs.
+Performs other duties as requested.
+Skills
+|  Skill | SkillTypeDescription | Duration | ExpertiseRatingDescription |
+|  BLS certification required prior to first shift | Required | 0  |  |
+|  ACLS required prior to first shift (CIRH ONLY) | Required | 0  |  |
+|  Minimum two (2) years bedside clinical experience | Highly desired | 0  |  | ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=725299;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Select Specialty Hospital - The Villages, Inc. - TRAVEL
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

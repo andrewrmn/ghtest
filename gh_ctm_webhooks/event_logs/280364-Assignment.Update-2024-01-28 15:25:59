@@ -1,0 +1,95 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3481',
+  'Cf-Ray' => '84ca4050473577ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 09/03/2021 1220 CDTTricia Wichtoski
+                            
+                            
+                                Strong preference for candidates with CV experience. 2+years of experience. Cerner preferred. Must be willing to float to other Seton facilities if needed. 36 or 48 hours. IVS with full offer
+ RatePlan:AH-Covid 19 RN rates (8-25-2021)
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 280364
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13445
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-02-14
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 28 2024 10:25:06
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;SourceID=9437995 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Medical Center ;City=Austin ;State=TX ;Zip=78701 ;Start=2/14/2022;End=5/14/2022;Duration=90;Cert=RN ;Specialty=ICU ;Unit=SMC Critical Care ;Shift=NOC 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$165.00;minBillRate=$165.00;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=09/03/2021 1320 EDTTricia Wichtoski
+                            
+                            
+                                Strong preference for candidates with CV experience. 2+years of experience. Cerner preferred. Must be willing to float to other Seton facilities if needed. 36 or 48 hours. IVS with full offer
+                            
+                        
+                    
+                        
+                            
+                                11/02/2021 1255 EDTJennifer Carner
+                            
+                            
+                                All candidates must be fully vaccinated with COVID 19 and Flu prior to submission and must include proof of both in submission packets.
+                            
+                        
+                    
+                        
+                            
+                                12/20/2021 1639 ESTJennifer Carner
+                            
+                            
+                                2 full years of experience in specific specialty. At least 1 Travel contract required for submittal. IVS w/Offer. Navy blue scrubs will be required. 150 mile radius rule (no locals). Request # 2670
+                            
+                        
+                    
+                        
+                            
+                                12/23/2021 2032 ESTJasmine Pulido
+                            
+                            
+                                BR Travel $145, Local $145
+ RatePlan:AH-Covid 19 RN rates (8-25-2021) ;url=https://secure.shiftwise.net/esp/order.aspx?order_id=BC742BE40F85FCE0F4204C5B47CB03B4;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 165
+    [facilityName] => Ascension Seton Medical Center Austin
+    [shiftDateEnd] => 2022-05-14
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

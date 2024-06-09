@@ -1,0 +1,66 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2796',
+  'Cf-Ray' => '828999d124de6a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+Cedar Park  Travel SPT Start: ASAP Duration: 13 weeks Shift: Days, 9a-5:30p   call   **$60/hr rate approvedparseGeneralComments Comments
+.bd_title { font-weight: bold }
+The Central Sterile Technician is responsible for the decontamination, packaging, sterilization and delivery of instruments, materials, and equipment necessary for support of surgical services; working under indirect supervision of the Director of Surgical Services utilizes specific guidelines and standards for department operations. Responsibilities also include documentation of sterilization process and ensuring equipment functionality. Contact: Yudline Baronville Resource Manager: Victoria Escamilla
+    [sitename] => giftednurses
+    [spec] => Sterile Processing Tech 
+    [assignmentid] => 428143
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-10-03
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Sterile Processing Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:48:41
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=624600 ;Status=Open;Association=CHS ;Client=Cedar Park Regional Medical Center ;City=Cedar Park ;State=TX ;Zip=78613 ;Start=ASAP;End=;Duration=91;Cert=CHS Travel:Central Sterile Processing Tech - Days (624600) ;Specialty=1117: STERILE SUPPLY/OR ;Unit=STERILE SUPPLY/OR ;Shift=Days;# of Postions=1;Type=Travel;BillRate=$60.00;minBillRate=$60.00;Description=Position Description
+Cedar Park  Travel SPT Start: ASAP Duration: 13 weeks Shift: Days, 9a-5:30p   call   **$60/hr rate approvedparseGeneralComments Comments
+.bd_title { font-weight: bold }
+The Central Sterile Technician is responsible for the decontamination, packaging, sterilization and delivery of instruments, materials, and equipment necessary for support of surgical services; working under indirect supervision of the Director of Surgical Services utilizes specific guidelines and standards for department operations. Responsibilities also include documentation of sterilization process and ensuring equipment functionality. Contact: Yudline Baronville Resource Manager: Victoria Escamilla ;Buyer=Yudline Baronville ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=624600#!/position/manage/624600;VMSPositionType=Travel InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 60
+    [facilityName] => Cedar Park Regional Medical Center
+    [shiftDateEnd] => 2023-01-02
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

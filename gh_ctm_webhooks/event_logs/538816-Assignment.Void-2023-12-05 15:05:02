@@ -1,0 +1,451 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '243',
+  'Ki-Request-Colo' => '397',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5935',
+  'Cf-Ray' => '830d2f5b95d11419-ORD',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN ER
+DAYS
+
+13 WEEKS
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE VA LICENSE/COMPACT AT SUBMISSION
+BLS/ACLS REQUIRED
+ General CommentsData
+Collection:
+
+Unit
+Information:
+LewisGale
+Medical
+Center
+
+Location:
+Salem,
+VA
+
+Address:
+1900
+Electric
+Road
+
+Floor: Emergency Department
+
+Building:
+
+
+
+
+General
+Information
+
+Tell
+us
+about
+the
+unit(s):
+Number
+of
+Beds -
+27Number of Staff   50 RN/25 MedicsType
+of
+staff:Day Shift   1 charge, 5 RN, 2-3 medics; increase by 4-5 RN at 11am; increase by 1-2
+RN at 3pmNight Shift - 1 charge, 5 RN, 2-3 medicsPatient
+Ratios
+ 
+4-6:1Type
+of
+equipment
+-EMR -
+Meditech
+Typical
+hiring
+profile
+
+Skill
+Set
+Most
+recruited
+for:
+
+
+
+
+Must
+have:
+candidates
+without
+these
+skills
+will
+not
+be
+considered
+for
+the
+role.
+Must have completed 2-3 travel assignmentsMust have 2-3 years ER experience
+Preferred
+or
+nice
+to
+have:
+candidates
+with
+these
+skills
+will
+be
+considered
+first.
+High
+acuity ERs, fast paced ERs
+with high volumeExperience with patient ratios of 5:1
+List
+typical
+procedures
+performed
+on
+unit(s):
+RSI,
+Sepsis
+interventions,
+Stroke
+protocol
+with
+tPA
+administration,
+central
+line
+placement,
+care
+of
+the
+psych
+patient,
+transfers
+to
+other
+facilities
+(EMTALA),
+?
+
+Best
+personality
+Fit:
+Relaxed,
+easy
+going,
+friendly,
+team
+oriented,
+respectful.
+
+
+
+REQUIRED
+CERTIFICATIONS:
+BLS,
+ACLS,
+PALS;
+Preferred:
+TNCC,
+ENPC,
+NRP,
+NIH
+
+
+
+Floating
+Area(s):
+None
+Dress
+Code:
+Scrub Color/Attire -
+navy blue or white
+Unit
+Guidelines/Policies:
+Please
+feel
+free
+to
+attach
+unit
+policies
+and
+guidelines.
+
+?
+
+Weekends
+and
+On
+call(if
+any)
+No
+on
+call.Weekends
+are
+four
+weekend
+shifts
+(Friday
+or
+Saturday
+for
+nights;
+Saturday
+or
+Sunday
+for
+days) in a four week scheduling period
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 538816
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7323
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 05 2023 10:05:01
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=770777 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=LEWISGALE MEDICAL CENTER VA ;City=SALEM ;State=VA ;Zip=24153 ;Start=11/29/2023;End=2/28/2024;Duration=91;Cert=RN ;Specialty=Emergency Dept ;Unit=CAPITAL DIVISION (20) ;Shift=7:00AM - 7:00PM;# of Postions=2;Type=Travel;BillRate=$80.00;minBillRate=$80.00;OTRate=88 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:TRAVEL RN ER
+DAYS
+
+13 WEEKS
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE VA LICENSE/COMPACT AT SUBMISSION
+BLS/ACLS REQUIRED
+ General CommentsData
+Collection:
+
+Unit
+Information:
+LewisGale
+Medical
+Center
+
+Location:
+Salem,
+VA
+
+Address:
+1900
+Electric
+Road
+
+Floor: Emergency Department
+
+Building:
+
+
+
+
+General
+Information
+
+Tell
+us
+about
+the
+unit(s):
+Number
+of
+Beds -
+27Number of Staff   50 RN/25 MedicsType
+of
+staff:Day Shift   1 charge, 5 RN, 2-3 medics; increase by 4-5 RN at 11am; increase by 1-2
+RN at 3pmNight Shift - 1 charge, 5 RN, 2-3 medicsPatient
+Ratios
+ 
+4-6:1Type
+of
+equipment
+-EMR -
+Meditech
+Typical
+hiring
+profile
+
+Skill
+Set
+Most
+recruited
+for:
+
+
+
+
+Must
+have:
+candidates
+without
+these
+skills
+will
+not
+be
+considered
+for
+the
+role.
+Must have completed 2-3 travel assignmentsMust have 2-3 years ER experience
+Preferred
+or
+nice
+to
+have:
+candidates
+with
+these
+skills
+will
+be
+considered
+first.
+High
+acuity ERs, fast paced ERs
+with high volumeExperience with patient ratios of 5:1
+List
+typical
+procedures
+performed
+on
+unit(s):
+RSI,
+Sepsis
+interventions,
+Stroke
+protocol
+with
+tPA
+administration,
+central
+line
+placement,
+care
+of
+the
+psych
+patient,
+transfers
+to
+other
+facilities
+(EMTALA),
+?
+
+Best
+personality
+Fit:
+Relaxed,
+easy
+going,
+friendly,
+team
+oriented,
+respectful.
+
+
+
+REQUIRED
+CERTIFICATIONS:
+BLS,
+ACLS,
+PALS;
+Preferred:
+TNCC,
+ENPC,
+NRP,
+NIH
+
+
+
+Floating
+Area(s):
+None
+Dress
+Code:
+Scrub Color/Attire -
+navy blue or white
+Unit
+Guidelines/Policies:
+Please
+feel
+free
+to
+attach
+unit
+policies
+and
+guidelines.
+
+?
+
+Weekends
+and
+On
+call(if
+any)
+No
+on
+call.Weekends
+are
+four
+weekend
+shifts
+(Friday
+or
+Saturday
+for
+nights;
+Saturday
+or
+Sunday
+for
+days) in a four week scheduling period
+ No. of Positions: 2/3.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/770777;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => LewisGale Medical Center Salem Campus Travel
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

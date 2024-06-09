@@ -1,0 +1,611 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '20',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '10088',
+  'Cf-Ray' => '82bce76d6165493d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:BACKFILL!!!
+MISSION HOSPITAL!!!
+SHIFT: NIGHT
+
+Mission Hospital is a 815-bed healthcare facility located in Asheville, North Carolina. The hospital is known for being the region's only Level II
+trauma center, as well as being home to the only
+children's hospital
+in the western portion of the state.
+
+
+Mission Hospital offers a variety of
+services, including
+women's services,
+sports medicine, and
+neurological care. The hospital's
+cardiovascular services
+include the only open heart and interventional cardiology in the region. The quality of the facility's services has earned much
+recognition, such as being named among the nation's best hospitals by U.S. News &amp; World Report, Truven Health Analytics, and
+Healthgrades.
+
+
+The on-site
+Mission Children's Hospital
+features 97 beds dedicated to infants and children, including a 51-bed Level III
+NICU. The hospital's pediatric services have also earned numerous awards and accreditations, like a 5-Star Service Excellence Award in the area of children's orthopedics from Professional Research Consultants.
+
+
+Overall, staff members
+say
+that Mission Hospital is a great place to work because of the friendly atmosphere, supportive management, and opportunities for growth.
+
+
+Known for its thriving
+arts
+community and natural beauty, the city of Asheville is located in western North Carolina along the
+Blue Ridge Mountains. The city features a bustling
+Downtown
+and several
+unique museums, such as the
+Asheville Pinball Museum
+and the
+Asheville Mystery Museum. With so much to
+see and do, you'll find something for everyone in Asheville.
+ General CommentsUnit Information:
+   K9-B Observation Unit             Location: K9-B             
+Address: 509   Biltmore Avenue, Asheville NC, 28801
+         
+Floor: K9
+             
+Building: Mission   Main
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds - 20
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+28
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   1 charge, 4 RN s, 2 PCT, 1   HUC
+   
+o
+
+
+   Night Shift   1 charge, 3 RN s, 2   PCT s, 1 HUC
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios  
+   
+o
+
+
+   Day Shift- 1:5 (Stretch 1:6)
+   
+o
+
+
+   Night Shift- 1:6 (Stretch 1:7)
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   Telemetry, Baxter   pumps
+   
+ 
+
+
+
+
+
+
+
+   EMR   Cerner/PowerChart
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   BLS 
+   
+ 
+
+
+
+
+
+
+
+   Telemetry   Certification
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+
+   
+ 
+
+
+
+
+
+
+
+   
+Med-Surge Certification
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+Telemetry monitoring
+   
+ 
+
+
+
+
+
+
+
+   Foley   insertion
+   
+ 
+
+
+
+
+
+
+
+   IV starts
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Outgoing, enjoys a fast-paced   environment, team player
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   Telemetry
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   Other med-surg levels of care: (A3 West Med-Surg, A4 West Trauma, A4   East Renal, A5 West Adult Medicine, A6 West neuro, J6 Ortho, A7 West, K6   Spine, K8 General Surgery)
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire - All navy, all   white, or white top with navy bottoms
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   Attendance   policy will be included in hire-on process. 
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   Every other weekend
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 538318
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11849
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 25 2023 16:14:53
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=767826 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=MISSION HOSPITAL ;City=ASHEVILLE ;State=NC ;Zip=28801 ;Start=11/17/2023;End=2/16/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=NORTH CAROLINA DIVISION (51) ;Shift=7:00PM - 7:00AM;# of Postions=3;Type=Travel;BillRate=$80.00;OTRate=88 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:BACKFILL!!!
+MISSION HOSPITAL!!!
+SHIFT: NIGHT
+
+Mission Hospital is a 815-bed healthcare facility located in Asheville, North Carolina. The hospital is known for being the region's only Level II
+trauma center, as well as being home to the only
+children's hospital
+in the western portion of the state.
+
+
+Mission Hospital offers a variety of
+services, including
+women's services,
+sports medicine, and
+neurological care. The hospital's
+cardiovascular services
+include the only open heart and interventional cardiology in the region. The quality of the facility's services has earned much
+recognition, such as being named among the nation's best hospitals by U.S. News &amp; World Report, Truven Health Analytics, and
+Healthgrades.
+
+
+The on-site
+Mission Children's Hospital
+features 97 beds dedicated to infants and children, including a 51-bed Level III
+NICU. The hospital's pediatric services have also earned numerous awards and accreditations, like a 5-Star Service Excellence Award in the area of children's orthopedics from Professional Research Consultants.
+
+
+Overall, staff members
+say
+that Mission Hospital is a great place to work because of the friendly atmosphere, supportive management, and opportunities for growth.
+
+
+Known for its thriving
+arts
+community and natural beauty, the city of Asheville is located in western North Carolina along the
+Blue Ridge Mountains. The city features a bustling
+Downtown
+and several
+unique museums, such as the
+Asheville Pinball Museum
+and the
+Asheville Mystery Museum. With so much to
+see and do, you'll find something for everyone in Asheville.
+ General CommentsUnit Information:
+   K9-B Observation Unit             Location: K9-B             
+Address: 509   Biltmore Avenue, Asheville NC, 28801
+         
+Floor: K9
+             
+Building: Mission   Main
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds - 20
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+28
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   1 charge, 4 RN s, 2 PCT, 1   HUC
+   
+o
+
+
+   Night Shift   1 charge, 3 RN s, 2   PCT s, 1 HUC
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios  
+   
+o
+
+
+   Day Shift- 1:5 (Stretch 1:6)
+   
+o
+
+
+   Night Shift- 1:6 (Stretch 1:7)
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   Telemetry, Baxter   pumps
+   
+ 
+
+
+
+
+
+
+
+   EMR   Cerner/PowerChart
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   BLS 
+   
+ 
+
+
+
+
+
+
+
+   Telemetry   Certification
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+
+   
+ 
+
+
+
+
+
+
+
+   
+Med-Surge Certification
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+Telemetry monitoring
+   
+ 
+
+
+
+
+
+
+
+   Foley   insertion
+   
+ 
+
+
+
+
+
+
+
+   IV starts
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Outgoing, enjoys a fast-paced   environment, team player
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   Telemetry
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   Other med-surg levels of care: (A3 West Med-Surg, A4 West Trauma, A4   East Renal, A5 West Adult Medicine, A6 West neuro, J6 Ortho, A7 West, K6   Spine, K8 General Surgery)
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire - All navy, all   white, or white top with navy bottoms
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   Attendance   policy will be included in hire-on process. 
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   Every other weekend ;url=https://vendor.healthtrustws.com/positions/767826;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mission Hospital Travel
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

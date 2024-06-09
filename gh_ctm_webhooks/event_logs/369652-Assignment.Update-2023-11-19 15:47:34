@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3085',
+  'Cf-Ray' => '828997ad129a1465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+Assists in the diagnosis, treatment, and management of patients with pulmonary disorders. Collects and analyzes sputum, blood, and breath specimens to determine levels of oxygen, carbon dioxide, and other gases. Also measures the lung capacity of a patient to determine if there is an impairment. Requires an associate's degree and a credential of Certified Respiratory Therapist (CRT). May be expected to maintain a CPR certification. Familiar with standard concepts, practices, and procedures within a particular field. Relies on experience and judgment to plan and accomplish goals. Performs a variety of tasks. A certain degree of creativity and latitude is required. Typically reports to a manager.parseGeneralComments Comments
+.bd_title { font-weight: bold }
+PCR 2171-012
+Days 7a - 7p Contact: Nancy Thomas Resource Manager: Nancy Thomas
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 369652
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-04-25
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CRT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:47:10
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=594022 ;Status=Open;Association=CHS ;Client=Oro Valley Hospital ;City=Oro Valley ;State=AZ ;Zip=85755 ;Start=4/25/2022;End=7/25/2022;Duration=91;Cert=R-CHS Travel:Certified Respiratory Therapist (CRT)  (594022) ;Specialty=1171: RESPIRATORY THERAPY ;Unit=RESPIRATORY THERAPY ;Shift=7:00 AM - 7:00 PM;# of Postions=1;Type=Travel;BillRate=$130.00;Description=Position Description
+Assists in the diagnosis, treatment, and management of patients with pulmonary disorders. Collects and analyzes sputum, blood, and breath specimens to determine levels of oxygen, carbon dioxide, and other gases. Also measures the lung capacity of a patient to determine if there is an impairment. Requires an associate's degree and a credential of Certified Respiratory Therapist (CRT). May be expected to maintain a CPR certification. Familiar with standard concepts, practices, and procedures within a particular field. Relies on experience and judgment to plan and accomplish goals. Performs a variety of tasks. A certain degree of creativity and latitude is required. Typically reports to a manager.parseGeneralComments Comments
+.bd_title { font-weight: bold }
+PCR 2171-012
+Days 7a - 7p Contact: Nancy Thomas Resource Manager: Nancy Thomas ;Buyer=Nancy Thomas ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=594022#!/position/manage/594022;VMSPositionType=Travel InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 130
+    [facilityName] => Northwest Medical Center of Oro Valley
+    [shiftDateEnd] => 2022-07-25
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,405 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5280',
+  'Cf-Ray' => '83919be9151b1832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN PCU
+13 WEEKS
+7A-7P
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE ACTIVE VA LICENSE AT SUBMISSION
+BLS REQUIRED ACLS
+ General CommentsHospital: Reston Hospital CenterLocation:
+
+Reston, VA
+Address: 1850 Town Center Pkwy Reston, VA 20190
+
+Unit: PCU
+
+Building: Main Tower
+
+
+
+General InformationUnit Specifics:
+ 
+
+
+
+
+
+
+
+
+Number of Beds : 38
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios : 1:4 Days, 1:5 Night
+
+ 
+
+
+
+
+
+
+
+
+Unit staffing description- (unit secretaries and tech availability) : 1 unit secretary on days and 3 techs for floor per shift
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment : IV Pumps, Ventilators, Kangaroo Pumps, Wound Vacs, Telemetry Monitors
+
+ 
+
+
+
+
+
+
+
+
+Documentation system: Meditech
+
+ 
+
+
+
+
+
+
+
+
+Scheduling requirements: 6 weekend shifts per 8 week schedule
+
+ 
+
+
+
+
+
+
+
+
+Floating policy: Traveler and agency nurses float first
+
+ 
+
+
+
+
+
+
+
+
+Patient Experience requirements: 2 years telemetry experience
+Hospital Specifics-
+ 
+
+
+
+
+
+
+
+
+Certifications: ACLS and BLS
+Hiring profileRequested Skill Set:
+
+Must have: Ability to read telemetry
+
+
+
+Advanced skills needed: Trach care, care for vented patients, care for cardiac monitored patients, post cardiac cath care
+
+
+
+
+Dress Code:
+
+ 
+
+
+
+
+
+
+
+
+
+Navy Blue top and bottom
+Any additional information that would entice a worker to select your unit for their assignment
+ 
+
+
+
+
+
+
+
+
+Broad range of patient diagnosis to care for
+
+ 
+
+
+
+
+
+
+
+
+Friendly hospitalist group and staff
+
+ 
+
+
+
+
+
+
+
+
+Reston town center in walking distance to hospital
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 540132
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1394
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-20
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 21 2023 11:47:48
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771230 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=RESTON HOSPITAL CENTER VA ;City=Reston ;State=VA ;Zip=20190 ;Start=12/20/2023;End=3/20/2024;Duration=91;Cert=RN ;Specialty=PCU ;Unit=CAPITAL DIVISION (20) ;Shift=7:00AM-7:00PM ;# of Postions=1;Type=Travel;BillRate=$90.00;minBillRate=$90.00;OTRate=98 ;CallbackRate=98 ;HolidayRate=98 ;Description=Description:TRAVEL RN PCU
+13 WEEKS
+7:00AM-7:00PM
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE ACTIVE VA LICENSE AT SUBMISSION
+BLS REQUIRED ACLS
+ General CommentsHospital: Reston Hospital CenterLocation:
+
+Reston, VA
+Address: 1850 Town Center Pkwy Reston, VA 20190
+
+Unit: PCU
+
+Building: Main Tower
+
+
+
+General InformationUnit Specifics:
+ 
+
+
+
+
+
+
+
+
+Number of Beds : 38
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios : 1:4 Days, 1:5 Night
+
+ 
+
+
+
+
+
+
+
+
+Unit staffing description- (unit secretaries and tech availability) : 1 unit secretary on days and 3 techs for floor per shift
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment : IV Pumps, Ventilators, Kangaroo Pumps, Wound Vacs, Telemetry Monitors
+
+ 
+
+
+
+
+
+
+
+
+Documentation system: Meditech
+
+ 
+
+
+
+
+
+
+
+
+Scheduling requirements: 6 weekend shifts per 8 week schedule
+
+ 
+
+
+
+
+
+
+
+
+Floating policy: Traveler and agency nurses float first
+
+ 
+
+
+
+
+
+
+
+
+Patient Experience requirements: 2 years telemetry experience
+Hospital Specifics-
+ 
+
+
+
+
+
+
+
+
+Certifications: ACLS and BLS
+Hiring profileRequested Skill Set:
+
+Must have: Ability to read telemetry
+
+
+
+Advanced skills needed: Trach care, care for vented patients, care for cardiac monitored patients, post cardiac cath care
+
+
+
+
+Dress Code:
+
+ 
+
+
+
+
+
+
+
+
+
+Navy Blue top and bottom
+Any additional information that would entice a worker to select your unit for their assignment
+ 
+
+
+
+
+
+
+
+
+Broad range of patient diagnosis to care for
+
+ 
+
+
+
+
+
+
+
+
+Friendly hospitalist group and staff
+
+ 
+
+
+
+
+
+
+
+
+Reston town center in walking distance to hospital
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/771230;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Reston Hospital Center Parallon- VA
+    [shiftDateEnd] => 2024-03-20
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2472',
+  'Cf-Ray' => '8292a91747571842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => *100 MILE RADIUS RULE* We will not accept a traveler that has a perm address within 100 miles of our hospital.  We have an immediate need for: Med-Surg RN Must be willing to float from Med/Surg to Observation as needed *CERTS: ACLS and BLS certs SHIFT: 12hr nights  7p-7a   Additional Information:***FLU VACCINE: Is required- NO exceptions***100 MILE RADIUS RULE* We will not accept a traveler that has a perm address within 100 miles of our hospital.   Position Urgency:Normal Billing string = Cobre Valley Regional Medical Center
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545116
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1764
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 20 2023 13:12:18
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261931 ;Status=Open;Association=Cobre Valley Regional Medical Center ;Client=Cobre Valley Regional Medical Center ;City=Globe ;State=AZ ;Zip=85501 ;Start=12/10/2023;End=3/10/2024;Duration=91;Cert=Nursing ;Specialty=Med-surg Adult ;Unit=Med-surg Adult ;Shift=12 hr nights (7p-7a);# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$110.00;OTRate=120 ;OTRules=By The Week, after 40, ;CallbackRate=120 (All Inclusive Rate + $10) ;HolidayRate=120 (All Inclusive Rate + $10) ;OnCallRateDescription=$4 per hour pager ;Description=*100 MILE RADIUS RULE* We will not accept a traveler that has a perm address within 100 miles of our hospital.  We have an immediate need for: Med-Surg RN Must be willing to float from Med/Surg to Observation as needed *CERTS: ACLS and BLS certs SHIFT: 12hr nights  7p-7a   Additional Information:***FLU VACCINE: Is required- NO exceptions***100 MILE RADIUS RULE* We will not accept a traveler that has a perm address within 100 miles of our hospital.   Position Urgency:Normal Billing string = Cobre Valley Regional Medical Center ;url=https://vms.medefis5.com/jobs/261931;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => Cobre Valley Regional Medical Center
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

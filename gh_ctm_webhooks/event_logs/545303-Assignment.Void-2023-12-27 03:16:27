@@ -1,0 +1,103 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5783',
+  'Cf-Ray' => '83be67a5102c1464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => PCU RN (7 West)
+ASAP start, 13 weeks
+3x12 hour days, 7A-7P
+
+BLS and ACLS required
+
+- Fast-paced work environment with an average of 5-10 discharges/admits daily 
+- Care for patients from outlying areas who seek specialty services
+- Focus on acute and chronic management of heart failure patients presenting in crisis, acute cardiac events and illnesses, exacerbation of chronic cardiac disease.
+- High acuity patients- IV medical management, hi-flow oxygen, impaired immobility due to venous congestion
+- Manage patients post cardiac catheterization and/or cardioversion
+
+Currently 1:5 ratios for PCU (goal is 1:4)
+All travelers are expected to float as needed to other PCU units and potentially Med Surg
+
+ Modified Time:12/11/2023 12:00:00 AM
+ Account Manager: Danielle Thornton
+ Account Manager Email: Danielle.Thornton@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceActive license requiredTravelers are required to work at least 1 holiday per season (2 winter holidays - Thanksgiving, Christmas, New Years)Compliance docs due Wednesday prior to Monday start*Local candidates are candidates who live within 100 miles of the facility. Local candidates not accepted.*Once an inpatient RN at Roanoke Memorial Hospital hits one year of travel with them, they have to leave for a minimum of six months in order to be able to considered for a travel position again.Every other weekend required for all Inpatient Nursing positions at Carilion Roanoke Memorial Hospital. Facility reserves the right to require makeup shifts for any missed weekend shifts.Return Travelers: Previous employees (both per diem and permanent) must be gone for a minimum of one year before returning to work as a traveler.Modules: Inpatient RN's at Carilion Clinic may be required to complete orientation modules and/ or Epic Fast Track modules prior to starting. Facility allows 5.5 hours for orientation modules and 2 hours for Epic. This time will count toward the facility's 24 hours of non-billable orientation and will be added automatically to the traveler's timesheet.&nbsp;
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 545303
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3557
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-15
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 26 2023 22:16:26
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2301115 ;Status=Open;Association=Qualivis MSP ;Client=Carilion Roanoke Memorial Hospital ;City=Roanoke ;State=VA ;Zip=24014-1838 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Registered Nurse ;Specialty=PCU ;Unit=7 West, 0101-6073 ;Shift=Day 3x12-Hour (07:00 - 19:00);# of Postions=1;Type=Travel;BillRate=$80.00;OTRules=48 total hours in 1 week : 1.25% ;Orientation=24 ;Description=PCU RN (7 West)
+ASAP start, 13 weeks
+3x12 hour days, 7A-7P
+
+BLS and ACLS required
+
+- Fast-paced work environment with an average of 5-10 discharges/admits daily 
+- Care for patients from outlying areas who seek specialty services
+- Focus on acute and chronic management of heart failure patients presenting in crisis, acute cardiac events and illnesses, exacerbation of chronic cardiac disease.
+- High acuity patients- IV medical management, hi-flow oxygen, impaired immobility due to venous congestion
+- Manage patients post cardiac catheterization and/or cardioversion
+
+Currently 1:5 ratios for PCU (goal is 1:4)
+All travelers are expected to float as needed to other PCU units and potentially Med Surg
+
+ Modified Time:12/11/2023 12:00:00 AM
+ Account Manager: Danielle Thornton
+ Account Manager Email: Danielle.Thornton@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceActive license requiredTravelers are required to work at least 1 holiday per season (2 winter holidays - Thanksgiving, Christmas, New Years)Compliance docs due Wednesday prior to Monday start*Local candidates are candidates who live within 100 miles of the facility. Local candidates not accepted.*Once an inpatient RN at Roanoke Memorial Hospital hits one year of travel with them, they have to leave for a minimum of six months in order to be able to considered for a travel position again.Every other weekend required for all Inpatient Nursing positions at Carilion Roanoke Memorial Hospital. Facility reserves the right to require makeup shifts for any missed weekend shifts.Return Travelers: Previous employees (both per diem and permanent) must be gone for a minimum of one year before returning to work as a traveler.Modules: Inpatient RN's at Carilion Clinic may be required to complete orientation modules and/ or Epic Fast Track modules prior to starting. Facility allows 5.5 hours for orientation modules and 2 hours for Epic. This time will count toward the facility's 24 hours of non-billable orientation and will be added automatically to the traveler's timesheet.&nbsp; ;url=https://app.ayaconnect.com/index.html#/vendor/job/2301115/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Carilion Roanoke Memorial Hospital Travel
+    [shiftDateEnd] => 2024-04-15
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,103 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '43',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3522',
+  'Cf-Ray' => '82a298a0f30f1840-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => RN Med Surg- 5N/6N St. Frances Cabrini Hospital-3330 Prescott Rd. Alexandra, LA 71301       
+$80, billable orientation at 70% of the bill rate up to the first 36 hours
+12 hour Nights, EOW, EOH
+EMR: Meditech
+Scrub Color Ceil Blue
+Level of Care: MS with focus on Neuro and Post-surgical
+Number of Beds: 36
+Patient Population: Adults
+RN Ratio: 5:1/6:1
+Weekend Requirements: Every other weekend
+Any on-call requirements? None
+Scrub/Uniform Color:	Ceil Blue
+Nursing Assistant Support? Yes
+Charge Nurse on Unit? Yes
+Additional Unit Support Staff: Yes, educator, RN lead, department analyst
+Unit have telemetry monitoring?  Yes
+Common Patient Diagnosis: CVA, Seizure, Colectomy, Total Knee, Total Hip	
+Minimum years of experience required: 2
+Certifications Required: BLS, ACLS, NIHSS
+IV Pumps: Alaris
+Floating?  Yes
+Louisiana contractors   must obtain an additional background check for county and sex offender search in Louisiana within 45 days, (Preferred vendor used by CHRISTUS is Southern Research but other vendors accepted   refer to the LA State Police Authorized Agencies List for additional agencies)
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 541422
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7833
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 22 2023 11:37:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=StafferLink;SourceID=7914042 ;Status=O;Association=CHRISTUS St. Francis Cabrini (LA) ;Client=CHRISTUS St. Francis Cabrini (LA) ;City=Alexandria ;State=LA ;Zip=71301 ;Start=12/18/2023;End=3/16/2024;Duration=90;Cert=RN Medical / Surgical ;Specialty=Acute MedSurgical B 1276 / 94 ;Unit=Acute MedSurgical B 1276 / 94 ;Shift=19:00:00 - 07:30:00;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$80.00;Description=RN Med Surg- 5N/6N St. Frances Cabrini Hospital-3330 Prescott Rd. Alexandra, LA 71301       
+$80, billable orientation at 70% of the bill rate up to the first 36 hours
+12 hour Nights, EOW, EOH
+EMR: Meditech
+Scrub Color Ceil Blue
+Level of Care: MS with focus on Neuro and Post-surgical
+Number of Beds: 36
+Patient Population: Adults
+RN Ratio: 5:1/6:1
+Weekend Requirements: Every other weekend
+Any on-call requirements? None
+Scrub/Uniform Color:	Ceil Blue
+Nursing Assistant Support? Yes
+Charge Nurse on Unit? Yes
+Additional Unit Support Staff: Yes, educator, RN lead, department analyst
+Unit have telemetry monitoring?  Yes
+Common Patient Diagnosis: CVA, Seizure, Colectomy, Total Knee, Total Hip	
+Minimum years of experience required: 2
+Certifications Required: BLS, ACLS, NIHSS
+IV Pumps: Alaris
+Floating?  Yes
+Louisiana contractors   must obtain an additional background check for county and sex offender search in Louisiana within 45 days, (Preferred vendor used by CHRISTUS is Southern Research but other vendors accepted   refer to the LA State Police Authorized Agencies List for additional agencies) ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => CHRISTUS St. Frances Cabrini Hospital - Travel
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

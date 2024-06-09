@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '918',
+  'Cf-Ray' => '8315f747a0514951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Bill Rate Change to $103.00 - Effective 11/26.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 531513
+    [workerID] => 216379
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15899
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-12
+    [workerLastName] => Thomas
+    [shiftNum] => 5
+    [workerFirstName] => Debora
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 06 2023 11:39:36
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$103lRS:134600lFTK:GiftTC/Kronos
+    [guaranteedMinimum] => 
+    [workerEmail] => deboradebtom@aol.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 103
+    [facilityName] => Brookdale Hospital Medical Center (RS) TRAVEL
+    [shiftDateEnd] => 2024-02-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

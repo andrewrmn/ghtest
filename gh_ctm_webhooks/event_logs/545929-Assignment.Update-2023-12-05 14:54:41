@@ -1,0 +1,620 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '198',
+  'Ki-Request-Colo' => '658',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '9745',
+  'Cf-Ray' => '830d201ec3801230-ORD',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL - RN - ENDOSCOPY - COST CENTER (733) - 10:00AM - 6:00PM
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Unit ProfileHospital:
+ CRMCLocation: 
+Tallahassee, Florida
+Address: 2626 Capital medical Blvd
+
+Unit:
+
+Building:
+
+
+
+General InformationUnit Specifics:
+ 
+
+
+
+
+
+
+
+
+Number of Beds : 0   Procedure area
+ -3 procedure rooms
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios : 1:1
+
+ 
+
+
+
+
+
+
+
+
+Unit staffing description- (unit secretaries and tech availability) : 1 tech per room
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment : Endoscopy equipment ( GI scopes, ultrasound, c-arm)
+
+ 
+
+
+
+
+
+
+
+
+Documentation system: Meditech
+
+ 
+
+
+
+
+
+
+
+
+Scheduling requirements: Monday- Friday with call rotation
+
+ 
+
+
+
+
+
+
+
+
+Floating policy: Floats to PACU occasionally
+
+ 
+
+
+
+
+
+
+
+
+Patient Experience requirements:
+Hospital Specifics-
+ 
+
+
+
+
+
+
+
+
+Certifications: RN
+Hiring profileRequested Skill Set:
+
+Must have: 
+Clinical experience.
+ Prefer ER or ICU experience but not required. Moderate sedation experience a plus.
+
+
+
+
+
+
+Advanced skills needed:
+
+
+
+
+
+
+Procedures performed on unit:
+
+EGD, Colonoscopies, ERCP, Bronchoscopy
+
+
+
+
+
+
+Certifications Required:
+ BLS, ACLS
+
+
+
+
+Dress Code: (Required uniform)
+
+ 
+
+
+
+
+
+
+
+
+
+Scrubs provided
+
+Unit Guidelines/Policies:
+Please attach unit specific policies and guidelines.
+
+ 
+
+
+
+
+
+
+
+
+
+
+Awards/Recognition: 
+Please include anything that you would like prospective candidates to be aware of, such as, links to videos that feature the department, outstanding department/team awards..
+
+ 
+
+
+
+
+
+
+
+
+
+
+Any additional information that would entice a worker to select your unit for their assignment:
+
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc.
+ 
+
+
+
+
+
+
+
+
+Very experienced ENDO tech s that can run a room single handed.
+ Knowledgeable charge nurse.
+
+ 
+
+
+
+
+
+
+
+
+Small unit that works well together.
+
+
+Facility Overview:
+
+Capital Regional Medical Center is committed to the care and improvement of human life
+
+Capital Regional Medical Center is a fully-accredited healthcare facility with more than 1,100 employees and 500 physicians.
+
+A 266-bed, acute-care hospital that offers 24/7 Emergency Services in Leon and Gadsden Counties including; a
+Pediatric ER,
+Senior Care ER
+and an
+Express Care ER. We also offer a
+Bariatric Center,
+Behavioral Health Center,
+Cancer Center, Chest Pain Center w/PCI,
+Comprehensive Breast Center,
+Family Center,
+Heart & Vascular Center,
+Orthopedic Center,
+Physical Therapy Services, Stroke Center,
+Surgical Services,
+Wound Healing Center,
+Network-of-Care Affiliated Physician Practices, and more.
+
+
+
+
+Above all else, we are committed to the care and improvement of human life. In recognition of this commitment, we will strive to deliver high quality, cost-effective healthcare in the communities we serve.
+
+In pursuit of our mission, we believe the following value statements are essential and timeless:
+We recognize and affirm the unique and intrinsic worth of each individual.We treat all those we serve with compassion and kindness.We act with absolute honesty, integrity and fairness in the way we conduct our business and the way we live our lives.We trust our colleagues as valuable members of our healthcare team and pledge to treat one another with loyalty, respect, and dignity.
+
+
+Discover More!
+Click the
+below icons to discover fun things to do while on your next travel assignment!
+ General Comments1
+2
+ No. of Positions: 2/2.
+    [sitename] => giftednurses
+    [spec] => Endoscopy
+    [assignmentid] => 545929
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 2821
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 14:30
+    [whenmodified] => December, 05 2023 09:54:35
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=769130 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA Florida Capital Hospital ;City=TALLAHASSEE ;State=FL ;Zip=32310 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=RN ;Specialty=Endoscopy ;Unit=NORTH FLORIDA DIVISION (18) ;Shift=10:00AM-6:00PM;# of Postions=2;Type=Travel;BillRate=$85.00;OTRate=93 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:TRAVEL - RN - ENDOSCOPY - COST CENTER (733) - 10:00AM - 6:00PM
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Unit ProfileHospital:
+ CRMCLocation: 
+Tallahassee, Florida
+Address: 2626 Capital medical Blvd
+
+Unit:
+
+Building:
+
+
+
+General InformationUnit Specifics:
+ 
+
+
+
+
+
+
+
+
+Number of Beds : 0   Procedure area
+ -3 procedure rooms
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios : 1:1
+
+ 
+
+
+
+
+
+
+
+
+Unit staffing description- (unit secretaries and tech availability) : 1 tech per room
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment : Endoscopy equipment ( GI scopes, ultrasound, c-arm)
+
+ 
+
+
+
+
+
+
+
+
+Documentation system: Meditech
+
+ 
+
+
+
+
+
+
+
+
+Scheduling requirements: Monday- Friday with call rotation
+
+ 
+
+
+
+
+
+
+
+
+Floating policy: Floats to PACU occasionally
+
+ 
+
+
+
+
+
+
+
+
+Patient Experience requirements:
+Hospital Specifics-
+ 
+
+
+
+
+
+
+
+
+Certifications: RN
+Hiring profileRequested Skill Set:
+
+Must have: 
+Clinical experience.
+ Prefer ER or ICU experience but not required. Moderate sedation experience a plus.
+
+
+
+
+
+
+Advanced skills needed:
+
+
+
+
+
+
+Procedures performed on unit:
+
+EGD, Colonoscopies, ERCP, Bronchoscopy
+
+
+
+
+
+
+Certifications Required:
+ BLS, ACLS
+
+
+
+
+Dress Code: (Required uniform)
+
+ 
+
+
+
+
+
+
+
+
+
+Scrubs provided
+
+Unit Guidelines/Policies:
+Please attach unit specific policies and guidelines.
+
+ 
+
+
+
+
+
+
+
+
+
+
+Awards/Recognition: 
+Please include anything that you would like prospective candidates to be aware of, such as, links to videos that feature the department, outstanding department/team awards..
+
+ 
+
+
+
+
+
+
+
+
+
+
+Any additional information that would entice a worker to select your unit for their assignment:
+
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc.
+ 
+
+
+
+
+
+
+
+
+Very experienced ENDO tech s that can run a room single handed.
+ Knowledgeable charge nurse.
+
+ 
+
+
+
+
+
+
+
+
+Small unit that works well together.
+
+
+Facility Overview:
+
+Capital Regional Medical Center is committed to the care and improvement of human life
+
+Capital Regional Medical Center is a fully-accredited healthcare facility with more than 1,100 employees and 500 physicians.
+
+A 266-bed, acute-care hospital that offers 24/7 Emergency Services in Leon and Gadsden Counties including; a
+Pediatric ER,
+Senior Care ER
+and an
+Express Care ER. We also offer a
+Bariatric Center,
+Behavioral Health Center,
+Cancer Center, Chest Pain Center w/PCI,
+Comprehensive Breast Center,
+Family Center,
+Heart & Vascular Center,
+Orthopedic Center,
+Physical Therapy Services, Stroke Center,
+Surgical Services,
+Wound Healing Center,
+Network-of-Care Affiliated Physician Practices, and more.
+
+
+
+
+Above all else, we are committed to the care and improvement of human life. In recognition of this commitment, we will strive to deliver high quality, cost-effective healthcare in the communities we serve.
+
+In pursuit of our mission, we believe the following value statements are essential and timeless:
+We recognize and affirm the unique and intrinsic worth of each individual.We treat all those we serve with compassion and kindness.We act with absolute honesty, integrity and fairness in the way we conduct our business and the way we live our lives.We trust our colleagues as valuable members of our healthcare team and pledge to treat one another with loyalty, respect, and dignity.
+
+
+Discover More!
+Click the
+below icons to discover fun things to do while on your next travel assignment!
+ General Comments1
+2
+ No. of Positions: 2/2. ;url=https://vendor.healthtrustws.com/positions/769130;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => HCA Florida Capital Hospital
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 10:00
+    [subjectID] => 
+)

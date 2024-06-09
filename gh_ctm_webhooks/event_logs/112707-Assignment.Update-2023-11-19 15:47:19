@@ -1,0 +1,96 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '21',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4108',
+  'Cf-Ray' => '8289974ad5f34941-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+36 hours guaranteed, oncall and weekends, either 8 hour or 10 hour shifts(possible rotating), AZ license, ACLS, BLS, 4  years of experience.parseGeneralComments Comments
+.bd_title
+                                  {
+                                         font-weight: bold;
+                                  }
+Reason for opening (special, internal vacancy, leave coverage) 
+          		******************************************************************************* 
+          		How long has it been open? 
+          		Will position be required to float to other units? 
+          		Number of beds in your facility? 
+          		Years of experience required? 
+          		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) 
+          		Willing to review clinicians with pending state license? 
+          		Is there anyone in the past that has worked for you that you would consider rehiring? 
+          		What is the work schedule for this position? (days needed, hours or shift) 
+			EMR for your facility: 
+          		Scrub colors / dress code: 
+			Parking location:  Contact: Michelle Warnock Resource Manager: Michelle Warnock OT Rate:Custom Rate
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 112707
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-04-13
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:47:10
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=349315 ;Status=Open;Client=Oro Valley Hospital ;City=Oro Valley ;State=AZ ;Zip=85755 ;Start=4/13/2020;End=7/13/2020;Duration=91;Cert=Registered Nurse (RN) ;Specialty=Cath Lab ;Unit=CARDIO-CATH LAB ;Shift=for this position? (days needed, hours or shift)  			EMR for your facility:            		Scrub colors / dress code:  			Parking location:;# of Postions=1;Guaranteed Hours=?;Type=Travel;OTRate=?/$105.00 ;OTRules=1.00x (OT), 1.00x (DT) ;CallbackRate=?/$105.00 ;HolidayRate=?/$112.50 ;Description=Position Description
+36 hours guaranteed, oncall and weekends, either 8 hour or 10 hour shifts(possible rotating), AZ license, ACLS, BLS, 4  years of experience.parseGeneralComments Comments
+.bd_title
+                                  {
+                                         font-weight: bold;
+                                  }
+Reason for opening (special, internal vacancy, leave coverage) 
+          		******************************************************************************* 
+          		How long has it been open? 
+          		Will position be required to float to other units? 
+          		Number of beds in your facility? 
+          		Years of experience required? 
+          		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) 
+          		Willing to review clinicians with pending state license? 
+          		Is there anyone in the past that has worked for you that you would consider rehiring? 
+          		What is the work schedule for this position? (days needed, hours or shift) 
+			EMR for your facility: 
+          		Scrub colors / dress code: 
+			Parking location:  Contact: Michelle Warnock Resource Manager: Michelle Warnock OT Rate:Custom Rate ;Buyer=Michelle Warnock ;url=https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=349315&null;VMSPositionType=Travel maxPayRate=$75.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Northwest Medical Center of Oro Valley
+    [shiftDateEnd] => 2020-07-13
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

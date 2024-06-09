@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1476',
+  'Cf-Ray' => '830996f9b6f01463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Emergency Room RN 
+Level 2 Trauma Center
+
+Day Shift 
+every other weekend requirement
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 530348
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15840
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-02
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 04 2023 23:36:42
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=46749 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne Des Moines Medical Center ;City=Des Moines ;State=IA ;Zip=50314 ;Start=1/2/2024;End=3/30/2024;Duration=88;Cert=RN Emergency Room ;Specialty=Mercy Main Emergency ;Unit=Iowa/Des Moines/Emergency Room RN/DAYS ;Shift=7a7p;# of Postions=1;Type=Travel;BillRate=$82.00;OTRate=106.60 ;ChargeRate=85.00 ;CallbackRate=106.60 ;HolidayRate=106.60 ;Orientation=0.00 ;Description=Emergency Room RN 
+Level 2 Trauma Center
+
+Day Shift 
+every other weekend requirement ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 82
+    [facilityName] => MercyOne Des Moines Medical Center (Trinity) TRAVEL
+    [shiftDateEnd] => 2024-03-30
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

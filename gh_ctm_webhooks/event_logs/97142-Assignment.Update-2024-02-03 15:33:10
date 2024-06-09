@@ -1,0 +1,66 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '53',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1633',
+  'Cf-Ray' => '84fbbb1312367b12-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 12/13/2019 1114 MSTCerville Exavier
+                            
+                            
+                                Saved for S. Joseph
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 97142
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2478
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-01-13
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RRT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => February, 03 2024 10:32:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=Shiftwise;ID=0;SourceID=8498531;Status=Pending;Association=CCS WFS: Seton HealthCare Network;Client=AH: Dell Children's Medical Center;City=Austin;State=TX;Zip=78723;Start=1/13/2020;End=3/28/2020;Duration=76;Cert=Respiratory Therapist;Specialty=Respiratory Therapist Reg;Unit=DCMC Respiratory Therapy;Shift=AM 12.00 Hrs;# of Postions=1;Type=Travel;OTRate= ;OTRules= ;ChargeRate= ;CallbackRate= ;CallbackRate= ;HolidayRate= ;OnCallRateDescription= ;Orientation= ;Description=12/13/2019 1114 MSTCerville Exavier
+                            
+                            
+                                Saved for S. Joseph;Buyer= ;VMSPositionType= AvgHoursPerWeek= InterviewRequired=False;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 
+    [facilityName] => Dell Children's Medical Center
+    [shiftDateEnd] => 2020-03-28
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

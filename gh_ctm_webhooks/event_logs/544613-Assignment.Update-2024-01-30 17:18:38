@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '23',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '913',
+  'Cf-Ray' => '84db600e20db4949-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => Peds
+    [assignmentid] => 544613
+    [workerID] => 201052
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 136483
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6623
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 1
+    [bonus] => 
+    [shiftDateStart] => 2024-01-01
+    [workerLastName] => Boone
+    [shiftNum] => 4
+    [workerFirstName] => Rebecca
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:15
+    [whenmodified] => January, 30 2024 12:18:37
+    [daysPerWeek] => 3
+    [orderNote] => $4.57 no insurance
+RTO: Pending
+PO: Issued at new lower rate: 117.00 (Requesting 120 11/16/23)sd
+    [guaranteedMinimum] => 
+    [workerEmail] => blynnboone@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 117
+    [facilityName] => IHS-Gallup Indian Medical Center
+    [shiftDateEnd] => 2024-03-31
+    [shiftStartTime] => 06:45
+    [subjectID] => 
+)

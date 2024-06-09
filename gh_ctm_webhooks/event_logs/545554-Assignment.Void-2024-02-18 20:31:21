@@ -1,0 +1,65 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '120',
+  'Ki-Request-Colo' => '612',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1830',
+  'Cf-Ray' => '8579087cc1802324-ORD',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Acute Medical Inpatient Med/Surg 
+Class I Telemetry- Cardiac Drips 
+13 weeks 3x12H 1900-0700 Possible Floating to support staffing within Med/Surg Every other Weekend Every other Holiday No On-Call requirement BLS required EHR-EPIC non-local contracts only 50+radius
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 545554
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12439
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-03-12
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => February, 18 2024 15:31:20
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48613 ;Status=In-Progress (O);Association=Trinity Health ;Client=NY - St Joseph Hospital Health Center ;City=Syracuse ;State=NY ;Zip=13203 ;Start=3/12/2024;End=6/8/2024;Duration=88;Cert=RN Telemetry ;Specialty=Patient Care Unit 1-5 ;Unit=*Registered Nurse-Med Surg Tele-Patient Care Unit 1-5 ;Shift=1900-0730;# of Postions=1;Type=Travel;BillRate=$93.00;OTRate=120.90 ;ChargeRate=96.00 ;CallbackRate=120.90 ;HolidayRate=120.90 ;Description=Acute Medical Inpatient Med/Surg 
+Class I Telemetry- Cardiac Drips 
+13 weeks 3x12H 1900-0700 Possible Floating to support staffing within Med/Surg Every other Weekend Every other Holiday No On-Call requirement BLS required EHR-EPIC non-local contracts only 50+radius ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 93
+    [facilityName] => St. Joseph's Health TRAVEL
+    [shiftDateEnd] => 2024-06-08
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

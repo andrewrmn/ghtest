@@ -1,0 +1,78 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2085',
+  'Cf-Ray' => '82899788a4b21464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+13
+week contract, 36 hours guaranteed, 5/8 hr shifts, oncall, weekends, must 
+be flexible to work at sister hospital, AZ license, BLS, ACLS, 2  years of Cath
+Lab experience, Cerner experience is preferred.
+Shift: Days 
+ parseGeneralComments Comments
+.bd_title { font-weight: bold }
+PCR 2106-009
+Days Contact: CHS MSP HOUSE Resource Manager: CHS MSP HOUSE
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 374227
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-07-18
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:47:10
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=596346 ;Status=Open;Association=CHS ;Client=Oro Valley Hospital ;City=Oro Valley ;State=AZ ;Zip=85755 ;Start=5/16/2022;End=8/15/2022;Duration=91;Cert=CHS Travel:Registered Nurse (RN) / Cath Lab (596346) ;Specialty=1106: CARDIO-CATH LAB ;Unit=CARDIO-CATH LAB ;Shift=Days;# of Postions=1;Type=Travel;BillRate=$130.00;Description=Position Description
+13
+week contract, 36 hours guaranteed, 5/8 hr shifts, oncall, weekends, must 
+be flexible to work at sister hospital, AZ license, BLS, ACLS, 2  years of Cath
+Lab experience, Cerner experience is preferred.
+Shift: Days 
+ parseGeneralComments Comments
+.bd_title { font-weight: bold }
+PCR 2106-009
+Days Contact: CHS MSP HOUSE Resource Manager: CHS MSP HOUSE ;Buyer=CHS MSP HOUSE ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=596346#!/position/manage/596346;VMSPositionType=Travel InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 130
+    [facilityName] => Northwest Medical Center of Oro Valley
+    [shiftDateEnd] => 2022-10-17
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

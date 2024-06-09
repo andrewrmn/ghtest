@@ -1,0 +1,148 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8629',
+  'Cf-Ray' => '82a4d63932f01466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => RN / Chemotherapy
+
+Start date: Start date will be 2-3 weeks from offer
+Shift Details: Will work 830a-5:00p or 745a-4:15p M-F, or 4x10 hours shifts if schedule allows 7:30a-6p. 
+2 weekend shifts per month 730a-12p
+
+Only accepting candidates that can work over the holidays-it would be a half day requirement (8a-12p)
+Christmas   Fri,  Dec 22nd   Monday Dec 25th  --- may work 2 half days during this time
+New Years -  Fri,  Dec 29th   Monday Jan 1st  --- may work 2 half days during this time
+
+
+Weekend REQ: 2 weekend Day shifts per month 730a-12p either a Saturday or Sunday
+Is on-call REQ? No
+Open to accommodating block schedule? Approval prior to assignment, but not guaranteed.
+
+Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+
+Ratios: 1:4
+Years of experience REQ: 1yr experience required
+First-timers accepted: No, must have travel experience
+Certs REQ: Chemo/Bio certification, BLS
+Will clinician float within scope to meet facility needs? Could potentially float to North Charleston location 
+Radius rule? Yes, 50 miles. Are locals accepted? Yes, at $4 less than the posted bill rate
+Pending License accepted: SC RN or compact state license in hand at time of start
+RTO Restrictions: All RTO must be included at time of submission. Approval will be based on facility's needs. Multiple RTO requests within a 8-13 week contract will be denied.
+Guaranteed Hours: Facility allowed to call off 1 shift per 2 weeks
+
+Special Requirements: Preferred Oncology and infusion experience and EPIC experience
+
+Hospital Highlights
+Type of Facility: Teaching Hospital
+Magnet / Teaching / Level Trauma: Magnet, Teaching and Level 1 Trauma
+Total Staffed Beds: 865
+Scrub Color: Royal Blue
+Charting: Epic
+Parking Cost: Free via a shuttle bus system 
+
+
+ Modified Time:12/18/2023 5:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal radius: 50 miles. Locals accepted on a case by case basis at lower ratePerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+    [sitename] => giftednurses
+    [spec] => Oncol
+    [assignmentid] => 545593
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3712
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 22 2023 18:08:51
+    [daysPerWeek] => 5
+    [orderNote] => Source=AYA;SourceID=2319480 ;Status=Open;Association=Qualivis MSP ;Client=MUSC Health Charleston ;City=Charleston ;State=SC ;Zip=29425 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Registered Nurse ;Specialty=Chemo ;Unit=CHS Chemotherapy (Main), CC000356 ;Shift=Day 5x8-Hour (08:30 - 17:00); Day 5x8-Hour (07:45 - 16:15);# of Postions=1;Type=Travel;BillRate=$73.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=RN / Chemotherapy
+
+Start date: Start date will be 2-3 weeks from offer
+Shift Details: Will work 830a-5:00p or 745a-4:15p M-F, or 4x10 hours shifts if schedule allows 7:30a-6p. 
+2 weekend shifts per month 730a-12p
+
+Only accepting candidates that can work over the holidays-it would be a half day requirement (8a-12p)
+Christmas   Fri,  Dec 22nd   Monday Dec 25th  --- may work 2 half days during this time
+New Years -  Fri,  Dec 29th   Monday Jan 1st  --- may work 2 half days during this time
+
+
+Weekend REQ: 2 weekend Day shifts per month 730a-12p either a Saturday or Sunday
+Is on-call REQ? No
+Open to accommodating block schedule? Approval prior to assignment, but not guaranteed.
+
+Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+
+Ratios: 1:4
+Years of experience REQ: 1yr experience required
+First-timers accepted: No, must have travel experience
+Certs REQ: Chemo/Bio certification, BLS
+Will clinician float within scope to meet facility needs? Could potentially float to North Charleston location 
+Radius rule? Yes, 50 miles. Are locals accepted? Yes, at $4 less than the posted bill rate
+Pending License accepted: SC RN or compact state license in hand at time of start
+RTO Restrictions: All RTO must be included at time of submission. Approval will be based on facility's needs. Multiple RTO requests within a 8-13 week contract will be denied.
+Guaranteed Hours: Facility allowed to call off 1 shift per 2 weeks
+
+Special Requirements: Preferred Oncology and infusion experience and EPIC experience
+
+Hospital Highlights
+Type of Facility: Teaching Hospital
+Magnet / Teaching / Level Trauma: Magnet, Teaching and Level 1 Trauma
+Total Staffed Beds: 865
+Scrub Color: Royal Blue
+Charting: Epic
+Parking Cost: Free via a shuttle bus system 
+
+
+ Modified Time:12/18/2023 5:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal radius: 50 miles. Locals accepted on a case by case basis at lower ratePerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2319480/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 73
+    [facilityName] => MUSC- Medical Center
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 08:30
+    [subjectID] => 
+)

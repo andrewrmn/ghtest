@@ -1,0 +1,159 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '12181',
+  'Cf-Ray' => '82931d4ca37823b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => "Provides professional nursing care for patients. Under the general direction of the Manager, the Staff Nurse II independentlyuses the nursing process to safely, compassionately, therapeutically and efficiently provide individualized care for a group ofpatients for which the nurse demonstrates age specific competencies. Uses information from a variety of sources to assess,plan, implement and evaluate the results of patient care. May supervise the work and function for other staff nurses, licensedvocational nurses, nursing assistants and clinical support associates.
+Principal AccountabilitiesDemonstrates the ability to use all components of the nursing process including assessment, planning,implementing and evaluating care to meet the individual patient s needs according to their age, cultureand condition.  Assesses patients, identifies obvious as well as subtle patient problems and/or abnormal assessments,anticipates changes in patient s condition and appropriately reports and resolves.  Develops plan of care based on age specific assessment. Involves patient, family and interdisciplinaryresources to develop and revise the plan of care.  Demonstrates knowledge and skills necessary to provide age appropriate care in compliance withStandards of Care and Standards of Practice.  Provides assistance to others in implementing complex care and treatments within their age specificcategories.  Administers medications and treatments according to hospital policy and procedure and acceptedstandards of age specific care and department standards.  Communicates effectively with patients, families and other health care providers. Participates inmultidisciplinary patient care conferences as needed.  Promotes a climate in which patients/families may act in their own interest and intervenes as anadvocate when they are unable to do so.  Reassesses and evaluates patient response to care and takes appropriate action to assure patient sneeds are being met.  Participates with patient/family and other members of the healthcare team in evaluation of patientoutcomes.  Substantiates patient care provided with appropriate documentation.
+Demonstrates leadership in daily activities on the unit.  Promotes collaborative/caring relationships.  Acts as a resource to team members.  Supervises assigned staff members, based on knowledge of the person s job description and scope ofpractice.  Maintains a safe work environment by adhering to hospital, departmental policies and procedures andregulatory requirements.  Demonstrates efficient use of time and resources and participates in identification and implementationof cost saving strategies.  Demonstrates commitment to hospital s mission, values and goals.  In collaboration with the nurse manager, participates in at least one activity/project, to help thedepartment/hospital improve quality, cost effectiveness or customer/patient service.  Performs other duties as assigned.
+Participates in professional development.
+
+Skills: "Skills and Knowledge  Communicates effectively in English (verbal and written).  Has effective skills in communication and interpersonal relationships.  Has the flexibility to adapt to new and changing situations.  Has the ability to think critically and set priorities.  Demonstrates basic computer skills.  Participates as a collaborative member of the Patient Care Team.  Demonstrates the basic knowledge and skills necessary to provide age-specific care to patients serviced, including knowledge of the principles of growth and development and psychosocial characteristics and interpreting age appropriate data for the populations served in the department.  Demonstratesappropriate communication and patient education skills for the patient population served.  Demonstrates competencies required by department (per initial orientation and annual review). Workingknowledge of established safety topics (e.g., Infection Control, Electrical Safety, Disaster) as required bydepartment and organizational standards."
+ Required
+	
+	  PATIENT CARE
+	   NOC
+	   INFECTION CONTROL
+	   ACLS
+	   RN
+	              
+	
+	
+	
+	Additional
+	
+	            CLINICAL SUPPORT
+	   ADV
+	   CARDIAC
+	   REGISTERED NURSE
+	   DOCUMENTATION
+	   PEDIATRIC
+
+Education: ""Associate's Nursing - Required
+Bachelor's Nursing - Preferred
+Registered Nurse - State Licensure -RN - Required
+Advanced Cardiac Life Support - ACLS - Required
+Basic Life Support Certification - BLS - Required
+National Institutes of Health Stroke Scale (NIHSS) - Required
+Pediatric Adv Life Support - PALS - Required
+Six-month recent professional nursing experience. - Required
+MAB Training - Required 180 days within hire""
+This is the pay range that RightSourcing (a part of Magnit) reasonably expects to pay someone for this position, however, as a supplier your expected pay range may vary and/or include certain benefits like: Stipends (for clinical traveler workers only), Medical, Dental, Vision, 401K [include any compulsory benefits such as commissions, incentive bonuses, etc. if applicable]. Pay range (USD)78 hrly - (USD)116 hrly
+
+;Languages: 
+ 
+English
+ Read
+ Write
+ Speak
+
+ 
+ English(
+    
+)
+
+Job Category: SBH-DPC-Nursing-Travel
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 544025
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 12804
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 20 2023 14:31:39
+    [daysPerWeek] => 3
+    [orderNote] => Source=Wand;SourceID=25898236 ;Status=Pending;Client=Sutter Health ;City=Santa Rosa ;State=CA ;Zip=95403 ;Start=9/20/2023;End=11/8/2023;Duration=49;Cert=SBH-DPC-Nursing-Travel ;Specialty=RN - ED - Travel - NOC - SSRRH ;Unit=SUT West Bay Hosp*EMERGENCY  SERVICE 						: 274*417010    		                SUT West Bay Hosp SUT West Bay Hosp*EMERGENCY  SERVICE  : 274*417010   SUT West Bay Hosp ;Shift=12 Hrs 3x12 Hr;# of Postions=1;Guaranteed Hours=36.00;Type=Travel;BillRate=$116.00;Description="Provides professional nursing care for patients. Under the general direction of the Manager, the Staff Nurse II independentlyuses the nursing process to safely, compassionately, therapeutically and efficiently provide individualized care for a group ofpatients for which the nurse demonstrates age specific competencies. Uses information from a variety of sources to assess,plan, implement and evaluate the results of patient care. May supervise the work and function for other staff nurses, licensedvocational nurses, nursing assistants and clinical support associates.
+Principal AccountabilitiesDemonstrates the ability to use all components of the nursing process including assessment, planning,implementing and evaluating care to meet the individual patient s needs according to their age, cultureand condition.  Assesses patients, identifies obvious as well as subtle patient problems and/or abnormal assessments,anticipates changes in patient s condition and appropriately reports and resolves.  Develops plan of care based on age specific assessment. Involves patient, family and interdisciplinaryresources to develop and revise the plan of care.  Demonstrates knowledge and skills necessary to provide age appropriate care in compliance withStandards of Care and Standards of Practice.  Provides assistance to others in implementing complex care and treatments within their age specificcategories.  Administers medications and treatments according to hospital policy and procedure and acceptedstandards of age specific care and department standards.  Communicates effectively with patients, families and other health care providers. Participates inmultidisciplinary patient care conferences as needed.  Promotes a climate in which patients/families may act in their own interest and intervenes as anadvocate when they are unable to do so.  Reassesses and evaluates patient response to care and takes appropriate action to assure patient sneeds are being met.  Participates with patient/family and other members of the healthcare team in evaluation of patientoutcomes.  Substantiates patient care provided with appropriate documentation.
+Demonstrates leadership in daily activities on the unit.  Promotes collaborative/caring relationships.  Acts as a resource to team members.  Supervises assigned staff members, based on knowledge of the person s job description and scope ofpractice.  Maintains a safe work environment by adhering to hospital, departmental policies and procedures andregulatory requirements.  Demonstrates efficient use of time and resources and participates in identification and implementationof cost saving strategies.  Demonstrates commitment to hospital s mission, values and goals.  In collaboration with the nurse manager, participates in at least one activity/project, to help thedepartment/hospital improve quality, cost effectiveness or customer/patient service.  Performs other duties as assigned.
+Participates in professional development.
+
+Skills: "Skills and Knowledge  Communicates effectively in English (verbal and written).  Has effective skills in communication and interpersonal relationships.  Has the flexibility to adapt to new and changing situations.  Has the ability to think critically and set priorities.  Demonstrates basic computer skills.  Participates as a collaborative member of the Patient Care Team.  Demonstrates the basic knowledge and skills necessary to provide age-specific care to patients serviced, including knowledge of the principles of growth and development and psychosocial characteristics and interpreting age appropriate data for the populations served in the department.  Demonstratesappropriate communication and patient education skills for the patient population served.  Demonstrates competencies required by department (per initial orientation and annual review). Workingknowledge of established safety topics (e.g., Infection Control, Electrical Safety, Disaster) as required bydepartment and organizational standards."
+ Required
+	
+	  PATIENT CARE
+	   NOC
+	   INFECTION CONTROL
+	   ACLS
+	   RN
+	              
+	
+	
+	
+	Additional
+	
+	            CLINICAL SUPPORT
+	   ADV
+	   CARDIAC
+	   REGISTERED NURSE
+	   DOCUMENTATION
+	   PEDIATRIC
+
+Education: ""Associate's Nursing - Required
+Bachelor's Nursing - Preferred
+Registered Nurse - State Licensure -RN - Required
+Advanced Cardiac Life Support - ACLS - Required
+Basic Life Support Certification - BLS - Required
+National Institutes of Health Stroke Scale (NIHSS) - Required
+Pediatric Adv Life Support - PALS - Required
+Six-month recent professional nursing experience. - Required
+MAB Training - Required 180 days within hire""
+This is the pay range that RightSourcing (a part of Magnit) reasonably expects to pay someone for this position, however, as a supplier your expected pay range may vary and/or include certain benefits like: Stipends (for clinical traveler workers only), Medical, Dental, Vision, 401K [include any compulsory benefits such as commissions, incentive bonuses, etc. if applicable]. Pay range (USD)78 hrly - (USD)116 hrly
+
+;Languages: 
+ 
+English
+ Read
+ Write
+ Speak
+
+ 
+ English(
+    
+)
+
+Job Category: SBH-DPC-Nursing-Travel ;url=https://prowand.pro-unlimited.com/supplier/standard/requisition/req_geninfo_view.html?id=25898236&type=REQUISITION&reqProfile=true;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 116
+    [facilityName] => Sutter Santa Rosa Regional Hospital Travel RS
+    [shiftDateEnd] => 2024-01-15
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

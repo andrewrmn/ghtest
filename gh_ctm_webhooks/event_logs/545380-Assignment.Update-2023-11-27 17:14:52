@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '43',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3243',
+  'Cf-Ray' => '82cc0289b6ac1840-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:The PACU Registered Nurse holds shift accountability for providing care to Post Anesthesia Care patients working with Surgeons, Anesthesiologists, Surgical staff, and other personnel by utilizing the Nursing Process in accordance with the state Nurse Practice Act, AORN, and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care.
+Bill Rate $853- Day Shifts 4-10's 7A - 5POn-Call is 3-4 Weekend Days over an 8-week period (1 Day, not entire weekend) 1-2 Call Shifts per WeekRequired: AZ License, ACLS, BLS
+ General CommentsPCR #4112-018G
+ No. of Positions: 3/3.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => PACU
+    [assignmentid] => 545380
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13691
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 27 2023 12:14:51
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=777141 ;Status=Open;Association=Community Health Systems ;Client=Northwest Houghton ;City=Tucson ;State=AZ ;Zip=85748 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=RN ;Specialty=PACU ;Unit=EXT-Other (911) ;Shift=07:00-17:00;# of Postions=3;Type=Travel;BillRate=$85.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:The PACU Registered Nurse holds shift accountability for providing care to Post Anesthesia Care patients working with Surgeons, Anesthesiologists, Surgical staff, and other personnel by utilizing the Nursing Process in accordance with the state Nurse Practice Act, AORN, and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care.
+Bill Rate $853- Day Shifts 4-10's 7A - 5POn-Call is 3-4 Weekend Days over an 8-week period (1 Day, not entire weekend) 1-2 Call Shifts per WeekRequired: AZ License, ACLS, BLS
+ General CommentsPCR #4112-018G
+ No. of Positions: 3/3.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/777141;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Northwest Medical Center Houghton
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

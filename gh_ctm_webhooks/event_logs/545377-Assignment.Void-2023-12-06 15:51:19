@@ -1,0 +1,89 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1947',
+  'Cf-Ray' => '8315b08717df1836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:CONTRACT - CVCST - CVOR - OR/SURGERY (701) - 13 WEEKS - DAYS
+
+We are open to 8, 10, or 12 hr shifts for CVOR.
+ I have let the candidates decide what works best for them.
+
+
+0630-1500
+
+0630-1700
+
+0630-1900
+
+ON CALL REQUIRED
+ General Comments
+ No. of Positions: 2/2.
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 545377
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5451
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 06 2023 10:51:18
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=774658 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=NORTH AUSTIN MEDICAL CENTER TX ;City=AUSTIN ;State=TX ;Zip=78758 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=CST/ORT ;Specialty=OR ;Unit=CENTRAL AND WEST TEXAS DIVISION (50) ;Shift=DAYS;# of Postions=2;Type=Travel;BillRate=$80.00;OTRate=88 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:CONTRACT - CVCST - CVOR - OR/SURGERY (701) - 13 WEEKS - DAYS
+
+We are open to 8, 10, or 12 hr shifts for CVOR.
+ I have let the candidates decide what works best for them.
+
+
+0630-1500
+
+0630-1700
+
+0630-1900
+
+ON CALL REQUIRED
+ General Comments
+ No. of Positions: 2/2. ;url=https://vendor.healthtrustws.com/positions/774658;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => St. David's North Austin Medical Center Travel
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

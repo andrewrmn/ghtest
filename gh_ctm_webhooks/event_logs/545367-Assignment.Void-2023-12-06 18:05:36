@@ -1,0 +1,103 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4227',
+  'Cf-Ray' => '8316753e20a84951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL - RN - MS/Neuro Trauma (662) - Sky Ridge MC - Nights - Ext
+Facility Overview:
+Beyond Your Expectations!
+Sky Ridge Medical Center is a full-service, destination hospital with a reputation for clinical excellence and world-class service. We offer compassionate care through our patient-centered programs, which include everything from our adult and pediatric ERs and comprehensive Cancer Center to a focus on pregnancy and childbirth in our Birth Place as well as specialized care in our Spine and Total Joint Center and Women s Hospital. We strive to go beyond your expectations in service to you and your family.
+The Latest Technology
+We have the latest technologies and equipment available. For example, cardiac services includes two interventional catheterization labs. The Cancer Center offers chemotherapy plus radiation therapy via a highly precise, 3-D radiation system. Orthopedic services include care for spine, joints and sports injuries.
+Women's and children's services at Sky Ridge are extensive, too. Because this is an area with lots of families, Sky Ridge is ready. Board-certified pediatricians on staff 24 hours a day. And, our Level II trauma center, with around-the-clock emergency care and orthopedic surgeons available 24/7, is ready to meet the demands of the community.
+
+
+
+? Click here for directions
+
+
+
+
+
+
+
+ 
+Top 10 things to do!
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545367
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1273
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 06 2023 13:05:36
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=753533 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=SKY RIDGE MEDICAL CENTER CO ;City=Lonetree ;State=CO ;Zip=80124 ;Start=9/17/2023;End=10/15/2023;Duration=28;Cert=RN ;Specialty=Med Surg ;Unit=CONTINENTAL DIVISION (10) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$70.00;OTRate=78 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:TRAVEL - RN - MS/Neuro Trauma (662) - Sky Ridge MC - Nights - Ext
+Facility Overview:
+Beyond Your Expectations!
+Sky Ridge Medical Center is a full-service, destination hospital with a reputation for clinical excellence and world-class service. We offer compassionate care through our patient-centered programs, which include everything from our adult and pediatric ERs and comprehensive Cancer Center to a focus on pregnancy and childbirth in our Birth Place as well as specialized care in our Spine and Total Joint Center and Women s Hospital. We strive to go beyond your expectations in service to you and your family.
+The Latest Technology
+We have the latest technologies and equipment available. For example, cardiac services includes two interventional catheterization labs. The Cancer Center offers chemotherapy plus radiation therapy via a highly precise, 3-D radiation system. Orthopedic services include care for spine, joints and sports injuries.
+Women's and children's services at Sky Ridge are extensive, too. Because this is an area with lots of families, Sky Ridge is ready. Board-certified pediatricians on staff 24 hours a day. And, our Level II trauma center, with around-the-clock emergency care and orthopedic surgeons available 24/7, is ready to meet the demands of the community.
+
+
+
+? Click here for directions
+
+
+
+
+
+
+
+ 
+Top 10 things to do!
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/753533;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Sky Ridge Medical Center Parallon
+    [shiftDateEnd] => 2024-01-21
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

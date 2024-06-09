@@ -1,0 +1,66 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '24',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1697',
+  'Cf-Ray' => '84fbbaf542a9494d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 02/05/2020 1508 MSTAriana Redler
+                            
+                            
+                                saved for HERRINGTON
+    [sitename] => giftednurses
+    [spec] => PICU
+    [assignmentid] => 104716
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2478
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-03-02
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => February, 03 2024 10:32:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=Shiftwise;SourceID=8585214;Status=Pending;Association=CCS WFS: Seton HealthCare Network;Client=AH: Dell Children's Medical Center;City=Austin;State=TX;Zip=78723;Start=3/2/2020;End=5/30/2020;Duration=90;Cert=RN;Specialty=PICU Cardiac;Unit=DCMC CCU;Shift=NOC 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$72.58;minBillRate=$72.58;OTRate= ;OTRules= ;ChargeRate= ;CallbackRate= ;CallbackRate= ;HolidayRate= ;OnCallRateDescription= ;Orientation= ;Description=02/05/2020 1508 MSTAriana Redler
+                            
+                            
+                                saved for HERRINGTON;Buyer= ;url=https://secure.shiftwise.net/esp/order.aspx?order_id=16375AB566EE4B961D22BB3CC538B8D8;VMSPositionType= AvgHoursPerWeek= InterviewRequired=False;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 72.58
+    [facilityName] => Dell Children's Medical Center
+    [shiftDateEnd] => 2020-05-30
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,140 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5108',
+  'Cf-Ray' => '83bea6ed75dc23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL - RN - MED SURG (610) - Sky Ridge MC - 7PM - 7AM
+          Unit Information:
+ Medical/Surgical/Oncology   61015             Location: Sky Ridge Medical   Center              
+Address:10101 Ridge Gate Pkwy.   Lone Tree, CO 80124
+         
+Floor: 6th
+             
+Building: Main 
+         
+
+
+             General Information             Tell us   about the unit(s):          Number        of Beds -48     Number        of Staff   77 employees    Type        of staff:          Day         Shift   12 RN s, 1Charge Nurse, 4 CNA s      Night         Shift   9 RN s, 1 Charge Nurse, 3 CNA s        Patient        Ratios   Night shift Nurses 5-6, CNA s 16    Type        of equipment   Hoyer lifts, Pyxis, Dynampas vital sign machines,        computers in every room 
+
+    EMR -        Meditech                Typical hiring profile             Skill Set   Most recruited for:
+ (Travel RNs, local CNAs and sitters)   
+   
+Must have:
+ candidates without these   skills will not be considered for the role.
+       Med/Surg        experience    
+      
+Preferred   or nice to have:
+   candidates with these skills will be considered first. 
+       
+Oncology        certified    
+      
+List   typical procedures performed on unit(s): 
+
+       
+Chemo        Administration    
+Post-OP        patients, medical patients, remote tele, 
+      Best   personality Fit:       Flexible            Team        Player
+                
+Unit Guidelines/Policies: Please feel free to attach unit   policies and guidelines.
+       
+      
+
+
+             Any   additional information that would entice a worker to select your unit for   their assignment: 
+Self-scheduling,   all private rooms except 1 semi private, Experienced RN s up to 25 years of   nursing.
+ General Comments
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 531452
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1273
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 26 2023 22:59:38
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=754379 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=SKY RIDGE MEDICAL CENTER CO ;City=Lonetree ;State=CO ;Zip=80124 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=CONTINENTAL DIVISION (10) ;Shift=7:00PM – 7:00AM ;# of Postions=2;Type=Travel;BillRate=$70.00;minBillRate=$70.00;OTRate=78 ;CallbackRate=78 ;HolidayRate=78 ;Description=Description:TRAVEL - RN - MED SURG (610) - Sky Ridge MC - 7:00PM - 7:00AM
+          Unit Information:
+ Medical/Surgical/Oncology   61015             Location: Sky Ridge Medical   Center              
+Address:10101 Ridge Gate Pkwy.   Lone Tree, CO 80124
+         
+Floor: 6th
+             
+Building: Main 
+         
+
+
+             General Information             Tell us   about the unit(s):          Number        of Beds -48     Number        of Staff   77 employees    Type        of staff:          Day         Shift   12 RN s, 1Charge Nurse, 4 CNA s      Night         Shift   9 RN s, 1 Charge Nurse, 3 CNA s        Patient        Ratios   Night shift Nurses 5-6, CNA s 16    Type        of equipment   Hoyer lifts, Pyxis, Dynampas vital sign machines,        computers in every room 
+
+    EMR -        Meditech                Typical hiring profile             Skill Set   Most recruited for:
+ (Travel RNs, local CNAs and sitters)   
+   
+Must have:
+ candidates without these   skills will not be considered for the role.
+       Med/Surg        experience    
+      
+Preferred   or nice to have:
+   candidates with these skills will be considered first. 
+       
+Oncology        certified    
+      
+List   typical procedures performed on unit(s): 
+
+       
+Chemo        Administration    
+Post-OP        patients, medical patients, remote tele, 
+      Best   personality Fit:       Flexible            Team        Player
+                
+Unit Guidelines/Policies: Please feel free to attach unit   policies and guidelines.
+       
+      
+
+
+             Any   additional information that would entice a worker to select your unit for   their assignment: 
+Self-scheduling,   all private rooms except 1 semi private, Experienced RN s up to 25 years of   nursing.
+ General Comments
+ No. of Positions: 2/2. ;url=https://vendor.healthtrustws.com/positions/754379;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Sky Ridge Medical Center Parallon
+    [shiftDateEnd] => 2024-04-08
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

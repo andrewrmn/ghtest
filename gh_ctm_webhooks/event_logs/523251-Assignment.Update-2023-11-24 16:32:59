@@ -1,0 +1,146 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3463',
+  'Cf-Ray' => '82b30d14616e183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:DeTar
+
+Cath Lab RN
+
+Start: ASAP
+Shift: Days
+Rate: $95
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+           		*******************************************************************************
+
+
+           		How long has it been open?
+
+
+           		Will position be required to float to other units?
+
+
+           		Number of beds in your facility?
+
+
+           		Years of experience required?
+
+
+           		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+           		Willing to review clinicians with pending state license?
+
+
+           		Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+           		What is the work schedule for this position? (days needed, hours or shift)
+
+
+ 			EMR for your facility:
+
+
+           		Scrub colors / dress code:
+
+
+ 			Parking location:
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 523251
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 9491
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-09-04
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 24 2023 11:32:48
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=747656 ;Status=Open;Association=Community Health Systems ;Client=DeTar Healthcare System ;City=Victoria ;State=TX ;Zip=77904 ;Start=8/21/2023;End=11/20/2023;Duration=91;Cert=RN ;Specialty=Cardiac Cath Lab ;Unit=EXT-Other (911) ;Shift=Days;# of Postions=1;Type=Travel;BillRate=$95.00;OTRate=118.75 ;CallbackRate=118.75 ;HolidayRate=118.75 ;Orientation=0 ;Description=Description:DeTar
+
+Cath Lab RN
+
+Start: ASAP
+Shift: Days
+Rate: $95
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+           		*******************************************************************************
+
+
+           		How long has it been open?
+
+
+           		Will position be required to float to other units?
+
+
+           		Number of beds in your facility?
+
+
+           		Years of experience required?
+
+
+           		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+           		Willing to review clinicians with pending state license?
+
+
+           		Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+           		What is the work schedule for this position? (days needed, hours or shift)
+
+
+ 			EMR for your facility:
+
+
+           		Scrub colors / dress code:
+
+
+ 			Parking location: ;url=https://vendor.healthtrustws.com/positions/747656;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => DeTar Hospital - North 
+    [shiftDateEnd] => 2023-12-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

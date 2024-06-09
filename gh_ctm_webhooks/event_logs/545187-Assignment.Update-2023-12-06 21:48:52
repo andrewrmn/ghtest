@@ -1,0 +1,612 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7614',
+  'Cf-Ray' => '8317bc4237ad1836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:ST. MARKS HOSPITAL
+Need: Cardiac Sonographer 
+**must have cardiac exp**
+Cost Center: 751
+Shift: 8:00AM-4:30PM (Mon-Fri)
+Start Date: 12/11/2023
+Assignment Length: 13 Weeks
+ General CommentsUnit Information:
+   (St. Marks Echo)             Location: St. Marks Hospital             
+Address: 3200 South 1160 East, Ste 3400
+         
+Floor: 3 
+             
+Building: North   Medical Building
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds - 317
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   1,500+
+   
+ 
+
+
+
+
+
+
+
+   Shift for the Traveler   0700   1730,   0800   1630, 1130 - 2000
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   7 Echo Techs, 1-2 RN, 1 CV   Technician, 1 Echo Coordinator
+ 
+   
+o
+
+
+   Night Shift   N/A
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   N/A
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   GE E95
+   
+ 
+
+
+
+
+
+
+
+   EMR   EPIC
+   
+ 
+
+
+
+
+
+
+
+   On Call Requirements   1 weekend a   month
+   
+ 
+
+
+
+
+
+
+
+   Weekend Requirements: - 
+1 Weekend a month
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   RDCS or   RCS
+   
+ 
+
+
+
+
+
+
+
+   Perform a   complete echo with full report in 1 hour
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   TEE   Experience
+   
+ 
+
+
+
+
+
+
+
+   Stress   Echo experience
+   
+ 
+
+
+
+
+
+
+
+   Pediatric   experience
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+TTE
+   
+ 
+
+
+
+
+
+
+
+   
+Treadmill Stress Echo/Dobutamine Stress echo
+   
+ 
+
+
+
+
+
+
+
+   TEE
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Self motivated, team oriented,   positive attitude, focused work
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   RDCS or   RCS
+   
+ 
+
+
+
+
+
+
+
+   BLS
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire - Any professional   solid color scrubs, Hospital provided scrubs for inpatient areas
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Weekends and On call. Any additional information     
+
+
+
+
+
+
+
+   Call starts at 20:00 to 07:00 the following   morning, or 07:00   07:00 holidays and weekends.
+ No. of Positions: 3/3.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => Ultrasound Tech
+    [assignmentid] => 545187
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5860
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Ultrasound Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 06 2023 16:48:50
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=774939 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=St. Marks Hospital UT ;City=SALT LAKE CITY ;State=UT ;Zip=84124 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Ultrasound Tech/Sonographer ;Specialty=Radiology ;Unit=MOUNTAIN DIVISION (15) ;Shift=8:00AM-4:30PM;# of Postions=3;Type=Travel;BillRate=$85.00;OTRate=93 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:ST. MARKS HOSPITAL
+Need: Cardiac Sonographer 
+**must have cardiac exp**
+Cost Center: 751
+Shift: 8:00AM-4:30PM (Mon-Fri)
+Start Date: 12/11/2023
+Assignment Length: 13 Weeks
+ General CommentsUnit Information:
+   (St. Marks Echo)             Location: St. Marks Hospital             
+Address: 3200 South 1160 East, Ste 3400
+         
+Floor: 3 
+             
+Building: North   Medical Building
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds - 317
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   1,500+
+   
+ 
+
+
+
+
+
+
+
+   Shift for the Traveler   0700   1730,   0800   1630, 1130 - 2000
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   7 Echo Techs, 1-2 RN, 1 CV   Technician, 1 Echo Coordinator
+ 
+   
+o
+
+
+   Night Shift   N/A
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   N/A
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   GE E95
+   
+ 
+
+
+
+
+
+
+
+   EMR   EPIC
+   
+ 
+
+
+
+
+
+
+
+   On Call Requirements   1 weekend a   month
+   
+ 
+
+
+
+
+
+
+
+   Weekend Requirements: - 
+1 Weekend a month
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   RDCS or   RCS
+   
+ 
+
+
+
+
+
+
+
+   Perform a   complete echo with full report in 1 hour
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   TEE   Experience
+   
+ 
+
+
+
+
+
+
+
+   Stress   Echo experience
+   
+ 
+
+
+
+
+
+
+
+   Pediatric   experience
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+TTE
+   
+ 
+
+
+
+
+
+
+
+   
+Treadmill Stress Echo/Dobutamine Stress echo
+   
+ 
+
+
+
+
+
+
+
+   TEE
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Self motivated, team oriented,   positive attitude, focused work
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   RDCS or   RCS
+   
+ 
+
+
+
+
+
+
+
+   BLS
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire - Any professional   solid color scrubs, Hospital provided scrubs for inpatient areas
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Weekends and On call. Any additional information     
+
+
+
+
+
+
+
+   Call starts at 20:00 to 07:00 the following   morning, or 07:00   07:00 holidays and weekends.
+ No. of Positions: 3/3.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/774939;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => St. Mark's Hospital UT 
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 08:00
+    [subjectID] => 
+)

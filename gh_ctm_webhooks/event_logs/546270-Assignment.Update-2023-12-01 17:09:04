@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5413',
+  'Cf-Ray' => '82ecef8dd28f1465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => ?SHIFT: 8 or 10 hour days, Mon-Fri plus call NEEDS ORTHO EXPERIENCE?Obtains a comprehensive admission history, performs physical assessment per unit policy and demonstrates integrated assessment abilities. a. Differentiates variations of normal and abnormal assessment findings. b. Analyzes and prioritizes abnormal findings. Initiates appropriate response. c. Anticipates actual or potential problems or health concerns in the hospital and/or home setting.Demonstrates ongoing assessment of patient s psychosocial, physiological and educational process per unit policy. a. Anticipates, recognizes and documents subtle changes in patient s physical and mental status. b. Integrates analysis of diagnostic information in patient assessment and care. c. Analyzes ongoing assessments to determine patient s and/or significant other s learning and discharge needs.Integrates assessment data and formulates an individualized nursing diagnosis according to the Department of Nursing s policies and procedures.Formulates an individualized plan of care based on standards of care and practice and hospital/unit policies. a. Identifies and focuses on the physical, emotional, spiritual, cultural, learning and discharge planning needs of the patient and significant other(s). b. Develops, interprets and correlates realistic goals and orders which will maintain or improve patient health status. c. Discusses and disseminates information concerning patient plan of care with members of the interdisciplinary health care team. d. Participates in ongoing discharge planning with members of the interdisciplinary health care team.Modifies individualized plan of care based on ongoing assessment and changes in patient status. a. Re-evaluates current goals and priorities for action. b. Appropriately coordinates holistic care. c. Anticipates and manages changing situations.Administers prescribed treatments and medications promptly according to hospital policies and procedures.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 546270
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 9980
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 01 2023 12:09:03
+    [daysPerWeek] => 4
+    [orderNote] => $2656 travel, $71.50 local / RS ID 137220
+
+Source=Medefis5;SourceID=262293 ;Status=Open;Association=Mercy Iowa City ;Client=Mercy Iowa City ;City=Iowa City ;State=IA ;Zip=52245 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Nursing ;Specialty=Operating Room ;Unit=Operating Room ;Shift=Days M-F, 8 or 10 hour days plus call;# of Postions=2;Type=Travel;BillRate=$105.00;OTRate=115 ;OTRules=By The Week, after 40, ;CallbackRate=105 (All Inclusive Rate) ;HolidayRate=105 (All Inclusive Rate) ;OnCallRateDescription=$5 per hour pager ;Description=?SHIFT: 8 or 10 hour days, Mon-Fri plus call NEEDS ORTHO EXPERIENCE?Obtains a comprehensive admission history, performs physical assessment per unit policy and demonstrates integrated assessment abilities. a. Differentiates variations of normal and abnormal assessment findings. b. Analyzes and prioritizes abnormal findings. Initiates appropriate response. c. Anticipates actual or potential problems or health concerns in the hospital and/or home setting.Demonstrates ongoing assessment of patient s psychosocial, physiological and educational process per unit policy. a. Anticipates, recognizes and documents subtle changes in patient s physical and mental status. b. Integrates analysis of diagnostic information in patient assessment and care. c. Analyzes ongoing assessments to determine patient s and/or significant other s learning and discharge needs.Integrates assessment data and formulates an individualized nursing diagnosis according to the Department of Nursing s policies and procedures.Formulates an individualized plan of care based on standards of care and practice and hospital/unit policies. a. Identifies and focuses on the physical, emotional, spiritual, cultural, learning and discharge planning needs of the patient and significant other(s). b. Develops, interprets and correlates realistic goals and orders which will maintain or improve patient health status. c. Discusses and disseminates information concerning patient plan of care with members of the interdisciplinary health care team. d. Participates in ongoing discharge planning with members of the interdisciplinary health care team.Modifies individualized plan of care based on ongoing assessment and changes in patient status. a. Re-evaluates current goals and priorities for action. b. Appropriately coordinates holistic care. c. Anticipates and manages changing situations.Administers prescribed treatments and medications promptly according to hospital policies and procedures.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262293;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Mercy Iowa City
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

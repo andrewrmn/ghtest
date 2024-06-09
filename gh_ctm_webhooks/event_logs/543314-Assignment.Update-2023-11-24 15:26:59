@@ -1,0 +1,456 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7655',
+  'Cf-Ray' => '82b2ac5a309b6a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Hospital:
+
+Lafayette Regional Health CenterLocation: Lexington , Missouri
+Address: 1500 State Street
+
+Unit: Med/Surg
+
+Building:
+
+Cost Center: 61021
+General InformationUnit Specifics:
+ 
+
+
+
+
+
+
+
+
+Number of Beds :
+
+25
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios: day shift is 1:5, night shift is 1:6
+
+ 
+
+
+
+
+
+
+
+
+Unit staffing description- (unit secretaries and tech availability): tech available beginning with census of 7, unit secretary from 0700-1900 with census of 8 and greater
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment:
+
+Computer, fax &amp; copy machines, telephone-desk and mobile, glucometer, Alaris IV pump, telemetry, Kangaroo enteral feeding pump, bladder scanner, Accuvein, Spot vital signs monitor, Pyxis
+
+ 
+
+
+
+
+
+
+
+
+Documentation system: Meditech
+
+ 
+
+
+
+
+
+
+
+
+Scheduling requirements: 3 12-hour nights per week
+
+ 
+
+
+
+
+
+
+
+
+Floating policy: no floating required
+
+ 
+
+
+
+
+
+
+
+
+Patient Experience requirements: previous med/surg experience, infant to geriatrics
+Hospital Specifics-
+ 
+
+
+
+
+
+
+
+
+Certifications: Joint Commission, Stroke-Level 3, STEMI-Level 3, CAP, ACR
+Hiring profile
+Requested Skill Set:
+RN is responsible for delivery of patient care through the nursing process of assessment, planning, implementation and evaluation. Also directs and guides patient/family teaching and activities of ancillary personnel while maintaining standards of professional nursing.
+
+
+Must have:
+
+
+Current State of Missouri RN license
+
+
+
+Advanced skills needed: none
+Procedures performed on unit:
+
+IV start, indwelling urinary catheter placement, NG tube placement, wound care, BIPAP management
+Certifications Required:BLS, ACLS encouraged
+
+
+
+Dress Code: (Required uniform)
+
+ 
+
+
+
+
+
+
+
+
+Nursing Scrubs, closed toed shoes
+
+Unit Guidelines/Policies:
+Please attach unit specific policies and guidelines.
+
+ 
+
+
+
+
+
+
+
+
+Available upon request
+Awards/Recognition:
+
+Please include anything that you would like prospective candidates to be aware of, such as, links to videos that feature the department, outstanding department/team awards.
+
+ 
+
+
+
+
+
+
+
+
+#1 out of 150 hospitals 1st
+quarter 2023 Inpatient Patient satisfaction
+
+ 
+
+
+
+
+
+
+
+
+#1 Missouri Critical Access facilities
+Any additional information that would entice a worker to select your unit for their assignment:
+
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc.
+ 
+
+
+
+
+
+
+
+
+We are a 25-bed critical access hospital. We are a team and family-oriented hospital that strives for excellent patient care and patient satisfaction with every interaction. Caring, friendly working environment that focuses on employees as people first.
+ General Comments
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543314
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8396
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 24 2023 10:26:14
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771983 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=LAFAYETTE REGIONAL HEALTH CENTER MO ;City=Lexington ;State=MO ;Zip=64067 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=MIDAMERICA DIVISION (48) ;Shift=7P - 7A;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=83 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:Hospital:
+
+Lafayette Regional Health CenterLocation: Lexington , Missouri
+Address: 1500 State Street
+
+Unit: Med/Surg
+
+Building:
+
+Cost Center: 61021
+General InformationUnit Specifics:
+ 
+
+
+
+
+
+
+
+
+Number of Beds :
+
+25
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios: day shift is 1:5, night shift is 1:6
+
+ 
+
+
+
+
+
+
+
+
+Unit staffing description- (unit secretaries and tech availability): tech available beginning with census of 7, unit secretary from 0700-1900 with census of 8 and greater
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment:
+
+Computer, fax &amp; copy machines, telephone-desk and mobile, glucometer, Alaris IV pump, telemetry, Kangaroo enteral feeding pump, bladder scanner, Accuvein, Spot vital signs monitor, Pyxis
+
+ 
+
+
+
+
+
+
+
+
+Documentation system: Meditech
+
+ 
+
+
+
+
+
+
+
+
+Scheduling requirements: 3 12-hour nights per week
+
+ 
+
+
+
+
+
+
+
+
+Floating policy: no floating required
+
+ 
+
+
+
+
+
+
+
+
+Patient Experience requirements: previous med/surg experience, infant to geriatrics
+Hospital Specifics-
+ 
+
+
+
+
+
+
+
+
+Certifications: Joint Commission, Stroke-Level 3, STEMI-Level 3, CAP, ACR
+Hiring profile
+Requested Skill Set:
+RN is responsible for delivery of patient care through the nursing process of assessment, planning, implementation and evaluation. Also directs and guides patient/family teaching and activities of ancillary personnel while maintaining standards of professional nursing.
+
+
+Must have:
+
+
+Current State of Missouri RN license
+
+
+
+Advanced skills needed: none
+Procedures performed on unit:
+
+IV start, indwelling urinary catheter placement, NG tube placement, wound care, BIPAP management
+Certifications Required:BLS, ACLS encouraged
+
+
+
+Dress Code: (Required uniform)
+
+ 
+
+
+
+
+
+
+
+
+Nursing Scrubs, closed toed shoes
+
+Unit Guidelines/Policies:
+Please attach unit specific policies and guidelines.
+
+ 
+
+
+
+
+
+
+
+
+Available upon request
+Awards/Recognition:
+
+Please include anything that you would like prospective candidates to be aware of, such as, links to videos that feature the department, outstanding department/team awards.
+
+ 
+
+
+
+
+
+
+
+
+#1 out of 150 hospitals 1st
+quarter 2023 Inpatient Patient satisfaction
+
+ 
+
+
+
+
+
+
+
+
+#1 Missouri Critical Access facilities
+Any additional information that would entice a worker to select your unit for their assignment:
+
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc.
+ 
+
+
+
+
+
+
+
+
+We are a 25-bed critical access hospital. We are a team and family-oriented hospital that strives for excellent patient care and patient satisfaction with every interaction. Caring, friendly working environment that focuses on employees as people first.
+ General Comments ;url=https://vendor.healthtrustws.com/positions/771983;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Lafayette Regional Health Center
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

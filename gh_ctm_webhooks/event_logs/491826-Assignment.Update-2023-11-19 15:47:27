@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1699',
+  'Cf-Ray' => '8289978184766a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Bill Rate $90
+Night Shift 7p - 730a -
+3/12 hr. shifts, rotating weekends
+13 week contract36 hours guaranteedAZ license requiredBLS2+ years of MedSurg and Rehab experienceCerner experience is preferred.
+ General CommentsPCR# 2064-032
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 491826
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-04-03
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 19 2023 10:47:10
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=704440 ;Status=Pending Approval;Association=Community Health Systems ;Client=Oro Valley Hospital ;City=Oro Valley ;State=AZ ;Zip=85755 ;Start=4/3/2023;End=7/3/2023;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit= ;Shift=19:00-07:30;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=126 ;CallbackRate=126 ;HolidayRate=135 ;Orientation=0 ;Description=Description:Bill Rate $90
+Night Shift 7p - 730a -
+3/12 hr. shifts, rotating weekends
+13 week contract36 hours guaranteedAZ license requiredBLS2+ years of MedSurg and Rehab experienceCerner experience is preferred.
+ General CommentsPCR# 2064-032 ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Northwest Medical Center of Oro Valley
+    [shiftDateEnd] => 2023-07-03
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

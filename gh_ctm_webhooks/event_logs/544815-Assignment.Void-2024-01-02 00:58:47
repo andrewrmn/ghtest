@@ -1,0 +1,69 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1712',
+  'Cf-Ray' => '83ef0e3c464a183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:CONTRACT - RN - ONCOLOGY (609) - 7:00PM-7:00AM
+NO ON CALL REQUIRED
+**MUST be CHEMO Certified and experienced with surgical patients**
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Oncol
+    [assignmentid] => 544815
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5500
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-21
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 01 2024 19:58:45
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=776440 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=ST. DAVID'S MEDICAL CENTER TX ;City=AUSTIN ;State=TX ;Zip=78705 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=RN ;Specialty=Oncology ;Unit=CENTRAL AND WEST TEXAS DIVISION (50) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$70.00;minBillRate=$70.00;OTRate=78 ;CallbackRate=78 ;HolidayRate=78 ;Orientation=0 ;Description=Description:CONTRACT - RN - ONCOLOGY (609) - 7:00PM-7:00AM
+NO ON CALL REQUIRED
+**MUST be CHEMO Certified and experienced with surgical patients**
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/776440;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => St. David's Medical Center Travel
+    [shiftDateEnd] => 2024-04-21
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

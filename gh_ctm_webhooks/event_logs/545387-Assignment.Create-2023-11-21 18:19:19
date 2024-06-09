@@ -1,0 +1,84 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '20',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7987',
+  'Cf-Ray' => '829af0b581d1493d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:***WellSpan is not currently accepting compact licenses - do not submit compact licenses. All vendors will be updated once this changes. thank you***Rate - $90/hr
+ASAP STARTSHIFT- Days 3x12hrs - w/ Every other weekend, Holidays as needed*Will float between 12 med surg inpatient units.
+*ACLS &amp; BLS required.
+*Minimum 2 years relevant inpatient nursing experience required.
+
+*Prior float experience preferred.
+*Epic experience required
+*Will care for Covid PatientsRN Checklist*Do not submit local candidates to these travel positions. Contact the PMO team for the local rate first. If candidate accepts the lower local rate, submit the profile which clearly notates candidate is local and aware local rates are lower.*As of 1/5/2022 all travelers must be fully vaccinated for COVID-19.**Any traveler declining the COVID-19 vaccine, must be approved for a medical/religious exemption by their agency
+Med/Surg Nurses provide direct and individualized nursing care to patients based on the application of scientific nursing principles. In addition to general nursing care, responsibilities of Med/Surge Nurses include (but are not limited to): ? Consults and coordinates with health care team members to assess, plan, implement and evaluate patient care plans ? Prepares and administers (orally, subcutaneously, through an IV) and records prescribed medications. Reports adverse reactions to medications or treatments in accordance with the policy regarding the administration of medications by a licensed registered nurse ? Educates patients on surgical procedures ? Records patients  medical information and vital signs ? Monitors and adjusts specialized equipment used on patients, and interprets and records electronic displays ? Initiates corrective action whenever the patient displays adverse symptomatology ? Provides bedside care for a wide variety of medical patients, including pre- and post-surgery patients ? Initiates patient education plan, as prescribed by physician. Teaches patients and significant others how to manage their illness/injury, by explaining: post-treatment home care needs ? Changes dressings, inserts catheters, starts IVs ? Prepares equipment and aids physician during examination and treatment of patient ? Responds to life-saving situations based upon nursing standards and protocol ? Participates in discharge planning ? Utilizes time management skills ? Records all care information concisely, accurately and completely, in a timely manner, in the appropriate format and on the appropriate forms ? Performs other position-related duties as assigned, depending on assignment setting.
+ General Comments*Nicotine-free facility   ALL FORMS OF NICOTINE   ASSIGNMENT WILL BE CANCELED &amp; NOT ELIGIBLE FOR REHIRE FOR 12 MONTHS IF THERE IS A POSITIVE RESULT FOR ANY REASON*
+*WELLSPAN WILL NOT CONSIDER CANDIDATES THAT HAVE HAD LICENSE SUSPENDED ANYTIME IN THE PAST - DO NOT SUBMIT THESE PROFILES*All time off and/or scheduling requests must be included in the submissionCandidates cannot be considered if they have been employed as a perm hire at any WellSpan site within the year.WellSpan requires the flu vaccine from September 7 - April 30. Please ensure your traveler is willing to obtain prior to submitting
+ No. of Positions: 3/3.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545387
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3816
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-13
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 21 2023 13:19:19
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=777246 ;Status=Open;Association=WellSpan Health ;Client=WellSpan York Hospital ;City=York ;State=PA ;Zip=17403 ;Start=12/13/2023;End=3/12/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=EXT-Allspire (525) ;Shift=- Days 3x12hrs - w/ Every other weekend, Holidays as needed;# of Postions=3;Type=Travel;BillRate=$90.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:***WellSpan is not currently accepting compact licenses - do not submit compact licenses. All vendors will be updated once this changes. thank you***Rate - $90/hr
+ASAP STARTSHIFT- Days 3x12hrs - w/ Every other weekend, Holidays as needed*Will float between 12 med surg inpatient units.
+*ACLS &amp; BLS required.
+*Minimum 2 years relevant inpatient nursing experience required.
+
+*Prior float experience preferred.
+*Epic experience required
+*Will care for Covid PatientsRN Checklist*Do not submit local candidates to these travel positions. Contact the PMO team for the local rate first. If candidate accepts the lower local rate, submit the profile which clearly notates candidate is local and aware local rates are lower.*As of 1/5/2022 all travelers must be fully vaccinated for COVID-19.**Any traveler declining the COVID-19 vaccine, must be approved for a medical/religious exemption by their agency
+Med/Surg Nurses provide direct and individualized nursing care to patients based on the application of scientific nursing principles. In addition to general nursing care, responsibilities of Med/Surge Nurses include (but are not limited to): ? Consults and coordinates with health care team members to assess, plan, implement and evaluate patient care plans ? Prepares and administers (orally, subcutaneously, through an IV) and records prescribed medications. Reports adverse reactions to medications or treatments in accordance with the policy regarding the administration of medications by a licensed registered nurse ? Educates patients on surgical procedures ? Records patients  medical information and vital signs ? Monitors and adjusts specialized equipment used on patients, and interprets and records electronic displays ? Initiates corrective action whenever the patient displays adverse symptomatology ? Provides bedside care for a wide variety of medical patients, including pre- and post-surgery patients ? Initiates patient education plan, as prescribed by physician. Teaches patients and significant others how to manage their illness/injury, by explaining: post-treatment home care needs ? Changes dressings, inserts catheters, starts IVs ? Prepares equipment and aids physician during examination and treatment of patient ? Responds to life-saving situations based upon nursing standards and protocol ? Participates in discharge planning ? Utilizes time management skills ? Records all care information concisely, accurately and completely, in a timely manner, in the appropriate format and on the appropriate forms ? Performs other position-related duties as assigned, depending on assignment setting.
+ General Comments*Nicotine-free facility   ALL FORMS OF NICOTINE   ASSIGNMENT WILL BE CANCELED &amp; NOT ELIGIBLE FOR REHIRE FOR 12 MONTHS IF THERE IS A POSITIVE RESULT FOR ANY REASON*
+*WELLSPAN WILL NOT CONSIDER CANDIDATES THAT HAVE HAD LICENSE SUSPENDED ANYTIME IN THE PAST - DO NOT SUBMIT THESE PROFILES*All time off and/or scheduling requests must be included in the submissionCandidates cannot be considered if they have been employed as a perm hire at any WellSpan site within the year.WellSpan requires the flu vaccine from September 7 - April 30. Please ensure your traveler is willing to obtain prior to submitting
+ No. of Positions: 3/3.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/777246;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Wellspan York Hospital
+    [shiftDateEnd] => 2024-03-12
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

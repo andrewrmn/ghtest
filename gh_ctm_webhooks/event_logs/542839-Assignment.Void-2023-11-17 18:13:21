@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2488',
+  'Cf-Ray' => '8279f27414681832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => SSSU/PACU Nursing care duties include floating to the entire Outpatient Services area which includes: Day surgery, Endoscopy Lab, Post Anesthesia Care Unit, Pre-operative Clinic and hospital needs of conscious sedation for special procedures. Use skills in nursing assessment to include peri-operative education and care, recognizing post anesthesia and post-operative complications.  Shift would be 4 10's.Shift to start 9-1930. Pre/post-surgical and infusion if possible.   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 542839
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 10038
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:30
+    [whenmodified] => November, 17 2023 13:13:20
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=261238 ;Status=Open;Association=Tri-State ;Client=Tri-State ;City=Clarkston ;State=WA ;Zip=99403 ;Start=11/7/2023;End=2/6/2024;Duration=91;Cert=RN ;Specialty=Operating Room / Circulate, Post Anesthesia Care Unit Nurse (PACU), Perioperative ;Unit=Operating Room / Circulate, Post Anesthesia Care Unit Nurse (PACU), Perioperative ;Shift=4 10's ;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$105.00;OTRate=115 ;OTRules=By The Week, after 40, ;HolidayRate=115 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=SSSU/PACU Nursing care duties include floating to the entire Outpatient Services area which includes: Day surgery, Endoscopy Lab, Post Anesthesia Care Unit, Pre-operative Clinic and hospital needs of conscious sedation for special procedures. Use skills in nursing assessment to include peri-operative education and care, recognizing post anesthesia and post-operative complications.  Shift would be 4 10's.Shift to start 9-1930. Pre/post-surgical and infusion if possible.   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261238;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Tri-State Memorial Hospital
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

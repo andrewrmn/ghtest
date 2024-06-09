@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2736',
+  'Cf-Ray' => '84ca459425631466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 12/10/2021 1615 CSTJennifer Carner
+                            
+                            
+                                $165.00 - Duration: 13 Weeks - Shift: Days, 36 hours/week - Weekend Rotation: Other - EMR: Cerner - 2 full years of experience in specific specialty. Cerner exp a plus. All travelers must be willing to float to sister facilities. Only float when necessary. All must be fully vaccinated with covid 19 and flu and proof of vaccinations must be in the sub packets. At least 1 Travel contract required for submittal. IVS w/Offer. Navy blue scrubs will be required.
+ RatePlan:AH-Covid 19 RN rates (8-25-2021)
+    [sitename] => giftednurses
+    [spec] => PACU
+    [assignmentid] => 326453
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9547
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-01-10
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 28 2024 10:29:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;SourceID=9611635 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Medical Center - Williamson ;City=Round Rock ;State=TX ;Zip=78665 ;Start=1/10/2022;End=4/9/2022;Duration=90;Cert=RN ;Specialty=PACU ;Unit=SMCW Recovery Room ;Shift=AM 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$165.00;minBillRate=$165.00;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=12/10/2021 1615 CSTJennifer Carner
+                            
+                            
+                                $165.00 - Duration: 13 Weeks - Shift: Days, 36 hours/week - Weekend Rotation: Other - EMR: Cerner - 2 full years of experience in specific specialty. Cerner exp a plus. All travelers must be willing to float to sister facilities. Only float when necessary. All must be fully vaccinated with covid 19 and flu and proof of vaccinations must be in the sub packets. At least 1 Travel contract required for submittal. IVS w/Offer. Navy blue scrubs will be required.
+ RatePlan:AH-Covid 19 RN rates (8-25-2021) ;url=https://automated.shiftwise.net/esp/order.aspx?order_id=DD4C61653A073D7FE7A2FC22D71A6FD3;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 165
+    [facilityName] => Ascension Seton Williamson Hospital
+    [shiftDateEnd] => 2022-04-09
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

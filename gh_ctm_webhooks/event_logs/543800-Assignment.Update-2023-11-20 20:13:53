@@ -1,0 +1,112 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3782',
+  'Cf-Ray' => '82935b27608f183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:NEEDED: 3 Day Shifts - 7a-7:30p -
+ 3-12's
+Must start within 2wks of offer acceptance
+NEEDS TO HAVE CHARGE NURSE EXPERIENCE
+$85 Bill Rate
+REQUIREMENTS: BLS, ACLS, PALS, TNCC
+
+
+The Registered Nurse holds shift accountability for providing care to Emergency Room patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care of the patient in the Emergency Department; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care
+ General CommentsMust be willing to float
+
+             Number of beds in your facility?
+38 beds
+
+             Years of experience REQUIRED?
+5yrs
+
+EMR for your facility:
+ Cerner
+
+             Scrub colors / dress code:
+Black
+
+Not Trauma RatedStroke ReceivingSTEMI Receiving
+ No. of Positions: 1/2.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 543800
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2354
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 20 2023 15:13:38
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=766110 ;Status=Open;Association=Community Health Systems ;Client=Northwest Medical Center ;City=Tucson ;State=AZ ;Zip=85741 ;Start=11/6/2023;End=2/5/2024;Duration=91;Cert=RN ;Specialty=Emergency Dept ;Unit=EXT-Other (911) ;Shift=07:00-19:30;# of Postions=1;Type=Travel;BillRate=$85.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:"On Hold" - Max Submittals Reached
+ 11/14/23
+NEEDED: 3 Day Shifts - 7a-7:30p -
+ 3-12's
+Must start within 2wks of offer acceptance
+NEEDS TO HAVE CHARGE NURSE EXPERIENCE
+$85 Bill Rate
+REQUIREMENTS: BLS, ACLS, PALS, TNCC
+
+
+The Registered Nurse holds shift accountability for providing care to Emergency Room patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care of the patient in the Emergency Department; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care
+ General CommentsMust be willing to float
+
+             Number of beds in your facility?
+38 beds
+
+             Years of experience REQUIRED?
+5yrs
+
+EMR for your facility:
+ Cerner
+
+             Scrub colors / dress code:
+Black
+
+Not Trauma RatedStroke ReceivingSTEMI Receiving
+ No. of Positions: 1/2.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/766110;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Northwest Medical Center
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

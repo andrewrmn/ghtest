@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '874',
+  'Cf-Ray' => '82936b1816d81842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 1.3% margin approved by A.Ramirez
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 544875
+    [workerID] => 202629
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 40
+    [facilityID] => 10745
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-19
+    [workerLastName] => Conley
+    [shiftNum] => 4
+    [workerFirstName] => John
+    [cert] => RN
+    [floorDesc] => Cardiac
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 20 2023 15:24:45
+    [daysPerWeek] => 4
+    [orderNote] => EXT-FTK: GTC
+NoPOT
+BR:$85
+    [guaranteedMinimum] => 
+    [workerEmail] => johnconley13@hotmail.com
+    [HoursPerWeekOT] => 8
+    [offContractRate] => 85
+    [facilityName] => Pikeville Medical Center
+    [shiftDateEnd] => 2024-01-13
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

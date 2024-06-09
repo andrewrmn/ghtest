@@ -1,0 +1,275 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8209',
+  'Cf-Ray' => '8272a8d2d4ff6a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Traveler shall be scheduled in accordance with facility policy and is expected to work every other weekend and Holidays in rotation with Hospital employees
+
+
+1+
+ experience acceptable
+
+
+
+
+Hospital:
+ Trident Medical Center
+
+Location: 
+
+Address:9330 Medical Plaza Drive, North Charleston , SC 
+
+Unit: Operating Room
+
+Building: Main
+
+
+
+
+General Information
+
+Unit Specifics: 
+Number of Beds :17Patient Ratios :1:1Unit staffing description- (unit secretaries and tech availability) :1RN/1CST per room, turn over staff, 1 charge RN, 4:1 Anesthesia coverage. Inhouse night shift.Type of equipment :XI Robot, advanced spine, Mako joint robot,Documentation system:MeditechScheduling requirements:3 call shifts(12hr) x 4 weeks. Days and nights availableFloating policy:none requiredPatient Experience requirements:AIDET
+Hospital Specifics-
+Certifications:Total Joint, Heart center, Level 2 trauma , Stroke, Cardiac Center recognition
+Hiring profile
+
+Requested Skill Set: Circulating RN in general OR to include
+ Ortho, Neuro, Plastics, Vascular, and Trauma and Robotic obgyn and Urology cases
+
+
+
+
+Must have: 
+
+
+
+
+
+
+
+Advanced skills needed: General circulating knowledge to include positioning, prepping and facilitating cases mentioned in above surgical areas.
+
+
+
+
+
+
+
+Procedures performed on unit: 
+Surgical procedures in the following areas: General, trauma, Ortho(trauma and elective joints/sports medicine)Urology, GYN, XI robotic utilization, plastics, Neuro(complex crani and spine services) Cardio/thoracic dedicated staff.9
+
+
+
+
+
+
+
+Certifications Required: BLS, CST
+
+
+
+
+
+Dress Code: (Required uniform)Scrubs hospital provided
+
+
+Unit Guidelines/Policies: Please attach unit specific policies and guidelines.
+
+
+Awards/Recognition: 
+
+
+
+Any additional information that would entice a worker to select your unit for their assignment: 
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc.
+ General CommentsTrident Medical Center is a 313-bed HCA Healthcare facility in Charleston, South Carolina. The hospital is well-known in the community for its 24-hour
+emergency room
+and
+Level II Trauma Center.
+
+
+The Center features a wide array of specialized services, including the
+Joseph M. Still Burn Clinic, the
+Trident Breast Care Center, and the
+South Carolina Institute for Robotic Surgery. The quality of these services have earned the facility many
+awards and accreditations, such as a
+Chest Pain Center
+accreditation by the American College of Cardiology and a
+Stroke Center
+accreditation from The Joint Commission. Staff members
+say
+the supportive management, emphasis on teamwork, and excellent work-life balance are among the top reasons to work at Trident Medical Center.
+
+The
+historic
+city of Charleston is home to many museums and monuments, including the
+Nathaniel-Russell House Museum,
+Fort Sumter National Monument, and
+Magnolia Plantation &amp; Gardens. This coastal city is also rich in aquatic activities, like
+boat tours
+and
+kayak adventures. Whether you're looking for a city bursting with southern charm or to soak up the sun at the
+beach, Charleston has it all.
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 541236
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5916
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-20
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 16 2023 15:59:44
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=755829 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=TRIDENT REGIONAL MEDICAL CTR SC ;City=Charleston ;State=SC ;Zip=29406 ;Start=10/16/2023;End=1/15/2024;Duration=91;Cert=CST/ORT ;Specialty=OR ;Unit=SOUTH ATLANTIC DIVISION (23) ;Shift=7:00AM - 5:00PM;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=98 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Traveler shall be scheduled in accordance with facility policy and is expected to work every other weekend and Holidays in rotation with Hospital employees
+
+
+1+
+ experience acceptable
+
+
+
+
+Hospital:
+ Trident Medical Center
+
+Location: 
+
+Address:9330 Medical Plaza Drive, North Charleston , SC 
+
+Unit: Operating Room
+
+Building: Main
+
+
+
+
+General Information
+
+Unit Specifics: 
+Number of Beds :17Patient Ratios :1:1Unit staffing description- (unit secretaries and tech availability) :1RN/1CST per room, turn over staff, 1 charge RN, 4:1 Anesthesia coverage. Inhouse night shift.Type of equipment :XI Robot, advanced spine, Mako joint robot,Documentation system:MeditechScheduling requirements:3 call shifts(12hr) x 4 weeks. Days and nights availableFloating policy:none requiredPatient Experience requirements:AIDET
+Hospital Specifics-
+Certifications:Total Joint, Heart center, Level 2 trauma , Stroke, Cardiac Center recognition
+Hiring profile
+
+Requested Skill Set: Circulating RN in general OR to include
+ Ortho, Neuro, Plastics, Vascular, and Trauma and Robotic obgyn and Urology cases
+
+
+
+
+Must have: 
+
+
+
+
+
+
+
+Advanced skills needed: General circulating knowledge to include positioning, prepping and facilitating cases mentioned in above surgical areas.
+
+
+
+
+
+
+
+Procedures performed on unit: 
+Surgical procedures in the following areas: General, trauma, Ortho(trauma and elective joints/sports medicine)Urology, GYN, XI robotic utilization, plastics, Neuro(complex crani and spine services) Cardio/thoracic dedicated staff.9
+
+
+
+
+
+
+
+Certifications Required: BLS, CST
+
+
+
+
+
+Dress Code: (Required uniform)Scrubs hospital provided
+
+
+Unit Guidelines/Policies: Please attach unit specific policies and guidelines.
+
+
+Awards/Recognition: 
+
+
+
+Any additional information that would entice a worker to select your unit for their assignment: 
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc.
+ General CommentsTrident Medical Center is a 313-bed HCA Healthcare facility in Charleston, South Carolina. The hospital is well-known in the community for its 24-hour
+emergency room
+and
+Level II Trauma Center.
+
+
+The Center features a wide array of specialized services, including the
+Joseph M. Still Burn Clinic, the
+Trident Breast Care Center, and the
+South Carolina Institute for Robotic Surgery. The quality of these services have earned the facility many
+awards and accreditations, such as a
+Chest Pain Center
+accreditation by the American College of Cardiology and a
+Stroke Center
+accreditation from The Joint Commission. Staff members
+say
+the supportive management, emphasis on teamwork, and excellent work-life balance are among the top reasons to work at Trident Medical Center.
+
+The
+historic
+city of Charleston is home to many museums and monuments, including the
+Nathaniel-Russell House Museum,
+Fort Sumter National Monument, and
+Magnolia Plantation &amp; Gardens. This coastal city is also rich in aquatic activities, like
+boat tours
+and
+kayak adventures. Whether you're looking for a city bursting with southern charm or to soak up the sun at the
+beach, Charleston has it all. ;url=https://vendor.healthtrustws.com/positions/755829;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Trident Medical Center
+    [shiftDateEnd] => 2024-02-19
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

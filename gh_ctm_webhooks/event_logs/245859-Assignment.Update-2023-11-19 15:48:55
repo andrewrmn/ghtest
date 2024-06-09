@@ -1,0 +1,76 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5253',
+  'Cf-Ray' => '828999a2a0af4951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+The Registered Nurse holds shift accountability for providing care to Emergency Room patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care of the patient in the Emergency Department; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient careparseGeneralComments Comments
+Approved BR: $95/hr
+Travel RN - ER
+Start Date: ASAP
+Duration: 13 Weeks
+Shift: Days (7a-7p)
+Requirements: 1 year ER experience, Potential to float as needed
+Reason for opening (special, internal vacancy, leave coverage) Vacancies and LOAs             *******************************************************************************              How long has it been open?              Will position be required to float to other units? Potentially floats according to competencies and unit needs             Number of beds in your facility? 126             Years of experience required? 1 year of ED experience             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) Shawn Lewis, Director (shawn_lewis@cedarparkregional.com)             Willing to review clinicians with pending state license?              Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift) 3 12 hour shifts, day shift    EMR for your facility:              Scrub colors / dress code: Navy Blue    Parking location:  Contact: CHS MSP HOUSE Resource Manager: Christopher Stearns
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 245859
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-08-23
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:48:41
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=490618 ;Status=Open;Association=CHS ;Client=Cedar Park Regional Medical Center ;City=Cedar Park ;State=TX ;Zip=78613 ;Start=7/26/2021;End=10/25/2021;Duration=91;Cert=Registered Nurse (RN) ;Specialty=Emergency Dept ;Unit=EMERGENCY SERVICES ;Shift=7:00 AM - 7:00 PM;# of Postions=3;Type=Travel;BillRate=$64.55;Description=Position Description
+The Registered Nurse holds shift accountability for providing care to Emergency Room patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care of the patient in the Emergency Department; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient careparseGeneralComments Comments
+Approved BR: $95/hr
+Travel RN - ER
+Start Date: ASAP
+Duration: 13 Weeks
+Shift: Days (7a-7p)
+Requirements: 1 year ER experience, Potential to float as needed
+Reason for opening (special, internal vacancy, leave coverage) Vacancies and LOAs             *******************************************************************************              How long has it been open?              Will position be required to float to other units? Potentially floats according to competencies and unit needs             Number of beds in your facility? 126             Years of experience required? 1 year of ED experience             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) Shawn Lewis, Director (shawn_lewis@cedarparkregional.com)             Willing to review clinicians with pending state license?              Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift) 3 12 hour shifts, day shift    EMR for your facility:              Scrub colors / dress code: Navy Blue    Parking location:  Contact: CHS MSP HOUSE Resource Manager: Christopher Stearns ;Buyer=CHS MSP HOUSE ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=490618#!/position/manage/490618;VMSPositionType=Travel InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 64.55
+    [facilityName] => Cedar Park Regional Medical Center
+    [shiftDateEnd] => 2021-11-22
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

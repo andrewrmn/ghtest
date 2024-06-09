@@ -1,0 +1,118 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3839',
+  'Cf-Ray' => '82d3ffd350846a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:THIS POSITION IS AUTO-OFFERUnit:
+Labor and Birth
+- Mercy Hospital Oklahoma City
+Specialty: L&amp;D
+Role/Title: RN
+Shift: Variable 3x12
+Guaranteed Hours: 36 or 48 (candidate choice)
+Assignment Length: 8-26 weeksRequired Licensure:
+Current RN
+License (Meets the criteria to be eligible for licensure in state of Oklahoma or currently licensed in the state of Oklahoma)
+Required Certifications:
+BLS from AHA only, C-EFM, NRP
+Preferred Certifications: ACLS and PALS from AHA only
+Required Experience:
+2 year L&amp;D
+Must be willing to float when neededMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsThe Registered Nurse, utilizing theoretical concepts as a basis for decisions in practice will assess, plan, implement and evaluate individualized nursing care in accordance with standards of nursing practice.
+Approved Assignment Details:Flexible contract
+length
+- 8-26 weeks
+Flexible Guaranteed Hours - 36 or 48 hours
+Blocked Scheduling to include every other weekend or every weekend
+RTO of 5 days or less, must make up the week on the back end
+
+Holiday RTO   approved based on availability
+
+
+
+If requesting must be listed on Mercy Submission Form
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 546184
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3231
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-26
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 28 2023 11:31:06
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=778442 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Oklahoma City ;City=Oklahoma City ;State=OK ;Zip=73120 ;Start=12/26/2023;End=3/26/2024;Duration=91;Cert=RN ;Specialty=L&D ;Unit=Mercy ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:THIS POSITION IS AUTO-OFFERUnit:
+Labor and Birth
+- Mercy Hospital Oklahoma City
+Specialty: L&amp;D
+Role/Title: RN
+Shift: Variable 3x12
+Guaranteed Hours: 36 or 48 (candidate choice)
+Assignment Length: 8-26 weeksRequired Licensure:
+Current RN
+License (Meets the criteria to be eligible for licensure in state of Oklahoma or currently licensed in the state of Oklahoma)
+Required Certifications:
+BLS from AHA only, C-EFM, NRP
+Preferred Certifications: ACLS and PALS from AHA only
+Required Experience:
+2 year L&amp;D
+Must be willing to float when neededMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsThe Registered Nurse, utilizing theoretical concepts as a basis for decisions in practice will assess, plan, implement and evaluate individualized nursing care in accordance with standards of nursing practice.
+Approved Assignment Details:Flexible contract
+length
+- 8-26 weeks
+Flexible Guaranteed Hours - 36 or 48 hours
+Blocked Scheduling to include every other weekend or every weekend
+RTO of 5 days or less, must make up the week on the back end
+
+Holiday RTO   approved based on availability
+
+
+
+If requesting must be listed on Mercy Submission Form
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/778442;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Mercy Hospital Oklahoma City TRAVEL
+    [shiftDateEnd] => 2024-03-26
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

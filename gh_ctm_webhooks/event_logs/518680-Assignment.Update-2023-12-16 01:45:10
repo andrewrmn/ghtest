@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '906',
+  'Cf-Ray' => '83633ed052f51830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Last shift worked was 11-18-23
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 518680
+    [workerID] => 127765
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13727
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-08-27
+    [workerLastName] => Horn
+    [shiftNum] => 4
+    [workerFirstName] => Jessica
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 15 2023 20:45:09
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$95lRS:132009
+OnCl:P$3/B$5lFTK:API
+    [guaranteedMinimum] => 
+    [workerEmail] => Jhorn@barnpharmacy.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Anderson Regional Medical Center TRAVEL MEDEFIS
+    [shiftDateEnd] => 2023-11-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

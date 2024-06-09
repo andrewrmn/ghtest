@@ -1,0 +1,186 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2729',
+  'Cf-Ray' => '837a363ec7e223b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name
+
+Cardiac Telemetry-RN-Mercy South
+
+Organization
+
+Mercy
+
+Facility
+
+Mercy Hospital South
+
+Unit
+
+Telemetry Unit
+
+Cost Center
+
+15-446100
+
+
+
+
+
+
+Shift
+
+day
+
+Shifts per week
+
+3
+
+Hours per shift
+
+12
+EXPERIENCE
+Years of Experience
+
+One Year Plus
+
+Specialties
+
+Tele
+-
+required
+
+
+Technologies
+CERTIFICATIONS
+Certifications
+
+BLS
+-
+required
+ACLS
+-
+required
+
+DESCRIPTION
+Unit: Cardiac Telemetry  Speciality: Tele Location: East Facility: Mercy South Shift: 3x12 [36 hours]
+ General Comments
+ No. of Positions: 5/5.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 546023
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15624
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 18 2023 15:38:51
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=778265 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital South ;City=Saint Louis ;State=MO ;Zip=63128 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=Mercy ;Shift=07:00-19:00;# of Postions=2;Type=Travel;BillRate=$80.00;minBillRate=$80.00;OTRate=88 ;CallbackRate=88 ;HolidayRate=88 ;Orientation=0 ;Description=Description:Name
+
+Cardiac Telemetry-RN-Mercy South
+
+Organization
+
+Mercy
+
+Facility
+
+Mercy Hospital South
+
+Unit
+
+Telemetry Unit
+
+Cost Center
+
+15-446100
+
+
+
+
+
+
+Shift
+
+day
+
+Shifts per week
+
+3
+
+Hours per shift
+
+12
+EXPERIENCE
+Years of Experience
+
+One Year Plus
+
+Specialties
+
+Tele
+-
+required
+
+
+Technologies
+CERTIFICATIONS
+Certifications
+
+BLS
+-
+required
+ACLS
+-
+required
+
+DESCRIPTION
+Unit: Cardiac Telemetry  Speciality: Tele Location: East Facility: Mercy South Shift: 3x12 [36 hours]
+ General Comments
+ No. of Positions: 2/5.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/778265;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital South - Travel
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1778',
+  'Cf-Ray' => '8307112104ff6a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Behavioral Health RN - varied shifts rotating day/night.   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Psych
+    [assignmentid] => 541381
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5758
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 04 2023 16:15:48
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=260681 ;Status=Open;Association=Regional West Medical Center ;Client=Regional West Medical Center ;City=Scottsbluff ;State=NE ;Zip=69361 ;Start=10/30/2023;End=1/29/2024;Duration=91;Cert=Nursing ;Specialty=Psychiatric Geriatric, Psychiatric Adolescent, Psychiatric Adult ;Unit=Psychiatric Geriatric, Psychiatric Adolescent, Psychiatric Adult ;Shift=Rotating Days/Nights varied shifts including weekends;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$100.00;OTRate=110 ;OTRules=By The Week, after 40, ;CallbackRate=110 (All Inclusive Rate + $10) ;HolidayRate=110 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=Behavioral Health RN - varied shifts rotating day/night.   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260681;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Regional West Medical Center Travel
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

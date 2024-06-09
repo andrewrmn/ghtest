@@ -1,0 +1,118 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3457',
+  'Cf-Ray' => '8289996940d523b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+OPERATING ROOM RN   8 WEEK CONTRACT
+ 
+** 8 Week contract with the potential to extend, based on need **
+ 
+RATE
+$65.00 Local (< 50 miles from facility)
+$70.00 Travel (> 50 miles from facility)
+ 
+Minimum 3 years of operating room general
+surgery procedural experience REQUIRED. Ortho and robotic experience strongly
+preferred
+ 
+- Day Shift 6:30 am   3:00 pm PLUS
+CALL
+- Must have Texas RN license (or compact license) with no
+restrictions
+- American Heart Association (AHA) approved Basic Life Support
+(BLS) and Advanced Cardiac Life Support (ACLS) required. Pediatric Advanced
+Life Support (PALS) preferred
+ 
+IMMEDIATE AVAILABILITY REQUIRED
+ 
+** All submissions MUST
+include the bill rate, skills checklist and a minimum of 2 references to be
+considered **parseGeneralComments Comments
+.bd_title
+                                  {
+                                         font-weight: bold;
+                                  } Contact: CHS MSP HOUSE Resource Manager: Suhani Desai OT Rate:Custom Rate
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 108091
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 8
+    [facilityID] => 8782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-03-23
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 19 2023 10:48:41
+    [daysPerWeek] => 1
+    [orderNote] => Source=Parallon;SourceID=343573 ;Status=Open;Client=Cedar Park Regional Medical Center ;City=Cedar Park ;State=TX ;Zip=78613 ;Start=3/23/2020;End=5/18/2020;Duration=56;Cert=(RN) ;Specialty=Operating Room (OR) ;Unit=OPERATING ROOM ;Shift=6:30 AM - 3:00 PM;# of Postions=1;Guaranteed Hours=?;Type=Travel;OTRate=?/$98.00 ;OTRules=1.00x (OT), 1.00x (DT) ;CallbackRate=?/$98.00 ;HolidayRate=?/$105.00 ;Description=Position Description
+OPERATING ROOM RN   8 WEEK CONTRACT
+ 
+** 8 Week contract with the potential to extend, based on need **
+ 
+RATE
+$65.00 Local (< 50 miles from facility)
+$70.00 Travel (> 50 miles from facility)
+ 
+Minimum 3 years of operating room general
+surgery procedural experience REQUIRED. Ortho and robotic experience strongly
+preferred
+ 
+- Day Shift 6:30 am   3:00 pm PLUS
+CALL
+- Must have Texas RN license (or compact license) with no
+restrictions
+- American Heart Association (AHA) approved Basic Life Support
+(BLS) and Advanced Cardiac Life Support (ACLS) required. Pediatric Advanced
+Life Support (PALS) preferred
+ 
+IMMEDIATE AVAILABILITY REQUIRED
+ 
+** All submissions MUST
+include the bill rate, skills checklist and a minimum of 2 references to be
+considered **parseGeneralComments Comments
+.bd_title
+                                  {
+                                         font-weight: bold;
+                                  } Contact: CHS MSP HOUSE Resource Manager: Suhani Desai OT Rate:Custom Rate ;Buyer=CHS MSP HOUSE ;url=https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=343573&null;VMSPositionType=Travel maxPayRate=$70.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Cedar Park Regional Medical Center
+    [shiftDateEnd] => 2020-05-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

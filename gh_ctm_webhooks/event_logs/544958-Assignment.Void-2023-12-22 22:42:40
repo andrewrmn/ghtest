@@ -1,0 +1,75 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2053',
+  'Cf-Ray' => '839be117d77c77bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 6 North is a unique floor whose primary focus is neurological patients. Our type of patients consist of stroke, seizure, neurosurgery, brain tumors, traumatic brain injury, and spinal cord injury. Our team is enthusiastic about our patients and the care that is provided.
+
+
+**NIHSS is required**
+
+ Day Shift 7a-7p
+36 hours/week
+every other weekend requirement
+    [sitename] => giftednurses
+    [spec] => Neuro
+    [assignmentid] => 544958
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15840
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 22 2023 17:42:39
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48546 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne Des Moines Medical Center ;City=Des Moines ;State=IA ;Zip=50314 ;Start=12/19/2023;End=3/16/2024;Duration=88;Cert=RN Step Down ;Specialty=6 North Neurology ;Unit=*Registered Nurse-Stepdown-6 North Neurology/DAYS ;Shift=7a7p;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=117.00 ;ChargeRate=93.00 ;CallbackRate=117.00 ;HolidayRate=117.00 ;Description=6 North is a unique floor whose primary focus is neurological patients. Our type of patients consist of stroke, seizure, neurosurgery, brain tumors, traumatic brain injury, and spinal cord injury. Our team is enthusiastic about our patients and the care that is provided.
+
+
+**NIHSS is required**
+
+ Day Shift 7a-7p
+36 hours/week
+every other weekend requirement ;localRate=$76.50;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => MercyOne Des Moines Medical Center (Trinity) TRAVEL
+    [shiftDateEnd] => 2024-04-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,192 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '24',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '14713',
+  'Cf-Ray' => '82a35b0ed7f8494d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:Provide ongoing support and expertise through comprehensive assessment, planning, implementation and overall evaluation of individual patient needs. Enhance the quality of patient management and satisfaction, to promote continuity of care.
+Complete Description:Prefer CCM or ACM
+EPIC Required
+
+Job Summary:
+The purpose of this position is to provide ongoing support and expertise through comprehensive assessment,
+planning, implementation and overall evaluation of individual patient needs. The overall goal of the position is to
+enhance the quality of patient management and satisfaction, to promote continuity of care and cost effectiveness through the integrating and functions of case management, utilization review and discharge planning. The Care Manager must be highly organized professional with great attention to detail, adaptable to frequent change, and compliant with regulatory and departmental guidelines and policies.
+
+1. Identify Cases & Prioritize Day - Review work list to prioritize patients and identify new admissions. Conduct and document assessment and a plan of care in Epic  per departmental guidelines. Participate in Daily Care
+Management Touchpoint per established protocols. Consult to SW per established criteria. If indicated, communicate with Care Management Assistant (CMA) to share priorities.
+2. CAPP Meeting - Attend and actively participate in CAPP meetings for assigned units to provide and receive
+information on patients  progression. Alert care team to concerns that could impact anticipated discharge of the
+patient and any care that will assist with discharge readiness. Modify discharge plan based on information shared at the meeting. Assist with identification of the expected discharge date (EDD). Complete follow-up from CAPP as appropriate. As necessary meet with the Utilization Manager (UM) and SW after the meeting to discuss updates and action items.
+3. Complex Care Meeting - Attend weekly Complex Care Meeting (CCM). Present on patients during CCM and
+collaborate to problem solve issues with complex patients and identify trends. Formulate potential solutions with
+Utilization Manager and Social Worker and continuously monitor cases/follow up on all action items. Proactively
+identify high risk cases that need to be escalated to the list that are not scheduled for discussion that week.
+Complete CCM follow-up after the meeting as assigned.
+4. Active Consults - Discuss with appropriate members of the multidisciplinary team when there are barriers to
+discharge and psychosocial concerns impacting progression of care or readmission risk. Coordinate family meetings, as necessary, to support the progression of care. Provide education on community resources, support/educational groups, and any other appropriate resources to patient, family, and care team. Educate and/or coordinate referrals to community resources and post-acute providers as necessary.
+5. Care Progression and Transition Planning - Communicate medical milestones for transition with the patient/family. Identify patients with barriers to discharge based on experience, Communication and Patient Planning (CAPP) Meetings and/or Complex Care Meeting (CCM). Monitor all observation patients throughout the day to ensure appropriate progression of care. Identify patient s readiness to discharge based on discussions with the patient/family/care team on an ongoing basis. Assess the discharge plan to determine needs post-discharge and communicate to patient/family/care team on an ongoing basis. Identify required authorization for post-discharge services and refer to the appropriate post-discharge service provider. Participate in medication resource management for non-resourced patients, as needed. Verify patient s understanding/agreement of discharge plan. Refer administrative tasks (e.g., faxing, form processing) to Care Management Assistant. Consult Social Worker and/or Utilization Manager per established departmental protocol. Maintain knowledge of patient needs and concerns
+through scheduled touch points and review of documentation . Escalate urgent or complex cases to appropriate Care Management leadership according to established departmental escalation process.
+6. Professionalism - Demonstrates flexibility and professionalism in a dynamic environment with frequent re-ordering of priorities and assignments. Uses critical thinking skills to evaluate and prioritize rapidly changing demands, working collaboratively to best accomplish the team s mission.
+7. Documentation - Documents activities, events, and information per standards in established software systems in a timely, accurate, and complete manner. Identifies Avoidable Delays and documents causes for delay consistent with department standards.
+8. Confidentiality - Uses established policies and processes to handle, discuss, and transmit protected health
+information in manner consistent with privacy and compliance expectations and policies.
+9. Compliance and Performance Improvement - Uses departmental guidelines and job aids to perform work in an accurate, compliant manner consistent with known and written expectations and work rules. Participates in process improvement initiatives, which may include helping with the creation/revision of guidelines, training tools, and job aids. Maintains current knowledge of institutional and departmental expectations for job performance through attendance at meetings, review of meeting minutes and guidance documents, and independent review of institutional and departmental policies and guidelines as needed. May assist with training/pre-cepting as needed as assigned.
+
+Education Requirements:
+Graduation from a state-accredited school of professional nursing.
+
+Licensure/Certification Requirements:
+Licensed to practice as a Registered Nurse in the state of North Carolina.
+
+Professional Experience Requirements:
+Two (2) years of health care experience as a Registered Nurse.
+
+Knowledge, Skills, and Abilities Requirements:
+Strong assessment and critical thinking skills
+Requisition Comments:Client Offers! Candidates will be reviewed/interviewed by MGR
+
+Prefer CCM or ACM
+
+EPIC Required
+
+Covering: Med/Surg, Oncology, Cardiology and Trauma
+
+Need 2 years of Care/Case Management experience. 
+
+Acute Care management experience
+Scheduling Details:M-F:  Days
+40 hours / week
+8:30-5:00
+
+No call
+
+up to 3 weekend shifts in 3 months; 1-2 holidays required
+
+Covering: Med/Surg, Oncology, Cardiology and Trauma
+
+At least two years of nursing experience in hospital setting
+    [sitename] => giftednurses
+    [spec] => Case Mgmt
+    [assignmentid] => 545670
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13245
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 22 2023 13:49:36
+    [daysPerWeek] => 5
+    [orderNote] => Source=PeopleFluent;SourceID=725288 ;Status=Open;Association=Care Management - Social Work, 100 - 810505 - 1000 ;Client=UNC Health ;Start=12/11/2023;End=3/9/2024;Duration=89;Cert=RN ;Specialty=RN - Care Manager ;Unit=RN - Care Manager - Care Management - Surgery - Days - UNC Medical Center ;Shift=5x8.0 M-F:  Days
+40 hours / week
+8:30-5:00
+
+No call
+
+up to 3 weekend shifts in 3 months; 1-2 holidays required
+
+Covering: Med/Surg, Oncology, Cardiology and Trauma
+
+At least two years of nursing experience in hospital setting;# of Postions=3;Type=Travel;BillRate=$70.00;Description=Short Description:Provide ongoing support and expertise through comprehensive assessment, planning, implementation and overall evaluation of individual patient needs. Enhance the quality of patient management and satisfaction, to promote continuity of care.
+Complete Description:Prefer CCM or ACM
+EPIC Required
+
+Job Summary:
+The purpose of this position is to provide ongoing support and expertise through comprehensive assessment,
+planning, implementation and overall evaluation of individual patient needs. The overall goal of the position is to
+enhance the quality of patient management and satisfaction, to promote continuity of care and cost effectiveness through the integrating and functions of case management, utilization review and discharge planning. The Care Manager must be highly organized professional with great attention to detail, adaptable to frequent change, and compliant with regulatory and departmental guidelines and policies.
+
+1. Identify Cases & Prioritize Day - Review work list to prioritize patients and identify new admissions. Conduct and document assessment and a plan of care in Epic  per departmental guidelines. Participate in Daily Care
+Management Touchpoint per established protocols. Consult to SW per established criteria. If indicated, communicate with Care Management Assistant (CMA) to share priorities.
+2. CAPP Meeting - Attend and actively participate in CAPP meetings for assigned units to provide and receive
+information on patients  progression. Alert care team to concerns that could impact anticipated discharge of the
+patient and any care that will assist with discharge readiness. Modify discharge plan based on information shared at the meeting. Assist with identification of the expected discharge date (EDD). Complete follow-up from CAPP as appropriate. As necessary meet with the Utilization Manager (UM) and SW after the meeting to discuss updates and action items.
+3. Complex Care Meeting - Attend weekly Complex Care Meeting (CCM). Present on patients during CCM and
+collaborate to problem solve issues with complex patients and identify trends. Formulate potential solutions with
+Utilization Manager and Social Worker and continuously monitor cases/follow up on all action items. Proactively
+identify high risk cases that need to be escalated to the list that are not scheduled for discussion that week.
+Complete CCM follow-up after the meeting as assigned.
+4. Active Consults - Discuss with appropriate members of the multidisciplinary team when there are barriers to
+discharge and psychosocial concerns impacting progression of care or readmission risk. Coordinate family meetings, as necessary, to support the progression of care. Provide education on community resources, support/educational groups, and any other appropriate resources to patient, family, and care team. Educate and/or coordinate referrals to community resources and post-acute providers as necessary.
+5. Care Progression and Transition Planning - Communicate medical milestones for transition with the patient/family. Identify patients with barriers to discharge based on experience, Communication and Patient Planning (CAPP) Meetings and/or Complex Care Meeting (CCM). Monitor all observation patients throughout the day to ensure appropriate progression of care. Identify patient s readiness to discharge based on discussions with the patient/family/care team on an ongoing basis. Assess the discharge plan to determine needs post-discharge and communicate to patient/family/care team on an ongoing basis. Identify required authorization for post-discharge services and refer to the appropriate post-discharge service provider. Participate in medication resource management for non-resourced patients, as needed. Verify patient s understanding/agreement of discharge plan. Refer administrative tasks (e.g., faxing, form processing) to Care Management Assistant. Consult Social Worker and/or Utilization Manager per established departmental protocol. Maintain knowledge of patient needs and concerns
+through scheduled touch points and review of documentation . Escalate urgent or complex cases to appropriate Care Management leadership according to established departmental escalation process.
+6. Professionalism - Demonstrates flexibility and professionalism in a dynamic environment with frequent re-ordering of priorities and assignments. Uses critical thinking skills to evaluate and prioritize rapidly changing demands, working collaboratively to best accomplish the team s mission.
+7. Documentation - Documents activities, events, and information per standards in established software systems in a timely, accurate, and complete manner. Identifies Avoidable Delays and documents causes for delay consistent with department standards.
+8. Confidentiality - Uses established policies and processes to handle, discuss, and transmit protected health
+information in manner consistent with privacy and compliance expectations and policies.
+9. Compliance and Performance Improvement - Uses departmental guidelines and job aids to perform work in an accurate, compliant manner consistent with known and written expectations and work rules. Participates in process improvement initiatives, which may include helping with the creation/revision of guidelines, training tools, and job aids. Maintains current knowledge of institutional and departmental expectations for job performance through attendance at meetings, review of meeting minutes and guidance documents, and independent review of institutional and departmental policies and guidelines as needed. May assist with training/pre-cepting as needed as assigned.
+
+Education Requirements:
+Graduation from a state-accredited school of professional nursing.
+
+Licensure/Certification Requirements:
+Licensed to practice as a Registered Nurse in the state of North Carolina.
+
+Professional Experience Requirements:
+Two (2) years of health care experience as a Registered Nurse.
+
+Knowledge, Skills, and Abilities Requirements:
+Strong assessment and critical thinking skills
+Requisition Comments:Client Offers! Candidates will be reviewed/interviewed by MGR
+
+Prefer CCM or ACM
+
+EPIC Required
+
+Covering: Med/Surg, Oncology, Cardiology and Trauma
+
+Need 2 years of Care/Case Management experience. 
+
+Acute Care management experience
+Scheduling Details:M-F:  Days
+40 hours / week
+8:30-5:00
+
+No call
+
+up to 3 weekend shifts in 3 months; 1-2 holidays required
+
+Covering: Med/Surg, Oncology, Cardiology and Trauma
+
+At least two years of nursing experience in hospital setting ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=725288;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => UNC Medical Center TRAVEL
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

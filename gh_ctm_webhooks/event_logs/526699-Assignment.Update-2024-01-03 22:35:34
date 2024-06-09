@@ -1,0 +1,168 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '26',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5446',
+  'Cf-Ray' => '83feb72dc3784955-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:FLU:
+ 
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.
+
+Must complete Cardiac Arrhythmia test.
+Position TemplateFacility Name: Mercy Hospital WashingtonFloor: Medical 7Location Address: 901 E 5th St Washington, MO 63090Position Information:
+ 
+Facility Department/Cost Center: 154106091
+ 
+Role (RN, Tech, LPN, PT, etc.): RN
+ 
+Specialty: Med Surg
+ 
+Number of Openings: 2
+ 
+Shift: Nights 3x12 18:30   07:00
+  Weekly Guaranteed Hours: 36 or 48
+ 
+Weekend Hours: As required by the facility
+ 
+Call Requirements:
+ 
+Required Certifications: BLS
+ 
+Years of Experience: 1
+  Float Requirements: Must be willingly to float
+Unit Information:
+ 
+Number of Beds:
+ 
+Patient Ratios: 
+1:6
+ 
+Equipment:
+ 
+EMR: EPIC
+Hiring Profile:  Must Have Skills/Experience:
+  Preferred Skillset/Experience:
+  Type of Patients on Unit:
+  Personality Fit:Dress Code:  Scrub Color: Black
+  Any unacceptable attire:
+
+
+Approved Assignment Details:
+
+Blocked Scheduling
+will need facility approvalMust be willing to work weekends as neededRTO of 5 days or less, must make up the week on the back end
+
+ 
+Any RTO over 5 days would need facility approval
+No assignment details auto approved for length or guaranteed hours Can request facility approval
+If requesting any of the above, it must be listed on Mercy Submission Form
+ General CommentsMercy Hospital - Washington is an acute care hospital offering comprehensive medical, surgical, obstetric and pediatric services. As the only Level III Trauma Center between St. Louis and Jefferson City, Mercy Hospital offers an experienced medical staff that is specially trained in trauma care. Located just 50 miles southwest of St. Louis, Mercy Hospital is committed to quality health care for its service area of more than 150,000 residents. More than 800 co-workers and 233 physicians serve the Washington hospital.
+ No. of Positions: 2/2.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 526699
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11770
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-09-25
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 03 2024 17:35:33
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=752982 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Washington ;City=Washington ;State=MO ;Zip=63090 ;Start=9/25/2023;End=3/25/2024;Duration=182;Cert=RN ;Specialty=Med Surg ;Unit=Mercy ;Shift=18:30-07:00;# of Postions=2;Type=Travel;BillRate=$80.00;minBillRate=$80.00;OTRate=88 ;CallbackRate=88 ;HolidayRate=88 ;Orientation=0 ;Description=Description:FLU:
+ 
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.
+
+Must complete Cardiac Arrhythmia test.
+Position TemplateFacility Name: Mercy Hospital WashingtonFloor: Medical 7Location Address: 901 E 5th St Washington, MO 63090Position Information:
+ 
+Facility Department/Cost Center: 154106091
+ 
+Role (RN, Tech, LPN, PT, etc.): RN
+ 
+Specialty: Med Surg
+ 
+Number of Openings: 2
+ 
+Shift: Nights 3x12 18:30   07:00
+  Weekly Guaranteed Hours: 36 or 48
+ 
+Weekend Hours: As required by the facility
+ 
+Call Requirements:
+ 
+Required Certifications: BLS
+ 
+Years of Experience: 1
+  Float Requirements: Must be willingly to float
+Unit Information:
+ 
+Number of Beds:
+ 
+Patient Ratios: 
+1:6
+ 
+Equipment:
+ 
+EMR: EPIC
+Hiring Profile:  Must Have Skills/Experience:
+  Preferred Skillset/Experience:
+  Type of Patients on Unit:
+  Personality Fit:Dress Code:  Scrub Color: Black
+  Any unacceptable attire:
+
+
+Approved Assignment Details:
+
+Blocked Scheduling
+will need facility approvalMust be willing to work weekends as neededRTO of 5 days or less, must make up the week on the back end
+
+ 
+Any RTO over 5 days would need facility approval
+No assignment details auto approved for length or guaranteed hours Can request facility approval
+If requesting any of the above, it must be listed on Mercy Submission Form
+ General CommentsMercy Hospital - Washington is an acute care hospital offering comprehensive medical, surgical, obstetric and pediatric services. As the only Level III Trauma Center between St. Louis and Jefferson City, Mercy Hospital offers an experienced medical staff that is specially trained in trauma care. Located just 50 miles southwest of St. Louis, Mercy Hospital is committed to quality health care for its service area of more than 150,000 residents. More than 800 co-workers and 233 physicians serve the Washington hospital.
+ No. of Positions: 2/2.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/752982;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital Washington - TRAVEL
+    [shiftDateEnd] => 2024-03-25
+    [shiftStartTime] => 18:30
+    [subjectID] => 
+)

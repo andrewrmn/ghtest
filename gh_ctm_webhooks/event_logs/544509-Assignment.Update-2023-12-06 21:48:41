@@ -1,0 +1,72 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2964',
+  'Cf-Ray' => '8317bbfc83c01465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Wilkes-Barre  Travel CVICU RN
+ Start: ASAP
+ Duration: 13 weeks
+ Shift: Nights, 7p-7a  **$90/hr rate approved
+ General CommentsThe CVICU Registered Nurse holds shift accountability for providing care to Cardiovascular Intensive Care patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The Registered Nurse demonstrates critical thinking skills, scientific judgment and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care.
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => CVICU
+    [assignmentid] => 544509
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2412
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 06 2023 16:48:39
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=776036 ;Status=Open;Association=Community Health Systems ;Client=Wilkes-Barre General Hospital ;City=Kingston ;State=PA ;Zip=18740 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=RN ;Specialty=CVICU ;Unit=EXT-Other (911) ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$90.00;minBillRate=$90.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Travel CVICU RN
+Start: ASAP
+Duration: 13 weeks
+Shift: Nights, 7p-7a  **$90/hr rate approved
+ General CommentsThe CVICU Registered Nurse holds shift accountability for providing care to Cardiovascular Intensive Care patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The Registered Nurse demonstrates critical thinking skills, scientific judgment and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care.
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/776036;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Wilkes-Barre General Hospital
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

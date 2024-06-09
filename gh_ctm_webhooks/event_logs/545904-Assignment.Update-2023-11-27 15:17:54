@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2091',
+  'Cf-Ray' => '82cb5736f48a23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Registered Nurse (RN) provides nursing care to patients as part of an overall team. Bases practice on identified principles and standards of care. REQUIREMENTS: 1 year of Registered Nurse (RN) ED experience preferred.  Active licensure as a Registered Nurse (RN) in the state of New Hampshire. Must be BLS, ACLS, PALS certified.   Position Urgency:Normal Billing string = Cottage Hospital
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 545904
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9588
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 27 2023 10:17:54
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262147 ;Status=Open;Association=Cottage Hospital ;Client=Cottage Hospital ;City=Woodsville ;State=NH ;Zip='03785 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Nursing ;Specialty=Emergency Room Nurse ;Unit=Emergency Room Nurse ;Shift=Nights;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=90 ;OTRules=By The Week, after 40, ;CallbackRate=90 (All Inclusive Rate) ;HolidayRate=100 (All Inclusive Rate + $10) ;OnCallRateDescription=$5 per hour pager ;Description=Registered Nurse (RN) provides nursing care to patients as part of an overall team. Bases practice on identified principles and standards of care. REQUIREMENTS: 1 year of Registered Nurse (RN) ED experience preferred.  Active licensure as a Registered Nurse (RN) in the state of New Hampshire. Must be BLS, ACLS, PALS certified.   Position Urgency:Normal Billing string = Cottage Hospital ;url=https://vms.medefis5.com/jobs/262147;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Cottage Hospital
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

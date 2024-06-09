@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '22',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5385',
+  'Cf-Ray' => '83ef07fc44cd4945-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => **VA Child Protective Services Background Check and FBI fingerprinting required for any traveler working in Pediatrics or the Child Care Center, as well as PEDS/Adult Psych and PEDS Emergency Department**. Youmusthave the ability to run FBI fingerprints on your candidates. VCU will not be giving out their facility code. Thank youChildren's Hospital of Richmond (CHOR) Pediatric RN - Transitional Care Unit - Pediatric Long Term Care36hrs per week: Nightshift7p-7a (no weekends), will be scheduled every other Friday nightNo ReassignmentsNo on callBLS, PALS required.Must have ventilator and trach experienceMust have active current license.Dress code:Grey scrubsAU: 1000006Unit is located 2924 Brook Road Richmond, VA What makes the TCU unique?Our TCU is a special place because of who we serve. We really strive to provide a sense of normalcy for our children, who have very complex needs. In order to be a patient in the TCU, a patient must need medical and nursing supervision, as well as specialized equipment or services   such as a mechanical ventilator or cardio-respiratory monitoring. We are vastly different from most long-term care facilities because we provide care specifically for kids. We work together as a team not only to meet all of their medical needs, but also to help them have fun and thrive on a daily basis.What type of services are provided to patients on the unit?Our kids benefit from comprehensive care including medical care, nursing, respiratory therapy, physical therapy, occupational therapy, speech-language pathology, restorative care, recreation therapy and pastoral care   Additional Information:Orientation: The first 16 hours of orientation are unpaid. Call Off Policy: 5 shifts (or the equivalent hours) per 13 week assignment.  Parking: Travelers may need to  pay for parking at VCU depending on how close they want to be to the hospital.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => LTC
+    [assignmentid] => 545507
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3760
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-22
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 01 2024 19:54:16
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262050 ;Status=Open;Association=VCU Health ;Client=VCU Medical Center ;City=Richmond ;State=VA ;Zip=23298 ;Start=1/22/2024;End=4/22/2024;Duration=91;Cert=Nursing ;Specialty=Long Term Care (LTC), TCU-Transitional Care Unit, Med-surg Peds, Long Term Acute Care, Pediatric ;Unit=Long Term Care (LTC), TCU-Transitional Care Unit, Med-surg Peds, Long Term Acute Care, Pediatric ;Shift=Nightshift 7p-7a;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$95.00;OTRate=105 ;OTRules=By The Week, after 40, ;CallbackRate=95 (All Inclusive Rate) ;HolidayRate=95 (All Inclusive Rate) ;OnCallRateDescription=$10 per hour pager ;Description=**VA Child Protective Services Background Check and FBI fingerprinting required for any traveler working in Pediatrics or the Child Care Center, as well as PEDS/Adult Psych and PEDS Emergency Department**. Youmusthave the ability to run FBI fingerprints on your candidates. VCU will not be giving out their facility code. Thank youChildren's Hospital of Richmond (CHOR) Pediatric RN - Transitional Care Unit - Pediatric Long Term Care36hrs per week: Nightshift7p-7a (no weekends), will be scheduled every other Friday nightNo ReassignmentsNo on callBLS, PALS required.Must have ventilator and trach experienceMust have active current license.Dress code:Grey scrubsAU: 1000006Unit is located 2924 Brook Road Richmond, VA What makes the TCU unique?Our TCU is a special place because of who we serve. We really strive to provide a sense of normalcy for our children, who have very complex needs. In order to be a patient in the TCU, a patient must need medical and nursing supervision, as well as specialized equipment or services   such as a mechanical ventilator or cardio-respiratory monitoring. We are vastly different from most long-term care facilities because we provide care specifically for kids. We work together as a team not only to meet all of their medical needs, but also to help them have fun and thrive on a daily basis.What type of services are provided to patients on the unit?Our kids benefit from comprehensive care including medical care, nursing, respiratory therapy, physical therapy, occupational therapy, speech-language pathology, restorative care, recreation therapy and pastoral care   Additional Information:Orientation: The first 16 hours of orientation are unpaid. Call Off Policy: 5 shifts (or the equivalent hours) per 13 week assignment.  Parking: Travelers may need to  pay for parking at VCU depending on how close they want to be to the hospital.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262050;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => VCU Medical Center - TRAVEL
+    [shiftDateEnd] => 2024-04-22
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

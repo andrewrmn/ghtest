@@ -1,0 +1,246 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6801',
+  'Cf-Ray' => '8528bb8af3cf77ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN MCU7:00PM - 7:00AM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsData Collection:
+
+Unit Information:
+ Medical Care Unit
+
+Location: Johnston   Willis Hospital
+
+Address: 1401 Johnston Willis Drive Richmond VA 23235
+
+Floor: 4 west
+
+Building: Main
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   32 beds Number of Staff   45Type of staff:Day Shift   1 Manager, 1 Clinical Coordinator or Charge Nurse, 4 RNS, 2-3 PCTs, 1 Unit SecretaryNight Shift   1 Clinical Coordinator or Charge Nurse, 4 RNS, 2-3 PCTs, 1 Unit Secretary (until 11p)Patient Ratios   6:1Type of equipment   
+Standard Nursing equipment, BiPAP (Stable), Mid/Flow, PD, Heparin Gtts,
+ Phillips Cardiac MonitorsEMR   Meditech 6.0
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+Willing to work weekends as assignedAbility to work with admission/discharge high turnover daily.No history of attendance concerns
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+Positive outgoing attitudeGood understanding of HCAHP importance
+List typical procedures performed on unit(s): 
+
+Mainly Cardio-pulmonary , but can receive any general medical patientsAbility to monitor all for cardiac needs   we do not typically treat arrhythmias.Can receive stable Covid19 Patients
+Best personality Fit:
+
+Positive  can do  attitude
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ Works well within team
+
+
+
+
+ 
+
+
+
+
+
+
+
+ Self-motivated and self-accountability
+
+REQUIRED CERTIFICATIONS:
+Only BLS
+To be clear ACLS is NOT REQUIRED
+Floating Area(s):
+Any similar level of care (med surg), or potentially stepdown with a med surg assignment.
+Dress Code: 
+Scrub Color/Attire   
+Navy Scrubs, Any shoe as long as closed toe and heel.
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+No specifics.
+
+
+
+Weekends and On call (if any):
+Every other weekend and major holidays. No call. Visible and involved leadership on all shifts from Director, Manager, and CCs on the unit and great off shift support from the Nursing SupervisorGreat teamwork across all shifts and throughout the whole teamNurses with varying experiences
+from 20 years to new graduatesCollaborative work environment with strong relationships with physiciansExcellent PCT/CNA/Nurse Extern support on all shift
+ No. of Positions: 2/3.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 542531
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5508
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-02-26
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => February, 08 2024 21:37:45
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=769147 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=CJW MEDICAL -JOHNSTON-WILLIS CAMPUS VA ;City=RICHMOND ;State=VA ;Zip=23235 ;Start=11/21/2023;End=2/20/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM – 7:00AM ;# of Postions=2;Type=Travel;BillRate=$78.00;minBillRate=$78.00;OTRate=86 ;CallbackRate=86 ;HolidayRate=86 ;Orientation=0 ;Description=Description:TRAVEL RN MCU7:00PM - 7:00AM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsData Collection:
+
+Unit Information:
+ Medical Care Unit
+
+Location: Johnston   Willis Hospital
+
+Address: 1401 Johnston Willis Drive Richmond VA 23235
+
+Floor: 4 west
+
+Building: Main
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   32 beds Number of Staff   45Type of staff:Day Shift   1 Manager, 1 Clinical Coordinator or Charge Nurse, 4 RNS, 2-3 PCTs, 1 Unit SecretaryNight Shift   1 Clinical Coordinator or Charge Nurse, 4 RNS, 2-3 PCTs, 1 Unit Secretary (until 11p)Patient Ratios   6:1Type of equipment   
+Standard Nursing equipment, BiPAP (Stable), Mid/Flow, PD, Heparin Gtts,
+ Phillips Cardiac MonitorsEMR   Meditech 6.0
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+Willing to work weekends as assignedAbility to work with admission/discharge high turnover daily.No history of attendance concerns
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+Positive outgoing attitudeGood understanding of HCAHP importance
+List typical procedures performed on unit(s): 
+
+Mainly Cardio-pulmonary , but can receive any general medical patientsAbility to monitor all for cardiac needs   we do not typically treat arrhythmias.Can receive stable Covid19 Patients
+Best personality Fit:
+
+Positive  can do  attitude
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ Works well within team
+
+
+
+
+ 
+
+
+
+
+
+
+
+ Self-motivated and self-accountability
+
+REQUIRED CERTIFICATIONS:
+Only BLS
+To be clear ACLS is NOT REQUIRED
+Floating Area(s):
+Any similar level of care (med surg), or potentially stepdown with a med surg assignment.
+Dress Code: 
+Scrub Color/Attire   
+Navy Scrubs, Any shoe as long as closed toe and heel.
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+No specifics.
+
+
+
+Weekends and On call (if any):
+Every other weekend and major holidays. No call. Visible and involved leadership on all shifts from Director, Manager, and CCs on the unit and great off shift support from the Nursing SupervisorGreat teamwork across all shifts and throughout the whole teamNurses with varying experiences
+from 20 years to new graduatesCollaborative work environment with strong relationships with physiciansExcellent PCT/CNA/Nurse Extern support on all shift
+ No. of Positions: 2/3. ;url=https://vendor.healthtrustws.com/positions/769147;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 78
+    [facilityName] => CJW Johnston-Willis Hospital
+    [shiftDateEnd] => 2024-05-27
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

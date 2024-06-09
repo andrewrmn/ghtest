@@ -1,0 +1,78 @@
+.radiusSearch{
+
+  &__form{
+    .facetwp-facet{
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      margin-bottom: 0;
+    }
+    .facetwp-input-wrap{
+      display: block;
+    }
+
+    input,
+    select{
+      height: 48px !important;
+      border: 1px solid #dcdcdc !important;
+      border-radius: 6px !important;
+      font-size: 16px !important;
+      background-color: white !important;
+      @include resetFont;
+      appearance: none !important;
+      padding:{
+        left: 16px !important;
+        right: 42px !important;
+      }
+
+      outline: 1px solid transparent !important;
+
+      &:focus,
+      &:active{
+        outline: 1px solid $color-green !important;
+      }
+    }
+
+    select{
+      background-image: url("data:image/svg+xml,%3Csvg width='14' height='8' viewBox='0 0 14 8' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M7.00014 5.1714L11.9499 0.22168L13.3641 1.63589L7.00014 7.9999L0.63623 1.63589L2.05044 0.22168L7.00014 5.1714Z' fill='%23008C99'/%3E%3C/svg%3E%0A");
+      background-size: 13px 8px;
+      background-position: calc(100% - 16px) center;
+      background-repeat: no-repeat;
+    }
+
+    .facetwp-icon{
+      opacity: 1;
+      &::before{
+        font-family: 'remixicon' !important;
+        content: $ri-focus-3-line !important;
+        background: none !important;
+        font-style: normal;
+        color: $color-teal;
+        font-size: 22px;
+        line-height: 48px;
+        width: 48px;
+        text-align: center;
+        transform: none !important;
+      }
+    }
+  }
+
+  &__actions{
+    display: none;
+  }
+
+  @media screen and (max-width: 700px){
+    background: white;
+    margin: 15px;
+    border-radius: 24px;
+    padding: 20px;
+    box-shadow: 0 0 0 2000px #3F3D3DEE;
+
+    &__actions{
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+  }
+
+}

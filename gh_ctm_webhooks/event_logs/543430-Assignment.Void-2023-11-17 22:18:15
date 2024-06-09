@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2661',
+  'Cf-Ray' => '827b59322657183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => ?DEPARTMENT DESCRIPTIONThe Medical Surgical unit specializes in the care of acutely ill adults and of those who require surgery both emergent and elective. Medical Surgical patients are given the highest standards of professional care by registered nurses and nurse assistants. Specialty certification in Medical Surgical Nursing is strongly encouraged and supported.EXPERIENCE/EDUCATION/QUALIFICATIONSCurrent unencumbered Oregon RN license required upon submission.Healthcare Provider Level AHA BLS required upon submission.NLH Med Surg:ACLS and NIHSS required.?   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543430
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1484
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 17 2023 17:18:14
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261422 ;Status=Open;Association=Samaritan Health Services ;Client=Samaritan North Lincoln Hospital ;City=Lincoln City ;State=OR ;Zip=97367 ;Start=12/11/2023;End=1/22/2024;Duration=42;Cert=Nursing ;Specialty=Med-surg Adult ;Unit=Med-surg Adult ;Shift=Nights (1900-0730), Rotating weekends;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$100.00;OTRate=110 ;OTRules=By The Week, after 40, ;CallbackRate=100 (All Inclusive Rate) ;HolidayRate=110 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=?DEPARTMENT DESCRIPTIONThe Medical Surgical unit specializes in the care of acutely ill adults and of those who require surgery both emergent and elective. Medical Surgical patients are given the highest standards of professional care by registered nurses and nurse assistants. Specialty certification in Medical Surgical Nursing is strongly encouraged and supported.EXPERIENCE/EDUCATION/QUALIFICATIONSCurrent unencumbered Oregon RN license required upon submission.Healthcare Provider Level AHA BLS required upon submission.NLH Med Surg:ACLS and NIHSS required.?   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261422;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Samaritan North Lincoln Hospital
+    [shiftDateEnd] => 2024-01-22
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

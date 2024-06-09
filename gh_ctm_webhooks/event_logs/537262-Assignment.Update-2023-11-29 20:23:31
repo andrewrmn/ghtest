@@ -1,0 +1,80 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '9980',
+  'Cf-Ray' => '82dd91a334216a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:***WellSpan is not currently accepting compact licenses - do not submit compact licenses. All vendors will be updated once this changes. thank you***New Rate- $90/hrASAP Start
+SHIFT- Nights- 3x12 hrs- w/ Weekends &amp; holidays as needed by unit
+*Will care for Covid patients
+*2 yrs experience required
+*Epic experience required
+*Will float to other areas as needed
+*BLS &amp; ACLSRN Checklist*Do not submit local candidates to these travel positions. Contact the PMO team for the local rate first. If candidate accepts the lower local rate, submit the profile which clearly notates candidate is local and aware local rates are lower.*As of 1/5/2022 all travelers must be fully vaccinated for COVID-19.**Any traveler declining the COVID-19 vaccine, must be approved for a medical/religious exemption by their agency
+Progressive Care Unit Registered Nurses provide care for patients who require close monitoring and frequent assessment but are not unstable enough to require ICU care. The PCU RN will monitor critical vital signs and detect any changes, enabling intervention in a life-threatening or emergency situation.. The PCU RN is also sometimes referred to as Step Down Nurse and the Progressive Care Unit can also be known as Cardiac Stepdown, Neuro Stepdown, Medical Stepdown, Surgical Stepdown and ER holding. The PCU RN cares for patients as they transition from the ICU. Progressive care describes the care delivered to patients whose needs are less acute.. A decreased risk of a life-threatening event, decreased need for invasive monitoring, increased stability and an increased ability to participate in their own care are characteristics of the progressive care patient. The PCU RN should demonstrate the following basic competencies: Basic and advanced life support Dysrhythmia monitoring techniques, interpretation and treatment Medication dosage calculation, patient monitoring for medication effects, continuous medication infusion administration (non-titrated vasoactive agents, anti-arrhythmic agents, platelet inhibitors and/or insulin) Patient monitoring using standardized procedures for pre-, intra, and post procedures (TEE, cardiac catheterization with PCI, cardioversion, bronchoscopy, EGD, PEG placement, chest tube insertion) Recognition of the symptoms and signs of cardiopulmonary emergencies and the initiation of standardized interventions to stabilize the patient awaiting transfer to critical care. Hemodynamic monitoring including equipment setup and troubleshooting, monitoring and recognition of signs and symptoms of patient instability. Interpretation of ABGs and communication of the findings Assessment of the ventilated patient to assure delivery of the prescribed treatment and proper patient response Recognition of indications for and management of the patient requiring non-invasive 02 delivery systems including oral airways, bipap and nasal CPAP Assessment and understanding of long term mechanical ventilation and weaning Assessment, monitoring and managing of patients who require renal therapeutic interventions such as hemodialysis, peritoneal dialysis, continuous bladder irrigation, stents and urostomies Recognition of the indications for and complications of enteral and parental nutrition Recognition of and evaluation of the family s needs for more involvement in the care to aid in transition from hospital to home The PCU RN should have the following characteristics: advocacy, clinical judgment, caring practices, systems thinking, response to diversity, collaboration, clinical inquiry and also be a teacher to educate the patients and their families.
+ General Comments*Nicotine-free facility   ALL FORMS OF NICOTINE   ASSIGNMENT WILL BE CANCELED &amp; NOT ELIGIBLE FOR REHIRE FOR 12 MONTHS IF THERE IS A POSITIVE RESULT FOR ANY REASON*
+*WELLSPAN WILL NOT CONSIDER CANDIDATES THAT HAVE HAD LICENSE SUSPENDED ANYTIME IN THE PAST - DO NOT SUBMIT THESE PROFILES*All time off and/or scheduling requests must be included in the submissionCandidates cannot be considered if they have been employed as a perm hire at any WellSpan site within the year.WellSpan requires the flu vaccine from September 7 - April 30. Please ensure your traveler is willing to obtain prior to submitting
+    [sitename] => giftednurses
+    [spec] => Stepdown
+    [assignmentid] => 537262
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2396
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-15
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 29 2023 15:23:30
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=768335 ;Status=Open;Association=WellSpan Health ;Client=Chambersburg Hospital ;City=Chambersburg ;State=PA ;Zip=17201 ;Start=11/15/2023;End=2/13/2024;Duration=91;Cert=RN ;Specialty=Step Down ;Unit=EXT-Allspire (525) ;Shift=- Nights- 3x12 hrs- w/ Weekends &amp; holidays as needed by unit;# of Postions=0;Type=Travel;BillRate=$90.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:***WellSpan is not currently accepting compact licenses - do not submit compact licenses. All vendors will be updated once this changes. thank you***11/29 reopening in preparation for a current offer that may be falling throughNew Rate- $90/hrASAP Start
+SHIFT- Nights- 3x12 hrs- w/ Weekends &amp; holidays as needed by unit
+*Will care for Covid patients
+*2 yrs experience required
+*Epic experience required
+*Will float to other areas as needed
+*BLS &amp; ACLSRN Checklist*Do not submit local candidates to these travel positions. Contact the PMO team for the local rate first. If candidate accepts the lower local rate, submit the profile which clearly notates candidate is local and aware local rates are lower.*As of 1/5/2022 all travelers must be fully vaccinated for COVID-19.**Any traveler declining the COVID-19 vaccine, must be approved for a medical/religious exemption by their agency
+Progressive Care Unit Registered Nurses provide care for patients who require close monitoring and frequent assessment but are not unstable enough to require ICU care. The PCU RN will monitor critical vital signs and detect any changes, enabling intervention in a life-threatening or emergency situation.. The PCU RN is also sometimes referred to as Step Down Nurse and the Progressive Care Unit can also be known as Cardiac Stepdown, Neuro Stepdown, Medical Stepdown, Surgical Stepdown and ER holding. The PCU RN cares for patients as they transition from the ICU. Progressive care describes the care delivered to patients whose needs are less acute.. A decreased risk of a life-threatening event, decreased need for invasive monitoring, increased stability and an increased ability to participate in their own care are characteristics of the progressive care patient. The PCU RN should demonstrate the following basic competencies: Basic and advanced life support Dysrhythmia monitoring techniques, interpretation and treatment Medication dosage calculation, patient monitoring for medication effects, continuous medication infusion administration (non-titrated vasoactive agents, anti-arrhythmic agents, platelet inhibitors and/or insulin) Patient monitoring using standardized procedures for pre-, intra, and post procedures (TEE, cardiac catheterization with PCI, cardioversion, bronchoscopy, EGD, PEG placement, chest tube insertion) Recognition of the symptoms and signs of cardiopulmonary emergencies and the initiation of standardized interventions to stabilize the patient awaiting transfer to critical care. Hemodynamic monitoring including equipment setup and troubleshooting, monitoring and recognition of signs and symptoms of patient instability. Interpretation of ABGs and communication of the findings Assessment of the ventilated patient to assure delivery of the prescribed treatment and proper patient response Recognition of indications for and management of the patient requiring non-invasive 02 delivery systems including oral airways, bipap and nasal CPAP Assessment and understanding of long term mechanical ventilation and weaning Assessment, monitoring and managing of patients who require renal therapeutic interventions such as hemodialysis, peritoneal dialysis, continuous bladder irrigation, stents and urostomies Recognition of the indications for and complications of enteral and parental nutrition Recognition of and evaluation of the family s needs for more involvement in the care to aid in transition from hospital to home The PCU RN should have the following characteristics: advocacy, clinical judgment, caring practices, systems thinking, response to diversity, collaboration, clinical inquiry and also be a teacher to educate the patients and their families.
+ General Comments*Nicotine-free facility   ALL FORMS OF NICOTINE   ASSIGNMENT WILL BE CANCELED &amp; NOT ELIGIBLE FOR REHIRE FOR 12 MONTHS IF THERE IS A POSITIVE RESULT FOR ANY REASON*
+*WELLSPAN WILL NOT CONSIDER CANDIDATES THAT HAVE HAD LICENSE SUSPENDED ANYTIME IN THE PAST - DO NOT SUBMIT THESE PROFILES*All time off and/or scheduling requests must be included in the submissionCandidates cannot be considered if they have been employed as a perm hire at any WellSpan site within the year.WellSpan requires the flu vaccine from September 7 - April 30. Please ensure your traveler is willing to obtain prior to submitting
+ No. of Positions: 0/1.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/768335;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Chambersburg Hospital
+    [shiftDateEnd] => 2024-02-13
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

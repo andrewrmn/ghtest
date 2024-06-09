@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3575',
+  'Cf-Ray' => '8291aa3435d24951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => The Staff Nurse RN provides professional nursing care through the application of nursing skills and processes to develop, implement, and evaluate patients' plans of care while creating an atmosphere that supports our mission: To care, To heal, To educate. The Staff Nurse RN, as the primary caregiver, provides direct patient care and works collaboratively with other care team members, the physician and the patient/family to achieve optimal patient outcomes. The incumbent has access to confidential patient information and makes decisions independently and in collaboration with others. The Staff Nurse, RN works under the direct supervision of the Nurse Manager and under the indirect supervision of the Director of Nursing.Please note: Travelers will be asked to float to similar units and may be asked to float to other locations depending on census, including critical access sites. Will work every other weekend and holiday rotation.Certifications: ACLS/ BLS/BCLS			Additional Subspecialties: Cardiothoracic surgery, CRRT, Impella   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 537203
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5967
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 20 2023 10:18:19
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=260008 ;Status=Open;Association=Adena Health System ;Client=Adena Health System ;City=Chillicothe ;State=OH ;Zip=45601 ;Start=10/17/2023;End=1/16/2024;Duration=91;Cert=Nursing ;Specialty=Registered Nurse, Cardiac Progressive Care (CPCU) ;Unit=Registered Nurse, Cardiac Progressive Care (CPCU) ;Shift=Nights- 7p-7a;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$85.00;OTRate=85 ;OTRules=By The Week, after 40, ;HolidayRate=85 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=The Staff Nurse RN provides professional nursing care through the application of nursing skills and processes to develop, implement, and evaluate patients' plans of care while creating an atmosphere that supports our mission: To care, To heal, To educate. The Staff Nurse RN, as the primary caregiver, provides direct patient care and works collaboratively with other care team members, the physician and the patient/family to achieve optimal patient outcomes. The incumbent has access to confidential patient information and makes decisions independently and in collaboration with others. The Staff Nurse, RN works under the direct supervision of the Nurse Manager and under the indirect supervision of the Director of Nursing.Please note: Travelers will be asked to float to similar units and may be asked to float to other locations depending on census, including critical access sites. Will work every other weekend and holiday rotation.Certifications: ACLS/ BLS/BCLS			Additional Subspecialties: Cardiothoracic surgery, CRRT, Impella   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260008;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Adena Health System Travel
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

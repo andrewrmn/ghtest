@@ -1,0 +1,77 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1912',
+  'Cf-Ray' => '82cc6aa5d31c23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Shift times: 645 pm to 715 am
+
+On-Call requirements:** must be willing to float to MS to take patients if icu is closed or float to ER to help
+
+
+Certifications and experience required for position: ACLS and BLS
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 544579
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5117
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:15
+    [whenmodified] => November, 27 2023 13:25:55
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=773896 ;Status=Open;Association=QHCCS, LLC ;Client=Forrest City Medical Center ;City=Forrest City ;State=AR ;Zip=70117 ;Start=11/21/2023;End=2/19/2024;Duration=91;Cert=RN ;Specialty=ICU ;Unit=EXT-Other (911) ;Shift=18:45-07:15;# of Postions=1;Type=Travel;BillRate=$5.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Shift times: 645 pm to 715 am
+
+On-Call requirements:** must be willing to float to MS to take patients if icu is closed or float to ER to help
+
+
+Certifications and experience required for position: ACLS and BLS
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/773896;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => Forrest City Medical Center Travel
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 18:45
+    [subjectID] => 
+)

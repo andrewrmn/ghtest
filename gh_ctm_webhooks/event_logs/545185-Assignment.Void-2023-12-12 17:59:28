@@ -1,0 +1,69 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1560',
+  'Cf-Ray' => '8347dc83217a23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:SEASONAL- CONTRACT-RN-MED SURG (611)- 13 WEEKS-7P-7A
+
+JANUARY 7TH,2024 START
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545185
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5555
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 12 2023 12:59:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=769952 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=ROUND ROCK MEDICAL CENTER TX ;City=ROUND ROCK ;State=TX ;Zip=78681 ;Start=1/7/2024;End=4/7/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=CENTRAL AND WEST TEXAS DIVISION (50) ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$65.00;OTRate=73 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:SEASONAL- CONTRACT-RN-MED SURG (611)- 13 WEEKS-7P-7A
+
+JANUARY 7TH,2024 START
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/769952;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Round Rock Medical Center Travel
+    [shiftDateEnd] => 2024-04-07
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

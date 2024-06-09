@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '184',
+  'Ki-Request-Colo' => '397',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2371',
+  'Cf-Ray' => '830d493bd5afe100-ORD',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Registered Nuse for our Med/Surg unit. Typically working with another RN and/or LVN as well as a Nurse Assistant. Most patients are in our Swing Unit. RN's are required to admister care as directed by the physican. Must be reliable and willing to work within a team environment.***NOC SHIFT***   Additional Information:***WE ARE A SMALL RURAL HOSPITAL*** ***PLEASE REVIEW REQUIRED DOCUMENTATION***   Position Urgency:Normal Billing string = Mountain Communities Healthcare District
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 541585
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 11669
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 05 2023 10:22:39
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=260768 ;Status=Open;Association=Mountain Communities Healthcare District ;Client=Mountain Communities Healthcare District ;City=Weaverville ;State=CA ;Zip=96093 ;Start=12/15/2023;End=3/15/2024;Duration=91;Cert=Nursing ;Specialty=Med-surg Adult ;Unit=Med-surg Adult ;Shift=NIGHTS on call;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$78.00;OTRate=83 ;OTRules=By The Week, after 40, ;CallbackRate=78 (All Inclusive Rate) ;HolidayRate=83 (All Inclusive Rate + $5) ;OnCallRateDescription=$4 per hour pager ;Description=Registered Nuse for our Med/Surg unit. Typically working with another RN and/or LVN as well as a Nurse Assistant. Most patients are in our Swing Unit. RN's are required to admister care as directed by the physican. Must be reliable and willing to work within a team environment.***NOC SHIFT***   Additional Information:***WE ARE A SMALL RURAL HOSPITAL*** ***PLEASE REVIEW REQUIRED DOCUMENTATION***   Position Urgency:Normal Billing string = Mountain Communities Healthcare District ;url=https://vms.medefis5.com/jobs/260768;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 78
+    [facilityName] => Mountain Communities Healthcare District
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

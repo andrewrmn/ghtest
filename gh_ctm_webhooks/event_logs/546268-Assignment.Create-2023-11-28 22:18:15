@@ -1,0 +1,80 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2676',
+  'Cf-Ray' => '82d5fc54e4e623b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => The Johns Hopkins Hospital Cardiovascular Surgical ICU (Zayed 5 E)
+
+	**Must have current Cardiac Open-Heart prep  recovery experience**
+
+	Required: ACLS,currentexperience withrecovery of post-op cardiac surgery patientsin an ICU setting
+
+	Preferred: Critical Care Certification, trauma course,EPIC
+
+	Experience: Recovery of post-operative cardiac surgery patients(open heart surgery), two years of experience post orientation,prefer at least (1) travel assignmentIf someone has extensive experience but has never traveled, we may still consider.
+
+	Required Experience: Vent, CRRT, Swan, Epicardial wires/pacemakers, vasoactive gtts titration, level 1 IABP
+    [sitename] => giftednurses
+    [spec] => CVICU
+    [assignmentid] => 546268
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1877
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 28 2023 17:18:15
+    [daysPerWeek] => 3
+    [orderNote] => Source=IntrastaffVMS;SourceID=305503 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Johns Hopkins Hospital ;Start=1/8/2024;End=4/6/2024;Duration=89;Cert=MSP RN Enhanced High Needs ;Specialty=Zayed 5E (CVSICU)  (4801337140) ;Unit=Zayed 5E (CVSICU)  (4801337140) ;Shift=ROTATING 7A/7P (12:00 AM - 12:00 AM);# of Postions=1;Type=Travel;BillRate=$110.00;minBillRate=$110.00;Description=The Johns Hopkins Hospital Cardiovascular Surgical ICU (Zayed 5 E)
+
+	**Must have current Cardiac Open-Heart prep  recovery experience**
+
+	Required: ACLS,currentexperience withrecovery of post-op cardiac surgery patientsin an ICU setting
+
+	Preferred: Critical Care Certification, trauma course,EPIC
+
+	Experience: Recovery of post-operative cardiac surgery patients(open heart surgery), two years of experience post orientation,prefer at least (1) travel assignmentIf someone has extensive experience but has never traveled, we may still consider.
+
+	Required Experience: Vent, CRRT, Swan, Epicardial wires/pacemakers, vasoactive gtts titration, level 1 IABP ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=8NPKZ8YCb80=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => The Johns Hopkins Hospital TRAVEL
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

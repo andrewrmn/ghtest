@@ -1,0 +1,110 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2932',
+  'Cf-Ray' => '83264d93d0e96a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position/Specialty: Med surg
+Start date: January 28th, 2024.
+Ratios: 6:1 night-this is the high end and depends on census.
+Years of Experience REQ: 1 year
+First-timers Accepted: Y/N: Yes, but would prefer a seasoned employee.
+Weekend REQ: Yes
+Certs REQ: BLS/ACLS
+Is on-call REQ? No
+Will clinician float within scope to meet facility needs? No
+Open to accommodating block schedule? Yes
+Locals accepted:  Yes
+Pending License accepted? No
+RTO Restrictions:  case by case
+Guaranteed Hours: 48
+Special Requirements:  night shift RN 7p-7a. 
+
+
+
+ Modified Time:1/22/2024 5:00:00 AM
+
+ Account Manager: Thomas Pettineo
+
+ Account Manager Email: Thomas.pettineo@qualivis.com
+
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543947
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8522
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-22
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 08 2023 11:14:43
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2303470 ;Status=Open;Association=Qualivis EPA ;Client=Livingston Hospital and Healthcare Services ;City=Salem ;State=KY ;Zip=42078-8043 ;Start=1/22/2024;End=4/22/2024;Duration=91;Cert=Registered Nurse ;Specialty=Medical Surgical ;Unit=MedSurg ;Shift=Night 4x12-Hour (19:00 - 07:00);# of Postions=1;Type=Travel;BillRate=$80.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Position/Specialty: Med surg
+Start date: January 28th, 2024.
+Ratios: 6:1 night-this is the high end and depends on census.
+Years of Experience REQ: 1 year
+First-timers Accepted: Y/N: Yes, but would prefer a seasoned employee.
+Weekend REQ: Yes
+Certs REQ: BLS/ACLS
+Is on-call REQ? No
+Will clinician float within scope to meet facility needs? No
+Open to accommodating block schedule? Yes
+Locals accepted:  Yes
+Pending License accepted? No
+RTO Restrictions:  case by case
+Guaranteed Hours: 48
+Special Requirements:  night shift RN 7p-7a. 
+
+
+
+ Modified Time:1/22/2024 5:00:00 AM
+
+ Account Manager: Thomas Pettineo
+
+ Account Manager Email: Thomas.pettineo@qualivis.com
+
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low ;url=https://app.ayaconnect.com/index.html#/vendor/job/2303470/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Livingston Hospital and Healthcare Services
+    [shiftDateEnd] => 2024-04-22
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

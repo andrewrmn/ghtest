@@ -1,0 +1,143 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4695',
+  'Cf-Ray' => '8279d6dc007d183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:The Central Sterile Technician is responsible for the decontamination, packaging, sterilization and delivery of instruments, materials, and equipment necessary for support of surgical services; working under indirect supervision of the Director of Surgical Services utilizes specific guidelines and standards for department operations.  Responsibilities also include documentation of sterilization process and ensuring equipment functionality. 
+M-F 8 hr shifts, rotating call schedule
+$65 Bill Rate
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+New
+
+             Will position be required to float to other units?
+No
+
+             Number of beds in your facility?
+4 OR suites
+
+             Years of experience required?
+1
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+             Willing to review clinicians with pending state license?
+N/A
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+N/A
+
+             What is the work schedule for this position? (days needed, hours or shift)
+M-F 8 hr shifts, rotating call schedule
+
+    EMR for your facility:
+Cerner
+
+             Scrub colors / dress code:
+Sterile scrubs supplied
+
+    Parking location:
+On-site
+ No. of Positions: 1/1.
+ Position creation reason:Replacement of Perm Staff
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 544254
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13691
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 17 2023 12:54:30
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=773124 ;Status=Open;Association=Community Health Systems ;Client=Northwest Houghton ;City=Tucson ;State=AZ ;Zip=85748 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=SPT ;Specialty=Central Sterile ;Unit=EXT-Other (911) ;Shift=08:00-17:00;# of Postions=1;Type=Travel;BillRate=$65.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:"On Hold" - Maximum Submittals Reached - 11/15/23
+The Central Sterile Technician is responsible for the decontamination, packaging, sterilization and delivery of instruments, materials, and equipment necessary for support of surgical services; working under indirect supervision of the Director of Surgical Services utilizes specific guidelines and standards for department operations.  Responsibilities also include documentation of sterilization process and ensuring equipment functionality. 
+M-F 8 hr shifts, rotating call schedule
+$65 Bill Rate
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+New
+
+             Will position be required to float to other units?
+No
+
+             Number of beds in your facility?
+4 OR suites
+
+             Years of experience required?
+1
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+             Willing to review clinicians with pending state license?
+N/A
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+N/A
+
+             What is the work schedule for this position? (days needed, hours or shift)
+M-F 8 hr shifts, rotating call schedule
+
+    EMR for your facility:
+Cerner
+
+             Scrub colors / dress code:
+Sterile scrubs supplied
+
+    Parking location:
+On-site
+ No. of Positions: 1/1.
+ Position creation reason:Replacement of Perm Staff ;url=https://vendor.healthtrustws.com/positions/773124;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Northwest Medical Center Houghton
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 08:00
+    [subjectID] => 
+)

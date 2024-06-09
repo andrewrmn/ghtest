@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '218',
+  'Ki-Request-Colo' => '658',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3029',
+  'Cf-Ray' => '830d2044b37d125d-ORD',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Experienced Scrub Tech.Must have cataract and retinaexperience. Experience in orthopedics, urology, ENT, podiatry, total jointsand sports medicinedesired.COVID-19 Vaccine medical and religious exemptions will be reviewed on an individual basis. With an approved accommodation travelers will be required to follow the current CH masking protocol.   Additional Information:PLEASE NOTE THAT CONFLUENCE HEALTH PARTICIPATES IN THE MEDEFIS CREDENTIAL SERVICE. PLEASE SUBMIT ALL CREDENTIALS THROUGH THE MEDEFIS PORTAL. THEY ALSO PARTICIPATE IN THE MEDEFIS INVOICING SERVICE OF WHICH KRONOS REPORTS ARE UPLOADED BIWEEKLY.  TRAVELERS ARE NOT TO USE PAPER TIMECARDS.  AGENCY MUST HAVE WA STATE NURSE POOL LICENSE IN ORDER TO HAVE TRAVELERS WORKING AT THIS FACILITY.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 546040
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5581
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 05 2023 09:54:35
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=262181 ;Status=Open;Association=Confluence Health ;Client=Confluence Health Hospital - Mares Campus ;City=Wenatchee ;State=WA ;Zip=98801 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Nursing ;Specialty=Scrub Technologist ;Unit=Scrub Technologist ;Shift=Days, 10 hour shifts ;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$110.00;OTRate=120 ;OTRules=By The Week, after 40, ;CallbackRate=120 (All Inclusive Rate + $10) ;HolidayRate=120 (All Inclusive Rate + $10) ;OnCallRateDescription=$2 per hour pager ;Description=Experienced Scrub Tech.Must have cataract and retinaexperience. Experience in orthopedics, urology, ENT, podiatry, total jointsand sports medicinedesired.COVID-19 Vaccine medical and religious exemptions will be reviewed on an individual basis. With an approved accommodation travelers will be required to follow the current CH masking protocol.   Additional Information:PLEASE NOTE THAT CONFLUENCE HEALTH PARTICIPATES IN THE MEDEFIS CREDENTIAL SERVICE. PLEASE SUBMIT ALL CREDENTIALS THROUGH THE MEDEFIS PORTAL. THEY ALSO PARTICIPATE IN THE MEDEFIS INVOICING SERVICE OF WHICH KRONOS REPORTS ARE UPLOADED BIWEEKLY.  TRAVELERS ARE NOT TO USE PAPER TIMECARDS.  AGENCY MUST HAVE WA STATE NURSE POOL LICENSE IN ORDER TO HAVE TRAVELERS WORKING AT THIS FACILITY.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262181;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => Wenatchee Valley Medical Center
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

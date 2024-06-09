@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '22',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '934',
+  'Cf-Ray' => '82a46b8616504945-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Start/End Date Date Change
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 542166
+    [workerID] => 262654
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 36
+    [facilityID] => 15883
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-08
+    [workerLastName] => Atkinson
+    [shiftNum] => 4
+    [workerFirstName] => Sonya
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 22 2023 16:56:01
+    [daysPerWeek] => 3
+    [orderNote] => BR:$70lRS:136289
+ChrgDf:P$1/B$3
+Orient:$20lNonBill:24hrs
+FTK: Kronos  No GIFTED timesheets
+    [guaranteedMinimum] => 
+    [workerEmail] => isonya@mac.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => St. Dominic's Hospital (HM)
+    [shiftDateEnd] => 2024-02-24
+    [shiftStartTime] => 06:30
+    [subjectID] => 
+)

@@ -1,0 +1,77 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3944',
+  'Cf-Ray' => '82ce245200db1465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Extension for Shawnell
+
+ Modified Time:11/28/2023 8:00:00 AM
+ Account Manager: Jennifer Davis
+ Account Manager Email: Jennifer.Davis@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceRN &amp; Allied Travelers - A copy of traveler s valid State Issued Driver s License or State ID MUST be attached to ALL submittalsRN candidates only - Must have compact license to applyAmerican Heart Association certs requiredNo more than&nbsp;5&nbsp;days of RTO will be accepted per every 13 weeks (NO HOLIDAY RTO at all)Floating: All candidates must be willing to float to other areas   even if that is another Integris facility, up to 75 miles.&nbsp; Do not sub unless the traveler is aware and willing to float.Traveler must have a minimum of 1 year separation from INTEGRIS as an employee to be eligible for submissionCandidates within&nbsp;75 miles&nbsp;are considered local travelers and are&nbsp;NOT&nbsp;eligible to apply at Integris.ER candidates only: $32 for ESI certification not included in the BROrientation - held every OTHER Tuesday: 11/14/23, 11/28/23, 12/5/23, 12/19/23, 1/9/24, 1/24/24, etc.DOES NOT ACCEPT TRAVEL PAIRS
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 545995
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10736
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RRT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 27 2023 18:27:26
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2321866 ;Status=Open;Association=Vaya Legacy MSP (Connect) ;Client=INTEGRIS Health Ponca City Hospital - OK ;City=Ponca City ;State=OK ;Zip=74601 ;Start=11/28/2023;End=2/27/2024;Duration=91;Cert=Respiratory / Neuro Diagnostics ;Specialty=RRT ;Unit=1171 - Respiratory Care ;Shift=Night 3x12-Hour (19:00 - 07:00);# of Postions=1;Type=Travel;BillRate=$94.00;OTRules=40 total hours in 1 week : 1.4% ;Orientation=8 ;Description=Extension for Shawnell
+
+ Modified Time:11/28/2023 8:00:00 AM
+ Account Manager: Jennifer Davis
+ Account Manager Email: Jennifer.Davis@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceRN &amp; Allied Travelers - A copy of traveler s valid State Issued Driver s License or State ID MUST be attached to ALL submittalsRN candidates only - Must have compact license to applyAmerican Heart Association certs requiredNo more than&nbsp;5&nbsp;days of RTO will be accepted per every 13 weeks (NO HOLIDAY RTO at all)Floating: All candidates must be willing to float to other areas   even if that is another Integris facility, up to 75 miles.&nbsp; Do not sub unless the traveler is aware and willing to float.Traveler must have a minimum of 1 year separation from INTEGRIS as an employee to be eligible for submissionCandidates within&nbsp;75 miles&nbsp;are considered local travelers and are&nbsp;NOT&nbsp;eligible to apply at Integris.ER candidates only: $32 for ESI certification not included in the BROrientation - held every OTHER Tuesday: 11/14/23, 11/28/23, 12/5/23, 12/19/23, 1/9/24, 1/24/24, etc.DOES NOT ACCEPT TRAVEL PAIRS ;url=https://app.ayaconnect.com/index.html#/vendor/job/2321866/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 94
+    [facilityName] => Alliance Health Ponca City - Travel
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

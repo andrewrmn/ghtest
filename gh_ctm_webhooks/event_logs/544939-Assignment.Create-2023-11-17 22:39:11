@@ -1,0 +1,114 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3559',
+  'Cf-Ray' => '827b77e0632b23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:4 East RN Position # 111255062
+Complete Description:4 East is a 31 bed pulmonary and nephrology intermediate care unit. Nurses on this fast-paced unit care for patients with lung, kidney and heart related illness or diagnoses. Nurses monitor and manage patients with ventilators, peritoneal dialysis, arrhythmias and cardiac drips.
+Requisition Comments:Local Rate: 60 miles or less
+10% bill rate reduction 
+
+Lotus Offers- Fast Offers! 
+Candidates will NOT interview. 
+
+Must include RTO in submittal in order to be honored at time of offer!
+Scheduling Details:3x12's, Nights, 7p-7a
+
+Every Other Weekend
+
+No Call
+
+Every other holiday
+
+No Holiday RTO will be approved
+
+Must be OK with floating to other units as required 
+
+No block scheduling
+    [sitename] => giftednurses
+    [spec] => IMC
+    [assignmentid] => 544939
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10747
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-26
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 17 2023 17:39:11
+    [daysPerWeek] => 3
+    [orderNote] => Source=PeopleFluent;SourceID=725074 ;Status=Open;Association=3 East Medical Short Stay Unit, 103 - 110907 - 1100\r\n3 West- General Medicine, 103 - 110908 - 1100\r\n4 East Pulmonary/ Nephrology Intermediate Care, 103 - 110913 - 1100\r\n4 West - Surgical Short Stay Unit, 103 - 110914 - 1100\r\n6 East Surgical Observation, 103 - 110927 - 1100\r\n6 West Orthopedics, 103 - 110932 - 1100\r\n7 East Adult Bariatric and Thoracic Surgery, 103 - 110935 - 1100\r\n7 West General Surgery, 103 - 110940 - 1100\r\nEmergency Dept, 103 - 240216 - 1100\r\nStaffing Reponse Team, 103 - 110045 - 1100\r\n5 West Neuro, 103 - 110923 - 1100\r\n5 East Oncology, 103 - 110919 - 1100 ;Client=UNC Health ;Start=12/26/2023;End=3/23/2024;Duration=88;Cert=RN ;Specialty=IMC ;Unit=RN - 4 East (Pulmonary IMC/MS) - Nights - UNC Rex ;Shift=3x12.0 3x12's, Nights, 7p-7a
+
+Every Other Weekend
+
+No Call
+
+Every other holiday
+
+No Holiday RTO will be approved
+
+Must be OK with floating to other units as required 
+
+No block scheduling;# of Postions=1;Type=Travel;BillRate=$76.00;Description=Short Description:4 East RN Position # 111255062
+Complete Description:4 East is a 31 bed pulmonary and nephrology intermediate care unit. Nurses on this fast-paced unit care for patients with lung, kidney and heart related illness or diagnoses. Nurses monitor and manage patients with ventilators, peritoneal dialysis, arrhythmias and cardiac drips.
+Requisition Comments:Local Rate: 60 miles or less
+10% bill rate reduction 
+
+Lotus Offers- Fast Offers! 
+Candidates will NOT interview. 
+
+Must include RTO in submittal in order to be honored at time of offer!
+Scheduling Details:3x12's, Nights, 7p-7a
+
+Every Other Weekend
+
+No Call
+
+Every other holiday
+
+No Holiday RTO will be approved
+
+Must be OK with floating to other units as required 
+
+No block scheduling ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=725074;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 76
+    [facilityName] => UNC REX Healthcare TRAVEL
+    [shiftDateEnd] => 2024-03-23
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

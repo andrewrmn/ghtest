@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7983',
+  'Cf-Ray' => '8306a8cfe4c1183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Cottage Hospital is looking for a dynamic, compassionate, reliable Registered Nurse (RN) for our 10-bed Geriatric Psych unit RAY OF HOPE.  Work on a team of RNs, LNAs, APRN and Social Worker to provide care to patients with Alzheimer's, Dementia and other mental health issues. Will base practice on identified principles and standards of care. Experience in geriatrics and/or behavioral health preferred as Registered Nurse (RN).  Responsibilities will include, but not be limited to patient assessment, medical administration, treatment planning, and participation in quality improvement activities.  Applicants must have valid NH RN license as well as current BLS certification. About us:Cottage Hospital is not just a place to work, it is a place to make a difference in the lives of the residents of the Upper Connecticut Valley. For 120 years, our hospital has been a symbol of excellence and compassion in healthcare. We have built a culture of excellence where everyone strives to provide the best care possible. Our dedication to quality is evident in the numerous national awards we have received, including the Healthstrong Award for Excellence and being recognized as one of the top 100 Critical Access Hospitals in the country.At Cottage Hospital, we believe in putting the consumer first by offering cutting-edge services at a reasonable cost. As a designated Trauma Center for adults and pediatrics, we are able to provide life-saving care in emergencies. Our multi-specialty Rural Health Clinic, Center of Orthopedic Excellence, and Ray of Hope acute voluntary inpatient mental health unit further demonstrate our commitment to meeting the diverse needs of our community.But it's not just about the awards and accolades. We are truly honored to be a part of each patient's healthcare journey. Our mission is to strengthen the health of our community, and we take that responsibility seriously. We pledge to provide accessible, compassionate, and quality care to all who walk through our doors!Location: Woodsville New HampshireNot only will you find personal fulfillment in working at our critical access hospital, but you will also have the opportunity to make a significant impact on the community we serve. Woodsville is a charming town located in the picturesque region of Northern New Hampshire, surrounded by the natural beauty of the White Mountains and the Connecticut River. As the one of the sole healthcare providers for both Rural Vermont and New Hampshire, our hospital plays a crucial role in ensuring access to healthcare for the residents of these rural communities. By joining our team, you will be part of a mission-driven organization that is dedicated to improving the health and well-being of our neighbors and fostering a sense of community.Beyond the hospital walls, Woodsville and the surrounding area offer a variety of recreational activities for outdoor enthusiasts. Enjoy hiking, skiing, snowboarding, and snowshoeing in the nearby White Mountain National Forest. Take scenic drives along the Kancamagus Highway or explore the many hiking trails that lead to breathtaking views. For those who appreciate a calm and peaceful setting, there are ample opportunities for fishing, boating, and camping in the area.   Position Urgency:Normal Billing string = Cottage Hospital
+    [sitename] => giftednurses
+    [spec] => Psych
+    [assignmentid] => 545949
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9588
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 04 2023 15:04:35
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262157 ;Status=Open;Association=Cottage Hospital ;Client=Cottage Hospital ;City=Woodsville ;State=NH ;Zip='03785 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=RN ;Specialty=Psychiatric Geriatric ;Unit=Psychiatric Geriatric ;Shift=Night Shift 7p - 7a;# of Postions=2;Type=Travel;BillRate=$90.00;OTRate=90 ;OTRules=By The Week, after 40, ;CallbackRate=90 (All Inclusive Rate) ;HolidayRate=100 (All Inclusive Rate + $10) ;OnCallRateDescription=$2 per hour pager ;Description=Cottage Hospital is looking for a dynamic, compassionate, reliable Registered Nurse (RN) for our 10-bed Geriatric Psych unit RAY OF HOPE.  Work on a team of RNs, LNAs, APRN and Social Worker to provide care to patients with Alzheimer's, Dementia and other mental health issues. Will base practice on identified principles and standards of care. Experience in geriatrics and/or behavioral health preferred as Registered Nurse (RN).  Responsibilities will include, but not be limited to patient assessment, medical administration, treatment planning, and participation in quality improvement activities.  Applicants must have valid NH RN license as well as current BLS certification. About us:Cottage Hospital is not just a place to work, it is a place to make a difference in the lives of the residents of the Upper Connecticut Valley. For 120 years, our hospital has been a symbol of excellence and compassion in healthcare. We have built a culture of excellence where everyone strives to provide the best care possible. Our dedication to quality is evident in the numerous national awards we have received, including the Healthstrong Award for Excellence and being recognized as one of the top 100 Critical Access Hospitals in the country.At Cottage Hospital, we believe in putting the consumer first by offering cutting-edge services at a reasonable cost. As a designated Trauma Center for adults and pediatrics, we are able to provide life-saving care in emergencies. Our multi-specialty Rural Health Clinic, Center of Orthopedic Excellence, and Ray of Hope acute voluntary inpatient mental health unit further demonstrate our commitment to meeting the diverse needs of our community.But it's not just about the awards and accolades. We are truly honored to be a part of each patient's healthcare journey. Our mission is to strengthen the health of our community, and we take that responsibility seriously. We pledge to provide accessible, compassionate, and quality care to all who walk through our doors!Location: Woodsville New HampshireNot only will you find personal fulfillment in working at our critical access hospital, but you will also have the opportunity to make a significant impact on the community we serve. Woodsville is a charming town located in the picturesque region of Northern New Hampshire, surrounded by the natural beauty of the White Mountains and the Connecticut River. As the one of the sole healthcare providers for both Rural Vermont and New Hampshire, our hospital plays a crucial role in ensuring access to healthcare for the residents of these rural communities. By joining our team, you will be part of a mission-driven organization that is dedicated to improving the health and well-being of our neighbors and fostering a sense of community.Beyond the hospital walls, Woodsville and the surrounding area offer a variety of recreational activities for outdoor enthusiasts. Enjoy hiking, skiing, snowboarding, and snowshoeing in the nearby White Mountain National Forest. Take scenic drives along the Kancamagus Highway or explore the many hiking trails that lead to breathtaking views. For those who appreciate a calm and peaceful setting, there are ample opportunities for fishing, boating, and camping in the area.   Position Urgency:Normal Billing string = Cottage Hospital ;url=https://vms.medefis5.com/jobs/262157;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Cottage Hospital
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

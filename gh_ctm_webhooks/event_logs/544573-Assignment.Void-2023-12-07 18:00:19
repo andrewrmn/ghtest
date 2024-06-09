@@ -1,0 +1,113 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6194',
+  'Cf-Ray' => '831eaade11786a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Sterile Processing Tech
+Shift: 5x8s, 3p-1130p (M-F)
+Experience required:- Sterilization, Decontaminate and assembly/wrap SPT experience
+Types of cases preferred: Neuro, GU, robotics, ENT, ortho, Transplant, GYN
+Years of experience REQ: 2 year s experience.
+First-timers accepted: (Y/N) No
+Level 1 Trauma experience-required
+Weekend REQ:  rotating call-once every other month
+National Certs REQ: CBSPD and/or IAHCSMM
+BLS REQ: (Y/N) no
+Will clinician float within scope to meet facility needs? yes
+Floating Req to Sister Facilities: (Y/N): yes
+Locals accepted: (Y/N) What is the local radius rule? Yes, 50 miles
+RTO Restrictions: ALL RTO must be provided at time of submission. No RTO will be approved after contract is signed. Approval based on dept needs
+*May be required to float to CSC or ART. 
+
+
+ Modified Time:12/4/2023 5:00:00 AM
+
+ Account Manager: Nicole Newman Qualivis
+
+ Account Manager Email: Nicole.Newman@qualivis.com
+
+ COVID-19 Vaccine: Not Required
+
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+
+ Submittal Details: #Tier3 Travel ComplianceSSN is required to submit. Will not hire without a licenseWill not hire with pending licenseLocal radius: 50 miles. Locals accepted on a case by case basis at lower ratePerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 544573
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3712
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-02
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => December, 07 2023 13:00:18
+    [daysPerWeek] => 5
+    [orderNote] => Source=AYA;SourceID=2312616 ;Status=Open;Association=Qualivis MSP ;Client=MUSC Health Charleston ;City=Charleston ;State=SC ;Zip=29425 ;Start=1/2/2024;End=4/2/2024;Duration=91;Cert=Surgical Services ;Specialty=Sterile Processing Tech (SPT) ;Unit=CHS SPD (Sterile Processing) (Main)      , CC000677 ;Shift=Mid 5x8-Hour (15:00 - 23:30);# of Postions=1;Type=Travel;BillRate=$48.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Sterile Processing Tech
+Shift: 5x8s, 3p-1130p (M-F)
+Experience required:- Sterilization, Decontaminate and assembly/wrap SPT experience
+Types of cases preferred: Neuro, GU, robotics, ENT, ortho, Transplant, GYN
+Years of experience REQ: 2 year s experience.
+First-timers accepted: (Y/N) No
+Level 1 Trauma experience-required
+Weekend REQ:  rotating call-once every other month
+National Certs REQ: CBSPD and/or IAHCSMM
+BLS REQ: (Y/N) no
+Will clinician float within scope to meet facility needs? yes
+Floating Req to Sister Facilities: (Y/N): yes
+Locals accepted: (Y/N) What is the local radius rule? Yes, 50 miles
+RTO Restrictions: ALL RTO must be provided at time of submission. No RTO will be approved after contract is signed. Approval based on dept needs
+*May be required to float to CSC or ART. 
+
+Backfill GS
+
+ Modified Time:1/2/2024 12:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:High
+ Submittal Details: #Tier3 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal radius: 50 miles. Locals accepted on a case by case basis at lower ratePerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2312616/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 48
+    [facilityName] => MUSC- Medical Center
+    [shiftDateEnd] => 2024-04-02
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

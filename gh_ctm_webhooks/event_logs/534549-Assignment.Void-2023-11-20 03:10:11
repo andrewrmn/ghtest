@@ -1,0 +1,141 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7210',
+  'Cf-Ray' => '828d7f96e3391466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:THIS POSITION IS AUTO-OFFER
+Unit: Surgical 3B - Mercy Hospital Springfield
+Specialty: Tele
+Role/Title: RN
+Shift: Days, 0700-1900
+
+Guaranteed Hours: 36 or 48
+- must be indicated on submission form
+Assignment Length: 8-26 weeks
+- must be indicated on submission form
+ALL CONTINGENCY REQUESTS MUST BE ON THE SUBMISSION FORM
+Required Licensure:
+Current RN
+License (Meets the criteria to be eligible for licensure in state of Missouri or currently licensed in the state of Missouri.)
+Required Certifications:
+BLS from AHA only,
+Must have 4 trauma credits OR must have them completed within the first two weeks from start
+,
+NIHSS (may be submitted without, but must obtain prior to start)
+Preferred Certifications:
+ACLS from AHA only
+Required Experience:
+1 year Tele
+Must be willing to float when neededMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsCall Requirements- None
+Float Requirements- will float on a rotational basis
+Patient Ratios: varies. Days 1:5-1:6, nights 1:6-1:8
+(estimates, not guarantees)
+Equipment- Alaris pumps, telemetry, lift equipment
+EMR-EPIC
+Must Have Skills/Experience- BLS
+Scrub Color   Black
+
+Number of beds: 32
+Type of Patients on Unit:
+Specialty Surgery   GI/GU/ENT/Urology
+Personality Fit: Calm demeanor, collaborator, and communicative
+
+Overview: Performs direct patient care activities for all age groups to include assessment, planning, implementation, and evaluation. Monitors and coordinates patient care activities with ancillary departments to optimize patient care and comfort. Functions within the scope of nursing preparation and consistent with the established guidelines of nursing practice, the Missouri Nurse Practice Act, Mercy Code of Conduct, Mercy Mission and Values and Mercy Service Standards.  
+
+Working Conditions, Mental and Physical Requirements: Stand and walk most of the time on duty. Meet unit specific physical demands. Significant amount of bending and stooping, as well as lifting and turning patients with assistance. May be required to work differing schedules, shifts, days of the week, or work frequency according to patient care requirements. High risk exposure to blood and body fluids. Physical demands are attached plus push, pull, and grip up to 50 lbs., pinch up to 15 lbs., kneel, crouch, and crawl minimally.   Utilizes the nursing process to provide patient care for patient post trauma, surgical interventions and medical comorbitities. Maintains professional accountability for provision of patient care. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards.
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 534549
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13126
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 22:10:10
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=763930 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Springfield ;City=Springfield ;State=MO ;Zip=65804 ;Start=10/30/2023;End=1/29/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=Mercy ;Shift=07:00-19:00;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:THIS POSITION IS AUTO-OFFER
+Unit: Surgical 3B - Mercy Hospital Springfield
+Specialty: Tele
+Role/Title: RN
+Shift: Days, 0700-1900
+
+Guaranteed Hours: 36 or 48
+- must be indicated on submission form
+Assignment Length: 8-26 weeks
+- must be indicated on submission form
+ALL CONTINGENCY REQUESTS MUST BE ON THE SUBMISSION FORM
+Required Licensure:
+Current RN
+License (Meets the criteria to be eligible for licensure in state of Missouri or currently licensed in the state of Missouri.)
+Required Certifications:
+BLS from AHA only,
+Must have 4 trauma credits OR must have them completed within the first two weeks from start
+,
+NIHSS (may be submitted without, but must obtain prior to start)
+Preferred Certifications:
+ACLS from AHA only
+Required Experience:
+1 year Tele
+Must be willing to float when neededMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsCall Requirements- None
+Float Requirements- will float on a rotational basis
+Patient Ratios: varies. Days 1:5-1:6, nights 1:6-1:8
+(estimates, not guarantees)
+Equipment- Alaris pumps, telemetry, lift equipment
+EMR-EPIC
+Must Have Skills/Experience- BLS
+Scrub Color   Black
+
+Number of beds: 32
+Type of Patients on Unit:
+Specialty Surgery   GI/GU/ENT/Urology
+Personality Fit: Calm demeanor, collaborator, and communicative
+
+Overview: Performs direct patient care activities for all age groups to include assessment, planning, implementation, and evaluation. Monitors and coordinates patient care activities with ancillary departments to optimize patient care and comfort. Functions within the scope of nursing preparation and consistent with the established guidelines of nursing practice, the Missouri Nurse Practice Act, Mercy Code of Conduct, Mercy Mission and Values and Mercy Service Standards.  
+
+Working Conditions, Mental and Physical Requirements: Stand and walk most of the time on duty. Meet unit specific physical demands. Significant amount of bending and stooping, as well as lifting and turning patients with assistance. May be required to work differing schedules, shifts, days of the week, or work frequency according to patient care requirements. High risk exposure to blood and body fluids. Physical demands are attached plus push, pull, and grip up to 50 lbs., pinch up to 15 lbs., kneel, crouch, and crawl minimally.   Utilizes the nursing process to provide patient care for patient post trauma, surgical interventions and medical comorbitities. Maintains professional accountability for provision of patient care. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards. ;url=https://vendor.healthtrustws.com/positions/763930;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital Springfield TRAVEL
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

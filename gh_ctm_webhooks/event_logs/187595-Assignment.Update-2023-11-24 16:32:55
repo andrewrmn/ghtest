@@ -1,0 +1,70 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3210',
+  'Cf-Ray' => '82b30cf655c21466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+Provides direct patient care including treatments, activities, nourishment, drugs, and parenteral therapy in a safe and competent manner to the medical, cardiac or surgical patient.    Carries out physician orders to insure patient care is complete.  Abides by policy and procedure of hospital and established routines to assure quality care is provided.  Gives patient assignments and supervises care of others when in charge.parseGeneralComments Comments
+.bd_title { font-weight: bold }
+Reason for opening - Coverage for Leave             *******************************************************************************              Willing to review clinicians with pending state license? NoWhat is the work schedule for this position? (days needed, hours or shift)
+2 Days - 6:30A to 7:00P
+2 Nights - 6:30P to 7:00AScrub colors / dress code: Navy Contact: CHS MSP HOUSE Resource Manager: Suhani Desai
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 187595
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9491
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-01-25
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 24 2023 11:32:48
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=426199 ;Status=Open;Client=DeTar Healthcare System ;City=Victoria ;State=TX ;Zip=77904 ;Start=1/11/2021;End=4/12/2021;Duration=91;Cert=Registered Nurse (RN) ;Specialty=Medical Surgical ;Unit=MED/SURG/TELE UNIT ;Shift=for this position? (days needed, hours or shift) 2 Days - 6:30A to 7:00P 2 Nights - 6:30P to 7:00AScrub colors / dress code: Navy;# of Postions=4;Type=Travel;BillRate=$85.00;Description=Position Description
+Provides direct patient care including treatments, activities, nourishment, drugs, and parenteral therapy in a safe and competent manner to the medical, cardiac or surgical patient.    Carries out physician orders to insure patient care is complete.  Abides by policy and procedure of hospital and established routines to assure quality care is provided.  Gives patient assignments and supervises care of others when in charge.parseGeneralComments Comments
+.bd_title { font-weight: bold }
+Reason for opening - Coverage for Leave             *******************************************************************************              Willing to review clinicians with pending state license? NoWhat is the work schedule for this position? (days needed, hours or shift)
+2 Days - 6:30A to 7:00P
+2 Nights - 6:30P to 7:00AScrub colors / dress code: Navy Contact: CHS MSP HOUSE Resource Manager: Suhani Desai ;Buyer=CHS MSP HOUSE ;url=https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=426199&null;VMSPositionType=Travel InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => DeTar Hospital - North 
+    [shiftDateEnd] => 2021-04-26
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

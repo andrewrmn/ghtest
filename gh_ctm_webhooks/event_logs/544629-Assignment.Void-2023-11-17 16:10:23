@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3813',
+  'Cf-Ray' => '82793e55e1f76a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Responsibilities:  As a Registered Nurse in the Family Birth Center, you will be caring for patients before, during and after t the delivery of a baby.  You will utilize your unique skills and ideas by:Assessing and caring for patients.  Documenting, implementing and updating plans of care. Collaborating with all members of the healthcare team to implement and evaluate a patient s status and treatment plan.Cross-training and floating to other areas of nursing as required.Interacting with patient and significant others, while maintaining the standard of professional nursing.  Qualified Candidates:To be seriously considered for this role, you ll need to have:Graduation from an accredited school of nursing.RN License in the State of Colorado, or compact license.BLS, ACLS and NRP certifications   Additional Information:***PLEASE REVIEW/NOTE ALL JOB DESCRIPTIONS AND MEET CERTIFICATIONS*** **Colorado adult protective services (CAPS)check required*** Please note rural Gunnison does not have public transportation which will require the traveler to have access to a reliable source of transportation.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 544629
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10071
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-20
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 17 2023 11:10:22
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261113 ;Status=Open;Association=Gunnison Valley Health ;Client=Gunnison Valley Health ;City=Gunnison ;State=CO ;Zip=81230 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=Nursing ;Specialty=Obstetrics RN, Labor and Delivery Nurse, Registered Nurse ;Unit=Obstetrics RN, Labor and Delivery Nurse, Registered Nurse ;Shift=Three 12-hour shifts, Nights.  7p - 7a;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$95.00;OTRate=105 ;OTRules=By The Week, after 40, ;CallbackRate=105 (All Inclusive Rate + $10) ;HolidayRate=105 (All Inclusive Rate + $10) ;OnCallRateDescription=$2 per hour pager ;Description=Responsibilities:  As a Registered Nurse in the Family Birth Center, you will be caring for patients before, during and after t the delivery of a baby.  You will utilize your unique skills and ideas by:Assessing and caring for patients.  Documenting, implementing and updating plans of care. Collaborating with all members of the healthcare team to implement and evaluate a patient s status and treatment plan.Cross-training and floating to other areas of nursing as required.Interacting with patient and significant others, while maintaining the standard of professional nursing.  Qualified Candidates:To be seriously considered for this role, you ll need to have:Graduation from an accredited school of nursing.RN License in the State of Colorado, or compact license.BLS, ACLS and NRP certifications   Additional Information:***PLEASE REVIEW/NOTE ALL JOB DESCRIPTIONS AND MEET CERTIFICATIONS*** **Colorado adult protective services (CAPS)check required*** Please note rural Gunnison does not have public transportation which will require the traveler to have access to a reliable source of transportation.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261113;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Gunnison Valley Hospital
+    [shiftDateEnd] => 2024-02-19
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

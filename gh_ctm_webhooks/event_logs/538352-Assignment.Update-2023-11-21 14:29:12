@@ -1,0 +1,84 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2374',
+  'Cf-Ray' => '82999f9e14881836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:The RN Circulator manages all the necessary care inside the surgery room, assisting the team in maintaining and creating a comfortable, safe environment for the patient and the observing team from a wide perspective. He or she must ensure all surgical team members perform in a unified effort. This position is Mon - Fri 0700-1530 with on call as needed.
+
+
+$80 Bill RateMonday thru Friday 0700 to 1530
+On-Call
+8-10 days out of 42 days.
+
+Required: ACLS, BLS &amp; PALS
+
+NM License
+ General CommentsContract Replacement.    
+
+PCR # 1111-001
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 538352
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 8284
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:30
+    [whenmodified] => November, 21 2023 09:28:55
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=750622 ;Status=Open;Association=Community Health Systems ;Client=Carlsbad Medical Center ;City=Carlsbad ;State=NM ;Zip=88220 ;Start=9/11/2023;End=12/11/2023;Duration=91;Cert=RN ;Specialty=OR ;Unit=EXT-Other (911) ;Shift=07:00-15:30;# of Postions=3;Type=Travel;BillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:The RN Circulator manages all the necessary care inside the surgery room, assisting the team in maintaining and creating a comfortable, safe environment for the patient and the observing team from a wide perspective. He or she must ensure all surgical team members perform in a unified effort. This position is Mon - Fri 0700-1530 with on call as needed.
+
+
+$80 Bill RateMonday thru Friday 0700 to 1530
+On-Call
+8-10 days out of 42 days.
+
+Required: ACLS, BLS &amp; PALS
+
+NM License
+ General CommentsContract Replacement.    
+
+PCR # 1111-001 ;url=https://vendor.healthtrustws.com/positions/750622;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Carlsbad Medical Center
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

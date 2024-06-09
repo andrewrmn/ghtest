@@ -1,0 +1,104 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3569',
+  'Cf-Ray' => '8315523f16b9183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => *Please add in the submission if the candidate is interested in 36 or 48 hours*
+Stepdown Tele Unit- may be asked to float to other MS/Tele
+If interested in 48 hours, please let me know
+Shift: 3x12s, 19:00-07:00 
+Years of experience REQ: 2 years
+Certs REQ: BLS
+Prefer experience with Telemetry
+Stepdown experience would be great!
+RTO Restrictions: Please make sure RTO is in the submittal
+
+
+Hospital Highlights
+Type of Facility: Short Term Acute Care
+Magnet / Teaching / Level Trauma (if applicable): Type: Level II Trauma Center
+Total Staffed Beds: 394
+
+ Modified Time:11/27/2023 12:00:00 AM
+ Account Manager: Lisa Beebe
+ Account Manager Email: Lisa.Beebe@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel Compliance* Local Travelers are accepted at the same bill rateMinimum 1 year experienceWill hire without a licenseWill hire with pending licenseNursys or other license verification must be includedAll MS candidates will be part of a resource pool, floating to 5 MS and 4 Tele unitStaff RNs cannot return to facility as travelers
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543854
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3576
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 06 2023 09:46:55
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2301649 ;Status=Open;Association=Qualivis EPA ;Client=AnMed Health Medical Center ;City=Anderson ;State=SC ;Zip=29621-5793 ;Start=11/27/2023;End=3/11/2024;Duration=105;Cert=Registered Nurse ;Specialty=MS/Tele Float ;Unit=5 South - Pulmonary/Stepdown Tele ;Shift=Night 3x12-Hour (19:00 - 07:00);# of Postions=1;Type=Travel;BillRate=$85.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=*Please add in the submission if the candidate is interested in 36 or 48 hours*
+Stepdown Tele Unit- may be asked to float to other MS/Tele
+If interested in 48 hours, please let me know
+Shift: 3x12s, 19:00-07:00 
+Years of experience REQ: 2 years
+Certs REQ: BLS
+Prefer experience with Telemetry
+Stepdown experience would be great!
+RTO Restrictions: Please make sure RTO is in the submittal
+
+
+Hospital Highlights
+Type of Facility: Short Term Acute Care
+Magnet / Teaching / Level Trauma (if applicable): Type: Level II Trauma Center
+Total Staffed Beds: 394
+
+ Modified Time:11/27/2023 12:00:00 AM
+ Account Manager: Lisa Beebe
+ Account Manager Email: Lisa.Beebe@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel Compliance* Local Travelers are accepted at the same bill rateMinimum 1 year experienceWill hire without a licenseWill hire with pending licenseNursys or other license verification must be includedAll MS candidates will be part of a resource pool, floating to 5 MS and 4 Tele unitStaff RNs cannot return to facility as travelers ;url=https://app.ayaconnect.com/index.html#/vendor/job/2301649/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => AnMed Health Medical Center
+    [shiftDateEnd] => 2024-04-07
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

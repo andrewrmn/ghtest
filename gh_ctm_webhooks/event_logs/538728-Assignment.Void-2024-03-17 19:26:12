@@ -1,0 +1,633 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7300',
+  'Cf-Ray' => '865f5f8b922c23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN MED SURG
+7:00PM- 7:00AM13 WEEKS
+
+
+MUST HAVE 1 YEAR EXPERIENCE IN A HOSPITAL SETTINGMUST HAVE VA RN LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+   Renal Care Unit             Location: Henrico Doctors Hospital - Forest             
+Address: 1602   Skipwith Road, Richmond, VA 23229
+         
+Floor: 3rd   Floor
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   18
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+37
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   1 clinical coordinator (in   staffing), 4 nurses, 1 PCT
+   
+o
+
+
+   Night Shift   clinical coordinator (in   staffing), 4 nurses, 1 PCT
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   Clinical coordinator     2 Patients, Nurse   4 patients
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   
+tele, vein finder, lift equipment, PD   exchanges, Meditech
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech
+   
+
+
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   Tele   experience
+   
+ 
+
+
+
+
+
+
+
+   Experience   with cardiac drips
+   
+ 
+
+
+
+
+
+
+
+   Manage 4   step down patients
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   Charge   experience
+   
+
+
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   Peritoneal   Dialysis
+ 
+   
+ 
+
+
+
+
+
+
+
+   Cardiac   medications
+   
+ 
+
+
+
+
+
+
+
+   Management   of fistulas/grafts
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   High energy
+   
+ 
+
+
+
+
+
+
+
+   Teamwork
+   
+ 
+
+
+
+
+
+
+
+   Sense of humor
+   
+ 
+
+
+
+
+
+
+
+   Flexibility
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   ACLS and BLS
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   Any other tele unit or medical unit
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire   
+Navy blue 
+   
+
+
+             
+Unit Guidelines/Policies: 
+   
+ 
+
+
+
+
+
+
+
+   Shifts start at   7am/7pm. Agency and Travelers are the first to float. 
+   
+
+
+             Weekends and On call:   
+ 
+
+
+
+
+
+
+
+   No on call
+   
+ 
+
+
+
+
+
+
+
+   Every other   weekend
+ No. of Positions: 3/3.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 538728
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5469
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-03-25
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => March, 17 2024 15:26:11
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=770614 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HENRICO DOCTORS HOSPITAL-FOREST VA ;City=RICHMOND ;State=VA ;Zip=23229 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM-7:00AM;# of Postions=3;Type=Travel;BillRate=$78.00;minBillRate=$78.00;OTRate=86 ;CallbackRate=86 ;HolidayRate=86 ;Description=Description:TRAVEL RN MED SURG
+7:00PM- 7:00AM13 WEEKS
+
+
+MUST HAVE 1 YEAR EXPERIENCE IN A HOSPITAL SETTINGMUST HAVE VA RN LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+   Renal Care Unit             Location: Henrico Doctors Hospital - Forest             
+Address: 1602   Skipwith Road, Richmond, VA 23229
+         
+Floor: 3rd   Floor
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   18
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+37
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   1 clinical coordinator (in   staffing), 4 nurses, 1 PCT
+   
+o
+
+
+   Night Shift   clinical coordinator (in   staffing), 4 nurses, 1 PCT
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   Clinical coordinator     2 Patients, Nurse   4 patients
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   
+tele, vein finder, lift equipment, PD   exchanges, Meditech
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech
+   
+
+
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   Tele   experience
+   
+ 
+
+
+
+
+
+
+
+   Experience   with cardiac drips
+   
+ 
+
+
+
+
+
+
+
+   Manage 4   step down patients
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   Charge   experience
+   
+
+
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   Peritoneal   Dialysis
+ 
+   
+ 
+
+
+
+
+
+
+
+   Cardiac   medications
+   
+ 
+
+
+
+
+
+
+
+   Management   of fistulas/grafts
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   High energy
+   
+ 
+
+
+
+
+
+
+
+   Teamwork
+   
+ 
+
+
+
+
+
+
+
+   Sense of humor
+   
+ 
+
+
+
+
+
+
+
+   Flexibility
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   ACLS and BLS
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   Any other tele unit or medical unit
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire   
+Navy blue 
+   
+
+
+             
+Unit Guidelines/Policies: 
+   
+ 
+
+
+
+
+
+
+
+   Shifts start at   7am/7pm. Agency and Travelers are the first to float. 
+   
+
+
+             Weekends and On call:   
+ 
+
+
+
+
+
+
+
+   No on call
+   
+ 
+
+
+
+
+
+
+
+   Every other   weekend
+ No. of Positions: 3/3. ;url=https://vendor.healthtrustws.com/positions/770614;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 78
+    [facilityName] => Henrico Doctors' Hospital Travel- Forest Campus
+    [shiftDateEnd] => 2024-06-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

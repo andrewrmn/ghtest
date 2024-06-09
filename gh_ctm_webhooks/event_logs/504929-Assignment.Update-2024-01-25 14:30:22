@@ -1,0 +1,170 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3124',
+  'Cf-Ray' => '84b136b396e71464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name
+
+Cardiac Cath Lab - Special Procedure Technician - Mercy South
+
+Facility
+
+Mercy
+
+Location
+
+Mercy Hospital South
+
+Unit
+
+Cardiac Cath Lab
+
+Cost Center
+
+15-446611
+
+External Job ID
+
+154406611
+
+
+
+
+
+
+Name
+
+Cardiac Cath Lab - Special Procedure Technician - Mercy South
+
+Facility
+
+Mercy
+
+Location
+
+Mercy Hospital South
+
+Unit
+
+Cardiac Cath Lab
+
+Cost Center
+
+15-446611
+
+External Job ID
+
+154406611
+ General CommentsMercy South is located in the quiet neighborhood of South St. Louis County, approximately 16 miles from downtown St. Louis. 
+It s a safe and family-friendly community with great parks, shopping, dining, coffee shops, and is considered one of the best places to live in MO.
+ No. of Positions: 1/2.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 504929
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15624
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Cath Lab Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 25 2024 09:30:21
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=719644 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital South ;City=Saint Louis ;State=MO ;Zip=63128 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Cardiac Cath Lab Tech ;Specialty=Cardiac Cath Lab ;Unit=Mercy ;Shift=07:00-19:00;# of Postions=1;Type=Travel;BillRate=$75.00;minBillRate=$75.00;OTRate=83 ;CallbackRate=83 ;HolidayRate=83 ;Orientation=0 ;Description=Description:Name
+
+Cardiac Cath Lab - Special Procedure Technician - Mercy South
+
+Facility
+
+Mercy
+
+Location
+
+Mercy Hospital South
+
+Unit
+
+Cardiac Cath Lab
+
+Cost Center
+
+15-446611
+
+External Job ID
+
+154406611
+
+
+
+
+
+
+Name
+
+Cardiac Cath Lab - Special Procedure Technician - Mercy South
+
+Facility
+
+Mercy
+
+Location
+
+Mercy Hospital South
+
+Unit
+
+Cardiac Cath Lab
+
+Cost Center
+
+15-446611
+
+External Job ID
+
+154406611
+ General CommentsMercy South is located in the quiet neighborhood of South St. Louis County, approximately 16 miles from downtown St. Louis. 
+It s a safe and family-friendly community with great parks, shopping, dining, coffee shops, and is considered one of the best places to live in MO.
+ No. of Positions: 1/2.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/719644;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Mercy Hospital South - Travel
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,151 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3733',
+  'Cf-Ray' => '86361fd6e49977ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL MEDSURG7:00PM - 7:00AM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsHospital:
+ Henrico Doctors Forest
+
+Location: Forest Campus
+
+Address: 1602 Skipworth Road, Richmond, VA
+
+Unit: Oncology Care Unit
+
+General Information
+
+
+
+
+Unit Specifics: 
+Number of Beds: 25Patient Ratios: 1:4-1:5Unit staffing description- (unit secretaries and tech availability): pct on most shiftsDocumentation system: MeditechScheduling requirements: 7P-7A, 3 12 hour shifts, every third weekend
+Hospital Specifics-
+
+Certifications: CPR
+
+
+
+
+Hiring profile
+
+
+
+
+Must have: 
+
+
+
+Advanced skills needed: ability to access portacath or the willingness to learn.
+
+
+
+Dress Code: 
+All navy
+Unit Guidelines/Policies:
+One 1 day and 1 night shift granted PTO at one time, work every third weekend. 
+Any additional information that would entice a worker to select your unit for their assignment:
+Newly renovated unit, new call bell system, new vital sign machines, scales and new IV pump.
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 541967
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5469
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => March, 12 2024 15:17:25
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=759327 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HENRICO DOCTORS HOSPITAL-FOREST VA ;City=RICHMOND ;State=VA ;Zip=23229 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$78.00;minBillRate=$78.00;OTRate=86 ;CallbackRate=86 ;HolidayRate=86 ;Description=Description:TRAVEL MEDSURG7:00PM - 7:00AM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsHospital:
+ Henrico Doctors Forest
+
+Location: Forest Campus
+
+Address: 1602 Skipworth Road, Richmond, VA
+
+Unit: Oncology Care Unit
+
+General Information
+
+
+
+
+Unit Specifics: 
+Number of Beds: 25Patient Ratios: 1:4-1:5Unit staffing description- (unit secretaries and tech availability): pct on most shiftsDocumentation system: MeditechScheduling requirements: 7P-7A, 3 12 hour shifts, every third weekend
+Hospital Specifics-
+
+Certifications: CPR
+
+
+
+
+Hiring profile
+
+
+
+
+Must have: 
+
+
+
+Advanced skills needed: ability to access portacath or the willingness to learn.
+
+
+
+Dress Code: 
+All navy
+Unit Guidelines/Policies:
+One 1 day and 1 night shift granted PTO at one time, work every third weekend. 
+Any additional information that would entice a worker to select your unit for their assignment:
+Newly renovated unit, new call bell system, new vital sign machines, scales and new IV pump.
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/759327;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 78
+    [facilityName] => Henrico Doctors' Hospital Travel- Forest Campus
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

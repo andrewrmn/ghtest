@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4915',
+  'Cf-Ray' => '829d48ec832823b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Midland Health is seeking an experiencedPACU RN needed ASAP.Shift and ScheduleShift: 1pm - 9:30pm M-Fwith 6 - 8 days of On Call per month requiredPosition Summary Performs the essential duties, responsibilities, and the primary functions of a Registered Nurse in assessing, planning, implementing, and evaluating the care of assigned patients Complete a comprehensive assessment. This includes the initial and ongoing, extensive collection, analysis and interpretation of data. Synthesize the data collected during the comprehensive assessment to identify problems, make nursing diagnoses, and to formulate goals, teaching plans and outcomes. Implement the plan of care. The RN may begin, deliver, assign or delegate certain interventions within the plan of care for patients within legal, ethical, and regulatory parameters and in consideration of health restoration, disease prevention, wellness, and promotion of healthy lifestyles. Evaluate and report patient outcomes and responses to therapeutic interventions in comparison to benchmarks from evidence-based practice and research findings and plans any follow-up care and referrals to appropriate resources that may be needed.Skills, Knowledge and AbilitiesBLS, ACLS,  PALSTX or Multistate RN LicenseCCU  Pediatric experience is a MUSTHousing is NO longer offered. Traveler/Agency must secure housing.Mask must be work in all areas of the hospital. Hallways, Cafeteria (unless you are dining), Teaming Stations, Department, Common Areas, Etc.**If a traveler is selected for assignment, a FULL State and County Criminal Background Check is required, not limited to 7 years. **   Additional Information:l   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => PACU
+    [assignmentid] => 544252
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 1326
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 22:00
+    [whenmodified] => November, 21 2023 20:09:03
+    [daysPerWeek] => 5
+    [orderNote] => Source=Medefis5;SourceID=261665 ;Status=Open;Association=Midland Memorial Hospital ;Client=Midland Memorial Hospital ;City=Midland ;State=TX ;Zip=79701 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Nursing ;Specialty=Post Anesthesia Care Unit Nurse (PACU) ;Unit=Post Anesthesia Care Unit Nurse (PACU) ;Shift=Shift: 1pm - 9:30pm  M-F with 6 - 8 days of On Call per month required;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$90.00;OTRate=100 ;OTRules=By The Week, after 40, ;CallbackRate=90 (All Inclusive Rate) ;HolidayRate=100 (All Inclusive Rate + $10) ;OnCallRateDescription=$5 per hour pager ;Description=Midland Health is seeking an experiencedPACU RN needed ASAP.Shift and ScheduleShift: 1pm - 9:30pm M-Fwith 6 - 8 days of On Call per month requiredPosition Summary Performs the essential duties, responsibilities, and the primary functions of a Registered Nurse in assessing, planning, implementing, and evaluating the care of assigned patients Complete a comprehensive assessment. This includes the initial and ongoing, extensive collection, analysis and interpretation of data. Synthesize the data collected during the comprehensive assessment to identify problems, make nursing diagnoses, and to formulate goals, teaching plans and outcomes. Implement the plan of care. The RN may begin, deliver, assign or delegate certain interventions within the plan of care for patients within legal, ethical, and regulatory parameters and in consideration of health restoration, disease prevention, wellness, and promotion of healthy lifestyles. Evaluate and report patient outcomes and responses to therapeutic interventions in comparison to benchmarks from evidence-based practice and research findings and plans any follow-up care and referrals to appropriate resources that may be needed.Skills, Knowledge and AbilitiesBLS, ACLS,  PALSTX or Multistate RN LicenseCCU  Pediatric experience is a MUSTHousing is NO longer offered. Traveler/Agency must secure housing.Mask must be work in all areas of the hospital. Hallways, Cafeteria (unless you are dining), Teaming Stations, Department, Common Areas, Etc.**If a traveler is selected for assignment, a FULL State and County Criminal Background Check is required, not limited to 7 years. **   Additional Information:l   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261665;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Midland Memorial Hospital Medefis
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 13:30
+    [subjectID] => 
+)

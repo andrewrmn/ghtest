@@ -1,0 +1,77 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '186',
+  'Ki-Request-Colo' => '415',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2542',
+  'Cf-Ray' => '830d059bf58802ab-ORD',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => CT Tech - NIGHTS - 13 Weeks 
+
+ Modified Time:11/27/2023 8:00:00 AM
+ Account Manager: Nick LaFontaine
+ Account Manager Email: Nick.LaFontaine@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceRTO   Please submit all RTO at time of submission# of jobs in system we can sub   No LimitRequires specific amount of exp.   Prefer minimum of 1 year experienceValid State License (required at time of submission)   NoCandidates will float within hospital or to an affiliate hospitals nearby   Yes
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 542751
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3523
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 3
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 05 2023 09:36:31
+    [daysPerWeek] => 5
+    [orderNote] => Source=AYA;SourceID=2301162 ;Status=Open;Association=Qualivis Ohio ;Client=Western Reserve Hospital ;City=Cuyahoga Falls ;State=OH ;Zip=44223 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Radiology / Cardiology ;Specialty=CT Tech ;Unit=200 West - Med-Surg, 6012 ;Shift=Night 5x8-Hour (23:00 - 07:00);# of Postions=1;Type=Travel;BillRate=$75.00;OTRules=40 total hours in 1 week : 1.3% ;Description=CT Tech - NIGHTS - 13 Weeks 
+
+ Modified Time:11/27/2023 8:00:00 AM
+ Account Manager: Nick LaFontaine
+ Account Manager Email: Nick.LaFontaine@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceRTO   Please submit all RTO at time of submission# of jobs in system we can sub   No LimitRequires specific amount of exp.   Prefer minimum of 1 year experienceValid State License (required at time of submission)   NoCandidates will float within hospital or to an affiliate hospitals nearby   Yes ;url=https://app.ayaconnect.com/index.html#/vendor/job/2301162/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Western Reserve Hospital
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 23:00
+    [subjectID] => 
+)

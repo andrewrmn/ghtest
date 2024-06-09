@@ -1,0 +1,85 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2237',
+  'Cf-Ray' => '8340ee1eb0f91832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => JHH- Weinburg ICU (WICU)-Surgical ICU -in the Department of Surgery
+
+	Current Surgical ICU Experience- 2 years, at least 2 previous travel assignments
+
+	Recovery of post-surgical patients
+
+	Patient population: trauma, transplant, vascular, GI, Ortho-spine, oncology
+
+	Required:BLS,strong Surgical ICU experience
+
+	Preferred: Critical Care Certification, trauma course,EPIC, ACLS
+
+	Float as needed to area of like skill set.
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 546189
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1877
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => December, 11 2023 16:48:09
+    [daysPerWeek] => 3
+    [orderNote] => Source=IntrastaffVMS;SourceID=305426 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Johns Hopkins Hospital ;Start=1/8/2024;End=4/6/2024;Duration=89;Cert=MSP RN Enhanced High Needs ;Specialty=Weinberg Icu (WICU)  (4801337141) ;Unit=Weinberg Icu (WICU)  (4801337141) ;Shift=Night 12 (7:00 PM - 7:30 AM);# of Postions=1;Type=Travel;BillRate=$100.00;minBillRate=$100.00;Description=JHH- Weinburg ICU (WICU)-Surgical ICU -in the Department of Surgery
+
+	Current Surgical ICU Experience- 2 years, at least 2 previous travel assignments
+
+	Recovery of post-surgical patients
+
+	Patient population: trauma, transplant, vascular, GI, Ortho-spine, oncology
+
+	Required:BLS,strong Surgical ICU experience
+
+	Preferred: Critical Care Certification, trauma course,EPIC, ACLS
+
+	Float as needed to area of like skill set. ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=r6nR7AASgns=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => The Johns Hopkins Hospital TRAVEL
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

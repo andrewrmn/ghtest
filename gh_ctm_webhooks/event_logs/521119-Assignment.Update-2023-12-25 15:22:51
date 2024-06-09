@@ -1,0 +1,207 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4814',
+  'Cf-Ray' => '83b214ea537a23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN ER7P-7A13 WEEKS
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTING
+MUST HAVE VA LICENSE/COMPACT AT SUBMISSION
+BLS/ACLS/CPI REQUIRED
+ General CommentsUnit Information:
+ Cave Spring Freestanding Emergency Department
+
+Address: 2706 Ogden Road, Roanoke, Virginia
+
+Floor: Emergency Department
+
+Building: Cave Spring
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   8Number of Staff   23 RNs totalType of staff:Day Shift   2 7a-7p RNs, 1 9a-9p RN, 1 11a-11p RNNight Shift   2 7p-7a RNsPatient Ratios   1:4Type of equipment   
+GE Monitors, Nursecall system, Small Ventilator, Baxter Pumps, Zoll DefibsEMR   Meditech
+
+
+
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+Independent IV skills, EKG skills and Assessment skillsPrevious ER Experience
+
+
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+Experience in the Freestanding ED setting
+Independent mixing of Pharmacy drugs such as Tpa, KCentra
+
+
+
+List typical procedures performed on unit(s): 
+
+IVs, EKGs, Medication mixing Scanning of medications for every patient / every med. 
+
+
+
+
+Best personality Fit:
+
+Team player, Outgoing, Independent 
+REQUIRED CERTIFICATIONS:
+ACLS, PALS, BLS
+Floating Area(s):
+None
+Dress Code: 
+Scrub Color/Attire   
+Navy or White
+
+
+
+Unit Guidelines/Policies: 
+Holidays required
+
+
+
+Weekends and On call:
+Weekends rotate. 3 Weekend shifts which are Fridays and Saturdays per 4 week schedule
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 521119
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7323
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-14
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 25 2023 10:22:43
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=734142 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=LEWISGALE MEDICAL CENTER VA ;City=SALEM ;State=VA ;Zip=24153 ;Start=12/1/2023;End=3/1/2024;Duration=91;Cert=RN ;Specialty=Emergency Dept ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM-7:00AM;# of Postions=1;Type=Travel;BillRate=$80.00;minBillRate=$80.00;OTRate=88 ;CallbackRate=88 ;HolidayRate=88 ;Orientation=0 ;Description=Description:TRAVEL RN ER7:00PM - 7:00AM13 WEEKS
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTING
+MUST HAVE VA LICENSE/COMPACT AT SUBMISSION
+BLS/ACLS/CPI REQUIRED
+ General CommentsUnit Information:
+ Cave Spring Freestanding Emergency Department
+
+Address: 2706 Ogden Road, Roanoke, Virginia
+
+Floor: Emergency Department
+
+Building: Cave Spring
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   8Number of Staff   23 RNs totalType of staff:Day Shift   2 7a-7p RNs, 1 9a-9p RN, 1 11a-11p RNNight Shift   2 7p-7a RNsPatient Ratios   1:4Type of equipment   
+GE Monitors, Nursecall system, Small Ventilator, Baxter Pumps, Zoll DefibsEMR   Meditech
+
+
+
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+Independent IV skills, EKG skills and Assessment skillsPrevious ER Experience
+
+
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+Experience in the Freestanding ED setting
+Independent mixing of Pharmacy drugs such as Tpa, KCentra
+
+
+
+List typical procedures performed on unit(s): 
+
+IVs, EKGs, Medication mixing Scanning of medications for every patient / every med. 
+
+
+
+
+Best personality Fit:
+
+Team player, Outgoing, Independent 
+REQUIRED CERTIFICATIONS:
+ACLS, PALS, BLS
+Floating Area(s):
+None
+Dress Code: 
+Scrub Color/Attire   
+Navy or White
+
+
+
+Unit Guidelines/Policies: 
+Holidays required
+
+
+
+Weekends and On call:
+Weekends rotate. 3 Weekend shifts which are Fridays and Saturdays per 4 week schedule
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/734142;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => LewisGale Medical Center Salem Campus Travel
+    [shiftDateEnd] => 2024-04-14
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

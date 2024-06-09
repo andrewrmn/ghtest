@@ -1,0 +1,215 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5254',
+  'Cf-Ray' => '828d6f72644c6a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN MEDSURG7A - 7P13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+ 6 Front Telemetry, Med Surg, Trauma
+
+Location: CJW Chippenham
+
+Address: 7101 Jahnke Road Richmond, VA
+ 23225
+
+Floor: 6th Floor
+
+Building: Main Hospital
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds -
+ 33Number of Staff   
+55Type of staff:Day Shift   (1 charge, Unit Secretary, 7-8 RN, 2-3 PCT)Night Shift   (1 charge, Unit Secretary, 7-8 RN, 2 PCT)Patient Ratios   5 to 6:1Type of equipment   EKG, Code cart, Welch Allyn vital machines, Vascular Doppler, wound vacs, Cultura Link interpreting services, Carescape monitors for rhythm monitoring at bedside when administering push meds such as metoprololEMR   Meditech
+
+
+
+Typical hiring profile
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+
+BLS &amp; ACLS
+Pass our Basic Rhythm test
+
+
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+Experience on Medical Surgical
+Excellent patient focus
+
+
+
+List typical procedures performed on unit(s): 
+
+
+Small I &amp; D s
+Peritoneal Dialysis
+Thoracentesis (not very often)
+
+
+
+Best personality Fit:
+
+High energy 
+Positive attitude
+Dress Code: 
+Scrub Color -
+ navyNo cotton jackets, dress code enforced
+
+
+
+Awards/Recognition: 
+
+
+Most improved HCHAPS
+Many Daisy nominations
+
+
+
+Any additional information that would entice a worker to select your unit for their assignment:
+Hospital of the future which includes centrak, 55  TV s with interactive white boards, Virtual sitter rooms, and currently being renovated to include low profile showers, and decorative tile.
+ Level I trauma Hospital.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 536282
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8325
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 21:59:08
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=766592 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=CJW MEDICAL CENTER CHIPPENHAM CAMPUS VA ;City=RICHMOND ;State=VA ;Zip=23225 ;Start=11/5/2023;End=2/4/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=CAPITAL DIVISION (20) ;Shift=7A-7P;# of Postions=1;Type=Travel;BillRate=$78.00;OTRate=86 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL RN MEDSURG7A - 7P13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+ 6 Front Telemetry, Med Surg, Trauma
+
+Location: CJW Chippenham
+
+Address: 7101 Jahnke Road Richmond, VA
+ 23225
+
+Floor: 6th Floor
+
+Building: Main Hospital
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds -
+ 33Number of Staff   
+55Type of staff:Day Shift   (1 charge, Unit Secretary, 7-8 RN, 2-3 PCT)Night Shift   (1 charge, Unit Secretary, 7-8 RN, 2 PCT)Patient Ratios   5 to 6:1Type of equipment   EKG, Code cart, Welch Allyn vital machines, Vascular Doppler, wound vacs, Cultura Link interpreting services, Carescape monitors for rhythm monitoring at bedside when administering push meds such as metoprololEMR   Meditech
+
+
+
+Typical hiring profile
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+
+BLS &amp; ACLS
+Pass our Basic Rhythm test
+
+
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+Experience on Medical Surgical
+Excellent patient focus
+
+
+
+List typical procedures performed on unit(s): 
+
+
+Small I &amp; D s
+Peritoneal Dialysis
+Thoracentesis (not very often)
+
+
+
+Best personality Fit:
+
+High energy 
+Positive attitude
+Dress Code: 
+Scrub Color -
+ navyNo cotton jackets, dress code enforced
+
+
+
+Awards/Recognition: 
+
+
+Most improved HCHAPS
+Many Daisy nominations
+
+
+
+Any additional information that would entice a worker to select your unit for their assignment:
+Hospital of the future which includes centrak, 55  TV s with interactive white boards, Virtual sitter rooms, and currently being renovated to include low profile showers, and decorative tile.
+ Level I trauma Hospital. ;url=https://vendor.healthtrustws.com/positions/766592;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 78
+    [facilityName] => Chippenham Medical Center
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

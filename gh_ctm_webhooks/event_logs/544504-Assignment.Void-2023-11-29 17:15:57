@@ -1,0 +1,113 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2164',
+  'Cf-Ray' => '82dc7edf43936a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => The Johns Hopkins Hospital - Weinberg 4A
+
+	
+
+	Oncology acute care oncology - Preferred a strong Med Surg RN
+
+	
+
+	Weekends: Every other weekend
+
+	Holidays: As needed by the unit
+
+	On -call: No on - call required
+
+	
+
+	Required:
+		Current RN license
+		2 years nursing experience
+		BLS
+	
+
+	Preferred:
+		Oncology
+		Alaris pumps
+		Beacon preferred
+		EPIC inpatient role
+    [sitename] => giftednurses
+    [spec] => Oncol
+    [assignmentid] => 544504
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1877
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 29 2023 12:15:56
+    [daysPerWeek] => 3
+    [orderNote] => Source=IntrastaffVMS;SourceID=304460 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Johns Hopkins Hospital ;Start=12/11/2023;End=3/9/2024;Duration=89;Cert=MSP RN Enhanced High Needs ;Specialty=Weinberg 4A (4801337020) ;Unit=Weinberg 4A (4801337020) ;Shift=Night 12 (7:00 PM - 7:30 AM);# of Postions=1;Type=Travel;BillRate=$85.00;minBillRate=$85.00;Description=The Johns Hopkins Hospital - Weinberg 4A
+
+	
+
+	Oncology acute care oncology - Preferred a strong Med Surg RN
+
+	
+
+	Weekends: Every other weekend
+
+	Holidays: As needed by the unit
+
+	On -call: No on - call required
+
+	
+
+	Required:
+		Current RN license
+		2 years nursing experience
+		BLS
+	
+
+	Preferred:
+		Oncology
+		Alaris pumps
+		Beacon preferred
+		EPIC inpatient role ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=Q5iuMKsBlm8=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => The Johns Hopkins Hospital TRAVEL
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,69 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1615',
+  'Cf-Ray' => '831d768b13b91836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:SEASONAL-CONTRACT-RN- MEDSURG/TELE 5C(612)-13 WEEKS -7A-7P
+MUST HAVE NEURO EXP.
+JANUARY 7TH, 2024 STARTS
+ General Comments
+ No. of Positions: 3/3.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545181
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6727
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 07 2023 09:29:49
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=769909 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=SOUTH AUSTIN HOSPITAL TX ;City=AUSTIN ;State=TX ;Zip=78704 ;Start=1/7/2024;End=4/7/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=CENTRAL AND WEST TEXAS DIVISION (50) ;Shift=07:00-19:00;# of Postions=3;Type=Travel;BillRate=$60.00;OTRate=68 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:SEASONAL-CONTRACT-RN- MEDSURG/TELE 5C(612)-13 WEEKS -7A-7P
+MUST HAVE NEURO EXP.
+JANUARY 7TH, 2024 STARTS
+ General Comments
+ No. of Positions: 3/3. ;url=https://vendor.healthtrustws.com/positions/769909;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 60
+    [facilityName] => St. David's South Austin Medical Center
+    [shiftDateEnd] => 2024-04-07
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

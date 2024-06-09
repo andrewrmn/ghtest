@@ -1,0 +1,123 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5444',
+  'Cf-Ray' => '82a3f10b233323c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Patient Diagnoses: 
+Diverticulitis, Colitis  
+Pancreatitis, various cancers   
+Small Bowel, delayed gastro emptying  Obstructions, Tracheal stenosis,  
+various fistulas, hip fractures 
+
+Special Procedures/Unit Details:  
+Triple AAA repair, exploratory lap, laryngectomy, ileostomy take down, esophageal ectomy, Whipple, gastrectomy, chest tubes, lung resection, VAT, RAT, liver resections 
+
+Special Equipment: 
+IS, bedside commode, polar ice, urinals, continuous Doppler inside surgical wound, bear hugger, specialty beds, wound vac, bladder irrigations 
+
+Patient Ratio: 1:4 
+Float requirement 
+Epic experience required 
+Unit does not accept first time travelers 
+
+Required Certifications: 
+BCLS 
+
+Preferred Certifications: 
+NIH, ACLS, PCU Cert 
+
+Backfill for D Dingle (13 Weeks)
+
+ Modified Time:12/4/2023 12:00:00 AM
+ Account Manager: Ashley Belarmino
+ Account Manager Email: Ashley.Belarmino@vayaworkforce.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceFacility does not accept local travelers. Must be over 65 miles (address on drivers license to site address)Must have 2 years  experience in specialty for all locations. (New Orleans operating room req. 3 years)**NO CALL IN!**RTO must be on profile and brought up in the interview or there is a high chance offer's will be rescinded.Compact or LA license in hand upon submittalOrientation held 5 days a weekReferences:&nbsp;Not required for submission, however 2 Manager/Supervisor references will be required to obtain clearance to start contract. Recruiter, please obtain Manager/Supervisor contact information prior to submission. Charge RNs are NOT acceptable. PDF formatAHA certifications are requiredAWHONN Intermediate is required for L&amp;D RNCPI required for all CNAER nurses must have CPI, or be able to get it before start. &nbsp;This cert is somewhat difficult to get, so please be prepared for this.
+    [sitename] => giftednurses
+    [spec] => Stepdown
+    [assignmentid] => 544283
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3320
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 22 2023 15:32:24
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2303593 ;Status=Open;Association=Vaya MSP ;Client=Ochsner Medical Center - New Orleans ;City=New Orleans ;State=LA ;Zip=70121-2484 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Registered Nurse ;Specialty=Step down ;Unit=Vaya - GI Stepdown Unit 1082080 ;Shift=Night 3x12-Hour (18:45 - 07:15);# of Postions=1;Type=Travel;BillRate=$85.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=8 ;Description=Patient Diagnoses: 
+Diverticulitis, Colitis  
+Pancreatitis, various cancers   
+Small Bowel, delayed gastro emptying  Obstructions, Tracheal stenosis,  
+various fistulas, hip fractures 
+
+Special Procedures/Unit Details:  
+Triple AAA repair, exploratory lap, laryngectomy, ileostomy take down, esophageal ectomy, Whipple, gastrectomy, chest tubes, lung resection, VAT, RAT, liver resections 
+
+Special Equipment: 
+IS, bedside commode, polar ice, urinals, continuous Doppler inside surgical wound, bear hugger, specialty beds, wound vac, bladder irrigations 
+
+Patient Ratio: 1:4 
+Float requirement 
+Epic experience required 
+Unit does not accept first time travelers 
+
+Required Certifications: 
+BCLS 
+
+Preferred Certifications: 
+NIH, ACLS, PCU Cert 
+
+Backfill for D Dingle (13 Weeks)
+
+ Modified Time:12/4/2023 12:00:00 AM
+ Account Manager: Ashley Belarmino
+ Account Manager Email: Ashley.Belarmino@vayaworkforce.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceFacility does not accept local travelers. Must be over 65 miles (address on drivers license to site address)Must have 2 years  experience in specialty for all locations. (New Orleans operating room req. 3 years)**NO CALL IN!**RTO must be on profile and brought up in the interview or there is a high chance offer's will be rescinded.Compact or LA license in hand upon submittalOrientation held 5 days a weekReferences:&nbsp;Not required for submission, however 2 Manager/Supervisor references will be required to obtain clearance to start contract. Recruiter, please obtain Manager/Supervisor contact information prior to submission. Charge RNs are NOT acceptable. PDF formatAHA certifications are requiredAWHONN Intermediate is required for L&amp;D RNCPI required for all CNAER nurses must have CPI, or be able to get it before start. &nbsp;This cert is somewhat difficult to get, so please be prepared for this. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2303593/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Ochsner Medical Center- Main Campus Travel
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

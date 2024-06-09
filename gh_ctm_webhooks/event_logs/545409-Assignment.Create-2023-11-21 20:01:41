@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '21',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3155',
+  'Cf-Ray' => '829b86a550194941-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 11/21/2023 1155 CSTAmy Dew
+                            
+                            
+                                ** Order for prebooked staff with Fusion Medical only**Minimum of 2 years of critical care experience required.Bill rate $90.00COVID patientsEpic Experience preferredBasic Arrhythmia exam score of 85% or greaterJob DescriptionPosition Title:	Clinical Nurse II	Department:	NGH NURSING ADMINISTRATIONJob Code:	917, 920v2	Entity:	NASH HOSPITALSEffective Date:	5/1/18	FLSA Status:	Non-Exempt				POSITION SUMMARYCommentsThe Clinical Nurse II is a clinically competent practitioner of nursing as defined by Benner, P. (1984). From Novice to Expert. Addison-Wesley Publishing Company. The nurse at this level provides nursing care to the general unit population with minimal g
+ RatePlan:Crisis Rates - 2020
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 545409
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10836
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 21 2023 15:01:40
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;SourceID=10647844 ;Status=Open;Association=Nash UNC Healthcare ;Client=Nash UNC Critical Care ;City=Rocky Mount ;State=NC ;Zip=27804 ;Start=12/11/2023;End=3/9/2024;Duration=90;Cert=RN ;Specialty=ICU ;Unit=NGH Critical Care + 3E ;Shift=PM 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$90.00;minBillRate=$90.00;OTRate=Multiplier 1.500 ;OTRules=Multiplier 1.500 ;CallbackRate=Multiplier 1.500 ;HolidayRate=Multiplier 1.500 ;Description=11/21/2023 1155 CSTAmy Dew
+                            
+                            
+                                ** Order for prebooked staff with Fusion Medical only**Minimum of 2 years of critical care experience required.Bill rate $90.00COVID patientsEpic Experience preferredBasic Arrhythmia exam score of 85% or greaterJob DescriptionPosition Title:	Clinical Nurse II	Department:	NGH NURSING ADMINISTRATIONJob Code:	917, 920v2	Entity:	NASH HOSPITALSEffective Date:	5/1/18	FLSA Status:	Non-Exempt				POSITION SUMMARYCommentsThe Clinical Nurse II is a clinically competent practitioner of nursing as defined by Benner, P. (1984). From Novice to Expert. Addison-Wesley Publishing Company. The nurse at this level provides nursing care to the general unit population with minimal g
+ RatePlan:Crisis Rates - 2020 ;url=https://secure.shiftwise.net/esp/order.aspx?order_id=AE65E3DE39C23DBC3D0FA45183CAB86B;minPayRate=$90.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Nash UNC Healthcare Travel - SW
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

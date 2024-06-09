@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3979',
+  'Cf-Ray' => '8299d777025a6a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => We are seeking experienced nurses;The candidates must have current WI License and CPR/BLS. RN must be fully vaccinated for COVID-19 and Flu.*Only considering candidates livingoutside of 60 miles from this facility.*Travel RN may be required to float to other units.This position will be Night Shift and require every other weekend  holiday.ESSENTIAL DUTIES AND RESPONSIBILITIESUtilizes the nursing process and collaborates with interdisciplinary team members in caring for patients.Administers prescribed medications and treatments in accordance with approved nursing techniques, policies and procedures, standards of care, and State laws/practice act.Documents according to standards of care.Develops, initiates, and executes a patient plan of care according to the individualized needs of the patient, as prescribed by Physician and/or hospital policy including patient and family instruction.Participates in department or unit performance improvement activities, may include shared governance.Utilizes clinical expertise  guidance to other units/departments in support of the patient s longitudinal plan of care.Utilizes critical thinking in regards to patient safety and patient experience and appropriately escalates to the appropriate chain of command.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 545329
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11295
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 21 2023 10:07:19
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261984 ;Status=Open;Association=Mercyhealth ;Client=Mercyhealth Hopsital and Medical Center - Walworth ;City=Lake Geneva ;State=WI ;Zip=53147 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Nursing ;Specialty=Emergency Room Nurse ;Unit=Emergency Room Nurse ;Shift=Night Shift;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$90.00;OTRate=100 ;OTRules=By The Week, after 40, ;HolidayRate=100 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=We are seeking experienced nurses;The candidates must have current WI License and CPR/BLS. RN must be fully vaccinated for COVID-19 and Flu.*Only considering candidates livingoutside of 60 miles from this facility.*Travel RN may be required to float to other units.This position will be Night Shift and require every other weekend  holiday.ESSENTIAL DUTIES AND RESPONSIBILITIESUtilizes the nursing process and collaborates with interdisciplinary team members in caring for patients.Administers prescribed medications and treatments in accordance with approved nursing techniques, policies and procedures, standards of care, and State laws/practice act.Documents according to standards of care.Develops, initiates, and executes a patient plan of care according to the individualized needs of the patient, as prescribed by Physician and/or hospital policy including patient and family instruction.Participates in department or unit performance improvement activities, may include shared governance.Utilizes clinical expertise  guidance to other units/departments in support of the patient s longitudinal plan of care.Utilizes critical thinking in regards to patient safety and patient experience and appropriately escalates to the appropriate chain of command.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261984;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Mercyhealth Hospital and Medical Center - Walworth
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

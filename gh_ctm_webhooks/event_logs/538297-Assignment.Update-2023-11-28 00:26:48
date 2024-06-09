@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5059',
+  'Cf-Ray' => '82ce7b4142056a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Quick start needed for 11/13!Medicine Specialty Unit RNRN must have 2+ years of experience in Med/Surg and Progressive Care or ICU level of care. Manager will consider under 2 years of experience, if this is not the candidates first travel assignment or have academic hospital experience.The Unit: Mixed medical surgical general care, telemetry, and progressive care unit with 28 beds. As medicine is its own division and considered a true specialty here our nurse to patient ratio is 4:1 and occasionally go to 5:1, but that is the exception and not the rule. This unit takes a wide variety of patients with primary diagnosis being Sepsis, Sickle Cell Anemia, and Heart Failure. The unit is supported by patient care techs and a unit secretary 24 hours a day 7 days a week and we have experienced nurses, experienced charge nurses, and clinical coordinators who will ensure that you have support while with us. As an academic center you will have access to physicians and a staffed Rapid Response Team 24 hours a day 7 days a week. While we are not a COVID unit we do care for COVID patients and you MUST be able to care for them when the need arises.-All will be required to work every other weekend (Sat/Sun) and will be required to work one of the holidays (if it falls within their contract period). If the holiday falls on their weekend they will be required to work it.3 - 12 hr shifts per week (36 hrs)Shift: nightsMay be required to float to other units but will be put in the normal rotation of the unitBLS and ACLS required.AU 2113/ CC100239   Additional Information:Orientation: The first 16 hours of orientation are unpaid. Call Off Policy: 5 shifts (or the equivalent hours) per 13 week assignment.  Parking: Travelers may need to  pay for parking at VCU depending on how close they want to be to the hospital.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 538297
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3760
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 27 2023 19:26:41
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=260356 ;Status=Open;Association=VCU Health ;Client=VCU Medical Center ;City=Richmond ;State=VA ;Zip=23298 ;Start=11/13/2023;End=2/12/2024;Duration=91;Cert=Nursing ;Specialty=PCU ;Unit=PCU ;Shift=Nights - 3x12s;# of Postions=3;Guaranteed Hours=36;Type=Travel;BillRate=$93.00;OTRate=103 ;OTRules=By The Week, after 40, ;CallbackRate=93 (All Inclusive Rate) ;HolidayRate=93 (All Inclusive Rate) ;OnCallRateDescription=$10 per hour pager ;Description=Quick start needed for 11/13!Medicine Specialty Unit RNRN must have 2+ years of experience in Med/Surg and Progressive Care or ICU level of care. Manager will consider under 2 years of experience, if this is not the candidates first travel assignment or have academic hospital experience.The Unit: Mixed medical surgical general care, telemetry, and progressive care unit with 28 beds. As medicine is its own division and considered a true specialty here our nurse to patient ratio is 4:1 and occasionally go to 5:1, but that is the exception and not the rule. This unit takes a wide variety of patients with primary diagnosis being Sepsis, Sickle Cell Anemia, and Heart Failure. The unit is supported by patient care techs and a unit secretary 24 hours a day 7 days a week and we have experienced nurses, experienced charge nurses, and clinical coordinators who will ensure that you have support while with us. As an academic center you will have access to physicians and a staffed Rapid Response Team 24 hours a day 7 days a week. While we are not a COVID unit we do care for COVID patients and you MUST be able to care for them when the need arises.-All will be required to work every other weekend (Sat/Sun) and will be required to work one of the holidays (if it falls within their contract period). If the holiday falls on their weekend they will be required to work it.3 - 12 hr shifts per week (36 hrs)Shift: nightsMay be required to float to other units but will be put in the normal rotation of the unitBLS and ACLS required.AU 2113/ CC100239   Additional Information:Orientation: The first 16 hours of orientation are unpaid. Call Off Policy: 5 shifts (or the equivalent hours) per 13 week assignment.  Parking: Travelers may need to  pay for parking at VCU depending on how close they want to be to the hospital.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260356;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 93
+    [facilityName] => VCU Medical Center - TRAVEL
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

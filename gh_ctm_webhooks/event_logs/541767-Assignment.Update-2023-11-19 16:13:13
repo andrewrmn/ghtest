@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2843',
+  'Cf-Ray' => '8289bd32b5996a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Certified Surgical Tech needed for busy OROn-Call at least 1 - 2 weekend per month, plus 4-5 weekday shifts per week, holiday call is requiredA minimum of 2 years of scrub tech experience in an ORMust have strong background in Neuro and OrthoBLS Certification is required2 recent referencesFloating to Sister OR required**Shannon Medical Center has a 110 mile radius rule, no contractor will be employed if they live within this radius.**   Additional Information:**Shannon Medical does NOT hire travelers/contractors that have a permanent address within 110 miles of the facility.**   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ORT
+    [assignmentid] => 541767
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1343
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-03
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => ORT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 11:12:25
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=252782 ;Status=Open;Association=Shannon Medical Center ;Client=Shannon Medical Center ;City=San Angelo ;State=TX ;Zip=76903 ;Start=6/23/2023;End=9/22/2023;Duration=91;Cert=Nursing ;Specialty=OR Technologist, Surgical Technologist, Scrub Technologist, Operating Room / Circulation & Scrub, Operating Room / Scrub ;Unit=OR Technologist, Surgical Technologist, Scrub Technologist, Operating Room / Circulation & Scrub, Operating Room / Scrub ;Shift=To be discussed;# of Postions=6;Guaranteed Hours=36;Type=Travel;BillRate=$85.00;OTRate=95 ;OTRules=By The Week, after 48, ;CallbackRate=95 (All Inclusive Rate + $10) ;HolidayRate=95 (All Inclusive Rate + $10) ;OnCallRateDescription=$2 per hour pager ;Description=Certified Surgical Tech needed for busy OROn-Call at least 1 - 2 weekend per month, plus 4-5 weekday shifts per week, holiday call is requiredA minimum of 2 years of scrub tech experience in an ORMust have strong background in Neuro and OrthoBLS Certification is required2 recent referencesFloating to Sister OR required**Shannon Medical Center has a 110 mile radius rule, no contractor will be employed if they live within this radius.**   Additional Information:**Shannon Medical does NOT hire travelers/contractors that have a permanent address within 110 miles of the facility.**   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/252782;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Shannon Medical Center Medefis
+    [shiftDateEnd] => 2024-03-03
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

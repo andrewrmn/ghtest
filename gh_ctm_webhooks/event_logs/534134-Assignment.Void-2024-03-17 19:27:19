@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1255',
+  'Cf-Ray' => '865f6133c7131832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 534134
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13399
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-04-08
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => March, 17 2024 15:27:19
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=47114 ;Status=In-Progress (O);Association=Trinity Health ;Client=IA - MercyOne Waterloo Medical Center ;City=Waterloo ;State=IA ;Zip=50702 ;Start=3/17/2024;End=6/15/2024;Duration=90;Cert=RN Medical / Surgical ;Specialty=2G ;Unit=*Registered Nurse-Med Surg-2G ;Shift=7p7a;# of Postions=1;Type=Travel;BillRate=$82.00;OTRate=106.60 ;ChargeRate=85.00 ;CallbackRate=106.60 ;HolidayRate=106.60 ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 82
+    [facilityName] => MercyOne Waterloo Medical Center - Travel
+    [shiftDateEnd] => 2024-07-07
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

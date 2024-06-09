@@ -1,0 +1,580 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '9518',
+  'Cf-Ray' => '82ccd7dab78e1832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:50 MILE RADIUS REQUIRED
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overland Park Regional Medical Center
+
+10500 Quivira Rd
+
+Overland Park, KS
+66215
+
+Facility Overview:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overland Park Regional Medical Center has been serving the healthcare needs of Johnson County and the surrounding counties since December of 1978. The hospital is a licensed 343-bed facility offering acute medical care services to our patients. The hospital campus features four medical office buildings, two pharmacies and the offices of more than 100 physicians.
+
+Values:
+
+
+
+
+Integrity
+  We must model high, ethical standards, which means doing the right thing when no one is looking and walking the talk as leaders.
+
+Compassion
+  No longer are we to live by the Golden Rule, but rather we are to live and operate by the Platinum Rule, which is to treat people how they want to be treated and being responsive to their needs.
+
+Always
+  We are focused on creating a Culture of Always. This means every patient, every time and every touch. Always. Not Sometimes, Not Usually. Always.
+
+Respect
+  It is imperative to demonstrate respect and teamwork to each and every employee, while focusing on patient-centered care.
+
+Excellence
+  When you add the first four values together (Integrity, Compassion, Always and Respect), we will be the destination of Excellence and our metrics and indicators will prove it.
+
+
+
+Facts about Overland Park Regional Medical CenterDirections
+Patient Stories
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Unit Profile
+
+The purpose of a unit profile is to provide an exceptional
+screenshot
+of the unit.
+
+Profiles
+should include
+unique details to assist recruiting professional in effectively and efficiently identifying highly qualified staff.
+
+
+Below you will find a data collection tool to help you identify essential data needed to complete your profile.
+
+
+
+
+
+
+
+
+Hospital:
+
+Overland Park Regional Medical Center
+
+Location:
+Overland Park Kansas
+
+Address:10500
+Quivira
+Rd
+
+Unit
+Name:
+ICU
+
+Building:
+Main hospital
+
+Cost Center:65022
+
+General Information
+
+Unit Specifics:
+Number of Beds :25Patient
+Ratios
+:1:2Unit staffing description- (unit secretaries and tech availability) :Charge, Unit Sec. 7a-11p, no Tech, Edu.Type of equipment
+:Alaris
+pumps, GE monitorsDocumentation
+system:MediTechScheduling
+requirements:Self
+Scheduling, work every 3rd
+weekendFloating
+policy:Travel/Ag. 1st
+to float. Float only to tele to take pts, other areas as  helper/resource Patient Experience requirements:
+AIDET,
+Hospital Specifics-
+Certifications:
+BLS, ACLS
+Hiring profile
+
+Requested Skill Set:
+
+
+
+
+
+Must have:
+Critical Care Experience, strong communication skills, adaptability to change.
+
+
+
+
+Advanced skills needed:
+neuro and trauma experience a plus
+
+
+
+
+Procedures performed on unit:
+
+Open heart recovery,
+
+Bedside: cardioversions,
+Bronch, CRRT,
+Impella
+
+
+
+
+Certifications Required:
+BLS/ACLS
+
+
+
+
+Dress Code:
+(Required uniform)
+
+Scrubs -
+
+Royal Blue
+Unit Guidelines/Policies:
+Please
+attach unit
+specific
+policies and guidelines.
+
+
+Awards/Recognition:
+
+
+Working towards Unit of Distinction , organization in process of Pathway to Excellence
+Any additional information that would entice a worker to select your unit
+for their assignment:
+
+
+Strong collaborative teamwork environment
+ General Comments
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 541968
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2998
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 27 2023 14:40:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=762577 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=OVERLAND PARK REGIONAL MEDICAL CENTER KS ;City=Overland Park ;State=KS ;Zip=66215 ;Start=11/19/2023;End=2/11/2024;Duration=84;Cert=RN ;Specialty=ICU ;Unit=MIDAMERICA DIVISION (48) ;Shift=7P-7A;# of Postions=1;Type=Travel;BillRate=$77.00;OTRate=85 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:50 MILE RADIUS REQUIRED
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overland Park Regional Medical Center
+
+10500 Quivira Rd
+
+Overland Park, KS
+66215
+
+Facility Overview:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overland Park Regional Medical Center has been serving the healthcare needs of Johnson County and the surrounding counties since December of 1978. The hospital is a licensed 343-bed facility offering acute medical care services to our patients. The hospital campus features four medical office buildings, two pharmacies and the offices of more than 100 physicians.
+
+Values:
+
+
+
+
+Integrity
+  We must model high, ethical standards, which means doing the right thing when no one is looking and walking the talk as leaders.
+
+Compassion
+  No longer are we to live by the Golden Rule, but rather we are to live and operate by the Platinum Rule, which is to treat people how they want to be treated and being responsive to their needs.
+
+Always
+  We are focused on creating a Culture of Always. This means every patient, every time and every touch. Always. Not Sometimes, Not Usually. Always.
+
+Respect
+  It is imperative to demonstrate respect and teamwork to each and every employee, while focusing on patient-centered care.
+
+Excellence
+  When you add the first four values together (Integrity, Compassion, Always and Respect), we will be the destination of Excellence and our metrics and indicators will prove it.
+
+
+
+Facts about Overland Park Regional Medical CenterDirections
+Patient Stories
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Unit Profile
+
+The purpose of a unit profile is to provide an exceptional
+screenshot
+of the unit.
+
+Profiles
+should include
+unique details to assist recruiting professional in effectively and efficiently identifying highly qualified staff.
+
+
+Below you will find a data collection tool to help you identify essential data needed to complete your profile.
+
+
+
+
+
+
+
+
+Hospital:
+
+Overland Park Regional Medical Center
+
+Location:
+Overland Park Kansas
+
+Address:10500
+Quivira
+Rd
+
+Unit
+Name:
+ICU
+
+Building:
+Main hospital
+
+Cost Center:65022
+
+General Information
+
+Unit Specifics:
+Number of Beds :25Patient
+Ratios
+:1:2Unit staffing description- (unit secretaries and tech availability) :Charge, Unit Sec. 7a-11p, no Tech, Edu.Type of equipment
+:Alaris
+pumps, GE monitorsDocumentation
+system:MediTechScheduling
+requirements:Self
+Scheduling, work every 3rd
+weekendFloating
+policy:Travel/Ag. 1st
+to float. Float only to tele to take pts, other areas as  helper/resource Patient Experience requirements:
+AIDET,
+Hospital Specifics-
+Certifications:
+BLS, ACLS
+Hiring profile
+
+Requested Skill Set:
+
+
+
+
+
+Must have:
+Critical Care Experience, strong communication skills, adaptability to change.
+
+
+
+
+Advanced skills needed:
+neuro and trauma experience a plus
+
+
+
+
+Procedures performed on unit:
+
+Open heart recovery,
+
+Bedside: cardioversions,
+Bronch, CRRT,
+Impella
+
+
+
+
+Certifications Required:
+BLS/ACLS
+
+
+
+
+Dress Code:
+(Required uniform)
+
+Scrubs -
+
+Royal Blue
+Unit Guidelines/Policies:
+Please
+attach unit
+specific
+policies and guidelines.
+
+
+Awards/Recognition:
+
+
+Working towards Unit of Distinction , organization in process of Pathway to Excellence
+Any additional information that would entice a worker to select your unit
+for their assignment:
+
+
+Strong collaborative teamwork environment
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/762577;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 77
+    [facilityName] => Overland Park Regional Medical Center
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

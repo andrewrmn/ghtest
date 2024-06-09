@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '960',
+  'Cf-Ray' => '82a4574c648c6a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By RN; Clinician Not Willing to Return
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 540164
+    [workerID] => 224286
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 16050
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-19
+    [workerLastName] => Fontana
+    [shiftNum] => 4
+    [workerFirstName] => Alexa
+    [cert] => RN
+    [floorDesc] => Intensive Care
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 22 2023 16:42:12
+    [daysPerWeek] => 2
+    [orderNote] => EXTENSION 
+BR:$115lRS:132439lFTK:API 
+ChrgDiff:P$1/B$3lOnCl:P$10/B$18
+    [guaranteedMinimum] => 
+    [workerEmail] => alexamfontana@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 115
+    [facilityName] => AHS - Overlook Medical Center
+    [shiftDateEnd] => 2023-12-23
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

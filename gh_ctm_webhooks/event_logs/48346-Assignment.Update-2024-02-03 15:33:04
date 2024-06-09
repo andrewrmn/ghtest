@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1306',
+  'Cf-Ray' => '84fbbaec01501836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 01/22/2019 0816 MSTBernadette Rollins					for KEARNS onlyhttps://secure.shiftwise.net/esp/order.aspx?order_id=718E7CA109566953
+    [sitename] => giftednurses
+    [spec] => PICU
+    [assignmentid] => 48346
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 42.5
+    [facilityID] => 2478
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-02-25
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:30
+    [whenmodified] => February, 03 2024 10:32:17
+    [daysPerWeek] => 5
+    [orderNote] => Source=ShiftWise;ID=0;SourceID=7956638;Status=Open;Client=AH: Dell Children's Medical Center;City=Austin;State=TX;Start=2/11/2019;End=5/18/2019;Duration=97;Cert=RN;Specialty=PICU;Unit=DCMC Intermediate Care Unit;Shift=NOC 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$72.58;Description=01/22/2019 0816 MSTBernadette Rollins					for KEARNS onlyhttps://secure.shiftwise.net/esp/order.aspx?order_id=718E7CA109566953;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 72.58
+    [facilityName] => Dell Children's Medical Center
+    [shiftDateEnd] => 2019-05-31
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,134 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3783',
+  'Cf-Ray' => '8307c0b8a19c23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:RN for 3 West at UNC Lenoir Healthcare in Kinston NC
+Complete Description:3 West is a 61 bed unit, with Adult and Geriatrics, Primarily Med/Surg Unit with Cardiac and Telemetry cared for by hospitalist,  Patient Diagnosis include but not limited to CHF, ESRD, CVA, HTN, DM, COPD, Post Cath, Stable IV drips, Telemetry (techs available),  61 bed unit with Nurse patient ratio 1 to 6
+
+Floating may occur to similar type units at UNC Lenoir Health Care
+
+Required - NIH/Stroke Certifications 
+Chemo certification would be a major asset for this unit due to care of cancer patients.
+ACLS & NIH is a plus but not required
+Requisition Comments:Lotus Offers- Fast Offers! 
+Candidates will NOT interview. 
+
+Must include RTO in submittal in order to be honored at time of offer!
+
+Traveler is expected to float to like acuities or less if needed
+
+Req: BLS,NIH/Stroke Certification (prior to assign)
+Scheduling Details:3-12 Hour Shifts: Nights 
+19:00-07:00 
+
+Open to 4x12's
+
+Weekend: EOW, EOH
+Call: No specific call - depend on the needs of the facility
+
+Nurse patient ratio 1:6
+
+No block scheduling
+
+Preferred: ACLS/CPI
+
+40 mile radius
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 544948
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3617
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 04 2023 18:15:31
+    [daysPerWeek] => 3
+    [orderNote] => Source=PeopleFluent;SourceID=725083 ;Status=Open;Association=3 West ;Client=UNC Health ;Start=12/11/2023;End=3/30/2024;Duration=110;Cert=RN ;Specialty=PCU Tele ;Unit=RN - 3 West Medical Telemetry - Nights - UNC Lenoir Health Care ;Shift=3x12.0 3-12 Hour Shifts: Nights 
+19:00-07:00 
+
+Open to 4x12's
+
+Weekend: EOW, EOH
+Call: No specific call - depend on the needs of the facility
+
+Nurse patient ratio 1:6
+
+No block scheduling
+
+Preferred: ACLS/CPI
+
+40 mile radius;# of Postions=1;Type=Travel;BillRate=$90.00;Description=Short Description:RN for 3 West at UNC Lenoir Healthcare in Kinston NC
+Complete Description:3 West is a 61 bed unit, with Adult and Geriatrics, Primarily Med/Surg Unit with Cardiac and Telemetry cared for by hospitalist,  Patient Diagnosis include but not limited to CHF, ESRD, CVA, HTN, DM, COPD, Post Cath, Stable IV drips, Telemetry (techs available),  61 bed unit with Nurse patient ratio 1 to 6
+
+Floating may occur to similar type units at UNC Lenoir Health Care
+
+Required - NIH/Stroke Certifications 
+Chemo certification would be a major asset for this unit due to care of cancer patients.
+ACLS & NIH is a plus but not required
+Requisition Comments:Lotus Offers- Fast Offers! 
+Candidates will NOT interview. 
+
+Must include RTO in submittal in order to be honored at time of offer!
+
+Traveler is expected to float to like acuities or less if needed
+
+Req: BLS,NIH/Stroke Certification (prior to assign)
+Scheduling Details:3-12 Hour Shifts: Nights 
+19:00-07:00 
+
+Open to 4x12's
+
+Weekend: EOW, EOH
+Call: No specific call - depend on the needs of the facility
+
+Nurse patient ratio 1:6
+
+No block scheduling
+
+Preferred: ACLS/CPI
+
+40 mile radius ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=725083;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Lenoir Memorial Hospital
+    [shiftDateEnd] => 2024-04-12
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

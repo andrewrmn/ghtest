@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '22',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1970',
+  'Cf-Ray' => '83574c89f25a4945-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Children's Hospital in Helena, MT looking for a Pediatric Psychiatric RN. Will work a variety of shifts that could be 10 or 12 hrs long. This is a night shift position.CPI preferred.   Position Urgency:Quick Start Billing string = Shodair Children's Hospital
+    [sitename] => giftednurses
+    [spec] => Psych
+    [assignmentid] => 543930
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10442
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-31
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 14 2023 09:57:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=259759 ;Status=Open;Association=Shodair Children's Hospital ;Client=Shodair Children's Hospital ;City=Helena ;State=MT ;Zip=59601 ;Start=10/23/2023;End=1/22/2024;Duration=91;Cert=Nursing ;Specialty=Pediatric, Psychiatric Adolescent, Psychiatric Peds ;Unit=Pediatric, Psychiatric Adolescent, Psychiatric Peds ;Shift=Will work a variety of shifts that could be 10 or 12 hrs long;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$70.00;minBillRate=$27.93;OTRate=80 ;OTRules=By The Week, after 40, ;HolidayRate=80 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=Children's Hospital in Helena, MT looking for a Pediatric Psychiatric RN. Will work a variety of shifts that could be 10 or 12 hrs long. This is a night shift position.CPI preferred.   Position Urgency:Quick Start Billing string = Shodair Children's Hospital ;url=https://vms.medefis5.com/jobs/259759;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Shodair Children's Hospital
+    [shiftDateEnd] => 2024-03-31
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2848',
+  'Cf-Ray' => '83f46532c25e77bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => We are recruiting for an experienced Emergency Department Nurse to join our Critical Access Hospital  team. This is a supportive environment, with flexible work schedules and very  						low nurse-to-patient ratios allow for a rewarding work/life  balance. Our nurses collaborate closely with the Providers to provide  						patient-centered care to the rural community. Ferry County is an  outdoor paradise, with many recreation activities available throughout  						all the seasons! 						You will have the opportunity to provide a wide variety of  services to the community of Ferry County! 12 hour NOC ShiftLow nurse/patient ratiosHousing providedPotential to extend up to 20 weeks   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 178759
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3544
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-01-25
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => January, 02 2024 11:31:57
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=168825 ;Status=Open;Client=Ferry County Health ;City=Republic ;State=WA ;Zip=99166 ;Start=12/7/2020;End=2/1/2021;Duration=56;Cert=Nursing ;Specialty=Emergency Room Nurse ;Unit=Emergency Room Nurse ;Shift=NOC;# of Postions=1;Type=Travel;BillRate=$70.00;OTRate=70 ;OTRules=By The Week, after 40, All Inclusive Rate ;CallbackRate=70 (All Inclusive Rate) ;HolidayRate=70 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=We are recruiting for an experienced Emergency Department Nurse to join our Critical Access Hospital  team. This is a supportive environment, with flexible work schedules and very  						low nurse-to-patient ratios allow for a rewarding work/life  balance. Our nurses collaborate closely with the Providers to provide  						patient-centered care to the rural community. Ferry County is an  outdoor paradise, with many recreation activities available throughout  						all the seasons! 						You will have the opportunity to provide a wide variety of  services to the community of Ferry County! 12 hour NOC ShiftLow nurse/patient ratiosHousing providedPotential to extend up to 20 weeks   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/168825;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 77
+    [facilityName] => Washington Registry- Ferry County Memorial Hospital
+    [shiftDateEnd] => 2021-03-22
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

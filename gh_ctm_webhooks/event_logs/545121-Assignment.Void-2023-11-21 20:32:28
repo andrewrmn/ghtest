@@ -1,0 +1,97 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4411',
+  'Cf-Ray' => '829bb3be70494951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => **MUST HAVE ORTHO, OB, AND ENT EXP**
+6:30-3:00 or 6;30-5:00 dayshift and call. Manager will talk with candidate about 8 hour shifts or 10 hour shifts.
+
+Start date: ASAP
+Contract length: 13 weeks
+Possible extension: Yes
+Shift dates: Weekdays, some weekends, every other weekend
+Experience required: 1 year
+Travel experience: Preferred
+EMR: Meditech
+Additional requirements: Prefer non smoker
+
+ Modified Time:12/18/2023 12:00:00 AM
+ Account Manager: Amber Neal
+ Account Manager Email: Amber.neal@qualivis.com
+ COVID-19 Vaccine: Unknown
+ Flu Vaccine: Unknown
+ Submittals:High
+ Submittal Details: #Tier2 Travel ComplianceSSN: Not required at submissionDOB: Not required at submissionRTO: Required at submissionRequires specific amount of exp.: 1 year of experienceValid State License not required at time of submission but must have in hand before startMile Radius Rule Applies: 50 milesReferences Required: Yes, 2 at time of submissionLocal Rules: Not acceptedCandidates will float within hospital or to an affiliate hospitals nearby: Yes, within hospitalCopy of Certifications: Not required at time of submissionNo Specific Charting Exp. RequiredBill rate (for hospitals that use bidding system): N/ABackground Policy to be noted prior to submission: Hits get sent to the facility for approvalReturn Staff Policy: Facility does not accept previous employees as travelersNeed 2 weeks/ 14 calendar days+ at minimum lead time from Booking to Start to account for Credentialing/Compliance.
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 545121
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5414
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 21 2023 15:32:27
+    [daysPerWeek] => 4
+    [orderNote] => Source=AYA;SourceID=2314491 ;Status=Open;Association=Qualivis EPA ;Client=North Arkansas Regional Medical Center ;City=Harrison ;State=AR ;Zip=72601 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Surgical Services ;Specialty=Certified OR Tech / Surgical Tech (CST) ;Unit=Surgery / Operating Room, 1.6211 ;Shift=Day 4x10-Hour (08:00 - 18:00);# of Postions=1;Type=Travel;BillRate=$74.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=**MUST HAVE ORTHO, OB, AND ENT EXP**
+6:30-3:00 or 6;30-5:00 dayshift and call. Manager will talk with candidate about 8 hour shifts or 10 hour shifts.
+
+Start date: ASAP
+Contract length: 13 weeks
+Possible extension: Yes
+Shift dates: Weekdays, some weekends, every other weekend
+Experience required: 1 year
+Travel experience: Preferred
+EMR: Meditech
+Additional requirements: Prefer non smoker
+
+ Modified Time:12/18/2023 12:00:00 AM
+ Account Manager: Amber Neal
+ Account Manager Email: Amber.neal@qualivis.com
+ COVID-19 Vaccine: Unknown
+ Flu Vaccine: Unknown
+ Submittals:High
+ Submittal Details: #Tier2 Travel ComplianceSSN: Not required at submissionDOB: Not required at submissionRTO: Required at submissionRequires specific amount of exp.: 1 year of experienceValid State License not required at time of submission but must have in hand before startMile Radius Rule Applies: 50 milesReferences Required: Yes, 2 at time of submissionLocal Rules: Not acceptedCandidates will float within hospital or to an affiliate hospitals nearby: Yes, within hospitalCopy of Certifications: Not required at time of submissionNo Specific Charting Exp. RequiredBill rate (for hospitals that use bidding system): N/ABackground Policy to be noted prior to submission: Hits get sent to the facility for approvalReturn Staff Policy: Facility does not accept previous employees as travelersNeed 2 weeks/ 14 calendar days+ at minimum lead time from Booking to Start to account for Credentialing/Compliance. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2314491/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 74
+    [facilityName] => North Arkansas Regional Medical Center
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

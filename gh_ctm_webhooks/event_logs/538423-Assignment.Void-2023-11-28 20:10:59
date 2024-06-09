@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '21',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2697',
+  'Cf-Ray' => '82d541e4e3264941-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Job Description:Under the supervision of a Registered Nurse and/or Physician performs a variety of specialized technical duties in the surgical environmentJob Requirements:EducationEducation TypeProgram of StudyRequired/PreferredHigh School DiplomaN/ARequiredAccredited ProgramSurgical TechnologistRequiredCertification  LicensuresCertification/Licensure TypeRequired/PreferredSurgical Technologist CertificationRequiredBasic Life Support (BLS) CertificationRequired   Additional Information:**Shannon Medical does NOT hire travelers/contractors that have a permanent address within 110 miles of the facility.**   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 538423
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1343
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 28 2023 15:10:58
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=259346 ;Status=Open;Association=Shannon Medical Center ;Client=Shannon Medical Center ;City=San Angelo ;State=TX ;Zip=76903 ;Start=10/5/2023;End=11/30/2023;Duration=56;Cert=Nursing ;Specialty=Surgical Technologist ;Unit=Surgical Technologist ;Shift=To be discussed;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$85.00;OTRate=95 ;OTRules=By The Week, after 48, ;HolidayRate=95 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=Job Description:Under the supervision of a Registered Nurse and/or Physician performs a variety of specialized technical duties in the surgical environmentJob Requirements:EducationEducation TypeProgram of StudyRequired/PreferredHigh School DiplomaN/ARequiredAccredited ProgramSurgical TechnologistRequiredCertification  LicensuresCertification/Licensure TypeRequired/PreferredSurgical Technologist CertificationRequiredBasic Life Support (BLS) CertificationRequired   Additional Information:**Shannon Medical does NOT hire travelers/contractors that have a permanent address within 110 miles of the facility.**   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/259346;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Shannon Medical Center Medefis
+    [shiftDateEnd] => 2024-02-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

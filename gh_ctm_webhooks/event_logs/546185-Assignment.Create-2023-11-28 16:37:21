@@ -1,0 +1,112 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2908',
+  'Cf-Ray' => '82d408f5e6b823b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => RN PEDS Emergency Room
+CHRISTUS Childrens Hospital Emergency Care Westover Hills
+11130 CHRISTUS Hills, San Antonio TX 78251
+
+CONTRACT: 13-Weeks
+BILL RATE: $95, orientation billable at 70% of the bill rate up to the first 36 hours
+SHIFT: 12 HR 2pm - 2am
+WEEKENDS: EOW, EOH
+ON CALL: None
+FLOATING: Per Ministry Policy
+GUARANTEE: 36 hours
+EMR: Meditech
+SCRUB COLOR: Navy Blue
+
+REQUIRED CREDENTIALS: *Must be provided upon submission*
+TX State or compact License
+BLS, ACLS (AHA), PALS/PEARS, TNCC, CPI/De-Escalation
+
+EKG Testing Required for Unit - Must pass during compliance process.
+
+REQUIRED EXPERIENCE: 2 years
+
+SUBMISSION REQUIREMENTS (Must be combined into 1 PDF file)
+Filled out coversheet (blank coversheet attached)
+Resume/work history
+Skills checklist
+Certification verification within last 30 days
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 546185
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 06:30
+    [whenmodified] => November, 28 2023 11:37:20
+    [daysPerWeek] => 3
+    [orderNote] => Source=StafferLink;SourceID=7953386 ;Status=O;Association=CHRISTUS Santa Rosa Health Care (STX) ;Client=CHRISTUS Santa Rosa Health Care (STX) ;City=San Antonio ;State=TX ;Zip=78251 ;Start=12/18/2023;End=3/16/2024;Duration=90;Cert=RN Emergency Room ;Specialty=ECC Emergency Care 3500 / 680 ;Unit=ECC Emergency Care 3500 / 680 ;Shift=18:00:00 - 06:30:00;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$90.00;Description=RN PEDS Emergency Room
+CHRISTUS Childrens Hospital Emergency Care Westover Hills
+11130 CHRISTUS Hills, San Antonio TX 78251
+
+CONTRACT: 13-Weeks
+BILL RATE: $95, orientation billable at 70% of the bill rate up to the first 36 hours
+SHIFT: 12 HR 2pm - 2am
+WEEKENDS: EOW, EOH
+ON CALL: None
+FLOATING: Per Ministry Policy
+GUARANTEE: 36 hours
+EMR: Meditech
+SCRUB COLOR: Navy Blue
+
+REQUIRED CREDENTIALS: *Must be provided upon submission*
+TX State or compact License
+BLS, ACLS (AHA), PALS/PEARS, TNCC, CPI/De-Escalation
+
+EKG Testing Required for Unit - Must pass during compliance process.
+
+REQUIRED EXPERIENCE: 2 years
+
+SUBMISSION REQUIREMENTS (Must be combined into 1 PDF file)
+Filled out coversheet (blank coversheet attached)
+Resume/work history
+Skills checklist
+Certification verification within last 30 days ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => CHRISTUS Santa Rosa Hospital - Medical Center
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 18:00
+    [subjectID] => 
+)

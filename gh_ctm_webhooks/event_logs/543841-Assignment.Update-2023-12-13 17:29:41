@@ -1,0 +1,73 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1306',
+  'Cf-Ray' => '834fee37d48f1463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543841
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 13566
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 1
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => MedSurg Oncol 3S
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 13 2023 12:29:37
+    [daysPerWeek] => 3
+    [orderNote] => Medsurg/Oncology
+	18 months as a nurse and 1 year in the specialty
+	must have 1 travel assignment completed
+	returning travelers do not have to re-orient
+	Mask-Fit done on site
+	Must have flu vaccinations
+	Covid Exemptions accepted 
+	No locals within 75 miles
+	Quant of TPOT within 90 days or 2 skin tests
+	Scrubs: any color
+	Cerner - not required to have experience
+	No Online Modules prior to start
+	Non Billable Orientation: 16 hrs
+	Must be compliant WED prior to start.
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 95
+    [facilityName] => Kaweah Health Medical Center TRAVEL
+    [shiftDateEnd] => 2024-04-12
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,65 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '29',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1360',
+  'Cf-Ray' => '82dbd29530864961-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Prefer EFM
+1900-0730
+LRM 00468110
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 544637
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15859
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 29 2023 10:18:19
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=47992 ;Status=In-Progress (O);Association=Trinity Health ;Client=OH - Mount Carmel St. Ann&#39;s ;City=Westerville ;State=OH ;Zip=43081 ;Start=12/17/2023;End=3/16/2024;Duration=90;Cert=RN Labor and Delivery ;Specialty=Labor and Delivery ;Unit=*TH VMS  Registered Nurse-L&amp;D-Labor and Delivery ;Shift=7p7a;# of Postions=1;Type=Travel;BillRate=$89.00;OTRate=115.70 ;ChargeRate=92.00 ;CallbackRate=115.70 ;HolidayRate=115.70 ;Description=Prefer EFM
+1900-0730
+LRM 00468110 ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 89
+    [facilityName] => Mount Carmel St. Ann's
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

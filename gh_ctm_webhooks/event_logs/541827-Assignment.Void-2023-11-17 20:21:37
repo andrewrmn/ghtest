@@ -1,0 +1,142 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4038',
+  'Cf-Ray' => '827aae5ab0d623b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Radiology - Mercy Hospital Love County - Radiologic Tech - Mercy Health Love County
+FLU
+and
+COVID-19:
+
+
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions
+Facility
+
+Mercy
+
+Location
+
+Mercy Health Love County
+
+Unit
+
+Radiology
+
+Cost Center
+
+414607120
+
+
+Shift
+night
+Shifts per week
+
+3
+
+Hours per shift
+
+12
+
+Years of Experience1+SpecialtiesRadiology
+-
+preferred
+Role/Title: Radiologic Technologist FT Shift &amp; Hours: Night 7P-7A Wednesday-Friday
+Job Summary: Under the direct supervision of the radiology supervisor the radiology technologist will perform routine radiographic procedures, utilizing all standards for quality and radiation protection.  Provides personalized care, recognizing the worth and dignity of each patient. The x-ray technologist will provide the patient care essential to the exams.  The radiology technologist uses their expertise in radiology technology to assist with the diagnosis of rare and complex cases and expand their knowledge, alongside the most highly respected professionals in the radiology technologist and x-ray technologist fields. Technologist must have CT experience and be able to perform basic CT scans.
+ General Comments
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 541827
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15698
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 17 2023 15:21:36
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=772206 ;Status=Open;Association=Mercy Health ;Client=Mercy Health/Love County Hospital ;City=Marietta ;State=OK ;Zip=73448 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Rad Tech ;Specialty=Radiology ;Unit=Mercy ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$95.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Radiology - Mercy Hospital Love County - Radiologic Tech - Mercy Health Love County
+FLU
+and
+COVID-19:
+
+
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions
+Facility
+
+Mercy
+
+Location
+
+Mercy Health Love County
+
+Unit
+
+Radiology
+
+Cost Center
+
+414607120
+
+
+Shift
+night
+Shifts per week
+
+3
+
+Hours per shift
+
+12
+
+Years of Experience1+SpecialtiesRadiology
+-
+preferred
+Role/Title: Radiologic Technologist FT Shift &amp; Hours: Night 7P-7A Wednesday-Friday
+Job Summary: Under the direct supervision of the radiology supervisor the radiology technologist will perform routine radiographic procedures, utilizing all standards for quality and radiation protection.  Provides personalized care, recognizing the worth and dignity of each patient. The x-ray technologist will provide the patient care essential to the exams.  The radiology technologist uses their expertise in radiology technology to assist with the diagnosis of rare and complex cases and expand their knowledge, alongside the most highly respected professionals in the radiology technologist and x-ray technologist fields. Technologist must have CT experience and be able to perform basic CT scans.
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/772206;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Mercy Health Love County TRAVEL
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

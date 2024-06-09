@@ -1,0 +1,187 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5284',
+  'Cf-Ray' => '83255438823223c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name
+Med Surg Pulmonary 2 - Jefferson - RN - Mercy Hospital Jefferson
+
+Facility
+Mercy
+
+Location
+Mercy Hospital Jefferson
+
+Unit
+Pulmonary Unit
+
+Cost Center
+154206031
+
+FLU
+and
+COVID-19:
+
+
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.
+SHIFT INFO
+Shift
+nights
+
+Shifts per week
+3
+
+Hours per shift
+12
+
+Hours: 7p - 7a
+EXPERIENCE
+Years of Experience
+One Year Plus
+
+Med-Surg experience is required, Neuro preferred but not required
+CERTIFICATIONS
+Certifications
+BLS &amp; NIH -
+required
+DESCRIPTION
+Ratios:
+varies   1:4 and stretches to 1:6, census varies with hospital census from max 12 to max 18
+
+Pulmonary/ Neuro unit
+
+In addition to
+Pulmonary/Stroke patients, we get generally neurology: TIAs, seizures, migraines, altered mental status. We also house the hospitals Acute Withdrawal Management Program so we have patients going through alcohol or opioid withdrawal. Soon we will be housing the incarcerated patients. The rest of the beds are filled with general medical patients.
+
+Approved Assignment Details:Flexible contract
+length
+- 8-26 weeks
+Flexible Guaranteed Hours - 36 or 48 hours
+Blocked Scheduling to include every other weekend or every weekend
+No specific block is approvedRTO of 5 days or less, must make up the week on the back end
+
+Holiday RTO   approved based on availability 
+If requesting any of the above, it must be listed on Mercy Submission Form
+ General CommentsMercy Hospital Jefferson is a 251-bed acute care facility located in Festus, Mo., providing 24-hour emergency room care and a full range of diagnostic, preventive and restorative health care services.
+
+Jefferson Memorial Hospital opened on May 15, 1957, and Jefferson Regional Medical Center became a Mercy Hospital on Feb. 1, 2013.
+ No. of Positions: 3/4.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543865
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8896
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 08 2023 08:24:29
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=750299 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Jefferson ;City=Festus ;State=MO ;Zip=63028 ;Start=9/18/2023;End=12/18/2023;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=Mercy ;Shift=19:00-07:00;# of Postions=3;Type=Travel;BillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Name
+Med Surg Pulmonary 2 - Jefferson - RN - Mercy Hospital Jefferson
+
+Facility
+Mercy
+
+Location
+Mercy Hospital Jefferson
+
+Unit
+Pulmonary Unit
+
+Cost Center
+154206031
+
+FLU
+and
+COVID-19:
+
+
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.
+SHIFT INFO
+Shift
+nights
+
+Shifts per week
+3
+
+Hours per shift
+12
+
+Hours: 7p - 7a
+EXPERIENCE
+Years of Experience
+One Year Plus
+
+Med-Surg experience is required, Neuro preferred but not required
+CERTIFICATIONS
+Certifications
+BLS &amp; NIH -
+required
+DESCRIPTION
+Ratios:
+varies   1:4 and stretches to 1:6, census varies with hospital census from max 12 to max 18
+
+Pulmonary/ Neuro unit
+
+In addition to
+Pulmonary/Stroke patients, we get generally neurology: TIAs, seizures, migraines, altered mental status. We also house the hospitals Acute Withdrawal Management Program so we have patients going through alcohol or opioid withdrawal. Soon we will be housing the incarcerated patients. The rest of the beds are filled with general medical patients.
+
+Approved Assignment Details:Flexible contract
+length
+- 8-26 weeks
+Flexible Guaranteed Hours - 36 or 48 hours
+Blocked Scheduling to include every other weekend or every weekend
+No specific block is approvedRTO of 5 days or less, must make up the week on the back end
+
+Holiday RTO   approved based on availability 
+If requesting any of the above, it must be listed on Mercy Submission Form
+ General CommentsMercy Hospital Jefferson is a 251-bed acute care facility located in Festus, Mo., providing 24-hour emergency room care and a full range of diagnostic, preventive and restorative health care services.
+
+Jefferson Memorial Hospital opened on May 15, 1957, and Jefferson Regional Medical Center became a Mercy Hospital on Feb. 1, 2013.
+ No. of Positions: 3/4.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/750299;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital Jefferson - Travel
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

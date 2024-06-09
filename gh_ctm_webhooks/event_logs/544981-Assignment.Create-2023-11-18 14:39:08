@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2516',
+  'Cf-Ray' => '8280f60a51ef23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => BLS, ACLS, PALS requiredAt least 2 years of Endoscopy experience.At least 2 years of PACU experienceCurrent CO RN License (or compact) required upon acceptanceWill cross over into Same Day SurgeryShifts:36 hours guaranteed, Mon, Tues, Thurs, Fri 700-1730Call Requirements:Up to 1 weeknight per week and occasional weekends (no more than 1 per month)IMPORTANT NOTE: Traveler will be responsible for securing their own housing for the duration of the assignmentNot currently accepting RTOMust be comfortable working in high altitude   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Endoscopy
+    [assignmentid] => 544981
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5970
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:30
+    [whenmodified] => November, 18 2023 09:39:07
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=261880 ;Status=Open;Association=Aspen Valley Hospital ;Client=Aspen Valley Hospital ;City=Aspen ;State=CO ;Zip=81611 ;Start=12/4/2023;End=4/22/2024;Duration=140;Cert=Nursing ;Specialty=Endoscopy Nurse ;Unit=Endoscopy Nurse ;Shift=4 10s. 0700-1730;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$125.00;OTRate=135 ;OTRules=By The Week, after 40, ;CallbackRate=125 (All Inclusive Rate) ;HolidayRate=125 (All Inclusive Rate) ;OnCallRateDescription=$10 per hour pager ;Description=BLS, ACLS, PALS requiredAt least 2 years of Endoscopy experience.At least 2 years of PACU experienceCurrent CO RN License (or compact) required upon acceptanceWill cross over into Same Day SurgeryShifts:36 hours guaranteed, Mon, Tues, Thurs, Fri 700-1730Call Requirements:Up to 1 weeknight per week and occasional weekends (no more than 1 per month)IMPORTANT NOTE: Traveler will be responsible for securing their own housing for the duration of the assignmentNot currently accepting RTOMust be comfortable working in high altitude   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261880;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 125
+    [facilityName] => Aspen Valley Hospital
+    [shiftDateEnd] => 2024-04-22
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

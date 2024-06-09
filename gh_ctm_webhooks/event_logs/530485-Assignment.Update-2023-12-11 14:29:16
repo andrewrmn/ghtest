@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '912',
+  'Cf-Ray' => '833e6b38d3f177bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 530485
+    [workerID] => 312273
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 16046
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-10
+    [workerLastName] => Torrao
+    [shiftNum] => 2
+    [workerFirstName] => Humberto
+    [cert] => RRT
+    [floorDesc] => Respiratory
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => December, 11 2023 09:29:15
+    [daysPerWeek] => 5
+    [orderNote] => BR:$95lRS:134412lFTK:API
+ChrgDiff:P$1/B$3lOnCl:P$10/B$18
+No Orientation Needed
+    [guaranteedMinimum] => 
+    [workerEmail] => huminschool@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => AHS - Morristown Medical Center
+    [shiftDateEnd] => 2024-01-06
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

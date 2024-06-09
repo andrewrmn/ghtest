@@ -1,0 +1,158 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '29',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3893',
+  'Cf-Ray' => '82a1c4cec0e94961-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:AllianceHealth Durant
+
+START
+ASAP
+BILL RATE: $70
+SHIFT: NIGHTS
+
+
+2 YEAR'S EXPERIENCE REQUIRED
+
+PLEASE
+INCLUDE PERMANENT HOME ADDRESS ON THE SUBMISSIONMUST BE GREATER THAN 50 MILES FROM THE FACILITY
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+ICU/PCU
+
+             Number of beds in your facility?
+138
+
+             Years of experience required?
+1
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+No
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+PSS
+
+             Scrub colors / dress code:
+Black
+
+    Parking location:
+On site
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 541993
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9515
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 22 2023 09:12:37
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=770058 ;Status=Open;Association=Community Health Systems ;Client=AllianceHealth Durant ;City=Durant ;State=OK ;Zip=74701 ;Start=11/7/2023;End=2/6/2024;Duration=91;Cert=RN ;Specialty=ICU ;Unit=EXT-Other (911) ;Shift=NIGHTS;# of Postions=1;Type=Travel;BillRate=$70.05;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:AllianceHealth Durant
+START
+ASAP
+BILL RATE: $70
+SHIFT: NIGHTS
+
+REQUIREMENTS: BLS, ACLS, NIHHS2 YEAR'S EXPERIENCE REQUIRED
+
+PLEASE
+INCLUDE PERMANENT HOME ADDRESS ON THE SUBMISSIONMUST BE GREATER THAN 50 MILES FROM THE FACILITY
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+ICU/PCU
+
+             Number of beds in your facility?
+138
+
+             Years of experience required?
+1
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+No
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+PSS
+
+             Scrub colors / dress code:
+Black
+
+    Parking location:
+On site
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/770058;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70.05
+    [facilityName] => Alliance Health Durant - OK -Travel
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

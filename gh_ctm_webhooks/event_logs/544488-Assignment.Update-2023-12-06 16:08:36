@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4486',
+  'Cf-Ray' => '8315c9d160dc23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Responsible for patient care within an assigned department/unit and participates as a member of the health care team in cooperation with and under the direction of the Department Director or designee as defined by Standards and Scope of Practice for the Registered Nurse {(ORS. 678.150/851-045-0030 through 851-045-0100) Nurse Practice Act (2008)}.  The hospital-assigned Registered Nurse assesses, analyzes, plans, implements and evaluates patient care following established patient care standards for MCMC including those for patient assessment and transfer. Education:           Graduated from accredited school of nursing; BSN preferred; Oregon RN licenseBLS requiredLicensure/Certification:          Current applicable Oregon RN license required.Critical Care/TELE: ACLS required, TNCC within one year of hire for primary ICU RN, CCRN preferredExperience:          Six months nursing experience or successful completion of nursing internship program preferred. Skills/Knowledge/Abilities:          Requires critical thinking skills and decisive judgment and the ability to work unsupervised. Must be able to work in a stressful environment and take appropriate action. Experience with using every day technology tools (e.g, email, Microsoft Office, voicemail, internet/intranet to access, organize and store job-related information.Additional clinical experience requirements may vary dependent upon the specific department in which the position is utilized.   Position Urgency:Normal Billing string = Mid-Columbia Medical Center
+    [sitename] => giftednurses
+    [spec] => CCU
+    [assignmentid] => 544488
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11241
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 06 2023 11:08:25
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=260158 ;Status=Open;Association=Mid-Columbia Medical Center ;Client=Mid-Columbia Medical Center ;City=The Dalles ;State=OR ;Zip=97058 ;Start=10/30/2023;End=1/29/2024;Duration=91;Cert=Nursing ;Specialty=Critical Care (CCU) ;Unit=Critical Care (CCU) ;Shift=Nights;# of Postions=3;Guaranteed Hours=48;Type=Travel;BillRate=$100.00;OTRate=110 ;OTRules=By The Week, after 48, ;ChargeRate=2 (Charge Rate Differential) ;CallbackRate=110 (All Inclusive Rate + $10) ;HolidayRate=110 (All Inclusive Rate + $10) ;OnCallRateDescription=$5 per hour pager ;Description=Responsible for patient care within an assigned department/unit and participates as a member of the health care team in cooperation with and under the direction of the Department Director or designee as defined by Standards and Scope of Practice for the Registered Nurse {(ORS. 678.150/851-045-0030 through 851-045-0100) Nurse Practice Act (2008)}.  The hospital-assigned Registered Nurse assesses, analyzes, plans, implements and evaluates patient care following established patient care standards for MCMC including those for patient assessment and transfer. Education:           Graduated from accredited school of nursing; BSN preferred; Oregon RN licenseBLS requiredLicensure/Certification:          Current applicable Oregon RN license required.Critical Care/TELE: ACLS required, TNCC within one year of hire for primary ICU RN, CCRN preferredExperience:          Six months nursing experience or successful completion of nursing internship program preferred. Skills/Knowledge/Abilities:          Requires critical thinking skills and decisive judgment and the ability to work unsupervised. Must be able to work in a stressful environment and take appropriate action. Experience with using every day technology tools (e.g, email, Microsoft Office, voicemail, internet/intranet to access, organize and store job-related information.Additional clinical experience requirements may vary dependent upon the specific department in which the position is utilized.   Position Urgency:Normal Billing string = Mid-Columbia Medical Center ;url=https://vms.medefis5.com/jobs/260158;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Mid-Columbia Medical Center
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

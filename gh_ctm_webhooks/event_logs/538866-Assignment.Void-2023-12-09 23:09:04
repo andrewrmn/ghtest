@@ -1,0 +1,578 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6145',
+  'Cf-Ray' => '8330e9e221ab23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Facility: Alaska Regional Hospital
+  Need: Cath Lab
+ Tech  Shift: 7am to 7:00pm
+  Unit: Cath Lab
+ 
+ 
+ 
+ Cost Center: 746  Start Date: asapLength of Assignment: 13 Weeks
+ General CommentsUnit Information:
+
+ARH Cath Lab 746Location: Alaska Regional
+Address: 2801 Debarr Rd Anchorage, AK 99508
+
+Floor: 2nd
+floor
+
+Building: Main hospital
+
+
+
+General InformationTell us about the unit(s):
+ 
+
+
+
+
+
+
+
+
+Number of labs   3 Philips labs
+
+ 
+
+
+
+
+
+
+
+
+Number of Staff  
+
+20 staff total
+
+ 
+
+
+
+
+
+
+
+
+Type of staff:
+
+o
+
+
+
+Day Shift   3 teams M-F 7a-730p
+
+o
+
+
+
+Night Shift &amp; Weekend   on call
+
+ 
+
+
+
+
+
+
+
+
+Team ratios  
+
+
+run 4 man teams for certain types of cases, otherwise 3 main teams
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment   Philips c-arms, Merge vericis for hemo system,
+
+ 
+
+
+
+
+
+
+
+
+EMR   Epic
+
+
+
+Typical hiring profile
+
+Must have:
+
+candidates without these skills will not be considered for the role.
+
+ 
+
+
+
+
+
+
+
+
+
+Experience in at least 3 of our service lines
+
+
+
+
+Preferred or nice to have:
+
+candidates with these skills will be considered first.
+
+ 
+
+
+
+
+
+
+
+
+
+Experience in 4 areas
+
+
+
+
+List typical procedures performed on unit(s):
+
+
+
+ 
+
+
+
+
+
+
+
+
+All service lines- EP, IR, Neuro, Vascular, Cardiac &amp; TAVR
+
+
+
+Best personality Fit:
+ 
+
+
+
+
+
+
+
+
+
+Flexible, self-starter, can take direction
+REQUIRED CERTIFICATIONS:
+ 
+
+
+
+
+
+
+
+
+RN License, BLS and ACLS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OR
+
+ 
+
+
+
+
+
+
+
+
+RCIS/ARRT for techs &amp; BLS   techs must have credentials
+
+Dress Code:
+
+ 
+
+
+
+
+
+
+
+
+Scrub Color/Attire -
+
+we provide scrubs
+
+
+
+
+Unit Guidelines/Policies:
+
+ 
+
+
+
+
+
+
+
+
+Will cover in dept orientation
+
+
+
+Weekends and On call(if any)
+ 
+
+
+
+
+
+
+
+
+Call rotates
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 538866
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1263
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Cath Lab Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 09 2023 18:09:03
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=766613 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=Alaska Regional Hospital AK ;City=ANCHORAGE ;State=AK ;Zip=99508 ;Start=12/12/2023;End=3/12/2024;Duration=91;Cert=Cardiac Cath Lab Tech ;Specialty=Cardiac Cath Lab ;Unit=MOUNTAIN DIVISION (15) ;Shift=7:00AM – 7:00PM ;# of Postions=2;Type=Travel;BillRate=$135.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Facility: Alaska Regional Hospital
+  Need: Cath Lab
+ Tech  Shift: 7am to 7:00pm
+  Unit: Cath Lab
+ 
+ 
+ 
+ Cost Center: 746  Start Date: asapLength of Assignment: 13 Weeks
+ General CommentsUnit Information:
+
+ARH Cath Lab 746Location: Alaska Regional
+Address: 2801 Debarr Rd Anchorage, AK 99508
+
+Floor: 2nd
+floor
+
+Building: Main hospital
+
+
+
+General InformationTell us about the unit(s):
+ 
+
+
+
+
+
+
+
+
+Number of labs   3 Philips labs
+
+ 
+
+
+
+
+
+
+
+
+Number of Staff  
+
+20 staff total
+
+ 
+
+
+
+
+
+
+
+
+Type of staff:
+
+o
+
+
+
+Day Shift   3 teams M-F 7a-730p
+
+o
+
+
+
+Night Shift &amp; Weekend   on call
+
+ 
+
+
+
+
+
+
+
+
+Team ratios  
+
+
+run 4 man teams for certain types of cases, otherwise 3 main teams
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment   Philips c-arms, Merge vericis for hemo system,
+
+ 
+
+
+
+
+
+
+
+
+EMR   Epic
+
+
+
+Typical hiring profile
+
+Must have:
+
+candidates without these skills will not be considered for the role.
+
+ 
+
+
+
+
+
+
+
+
+
+Experience in at least 3 of our service lines
+
+
+
+
+Preferred or nice to have:
+
+candidates with these skills will be considered first.
+
+ 
+
+
+
+
+
+
+
+
+
+Experience in 4 areas
+
+
+
+
+List typical procedures performed on unit(s):
+
+
+
+ 
+
+
+
+
+
+
+
+
+All service lines- EP, IR, Neuro, Vascular, Cardiac &amp; TAVR
+
+
+
+Best personality Fit:
+ 
+
+
+
+
+
+
+
+
+
+Flexible, self-starter, can take direction
+REQUIRED CERTIFICATIONS:
+ 
+
+
+
+
+
+
+
+
+RN License, BLS and ACLS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OR
+
+ 
+
+
+
+
+
+
+
+
+RCIS/ARRT for techs &amp; BLS   techs must have credentials
+
+Dress Code:
+
+ 
+
+
+
+
+
+
+
+
+Scrub Color/Attire -
+
+we provide scrubs
+
+
+
+
+Unit Guidelines/Policies:
+
+ 
+
+
+
+
+
+
+
+
+Will cover in dept orientation
+
+
+
+Weekends and On call(if any)
+ 
+
+
+
+
+
+
+
+
+Call rotates
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/766613;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 135
+    [facilityName] => Alaska Regional Hospital AK
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

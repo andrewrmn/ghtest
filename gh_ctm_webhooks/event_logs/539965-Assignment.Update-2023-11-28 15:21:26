@@ -1,0 +1,163 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4993',
+  'Cf-Ray' => '82d399b6d0551465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:AllianceHealth Durant
+
+START ASAP
+BILL RATE: $90.00
+SHIFT: 0700-1730 (MONDAY-THURSDAY) 15-20 CALL DAYS
+REQUIREMENTS: AART, BLS, ACLS (REQUIRED WITHIN 6 MONTHS OF DATE OF HIRE)
+GRADUATION FROM ACCREDITED RADIOGRAPHY PROGRAM
+1 YEAR'S EXPERIENCE REQUIRED
+RCIS OR
+RT (CI), (VI)
+PREFERRED
+PLEASE INCLUDE PERMANENT HOME ADDRESS ON THE SUBMISSION  MUST BE GREATER THAN 50 MILES FROM THE FACILITY
+The Cardiac Cath Lab Technician demonstrates critical thinking skills and judgment in assisting with the performance of imaging studies in the Cardiac Cath Lab. The Technician is responsible and accountable to perform studies timely, under the direction of the Cardiologist, Chief Technologist or Director of Imaging Services.
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+No
+
+             Number of beds in your facility?
+138
+
+             Years of experience required?
+1
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+No
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+Mon-Thurs 0700-1730 15-20 call days
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+Scrubs provided
+
+
+    Parking location:
+On site
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 539965
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 9515
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Cath Lab Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 28 2023 10:20:46
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=765087 ;Status=Open;Association=Community Health Systems ;Client=AllianceHealth Durant ;City=Durant ;State=OK ;Zip=74701 ;Start=10/15/2023;End=1/14/2024;Duration=91;Cert=Cardiac Cath Lab Tech ;Specialty=Cardiac Cath Lab ;Unit=EXT-Other (911) ;Shift=15-20;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:AllianceHealth Durant
+START ASAP
+BILL RATE: $90.00
+SHIFT: 0700-1730 (MONDAY-THURSDAY) 15-20 CALL DAYS
+REQUIREMENTS: AART, BLS, ACLS (REQUIRED WITHIN 6 MONTHS OF DATE OF HIRE)
+GRADUATION FROM ACCREDITED RADIOGRAPHY PROGRAM
+1 YEAR'S EXPERIENCE REQUIRED
+RCIS OR
+RT (CI), (VI)
+PREFERRED
+PLEASE INCLUDE PERMANENT HOME ADDRESS ON THE SUBMISSION  MUST BE GREATER THAN 50 MILES FROM THE FACILITY
+The Cardiac Cath Lab Technician demonstrates critical thinking skills and judgment in assisting with the performance of imaging studies in the Cardiac Cath Lab. The Technician is responsible and accountable to perform studies timely, under the direction of the Cardiologist, Chief Technologist or Director of Imaging Services.
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+No
+
+             Number of beds in your facility?
+138
+
+             Years of experience required?
+1
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+No
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+Mon-Thurs 0700-1730 15-20 call days
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+Scrubs provided
+
+
+    Parking location:
+On site
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/765087;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Alliance Health Durant - OK -Travel
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

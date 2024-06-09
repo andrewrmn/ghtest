@@ -1,0 +1,98 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3891',
+  'Cf-Ray' => '8289975bc338183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+$120 bill rate 
+2 am and 2 pm shifts
+REQUIRED: AZ license, ACLS and BLS
+Guaranteed 26 hours, MUST work COVID units and float to Tele. 
+Rotating weekends, with possibility to float to sister hospitalparseGeneralComments Comments
+.bd_title { font-weight: bold }
+Reason for opening (special, internal vacancy, leave coverage) 
+          		******************************************************************************* 
+          		How long has it been open? 
+          		Will position be required to float to other units? 
+          		Number of beds in your facility? 
+          		Years of experience required? 
+          		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) 
+          		Willing to review clinicians with pending state license? 
+          		Is there anyone in the past that has worked for you that you would consider rehiring? 
+          		What is the work schedule for this position? (days needed, hours or shift) 
+			EMR for your facility: 
+          		Scrub colors / dress code: 
+			Parking location:  Contact: Dakota Mayr Resource Manager: Dakota Mayr
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 193942
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 1
+    [bonus] => 
+    [shiftDateStart] => 2021-02-15
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:47:10
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=432720 ;Status=Open;Client=Oro Valley Hospital ;City=Oro Valley ;State=AZ ;Zip=85755 ;Start=2/15/2021;End=5/17/2021;Duration=91;Cert=Registered Nurse (RN) ;Specialty=ICU ;Unit=INTENSIVE CARE UNIT ;Shift=for this position? (days needed, hours or shift)  			EMR for your facility:            		Scrub colors / dress code:  			Parking location:;# of Postions=4;Type=Travel;BillRate=$120.00;Description=Position Description
+$120 bill rate 
+2 am and 2 pm shifts
+REQUIRED: AZ license, ACLS and BLS
+Guaranteed 26 hours, MUST work COVID units and float to Tele. 
+Rotating weekends, with possibility to float to sister hospitalparseGeneralComments Comments
+.bd_title { font-weight: bold }
+Reason for opening (special, internal vacancy, leave coverage) 
+          		******************************************************************************* 
+          		How long has it been open? 
+          		Will position be required to float to other units? 
+          		Number of beds in your facility? 
+          		Years of experience required? 
+          		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) 
+          		Willing to review clinicians with pending state license? 
+          		Is there anyone in the past that has worked for you that you would consider rehiring? 
+          		What is the work schedule for this position? (days needed, hours or shift) 
+			EMR for your facility: 
+          		Scrub colors / dress code: 
+			Parking location:  Contact: Dakota Mayr Resource Manager: Dakota Mayr ;Buyer=Dakota Mayr ;url=https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=432720&null;VMSPositionType=Travel InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 
+    [facilityName] => Northwest Medical Center of Oro Valley
+    [shiftDateEnd] => 2021-05-17
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

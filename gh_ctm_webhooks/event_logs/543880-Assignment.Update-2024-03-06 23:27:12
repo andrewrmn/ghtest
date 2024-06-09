@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '941',
+  'Cf-Ray' => '86061d77957d1836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By RN; Not Willing to Return
+    [sitename] => giftednurses
+    [spec] => LTC
+    [assignmentid] => 543880
+    [workerID] => 241536
+    [WorkerContactNo] => 347-452-8039
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 37.5
+    [facilityID] => 15907
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-31
+    [workerLastName] => Voltaire
+    [shiftNum] => 3
+    [workerFirstName] => Robblie
+    [cert] => LPN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => March, 06 2024 18:27:12
+    [daysPerWeek] => 5
+    [orderNote] => EXTENSION
+BR:$65lRS:136604
+FTK: Kronos & Unsigned Gifted Timecard
+    [guaranteedMinimum] => 
+    [workerEmail] => robblievoltaire@aol.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Schulman & Schachne Institute (RS)
+    [shiftDateEnd] => 2024-02-01
+    [shiftStartTime] => 23:00
+    [subjectID] => 
+)

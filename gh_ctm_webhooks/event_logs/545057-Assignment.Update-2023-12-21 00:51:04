@@ -1,0 +1,166 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5281',
+  'Cf-Ray' => '838c226b352e6a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:RN/MS Tele13 weeks$90
+Weekend Nights (Fri, Sat, Sun)
+
+7p-7a
+
+
+
+All holidays and holiday weekends as well as every other weekend must be worked.
+
+Previous experience with 6:1 or more ratios with neuro, trauma ortho experienceMotivated &amp;
+team orientedBLS &amp; ACLS Required
+
+
+
+The PCU/Telemetry Registered Nurse holds shift accountability for providing care to patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The Registered Nurse demonstrates critical thinking skills, scientific judgment and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care.
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location:
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 545057
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8294
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-14
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 20 2023 19:50:55
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=774767 ;Status=Open;Association=Community Health Systems ;Client=Lutheran Hospital ;City=Fort Wayne ;State=IN ;Zip=46804 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=EXT-Other (911) ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:RN/MS Tele13 weeks$90
+Weekend Nights (Fri, Sat, Sun)
+
+7p-7a
+
+
+
+All holidays and holiday weekends as well as every other weekend must be worked.
+
+Previous experience with 6:1 or more ratios with neuro, trauma ortho experienceMotivated &amp;
+team orientedBLS &amp; ACLS Required
+
+
+
+The PCU/Telemetry Registered Nurse holds shift accountability for providing care to patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The Registered Nurse demonstrates critical thinking skills, scientific judgment and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care.
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location:
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/774767;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Lutheran Hospital - Parallon Travel
+    [shiftDateEnd] => 2024-04-14
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

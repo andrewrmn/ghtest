@@ -1,0 +1,149 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6259',
+  'Cf-Ray' => '8316506cf72877bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 2 slots
+
+	2pm-12:30am Monday/Tuesday/Wed/Friday. Off every Thursday. No weekends or holidays.
+
+	2pm-12:30am Monday/Tuesday/Thursday/Friday. Off every Wednesday. No weekends or holidays.
+
+	Inpatient
+
+	**Must have Siemens exp.**
+
+	Reports to MRI Manager or Chief Imaging Technologist/Immediate Supervisor. Performs Diagnostic magnetic resonance imaging of
+	organs, organ systems and blood flow studies. Provides radiologists with images necessary to obtain diagnostic results so that a
+	comprehensive diagnostic report is available to referring physician. Orients physicians, residents, staff and student technologist in
+	objectives and applications of magnetic resonance imaging and safety. Assists nursing staff in area e.g. witnesses nursing staff in
+	wasting medication and documents in Pyxis.
+
+	M-F no weekends.
+
+	ARRT (R) (MR) and CPR via AHA
+
+	
+	COMPETENCIES:
+				A. Education:
+				Requires completion of an AMA approved program in Radiologic Technology or equivalent,
+				which normally is acquired in a two-year college or technical school program. Prefer one year
+				experience in an imaging modality.
+				B.Knowledge:
+				Requires extensive knowledge of anatomy, physiology, pathologic processes with emphasis on
+				neurologic, orthopedic, and cardiac physiology. Thorough knowledge of anatomy, physiology,
+				and pathology as related to the position, as well as aseptic and sterile techniques. Requires
+				knowledge of the physics involved to perform magnetic resonance imaging exams, as well as
+				the use of all equipment necessary to obtain and document a complete examination. Effective
+				communication skills to interact with patients, physicians and other personnel.
+				C.Skills:
+				High levels of analytical skills and critical thinking skills are required to perform appropriate
+				scans based on the patients  history and protocol. Work requires a high level of interpersonal
+				skills for instructing and orientating patients, physicians, medical staff, and students.
+				D.Required Licensure,
+				Certification, Etc.:
+				ARRT certified with current registration required. CPR certification required within three months
+				of employment
+	
+				E.Work Experience:
+				Prefer magnetic resonance training program experience with clinical internship or one year of
+				clinical imaging experience.
+    [sitename] => giftednurses
+    [spec] => MRI
+    [assignmentid] => 545265
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 1877
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => MRI Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => December, 06 2023 12:40:28
+    [daysPerWeek] => 5
+    [orderNote] => Source=IntrastaffVMS;SourceID=304858 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Johns Hopkins Hospital ;Start=12/10/2023;End=3/9/2024;Duration=90;Cert=MRI Tech ;Specialty=MRI (4803617451) ;Unit=MRI (4803617451) ;Shift=Eve 8 (2:30 PM - 11:30 PM);# of Postions=1;Type=Travel;BillRate=$105.00;minBillRate=$105.00;Description=2 slots
+
+	2pm-12:30am Monday/Tuesday/Wed/Friday. Off every Thursday. No weekends or holidays.
+
+	2pm-12:30am Monday/Tuesday/Thursday/Friday. Off every Wednesday. No weekends or holidays.
+
+	Inpatient
+
+	**Must have Siemens exp.**
+
+	Reports to MRI Manager or Chief Imaging Technologist/Immediate Supervisor. Performs Diagnostic magnetic resonance imaging of
+	organs, organ systems and blood flow studies. Provides radiologists with images necessary to obtain diagnostic results so that a
+	comprehensive diagnostic report is available to referring physician. Orients physicians, residents, staff and student technologist in
+	objectives and applications of magnetic resonance imaging and safety. Assists nursing staff in area e.g. witnesses nursing staff in
+	wasting medication and documents in Pyxis.
+
+	M-F no weekends.
+
+	ARRT (R) (MR) and CPR via AHA
+
+	
+	COMPETENCIES:
+				A. Education:
+				Requires completion of an AMA approved program in Radiologic Technology or equivalent,
+				which normally is acquired in a two-year college or technical school program. Prefer one year
+				experience in an imaging modality.
+				B.Knowledge:
+				Requires extensive knowledge of anatomy, physiology, pathologic processes with emphasis on
+				neurologic, orthopedic, and cardiac physiology. Thorough knowledge of anatomy, physiology,
+				and pathology as related to the position, as well as aseptic and sterile techniques. Requires
+				knowledge of the physics involved to perform magnetic resonance imaging exams, as well as
+				the use of all equipment necessary to obtain and document a complete examination. Effective
+				communication skills to interact with patients, physicians and other personnel.
+				C.Skills:
+				High levels of analytical skills and critical thinking skills are required to perform appropriate
+				scans based on the patients  history and protocol. Work requires a high level of interpersonal
+				skills for instructing and orientating patients, physicians, medical staff, and students.
+				D.Required Licensure,
+				Certification, Etc.:
+				ARRT certified with current registration required. CPR certification required within three months
+				of employment
+	
+				E.Work Experience:
+				Prefer magnetic resonance training program experience with clinical internship or one year of
+				clinical imaging experience. ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=rWOxscq6OGM=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => The Johns Hopkins Hospital TRAVEL
+    [shiftDateEnd] => 2024-03-23
+    [shiftStartTime] => 14:30
+    [subjectID] => 
+)

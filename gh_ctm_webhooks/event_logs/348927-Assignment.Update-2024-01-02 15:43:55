@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2057',
+  'Cf-Ray' => '83f41ed0c34723c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Full-time Day Line on Medical/Surgical unit.  Three 12 hour shifts per week  6:45am-7:15pm, and only every 3rd weekend.this unit has the ability to care for COVID-19 positive patients.Repeating 6 week schedule:Wk 1 & 4: Mon, Tue, FriWk 2 & 5: Tue, Fri, SatWk 3 & 6: Sun, Wed, Thurs   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 348927
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 37.5
+    [facilityID] => 3763
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-03-26
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:15
+    [whenmodified] => January, 02 2024 10:43:52
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=211046 ;Status=Open;Association=Washington County Hospital and Clinics ;Client=Washington County Hospital and Clinics ;City=Washington ;State=IA ;Zip=52353 ;Start=3/26/2022;End=6/25/2022;Duration=91;Cert=Nursing ;Specialty=Med-surg Adult ;Unit=Med-surg Adult ;Shift=12 hour day shifts 6:45am-7:15pm;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$150.00;OTRate=150 ;OTRules=By The Week, after 40, ;CallbackRate=150 (All Inclusive Rate) ;HolidayRate=150 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=Full-time Day Line on Medical/Surgical unit.  Three 12 hour shifts per week  6:45am-7:15pm, and only every 3rd weekend.this unit has the ability to care for COVID-19 positive patients.Repeating 6 week schedule:Wk 1 & 4: Mon, Tue, FriWk 2 & 5: Tue, Fri, SatWk 3 & 6: Sun, Wed, Thurs   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/211046;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 150
+    [facilityName] => Washington County Hospital
+    [shiftDateEnd] => 2022-06-25
+    [shiftStartTime] => 06:45
+    [subjectID] => 
+)

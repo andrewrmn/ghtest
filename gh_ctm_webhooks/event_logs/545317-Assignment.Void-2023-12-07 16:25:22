@@ -1,0 +1,122 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3760',
+  'Cf-Ray' => '831e1fcbc1eb1842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:4 West (M/S Unit) at UNC Lenoir Health Care is a 52-bed Surgical Acute Care Unit with Medical overflow. Patients include Geriatric, Adults, and rare occasions surgical pediatric patients. Patient may be on Tele. Typically nurse-to-patient ratios are 1:6
+Complete Description:Patient diagnosis typically includes Cancer, General Med overflow, Post op Bariatric, Joints and General surgery. Special procedures may include bedside aspirations, chemo, and blood products. The unit cares for COVID-19 patients.
+
+Floating may occur to similar type units at UNC Lenoir Health Care 
+
+ACLS & NIH is a plus but not required.
+
+Chemo certification strongly preferred (major asset for this unit due to care of cancer patients).
+
+Required: 
+  BLS certification
+Requisition Comments:Lotus Offers - Fast Offers!
+Candidates will NOT interview.
+
+Must include RTO in submittal in order to be honored at time of offer!
+
+Traveler is expected to float to like acuities or less if needed
+Scheduling Details:3x12 Hour Shifts: Nights
+7p-7a
+
+Weekend: EOW, EOH
+
+Call: Can be placed on call depending on facility needs
+
+No block scheduling
+
+No locals - 50 mile radius
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545317
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3617
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 07 2023 11:25:22
+    [daysPerWeek] => 3
+    [orderNote] => Source=PeopleFluent;SourceID=725177 ;Status=Open;Association=4 West ;Client=UNC Health ;Start=12/11/2023;End=3/9/2024;Duration=89;Cert=RN ;Specialty=Med/Surg ;Unit=RN - 4 West Med/Surg - Nights - UNC Lenoir Health Care ;Shift=3x12.0 3x12 Hour Shifts: Nights
+7p-7a
+
+Weekend: EOW, EOH
+
+Call: Can be placed on call depending on facility needs
+
+No block scheduling
+
+No locals - 50 mile radius;# of Postions=1;Type=Travel;BillRate=$90.00;Description=Short Description:4 West (M/S Unit) at UNC Lenoir Health Care is a 52-bed Surgical Acute Care Unit with Medical overflow. Patients include Geriatric, Adults, and rare occasions surgical pediatric patients. Patient may be on Tele. Typically nurse-to-patient ratios are 1:6
+Complete Description:Patient diagnosis typically includes Cancer, General Med overflow, Post op Bariatric, Joints and General surgery. Special procedures may include bedside aspirations, chemo, and blood products. The unit cares for COVID-19 patients.
+
+Floating may occur to similar type units at UNC Lenoir Health Care 
+
+ACLS & NIH is a plus but not required.
+
+Chemo certification strongly preferred (major asset for this unit due to care of cancer patients).
+
+Required: 
+  BLS certification
+Requisition Comments:Lotus Offers - Fast Offers!
+Candidates will NOT interview.
+
+Must include RTO in submittal in order to be honored at time of offer!
+
+Traveler is expected to float to like acuities or less if needed
+Scheduling Details:3x12 Hour Shifts: Nights
+7p-7a
+
+Weekend: EOW, EOH
+
+Call: Can be placed on call depending on facility needs
+
+No block scheduling
+
+No locals - 50 mile radius ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=725177;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Lenoir Memorial Hospital
+    [shiftDateEnd] => 2024-03-22
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

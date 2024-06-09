@@ -1,0 +1,69 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '43',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2301',
+  'Cf-Ray' => '82d79babc3551840-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 7N is a fast paced surgical telemetry unity focusing on post-operative care of CABG s, valves, vascular surgeries, VATs and thoracotomies. They also see many different cardiac arrhythmias and patients  pre and post cath lab procedures. You will need to be familiar with EKG s, tele rhythm interpretation and monitoring, central line management, external pacemakers, cardiac drips, heparin drips, and chest tube management.
+
+Night Shift 1900-0700
+Every Other Weekend Requirement
+36 Hours/Week
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 543278
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15840
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-05
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 28 2023 22:01:47
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48156 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne Des Moines Medical Center ;City=Des Moines ;State=IA ;Zip=50314 ;Start=12/5/2023;End=3/2/2024;Duration=88;Cert=RN Medical / Surgical ;Specialty=7 North Med Surg Tele ;Unit=*Registered Nurse-Med Surg-7 North Med Surg Tele ;Shift=7p7a;# of Postions=1;Type=Travel;BillRate=$74.00;OTRate=96.20 ;ChargeRate=77.00 ;CallbackRate=96.20 ;HolidayRate=96.20 ;Description=7N is a fast paced surgical telemetry unity focusing on post-operative care of CABG s, valves, vascular surgeries, VATs and thoracotomies. They also see many different cardiac arrhythmias and patients  pre and post cath lab procedures. You will need to be familiar with EKG s, tele rhythm interpretation and monitoring, central line management, external pacemakers, cardiac drips, heparin drips, and chest tube management.
+
+Night Shift 1900-0700
+Every Other Weekend Requirement
+36 Hours/Week ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 74
+    [facilityName] => MercyOne Des Moines Medical Center (Trinity) TRAVEL
+    [shiftDateEnd] => 2024-03-02
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

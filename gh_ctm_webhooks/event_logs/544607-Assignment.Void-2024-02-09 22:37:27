@@ -1,0 +1,133 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6032',
+  'Cf-Ray' => '852f98d206a823c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:FLU:
+ 
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.            Position   Template             Facility Name: Mercy Hospital Washington            Floor:                Location   Address: 901 E 5th St Washington, MO 63090             Position   Information:             
+    Facility Department/Cost Center: 15416065
+     Role (RN, Tech, LPN, PT, etc.): RN
+     Specialty: Med Surg (Adult and Peds) 
+
+     Number of Openings: 1
+     Shift: Night   6:30pm   7pm
+     Weekly Guaranteed Hours: 36 or 48
+     Weekend Hours: As required by the facility
+     Call Requirements: 
+     Required Certifications: BLS, ACLS, NIHSS and PAL s
+     Years of Experience: 1
+     Float Requirements: Must float as needed, this is non-negotiable 
+             Unit   Information:             
+  Number of Beds: 
+     Patient Ratios: 
+     Equipment: 
+       EMR: EPIC
+             Hiring   Profile:                 Must Have Skills/Experience: While this unit is 99.9% adult population with   an occasional pediatric, peds experience is required.
+     Preferred Skillset/Experience: 
+     Type of Patients on Unit: 
+     Personality Fit:              Dress   Code:               Scrub Color: 
+     Any unacceptable attire:       
+Approved Assignment Details:
+
+Blocked Scheduling
+will need facility approvalMust be willing to work weekends as neededRTO of 5 days or less, must make up the week on the back end
+
+ 
+Any RTO over 5 days would need facility approval
+No assignment details auto approved for length or guaranteed hours Can request facility approval
+If requesting any of the above, it must be listed on Mercy Submission Form
+ General CommentsMercy Hospital - Washington is an acute care hospital offering comprehensive medical, surgical, obstetric and pediatric services. As the only Level III Trauma Center between St. Louis and Jefferson City, Mercy Hospital offers an experienced medical staff that is specially trained in trauma care. Located just 50 miles southwest of St. Louis, Mercy Hospital is committed to quality health care for its service area of more than 150,000 residents. More than 800 co-workers and 233 physicians serve the Washington hospital.
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544607
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11770
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-02-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => February, 09 2024 17:37:26
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=776216 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Washington ;City=Washington ;State=MO ;Zip=63090 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=Mercy ;Shift=19:00-07:30;# of Postions=1;Type=Travel;BillRate=$80.00;minBillRate=$80.00;OTRate=88 ;CallbackRate=88 ;HolidayRate=88 ;Orientation=0 ;Description=Description:FLU:
+ 
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.            Position   Template             Facility Name: Mercy Hospital Washington            Floor:                Location   Address: 901 E 5th St Washington, MO 63090             Position   Information:             
+    Facility Department/Cost Center: 15416065
+     Role (RN, Tech, LPN, PT, etc.): RN
+     Specialty: Med Surg (Adult and Peds) 
+
+     Number of Openings: 1
+     Shift: Night   6:30pm   7pm
+     Weekly Guaranteed Hours: 36 or 48
+     Weekend Hours: As required by the facility
+     Call Requirements: 
+     Required Certifications: BLS, ACLS, NIHSS and PAL s
+     Years of Experience: 1
+     Float Requirements: Must float as needed, this is non-negotiable 
+             Unit   Information:             
+  Number of Beds: 
+     Patient Ratios: 
+     Equipment: 
+       EMR: EPIC
+             Hiring   Profile:                 Must Have Skills/Experience: While this unit is 99.9% adult population with   an occasional pediatric, peds experience is required.
+     Preferred Skillset/Experience: 
+     Type of Patients on Unit: 
+     Personality Fit:              Dress   Code:               Scrub Color: 
+     Any unacceptable attire:       
+Approved Assignment Details:
+
+Blocked Scheduling
+will need facility approvalMust be willing to work weekends as neededRTO of 5 days or less, must make up the week on the back end
+
+ 
+Any RTO over 5 days would need facility approval
+No assignment details auto approved for length or guaranteed hours Can request facility approval
+If requesting any of the above, it must be listed on Mercy Submission Form
+ General CommentsMercy Hospital - Washington is an acute care hospital offering comprehensive medical, surgical, obstetric and pediatric services. As the only Level III Trauma Center between St. Louis and Jefferson City, Mercy Hospital offers an experienced medical staff that is specially trained in trauma care. Located just 50 miles southwest of St. Louis, Mercy Hospital is committed to quality health care for its service area of more than 150,000 residents. More than 800 co-workers and 233 physicians serve the Washington hospital.
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/776216;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital Washington - TRAVEL
+    [shiftDateEnd] => 2024-05-19
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,141 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5885',
+  'Cf-Ray' => '827b755d7738183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL - RN - Med / Surg ONC (629) - Wesley MC - NIGHTS
+
+        Unit Information:
+   Med   Surg   General Surgery 629              Location: Wesley Medical Center             
+Address:
+         
+Floor: 7
+             
+Building: Building 4
+         
+
+
+             General Information             Tell us about the unit(s):        Number of Beds   36     Number of Staff   approx. 47 FTEs / headcount 60    Type of staff:         Day Shift   1 charge, up to 6 nurses (mix of RNs and         LPNs), up to 3 patient care technicians (nursing assistants), 1 unit         clerk     Night Shift   1 charge, up to 6 nurses (mix of RNs         and LPNs), up to 3 patient care technicians (nursing assistants)        Patient Ratios   When not staffed with LPN teams: 1        RN to 6-7 patients; when staffed as LPN team model: 1 nurse to 5-6        patients    Type of equipment   typical acute care inpatient        unit, may see wound vacs, NG tubes, chest tubes    EMR   Meditech                 Typical hiring profile             Skill Set Most recruited for:
+ nurses   RNs and LPNs   
+   
+Must have:
+ candidates without these skills   will not be considered for the role.
+       
+    
+      
+Preferred or nice to have:
+ candidates   with these skills will be considered first. 
+       
+Familiar with pre- and post-op inpatient care    
+Wound care    Experience managing central lines (PICC, port, CVC)      
+List typical procedures performed on unit(s): 
+
+       
+Not performed directly on unit, but patients        with general surgeries (hernia repair, colon resection, thyroidectomy,        complex wound procedures)    
+      Best personality Fit:       Compassionate    
+Encouraging                
+Unit Guidelines/Policies: Please feel free   to attach unit policies and guidelines.
+       
+      
+
+
+             Any additional information that would entice a worker to   select your unit for their assignment: 
+Consider items   such as new equipment or technology, tenure and experience of staff, schedule   options, etc.
+ *Remember it is a very   competitive market any information you can provide will help attract talent.
+ General Comments
+ No. of Positions: 5/5.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543749
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1282
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 17 2023 17:37:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=758958 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=WESLEY MEDICAL CENTER KS ;City=WICHITA ;State=KS ;Zip=67214 ;Start=10/30/2023;End=1/29/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=CONTINENTAL DIVISION (10) ;Shift=7:00PM – 7:00AM ;# of Postions=5;Type=Travel;BillRate=$75.00;OTRate=83 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL - RN - Med / Surg ONC (629) - Wesley MC - NIGHTS
+
+        Unit Information:
+   Med   Surg   General Surgery 629              Location: Wesley Medical Center             
+Address:
+         
+Floor: 7
+             
+Building: Building 4
+         
+
+
+             General Information             Tell us about the unit(s):        Number of Beds   36     Number of Staff   approx. 47 FTEs / headcount 60    Type of staff:         Day Shift   1 charge, up to 6 nurses (mix of RNs and         LPNs), up to 3 patient care technicians (nursing assistants), 1 unit         clerk     Night Shift   1 charge, up to 6 nurses (mix of RNs         and LPNs), up to 3 patient care technicians (nursing assistants)        Patient Ratios   When not staffed with LPN teams: 1        RN to 6-7 patients; when staffed as LPN team model: 1 nurse to 5-6        patients    Type of equipment   typical acute care inpatient        unit, may see wound vacs, NG tubes, chest tubes    EMR   Meditech                 Typical hiring profile             Skill Set Most recruited for:
+ nurses   RNs and LPNs   
+   
+Must have:
+ candidates without these skills   will not be considered for the role.
+       
+    
+      
+Preferred or nice to have:
+ candidates   with these skills will be considered first. 
+       
+Familiar with pre- and post-op inpatient care    
+Wound care    Experience managing central lines (PICC, port, CVC)      
+List typical procedures performed on unit(s): 
+
+       
+Not performed directly on unit, but patients        with general surgeries (hernia repair, colon resection, thyroidectomy,        complex wound procedures)    
+      Best personality Fit:       Compassionate    
+Encouraging                
+Unit Guidelines/Policies: Please feel free   to attach unit policies and guidelines.
+       
+      
+
+
+             Any additional information that would entice a worker to   select your unit for their assignment: 
+Consider items   such as new equipment or technology, tenure and experience of staff, schedule   options, etc.
+ *Remember it is a very   competitive market any information you can provide will help attract talent.
+ General Comments
+ No. of Positions: 5/5. ;url=https://vendor.healthtrustws.com/positions/758958;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Wesley Medical Center Travel
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

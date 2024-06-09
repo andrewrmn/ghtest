@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '918',
+  'Cf-Ray' => '82926f6f53b623b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => PICU
+    [assignmentid] => 544938
+    [workerID] => 288215
+    [WorkerContactNo] => 704-287-2499
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 16046
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => Lovelace
+    [shiftNum] => 5
+    [workerFirstName] => Monika
+    [cert] => RN
+    [floorDesc] => Pediatrics
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 20 2023 12:32:57
+    [daysPerWeek] => 3
+    [orderNote] => FTK: API Reports
+Chrg:P$1/B$3-OnCl:P$10/B$18
+Ornt:$29/NB:12hr-POT:$116>40hr
+BR:$140
+    [guaranteedMinimum] => 
+    [workerEmail] => monika.lovelace@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 140
+    [facilityName] => AHS - Morristown Medical Center
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

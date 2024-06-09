@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1758',
+  'Cf-Ray' => '82cb47b8e2d51463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Med/Surg Telemetry RN ASAP 13 weeks 36/wk 7p-7a Every other Holiday Every other Weekend No Call EHR-Epic BLS required Cardiology experience preferred Cardiac medication/infusions Telemetry/temporary pacemakers. Non-local contracts only 60+ mile proximity
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 536530
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12439
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-28
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 27 2023 10:07:19
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=47530 ;Status=Open;Association=Trinity Health ;Client=NY - St Joseph Hospital Health Center ;City=Syracuse ;State=NY ;Zip=13203 ;Start=11/28/2023;End=2/24/2024;Duration=88;Cert=RN Telemetry ;Specialty=D5 ;Unit=*Registered Nurse-Med Surg Tele-D5 ;Shift=1900-0730;# of Postions=1;Type=Travel;BillRate=$92.00;OTRate=119.60 ;ChargeRate=95.00 ;CallbackRate=119.60 ;HolidayRate=119.60 ;Description=Med/Surg Telemetry RN ASAP 13 weeks 36/wk 12D/N 7p-7a or 7a-7p Rotation Every other Holiday Every other Weekend No Call EHR-Epic BLS required Cardiology experience preferred Cardiac medication/infusions Telemetry/temporary pacemakers. Non-local contracts only 50+ mile proximity ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 92
+    [facilityName] => St. Joseph's Health TRAVEL
+    [shiftDateEnd] => 2024-02-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

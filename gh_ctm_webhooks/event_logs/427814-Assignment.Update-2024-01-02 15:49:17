@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5254',
+  'Cf-Ray' => '83f426b1440f77bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+Unit Information:  ICU (650)Location: Methodist Hospital SouthAddress: 1905 HWY 97 E. Jourdanton TX. 78206Floor: ICUBuilding: Main Hospital General InformationTell us about the unit(s): Number of Beds -6Number of Staff   6Type of staff: Day Shift   1 charge, and 1Monitor TechNight Shift - 1 charge, and 1Monitor TechPatient Ratios   2 or 3:1Type of equipment  Monitors, vents other ICU equipmentEMR -HMSTypical hiring profileSkill Set Most recruited for:  (Travel RNs, local CNAs and sitters)Must have:  candidates without these skills will not be considered for the role. ACLS2 yrs. ICU experienceBe willing to float a medical surgical telemetry unit during low census. Experience with assisting with TEE / CardioversionExperience in caring for patients receiving cardiac drips, diuretic drips along with patients on ventilators, BiPAP, C-PAP, CVP and ART line managementPreferred or nice to have:  candidates with these skills will be considered first.  Dobutamine and Lexiscan Stress tests List typical procedures performed on unit(s):    Patients receiving cardiac drips, Diuretic drips patients on ventilators, BiPAP, C-PAPThoracentesis; paracentesis, Dress Code: Include requirements, but most of all not acceptable attire.Scrub Color -  Navy BlueUnit Guidelines/Policies: Please feel free to attach unit policies and guidelines.  Awards/Recognition:  Feel free to include items such as links to videos that feature the department, outstanding department/team awards, reigning annual chili cook-off winners, etc.   Any additional information that would entice a worker to select your unit for their assignment:  Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc.  *Remember it is a very competitive market any information you can provide will help attract talent.        parseGeneralComments Comments
+N/A Contact: Jenester Outten Resource Manager: Jenester Outten
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 427814
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13775
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-10-31
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 02 2024 10:49:08
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=636485 ;Status=Open;Association=HWS ;Client=Methodist Hospital Atascosa ;City=Jourdanton ;State=TX ;Zip=78026 ;Start=10/3/2022;End=4/3/2023;Duration=182;Cert=SEASONAL CONTRACT-ICU RN(648)/7P-7A/26 Weeks (636485) ;Specialty=Resource Pool (648) ;Unit=Resource Pool ;Shift=7:00 PM - 7:00 AM;# of Postions=1;Type=Travel;BillRate=$92.00;minBillRate=$92.00;Description=Position Description
+Unit Information:  ICU (650)Location: Methodist Hospital SouthAddress: 1905 HWY 97 E. Jourdanton TX. 78206Floor: ICUBuilding: Main Hospital General InformationTell us about the unit(s): Number of Beds -6Number of Staff   6Type of staff: Day Shift   1 charge, and 1Monitor TechNight Shift - 1 charge, and 1Monitor TechPatient Ratios   2 or 3:1Type of equipment  Monitors, vents other ICU equipmentEMR -HMSTypical hiring profileSkill Set Most recruited for:  (Travel RNs, local CNAs and sitters)Must have:  candidates without these skills will not be considered for the role. ACLS2 yrs. ICU experienceBe willing to float a medical surgical telemetry unit during low census. Experience with assisting with TEE / CardioversionExperience in caring for patients receiving cardiac drips, diuretic drips along with patients on ventilators, BiPAP, C-PAP, CVP and ART line managementPreferred or nice to have:  candidates with these skills will be considered first.  Dobutamine and Lexiscan Stress tests List typical procedures performed on unit(s):    Patients receiving cardiac drips, Diuretic drips patients on ventilators, BiPAP, C-PAPThoracentesis; paracentesis, Dress Code: Include requirements, but most of all not acceptable attire.Scrub Color -  Navy BlueUnit Guidelines/Policies: Please feel free to attach unit policies and guidelines.  Awards/Recognition:  Feel free to include items such as links to videos that feature the department, outstanding department/team awards, reigning annual chili cook-off winners, etc.   Any additional information that would entice a worker to select your unit for their assignment:  Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc.  *Remember it is a very competitive market any information you can provide will help attract talent.        parseGeneralComments Comments
+1.Travel Fill 2291677 Contact: Jenester Outten Resource Manager: Jenester Outten ;Buyer=Jenester Outten ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=636485#!/position/manage/636485;VMSPositionType=Travel InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 92
+    [facilityName] => Methodist Hospital Atascosa
+    [shiftDateEnd] => 2023-05-01
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

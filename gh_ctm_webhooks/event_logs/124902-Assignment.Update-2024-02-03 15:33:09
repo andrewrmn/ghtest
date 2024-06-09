@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2398',
+  'Cf-Ray' => '84fbbb0bc56477ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 06/15/2020 1505 MDTJackie Pittmann
+                            
+                            
+                                Save for Betsy McKaig - min 2yrs exp. must have pedi exp. cannot take an adult RN. pls note the pedi portion of checklist when subbing. will take a strong circulator.  OH exp is preferred, level 1 trauma, travel exp preferred, 12 OR's, 2 Procedure roomss, 1 MRI suite. Will require call.
+ RatePlan:AH-TRAVEL RATE 7A-7P
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 124902
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 8
+    [facilityID] => 2478
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-07-05
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => February, 03 2024 10:32:17
+    [daysPerWeek] => 1
+    [orderNote] => Source=Shiftwise;SourceID=8761655 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Dell Children's Medical Center ;City=Austin ;State=TX ;Zip=78723 ;Start=6/28/2020;End=9/27/2020;Duration=92;Cert=RN ;Specialty=OR ;Unit=DCMC Surgical Services ;Shift=AM 8.00 Hrs;# of Postions=1;Type=Travel;minBillRate=$70.22;OTRate=Multiplier 1.35 x Std1.350 ;OTRules=Multiplier 1.35 x Std1.350 ;ChargeRate=Additive Std + $4.004.000 ;CallbackRate=Multiplier 1.35 x Std1.350 ;HolidayRate=Multiplier 1.35 x Std1.350 ;OnCallRateDescription=Flat $6.006.000 ;Orientation=Flat $0.000.000 ;Description=06/15/2020 1505 MDTJackie Pittmann
+                            
+                            
+                                Save for Betsy McKaig - min 2yrs exp. must have pedi exp. cannot take an adult RN. pls note the pedi portion of checklist when subbing. will take a strong circulator.  OH exp is preferred, level 1 trauma, travel exp preferred, 12 OR's, 2 Procedure roomss, 1 MRI suite. Will require call.
+ RatePlan:AH-TRAVEL RATE 7A-7P ;url=https://secure.shiftwise.net/esp/order.aspx?order_id=1D3B3D27F817B2E1D1E824E08C5C568D;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70.22
+    [facilityName] => Dell Children's Medical Center
+    [shiftDateEnd] => 2020-10-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

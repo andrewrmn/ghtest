@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3615',
+  'Cf-Ray' => '8350d6cde6c777ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Stay Unit RNRN must have at least 1 year experience in Progressive Care and Telemetry.*The Short Stay Unit (SSU) is an 8-bed unit located on the 4thfloor of the Main Hospital. The unit will care for the surgical, transplant, and cardiac populations needing general and progressive level of care.*SSU will initiate care to patients needing access to health system services from outside locations and also support needs of same day or next day patients with a discharge order.*RN:Patient ratio will be 1:4*Shifts will be 3 - 12 hour shifts, rotating days and nights, Monday through Friday,7AM-7PM or 7PM-7AM.*Every other weekend*Required RN experience: 1 year in progressive care, telemetry??-Interviewing now for Start Date 1/8/2024 CC 101084   Additional Information:Orientation: The first 16 hours of orientation are unpaid. Call Off Policy: 5 shifts (or the equivalent hours) per 13 week assignment.  Parking: Travelers may need to  pay for parking at VCU depending on how close they want to be to the hospital.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 544192
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3760
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 13 2023 15:08:26
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261631 ;Status=Open;Association=VCU Health ;Client=VCU Medical Center ;City=Richmond ;State=VA ;Zip=23298 ;Start=1/8/2024;End=4/8/2024;Duration=91;Cert=Nursing ;Specialty=PCU, Telemetry Nurse, Observation, Med-surg Adult, Telemetry Med / Surg ;Unit=PCU, Telemetry Nurse, Observation, Med-surg Adult, Telemetry Med / Surg ;Shift=Rotating day/nights;# of Postions=4;Guaranteed Hours=36;Type=Travel;BillRate=$93.00;OTRate=103 ;OTRules=By The Week, after 40, ;CallbackRate=93 (All Inclusive Rate) ;HolidayRate=93 (All Inclusive Rate) ;OnCallRateDescription=$10 per hour pager ;Description=Short Stay Unit RNRN must have at least 1 year experience in Progressive Care and Telemetry.*The Short Stay Unit (SSU) is an 8-bed unit located on the 4thfloor of the Main Hospital. The unit will care for the surgical, transplant, and cardiac populations needing general and progressive level of care.*SSU will initiate care to patients needing access to health system services from outside locations and also support needs of same day or next day patients with a discharge order.*RN:Patient ratio will be 1:4*Shifts will be 3 - 12 hour shifts, rotating days and nights, Monday through Friday,7AM-7PM or 7PM-7AM.*Every other weekend*Required RN experience: 1 year in progressive care, telemetry??-Interviewing now for Start Date 1/8/2024 CC 101084   Additional Information:Orientation: The first 16 hours of orientation are unpaid. Call Off Policy: 5 shifts (or the equivalent hours) per 13 week assignment.  Parking: Travelers may need to  pay for parking at VCU depending on how close they want to be to the hospital.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261631;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 93
+    [facilityName] => VCU Medical Center - TRAVEL
+    [shiftDateEnd] => 2024-04-08
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

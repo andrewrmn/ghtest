@@ -1,0 +1,65 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2341',
+  'Cf-Ray' => '82cd123435ce23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => (Vaya OFFER) Must have a Rad Tech License in KY through ARRT. Level 1 experience; BLS, ACLS, PALS required. * shifts will be four 10 hour shifts per week, 0700-1730. Call requirements are as follows: 2 late calls per week (1730-1930) with 1 call shift 1730 -0700, or 2 call shifts per week (1730   0700) One or two weekends of call per 6 week scheduling period.  (BF for Latoya Brewer JG) 
+ Critical Need: Disaster Critical
+VayaOffer = True
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 544242
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 12923
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:30
+    [whenmodified] => November, 27 2023 15:20:18
+    [daysPerWeek] => 4
+    [orderNote] => Source=OptimizerVizient;SourceID=54534521 ;Status=CandidatesRequested;Association=University of Kentucky Hospital ;Client=University of Kentucky Hospital ;City=Lexington ;State=KY ;Zip=40536 ;Start=12/18/2023;End=3/23/2024;Duration=96;Cert=Radiology Tech ;Specialty=Radiology Tech - Cath Lab ;Unit=CH Cath lab - 1058725300 ;Shift=7:00 AM - 5:30 PM;# of Postions=1;Guaranteed Hours=0;Type=Travel;BillRate=$109.00;OTRate=152.60 ;CallbackRate=152.60 ;HolidayRate=163.50 ;Orientation=76.30 ;Priority=Critical;Description=(Vaya OFFER) Must have a Rad Tech License in KY through ARRT. Level 1 experience; BLS, ACLS, PALS required. * shifts will be four 10 hour shifts per week, 0700-1730. Call requirements are as follows: 2 late calls per week (1730-1930) with 1 call shift 1730 -0700, or 2 call shifts per week (1730   0700) One or two weekends of call per 6 week scheduling period.  (BF for Latoya Brewer JG) 
+ Critical Need: Disaster Critical
+VayaOffer = True ;url=https://optimizer.vayaworkforce.com/agency/job-requests/54534521;localRate=$105.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 109
+    [facilityName] => University of Kentucky Hospital Travel
+    [shiftDateEnd] => 2024-03-23
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

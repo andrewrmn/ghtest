@@ -1,0 +1,120 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3873',
+  'Cf-Ray' => '832082782247183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:3 West is a  26-bed Medicine Acute Care unit caring for patients with End Stage Renal Disease (ESRD), autoimmune and connective tissue disorders, pneumonia, chest pain, CHF, GI bleed, and diabetes.  The RN will facilitate admission, treatment, transfer,
+Complete Description:Diagnosis Typically includes Cancer, General Med overflow, Post op Bariatric, Joints and general surgery, Few peds surgery. Special procedures may include bedside aspirations, chemo and blood products. 
+
+Required - NIH/Stroke Certifications 
+Chemo certification would be a major asset for this unit due to care of cancer patients.
+
+Floating may occur to similar units at UNC Lenoir Health Care
+Requisition Comments:Lotus Offers- Fast Offers! 
+Candidates will NOT interview. 
+
+Must include RTO in submittal in order to be honored at time of offer!
+
+Traveler is expected to float to like acuities or less if needed
+Scheduling Details:3-12 Hour Shifts: Nights 19:00-07:00
+
+EOW, holidays as needed
+
+No specific call, will depend on the needs of the facility
+
+Nurse patient ratio 1:6
+
+No block scheduling
+
+Required:
+  BLS, ACLS,NIH/Stroke Certification (prior to assignment)
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 541677
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3617
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 07 2023 18:22:00
+    [daysPerWeek] => 3
+    [orderNote] => Source=PeopleFluent;SourceID=723973 ;Status=Open;Association=Progressive Care Unit ;Client=UNC Health ;Start=11/27/2023;End=2/24/2024;Duration=89;Cert=RN ;Specialty=PCU Tele ;Unit=RN - 3 West Medical Telemetry - Nights - UNC Lenoir Health Care ;Shift=3x12.0 3-12 Hour Shifts: Nights 19:00-07:00
+
+EOW, holidays as needed
+
+No specific call, will depend on the needs of the facility
+
+Nurse patient ratio 1:6
+
+No block scheduling
+
+Required:
+• BLS, ACLS,NIH/Stroke Certification (prior to assignment);# of Postions=1;Type=Travel;BillRate=$90.00;Description=Short Description:3 West is a  26-bed Medicine Acute Care unit caring for patients with End Stage Renal Disease (ESRD), autoimmune and connective tissue disorders, pneumonia, chest pain, CHF, GI bleed, and diabetes.  The RN will facilitate admission, treatment, transfer,
+Complete Description:Diagnosis Typically includes Cancer, General Med overflow, Post op Bariatric, Joints and general surgery, Few peds surgery. Special procedures may include bedside aspirations, chemo and blood products. 
+
+Required - NIH/Stroke Certifications 
+Chemo certification would be a major asset for this unit due to care of cancer patients.
+
+Floating may occur to similar units at UNC Lenoir Health Care
+Requisition Comments:Lotus Offers- Fast Offers! 
+Candidates will NOT interview. 
+
+Must include RTO in submittal in order to be honored at time of offer!
+
+Traveler is expected to float to like acuities or less if needed
+Scheduling Details:3-12 Hour Shifts: Nights 19:00-07:00
+
+EOW, holidays as needed
+
+No specific call, will depend on the needs of the facility
+
+Nurse patient ratio 1:6
+
+No block scheduling
+
+Required:
+  BLS, ACLS,NIH/Stroke Certification (prior to assignment) ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=723973;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Lenoir Memorial Hospital
+    [shiftDateEnd] => 2024-03-22
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

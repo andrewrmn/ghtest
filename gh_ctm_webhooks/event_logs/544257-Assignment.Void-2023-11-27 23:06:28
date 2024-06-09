@@ -1,0 +1,65 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2366',
+  'Cf-Ray' => '82ce0594949a183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => CA   RN - ER Charge Nurse, NOCS - $100/hr.  
+
+Night shift.  36 hrs./week guaranteed.Active CA license, BLS, ACLS, and PALS required.Proof of negative TB screen within 12 months of contract starting date.Drug & alcohol screen will be done on first day. Mask fit can be done on site.Housing may be available. One bedroom apartment near the hospital. $1,100/mo. includes utilities, wifi.   Position Urgency:Rapid Response Crisis Billing string = Mad River Community Hospital
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 544257
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 1325
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 27 2023 18:06:27
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261661 ;Status=Open;Association=Mad River Community Hospital ;Client=Mad River Community Hospital ;City=Arcata ;State=CA ;Zip=95518 ;Start=11/14/2023;End=2/13/2024;Duration=91;Cert=Nursing ;Specialty=Emergency Room Nurse ;Unit=Emergency Room Nurse ;Shift=7:00pm - 7:30am;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$100.00;OTRate=100 ;OTRules=By The Week, after 40, ;CallbackRate=100 (All Inclusive Rate) ;HolidayRate=100 (All Inclusive Rate) ;OnCallRateDescription=$4 per hour pager ;Description=CA   RN - ER Charge Nurse, NOCS - $100/hr.  
+
+Night shift.  36 hrs./week guaranteed.Active CA license, BLS, ACLS, and PALS required.Proof of negative TB screen within 12 months of contract starting date.Drug & alcohol screen will be done on first day. Mask fit can be done on site.Housing may be available. One bedroom apartment near the hospital. $1,100/mo. includes utilities, wifi.   Position Urgency:Rapid Response Crisis Billing string = Mad River Community Hospital ;url=https://vms.medefis5.com/jobs/261661;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 100
+    [facilityName] => Mad River Community Hospital Medefis
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

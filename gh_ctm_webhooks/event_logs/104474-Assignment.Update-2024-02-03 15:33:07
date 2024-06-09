@@ -1,0 +1,66 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '53',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2052',
+  'Cf-Ray' => '84fbbb00e2867b12-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 02/04/2020 1249 MSTBernadette Rollins
+                            
+                            
+                                ***Bill rate 105.00 for an experienced pediatric CVOR nurse.  Must have 2yrs experience with general understanding of ECMO procedure.  **Must have pediatric experience.  IVS/Montage with NM to make final offer.
+    [sitename] => giftednurses
+    [spec] => CVOR
+    [assignmentid] => 104474
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2478
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-03-23
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => February, 03 2024 10:32:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=Shiftwise;SourceID=8582325;Status=Open;Association=CCS WFS: Seton HealthCare Network;Client=AH: Dell Children's Medical Center;City=Austin;State=TX;Zip=78723;Start=2/24/2020;End=5/24/2020;Duration=91;Cert=RN;Specialty=CVOR;Unit=DCMC Surgical Services;Shift=AM 12.00 Hrs;# of Postions=1;Type=Travel;OTRate= ;OTRules= ;ChargeRate= ;CallbackRate= ;CallbackRate= ;HolidayRate= ;OnCallRateDescription= ;Orientation= ;Description=02/04/2020 1249 MSTBernadette Rollins
+                            
+                            
+                                ***Bill rate 105.00 for an experienced pediatric CVOR nurse.  Must have 2yrs experience with general understanding of ECMO procedure.  **Must have pediatric experience.  IVS/Montage with NM to make final offer.;Buyer= ;url=https://secure.shiftwise.net/esp/order.aspx?order_id=E75AE021EDFFD41B56EA4444779ED2A2;VMSPositionType= AvgHoursPerWeek= InterviewRequired=False;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 
+    [facilityName] => Dell Children's Medical Center
+    [shiftDateEnd] => 2020-06-21
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '902',
+  'Cf-Ray' => '85467e5ff68f77bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 528935
+    [workerID] => 27323
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 12757
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-30
+    [workerLastName] => Sanchez
+    [shiftNum] => 4
+    [workerFirstName] => Kayla
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => February, 12 2024 12:18:55
+    [daysPerWeek] => 3
+    [orderNote] => BR:$124.83lRS:1340831lFTK:Gifted TC
+OnCl:P$3/B$10
+Orient:$45.50lNonBill:8hrs
+    [guaranteedMinimum] => 
+    [workerEmail] => ksanch4@gmail.com
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 124.83
+    [facilityName] => Sutter Health - Memorial Medical Center RS Travel
+    [shiftDateEnd] => 2024-02-03
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

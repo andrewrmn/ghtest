@@ -1,0 +1,67 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '28',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3959',
+  'Cf-Ray' => '835fec51648a495d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Medical Surgical Care RN
+
+*MUST HAVE PROGRESSIVE CARE EXPERIENCE (I know the name of the unit is misleading, but this is not only a med/surg floor, thank you) 
+  36      hours per week  Dayshift available - 2 start dates of 11/13, 1 start date of 11/27 needed  Weekends:      minimum of 48 hours in 6 week period  Holidays:      required to work holidays and will be negotiated  On      call: NoneCannot guarantee 3 consecutive shifts in a row24 beds with 8 Progressive, and 10 Telemetry bedsNurse/Patient ratio: 1:4; Sometimes 1:5  Prefer      2 years or greater experience  Must      possess inpatient experience  Possible      reassignments within the division  Unit      is located in the Main Hospital 8th      floor, west wing  Dress      code: Ceil blue/white  Basic      Knowledge Assessment Test (BKAT) required and Progressive Care experience:      those without progressive care experience will not be accepted  Lawson code: 1403  RN2   Additional Information:Orientation: The first 16 hours of orientation are unpaid. Call Off Policy: 5 shifts (or the equivalent hours) per 13 week assignment.  Parking: Travelers may need to  pay for parking at VCU depending on how close they want to be to the hospital.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 538059
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3760
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-31
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 15 2023 11:04:32
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=260274 ;Status=Open;Association=VCU Health ;Client=VCU Medical Center ;City=Richmond ;State=VA ;Zip=23298 ;Start=11/13/2023;End=2/12/2024;Duration=91;Cert=Nursing ;Specialty=Telemetry Med / Surg, PCU, Telemetry Nurse ;Unit=Telemetry Med / Surg, PCU, Telemetry Nurse ;Shift=Days;# of Postions=3;Guaranteed Hours=36;Type=Travel;BillRate=$93.00;OTRate=103 ;OTRules=By The Week, after 40, ;CallbackRate=93 (All Inclusive Rate) ;HolidayRate=93 (All Inclusive Rate) ;OnCallRateDescription=$10 per hour pager ;Description=Medical Surgical Care RN
+
+*MUST HAVE PROGRESSIVE CARE EXPERIENCE (I know the name of the unit is misleading, but this is not only a med/surg floor, thank you) 
+  36      hours per week  Dayshift available - 2 start dates of 11/13, 1 start date of 11/27 needed  Weekends:      minimum of 48 hours in 6 week period  Holidays:      required to work holidays and will be negotiated  On      call: NoneCannot guarantee 3 consecutive shifts in a row24 beds with 8 Progressive, and 10 Telemetry bedsNurse/Patient ratio: 1:4; Sometimes 1:5  Prefer      2 years or greater experience  Must      possess inpatient experience  Possible      reassignments within the division  Unit      is located in the Main Hospital 8th      floor, west wing  Dress      code: Ceil blue/white  Basic      Knowledge Assessment Test (BKAT) required and Progressive Care experience:      those without progressive care experience will not be accepted  Lawson code: 1403  RN2   Additional Information:Orientation: The first 16 hours of orientation are unpaid. Call Off Policy: 5 shifts (or the equivalent hours) per 13 week assignment.  Parking: Travelers may need to  pay for parking at VCU depending on how close they want to be to the hospital.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260274;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 93
+    [facilityName] => VCU Medical Center - TRAVEL
+    [shiftDateEnd] => 2024-03-31
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

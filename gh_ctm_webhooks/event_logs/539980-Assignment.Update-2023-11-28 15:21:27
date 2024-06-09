@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2646',
+  'Cf-Ray' => '82d399c3a1536a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Travel RN with a minimum 2 years of ED experience with Recent (within 2 years) needed for 21 bed level 3 trauma unit at Shannon Medical Center / Shannon South Campus. A short medication test will also be given during orientation. Candidate must have a TNCC, PALS or ENPC **48 hours minimum scheduled guaranteed,** **NO OVERTIME UNTIL AFTER 48 HRS.****Shannon Medical Center has a 110 mile radius rule, no contractor will be employed if they live within this radius.**   Additional Information:**Shannon Medical does NOT hire travelers/contractors that have a permanent address within 110 miles of the facility.**   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 539980
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1343
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 28 2023 10:20:46
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=260193 ;Status=Open;Association=Shannon Medical Center ;Client=Shannon Medical Center ;City=San Angelo ;State=TX ;Zip=76903 ;Start=10/20/2023;End=1/19/2024;Duration=91;Cert=Nursing ;Specialty=Emergency Room Nurse ;Unit=Emergency Room Nurse ;Shift=To be discussed;# of Postions=5;Guaranteed Hours=48;Type=Travel;BillRate=$86.00;OTRate=96 ;OTRules=By The Week, after 48, ;HolidayRate=96 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=Travel RN with a minimum 2 years of ED experience with Recent (within 2 years) needed for 21 bed level 3 trauma unit at Shannon Medical Center / Shannon South Campus. A short medication test will also be given during orientation. Candidate must have a TNCC, PALS or ENPC **48 hours minimum scheduled guaranteed,** **NO OVERTIME UNTIL AFTER 48 HRS.****Shannon Medical Center has a 110 mile radius rule, no contractor will be employed if they live within this radius.**   Additional Information:**Shannon Medical does NOT hire travelers/contractors that have a permanent address within 110 miles of the facility.**   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260193;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 86
+    [facilityName] => Shannon Medical Center Medefis
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

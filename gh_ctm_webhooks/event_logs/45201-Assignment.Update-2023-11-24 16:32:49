@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4642',
+  'Cf-Ray' => '82b30cd1768623b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position DescriptionThe Lab Technician demonstrates critical thinking skills, judgement and leadership in the practice of laboratory technology.  The Lab technician is responsible and accountable for the efficient planning, directing and accurate provision of all laboratory testing for inpatients and outpatients.  The lab technician practices in accordance with laboratory policies, procedures, regulatory standards, recognized testing techniques and administrative policies.parseGeneralComments Comments.bd_title                                   {                                          font-weight: bold;                                   }                                                    Reason for opening (special, internal vacancy, leave coverage) Rotating shifts             *******************************************************************************              How long has it been open?              Will position be required to float to other units?              Number of beds in your facility?              Years of experience required?              Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)              Willing to review clinicians with pending state license?              Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift)     EMR for your facility:              Scrub colors / dress code:     Parking location:  Contact: Paige Moran Resource Manager: Suhani Desai OT Rate:?/$54.60 Holiday Rate: ?/$58.50                   https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=257787&null
+    [sitename] => giftednurses
+    [spec] => Laboratory
+    [assignmentid] => 45201
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9491
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-01-21
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => MLT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 24 2023 11:32:48
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;ID=0;SourceID=257787;Status=Open;Client=DeTar Healthcare System Allied;City=Victoria;State=TX;Zip=77904;Start=1/7/2019;End=4/8/2019;Duration=91;Cert=Laboratory Technician;Specialty=LABORATORY - CLINICAL;Unit=1131: LABORATORY - CLINICAL;Shift=for this position? (days needed, hours or shift);# of Postions=1;Type=Travel;BillRate=$39.00;OnCallRate=$3.90;Description=Position DescriptionThe Lab Technician demonstrates critical thinking skills, judgement and leadership in the practice of laboratory technology.  The Lab technician is responsible and accountable for the efficient planning, directing and accurate provision of all laboratory testing for inpatients and outpatients.  The lab technician practices in accordance with laboratory policies, procedures, regulatory standards, recognized testing techniques and administrative policies.parseGeneralComments Comments.bd_title                                   {                                          font-weight: bold;                                   }                                                    Reason for opening (special, internal vacancy, leave coverage) Rotating shifts             *******************************************************************************              How long has it been open?              Will position be required to float to other units?              Number of beds in your facility?              Years of experience required?              Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)              Willing to review clinicians with pending state license?              Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift)     EMR for your facility:              Scrub colors / dress code:     Parking location:  Contact: Paige Moran Resource Manager: Suhani Desai OT Rate:?/$54.60 Holiday Rate: ?/$58.50                   https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=257787&null;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 39
+    [facilityName] => DeTar Hospital - North 
+    [shiftDateEnd] => 2019-04-21
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

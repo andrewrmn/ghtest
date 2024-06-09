@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2320',
+  'Cf-Ray' => '84ca44b3434277ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 09/27/2021 1244 MDTJackie Pittmann
+                            
+                            
+                                $165 36 or 48 hours. 2 yrs exp. Cerner exp a plus. Vaccine required. Must be willing to float. This is a smaller facility in Burnet Texas - which is out in a pretty hill country area, near lakes. People retire to the area. Could be a nice place to go for Fall.
+ RatePlan:AH-Covid 19 RN rates (8-25-2021)
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 293073
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9551
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-10-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 28 2024 10:28:57
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;SourceID=9477738 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Highland Lakes ;City=Burnet ;State=TX ;Zip=78611 ;Start=10/18/2021;End=1/16/2022;Duration=91;Cert=RN ;Specialty=Med/Surg ;Unit=SHLMC Med/Surg ;Shift=NOC 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$165.00;minBillRate=$165.00;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=09/27/2021 1244 MDTJackie Pittmann
+                            
+                            
+                                $165 36 or 48 hours. 2 yrs exp. Cerner exp a plus. Vaccine required. Must be willing to float. This is a smaller facility in Burnet Texas - which is out in a pretty hill country area, near lakes. People retire to the area. Could be a nice place to go for Fall.
+ RatePlan:AH-Covid 19 RN rates (8-25-2021) ;url=https://automated.shiftwise.net/esp/order.aspx?order_id=D9C68C3A9D93CD6A842DF8B8C0C7DD4B;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 165
+    [facilityName] => Ascension Seton Highland Lakes
+    [shiftDateEnd] => 2022-01-16
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1417',
+  'Cf-Ray' => '8281096097ae1832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 8-12 weeks36 hrs/wk
+11a-11p
+SPD Certification
+    [sitename] => giftednurses
+    [spec] => Sterile Processing Tech 
+    [assignmentid] => 542382
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1211
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-26
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Sterile Processing Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:30
+    [whenmodified] => November, 18 2023 09:52:19
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48123 ;Status=In-Progress (O);Association=Trinity Health ;Client=PA - St. Mary Medical Center ;City=Langhorne ;State=PA ;Zip=19047 ;Start=11/26/2023;End=1/20/2024;Duration=55;Cert=Sterile Processing Tech ;Specialty=Sterile Processing Dept ;Unit=PA\St Mary's\SPD Tech ;Shift=11:00:00 - 23:30:00;# of Postions=1;Type=Travel;BillRate=$48.00;OTRate=62.40 ;ChargeRate=51.00 ;CallbackRate=62.40 ;HolidayRate=62.40 ;Orientation=0.00 ;Description=8-12 weeks36 hrs/wk
+11a-11p
+SPD Certification ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 48
+    [facilityName] => St. Mary Medical Center TRAVEL
+    [shiftDateEnd] => 2024-01-20
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

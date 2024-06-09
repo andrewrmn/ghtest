@@ -1,0 +1,116 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5007',
+  'Cf-Ray' => '87879aa433341838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:FLU:
+ 
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.
+Must complete Cardiac Arrhythmia test.            Position   Template             Facility Name: Mercy Hospital Washington            Floor:                Location   Address: 901 E 5th St Washington, MO 63090             Position   Information:             
+    Facility Department/Cost Center: 15416090
+     Role (RN, Tech, LPN, PT, etc.): RN
+     Specialty: Cardiac Tele 
+
+     Number of Openings: 4
+     Shift: Night   6:30pm   7pm
+     Weekly Guaranteed Hours: 36 or 48
+     Weekend Hours: As required by the facility
+     Call Requirements: 
+     Required Certifications: BLS, ACLS, NIHSS
+     Years of Experience: 2
+     Float Requirements: Must float as needed, this is non-negotiable 
+             Unit   Information:             
+  Number of Beds: 
+     Patient Ratios: 
+     Equipment: 
+       EMR: EPIC
+             Hiring   Profile:                 Must Have Skills/Experience: Tele experience required 
+     Preferred Skillset/Experience: 
+     Type of Patients on Unit: 
+     Personality Fit:              Dress   Code:               Scrub Color: 
+     Any unacceptable attire:
+ General CommentsMercy Hospital - Washington is an acute care hospital offering comprehensive medical, surgical, obstetric and pediatric services. As the only Level III Trauma Center between St. Louis and Jefferson City, Mercy Hospital offers an experienced medical staff that is specially trained in trauma care. Located just 50 miles southwest of St. Louis, Mercy Hospital is committed to quality health care for its service area of more than 150,000 residents. More than 800 co-workers and 233 physicians serve the Washington hospital.
+ No. of Positions: 2/4.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 544608
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11770
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-02-09
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => April, 22 2024 14:16:16
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=776211 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Washington ;City=Washington ;State=MO ;Zip=63090 ;Start=2/9/2024;End=5/10/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=Mercy ;Shift=19:00-07:30;# of Postions=2;Type=Travel;BillRate=$90.00;minBillRate=$90.00;OTRate=98 ;CallbackRate=98 ;HolidayRate=98 ;Orientation=0 ;Description=Description:FLU:
+ 
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.
+Must complete Cardiac Arrhythmia test.            Position   Template             Facility Name: Mercy Hospital Washington            Floor:                Location   Address: 901 E 5th St Washington, MO 63090             Position   Information:             
+    Facility Department/Cost Center: 15416090
+     Role (RN, Tech, LPN, PT, etc.): RN
+     Specialty: Cardiac Tele 
+
+     Number of Openings: 4
+     Shift: Night   6:30pm   7pm
+     Weekly Guaranteed Hours: 36 or 48
+     Weekend Hours: As required by the facility
+     Call Requirements: 
+     Required Certifications: BLS, ACLS, NIHSS
+     Years of Experience: 2
+     Float Requirements: Must float as needed, this is non-negotiable 
+             Unit   Information:             
+  Number of Beds: 
+     Patient Ratios: 
+     Equipment: 
+       EMR: EPIC
+             Hiring   Profile:                 Must Have Skills/Experience: Tele experience required 
+     Preferred Skillset/Experience: 
+     Type of Patients on Unit: 
+     Personality Fit:              Dress   Code:               Scrub Color: 
+     Any unacceptable attire:
+ General CommentsMercy Hospital - Washington is an acute care hospital offering comprehensive medical, surgical, obstetric and pediatric services. As the only Level III Trauma Center between St. Louis and Jefferson City, Mercy Hospital offers an experienced medical staff that is specially trained in trauma care. Located just 50 miles southwest of St. Louis, Mercy Hospital is committed to quality health care for its service area of more than 150,000 residents. More than 800 co-workers and 233 physicians serve the Washington hospital.
+ No. of Positions: 2/4.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/776211;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Mercy Hospital Washington - TRAVEL
+    [shiftDateEnd] => 2024-05-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

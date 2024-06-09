@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2798',
+  'Cf-Ray' => '84ca405a1044183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 01/12/2022 0833 CSTLeah Gillies
+                            
+                            
+                                2 full years of experience in specific specialty. Cerner exp a plus. All travelers must be willing to float to sister facilities when necessary. Vaccine required- All candidates must be fully vaccinated with COVID 19 and Flu prior to submission and must include proof of both in submission packets. At least 1 Travel contract required for submittal. IVS w/o. Navy blue scrubs will be required. 150 mile radius rule (no locals). Request # 2670, BR Travel $145. Shift 1845-0715. ICU/Intermediate Care Unit.
+ RatePlan:AH-Covid 19 RN rates (8-25-2021)
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 341380
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13445
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-02-07
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 28 2024 10:25:06
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;SourceID=9666163 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Medical Center ;City=Austin ;State=TX ;Zip=78701 ;Start=2/7/2022;End=5/9/2022;Duration=92;Cert=RN ;Specialty=ICU ;Unit=SMC Critical Care ;Shift=NOC 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$165.00;minBillRate=$165.00;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=01/12/2022 0833 CSTLeah Gillies
+                            
+                            
+                                2 full years of experience in specific specialty. Cerner exp a plus. All travelers must be willing to float to sister facilities when necessary. Vaccine required- All candidates must be fully vaccinated with COVID 19 and Flu prior to submission and must include proof of both in submission packets. At least 1 Travel contract required for submittal. IVS w/o. Navy blue scrubs will be required. 150 mile radius rule (no locals). Request # 2670, BR Travel $145. Shift 1845-0715. ICU/Intermediate Care Unit.
+ RatePlan:AH-Covid 19 RN rates (8-25-2021) ;url=https://secure.shiftwise.net/esp/order.aspx?order_id=B24F57B0A640C5E0BB0F14B2FBA13BC2;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 165
+    [facilityName] => Ascension Seton Medical Center Austin
+    [shiftDateEnd] => 2022-05-09
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

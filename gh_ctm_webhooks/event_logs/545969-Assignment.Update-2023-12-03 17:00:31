@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '915',
+  'Cf-Ray' => '82fd5dc5d4a0183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => CCU
+    [assignmentid] => 545969
+    [workerID] => 312033
+    [WorkerContactNo] => 856-524-6294
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Extension Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 16050
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => Atkinson
+    [shiftNum] => 4
+    [workerFirstName] => Patricia
+    [cert] => RN
+    [floorDesc] => Cardiac Care Unit
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 03 2023 12:00:30
+    [daysPerWeek] => 3
+    [orderNote] => EXT-FTK: API Reports
+Chrg:P$1/B$3-OnCl:P$10/B$18
+POT:$75>40hr
+BR:$110
+    [guaranteedMinimum] => 
+    [workerEmail] => tricia1311@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => AHS - Overlook Medical Center
+    [shiftDateEnd] => 2024-03-02
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

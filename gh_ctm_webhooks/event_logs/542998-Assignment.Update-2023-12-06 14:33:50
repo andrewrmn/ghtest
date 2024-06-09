@@ -1,0 +1,152 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5541',
+  'Cf-Ray' => '83153f09b7b723c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL - RN - PEDIATRIC CVOR OR - PSL MC OR (702) - DAYS
+we are really looking for someone with cardiac experience CVOR
+
+Data Collection:
+          Unit Information:
+ (OR / CST 702)             Location: PSL             
+Address:
+         
+Floor: Peds Operating   Room
+             
+Building:
+         
+
+
+             General Information             Tell us   about the unit(s):          Number        of Beds   8 OR s    Number        of Staff   25:     Type        of staff:         Day         Shift   Charge RN, RN s, CST, Anesthesia/         hours of operation 7am-5:30pm/ We have great service line leaders         to support the team     Night         Shift   on Call team        Patient        Ratios   
+1:1    Type        of equipment   All Types, Belmont rapid infusion    EMR - Meditech                Typical hiring profile             Skill Set   Most recruited for:
+ (Travel RNs, local CNAs and sitters)   
+   
+Must have:
+ candidates without these   skills will not be considered for the role.
+       2 years OR experinece    Able to function in multiple service lines      
+Preferred   or nice to have:
+   candidates with these skills will be considered first. 
+       
+Pediatrics    
+CVOR/Cardiac      
+List   typical procedures performed on unit(s): 
+
+       
+Orthopedic, ENT, Urology, Spine, General, GYN,        Endoscopy, Plastics, Cardiac
+    
+      Best   personality Fit:       Good Teamwork    
+                
+Unit   Guidelines/Policies: Please   feel free to attach unit policies and guidelines.
+       
+      
+
+
+             Any   additional information that would entice a worker to select your unit for   their assignment: 
+Consider   items such as new equipment or technology, tenure and experience of staff,   schedule options, etc.
+ *Remember   it is a very competitive market any information you can provide will   help attract talent.   
+
+ 
+   
+We have great service line leaders
+ General Comments
+    [sitename] => giftednurses
+    [spec] => CVOR
+    [assignmentid] => 542998
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 2818
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-08-21
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 06 2023 09:33:49
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=732701 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=Presbyterian St. Luke's Medical Center-PSL ;City=Denver ;State=CO ;Zip=80218 ;Start=8/21/2023;End=11/20/2023;Duration=91;Cert=RN ;Specialty=Cardiovascular Surgery ;Unit=CONTINENTAL DIVISION (10) ;Shift=7:00AM – 5:00PM ;# of Postions=1;Type=Travel;BillRate=$105.00;minBillRate=$105.00;OTRate=113 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:TRAVEL - RN - PEDIATRIC CVOR OR - PSL MC OR (702) - DAYS
+we are really looking for someone with cardiac experience CVOR
+
+Data Collection:
+          Unit Information:
+ (OR / CST 702)             Location: PSL             
+Address:
+         
+Floor: Peds Operating   Room
+             
+Building:
+         
+
+
+             General Information             Tell us   about the unit(s):          Number        of Beds   8 OR s    Number        of Staff   25:     Type        of staff:         Day         Shift   Charge RN, RN s, CST, Anesthesia/         hours of operation 7am-5:30pm/ We have great service line leaders         to support the team     Night         Shift   on Call team        Patient        Ratios   
+1:1    Type        of equipment   All Types, Belmont rapid infusion    EMR - Meditech                Typical hiring profile             Skill Set   Most recruited for:
+ (Travel RNs, local CNAs and sitters)   
+   
+Must have:
+ candidates without these   skills will not be considered for the role.
+       2 years OR experinece    Able to function in multiple service lines      
+Preferred   or nice to have:
+   candidates with these skills will be considered first. 
+       
+Pediatrics    
+CVOR/Cardiac      
+List   typical procedures performed on unit(s): 
+
+       
+Orthopedic, ENT, Urology, Spine, General, GYN,        Endoscopy, Plastics, Cardiac
+    
+      Best   personality Fit:       Good Teamwork    
+                
+Unit   Guidelines/Policies: Please   feel free to attach unit policies and guidelines.
+       
+      
+
+
+             Any   additional information that would entice a worker to select your unit for   their assignment: 
+Consider   items such as new equipment or technology, tenure and experience of staff,   schedule options, etc.
+ *Remember   it is a very competitive market any information you can provide will   help attract talent.   
+
+ 
+   
+We have great service line leaders
+ General Comments
+ No. of Positions: 1/2.
+ Position creation reason:Coverage for Leave ;url=https://vendor.healthtrustws.com/positions/732701;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Presbyterian St. Luke's Medical Center TRAVEL
+    [shiftDateEnd] => 2023-11-20
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

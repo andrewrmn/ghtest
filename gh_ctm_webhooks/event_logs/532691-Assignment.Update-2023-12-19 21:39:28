@@ -1,0 +1,71 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2692',
+  'Cf-Ray' => '8382cc66321477ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => BR:$75 Eff. 12/10/2023
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 532691
+    [workerID] => 210634
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => Source=Parallon;SourceID=534190 ;Status=Open;Association=CHS ;Client=Merit Health Natchez ;City=Natchez ;State=MS ;Zip=39120 ;Start=11/22/2021;End=1/17/2022;Duration=56;Cert=CHS Travel:Registered Nurse (RN) /Med/Surg/Ortho/Peds (534190) ;Specialty=1015: MED/SURG (UNIT/FLOOR 5) ;Unit=MED/SURG (UNIT/FLOOR 5) ;Shift=for this position? (days needed, hours or shift)     EMR for your facility:              Scrub colors / dress code:     Parking location:;# of Postions=4;Type=Travel;BillRate=$130.00;Description=Position Description
+ASAP START
+BILL RATE $130.00
+DAYS 12 HOURS
+8 WEEKS
+BLS
+PEARS-CAN BE OFFERED AT THE FACILITYparseGeneralComments Comments
+.bd_title { font-weight: bold }
+Reason for opening (special, internal vacancy, leave coverage)              *******************************************************************************              How long has it been open?              Will position be required to float to other units?              Number of beds in your facility?              Years of experience required?              Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)              Willing to review clinicians with pending state license?              Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift)     EMR for your facility:              Scrub colors / dress code:     Parking location:  Contact: Roy Mitchell Resource Manager: Roy Mitchell ;Buyer=Roy Mitchell ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=534190#!/position/manage/534190;VMSPositionType=Travel InterviewRequired=False ;WinterPlanNeed=No;
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 36
+    [facilityID] => 3963
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-08
+    [workerLastName] => Logan
+    [shiftNum] => 5
+    [workerFirstName] => April
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => December, 19 2023 16:39:05
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$75|RS:134621
+OnCl:P$5/B$13
+TK:Gifted Timecard
+    [guaranteedMinimum] => 
+    [workerEmail] => alogan1984@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Merit Health Natchez
+    [shiftDateEnd] => 2024-01-06
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

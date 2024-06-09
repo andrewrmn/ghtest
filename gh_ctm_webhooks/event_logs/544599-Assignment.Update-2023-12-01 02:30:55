@@ -1,0 +1,98 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3261',
+  'Cf-Ray' => '82e7e92712b61836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => CT Techs must be able to function in all capacities in Radiology, not just CT.  (diagnostic and CT)
+
+Tuesday - Thursday 12p-12a
+
+Position/Specialty:  CT/X-RAY/OR      
+Start date: ASAP   
+Years of Experience REQ: 1
+First-timers Accepted: Y/N: Y
+Weekend REQ: N
+Certs REQ:  ARRT
+Is on-call REQ? NO
+
+
+ Modified Time:12/4/2023 5:00:00 AM
+ Account Manager: Thomas Pettineo
+ Account Manager Email: Thomas.pettineo@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Med
+ Submittal Details: #Tier1 Travel CompliancePlease keep RTO to a minimum: all RTO must be listed on Qualivis cover page at the time of submission to be approved prior to offerExperience required varies, please see job descriptionMust be licensed to practice in KY at time of submission, not pending.References Required: 2 supervisory referencesLocals accepted at same rateCopy of Certifications
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 544599
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8513
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 30 2023 21:30:21
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2306924 ;Status=Open;Association=Qualivis EPA ;Client=Taylor Regional Hospital ;City=Campbellsville ;State=KY ;Zip=42718-9600 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Radiology / Cardiology ;Specialty=CT Tech ;Unit=CT Tech/Radiology ;Shift=Day 3x12-Hour (12:00 - 00:00);# of Postions=1;Type=Travel;BillRate=$95.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=CT Techs must be able to function in all capacities in Radiology, not just CT.  (diagnostic and CT)
+
+Tuesday - Thursday 12p-12a
+
+Position/Specialty:  CT/X-RAY/OR      
+Start date: ASAP   
+Years of Experience REQ: 1
+First-timers Accepted: Y/N: Y
+Weekend REQ: N
+Certs REQ:  ARRT
+Is on-call REQ? NO
+
+
+ Modified Time:12/4/2023 5:00:00 AM
+ Account Manager: Thomas Pettineo
+ Account Manager Email: Thomas.pettineo@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Med
+ Submittal Details: #Tier1 Travel CompliancePlease keep RTO to a minimum: all RTO must be listed on Qualivis cover page at the time of submission to be approved prior to offerExperience required varies, please see job descriptionMust be licensed to practice in KY at time of submission, not pending.References Required: 2 supervisory referencesLocals accepted at same rateCopy of Certifications ;url=https://app.ayaconnect.com/index.html#/vendor/job/2306924/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Taylor Regional Hospital
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

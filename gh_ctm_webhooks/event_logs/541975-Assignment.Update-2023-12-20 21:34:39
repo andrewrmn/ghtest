@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '922',
+  'Cf-Ray' => '838b02b6704b77bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => SWITCH TO LOCAL. Eff. 12/12.
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 541975
+    [workerID] => 244623
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9468
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-12
+    [workerLastName] => Long
+    [shiftNum] => 4
+    [workerFirstName] => Elizabeth
+    [cert] => RRT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 20 2023 16:34:38
+    [daysPerWeek] => 3
+    [orderNote] => BR:$75lRS:136231
+Orient:$20lNonBill:8hrs
+FTK: GIFTED TC
+    [guaranteedMinimum] => 
+    [workerEmail] => callahangrl18@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => ContinueCare Hospital at Palmetto Health-Travel
+    [shiftDateEnd] => 2023-12-16
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

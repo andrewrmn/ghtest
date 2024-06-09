@@ -1,0 +1,80 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3201',
+  'Cf-Ray' => '83805269e2ff1838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:The Registered Nurse holds shift accountability for providing care to Emergency Room patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care of the patient in the Emergency Department; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care
+
+Night Shift 7p - 7a
+$85 Bill Rate
+
+13-Week Assignment36-Hour Guarantee3-12 hour shifts per week2 Years
+ExperienceRequired: ACLS, BLS, PALSPreferred: TNCC
+ General Comments1191-0262107
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 544387
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5112
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 19 2023 09:26:40
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=729790 ;Status=Open;Association=Community Health Systems ;Client=Eastern New Mexico Medical Center ;City=Roswell ;State=NM ;Zip=88201 ;Start=7/17/2023;End=10/16/2023;Duration=91;Cert=RN ;Specialty=Emergency Dept ;Unit=EXT-Other (911) ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$65.00;minBillRate=$65.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:**Updated Bill Rate**
+The Registered Nurse holds shift accountability for providing care to Emergency Room patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care of the patient in the Emergency Department; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care
+
+Night Shift 7p - 7a
+$65 Bill Rate
+
+13-Week Assignment36-Hour Guarantee3-12 hour shifts per week2 Years
+ExperienceRequired: ACLS, BLS, PALS,
+TNCC, CPI or SAMA &amp; NIH
+ General Comments1191-0262107
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/729790;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Eastern New Mexico Medical Center
+    [shiftDateEnd] => 2024-04-07
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

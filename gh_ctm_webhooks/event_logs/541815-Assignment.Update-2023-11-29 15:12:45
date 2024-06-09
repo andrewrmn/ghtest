@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3196',
+  'Cf-Ray' => '82dbca60c7164951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => ?***CPS background check AND FBI fingerprinting required for all staff working with pediatric patients**Pediatric Emergency Room RN2 years PEDS ED experience requiredExperience in a large academic medical facility, Level 1 Trauma center highly preferredShift: Rotating days/nights per schedule needWork every other weekend or (6) weekend shifts per 6-week schedule; Includes a holiday unless traveler has requested to have that time off, they will work the holidayBLS/PALS requiredTNCC preferredLocation: Children's Hospital of Richmond (CHOR) newly renovated facility   Additional Information:Orientation: The first 16 hours of orientation are unpaid. Call Off Policy: 5 shifts (or the equivalent hours) per 13 week assignment.  Parking: Travelers may need to  pay for parking at VCU depending on how close they want to be to the hospital.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 541815
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1675
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 29 2023 10:12:35
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=260867 ;Status=Open;Association=VCU Health ;Client=Children s Hospital of Richmond Pavilion ;City=Richmond ;State=VA ;Zip=23219 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Nursing ;Specialty=Pediatric, Emergency Room Nurse ;Unit=Pediatric, Emergency Room Nurse ;Shift=Rotating days/nights - 3x12s;# of Postions=3;Guaranteed Hours=36;Type=Travel;BillRate=$100.00;OTRate=110 ;OTRules=By The Week, after 40, ;CallbackRate=100 (All Inclusive Rate) ;HolidayRate=100 (All Inclusive Rate) ;OnCallRateDescription=$10 per hour pager ;Description=?***CPS background check AND FBI fingerprinting required for all staff working with pediatric patients**Pediatric Emergency Room RN2 years PEDS ED experience requiredExperience in a large academic medical facility, Level 1 Trauma center highly preferredShift: Rotating days/nights per schedule needWork every other weekend or (6) weekend shifts per 6-week schedule; Includes a holiday unless traveler has requested to have that time off, they will work the holidayBLS/PALS requiredTNCC preferredLocation: Children's Hospital of Richmond (CHOR) newly renovated facility   Additional Information:Orientation: The first 16 hours of orientation are unpaid. Call Off Policy: 5 shifts (or the equivalent hours) per 13 week assignment.  Parking: Travelers may need to  pay for parking at VCU depending on how close they want to be to the hospital.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260867;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Children's Hospital of Richmond at VCU
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

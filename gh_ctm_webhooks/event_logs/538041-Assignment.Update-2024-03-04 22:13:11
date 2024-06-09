@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '957',
+  'Cf-Ray' => '85f5364602e91834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => new pay effective 10.29.23.
+	Schulman & Schachne CNA: Bill $48 / Pay $28
+    [sitename] => giftednurses
+    [spec] => LTC
+    [assignmentid] => 538041
+    [workerID] => 245928
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 40
+    [facilityID] => 15907
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-26
+    [workerLastName] => Coq
+    [shiftNum] => 2
+    [workerFirstName] => Alexandra
+    [cert] => CNA
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:30
+    [whenmodified] => March, 04 2024 17:13:10
+    [daysPerWeek] => 5
+    [orderNote] => EXTENSION
+BR:$48|RS:135872
+FTK:Kronos & Unsigned Gifted Timecard
+    [guaranteedMinimum] => 
+    [workerEmail] => coqsandra1982@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 48
+    [facilityName] => Schulman & Schachne Institute (RS)
+    [shiftDateEnd] => 2024-03-02
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

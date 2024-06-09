@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '960',
+  'Cf-Ray' => '835f9cf0e2b71466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Shift Change (Days to Nights)
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 537095
+    [workerID] => 313616
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 16144
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-29
+    [workerLastName] => Daughtery
+    [shiftNum] => 5
+    [workerFirstName] => Kyondra
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 15 2023 10:10:22
+    [daysPerWeek] => 3
+    [orderNote] => BR:$90lRS:135630
+ChrgDf:P$1/B$2lOnCl:P$2/B$4
+NO ORIENTATION NEEDED
+FTK: Workday Screenshot
+    [guaranteedMinimum] => 
+    [workerEmail] => kyondradaughtery@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => OU Health - Edmond Medical Center TRV (RS)
+    [shiftDateEnd] => 2024-01-27
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

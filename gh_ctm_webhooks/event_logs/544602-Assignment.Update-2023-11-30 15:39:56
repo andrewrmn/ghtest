@@ -1,0 +1,158 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3996',
+  'Cf-Ray' => '82e42f9565156a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Surg Tech Labor and Birth- Flex-Oklahoma City
+
+Facility
+
+Mercy
+
+Location
+
+Mercy Hospital Oklahoma City
+
+Unit
+
+Labor &amp; Delivery Unit
+
+Cost Center
+
+404006156
+
+
+Shift
+Night
+Shifts per week
+
+3
+
+Hours per shift
+
+12
+
+Years of Experience3+SpecialtiesL&amp;D
+-
+required
+CertificationsBLS
+-
+required
+ General CommentsFacility: Mercy Hospital Oklahoma City 
+
+Shift: 3x12a, 7p-7a. 0645-1730 
+
+Yrs exp: 3+ 
+
+Cert: BLS, CORT preferred 
+
+Specialty required: Labor and Birth experience preferred 
+
+
+The Surgical Tech works under the supervision of the physician/RN and reports to the Director/Manager and is responsible to coordinate all supplies and instrumentation needed to perform the surgical procedure according to established policies and procedures. In addition, the Surgical Tech I is responsible for the disposition and/or decontamination of instruments/supplies in the surgical center. The Surgical Tech will assist the RN with patient care planning, interventions and outcomes. Education: High school and some college. Excellent interpersonal, analytical and organizational skills are required. Previous healthcare experience is required
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 544602
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3231
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-10-16
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 30 2023 10:39:54
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=758594 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Oklahoma City ;City=Oklahoma City ;State=OK ;Zip=73120 ;Start=10/16/2023;End=1/15/2024;Duration=91;Cert=CST/ORT ;Specialty=OR ;Unit=Mercy ;Shift=NightShifts per week3Hours per shift12Years of Experience3+SpecialtiesL&amp;D
+-
+requiredCertificationsBLS
+-
+required;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Surg Tech Labor and Birth- Flex-Oklahoma City
+
+Facility
+
+Mercy
+
+Location
+
+Mercy Hospital Oklahoma City
+
+Unit
+
+Labor &amp; Delivery Unit
+
+Cost Center
+
+404006156
+
+
+Shift
+Night
+Shifts per week
+
+3
+
+Hours per shift
+
+12
+
+Years of Experience3+SpecialtiesL&amp;D
+-
+required
+CertificationsBLS
+-
+required
+ General CommentsFacility: Mercy Hospital Oklahoma City 
+
+Shift: 3x12a, 7p-7a. 0645-1730 
+
+Yrs exp: 3+ 
+
+Cert: BLS, CORT preferred 
+
+Specialty required: Labor and Birth experience preferred 
+
+
+The Surgical Tech works under the supervision of the physician/RN and reports to the Director/Manager and is responsible to coordinate all supplies and instrumentation needed to perform the surgical procedure according to established policies and procedures. In addition, the Surgical Tech I is responsible for the disposition and/or decontamination of instruments/supplies in the surgical center. The Surgical Tech will assist the RN with patient care planning, interventions and outcomes. Education: High school and some college. Excellent interpersonal, analytical and organizational skills are required. Previous healthcare experience is required
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/758594;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Mercy Hospital Oklahoma City TRAVEL
+    [shiftDateEnd] => 2024-01-15
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

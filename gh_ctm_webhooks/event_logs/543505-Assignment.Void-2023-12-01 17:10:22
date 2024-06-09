@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2229',
+  'Cf-Ray' => '82ecf17683201464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Under direction of the Acute Care Directors, provides quality nursing care for maternal and newborn patients.  Will provide labor and delivery, postpartum and C-section care of patient and baby.  Cooperates with other professional staff to provide services that reflect the caring philosophy of the hospital.    BSN, ACLS, and STABLE preferred.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Ob/Gyn
+    [assignmentid] => 543505
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9981
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 01 2023 12:10:21
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261440 ;Status=Open;Association=Mile Bluff Medical Center ;Client=Mile Bluff Medical Center ;City=Mauston ;State=WI ;Zip=53948 ;Start=12/1/2023;End=3/1/2024;Duration=91;Cert=Nursing ;Specialty=Obstetrics RN ;Unit=Obstetrics RN ;Shift=Med/Surg RN for night shift, (3) 12 hour shifts .  72 hours every 2 weeks. Every other weekend with rotating holidays.;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$92.00;OTRate=102 ;OTRules=By The Week, after 40, ;HolidayRate=102 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=Under direction of the Acute Care Directors, provides quality nursing care for maternal and newborn patients.  Will provide labor and delivery, postpartum and C-section care of patient and baby.  Cooperates with other professional staff to provide services that reflect the caring philosophy of the hospital.    BSN, ACLS, and STABLE preferred.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261440;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 92
+    [facilityName] => Mile Bluff Medical Center
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

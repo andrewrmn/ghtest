@@ -1,0 +1,72 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1982',
+  'Cf-Ray' => '841d52e4e56d77bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 weeks
+FT 70hrs per pay period, four 10-hour shifts one week and three 10-hour shifts the next. 
+Days - 10 hr shifts 
+6:00am   4:30am
+Every third weekend
+On call every third week (Thursday-Wednesday), which includes that weekend.
+Holiday Rotation(it will be whatever holiday is included in their contract   unless request time off)
+    [sitename] => giftednurses
+    [spec] => Echocardiography
+    [assignmentid] => 543662
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13402
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-21
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Echo Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => January, 07 2024 10:44:43
+    [daysPerWeek] => 5
+    [orderNote] => Source=EinsteinTrinity;SourceID=48340 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne Dubuque Medical Center ;City=Dubuque ;State=IA ;Zip=52001 ;Start=12/3/2023;End=3/2/2024;Duration=90;Cert=Echo Tech ;Specialty=Cardiac Cath Lab ;Unit=IA\MercyOne Dubuque\Echo Tech ;Shift=06:00:00 - 16:30:00;# of Postions=1;Type=Travel;BillRate=$76.00;OTRate=98.80 ;ChargeRate=79.00 ;CallbackRate=98.80 ;HolidayRate=98.80 ;Orientation=0.00 ;Description=13 weeks
+FT 70hrs per pay period, four 10-hour shifts one week and three 10-hour shifts the next. 
+Days - 10 hr shifts 
+6:00am   4:30am
+Every third weekend
+On call every third week (Thursday-Wednesday), which includes that weekend.
+Holiday Rotation(it will be whatever holiday is included in their contract   unless request time off) ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 76
+    [facilityName] => Mercy Medical Center - Dubuque Travel
+    [shiftDateEnd] => 2024-04-20
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

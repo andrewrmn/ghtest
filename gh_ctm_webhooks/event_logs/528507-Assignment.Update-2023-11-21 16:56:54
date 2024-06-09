@@ -1,0 +1,67 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1554',
+  'Cf-Ray' => '829a77fb35871842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RAD TECHNIGHTS13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIRED
+BLS REQUIRED
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 528507
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-09-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 21 2023 11:56:53
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=749991 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=PORTSMOUTH REGIONAL HOSPITAL NH ;City=PORTSMOUTH ;State=NH ;Zip='03801 ;Start=9/18/2023;End=12/18/2023;Duration=91;Cert=Rad Tech ;Specialty=Radiology ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM-7:00AM;# of Postions=1;Type=Travel;BillRate=$72.00;OTRate=80 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:TRAVEL RAD TECH7:00PM - 7:00AM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIRED
+BLS REQUIRED
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/749991;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 72
+    [facilityName] => Portsmouth Regional Hospital
+    [shiftDateEnd] => 2023-12-18
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2797',
+  'Cf-Ray' => '827a4f79a57a183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Midland Health is seeking an experiencedExperienced CCU/PCU RN - NightsPosition Summary We are looking for experienced CCU/PCU RNs. This position will cover CCU  CCU COVID unit(s) and PCU. RN MUST be willing to float to ALL areas and will be assigned to work where our needs are most urgent, given that shift. Flexibility is a MUSTSkills, Knowledge and AbilitiesTexas RN license or MultistateAmerican Heart Association (AHA) BLS  ACLSNIHSSHousing is no longer provided. Please securehousing for your traveler.**If a traveler is selected for assignment, a FULL State and County Criminal Background Check is required, not limited to 7 years. **   Additional Information:l   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 544395
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1326
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 17 2023 14:16:30
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261701 ;Status=Open;Association=Midland Memorial Hospital ;Client=Midland Memorial Hospital ;City=Midland ;State=TX ;Zip=79701 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Nursing ;Specialty=PCU, Critical Care (CCU) ;Unit=PCU, Critical Care (CCU) ;Shift=Nights;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$95.00;OTRate=105 ;OTRules=By The Week, after 40, ;HolidayRate=105 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=Midland Health is seeking an experiencedExperienced CCU/PCU RN - NightsPosition Summary We are looking for experienced CCU/PCU RNs. This position will cover CCU  CCU COVID unit(s) and PCU. RN MUST be willing to float to ALL areas and will be assigned to work where our needs are most urgent, given that shift. Flexibility is a MUSTSkills, Knowledge and AbilitiesTexas RN license or MultistateAmerican Heart Association (AHA) BLS  ACLSNIHSSHousing is no longer provided. Please securehousing for your traveler.**If a traveler is selected for assignment, a FULL State and County Criminal Background Check is required, not limited to 7 years. **   Additional Information:l   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261701;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Midland Memorial Hospital Medefis
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3437',
+  'Cf-Ray' => '8272a3e724a11834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description of Position: Provides direct patient care to medical/surgical/cardiovascular patients needing advanced monitoring. Required to operate advanced medical equipment including use of central lines including A-lines, multiple IV s balloon pumps, Impella pumps, and patients requiring Ventilation Support, or Continuous Renal Replacement Therapy. As well as care for general medical and surgical patients on the in-patient unit. Has ability to assess and implement established policies and procedures with minimal supervision. Acts as a clinical leader and assists with precepting staff. Provides direct care for patients in the Hospital from admission to discharge in all aspects of care including discharge planning. Gives direction to RN, LPN, CNA, Housekeeping Staff, Dietary Staff. Receives direction from Providers, Charge Nurse, Acute Care Director, Chief Nursing Officer.It willing to take care of PCU and Med Surgical patients if no ICU/CVICU in house.   Position Urgency:Rapid Response Crisis Billing string = Great Falls Clinic Medical Center
+    [sitename] => giftednurses
+    [spec] => CVICU
+    [assignmentid] => 544663
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6202
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 16 2023 15:56:22
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261785 ;Status=Open;Association=Great Falls Clinic Medical Center ;Client=Great Falls Clinic Medical Center ;City=Great Falls ;State=MT ;Zip=59405 ;Start=11/16/2023;End=2/15/2024;Duration=91;Cert=Nursing ;Specialty=CVICU ;Unit=CVICU ;Shift=Nights: 1900-0730;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$100.00;OTRate=110 ;OTRules=By The Week, after 40, ;HolidayRate=110 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=Description of Position: Provides direct patient care to medical/surgical/cardiovascular patients needing advanced monitoring. Required to operate advanced medical equipment including use of central lines including A-lines, multiple IV s balloon pumps, Impella pumps, and patients requiring Ventilation Support, or Continuous Renal Replacement Therapy. As well as care for general medical and surgical patients on the in-patient unit. Has ability to assess and implement established policies and procedures with minimal supervision. Acts as a clinical leader and assists with precepting staff. Provides direct care for patients in the Hospital from admission to discharge in all aspects of care including discharge planning. Gives direction to RN, LPN, CNA, Housekeeping Staff, Dietary Staff. Receives direction from Providers, Charge Nurse, Acute Care Director, Chief Nursing Officer.It willing to take care of PCU and Med Surgical patients if no ICU/CVICU in house.   Position Urgency:Rapid Response Crisis Billing string = Great Falls Clinic Medical Center ;url=https://vms.medefis5.com/jobs/261785;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Great Falls Clinic Hospital
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

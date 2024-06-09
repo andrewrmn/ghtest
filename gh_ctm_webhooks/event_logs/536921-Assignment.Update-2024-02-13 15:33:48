@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '876',
+  'Cf-Ray' => '854e21c0442f77ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 536921
+    [workerID] => 242670
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5418
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => Miles
+    [shiftNum] => 5
+    [workerFirstName] => Grant
+    [cert] => RN
+    [floorDesc] => ICU ST2 E
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => February, 13 2024 10:33:47
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$105|RS:135608
+OnCl:P$2/B$3|FTK:Kronos
+    [guaranteedMinimum] => 
+    [workerEmail] => Gm1l3s@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Banner - Thunderbird Medical Center TRAVEL
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

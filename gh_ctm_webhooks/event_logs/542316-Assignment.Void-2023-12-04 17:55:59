@@ -1,0 +1,110 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '11890',
+  'Cf-Ray' => '8305ec66e4e01836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Unit:
+Critical Care Float Pool
+- Mercy Hospital Healdton
+Specialty: ED/MedSurg (candidate must be qualified and willing to work both units)
+Role/Title: RN
+Shift: Nights, 1900-0700
+
+Guaranteed Hours: 36
+Assignment Length: 13 weeks
+
+Required Licensure:
+Current RN
+License (Meets the criteria to be eligible for licensure in state of Missouri or currently licensed in the state of Missouri.)
+Required Certifications:
+BLS, ACLS from AHA only
+Preferred Certifications:
+PALS from AHA only
+Required Experience: MUST HAVE BOTH 1 year ER AND 1 year MedSurg
+
+Must be willing to float when needed
+
+MUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsUtilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care for the assigned patients. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Performs duties and responsibilities in a manner consistent with our mission, values, and mercy service standards.
+Job Description Responsibilities:- Involves patient and/or significant others in decisions regarding care.- Assesses and appropriately documents the educational needs and learning abilities of the patient and/or significant others during the admission and subsequent assessments in the computerized care plan.- Documents and assures that the plan of care includes identified problems, and/or nursing diagnosis, nursing interventions, and goals/outcomes with target dates with the patient/family promoting optimal health, healing or dignified end of life, when appropriate.- Performs patient hand offs utilizing patient safety tools (SBAR, Report at Bedside, etc.) both from shift-to-shift and interdepartmentally as directed.- Maintains effective communication through appropriate utilization of the chain of command- Communicates subjective and objective data about the patient/family and/or significant others with appropriate members of the multidisciplinary team.- Stays up to date on unit huddles, email, and other unit-based communications.- Facilitates communication of pertinent findings with and/or makes rounds with physicians.- Participates in Process Improvement activities such as data collection, in-services, and meetings as appropriate and required.- Completes Hospital and required nursing competencies, mandatory in-services/MyEducation assignments and relevant certifications (ex. BLS, ACLS, PALS, etc.) within required time frame.- Utilizes professional literature to implement evidence-based practice in decision making and shares with other coworkers as appropriate.- Participates in programs and projects toward professional growth and development.- Maintains relevant knowledge and follows policies/procedures.- Readily accepts professional accountability to resolve issues related to patient care or operational issues.- Participates in a hospital committee, special project or service (ex. preceptor to student or new coworker, care management) as requested.- Delegates, guides and directs unlicensed health care providers &amp; LPN's in tasks and are responsible for the care provided according to their documented competencies and/or scope of practice.- Participates in annual peer review process for self and others when requested.- Performs patient rounding, based on patient need and departmental guidelines.- Appropriately interprets and utilizes diagnostic, laboratory, and monitoring data.- If required takes call, weekend shift or alternate shifts as deemed by the department needs.- Performs other duties as assigned or requested.
+Qualifications: Education: Graduate of an accredited registered professional nursing program Licensure: Is personally responsible for obtaining, and maintaining, a current RN license within the hiring state and/or compact licensure in which nursing duties are performed and must meet all state board of nursing requirements. Physical requirements/demands: - Position requires individuals to push, pull, and/or lift 50 pounds on a regular basis- Position requires prolonged standing and walking each shift- Position requires the ability to grip, reach, bend, kneel, twist, and squat to perform duties Experience: Certifications: - Basic Life Support certification through the American Heart Association or successful completion of course within 30 days of hire. One or more of the certifications below may be required based on the position/unit hired to, or acquisition of certification within department required timeframe:- ACLS (Advanced Cardiac Life Support)- NRP (Neonatal Resuscitation Program)- ENPC (Emergency Nursing Pediatric Course)- TNCC (Trauma Nursing Core Course)- CPHON (Certified Pediatric/Hematology/Oncology Nurses)- OCN (Oncology Certified Nurse)- BLS (Basic Life Support)- PALS (Pediatric Advanced Life Support)- PEARS (Pediatric Assessment Recognition and Stabilization)- S.T.A.B.L.E. (Sugar, Temperature, Airway, Blood Pressure, Lab Work, And Emotional Support) Six Assessment &amp;Care Modules- C-EFM (Fetal Monitor Certification)- Other unit specific certifications as required
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 542316
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15997
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 04 2023 12:55:39
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=773209 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Healdton ;City=Healdton ;State=OK ;Zip=73438 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=RN ;Specialty=Emergency Dept ;Unit=Mercy ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Unit:
+Critical Care Float Pool
+- Mercy Hospital Healdton
+Specialty: ED/MedSurg (candidate must be qualified and willing to work both units)
+Role/Title: RN
+Shift: Nights, 1900-0700
+
+Guaranteed Hours: 36
+Assignment Length: 13 weeks
+
+Required Licensure:
+Current RN
+License (Meets the criteria to be eligible for licensure in state of Missouri or currently licensed in the state of Missouri.)
+Required Certifications:
+BLS, ACLS from AHA only
+Preferred Certifications:
+PALS from AHA only
+Required Experience: MUST HAVE BOTH 1 year ER AND 1 year MedSurg
+
+Must be willing to float when needed
+
+MUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsUtilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care for the assigned patients. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Performs duties and responsibilities in a manner consistent with our mission, values, and mercy service standards.
+Job Description Responsibilities:- Involves patient and/or significant others in decisions regarding care.- Assesses and appropriately documents the educational needs and learning abilities of the patient and/or significant others during the admission and subsequent assessments in the computerized care plan.- Documents and assures that the plan of care includes identified problems, and/or nursing diagnosis, nursing interventions, and goals/outcomes with target dates with the patient/family promoting optimal health, healing or dignified end of life, when appropriate.- Performs patient hand offs utilizing patient safety tools (SBAR, Report at Bedside, etc.) both from shift-to-shift and interdepartmentally as directed.- Maintains effective communication through appropriate utilization of the chain of command- Communicates subjective and objective data about the patient/family and/or significant others with appropriate members of the multidisciplinary team.- Stays up to date on unit huddles, email, and other unit-based communications.- Facilitates communication of pertinent findings with and/or makes rounds with physicians.- Participates in Process Improvement activities such as data collection, in-services, and meetings as appropriate and required.- Completes Hospital and required nursing competencies, mandatory in-services/MyEducation assignments and relevant certifications (ex. BLS, ACLS, PALS, etc.) within required time frame.- Utilizes professional literature to implement evidence-based practice in decision making and shares with other coworkers as appropriate.- Participates in programs and projects toward professional growth and development.- Maintains relevant knowledge and follows policies/procedures.- Readily accepts professional accountability to resolve issues related to patient care or operational issues.- Participates in a hospital committee, special project or service (ex. preceptor to student or new coworker, care management) as requested.- Delegates, guides and directs unlicensed health care providers &amp; LPN's in tasks and are responsible for the care provided according to their documented competencies and/or scope of practice.- Participates in annual peer review process for self and others when requested.- Performs patient rounding, based on patient need and departmental guidelines.- Appropriately interprets and utilizes diagnostic, laboratory, and monitoring data.- If required takes call, weekend shift or alternate shifts as deemed by the department needs.- Performs other duties as assigned or requested.
+Qualifications: Education: Graduate of an accredited registered professional nursing program Licensure: Is personally responsible for obtaining, and maintaining, a current RN license within the hiring state and/or compact licensure in which nursing duties are performed and must meet all state board of nursing requirements. Physical requirements/demands: - Position requires individuals to push, pull, and/or lift 50 pounds on a regular basis- Position requires prolonged standing and walking each shift- Position requires the ability to grip, reach, bend, kneel, twist, and squat to perform duties Experience: Certifications: - Basic Life Support certification through the American Heart Association or successful completion of course within 30 days of hire. One or more of the certifications below may be required based on the position/unit hired to, or acquisition of certification within department required timeframe:- ACLS (Advanced Cardiac Life Support)- NRP (Neonatal Resuscitation Program)- ENPC (Emergency Nursing Pediatric Course)- TNCC (Trauma Nursing Core Course)- CPHON (Certified Pediatric/Hematology/Oncology Nurses)- OCN (Oncology Certified Nurse)- BLS (Basic Life Support)- PALS (Pediatric Advanced Life Support)- PEARS (Pediatric Assessment Recognition and Stabilization)- S.T.A.B.L.E. (Sugar, Temperature, Airway, Blood Pressure, Lab Work, And Emotional Support) Six Assessment &amp;Care Modules- C-EFM (Fetal Monitor Certification)- Other unit specific certifications as required
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/773209;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital Healdton - Travel
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

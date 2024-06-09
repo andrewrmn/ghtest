@@ -1,0 +1,163 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4973',
+  'Cf-Ray' => '8330f2f3d04577bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name
+7 Cardiac Med - Mercy Hospital Joplin - RN - Mercy Hospital Joplin
+
+Facility Mercy
+
+Location Mercy Hospital Joplin
+
+Unit Telemetry Unit
+
+Cost Center 504506090
+FLU and COVID-19:
+ 
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.SHIFT INFO
+Shift Night
+
+Shifts per week 3
+
+Hours per shift 12
+
+Shift hours: 1900 - 0730
+EXPERIENCE
+Years of Experience: Two Years Plus
+CERTIFICATIONS
+ACLS &amp; BLS - Required
+
+NIHS - Required
+
+DESCRIPTION
+Ratio: 1:6
+
+Med Surg, Cardiac Telemetry- Required
+
+Stepdown - preferred
+
+
+7 Medical Cardiac - Post Cardiac Cath; Afib; CHF; General Medical overflow
+
+Takes stable MI, post heart caths with interventions; Medical Cardiac, pacemaker insertion, non-titrated cardiac drips, CHF, and other medical overflow patients
+
+Utilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards
+Approved Assignment Details:                                                  Flexible      contract
+length
+- 8-26 weeks
+  Flexible      Guaranteed Hours - 36 or 48 hours
+  
+Blocked      scheduling would need facility approval  
+ 
+ We will still need confirmation      within 5 days of offer
+  RTO of      5 days or less, must make up the week on the back end
+
+  If      requesting any of the above, it must be listed on Mercy Submission      Form
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 538218
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8970
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => December, 09 2023 18:15:14
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=769760 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Joplin ;City=Joplin ;State=MO ;Zip=64804 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=Mercy ;Shift=19:00-07:30;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Name
+7 Cardiac Med - Mercy Hospital Joplin - RN - Mercy Hospital Joplin
+
+Facility Mercy
+
+Location Mercy Hospital Joplin
+
+Unit Telemetry Unit
+
+Cost Center 504506090
+FLU and COVID-19:
+ 
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.SHIFT INFO
+Shift Night
+
+Shifts per week 3
+
+Hours per shift 12
+
+Shift hours: 1900 - 0730
+EXPERIENCE
+Years of Experience: Two Years Plus
+CERTIFICATIONS
+ACLS &amp; BLS - Required
+
+NIHS - Required
+
+DESCRIPTION
+Ratio: 1:6
+
+Med Surg, Cardiac Telemetry- Required
+
+Stepdown - preferred
+
+
+7 Medical Cardiac - Post Cardiac Cath; Afib; CHF; General Medical overflow
+
+Takes stable MI, post heart caths with interventions; Medical Cardiac, pacemaker insertion, non-titrated cardiac drips, CHF, and other medical overflow patients
+
+Utilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards
+Approved Assignment Details:                                                  Flexible      contract
+length
+- 8-26 weeks
+  Flexible      Guaranteed Hours - 36 or 48 hours
+  
+Blocked      scheduling would need facility approval  
+ 
+ We will still need confirmation      within 5 days of offer
+  RTO of      5 days or less, must make up the week on the back end
+
+  If      requesting any of the above, it must be listed on Mercy Submission      Form
+ General Comments ;url=https://vendor.healthtrustws.com/positions/769760;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital Joplin - TRAVEL
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

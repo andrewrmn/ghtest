@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5611',
+  'Cf-Ray' => '82a2c54890076a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 25 bed CAH (ICU/PCU/Telemetry Required) must be experienced in all areas ICU/ED/Med/SurgActive Washington License or Compact License.Supervises, directs and coordinates activities of patient care throughout the hospital on an assigned shift. Assigns department staff according to patient acuity and census. Provides additional administrative support in the absence of departmental managers facility-wide. Coordinates resources for patient care activities and provides guidance to personnel on duty. To accomplish this, excellence in delegating, decision making, critical thinking and effective communication is required.Identifies patient's/significant others needs for patient education and provides education utilizing appropriate education modalities. Identifies and provides for patient safety through preventative measures (i.e., side rails, restraints, safe use of equipment, etc.) follows restraint policy correctly, evaluates and documents appropriately. Demonstrates knowledge of safe operation of all equipment in the ICU/PCU/Telemetry areas. Is aware of troubleshooting techniques and follows procedures for repair of essential equipment and able to access equipment manuals as needed. Implements infection control and isolation procedures using proper procedures and documentation. Utilizes standard precautions at all times. Maintains complete, accurate, concise documentation of patient status, nursing interventions and patient responses during assigned shift. Documents charge accurately. Ensures accuracy and completes physicians orders in a timely manner. Completes 24 hour check of orders (if within duties of assigned shift). Gives change of shift report to oncoming employees in a complete and accurate manner. Communicates with other department completely and accurately. Reports critical lab values to the physician in a timely manner according to policy. Maintains and restocks emergency carts, room and general supplies. Other duties as assigned.   Position Urgency:Rapid Response Crisis Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 544759
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10038
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 18:30
+    [whenmodified] => November, 22 2023 12:07:23
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261814 ;Status=Open;Association=Tri-State ;Client=Tri-State ;City=Clarkston ;State=WA ;Zip=99403 ;Start=11/17/2023;End=2/16/2024;Duration=91;Cert=Nursing ;Specialty=Intensive Care / Coronary Nurse (ICU), Telemetry Cardiac, Telemetry Med / Surg, PCU ;Unit=Intensive Care / Coronary Nurse (ICU), Telemetry Cardiac, Telemetry Med / Surg, PCU ;Shift=Dayshift 0600-1830, Rotate every third weekend;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$125.00;OTRate=135 ;OTRules=By The Week, after 40, ;CallbackRate=135 (All Inclusive Rate + $10) ;HolidayRate=135 (All Inclusive Rate + $10) ;OnCallRateDescription=$5 per hour pager ;Description=25 bed CAH (ICU/PCU/Telemetry Required) must be experienced in all areas ICU/ED/Med/SurgActive Washington License or Compact License.Supervises, directs and coordinates activities of patient care throughout the hospital on an assigned shift. Assigns department staff according to patient acuity and census. Provides additional administrative support in the absence of departmental managers facility-wide. Coordinates resources for patient care activities and provides guidance to personnel on duty. To accomplish this, excellence in delegating, decision making, critical thinking and effective communication is required.Identifies patient's/significant others needs for patient education and provides education utilizing appropriate education modalities. Identifies and provides for patient safety through preventative measures (i.e., side rails, restraints, safe use of equipment, etc.) follows restraint policy correctly, evaluates and documents appropriately. Demonstrates knowledge of safe operation of all equipment in the ICU/PCU/Telemetry areas. Is aware of troubleshooting techniques and follows procedures for repair of essential equipment and able to access equipment manuals as needed. Implements infection control and isolation procedures using proper procedures and documentation. Utilizes standard precautions at all times. Maintains complete, accurate, concise documentation of patient status, nursing interventions and patient responses during assigned shift. Documents charge accurately. Ensures accuracy and completes physicians orders in a timely manner. Completes 24 hour check of orders (if within duties of assigned shift). Gives change of shift report to oncoming employees in a complete and accurate manner. Communicates with other department completely and accurately. Reports critical lab values to the physician in a timely manner according to policy. Maintains and restocks emergency carts, room and general supplies. Other duties as assigned.   Position Urgency:Rapid Response Crisis Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261814;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 125
+    [facilityName] => Tri-State Memorial Hospital
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 06:00
+    [subjectID] => 
+)

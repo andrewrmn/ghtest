@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '912',
+  'Cf-Ray' => '829c834b816c1834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545512
+    [workerID] => 318880
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8932
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => McKnight
+    [shiftNum] => 4
+    [workerFirstName] => Lauren
+    [cert] => RN
+    [floorDesc] => 7 Harmony
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 21 2023 17:54:08
+    [daysPerWeek] => 3
+    [orderNote] => FTK: API Reports
+Ornt:$20/NB:8hr-POT$79.46>40hr
+BR:$95
+    [guaranteedMinimum] => 
+    [workerEmail] => laurenmcknight22@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => AtlantiCare Regional Medical Center - Atlantic City TRAVEL
+    [shiftDateEnd] => 2024-02-03
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '28',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5253',
+  'Cf-Ray' => '82d3bc427087495d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DEPARTMENT DESCRIPTIONThe Operating Room of Surgery provides cardiac care to surgical and procedural sedation patients. We provide service for the patient population of pediatrics, adolescents, adult and elderly patients. We work with a variety of provider specialties in caring for people going home that day or are being admitted to the hospital.EXPERIENCE/EDUCATION/QUALIFICATIONSCurrent documentation of certification to practice surgical technology in Oregon required.Option 1Successful completion of a training program for surgical technologists in a branch of the armed forces of the United States or in the United States Public Health Service Commissioned Corp.Successful completion of 16 hours of continuing education every two (2) years relevant to the medical-surgical practice of surgical technology.Option 2Successful completion of a surgical technology education program accredited by the Commission on Accreditation of Allied Health Education Program (CAAHEP) or Accrediting Bureau of Health Education Schools (ABHES).Certification as a surgical technologist issued by the National Board of Surgical Technology and Surgical Assisting (NBSTSA) or successful completion of the CAAHEP or ABHES educational program within the past twelve months.Option 3Candidate has practiced surgical technology at least two (2) years between January 1, 2014 and January 1, 2017 in a hospital, ambulatory surgical center or as an employee of a federal government agency or institution.Successful completion of 16 hours of continuing education every two (2) years relevant to the medical-surgical practice of surgical technology.One (1) year scrubbing CVOR/Open Heart procedures experience or two (2) years acute care scrubbing experience required.Healthcare Provider AHA BLS required.Experience or training in computer applications preferred.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 540116
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5820
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 28 2023 10:44:55
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=257168 ;Status=Open;Association=Samaritan Health Services ;Client=Good Samaritan Regional Medical Center ;City=Corvallis ;State=OR ;Zip=97330 ;Start=8/31/2023;End=11/30/2023;Duration=91;Cert=Nursing ;Specialty=Surgical Technologist, OR Technologist ;Unit=Surgical Technologist, OR Technologist ;Shift=Days (0630-1700) occasional weekends;# of Postions=2;Guaranteed Hours=40;Type=Travel;BillRate=$95.00;OTRate=105 ;OTRules=By The Week, after 40, ;CallbackRate=95 (All Inclusive Rate) ;HolidayRate=105 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=DEPARTMENT DESCRIPTIONThe Operating Room of Surgery provides cardiac care to surgical and procedural sedation patients. We provide service for the patient population of pediatrics, adolescents, adult and elderly patients. We work with a variety of provider specialties in caring for people going home that day or are being admitted to the hospital.EXPERIENCE/EDUCATION/QUALIFICATIONSCurrent documentation of certification to practice surgical technology in Oregon required.Option 1Successful completion of a training program for surgical technologists in a branch of the armed forces of the United States or in the United States Public Health Service Commissioned Corp.Successful completion of 16 hours of continuing education every two (2) years relevant to the medical-surgical practice of surgical technology.Option 2Successful completion of a surgical technology education program accredited by the Commission on Accreditation of Allied Health Education Program (CAAHEP) or Accrediting Bureau of Health Education Schools (ABHES).Certification as a surgical technologist issued by the National Board of Surgical Technology and Surgical Assisting (NBSTSA) or successful completion of the CAAHEP or ABHES educational program within the past twelve months.Option 3Candidate has practiced surgical technology at least two (2) years between January 1, 2014 and January 1, 2017 in a hospital, ambulatory surgical center or as an employee of a federal government agency or institution.Successful completion of 16 hours of continuing education every two (2) years relevant to the medical-surgical practice of surgical technology.One (1) year scrubbing CVOR/Open Heart procedures experience or two (2) years acute care scrubbing experience required.Healthcare Provider AHA BLS required.Experience or training in computer applications preferred.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/257168;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Good Samaritan Regional Medical Center
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 06:30
+    [subjectID] => 
+)

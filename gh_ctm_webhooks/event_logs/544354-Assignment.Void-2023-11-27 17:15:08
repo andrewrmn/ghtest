@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4696',
+  'Cf-Ray' => '82cc02ee235c6a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Location:BHC Main Operating RoomTrauma Designation: 322 Operating RoomsAge Groups of Patients: Pediatric,Hybrid Pedi/Adult,Adolescent, Adults, Geriatric, OutpatientTop 10 Diagnosis/Procedures:CABG, Urology, Total Joints, Spine, TAVR, GYN, ROBOTIC (XI), General, Bariatric, Dental, ENT, Peidatrics (Dental, ENT only), Ortho Trauma-non spine,Plastics, Vascular, Retina, Podiatry, Neruo, Organ ProcurementCommon Medications used on the unit:Anesthesia administers med. A lot of medsare passed off to the sterile field forsurgeon to adminCommon Equipment: Saws, Drills, Bovie, ESU, Triad, Neptune, suction, smoke evacuation, Brain Lab, Lasers, Cell saver, Cryo-eyes, Da Vinci(XI), Hanah TableMicroscope, DC machine, stapling devicesNurse Patient Ratio: 1:1Our OB/GYN surgical areas are separate from the Main OR. Occasional Conscious Sedation or Local only cases.Required/Preferred SkillsLine Management/Skills:Preferred: ??IV Insertion, PICC/Central Line ManagementCardiac Skills:Required: ??Cardioversion/DefibrillationAirway Skills:Required: ??Procedural SedationOBGYN/OR Skills:Required: Circulate??   Additional Information:For roles with a guarantee, Boone Health can call off staff for up to 36 hours in a contract ---------------------------------------------  For Boone Health RN, LPN's and RRT Requests  *A VIRTUAL INTERVIEW WILL BE SENT TO YOUR CANDIDATE TO COMPLETE PRIOR TO SUBMITTING TO THE HOSPTIAL FOR CONSIDERATION**  **PLEASE BE SURE TO HAVE A COMPLETE PACKET OR YOUR CANDIDATE WILL BE DENIED**  **CHECKLIST IS ATTACHED AND MUST BE THE FIRST PAGE OF THE SUBMISSION PACKET**   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 544354
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 9740
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 27 2023 12:15:07
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=261680 ;Status=Open;Association=Boone Health ;Client=Boone Health ;City=Columbia ;State=MO ;Zip=65201 ;Start=11/15/2023;End=2/14/2024;Duration=91;Cert=Nursing ;Specialty=Operating Room ;Unit=Operating Room ;Shift=0645-1715 with one day off a week. 2-4 days of call per month ;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$90.00;OTRate=100 ;OTRules=By The Week, after 40, ;CallbackRate=100 (All Inclusive Rate + $10) ;HolidayRate=100 (All Inclusive Rate + $10) ;OnCallRateDescription=$5 per hour pager ;Description=Location:BHC Main Operating RoomTrauma Designation: 322 Operating RoomsAge Groups of Patients: Pediatric,Hybrid Pedi/Adult,Adolescent, Adults, Geriatric, OutpatientTop 10 Diagnosis/Procedures:CABG, Urology, Total Joints, Spine, TAVR, GYN, ROBOTIC (XI), General, Bariatric, Dental, ENT, Peidatrics (Dental, ENT only), Ortho Trauma-non spine,Plastics, Vascular, Retina, Podiatry, Neruo, Organ ProcurementCommon Medications used on the unit:Anesthesia administers med. A lot of medsare passed off to the sterile field forsurgeon to adminCommon Equipment: Saws, Drills, Bovie, ESU, Triad, Neptune, suction, smoke evacuation, Brain Lab, Lasers, Cell saver, Cryo-eyes, Da Vinci(XI), Hanah TableMicroscope, DC machine, stapling devicesNurse Patient Ratio: 1:1Our OB/GYN surgical areas are separate from the Main OR. Occasional Conscious Sedation or Local only cases.Required/Preferred SkillsLine Management/Skills:Preferred: ??IV Insertion, PICC/Central Line ManagementCardiac Skills:Required: ??Cardioversion/DefibrillationAirway Skills:Required: ??Procedural SedationOBGYN/OR Skills:Required: Circulate??   Additional Information:For roles with a guarantee, Boone Health can call off staff for up to 36 hours in a contract ---------------------------------------------  For Boone Health RN, LPN's and RRT Requests  *A VIRTUAL INTERVIEW WILL BE SENT TO YOUR CANDIDATE TO COMPLETE PRIOR TO SUBMITTING TO THE HOSPTIAL FOR CONSIDERATION**  **PLEASE BE SURE TO HAVE A COMPLETE PACKET OR YOUR CANDIDATE WILL BE DENIED**  **CHECKLIST IS ATTACHED AND MUST BE THE FIRST PAGE OF THE SUBMISSION PACKET**   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261680;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Boone Hospital Center
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 06:30
+    [subjectID] => 
+)

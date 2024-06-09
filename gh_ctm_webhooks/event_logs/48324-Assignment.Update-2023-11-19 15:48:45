@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4725',
+  'Cf-Ray' => '8289996366c0183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position DescriptionOPERATING ROOM CST     6 WEEK CONTRACT 6:30A     3:00P + CALL IMMEDIATEAVAILABILITY REQUIREDRATE$37.00 Local(< 50 miles from facility) $42.00 Travel(> 50 miles from facility)Minimum 3years of operating room general surgery experience REQUIRED. Ortho and roboticexperience strongly preferred.- Day Shift6:30 am     3:00 pm PLUS ON-CALL REQUIRED- CertifiedSurgical Technician (CST) license required- AmericanHeart Association (AHA) approved Basic Life Support (BLS ) required** All submissions MUST include the bill rate, skills checklistand a minimum of 2 references to be considered **parseGeneralComments Comments.bd_title                                  {                                         font-weight: bold;                                  }          		Reason for opening (special, internal vacancy, leave coverage) 6:30a-3p          		*******************************************************************************           		How long has it been open?           		Will position be required to float to other units?           		Number of beds in your facility?           		Years of experience required?           		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)           		Willing to review clinicians with pending state license?           		Is there anyone in the past that has worked for you that you would consider rehiring?           		What is the work schedule for this position? (days needed, hours or shift) 			EMR for your facility:           		Scrub colors / dress code: 			Parking location:  Contact: Christi Hahn Resource Manager: Suhani Desai OT Rate:?/$58.80 Holiday Rate: ?/$63.00         https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=263829&null
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 48324
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 42.5
+    [facilityID] => 8782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-02-25
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 19 2023 10:48:41
+    [daysPerWeek] => 5
+    [orderNote] => Source=Parallon;ID=0;SourceID=263829;Status=Open;Client=Cedar Park Regional Medical Center;City=Cedar Park;State=TX;Zip=78613;Start=2/4/2019;End=3/18/2019;Duration=42;Cert=Certified Surgical Technician (CST);Specialty=(OR);Unit=1111: OPERATING ROOM;Shift=6:30 AM - 3:00 PM;# of Postions=1;Type=Travel;BillRate=$42.00;OnCallRate=$4.20;Description=Position DescriptionOPERATING ROOM CST     6 WEEK CONTRACT 6:30A     3:00P + CALL IMMEDIATEAVAILABILITY REQUIREDRATE$37.00 Local(< 50 miles from facility) $42.00 Travel(> 50 miles from facility)Minimum 3years of operating room general surgery experience REQUIRED. Ortho and roboticexperience strongly preferred.- Day Shift6:30 am     3:00 pm PLUS ON-CALL REQUIRED- CertifiedSurgical Technician (CST) license required- AmericanHeart Association (AHA) approved Basic Life Support (BLS ) required** All submissions MUST include the bill rate, skills checklistand a minimum of 2 references to be considered **parseGeneralComments Comments.bd_title                                  {                                         font-weight: bold;                                  }          Reason for opening (special, internal vacancy, leave coverage) 6:30a-3p          *******************************************************************************           How long has it been open?           Will position be required to float to other units?           Number of beds in your facility?           Years of experience required?           Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)           Willing to review clinicians with pending state license?           Is there anyone in the past that has worked for you that you would consider rehiring?           What is the work schedule for this position? (days needed, hours or shift) EMR for your facility:           Scrub colors / dress code: Parking location:  Contact: Christi Hahn Resource Manager: Suhani Desai OT Rate:?/$58.80 Holiday Rate: ?/$63.00         https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=263829&null;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 42
+    [facilityName] => Cedar Park Regional Medical Center
+    [shiftDateEnd] => 2019-04-07
+    [shiftStartTime] => 06:30
+    [subjectID] => 
+)

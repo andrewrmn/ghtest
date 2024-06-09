@@ -1,0 +1,100 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4337',
+  'Cf-Ray' => '82dc395e46a36a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:THIS POSITION IS AUTO-OFFERUnit:
+Surgical 5th Flr
+- Mercy Hospital Ardmore
+Specialty: MedSurg
+Role/Title: RN
+Shift: Nights, 1900-0700
+
+Guaranteed Hours: 36 or 48 (candidate choice)
+Assignment Length: 8-26 weeks
+RTO of 5 days or less, make up on the back end; Holiday RTO approved based on availability, only 1 holiday per assignment
+ALL CONTINGENCY REQUESTS MUST BE ON THE SUBMISSION FORMRequired Licensure:
+Current RN
+License (Meets the criteria to be eligible for licensure in state of Oklahoma or currently licensed in the state of
+Oklahoma.)
+Required Certifications:
+BLS from AHA only
+Preferred Certifications: CPEN, ACLS, PALS
+Required Experience:
+1 year MedSurg in a large hospital; Epic experience requiredMust be willing to float when neededMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsThe registered nurse (RN I) is accountable for the provision of nursing care for assigned patients in all phases of care. He/she is responsible for prescribing nursing interventions, and coordination of patient activities, and delegation of the aspects of are that are provided by others. The individual will demonstrate professional accountability through adherence to standards of nursing care and a commitment to act in an ethical manner. The RN provides care to patients ranging in age from pediatric to geriatrics. He/she will perform all duties in accordance with the mission, vision, and values of Mercy Hospital Ardmore.
+ No. of Positions: 2/2.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543714
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3392
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 29 2023 11:28:29
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=774926 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Ardmore ;City=Ardmore ;State=OK ;Zip=73401 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=Mercy ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:THIS POSITION IS AUTO-OFFERUnit:
+Surgical 5th Flr
+- Mercy Hospital Ardmore
+Specialty: MedSurg
+Role/Title: RN
+Shift: Nights, 1900-0700
+
+Guaranteed Hours: 36 or 48 (candidate choice)
+Assignment Length: 8-26 weeks
+RTO of 5 days or less, make up on the back end; Holiday RTO approved based on availability, only 1 holiday per assignment
+ALL CONTINGENCY REQUESTS MUST BE ON THE SUBMISSION FORMRequired Licensure:
+Current RN
+License (Meets the criteria to be eligible for licensure in state of Oklahoma or currently licensed in the state of
+Oklahoma.)
+Required Certifications:
+BLS from AHA only
+Preferred Certifications: CPEN, ACLS, PALS
+Required Experience:
+1 year MedSurg in a large hospital; Epic experience requiredMust be willing to float when neededMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsThe registered nurse (RN I) is accountable for the provision of nursing care for assigned patients in all phases of care. He/she is responsible for prescribing nursing interventions, and coordination of patient activities, and delegation of the aspects of are that are provided by others. The individual will demonstrate professional accountability through adherence to standards of nursing care and a commitment to act in an ethical manner. The RN provides care to patients ranging in age from pediatric to geriatrics. He/she will perform all duties in accordance with the mission, vision, and values of Mercy Hospital Ardmore.
+ No. of Positions: 1/2. ;url=https://vendor.healthtrustws.com/positions/774926;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital Ardmore TRAVEL
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

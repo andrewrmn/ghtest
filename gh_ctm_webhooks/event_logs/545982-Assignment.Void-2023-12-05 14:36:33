@@ -1,0 +1,143 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '133',
+  'Ki-Request-Colo' => '735',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5678',
+  'Cf-Ray' => '830d05a130c061ac-ORD',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => **must not reside in Moore County
+**must have 3 years experience and OR experience that includes spinal surgery
+This shift will be mostly OR, ED, and portables with occasional inpts/outpts
+OR/ED/portable experience required
+2-3 years current hospital experience
+BLS by AHA preferred
+AART required in good standing
+**must be available to work holidays or extended hours
+
+M-F 230-11p
+
+Must be ARRT registered
+AHA BLS required
+OR experience required
+3+years rad tech exp in hospital setting required
+No RTO or 1 request of RTO.  Based on the RTO, contract may be extended due to number of days requested.
+
+Moore Regional Hospital
+Department   Diagnostic Imaging
+Cost Center   107040
+Position   Radiology Technologist ( Rad Tech)
+No of positions - 1
+2nd shift - M-F 2:30-11
+3 years experience required
+OR experience that includes spinal surgery
+OR, ED and portable experience with occasional inpts/outpts
+
+HOSPITAL HIGHLIGHTS:
+Type of Facility: Acute Care Hospital
+Total Staffed Beds: 402
+Scrub Color: All (except ER): Any solid color; ER: solid black; OR/L&D: provided
+Charting: EPIC
+Parking Cost: free in any unrestricted space in staff parking. There is a designated are for staff parking
+
+
+ Modified Time:12/11/2023 12:00:00 AM
+ Account Manager: Ashley Glass
+ Account Manager Email: Ashley.Glass@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Unknown
+ Submittals:High
+ Submittal Details: #Tier2 Travel ComplianceRTO must be included in submissionPending License is okayPlease include&nbsp;HSS Cover Sheet.Please make candidates aware: Where permitted by applicable law, this facility performs their own pre-employment drug screen on all candidates upon arrival to assignment. This is in addition to what is required during the credentialing process.Travelers who reside in Moore County are not eligible for Travel FirstHealth will not consider FHC employees for contract positions unless they have been gone from our employment for at least 1 year.Need 2 weeks/ 14 calendar days + (confirm with CL if Quick Starts are okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance.
+    [sitename] => giftednurses
+    [spec] => X-Ray
+    [assignmentid] => 545982
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3569
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 03:00
+    [whenmodified] => December, 05 2023 09:36:32
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2317562 ;Status=Open;Association=Qualivis EPA ;Client=FirstHealth Moore Regional Hospital ;City=Pinehurst ;State=NC ;Zip=28374 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Radiology / Cardiology ;Specialty=X-Ray Tech ;Unit=Diagnostic Imaging, 107040 ;Shift=Mid 5x8-Hour (14:30 - 23:00);# of Postions=1;Type=Travel;BillRate=$83.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=**must not reside in Moore County
+**must have 3 years experience and OR experience that includes spinal surgery
+This shift will be mostly OR, ED, and portables with occasional inpts/outpts
+OR/ED/portable experience required
+2-3 years current hospital experience
+BLS by AHA preferred
+AART required in good standing
+**must be available to work holidays or extended hours
+
+M-F 230-11p
+
+Must be ARRT registered
+AHA BLS required
+OR experience required
+3+years rad tech exp in hospital setting required
+No RTO or 1 request of RTO.  Based on the RTO, contract may be extended due to number of days requested.
+
+Moore Regional Hospital
+Department   Diagnostic Imaging
+Cost Center   107040
+Position   Radiology Technologist ( Rad Tech)
+No of positions - 1
+2nd shift - M-F 2:30-11
+3 years experience required
+OR experience that includes spinal surgery
+OR, ED and portable experience with occasional inpts/outpts
+
+HOSPITAL HIGHLIGHTS:
+Type of Facility: Acute Care Hospital
+Total Staffed Beds: 402
+Scrub Color: All (except ER): Any solid color; ER: solid black; OR/L&D: provided
+Charting: EPIC
+Parking Cost: free in any unrestricted space in staff parking. There is a designated are for staff parking
+
+
+ Modified Time:12/18/2023 12:00:00 AM
+ Account Manager: Ashley Glass
+ Account Manager Email: Ashley.Glass@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Unknown
+ Submittals:Med
+ Submittal Details: #Tier2 Travel ComplianceRTO must be included in submissionPending License is okayPlease include&nbsp;HSS Cover Sheet.Please make candidates aware: Where permitted by applicable law, this facility performs their own pre-employment drug screen on all candidates upon arrival to assignment. This is in addition to what is required during the credentialing process.Travelers who reside in Moore County are not eligible for Travel FirstHealth will not consider FHC employees for contract positions unless they have been gone from our employment for at least 1 year.Need 2 weeks/ 14 calendar days + (confirm with CL if Quick Starts are okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2317562/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 83
+    [facilityName] => FirstHealth Moore Regional Hospital
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '11091',
+  'Cf-Ray' => '84e2f1666256183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => The Registered Nurse (RN) 2 is responsible for assessing, planning, implementing and evaluating nursing care for a group of population specific patients for the department /unit, from simple to complex, with multi-system issues in a safe and therapeutic environment. The RN uses knowledge of the principles of growth and development over the life span, assesses data reflective of the patient's status and interprets information needed to identify each patients requirements relative to his/her age specific needs. The RN engages in caring relationships with patient's, families, and significant others, works collaboratively with other health care workers, and uses sound judgments while performing nursing and medical interventions. The RN adheres to specialty standards and organizational standards, policies, procedures, guidelines and protocols. Reports to the Director and/or Nurse Manager. May participate in supervision of Licensed Nursing Assistants and unlicensed personnel.SummaryThe Registered Nurse (RN) 2 is responsible for assessing, planning, implementing and evaluating nursing care for a group of population specific patients for the department /unit, from simple to complex, with multi-system issues in a safe and therapeutic environment. The RN uses knowledge of the principles of growth and development over the life span, assesses data reflective of the patient's status and interprets information needed to identify each patients requirements relative to his/her age specific needs. The RN engages in caring relationships with patient's, families, and significant others, works collaboratively with other health care workers, and uses sound judgments while performing nursing and medical interventions. The RN adheres to specialty standards and organizational standards, policies, procedures, guidelines and protocols. Reports to the Director and/or Nurse Manager. May participate in supervision of Licensed Nursing Assistants and unlicensed personnel.EducationGraduated from an accredited School of Nursing, BSN preferred.Certification, Registration & LicensureRegistered Nurse - New Hampshire Board of Nursing ?Basic Life Support - American Heart AssociationExperienceOne year prior clinical nursing experience. Evidence of experience in working effectively and positively with patients, care providers, and the multi-disciplinary team. Evidence of the ability to perform as a member of a team.ResponsibilitiesBases nursing actions by applying principles of purposeful, organized thinking to make clinical judgment/decisions.Gathers data through history taking and physical assessment and interprets data in order to plan and implement interventions to meet patient care needs.Develops, evaluates and revises patient's plan of care and nursing actions in response to patient's needs.Documents care provided and patient's progress toward attainment of desired outcomes.Directs and supervises others in the performance of delegated nursing activities.Teaches the patient and/or significant other(s) about the plan of care. Prepares patients to manage their care after discharge, transfer or preparation for procedure/test.Manages time and resources to deliver patient care.Administers medications to patients.Provides direct patient care.Leads the health care team.Serves as a Resource Person for assigned shift.Serves as a preceptor for new employees.Performs job specific requirements and other duties as assigned.Physical and Work RequirementsThe physical demands and characteristics of the work environment described here are representative ofthose that will be encountered by an employee to successfully perform the essential functions of this job.Reasonable accommodations may be made to enable individuals with disabilities to perform the essentialfunctions.The Dictionary of Occupational Titles Material Handling Classification is MEDIUM. The employee mustregularly lift, carry or push/pull up to 10 pounds, frequently lift, carry or push/pull up to 10 - 25 pounds, andoccasionally lift, carry or push/pull up to 20 - 50 pounds.While performing the duties of this Job, the employee is regularly required to do fine motor, hear, speak,and walk. The employee is frequently required to bend, reach, sit, squat, and stand. The employee isoccasionally required to climb, do repetitive motion, kneel, and smell.Specific vision abilities required by this job include color vision, depth perception, far vision, near vision,and peripheral vision.The employee is frequently exposed to airborne pathogens, blood borne pathogens, and bodily fluids. Theemployee is occasionally exposed to airborne contaminants, chemotherapeutic agents, electrical hazards -shock, moving mechanical parts, non-weather related heat or cold, slippery surfaces, and toxic or causticchemicals.The noise level in the work environment is usually moderate.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 537447
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3809
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-02-19
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 31 2024 10:21:11
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=260095 ;Status=Open;Association=Concord Hospital ;Client=Concord Hospital Laconia/Franklin ;City=Laconia ;State=NH ;Zip='03246 ;Start=10/19/2023;End=1/18/2024;Duration=91;Cert=Nursing ;Specialty=Telemetry Nurse, Med-surg Adult ;Unit=Telemetry Nurse, Med-surg Adult ;Shift=Night Shift ;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$95.00;OTRules=By The Week, after 40, ;OnCallRateDescription=No Call ;Description=The Registered Nurse (RN) 2 is responsible for assessing, planning, implementing and evaluating nursing care for a group of population specific patients for the department /unit, from simple to complex, with multi-system issues in a safe and therapeutic environment. The RN uses knowledge of the principles of growth and development over the life span, assesses data reflective of the patient's status and interprets information needed to identify each patients requirements relative to his/her age specific needs. The RN engages in caring relationships with patient's, families, and significant others, works collaboratively with other health care workers, and uses sound judgments while performing nursing and medical interventions. The RN adheres to specialty standards and organizational standards, policies, procedures, guidelines and protocols. Reports to the Director and/or Nurse Manager. May participate in supervision of Licensed Nursing Assistants and unlicensed personnel.SummaryThe Registered Nurse (RN) 2 is responsible for assessing, planning, implementing and evaluating nursing care for a group of population specific patients for the department /unit, from simple to complex, with multi-system issues in a safe and therapeutic environment. The RN uses knowledge of the principles of growth and development over the life span, assesses data reflective of the patient's status and interprets information needed to identify each patients requirements relative to his/her age specific needs. The RN engages in caring relationships with patient's, families, and significant others, works collaboratively with other health care workers, and uses sound judgments while performing nursing and medical interventions. The RN adheres to specialty standards and organizational standards, policies, procedures, guidelines and protocols. Reports to the Director and/or Nurse Manager. May participate in supervision of Licensed Nursing Assistants and unlicensed personnel.EducationGraduated from an accredited School of Nursing, BSN preferred.Certification, Registration & LicensureRegistered Nurse - New Hampshire Board of Nursing ?Basic Life Support - American Heart AssociationExperienceOne year prior clinical nursing experience. Evidence of experience in working effectively and positively with patients, care providers, and the multi-disciplinary team. Evidence of the ability to perform as a member of a team.ResponsibilitiesBases nursing actions by applying principles of purposeful, organized thinking to make clinical judgment/decisions.Gathers data through history taking and physical assessment and interprets data in order to plan and implement interventions to meet patient care needs.Develops, evaluates and revises patient's plan of care and nursing actions in response to patient's needs.Documents care provided and patient's progress toward attainment of desired outcomes.Directs and supervises others in the performance of delegated nursing activities.Teaches the patient and/or significant other(s) about the plan of care. Prepares patients to manage their care after discharge, transfer or preparation for procedure/test.Manages time and resources to deliver patient care.Administers medications to patients.Provides direct patient care.Leads the health care team.Serves as a Resource Person for assigned shift.Serves as a preceptor for new employees.Performs job specific requirements and other duties as assigned.Physical and Work RequirementsThe physical demands and characteristics of the work environment described here are representative ofthose that will be encountered by an employee to successfully perform the essential functions of this job.Reasonable accommodations may be made to enable individuals with disabilities to perform the essentialfunctions.The Dictionary of Occupational Titles Material Handling Classification is MEDIUM. The employee mustregularly lift, carry or push/pull up to 10 pounds, frequently lift, carry or push/pull up to 10 - 25 pounds, andoccasionally lift, carry or push/pull up to 20 - 50 pounds.While performing the duties of this Job, the employee is regularly required to do fine motor, hear, speak,and walk. The employee is frequently required to bend, reach, sit, squat, and stand. The employee isoccasionally required to climb, do repetitive motion, kneel, and smell.Specific vision abilities required by this job include color vision, depth perception, far vision, near vision,and peripheral vision.The employee is frequently exposed to airborne pathogens, blood borne pathogens, and bodily fluids. Theemployee is occasionally exposed to airborne contaminants, chemotherapeutic agents, electrical hazards -shock, moving mechanical parts, non-weather related heat or cold, slippery surfaces, and toxic or causticchemicals.The noise level in the work environment is usually moderate.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260095;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Lakes Region General Hospital
+    [shiftDateEnd] => 2024-05-20
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

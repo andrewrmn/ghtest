@@ -1,0 +1,125 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '23',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6345',
+  'Cf-Ray' => '82cc626c42d24949-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => *Truncated compliance*
+
+MedSurg RN
+Manager will accept : 3x12s or 4x12s, 7p-730a
+Ratios:  1:6-1:7
+Years of experience REQ: 1.5 years
+First-timers accepted: No
+Weekend REQ:  EOW
+Certs REQ:  South Carolina or Multi-State/Compact State RN License, BLS-ACLS-preferred
+Is on-call REQ? NO
+Will clinician float within scope to meet facility needs?  Yes
+Open to accommodating block schedule? manager s discretion
+Locals accepted: What is the local radius rule? Yes, 50 miles
+Pending License accepted: No
+RTO Restrictions: ALL RTO must be included at time of submission. Approval will be based on facility's needs.
+Guaranteed Hours:  Facility allowed to call off 1 shift per 2 weeks
+Special Requirements: willing to float to other facilities if needed.
+
+Hospital Highlights
+ Short Term Acute Care Hospital
+Total Staffed Beds: 97
+Scrub Color:
+  RNs: Ceil blue or Navy
+Charting: EPIC
+Parking Cost: Free Parking
+
+ Modified Time:11/13/2023 5:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal radius: 50 miles. Locals accepted on a case by case basis at lower ratePerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 541368
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9616
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 27 2023 13:19:22
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2292677 ;Status=Open;Association=Qualivis MSP ;Client=MUSC - Lancaster Rapid Response ;City=Lancaster ;State=SC ;Zip=29720-2298 ;Start=11/13/2023;End=2/12/2024;Duration=91;Cert=Registered Nurse ;Specialty=Medical Surgical ;Unit=LAN - MedSurg 6th Floor (LMC), CC001508 ;Shift=Night 4x12-Hour (19:00 - 07:30);# of Postions=4;Type=Travel;BillRate=$75.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=*Truncated compliance*
+
+MedSurg RN
+Manager will accept : 3x12s or 4x12s, 7p-730a
+Ratios:  1:6-1:7
+Years of experience REQ: 1.5 years
+First-timers accepted: No
+Weekend REQ:  EOW
+Certs REQ:  South Carolina or Multi-State/Compact State RN License, BLS-ACLS-preferred
+Is on-call REQ? NO
+Will clinician float within scope to meet facility needs?  Yes
+Open to accommodating block schedule? manager s discretion
+Locals accepted: What is the local radius rule? Yes, 50 miles
+Pending License accepted: No
+RTO Restrictions: ALL RTO must be included at time of submission. Approval will be based on facility's needs.
+Guaranteed Hours:  Facility allowed to call off 1 shift per 2 weeks
+Special Requirements: willing to float to other facilities if needed.
+
+Hospital Highlights
+ Short Term Acute Care Hospital
+Total Staffed Beds: 97
+Scrub Color:
+  RNs: Ceil blue or Navy
+Charting: EPIC
+Parking Cost: Free Parking
+
+ Modified Time:11/13/2023 5:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal radius: 50 miles. Locals accepted on a case by case basis at lower ratePerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2292677/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => MUSC - Lancaster Medical Center
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

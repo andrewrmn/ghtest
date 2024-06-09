@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '862',
+  'Cf-Ray' => '85d2302b343c1466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => School
+    [assignmentid] => 441433
+    [workerID] => 259334
+    [WorkerContactNo] => 636-219-2106
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 37.5
+    [facilityID] => 13896
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-10-30
+    [workerLastName] => Linke
+    [shiftNum] => 1
+    [workerFirstName] => Kristina
+    [cert] => SLI
+    [floorDesc] => Parkade Elementary School
+    [Subject] => 
+    [shiftEndTime] => 14:30
+    [whenmodified] => February, 29 2024 11:12:18
+    [daysPerWeek] => 5
+    [orderNote] => BR:$65lPay:$40lFTK:GiftTC(Sign)
+    [guaranteedMinimum] => 
+    [workerEmail] => hermiedawn@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Columbia Public Schools
+    [shiftDateEnd] => 2023-05-23
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1959',
+  'Cf-Ray' => '83f4258ef1d51842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Qualivis Association:RNSP3Contract length: 13 weeksPossible extension: YesShift dates: Weekdays, some weekends, holidaysCerts required: BLS, ACLS, NRP, IV, AWHONNSkills required: FM (intermediate), IV start, triageExperience required: 3+ yearsTravel experience: PreferredScrubs provided: NoEMR: MedithostAdditional requirements: Dependabilityhttps://app.lotusconnect.com/webapi/api/VendorModule/Jobs?$filter=JobID%20eq%20884941& 
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 55869
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 37.5
+    [facilityID] => 10628
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-04-08
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:15
+    [whenmodified] => January, 02 2024 10:48:29
+    [daysPerWeek] => 3
+    [orderNote] => Source=Lotus;ID=0;SourceID=884941;Status=;Client=Ouachita County Medical Center;City=Camden;State=AR;Zip=71701;Start=4/8/2019;End=7/8/2019;Duration=91;Cert=Registered Nurse;Specialty=Labor and Delivery;Unit=Labor and Delivery;Shift=Day (12 Hours) 6:45 18:45;# of Postions=2;Type=Travel;OTRate=;Description=Qualivis Association:RNSP3Contract length: 13 weeksPossible extension: YesShift dates: Weekdays, some weekends, holidaysCerts required: BLS, ACLS, NRP, IV, AWHONNSkills required: FM (intermediate), IV start, triageExperience required: 3+ yearsTravel experience: PreferredScrubs provided: NoEMR: MedithostAdditional requirements: Dependabilityhttps://app.lotusconnect.com/webapi/api/VendorModule/Jobs?$filter=JobID%20eq%20884941&;VMSPositionType= AvgHoursPerWeek= 
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => Ouachita County Medical Center - TRAVEL
+    [shiftDateEnd] => 2019-07-08
+    [shiftStartTime] => 06:45
+    [subjectID] => 
+)

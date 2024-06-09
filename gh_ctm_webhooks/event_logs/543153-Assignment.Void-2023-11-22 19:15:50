@@ -1,0 +1,393 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5822',
+  'Cf-Ray' => '82a380e1d40323b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Hospital:
+ Parkridge   medical Center             Location: Chattanooga TN             
+Address: 2333   McCallie Ave
+         
+Unit Name: 5 East   Ortho/Spine
+             
+Building: 
+         
+Cost Center: 606
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds : 26
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios : 6:1
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) : secretary. PCT s, Navigator
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment : coolers, walkers,   Scd s, Cpm s
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: 4 weekend   shifts per schedule
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: rotation
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements: 72%
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:
+             Hiring profile             Requested Skill Set: RN License   
+   
+Must have: Compassion, teamwork
+   
+   
+
+
+   Advanced skills needed:   
+
+
+   
+   
+Procedures performed on unit: 
+Knee   and Hip replacements.
+ Multi-level   spine surgeries
+   
+
+
+   
+
+
+   Certifications Required:   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   
+Navy Scrubs
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+ General Comments
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543153
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7580
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 22 2023 14:15:50
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=762216 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=PARKRIDGE MEDICAL CENTER ;City=CHATTANOOGA ;State=TN ;Zip=37404 ;Start=10/15/2023;End=1/14/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=TRISTAR DIVISION (7) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$76.00;OTRate=84 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Hospital:
+ Parkridge   medical Center             Location: Chattanooga TN             
+Address: 2333   McCallie Ave
+         
+Unit Name: 5 East   Ortho/Spine
+             
+Building: 
+         
+Cost Center: 606
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds : 26
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios : 6:1
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) : secretary. PCT s, Navigator
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment : coolers, walkers,   Scd s, Cpm s
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: 4 weekend   shifts per schedule
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: rotation
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements: 72%
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:
+             Hiring profile             Requested Skill Set: RN License   
+   
+Must have: Compassion, teamwork
+   
+   
+
+
+   Advanced skills needed:   
+
+
+   
+   
+Procedures performed on unit: 
+Knee   and Hip replacements.
+ Multi-level   spine surgeries
+   
+
+
+   
+
+
+   Certifications Required:   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   
+Navy Scrubs
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+ General Comments ;url=https://vendor.healthtrustws.com/positions/762216;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 76
+    [facilityName] => Parkridge Medical Center
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

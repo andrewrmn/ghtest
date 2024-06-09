@@ -1,0 +1,108 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3001',
+  'Cf-Ray' => '83f782d4624b77ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => MS Nights needed
+
+13 week contract - EOW required
+
+BLS, ACLS and PALS required
+
+There is an average of about 2 pediatric patients per month on the unit. 
+
+Travel experience strongly preferred
+
+Must be vaccinated
+
+50 mile radius restriction 
+
+ASAP start
+
+EOW requried
+
+ Modified Time:1/22/2024 12:00:00 AM
+ Account Manager: Katie Severance
+ Account Manager Email: Katie.Severance@qualivis.com
+ COVID-19 Vaccine: Required - No Exemptions
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceNeed 2 weeks/ 14 calendar days + (confirm with CL if Quick Starts are okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance.If candidate uses client-provided housing the BR will be reducedDoes not accept local contract staff   specifically those that live in Sampson County
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545278
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3587
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-22
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:15
+    [whenmodified] => January, 02 2024 20:36:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2311694 ;Status=Open;Association=Qualivis EPA ;Client=Sampson Regional Medical Center ;City=Clinton ;State=NC ;Zip=28328-2697 ;Start=1/22/2024;End=4/22/2024;Duration=91;Cert=Registered Nurse ;Specialty=MS/Tele ;Unit=MS/ Tele ;Shift=Night 4x12-Hour (18:45 - 07:15);# of Postions=1;Type=Travel;BillRate=$87.00;OTRules=48 total hours in 1 week : 1.25% ;Orientation=16 ;Description=MS Nights needed
+
+13 week contract - EOW required
+
+BLS, ACLS and PALS required
+
+There is an average of about 2 pediatric patients per month on the unit. 
+
+Travel experience strongly preferred
+
+Must be vaccinated
+
+50 mile radius restriction 
+
+ASAP start
+
+EOW requried
+
+ Modified Time:1/22/2024 12:00:00 AM
+ Account Manager: Katie Severance
+ Account Manager Email: Katie.Severance@qualivis.com
+ COVID-19 Vaccine: Required - No Exemptions
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceNeed 2 weeks/ 14 calendar days + (confirm with CL if Quick Starts are okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance.If candidate uses client-provided housing the BR will be reducedDoes not accept local contract staff   specifically those that live in Sampson County ;url=https://app.ayaconnect.com/index.html#/vendor/job/2311694/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 87
+    [facilityName] => Sampson Regional Medical Center
+    [shiftDateEnd] => 2024-04-22
+    [shiftStartTime] => 18:45
+    [subjectID] => 
+)

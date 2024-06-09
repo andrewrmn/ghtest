@@ -1,0 +1,69 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1595',
+  'Cf-Ray' => '829e427cc3d923c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Cath Lab Rad Tech
+13 weeks
+Days with call and rotating start times from 5a   9a
+CA Rad License/BLS/ACLS
+Previous Cath Lab experience required.
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 544259
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 1477
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Cath Lab Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 21 2023 22:59:25
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48447 ;Status=Open;Association=Trinity Health ;Client=CA - Saint Agnes Medical Center ;City=Fresno ;State=CA ;Zip=93720 ;Start=12/10/2023;End=3/9/2024;Duration=90;Cert=Cath Lab Tech ;Specialty=Cath Lab ;Unit=CA\Saint Agnes\Cath Lab Rad Tech ;Shift=7a7p;# of Postions=1;Type=Travel;BillRate=$160.00;OTRate=208.00 ;ChargeRate=163.00 ;CallbackRate=208.00 ;HolidayRate=208.00 ;Orientation=0.00 ;Description=Cath Lab Rad Tech
+13 weeks
+Days with call and rotating start times from 5a   9a
+CA Rad License/BLS/ACLS
+Previous Cath Lab experience required. ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 160
+    [facilityName] => Saint Agnes Medical Center TRAVEL
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

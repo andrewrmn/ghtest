@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '54',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2394',
+  'Cf-Ray' => '84fbbb0b31078795-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 05/22/2020 0625 MDTCerville Exavier
+                            
+                            
+                                Experienced Pediatric CVOR OR Tech needed. Must have Peds CVOR experience - Non Negotiable.  10H Shifts, variable days. Variable case volumes. Call cover required. Must be certified. Cerner EMR. IVS to interview via montage. NM to make final offer.  $70.00 Bill Rate Approved.
+ RatePlan:AH-STANDARD TRAVEL RATE
+    [sitename] => giftednurses
+    [spec] => CVOR
+    [assignmentid] => 124120
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2478
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-08-03
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => ORT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => February, 03 2024 10:32:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=Shiftwise;SourceID=8734174 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Dell Children's Medical Center ;City=Austin ;State=TX ;Zip=78723 ;Start=6/8/2020;End=9/6/2020;Duration=91;Cert=OR Tech ;Specialty=CVOR ;Unit=DCMC Surgical Services ;Shift=AM 10.00 Hrs;# of Postions=1;Type=Travel;minBillRate=$65.80;OTRate=Multiplier 1.35 x Std1.350 ;OTRules=Multiplier 1.35 x Std1.350 ;ChargeRate=Additive Std + $4.004.000 ;CallbackRate=Multiplier 1.35 x Std1.350 ;HolidayRate=Multiplier 1.35 x Std1.350 ;OnCallRateDescription=Flat $6.006.000 ;Orientation=Flat $0.000.000 ;Description=05/22/2020 0625 MDTCerville Exavier
+                            
+                            
+                                Experienced Pediatric CVOR OR Tech needed. Must have Peds CVOR experience - Non Negotiable.  10H Shifts, variable days. Variable case volumes. Call cover required. Must be certified. Cerner EMR. IVS to interview via montage. NM to make final offer.  $70.00 Bill Rate Approved.
+ RatePlan:AH-STANDARD TRAVEL RATE ;url=https://secure.shiftwise.net/esp/order.aspx?order_id=094C7919015C884D02693E9C05D89213;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65.8
+    [facilityName] => Dell Children's Medical Center
+    [shiftDateEnd] => 2020-11-01
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

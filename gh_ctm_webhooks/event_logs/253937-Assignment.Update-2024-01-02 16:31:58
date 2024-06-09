@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5305',
+  'Cf-Ray' => '83f4653667e01466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Job Summary: Provides direct and indirect patient care in the office setting. Provides care that meets the psychosocial, physical and general aspects of care; meets the communication needs of patient and family; provides care that reflects initiative and responsibility indicative of professional expectations, under the supervision of a registered nurse and/or provider. Maintains regulatory requirements, nursing and office policies, procedures and standards. Communicates with providers and team members about patient's clinical condition, including results of diagnostic studies and symptomatology.Location: Our Organization is a Public Hospital District, comprised of a critical  access hospital, a rural health clinic, a rehab facility,  						retail pharmacy and an assisted living facility   all focused on  the health and well-being of our community. Life in the rural Pacific Northwest is peaceful and free of many of the distractions found in urban settings. If you are looking for a serene, relaxed pace of life that allows freedom to focus on what matters most to you, look no further.  A position waits for you in beautiful, Republic, Washington. Work in a community where you can truly make a difference every day. Schedule: Monday-Friday 0800-1700   800x600   Normal   0   false   false   false   EN-US   X-NONE   X-NONE   MicrosoftInternetExplorer4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Clinic
+    [assignmentid] => 253937
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3544
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-09-13
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => January, 02 2024 11:31:57
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=189077 ;Status=Open;Association=Ferry County Health ;Client=Ferry County Health ;City=Republic ;State=WA ;Zip=99166 ;Start=8/9/2021;End=11/8/2021;Duration=91;Cert=Nursing ;Specialty=Clinic ;Unit=Clinic ;Shift=Monday-Friday 0800-1700;# of Postions=1;Type=Travel;BillRate=$65.00;OTRate=65 ;OTRules=By The Week, after 40, ;CallbackRate=65 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=Job Summary: Provides direct and indirect patient care in the office setting. Provides care that meets the psychosocial, physical and general aspects of care; meets the communication needs of patient and family; provides care that reflects initiative and responsibility indicative of professional expectations, under the supervision of a registered nurse and/or provider. Maintains regulatory requirements, nursing and office policies, procedures and standards. Communicates with providers and team members about patient's clinical condition, including results of diagnostic studies and symptomatology.Location: Our Organization is a Public Hospital District, comprised of a critical  access hospital, a rural health clinic, a rehab facility,  						retail pharmacy and an assisted living facility   all focused on  the health and well-being of our community. Life in the rural Pacific Northwest is peaceful and free of many of the distractions found in urban settings. If you are looking for a serene, relaxed pace of life that allows freedom to focus on what matters most to you, look no further.  A position waits for you in beautiful, Republic, Washington. Work in a community where you can truly make a difference every day. Schedule: Monday-Friday 0800-1700   800x600   Normal   0   false   false   false   EN-US   X-NONE   X-NONE   MicrosoftInternetExplorer4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/189077;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Washington Registry- Ferry County Memorial Hospital
+    [shiftDateEnd] => 2021-12-13
+    [shiftStartTime] => 08:00
+    [subjectID] => 
+)

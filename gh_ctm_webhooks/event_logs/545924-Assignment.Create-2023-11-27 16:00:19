@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1362',
+  'Cf-Ray' => '82cb95581553183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => MRI
+    [assignmentid] => 545924
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 2863
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => MRI Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 27 2023 11:00:11
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=776738 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=WOMANS HOSPITAL OF TEXAS ;City=Houston ;State=TX ;Zip=77054 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=MRI Tech ;Specialty=Radiology ;Unit=GULF COAST DIVISION (14) ;Shift=730A-4P;# of Postions=1;Type=Travel;BillRate=$95.00;OTRate=103 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/776738;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Woman's Hospital of Texas
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,608 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '10931',
+  'Cf-Ray' => '82948b31639b23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:BACKFILL!!!MISSION HOSPITAL
+
+Mission Hospital
+Mission Hospital is an 815-bed acute care facility located in Asheville, North Carolina. The hospital is known as the regional referral center for tertiary and quaternary care and is the only Level II trauma center, comprehensive stroke center, and children's hospital in western North Carolina.Mission Hospital offers a variety of specialties, including cardiovascular, orthopedics, neurosciences, oncology, pediatrics, women's services, and behavioral health. The hospital's cardiovascular services include the only open heart and interventional cardiology in the region. Mission Hospital is also the second busiest surgical hospital in North Carolina.
+ The quality of the facility's services has earned much recognition, such as being named among the nation's best hospitals by U.S. News &amp; World Report, Truven Health Analytics, and Healthgrades.
+
+The onsite Mission Children's Hospital features 96 beds dedicated to infants and children, including a 51-bed Level III Neonatal ICU. The hospital's pediatric services have also earned numerous awards and accreditations and provides 30 pediatric subspecialists.
+The hospital continues to grow and recently opened a new state-of-the-art patient tower that has over 630,000 square feet, which includes a new Emergency Department, new interventional procedural rooms, new operating rooms, and hosts 220 private patient rooms.
+ Overall, staff members say that Mission Hospital is a great place to work because of the friendly atmosphere, supportive management, and opportunities for growth.Known for its thriving arts community and natural beauty, the city of Asheville is located in western North Carolina along the Blue Ridge Mountains. The city features a bustling downtown, several unique museums, and nationally known restaurants and historical sites. With so much to see and do, you'll find something for everyone in Asheville
+ General CommentsUnit Information:
+   A4W             Location: A 4 West             
+Address: 509   Biltmore Ave Asheville, NC 28801
+         
+Floor:
+ 4th
+             
+Building: Main   Building / Entrance # 4
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds - 34
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+45
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   1 CNC (Clinical Nurse   Coordinator) 5-7 RNs, 2-3 CNAs, 1 HUC
+   
+o
+
+
+   Night Shift   1 CNC, 4-6 RNs, 1-3   CNAs, 1 HUC
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   Anywhere from 1:4 to   1:7 (crisis staffing only)
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   Chest tubes, JP   drains, IJ, EJ, ports, Piccs, Midlines, Walkers, WCs, Baxter pumps, skeletal   tractions, PCA pumps, Sara lifts, sky lifts, Hoyer lifts, Code carts
+   
+ 
+
+
+
+
+
+
+
+   EMR - Cerner
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+BLS
+   
+ 
+
+
+
+
+
+
+
+   Current   License 
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   ACLS 
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+
+Wound vac changes, dressing changes
+   
+ 
+
+
+
+
+
+
+
+   
+Staple / suture removal; JP drain removal
+   
+ 
+
+
+
+
+
+
+
+   Hemovac   removal
+   
+ 
+
+
+
+
+
+
+
+   NG   placement/removal
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Team working ~ including all   disciplinaries
+   
+ 
+
+
+
+
+
+
+
+   Flexible
+   
+ 
+
+
+
+
+
+
+
+   No  mean girl  personality
+   
+ 
+
+
+
+
+
+
+
+   Outgoing
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   RN
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   All Med Surg depts/ ED Holding (orange/red pod / B 3 South)
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ Navy scrubs / neat
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   Will be   addressed on unit
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   Every other weekend for travelers
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 538290
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11849
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 20 2023 18:41:22
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=768101 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=MISSION HOSPITAL ;City=ASHEVILLE ;State=NC ;Zip=28801 ;Start=11/6/2023;End=2/5/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=NORTH CAROLINA DIVISION (51) ;Shift=7:00PM - 7:00AM;# of Postions=2;Type=Travel;BillRate=$80.00;OTRate=88 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:BACKFILL!!!MISSION HOSPITAL
+
+Mission Hospital
+Mission Hospital is an 815-bed acute care facility located in Asheville, North Carolina. The hospital is known as the regional referral center for tertiary and quaternary care and is the only Level II trauma center, comprehensive stroke center, and children's hospital in western North Carolina.Mission Hospital offers a variety of specialties, including cardiovascular, orthopedics, neurosciences, oncology, pediatrics, women's services, and behavioral health. The hospital's cardiovascular services include the only open heart and interventional cardiology in the region. Mission Hospital is also the second busiest surgical hospital in North Carolina.
+ The quality of the facility's services has earned much recognition, such as being named among the nation's best hospitals by U.S. News &amp; World Report, Truven Health Analytics, and Healthgrades.
+
+The onsite Mission Children's Hospital features 96 beds dedicated to infants and children, including a 51-bed Level III Neonatal ICU. The hospital's pediatric services have also earned numerous awards and accreditations and provides 30 pediatric subspecialists.
+The hospital continues to grow and recently opened a new state-of-the-art patient tower that has over 630,000 square feet, which includes a new Emergency Department, new interventional procedural rooms, new operating rooms, and hosts 220 private patient rooms.
+ Overall, staff members say that Mission Hospital is a great place to work because of the friendly atmosphere, supportive management, and opportunities for growth.Known for its thriving arts community and natural beauty, the city of Asheville is located in western North Carolina along the Blue Ridge Mountains. The city features a bustling downtown, several unique museums, and nationally known restaurants and historical sites. With so much to see and do, you'll find something for everyone in Asheville
+ General CommentsUnit Information:
+   A4W             Location: A 4 West             
+Address: 509   Biltmore Ave Asheville, NC 28801
+         
+Floor:
+ 4th
+             
+Building: Main   Building / Entrance # 4
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds - 34
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+45
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   1 CNC (Clinical Nurse   Coordinator) 5-7 RNs, 2-3 CNAs, 1 HUC
+   
+o
+
+
+   Night Shift   1 CNC, 4-6 RNs, 1-3   CNAs, 1 HUC
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   Anywhere from 1:4 to   1:7 (crisis staffing only)
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   Chest tubes, JP   drains, IJ, EJ, ports, Piccs, Midlines, Walkers, WCs, Baxter pumps, skeletal   tractions, PCA pumps, Sara lifts, sky lifts, Hoyer lifts, Code carts
+   
+ 
+
+
+
+
+
+
+
+   EMR - Cerner
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+BLS
+   
+ 
+
+
+
+
+
+
+
+   Current   License 
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   ACLS 
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+
+Wound vac changes, dressing changes
+   
+ 
+
+
+
+
+
+
+
+   
+Staple / suture removal; JP drain removal
+   
+ 
+
+
+
+
+
+
+
+   Hemovac   removal
+   
+ 
+
+
+
+
+
+
+
+   NG   placement/removal
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Team working ~ including all   disciplinaries
+   
+ 
+
+
+
+
+
+
+
+   Flexible
+   
+ 
+
+
+
+
+
+
+
+   No  mean girl  personality
+   
+ 
+
+
+
+
+
+
+
+   Outgoing
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   RN
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   All Med Surg depts/ ED Holding (orange/red pod / B 3 South)
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ Navy scrubs / neat
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   Will be   addressed on unit
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   Every other weekend for travelers ;url=https://vendor.healthtrustws.com/positions/768101;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mission Hospital Travel
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

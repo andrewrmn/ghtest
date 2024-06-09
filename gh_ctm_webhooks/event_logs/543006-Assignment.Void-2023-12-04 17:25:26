@@ -1,0 +1,67 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1390',
+  'Cf-Ray' => '8305bfa906bc1836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 weeks
+36 hrs/wk
+7p-7:30a
+EOW
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543006
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1385
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 04 2023 12:25:26
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=47445 ;Status=Open;Association=Trinity Health ;Client=ID - Saint Alphonsus Regional Medical Center ;City=Boise ;State=ID ;Zip=83706 ;Start=1/7/2024;End=4/6/2024;Duration=90;Cert=RN Medical / Surgical ;Specialty=Medical S5 ;Unit=*Registered Nurse-Med Surg-Medical S5   Nights ;Shift=7p7a;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=104.00 ;ChargeRate=83.00 ;CallbackRate=104.00 ;HolidayRate=104.00 ;Orientation=0.00 ;Description=13 weeks
+36 hrs/wk
+7p-7:30a
+EOW ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Saint Alphonsus Regional Medical Center - Boise Travel
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

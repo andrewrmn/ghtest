@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '22',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1462',
+  'Cf-Ray' => '84fbbb0d46904945-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 11/01/2019 0859 MDTAriana Redler
+					saved for Selina
+    [sitename] => giftednurses
+    [spec] => Radiology
+    [assignmentid] => 88743
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 8
+    [facilityID] => 2478
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-11-18
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => February, 03 2024 10:32:17
+    [daysPerWeek] => 2
+    [orderNote] => Source=Shiftwise;ID=0;SourceID=8431382;Status=Pending;Association=CCS WFS: Seton HealthCare Network;Client=AH: Dell Children's Medical Center Allied;City=Austin;State=TX;Zip=78723;Start=11/4/2019;End=2/3/2020;Duration=92;Cert=Rad Tech;Specialty=CT Technologist;Unit=DCMC Radiology;Shift=NOC 8.00 Hrs;# of Postions=1;Type=Travel;BillRate=$75.67;minBillRate=$75.67;OTRate= ;OTRules= ;ChargeRate= ;CallbackRate= ;CallbackRate= ;HolidayRate= ;OnCallRateDescription= ;Orientation= ;Description=11/01/2019 0859 MDTAriana Redler
+					saved for Selina;Buyer= ;VMSPositionType= AvgHoursPerWeek= InterviewRequired=False;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75.67
+    [facilityName] => Dell Children's Medical Center
+    [shiftDateEnd] => 2020-02-17
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

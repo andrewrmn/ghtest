@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5447',
+  'Cf-Ray' => '82a41b61c0761463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Summary:  The Surgical Technologist functions in the role of scrub person. Works under the supervision of the surgeon and the R.N. to ensure that the O.R. environment is safe, equipment functions properly and that the operative procedure is conducted under conditions that maximize patient safety. Must possess expertise in the theory and application of surgical technique, human anatomy, surgical procedures, and implementation of tools and technologies to facilitate safe care of the patient during invasive therapeutic and diagnostic procedures.Minimum Qualifications:High School Diploma or EquivalentGraduate of an accredited Surgical Technologist program; or equivalent military surgical technologist programAmerican Heart Association BLSCertified Surgical TechnologistEssential Job Functions:Responsible for assuring completion of case carts according to preference cards. Recognizes and interprets preference cards for the procuring of instruments and suppliesCommunicates clearly with operating room staff and sterile processing staff members to coordinate instrumentation throughout the day for scheduled and non-scheduled cases.Reviews daily schedule with the charge nurse and the day coordinator of sterile processing identifying possible turnover delays and scheduling issuesAssumes responsibility for the core phone and communications inherent with the position, delegates duties accordingly and coordinates breaks and lunches with appropriate individuals.Resource for the departments of SPD and Surgical Services for the procurement of necessary items, both supply and instrumentation, for scheduled and non-scheduled surgical procedures.Communicates and coordinates with materials management in regards to supply utilization and deployment   Additional Information:Candidates must live at least 90 miles from facility to be considered for assignment. Do not submit candidates living less than 90 miles from facility.   Position Urgency:Normal Billing string = Bozeman Deaconess Hospital
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 545718
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1356
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-02
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 22 2023 16:01:18
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262112 ;Status=Open;Association=Bozeman Deaconess Hospital ;Client=Bozeman Deaconess Hospital ;City=Bozeman ;State=MT ;Zip=59715 ;Start=1/2/2024;End=4/2/2024;Duration=91;Cert=Nursing ;Specialty=Surgical Technologist ;Unit=Surgical Technologist ;Shift=10- 12 hour shifts depending on needs;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$80.00;OTRate=85 ;OTRules=By The Week, after 40, ;CallbackRate=85 (All Inclusive Rate + $5) ;HolidayRate=85 (All Inclusive Rate + $5) ;OnCallRateDescription=$3 per hour pager ;Description=Position Summary:  The Surgical Technologist functions in the role of scrub person. Works under the supervision of the surgeon and the R.N. to ensure that the O.R. environment is safe, equipment functions properly and that the operative procedure is conducted under conditions that maximize patient safety. Must possess expertise in the theory and application of surgical technique, human anatomy, surgical procedures, and implementation of tools and technologies to facilitate safe care of the patient during invasive therapeutic and diagnostic procedures.Minimum Qualifications:High School Diploma or EquivalentGraduate of an accredited Surgical Technologist program; or equivalent military surgical technologist programAmerican Heart Association BLSCertified Surgical TechnologistEssential Job Functions:Responsible for assuring completion of case carts according to preference cards. Recognizes and interprets preference cards for the procuring of instruments and suppliesCommunicates clearly with operating room staff and sterile processing staff members to coordinate instrumentation throughout the day for scheduled and non-scheduled cases.Reviews daily schedule with the charge nurse and the day coordinator of sterile processing identifying possible turnover delays and scheduling issuesAssumes responsibility for the core phone and communications inherent with the position, delegates duties accordingly and coordinates breaks and lunches with appropriate individuals.Resource for the departments of SPD and Surgical Services for the procurement of necessary items, both supply and instrumentation, for scheduled and non-scheduled surgical procedures.Communicates and coordinates with materials management in regards to supply utilization and deployment   Additional Information:Candidates must live at least 90 miles from facility to be considered for assignment. Do not submit candidates living less than 90 miles from facility.   Position Urgency:Normal Billing string = Bozeman Deaconess Hospital ;url=https://vms.medefis5.com/jobs/262112;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Bozeman Deaconess Hospital Travel
+    [shiftDateEnd] => 2024-04-02
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

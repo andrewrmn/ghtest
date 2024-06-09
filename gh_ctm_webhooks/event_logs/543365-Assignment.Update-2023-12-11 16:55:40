@@ -1,0 +1,81 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3533',
+  'Cf-Ray' => '833f41a484da1832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Bill Rate $75.00 / Local $60.00
+Evaluates assigned patients and plans, implements and documents nursing care. Assists physicians during examinations and procedures. Triages patients. Performs various patient tests and administers medications within the scope of practice of the registered nurse. Promotes patients' independence by establishing patient care goals and teaching patients and families to understand conditions, medications, and self-care skills. Relies on experience and judgment to plan and accomplish goals. Performs a variety of tasks. A wide degree of creativity and latitude is expected. Typically reports to a manager or head of a unit/department. Requires an associate's degree and is certified as a registered nurse. Familiar with standard concepts, practices, and procedures within a particular field.
+ General CommentsShift times: 1 Day Shift  630A-630P, 36 hour week
+
+                   1 Night Shift 630P-630A, 36 hour week
+
+On-Call requirements: Very seldom
+
+Certifications
+ required for position: BLS, ALS, PALS
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543365
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1758
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-25
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 11 2023 11:55:31
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771326 ;Status=Open;Association=QHCCS, LLC ;Client=Big Bend Regional Medical Center ;City=Alpine ;State=TX ;Zip=79830 ;Start=11/20/2023;End=2/11/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=EXT-Other (911) ;Shift=06:30-18:30;# of Postions=1;Type=Travel;BillRate=$75.00;minBillRate=$75.00;OTRate=93.75 ;CallbackRate=93.75 ;HolidayRate=93.75 ;Orientation=0 ;Description=Description:Bill Rate $75.00 / Local $60.00
+Evaluates assigned patients and plans, implements and documents nursing care. Assists physicians during examinations and procedures. Triages patients. Performs various patient tests and administers medications within the scope of practice of the registered nurse. Promotes patients' independence by establishing patient care goals and teaching patients and families to understand conditions, medications, and self-care skills. Relies on experience and judgment to plan and accomplish goals. Performs a variety of tasks. A wide degree of creativity and latitude is expected. Typically reports to a manager or head of a unit/department. Requires an associate's degree and is certified as a registered nurse. Familiar with standard concepts, practices, and procedures within a particular field.
+ General CommentsShift times: 1 Day Shift  630A-630P, 36 hour week
+
+                   1 Night Shift 630P-630A, 36 hour week
+
+On-Call requirements: Very seldom
+
+Certifications
+ required for position: BLS, ALS, PALS
+ No. of Positions: 1/2.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/771326;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Big Bend Regional Medical Center
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 06:30
+    [subjectID] => 
+)

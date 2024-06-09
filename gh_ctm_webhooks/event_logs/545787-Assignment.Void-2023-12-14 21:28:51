@@ -1,0 +1,67 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1616',
+  'Cf-Ray' => '835989f623d61838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 12/26/2023
+3/30/2024
+RN would orient 1 day after Christmas on a weekday, and then work on 12/29   12/31 1100-2300.
+Weekend Package Midshift - Friday/Saturday/Sunday
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 545787
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15849
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => December, 14 2023 16:28:50
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48633 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne Newton Medical Center ;City=Newton ;State=IA ;Zip=50208 ;Start=12/24/2023;End=3/23/2024;Duration=90;Cert=RN Emergency Room ;Specialty=Emergency Room ;Unit=*Registered Nurse-ER-Emergency Room ;Shift=11:00:00 - 23:00:00;# of Postions=1;Type=Travel;BillRate=$87.00;OTRate=113.10 ;ChargeRate=90.00 ;CallbackRate=113.10 ;HolidayRate=113.10 ;Description=12/26/2023
+3/30/2024
+RN would orient 1 day after Christmas on a weekday, and then work on 12/29   12/31 1100-2300.
+Weekend Package Midshift - Friday/Saturday/Sunday ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 87
+    [facilityName] => MercyOne Newton Medical Center TRAVEL
+    [shiftDateEnd] => 2024-03-23
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

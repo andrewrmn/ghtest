@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '26',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5556',
+  'Cf-Ray' => '82e7e957433b4955-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => All candidates will need to complete a virtual interview for this role, and offers will be made based on that interview. Please ensure that all candidates have a full skills checklist with their detailed resume combined on one document. May float to StepdownUnit: 2S ICUNumber of Beds: 32Nurse Patient Ratio: 1:2 (Specific ratio is not guaranteed)Must be float to Med Surg units as needed. Will be required to take up to 4-5 patients when floated.Patient Age Groups: Adults, GeriatricTop 10 Diagnosis/Procedures:  Cardiothoracic surgeries, sepsis, respiratory failures, cardiac failures, CVA's, Stemi's, renal failures, ETOH withdrawals, overdoses, covidsSpecial procedure done on the unit: bronchs, endo's, insertion of central lines, arterial lines, swan ganz, intubationsCommon Equipment:  Vents, bear huggers, CRRT, Impella's, IABP's, hypothermiaRequired/Preferred Skill: Line Management Skills:Required: ??IV Insertion, PICC/Central Line Management, Vascular Device Access/CarePreferred: PA Line Management, Dialysis Fistula Care/Management, A-Line Management, CVP, IABPCardiac SkillsPreferred: ??Obtain 12 Lead EKG, Sheath Removal, Cardioversion/Defibrillation, Epicardial Pacer ManagementAirway Skills: Required: ??Procedural Sedation, CPAP/BiPAP, Ventilators, Trach CarePreferred: High Freq Vents/ Oscillators, Nitric OxideCritical Care Skills:Preferred: EVD Management, ICP Monitoring, Impella/LVAD, Dialysis (obtain details   peritoneal/CRRT/CVVHD), Rapid InfuserOrth/MS/Onc Skills:Required:  Epidural/PCA pumps, Feeding Tubes, Wound Vac   Additional Information:For roles with a guarantee, Boone Health can call off staff for up to 36 hours in a contract ---------------------------------------------  For Boone Health RN, LPN's and RRT Requests  *A VIRTUAL INTERVIEW WILL BE SENT TO YOUR CANDIDATE TO COMPLETE PRIOR TO SUBMITTING TO THE HOSPTIAL FOR CONSIDERATION**  **PLEASE BE SURE TO HAVE A COMPLETE PACKET OR YOUR CANDIDATE WILL BE DENIED**  **CHECKLIST IS ATTACHED AND MUST BE THE FIRST PAGE OF THE SUBMISSION PACKET**   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 544993
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9740
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 30 2023 21:30:40
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261313 ;Status=Open;Association=Boone Health ;Client=Boone Health ;City=Columbia ;State=MO ;Zip=65201 ;Start=11/8/2023;End=1/31/2024;Duration=84;Cert=Nursing ;Specialty=Intensive Care / Coronary Nurse (ICU) ;Unit=Intensive Care / Coronary Nurse (ICU) ;Shift=1900-0730;# of Postions=4;Guaranteed Hours=36;Type=Travel;BillRate=$95.00;OTRate=105 ;OTRules=By The Week, after 40, ;CallbackRate=105 (All Inclusive Rate + $10) ;HolidayRate=105 (All Inclusive Rate + $10) ;OnCallRateDescription=$5 per hour pager ;Description=All candidates will need to complete a virtual interview for this role, and offers will be made based on that interview. Please ensure that all candidates have a full skills checklist with their detailed resume combined on one document. May float to StepdownUnit: 2S ICUNumber of Beds: 32Nurse Patient Ratio: 1:2 (Specific ratio is not guaranteed)Must be float to Med Surg units as needed. Will be required to take up to 4-5 patients when floated.Patient Age Groups: Adults, GeriatricTop 10 Diagnosis/Procedures:  Cardiothoracic surgeries, sepsis, respiratory failures, cardiac failures, CVA's, Stemi's, renal failures, ETOH withdrawals, overdoses, covidsSpecial procedure done on the unit: bronchs, endo's, insertion of central lines, arterial lines, swan ganz, intubationsCommon Equipment:  Vents, bear huggers, CRRT, Impella's, IABP's, hypothermiaRequired/Preferred Skill: Line Management Skills:Required: ??IV Insertion, PICC/Central Line Management, Vascular Device Access/CarePreferred: PA Line Management, Dialysis Fistula Care/Management, A-Line Management, CVP, IABPCardiac SkillsPreferred: ??Obtain 12 Lead EKG, Sheath Removal, Cardioversion/Defibrillation, Epicardial Pacer ManagementAirway Skills: Required: ??Procedural Sedation, CPAP/BiPAP, Ventilators, Trach CarePreferred: High Freq Vents/ Oscillators, Nitric OxideCritical Care Skills:Preferred: EVD Management, ICP Monitoring, Impella/LVAD, Dialysis (obtain details   peritoneal/CRRT/CVVHD), Rapid InfuserOrth/MS/Onc Skills:Required:  Epidural/PCA pumps, Feeding Tubes, Wound Vac   Additional Information:For roles with a guarantee, Boone Health can call off staff for up to 36 hours in a contract ---------------------------------------------  For Boone Health RN, LPN's and RRT Requests  *A VIRTUAL INTERVIEW WILL BE SENT TO YOUR CANDIDATE TO COMPLETE PRIOR TO SUBMITTING TO THE HOSPTIAL FOR CONSIDERATION**  **PLEASE BE SURE TO HAVE A COMPLETE PACKET OR YOUR CANDIDATE WILL BE DENIED**  **CHECKLIST IS ATTACHED AND MUST BE THE FIRST PAGE OF THE SUBMISSION PACKET**   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261313;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Boone Hospital Center
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

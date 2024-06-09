@@ -1,0 +1,581 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7087',
+  'Cf-Ray' => '82e75d4045711466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL-Surgical Tech (701)-6:30AM-7:00PM
+
+Start Date:asapAssignment Length: 13 Weeks
+
+****On call is required*****
+ General CommentsUnit Information:
+   Operating Room             Location: Operating Room             
+Address: 2801   DeBarr Rd. Anchorage, AK 99508
+         
+Floor: 2nd
+             
+Building: Main   Hospital
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   11 ORs
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+75 in OR
+   
+ 
+
+
+
+
+
+
+
+   Shift for the Traveler --- 12 hour   Days 0630-1900
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   Approx 14 RN, 14 Surg   Techs, 1 FA, 1 Charge, 1 Supervisor
+   
+o
+
+
+   Night Shift   1 RN, 1 Surg Tech +   on-call
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   1:1
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment - 
+   
+ 
+
+
+
+
+
+
+
+   EMR   Epic
+   
+ 
+
+
+
+
+
+
+
+   On Call Requirements RN and Tech     Usually b/w 2 and 5 shifts per month, 1 -2 on a weekend day
+   
+ 
+
+
+
+
+
+
+
+   Weekend Requirements: Call. See above
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+Min 2 years OR experience
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+Strong ortho, neuro, spine, CV, and/or   robotic experience
+    
+
+
+
+
+
+
+
+   
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+
+Spine Fusions, Total Joints, da Vinci   robotic surgery
+    
+
+
+
+
+
+
+
+   
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Friendly, willing to learn
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   BLS 
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   None
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ Hospital provided   surgery green
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+
+
+             Weekends and On call. Any additional information     
+
+
+
+
+
+
+
+   See above for weekend and call requirements.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 542961
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1263
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 30 2023 19:55:22
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=766945 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=Alaska Regional Hospital AK ;City=ANCHORAGE ;State=AK ;Zip=99508 ;Start=11/13/2023;End=2/12/2024;Duration=91;Cert=Scrub Tech ;Specialty=OR ;Unit=MOUNTAIN DIVISION (15) ;Shift=6:30AM-7:00PM;# of Postions=3;Type=Travel;BillRate=$85.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL-Surgical Tech (701)-6:30AM-7:00PM
+
+Start Date:asapAssignment Length: 13 Weeks
+
+****On call is required*****
+ General CommentsUnit Information:
+   Operating Room             Location: Operating Room             
+Address: 2801   DeBarr Rd. Anchorage, AK 99508
+         
+Floor: 2nd
+             
+Building: Main   Hospital
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   11 ORs
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+75 in OR
+   
+ 
+
+
+
+
+
+
+
+   Shift for the Traveler --- 12 hour   Days 0630-1900
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   Approx 14 RN, 14 Surg   Techs, 1 FA, 1 Charge, 1 Supervisor
+   
+o
+
+
+   Night Shift   1 RN, 1 Surg Tech +   on-call
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   1:1
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment - 
+   
+ 
+
+
+
+
+
+
+
+   EMR   Epic
+   
+ 
+
+
+
+
+
+
+
+   On Call Requirements RN and Tech     Usually b/w 2 and 5 shifts per month, 1 -2 on a weekend day
+   
+ 
+
+
+
+
+
+
+
+   Weekend Requirements: Call. See above
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+Min 2 years OR experience
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+Strong ortho, neuro, spine, CV, and/or   robotic experience
+    
+
+
+
+
+
+
+
+   
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+
+Spine Fusions, Total Joints, da Vinci   robotic surgery
+    
+
+
+
+
+
+
+
+   
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Friendly, willing to learn
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   BLS 
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   None
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ Hospital provided   surgery green
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+
+
+             Weekends and On call. Any additional information     
+
+
+
+
+
+
+
+   See above for weekend and call requirements.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/766945;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Alaska Regional Hospital AK
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 06:30
+    [subjectID] => 
+)

@@ -1,0 +1,150 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8615',
+  'Cf-Ray' => '82d60c78f1f61832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => **MUST HAVE ICU EXPERIENCE TO BE CONSIDERED**
+
+This unique department is comprised of small specialty groups of highly skilled experts that support patient care throughout the hospital. Bozeman Health nursing pool is where nurses are scheduled and work in a variety of departments as well as have the opportunity to cross train and support specialty departments. This nursing pool values professionalism teamwork and accountability. 
+
+The registered nurse is accountable for the coordination of nursing care, including direct patient care patient/family education and transition of care. The RN will function within the Bozeman Health standards of care which include accountability for planning, implementing, evaluating and communication all phases of nursing care for assigned patients. The RN possesses excellent communication skills.
+
+Qualifications:
+
+  Montana Licensure (Registered Nurse)  American Heart Association BLS  Knowledge of electronic health record operating systems  Minimal 2 year experience with inpatient nursing.   Additional specialty certification/training as required by the work area. (May include for example TNCC, PALS, ENPC)
+Essential Job Functions:
+
+  Collects Comprehensive data pertinent to the patient s health or the situation (Assessment)
+
+  Analyzes the assessment data to determine diagnoses or issues (Diagnosis)
+
+  Identifies expected outcomes for a plan individualized to the patient or the situation 
+
+  Develops a plan that prescribes strategies and alternatives to attain expected outcomes (Plan of Care)
+
+  Implements the identified plan of care
+
+  Employs strategies to promote health and a safe environment
+
+  Systematically enhances the quality and effectiveness of nursing practice
+
+  Attains knowledge and competency that reflects current nursing practice
+
+  Evaluates one s own nursing practice in relation to professional practice standards and guidelines, relevant statutes, rules and regulations
+
+  Interacts with and contributes to the professional development of peers and colleagues
+
+  Collaborates with patient, family and others in the conduct of nursing practice
+
+  Integrates ethical provisions in all areas of practice
+
+  Integrates research findings into practice 
+
+  Provides leadership in the professional practice setting and the profession
+
+Knowledge, Skills and Abilities
+  Demonstrates sound judgement, patience, and maintains a professional demeanor at all times  Ability to work in a busy and stressful environment  Creativity, problem analysis and decision making  Ability to work varied shifts  Exercises tact, discretion, sensitivity and maintains confidentiality  Self-directed, completes assignments accurately, thoroughly and with minimal oversight  Strong emotional intelligence, interpersonal and teamwork skills  Stroke Competency:
+o Complies with hospital policies, procedures, protocols, and guidelines related to care for patients with hyperacute and acute stroke
+
+o Participates in two hours of initial cerebrovascular disease (stoke) education within one year of hire 
+
+o Participates in one hour annually of cerebrovascular disease (stroke) education   Additional Information:Candidates must live at least 90 miles from facility to be considered for assignment. Do not submit candidates living less than 90 miles from facility.   Position Urgency:Normal Billing string = Bozeman Deaconess Hospital
+    [sitename] => giftednurses
+    [spec] => IMC
+    [assignmentid] => 546273
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1356
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 28 2023 17:29:14
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262286 ;Status=Open;Association=Bozeman Deaconess Hospital ;Client=Bozeman Deaconess Hospital ;City=Bozeman ;State=MT ;Zip=59715 ;Start=11/28/2023;End=2/27/2024;Duration=91;Cert=Nursing ;Specialty=IMC (Intermediate Care), Med-surg Peds, Med-surg Adult, Intensive Care / Coronary Nurse (ICU) ;Unit=IMC (Intermediate Care), Med-surg Peds, Med-surg Adult, Intensive Care / Coronary Nurse (ICU) ;Shift=Shifts will be three 12s with a variety of days / nights / weekends / holiday;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$95.00;OTRate=100 ;OTRules=By The Week, after 36, ;CallbackRate=100 (All Inclusive Rate + $5) ;HolidayRate=100 (All Inclusive Rate + $5) ;OnCallRateDescription=No Call ;Description=**MUST HAVE ICU EXPERIENCE TO BE CONSIDERED**
+
+This unique department is comprised of small specialty groups of highly skilled experts that support patient care throughout the hospital. Bozeman Health nursing pool is where nurses are scheduled and work in a variety of departments as well as have the opportunity to cross train and support specialty departments. This nursing pool values professionalism teamwork and accountability. 
+
+The registered nurse is accountable for the coordination of nursing care, including direct patient care patient/family education and transition of care. The RN will function within the Bozeman Health standards of care which include accountability for planning, implementing, evaluating and communication all phases of nursing care for assigned patients. The RN possesses excellent communication skills.
+
+Qualifications:
+
+  Montana Licensure (Registered Nurse)  American Heart Association BLS  Knowledge of electronic health record operating systems  Minimal 2 year experience with inpatient nursing.   Additional specialty certification/training as required by the work area. (May include for example TNCC, PALS, ENPC)
+Essential Job Functions:
+
+  Collects Comprehensive data pertinent to the patient s health or the situation (Assessment)
+
+  Analyzes the assessment data to determine diagnoses or issues (Diagnosis)
+
+  Identifies expected outcomes for a plan individualized to the patient or the situation 
+
+  Develops a plan that prescribes strategies and alternatives to attain expected outcomes (Plan of Care)
+
+  Implements the identified plan of care
+
+  Employs strategies to promote health and a safe environment
+
+  Systematically enhances the quality and effectiveness of nursing practice
+
+  Attains knowledge and competency that reflects current nursing practice
+
+  Evaluates one s own nursing practice in relation to professional practice standards and guidelines, relevant statutes, rules and regulations
+
+  Interacts with and contributes to the professional development of peers and colleagues
+
+  Collaborates with patient, family and others in the conduct of nursing practice
+
+  Integrates ethical provisions in all areas of practice
+
+  Integrates research findings into practice 
+
+  Provides leadership in the professional practice setting and the profession
+
+Knowledge, Skills and Abilities
+  Demonstrates sound judgement, patience, and maintains a professional demeanor at all times  Ability to work in a busy and stressful environment  Creativity, problem analysis and decision making  Ability to work varied shifts  Exercises tact, discretion, sensitivity and maintains confidentiality  Self-directed, completes assignments accurately, thoroughly and with minimal oversight  Strong emotional intelligence, interpersonal and teamwork skills  Stroke Competency:
+o Complies with hospital policies, procedures, protocols, and guidelines related to care for patients with hyperacute and acute stroke
+
+o Participates in two hours of initial cerebrovascular disease (stoke) education within one year of hire 
+
+o Participates in one hour annually of cerebrovascular disease (stroke) education   Additional Information:Candidates must live at least 90 miles from facility to be considered for assignment. Do not submit candidates living less than 90 miles from facility.   Position Urgency:Normal Billing string = Bozeman Deaconess Hospital ;url=https://vms.medefis5.com/jobs/262286;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Bozeman Deaconess Hospital Travel
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

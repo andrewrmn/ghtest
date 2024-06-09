@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2764',
+  'Cf-Ray' => '82b36e4b340f23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => RN Case Manager with experience as follows:Must have strong Discharge Planning experience.Conducting patient initial assessmentsAcute Care hospital experienceEPIC EMR documentation experienceActive CA RN LicenseMonday through Friday - 0800 to 1630 / alternating weekends.Eight hour shifts only.40 hours guaranteed.   Additional Information:There will be up to 36 hours of call off available to the facility at no cost during the course of the assignment.  Please ensure attention to requested facility start date.   Any candidate that is submitted with start dates more than 2 weeks after requested start date will be automatically declined.   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MRI
+    [assignmentid] => 543557
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 2192
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => MRI Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 24 2023 12:39:17
+    [daysPerWeek] => 5
+    [orderNote] => Source=Medefis5;SourceID=261456 ;Status=Open;Association=MarinHealth Medical Center ;Client=MarinHealth Medical Center ;City=Greenbrae ;State=CA ;Zip=94904 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Nursing ;Specialty=Care Manager, MRI Technologist ;Unit=Care Manager, MRI Technologist ;Shift=Day shift (0800-1630);# of Postions=3;Guaranteed Hours=40;Type=Travel;BillRate=$112.00;OTRate=122 ;OTRules=By The Week, after 40, ;HolidayRate=122 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=RN Case Manager with experience as follows:Must have strong Discharge Planning experience.Conducting patient initial assessmentsAcute Care hospital experienceEPIC EMR documentation experienceActive CA RN LicenseMonday through Friday - 0800 to 1630 / alternating weekends.Eight hour shifts only.40 hours guaranteed.   Additional Information:There will be up to 36 hours of call off available to the facility at no cost during the course of the assignment.  Please ensure attention to requested facility start date.   Any candidate that is submitted with start dates more than 2 weeks after requested start date will be automatically declined.   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261456;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 112
+    [facilityName] => Marin General Hospital Travel
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 08:00
+    [subjectID] => 
+)

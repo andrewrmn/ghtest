@@ -1,0 +1,232 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6842',
+  'Cf-Ray' => '8346c3eda4106a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name 7 East Medical Admit Unit-RN-Mercy St. Louis
+  
+Facility Mercy
+  
+Location Mercy Hospital St. Louis
+  
+Unit Medical Surgical Unit / Medical Surgical Telemetry
+  
+Cost Center 154006062
+
+
+Unit's typical ratio is 4-6:1
+
+Approximately 50% Medical / 50% Tele
+
+
+** flexible on contract length up to 26 weeks**
+
+
+FLU
+and
+COVID-19:
+
+
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.
+  SHIFT INFO  
+Shift night
+  
+Shifts per week 4
+  
+Hours per shift 12
+  EXPERIENCE  
+Years of Experience Two Years Plus Tele required
+  
+Specialties
+  
+Med-Surg
+-
+required
+ Tele
+-
+required
+  CERTIFICATIONS  
+Certifications
+  
+
+ NIHSS
+-
+required
+ BLS
+-
+required
+ ACLS
+-
+required
+  DESCRIPTION  
+Unit: Admit Unit 
+  
+Specialty: RN 
+  
+Location: St. Louis 
+  
+Overview: Performs direct patient care activities for all age groups to include assessment, planning, implementation, and evaluation. Monitors and coordinates patient care activities with ancillary departments to optimize patient care and comfort. Functions within the scope of nursing preparation and consistent with the established guidelines of nursing practice, the Missouri Nurse Practice Act, Mercy Code of Conduct, Mercy Mission and Values and Mercy Service Standards. 
+  
+Qualifications: 
+  
+Education: Graduate of a state approved professional nurse program. 
+  
+Licensure: Current RN licensure with Missouri State Board of Nursing
+ General CommentsSt. Louis Hospital Offering Nationally Recognized Care
+  
+Mercy Hospital St. Louis has been a healing presence in the St. Louis region for more than 150 years. Today, we continue providing compassionate medical and specialty care on our centrally located campus at I-270 and
+I-64/US 40.
+We offer all-private rooms and the peace of mind of our nationally-recognized care. Mercy's hospital in St. Louis has been recognized numerous times including:
+    CMS Five-Star Hospital     Leapfrog Straight A      Hospital  2020 Top Hospital Award
+by      Leapfrog     100 Top Hospital by Watson      Health  Level I Time      Critical Diagnosis
+(TCD) STEMI Center     Top 50 Nation s Best      Hospital
+by Newsweek magazine   
+
+
+  
+Featured Medical Services
+  
+At Mercy Hospital St. Louis, you have an entire care team bringing a wealth of expertise to you on one campus. Our
+St. Louis hospital specialty services
+include oncology, cardiovascular care, obstetrics, women s health, pediatrics, emergency services, burn care, stroke care, behavioral health, home health and many others.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 542467
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8384
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-31
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 12 2023 09:47:48
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=773451 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital St Louis ;City=Saint Louis ;State=MO ;Zip=63141 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=Mercy ;Shift=19:00-07:00;# of Postions=3;Type=Travel;BillRate=$90.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Name 7 East Medical Admit Unit-RN-Mercy St. Louis
+  
+Facility Mercy
+  
+Location Mercy Hospital St. Louis
+  
+Unit Medical Surgical Unit / Medical Surgical Telemetry
+  
+Cost Center 154006062
+
+
+Unit's typical ratio is 4-6:1
+
+Approximately 50% Medical / 50% Tele
+
+
+** flexible on contract length up to 26 weeks**
+
+
+FLU
+and
+COVID-19:
+
+
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.
+  SHIFT INFO  
+Shift night
+  
+Shifts per week 4
+  
+Hours per shift 12
+  EXPERIENCE  
+Years of Experience Two Years Plus Tele required
+  
+Specialties
+  
+Med-Surg
+-
+required
+ Tele
+-
+required
+  CERTIFICATIONS  
+Certifications
+  
+
+ NIHSS
+-
+required
+ BLS
+-
+required
+ ACLS
+-
+required
+  DESCRIPTION  
+Unit: Admit Unit 
+  
+Specialty: RN 
+  
+Location: St. Louis 
+  
+Overview: Performs direct patient care activities for all age groups to include assessment, planning, implementation, and evaluation. Monitors and coordinates patient care activities with ancillary departments to optimize patient care and comfort. Functions within the scope of nursing preparation and consistent with the established guidelines of nursing practice, the Missouri Nurse Practice Act, Mercy Code of Conduct, Mercy Mission and Values and Mercy Service Standards. 
+  
+Qualifications: 
+  
+Education: Graduate of a state approved professional nurse program. 
+  
+Licensure: Current RN licensure with Missouri State Board of Nursing
+ General CommentsSt. Louis Hospital Offering Nationally Recognized Care
+  
+Mercy Hospital St. Louis has been a healing presence in the St. Louis region for more than 150 years. Today, we continue providing compassionate medical and specialty care on our centrally located campus at I-270 and
+I-64/US 40.
+We offer all-private rooms and the peace of mind of our nationally-recognized care. Mercy's hospital in St. Louis has been recognized numerous times including:
+    CMS Five-Star Hospital     Leapfrog Straight A      Hospital  2020 Top Hospital Award
+by      Leapfrog     100 Top Hospital by Watson      Health  Level I Time      Critical Diagnosis
+(TCD) STEMI Center     Top 50 Nation s Best      Hospital
+by Newsweek magazine   
+
+
+  
+Featured Medical Services
+  
+At Mercy Hospital St. Louis, you have an entire care team bringing a wealth of expertise to you on one campus. Our
+St. Louis hospital specialty services
+include oncology, cardiovascular care, obstetrics, women s health, pediatrics, emergency services, burn care, stroke care, behavioral health, home health and many others.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/773451;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Mercy Hospital St. Louis - HT
+    [shiftDateEnd] => 2024-03-31
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

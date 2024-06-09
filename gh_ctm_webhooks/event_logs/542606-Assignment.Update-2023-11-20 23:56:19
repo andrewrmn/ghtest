@@ -1,0 +1,181 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4174',
+  'Cf-Ray' => '8294a0fcb158183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Data Collection:
+
+Unit Information:
+ (insert name)
+
+Location: HCA Houston Healthcare Southeast
+
+Address:4000 Spencer Highway
+
+Floor: First
+
+Building: Main Hospital
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds -345Number of Staff   20Type of staff: RRT\CRT 24/7 CoverageDay Shift   (example 1 charge, 3 RN, 2 CNA, and 1-3 sitters) 5 RRTNight Shift - 5 RRTPatient Ratios   40-45 UOSType of equipment   PB980,V60,Vapotherm,Comfort Flow, VolaraEMR -Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+
+BLSACLS
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+PALS/NRP
+RRTNICU experience
+List typical procedures performed on unit(s): 
+
+ABG s, Aerosol Treatment, MDI
+ 
+Ventilator management/weaning
+Best personality Fit:
+Team oriented
+REQUIRED CERTIFICATIONS:
+Texas License, RRT or CRT from NBRC and BLS/ACLS
+Floating Area(s):
+None
+Dress Code: 
+Scrub Color/Attire - Pewter Scrubs
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+HCA policies and Procedures- Follow AARC practice guidelines
+
+
+
+Weekends and On call(if any)
+Weekends rotate- No on call
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 542606
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9167
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-20
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RRT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 20 2023 18:56:04
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=769890 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA HOUSTON SOUTHEAST ;City=Pasadena ;State=TX ;Zip=77504 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=RRT ;Specialty=Respiratory Therapy ;Unit=GULF COAST DIVISION (14) ;Shift=7P-7A;# of Postions=1;Type=Travel;BillRate=$55.00;OTRate=63 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Data Collection:
+
+Unit Information:
+ (insert name)
+
+Location: HCA Houston Healthcare Southeast
+
+Address:4000 Spencer Highway
+
+Floor: First
+
+Building: Main Hospital
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds -345Number of Staff   20Type of staff: RRT\CRT 24/7 CoverageDay Shift   (example 1 charge, 3 RN, 2 CNA, and 1-3 sitters) 5 RRTNight Shift - 5 RRTPatient Ratios   40-45 UOSType of equipment   PB980,V60,Vapotherm,Comfort Flow, VolaraEMR -Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+
+BLSACLS
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+PALS/NRP
+RRTNICU experience
+List typical procedures performed on unit(s): 
+
+ABG s, Aerosol Treatment, MDI
+ 
+Ventilator management/weaning
+Best personality Fit:
+Team oriented
+REQUIRED CERTIFICATIONS:
+Texas License, RRT or CRT from NBRC and BLS/ACLS
+Floating Area(s):
+None
+Dress Code: 
+Scrub Color/Attire - Pewter Scrubs
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+HCA policies and Procedures- Follow AARC practice guidelines
+
+
+
+Weekends and On call(if any)
+Weekends rotate- No on call
+ General Comments
+ No. of Positions: 1/2. ;url=https://vendor.healthtrustws.com/positions/769890;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 55
+    [facilityName] => Bayshore Medical Center
+    [shiftDateEnd] => 2024-02-19
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

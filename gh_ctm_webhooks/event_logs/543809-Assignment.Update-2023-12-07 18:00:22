@@ -1,0 +1,90 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '29',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4820',
+  'Cf-Ray' => '831eaaed81564961-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 2 years minimum of Current Critical Care, Telemetry experience | BLS, ACLS, EKG Course/ Telemetry test, NIHSS required | 3 days a week with rotating weekends and holidays| Integris requires contractors to know floating may be a requirement 
+
+DRIVER'S LICENSE MUST BE INCLUDED WITH SUBMISSION 
+
+NO MORE THAN 5 DAYS OF RTO WILL BE ACCEPTED  
+
+Backfill for Carren Fletcher
+
+ Modified Time:12/5/2023 12:00:00 AM
+ Account Manager: Jennifer Davis
+ Account Manager Email: Jennifer.Davis@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceNeed 2 weeks/ 14 calendar days + (confirm with CL if Quick Starts are okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance.RN &amp; Allied Travelers - A copy of traveler s valid State Issued Driver s License or State ID MUST be attached to ALL submittalsRN candidates only - Must have compact license to applyAmerican Heart Association certs requiredNo more than&nbsp;5&nbsp;days of RTO will be accepted per every 13 weeksFloating: All candidates must be willing to float to other areas   even if that is another Integris facility, up to 75 miles.&nbsp; Do not sub unless the traveler is aware and willing to float.Traveler must have a minimum of 1 year separation from INTEGRIS as an employee to be eligible for submissionCandidates within&nbsp;75 miles&nbsp;are considered local travelers and are&nbsp;NOT&nbsp;eligible to apply at Integris.ER candidates only: $32 for ESI certification not included in the BROrientation - held every OTHER Tuesday: 11/14/23, 11/28/23, 12/5/23, 12/19/23, 1/9/24, 1/24/24, etc.DOES NOT ACCEPT TRAVEL PAIRS
+    [sitename] => giftednurses
+    [spec] => IMC
+    [assignmentid] => 543809
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13233
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-09
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => December, 07 2023 13:00:21
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2301404 ;Status=Open;Association=Vaya Legacy MSP (Connect) ;Client=INTEGRIS Health Southwest Medical Center - OK ;City=Oklahoma City ;State=OK ;Zip=73109 ;Start=1/9/2024;End=4/9/2024;Duration=91;Cert=Registered Nurse ;Specialty=IMC ;Unit=2003032 - 4th Floor IMC ;Shift=Night 3x12-Hour (19:00 - 07:30);# of Postions=1;Type=Travel;BillRate=$96.00;OTRules=40 total hours in 1 week : 1.4% ;Orientation=8 ;Description=2 years minimum of Current Critical Care, Telemetry experience | BLS, ACLS, EKG Course/ Telemetry test, NIHSS required | 3 days a week with rotating weekends and holidays| Integris requires contractors to know floating may be a requirement 
+
+DRIVER'S LICENSE MUST BE INCLUDED WITH SUBMISSION 
+
+NO MORE THAN 5 DAYS OF RTO WILL BE ACCEPTED  
+
+Backfill for Carren Fletcher
+
+ Absolutely NO HOLIDAY RTO can be requested (it will be an automatic removal if Holiday RTO is requested at any point)
+
+ Modified Time:1/9/2024 12:00:00 AM
+ Account Manager: Jennifer Davis
+ Account Manager Email: Jennifer.Davis@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Med
+ Submittal Details: #Tier2 Travel ComplianceA copy of traveler s valid State Issued Driver s License or State ID MUST be attached to each submittalMust have compact license to applyAmerican Heart Association certs requiredNo more than&nbsp;5&nbsp;days of RTO will be accepted per every 13 weeks (NO HOLIDAY RTO at all)Floating: All candidates must be willing to float to other areas   even if that is another Integris facility, up to 75 miles.&nbsp; Do not sub unless the traveler is aware and willing to float.Traveler must have a minimum of 1 year separation from INTEGRIS as an employee to be eligible for submissionCandidates within&nbsp;75 miles&nbsp;are considered local travelers and are&nbsp;NOT&nbsp;eligible to apply at Integris.ER candidates only: $32 for ESI certification not included in the BROrientation - held every OTHER Tuesday: 11/14/23, 11/28/23, 12/5/23, 12/19/23, 1/9/24, 1/23/24, etc.DOES NOT ACCEPT TRAVEL PAIRS ;url=https://app.ayaconnect.com/index.html#/vendor/job/2301404/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 96
+    [facilityName] => INTEGRIS Southwest Medical Center Travel
+    [shiftDateEnd] => 2024-04-09
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

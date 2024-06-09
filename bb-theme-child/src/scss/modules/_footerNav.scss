@@ -1,0 +1,81 @@
+.footerNav{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  line-height: 22px;
+
+  > li > a{
+    font-weight: bold;
+    text-decoration: none !important;
+  }
+
+  .sub-menu{
+    padding: 20px 0;
+    list-style: none;
+
+
+    li + li {
+      margin-top: 20px;
+    }
+  }
+
+  @media screen and (max-width: 710px){
+    grid-template-columns: 1fr;
+    gap: 0;
+
+    > li {
+      border-bottom: 1px solid #DCDCDC;
+
+      > a{
+        display: block;
+        position: relative;
+        padding: 14px 30px 14px 0;
+
+        &::after,
+        &::before{
+          content: '';
+          position: absolute;
+          width: 14px;
+          height: 2px;
+          top: 24px;
+          right: 0;
+          background: $color-teal;
+          transition: all 0.2s ease;
+        }
+
+        &::after{
+          transform: rotate(90deg);
+        }
+      }
+    }
+
+    li.is-open{
+      > a::after{
+        transform: rotate(0);
+      }
+    }
+
+    .sub-menu{
+      transform-origin: top center;
+      padding-top: 6px;
+      display: none;
+      animation: footerNavSubMenu 0.3s ease;
+    }
+
+    li.is-open{
+      > .sub-menu{
+        display: block;
+      }
+    }
+  }
+
+}
+
+@keyframes footerNavSubMenu {
+  from{ opacity: 0; transform: scaleY(0.8) }
+  to{ opacity: 1; transform: scaleY(1) }
+}

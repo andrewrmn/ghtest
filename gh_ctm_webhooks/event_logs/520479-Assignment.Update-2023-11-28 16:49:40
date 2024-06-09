@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '20',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '960',
+  'Cf-Ray' => '82d41b0430eb493d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By RN; Clinician Not Willing to Return
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 520479
+    [workerID] => 204688
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 16046
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-09-11
+    [workerLastName] => Rodriguez
+    [shiftNum] => 4
+    [workerFirstName] => Nathaniel
+    [cert] => RN
+    [floorDesc] => ED
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 28 2023 11:49:39
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$105lRS:132393lFTK:API
+ChrgDiff:P$1/B$3lOnCl:P$10/B$18
+    [guaranteedMinimum] => 
+    [workerEmail] => Nathanielrodriguez41@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => AHS - Morristown Medical Center
+    [shiftDateEnd] => 2023-11-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

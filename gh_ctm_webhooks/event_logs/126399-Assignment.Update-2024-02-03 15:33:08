@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '53',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2246',
+  'Cf-Ray' => '84fbbb0725147b12-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 06/25/2020 1143 MDTTricia Wichtoski
+                            
+                            
+                                ***Bill rate 90.00 for an experienced pediatric CVOR nurse. Must have 2yrs experience with general understanding of ECMO procedure. **Must have pediatric experience. IVS/Montage with NM to make final offer.
+ RatePlan:AH-STANDARD TRAVEL RATE
+    [sitename] => giftednurses
+    [spec] => CVOR
+    [assignmentid] => 126399
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2478
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-08-03
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => February, 03 2024 10:32:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=Shiftwise;SourceID=8775889 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Dell Children's Medical Center ;City=Austin ;State=TX ;Zip=78723 ;Start=7/13/2020;End=10/12/2020;Duration=92;Cert=RN ;Specialty=CVOR ;Unit=DCMC Surgical Services ;Shift=AM 10.00 Hrs;# of Postions=1;Type=Travel;minBillRate=$80.32;OTRate=Multiplier 1.35 x Std1.350 ;OTRules=Multiplier 1.35 x Std1.350 ;ChargeRate=Additive Std + $4.004.000 ;CallbackRate=Multiplier 1.35 x Std1.350 ;HolidayRate=Multiplier 1.35 x Std1.350 ;OnCallRateDescription=Flat $6.006.000 ;Orientation=Flat $0.000.000 ;Description=06/25/2020 1143 MDTTricia Wichtoski
+                            
+                            
+                                ***Bill rate 90.00 for an experienced pediatric CVOR nurse. Must have 2yrs experience with general understanding of ECMO procedure. **Must have pediatric experience. IVS/Montage with NM to make final offer.
+ RatePlan:AH-STANDARD TRAVEL RATE ;url=https://secure.shiftwise.net/esp/order.aspx?order_id=C9CAAB6A5E824C18C355D7502F14835A;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80.32
+    [facilityName] => Dell Children's Medical Center
+    [shiftDateEnd] => 2020-11-02
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1301',
+  'Cf-Ray' => '82d79b9ab3f31463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 4 x 10hr   on call rotation
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 538714
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7664
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => November, 28 2023 22:01:44
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=47909 ;Status=In-Progress (O);Association=Trinity Health ;Client=NY - Samaritan ;City=Troy ;State=NY ;Zip=12180 ;Start=11/26/2023;End=2/24/2024;Duration=90;Cert=RN Surgery ;Specialty=Operating Room ;Unit=*Registered Nurse-OR-Operating Room ;Shift=Day : 0700-1930;# of Postions=1;Type=Travel;BillRate=$97.00;OTRate=126.10 ;ChargeRate=100.00 ;CallbackRate=126.10 ;HolidayRate=126.10 ;Description=4 x 10hr   on call rotation ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 97
+    [facilityName] => Samaritan Hospital TRAVEL
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

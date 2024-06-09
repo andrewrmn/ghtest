@@ -1,0 +1,410 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6436',
+  'Cf-Ray' => '83be900c420b23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Hospital:
+ Horizon   Medical Center             Location: Dickson, TN             
+Address: 111   Highway 70 East
+         
+Unit Name: PCU
+             
+Building: Main   building 
+         
+Cost Center: 606
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds : 12
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios : 3-4:1
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) : 1 Nurse Tech
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment : GE
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: 36 hours a   week every other weekend
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: Floats to ICU and ICU   overflow unit
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements:
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:   ACLS, PALS, BLS
+             Hiring profile             Requested Skill Set:    
+   
+Must have: 
+   
+
+PCU experience
+   
+
+
+   Advanced skills needed: Strong critical   thinking skills and communication skills   
+
+
+   
+   Procedures performed on unit: 
+
+PICC,   chest tubes, thoracentesis, trachs, INDs,    
+
+
+   
+
+
+   Certifications Required: ACLS, PALS, BLS   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   Galaxy Blue or Pewter scrubs 
+
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   Will give   during education onboarding with facility educator.
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+
+
+   One of the highest-ranking facilities   in all of HCA for quality and staff engagement.
+
+ 
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+
+
+
+
+
+
+
+   Expanding   service lines and acuity,
+ General Comments
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 543154
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7309
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-14
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 26 2023 22:44:01
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=726997 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HORIZON MEDICAL CENTER TN ;City=DICKSON ;State=TN ;Zip=37055 ;Start=11/28/2023;End=2/27/2024;Duration=91;Cert=RN ;Specialty=PCU ;Unit=TRISTAR DIVISION (7) ;Shift=7:00PM-7:00AM;# of Postions=2;Type=Travel;BillRate=$73.00;minBillRate=$73.00;OTRate=81 ;CallbackRate=81 ;HolidayRate=81 ;Orientation=0 ;Description=Description:Hospital:
+ Horizon   Medical Center             Location: Dickson, TN             
+Address: 111   Highway 70 East
+         
+Unit Name: PCU
+             
+Building: Main   building 
+         
+Cost Center: 606
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds : 12
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios : 3-4:1
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) : 1 Nurse Tech
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment : GE
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: 36 hours a   week every other weekend
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: Floats to ICU and ICU   overflow unit
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements:
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:   ACLS, PALS, BLS
+             Hiring profile             Requested Skill Set:    
+   
+Must have: 
+   
+
+PCU experience
+   
+
+
+   Advanced skills needed: Strong critical   thinking skills and communication skills   
+
+
+   
+   Procedures performed on unit: 
+
+PICC,   chest tubes, thoracentesis, trachs, INDs,    
+
+
+   
+
+
+   Certifications Required: ACLS, PALS, BLS   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   Galaxy Blue or Pewter scrubs 
+
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   Will give   during education onboarding with facility educator.
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+
+
+   One of the highest-ranking facilities   in all of HCA for quality and staff engagement.
+
+ 
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+
+
+
+
+
+
+
+   Expanding   service lines and acuity,
+ General Comments
+ No. of Positions: 2/2. ;url=https://vendor.healthtrustws.com/positions/726997;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 73
+    [facilityName] => Horizon Medical Center
+    [shiftDateEnd] => 2024-04-14
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

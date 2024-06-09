@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8245',
+  'Cf-Ray' => '827b593e140e23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Fingerprinting must be submitted and cleared prior to start! Must have experience in MedSurg!!! Tuba City Regional Healthcare does not require your RN to have an AZ state license, a nursing license from any state of the United States of America is acceptable. Basic Life Support (BLS) and Advanced Cardiac Life Support (ACLS) from the American Heart Association is required.*COVID 19 vaccination is MANDATORY and worker must be fully vaccinated 2 weeks prior to start date. Declination is considered for Medical reasons ONLY with appropriate documentation and is subject to confirmation & review. The Registered Nurse performs a variety of responsible nursing care procedures on this 30 bed adult med/surg unit. Overtime after 40 hrs a week or 80 hrs a pay period or over the 7 shifts. Requiring professional knowledge and consideration of specific patient conditions and treatments and ability to work independently in completing assignments. Guidelines include doctors' orders, standards of care, nursing policies and procedures manuals, hospital policies. As a member of the health care team, serves as Clinical Nurse performing professional nursing duties for the care of inpatients. Nursing duties include the provision of patient care and support to individuals of all ages and their families.Tuba City Regional Health Care Corporation, a JCAHO accredited health center, provides services to a 4,400 square mile area and serves as a referral center for the western part of the Navajo and Hopi Reservations. The hospital was constructed in 1975 with a bed capacity of 73. Services provided to the community include comprehensive inpatient/outpatient emergency services, dental and ophthalmology services, orthopedics, OB/GYN, oral surgery, eye surgery and urological procedures. Approximately 49% of the surgeries performed are out patient/ambulatory surgical procedures. Learn more about our organization. The Tuba City Regional Health Care Corporation is located in Northwestern Arizona on the land known as the Colorado Plateau. This semi-desert landscape varies in elevation from 4,400 in the Little Colorado River Valley to nearly 7,000 feet at Preston Mesa. The unique community of Tuba City offers a culturally rich environment. The Native American tribes located and served here are the Navajo, Hopi, and Southern Paiute. This mixture along with Anglo, Hispanic, and African American employees of the hospital and school systems make a pleasantly diverse community. The staff of medical providers includes surgeons, general medical officers, internal medicine, psychiatrists, pediatricians, family practice physicians, obstetricians, ENT specialists, orthopedic surgeons, and urologists. Dental staff includes general dentists, endodontists, oral and maxillofacial surgeons, pediatric dentists, dental assistants and hygienists. The nursing staff includes registered nurses, licensed practical nurses, nursing assistants, community health nurses, nurse practitioners, nurse midwives, CRNA, and community health medics.   Additional Information:ORIENTATION: Every two (2) weeks only. COVID EXEMPTIONS: We do not accept religious exemptions. If a candidate submits for a medical exemption, we will have to get approval from our medical review board to proceed with onboarding. HOUSING APPLICATION: must be submitted 2 weeks prior to start date - form uploaded in Medefis   Position Urgency:Normal Billing string = Tuba City Regional
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544923
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1338
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 17 2023 17:18:16
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261857 ;Status=Open;Association=Tuba City Regional ;Client=Tuba City Regional ;City=Tuba City ;State=AZ ;Zip=86045 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Nursing ;Specialty=ACU ;Unit=ACU ;Shift=Night Shift 11.5 hr shifts per 2 wk pay period, every other weekend;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$95.00;OTRate=105 ;OTRules=By The Week, after 40, ;CallbackRate=95 (All Inclusive Rate) ;HolidayRate=95 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=Fingerprinting must be submitted and cleared prior to start! Must have experience in MedSurg!!! Tuba City Regional Healthcare does not require your RN to have an AZ state license, a nursing license from any state of the United States of America is acceptable. Basic Life Support (BLS) and Advanced Cardiac Life Support (ACLS) from the American Heart Association is required.*COVID 19 vaccination is MANDATORY and worker must be fully vaccinated 2 weeks prior to start date. Declination is considered for Medical reasons ONLY with appropriate documentation and is subject to confirmation & review. The Registered Nurse performs a variety of responsible nursing care procedures on this 30 bed adult med/surg unit. Overtime after 40 hrs a week or 80 hrs a pay period or over the 7 shifts. Requiring professional knowledge and consideration of specific patient conditions and treatments and ability to work independently in completing assignments. Guidelines include doctors' orders, standards of care, nursing policies and procedures manuals, hospital policies. As a member of the health care team, serves as Clinical Nurse performing professional nursing duties for the care of inpatients. Nursing duties include the provision of patient care and support to individuals of all ages and their families.Tuba City Regional Health Care Corporation, a JCAHO accredited health center, provides services to a 4,400 square mile area and serves as a referral center for the western part of the Navajo and Hopi Reservations. The hospital was constructed in 1975 with a bed capacity of 73. Services provided to the community include comprehensive inpatient/outpatient emergency services, dental and ophthalmology services, orthopedics, OB/GYN, oral surgery, eye surgery and urological procedures. Approximately 49% of the surgeries performed are out patient/ambulatory surgical procedures. Learn more about our organization. The Tuba City Regional Health Care Corporation is located in Northwestern Arizona on the land known as the Colorado Plateau. This semi-desert landscape varies in elevation from 4,400 in the Little Colorado River Valley to nearly 7,000 feet at Preston Mesa. The unique community of Tuba City offers a culturally rich environment. The Native American tribes located and served here are the Navajo, Hopi, and Southern Paiute. This mixture along with Anglo, Hispanic, and African American employees of the hospital and school systems make a pleasantly diverse community. The staff of medical providers includes surgeons, general medical officers, internal medicine, psychiatrists, pediatricians, family practice physicians, obstetricians, ENT specialists, orthopedic surgeons, and urologists. Dental staff includes general dentists, endodontists, oral and maxillofacial surgeons, pediatric dentists, dental assistants and hygienists. The nursing staff includes registered nurses, licensed practical nurses, nursing assistants, community health nurses, nurse practitioners, nurse midwives, CRNA, and community health medics.   Additional Information:ORIENTATION: Every two (2) weeks only. COVID EXEMPTIONS: We do not accept religious exemptions. If a candidate submits for a medical exemption, we will have to get approval from our medical review board to proceed with onboarding. HOUSING APPLICATION: must be submitted 2 weeks prior to start date - form uploaded in Medefis   Position Urgency:Normal Billing string = Tuba City Regional ;url=https://vms.medefis5.com/jobs/261857;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Tuba City Regional
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

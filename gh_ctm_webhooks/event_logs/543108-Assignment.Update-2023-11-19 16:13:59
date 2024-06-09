@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6620',
+  'Cf-Ray' => '8289be541353183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Provide direct and indirect patient care in a rural hospital 18 bed  medical-surgical unit that cares for patients of all ages. Communicate with physicians/Nurse Manager/co-workers, as appropriate about changes in patient s clinical condition including results of diagnostic studies and symptomatology. Must be able to respond quickly and accurately to changes in condition or response to treatment and perform general nursing duties in all departments with adequate supervision.Essential Functions  Promote the mission, vision, and values of the organization  Perform patient care responsibilities considering needs specific to the standard of care for patient s age.  Perform a head-to-toe assessment on all patients and reassessments as per policy. This includes: pediatric, geriatric and the general patient population.  Ability to revise standard of care as indicated by the patient s response to treatment and evaluate overall plan daily for effectiveness.  Formulate a teaching plan based upon identified learning needs and evaluates effectiveness of learning, family is included in teaching as appropriate.  Assess and reassess pain management techniques utilized. Educate the patient and family regarding pain management.  Demonstrate ability to perform treatments and provide services to level licensure.  Communicate appropriately and clearly to Nurse Manager, co-workers, and physicians.  Consult other departments as appropriate to provide for an interdisciplinary approach to the patient s needs.  Provide care appropriate to condition and age of the patient, including: pediatric, geriatric and general population.  Demonstrate an ability to assist physicians with procedures and perform services requiring technical and manual skills.  Demonstrate an ability to be flexible, organized, and function under stressful situations.  Treat patients and their families with respect and dignity  Ensure patient confidentiality.  Identify and address psychosocial, cultural, ethnic and religious/spiritual needs of patients and family. Function as liaison between administration, patients, physicians and other healthcare providers.  Interact professionally with patient/family and involve patient/family in the formation of the plan of care.  Maintain a good working relationship both within the department and with other departments.  Ensure that documentation meets current standards and policies.  Identify and address psychosocial needs of patients and family; communicate with social service/discharge planner regarding both in hospital and post discharge needs.   Position Urgency:Quick Start Billing string = Roosevelt General Hospital
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543108
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10353
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:15
+    [whenmodified] => November, 19 2023 11:13:26
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261307 ;Status=Open;Association=Roosevelt General Hospital ;Client=Roosevelt General Hospital ;City=Portales ;State=NM ;Zip=88130 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=Nursing ;Specialty=Med-surg Adult ;Unit=Med-surg Adult ;Shift=1745-0615;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$75.00;OTRate=80 ;OTRules=By The Week, after 40, ;HolidayRate=85 (All Inclusive Rate + $10) ;OnCallRateDescription=$2 per hour pager ;Description=Provide direct and indirect patient care in a rural hospital 18 bed  medical-surgical unit that cares for patients of all ages. Communicate with physicians/Nurse Manager/co-workers, as appropriate about changes in patient s clinical condition including results of diagnostic studies and symptomatology. Must be able to respond quickly and accurately to changes in condition or response to treatment and perform general nursing duties in all departments with adequate supervision.Essential Functions  Promote the mission, vision, and values of the organization  Perform patient care responsibilities considering needs specific to the standard of care for patient s age.  Perform a head-to-toe assessment on all patients and reassessments as per policy. This includes: pediatric, geriatric and the general patient population.  Ability to revise standard of care as indicated by the patient s response to treatment and evaluate overall plan daily for effectiveness.  Formulate a teaching plan based upon identified learning needs and evaluates effectiveness of learning, family is included in teaching as appropriate.  Assess and reassess pain management techniques utilized. Educate the patient and family regarding pain management.  Demonstrate ability to perform treatments and provide services to level licensure.  Communicate appropriately and clearly to Nurse Manager, co-workers, and physicians.  Consult other departments as appropriate to provide for an interdisciplinary approach to the patient s needs.  Provide care appropriate to condition and age of the patient, including: pediatric, geriatric and general population.  Demonstrate an ability to assist physicians with procedures and perform services requiring technical and manual skills.  Demonstrate an ability to be flexible, organized, and function under stressful situations.  Treat patients and their families with respect and dignity  Ensure patient confidentiality.  Identify and address psychosocial, cultural, ethnic and religious/spiritual needs of patients and family. Function as liaison between administration, patients, physicians and other healthcare providers.  Interact professionally with patient/family and involve patient/family in the formation of the plan of care.  Maintain a good working relationship both within the department and with other departments.  Ensure that documentation meets current standards and policies.  Identify and address psychosocial needs of patients and family; communicate with social service/discharge planner regarding both in hospital and post discharge needs.   Position Urgency:Quick Start Billing string = Roosevelt General Hospital ;url=https://vms.medefis5.com/jobs/261307;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Roosevelt General Hospital
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 18:45
+    [subjectID] => 
+)

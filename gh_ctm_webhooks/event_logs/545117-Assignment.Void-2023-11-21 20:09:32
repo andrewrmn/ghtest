@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2102',
+  'Cf-Ray' => '829b922b058b6a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Experienced Women's Health RN needed for busy Women's Health Unit - postpartum . A minimum of 2 years of experience; BLS. NRP, and STABLE Certifications are required.   Additional Information:**Shannon Medical does NOT hire travelers/contractors that have a permanent address within 110 miles of the facility.**   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Ob/Gyn
+    [assignmentid] => 545117
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1343
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 21 2023 15:09:32
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261932 ;Status=Open;Association=Shannon Medical Center ;Client=Shannon Medical Center ;City=San Angelo ;State=TX ;Zip=76903 ;Start=11/20/2023;End=1/1/2024;Duration=42;Cert=Nursing ;Specialty=Post Partum, GYN, Obstetrics RN ;Unit=Post Partum, GYN, Obstetrics RN ;Shift=To be discussed;# of Postions=1;Guaranteed Hours=48;Type=Travel;BillRate=$100.00;OTRate=110 ;OTRules=By The Week, after 48, ;HolidayRate=110 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=Experienced Women's Health RN needed for busy Women's Health Unit - postpartum . A minimum of 2 years of experience; BLS. NRP, and STABLE Certifications are required.   Additional Information:**Shannon Medical does NOT hire travelers/contractors that have a permanent address within 110 miles of the facility.**   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261932;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Shannon Medical Center Medefis
+    [shiftDateEnd] => 2024-01-15
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

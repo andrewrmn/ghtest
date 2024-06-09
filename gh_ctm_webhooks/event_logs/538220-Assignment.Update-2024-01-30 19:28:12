@@ -1,0 +1,114 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4762',
+  'Cf-Ray' => '84dc1dde83f71834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:FLU:
+ 
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.  
+          Position   Template             Facility Name: Mercy Hospital Joplin               Floor:                 Location Address: 100 Mercy Way Joplin, MO 63090             Position Information:             
+  Facility Department/Cost Center: 504506041
+     Role (RN, Tech, LPN, PT, etc.): RN
+     Specialty:
+Med Surg 6 Surgical
+     Number of Openings: 1
+     Shift: Nights   6:30pm   7am 
+     Weekly Guaranteed Hours: 36
+     Weekend Hours: As required by the facility
+     Call Requirements: As required by the facility
+     Required Certifications: BLS
+     Years of Experience: 1
+     Float Requirements: Must float as needed, this is non-negotiable 
+             Unit Information:             
+  Number of Beds: 
+     Patient Ratios: 
+     Equipment: 
+     EMR: EPIC
+             Hiring Profile:               Must Have Skills/Experience: Utilizes the nursing   process to provide patient care. Maintains professional accountability for   provision of patient care. Evaluates the overall effectiveness of care   provided by other direct care givers. Coordinates the patient care in   conjunction with other departments. Maintains patient rights and   confidentiality of patient information. Performs duties and responsibilities   in a manner consistent with our mission, values, and Mercy Service Standards     Preferred Skillset/Experience: 
+     Type of Patients on Unit: 
+     Personality Fit:              Dress Code:               Scrub Color: Black
+     Any unacceptable attire:
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 538220
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8970
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-02-19
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 30 2024 14:27:34
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=769080 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Joplin ;City=Joplin ;State=MO ;Zip=64804 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=Mercy ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$80.00;minBillRate=$80.00;OTRate=88 ;CallbackRate=88 ;HolidayRate=88 ;Orientation=0 ;Description=Description:FLU:
+ 
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.  
+          Position   Template             Facility Name: Mercy Hospital Joplin               Floor:                 Location Address: 100 Mercy Way Joplin, MO 63090             Position Information:             
+  Facility Department/Cost Center: 504506041
+     Role (RN, Tech, LPN, PT, etc.): RN
+     Specialty:
+Med Surg 6 Surgical
+     Number of Openings: 1
+     Shift: Nights   6:30pm   7am 
+     Weekly Guaranteed Hours: 36
+     Weekend Hours: As required by the facility
+     Call Requirements: As required by the facility
+     Required Certifications: BLS
+     Years of Experience: 1
+     Float Requirements: Must float as needed, this is non-negotiable 
+             Unit Information:             
+  Number of Beds: 
+     Patient Ratios: 
+     Equipment: 
+     EMR: EPIC
+             Hiring Profile:               Must Have Skills/Experience: Utilizes the nursing   process to provide patient care. Maintains professional accountability for   provision of patient care. Evaluates the overall effectiveness of care   provided by other direct care givers. Coordinates the patient care in   conjunction with other departments. Maintains patient rights and   confidentiality of patient information. Performs duties and responsibilities   in a manner consistent with our mission, values, and Mercy Service Standards     Preferred Skillset/Experience: 
+     Type of Patients on Unit: 
+     Personality Fit:              Dress Code:               Scrub Color: Black
+     Any unacceptable attire:
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/769080;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital Joplin - TRAVEL
+    [shiftDateEnd] => 2024-05-20
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,78 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '28',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3330',
+  'Cf-Ray' => '83c72eaa74d8495d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:The Registered Nurse holds shift accountability for providing during the antepartum, intrapatum, immediate postpartum, and neonatal phase of Obstetrical care to Labor and Delivery patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care.
+
+2 - Night Shift 7p-7aWeekend requirement is six shifts in six weeks.
+
+2 Years Experience RequiredNo On-CallNo Floating
+to other unitsOT after 40 hours in a week
+$60 Bill RateNRP &amp; ACLS are Required
+ General Comments
+ No. of Positions: 2/2.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 546065
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2326
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-21
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 27 2023 23:50:16
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=778318 ;Status=Open;Association=Community Health Systems ;Client=Mountainview Regional Medical Center ;City=Las Cruces ;State=NM ;Zip=88011 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=RN ;Specialty=L&D ;Unit=EXT-Other (911) ;Shift=19:00-07:00;# of Postions=2;Type=Travel;BillRate=$80.00;minBillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:The Registered Nurse holds shift accountability for providing during the antepartum, intrapatum, immediate postpartum, and neonatal phase of Obstetrical care to Labor and Delivery patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care.
+
+2 - Night Shift 7p-7aWeekend requirement is six shifts in six weeks.
+
+2 Years Experience RequiredNo On-CallNo Floating
+to other unitsOT after 40 hours in a week
+$70 Bill Rate Now $80NRP &amp; ACLS are Required
+ General Comments
+ No. of Positions: 2/2.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/778318;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mountainview Regional Medical Center
+    [shiftDateEnd] => 2024-04-21
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

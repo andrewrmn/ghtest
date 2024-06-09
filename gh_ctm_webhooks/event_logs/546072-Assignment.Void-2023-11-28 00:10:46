@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7596',
+  'Cf-Ray' => '82ce63c7f46123b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 75 MILESTRAIGHT LINE RADIUS RULE (not driving distance) - NO LOCAL TRAVELERS-Please only submit candidates that area aware of their submission to our facility. Please do not allow candidates to contact facility. Please only submit candidates with an active NM or compact license. Please note time off requests must be disclosed with initial submission to be considered for approval. Time off requested after the acceptance date will not be approved.When submitting candidates include at least two references (one must be from current manager), a resume, and completed skills checklist/competency assessment.2 years  experience current required in an 18 plus bed telemetry/progressive care unit required. Must be a team player, flexible and accustomed to fast paced environment. Must have successfully completed at least one 13-week travel assignment.CERTIFICATIONS: BLS, ACLS, and NIHSS certifications required. BLS and ACLS must be completed through American Heart Association, American Health and Safety, or American Red Cross. EPIC EMR experience preferred. Traveler must pass the BCA testing during first week of assignment. Travelers that do not pass the BCA test will be dismissed.SHIFTS:12 hour Days shift position-starttime 0700-3 Weekend shifts in a 4 week scheduling period -Shifts will be in the Emergency Department tending to Progressive Care level patients who are awaiting an inpatient bed. Ratios will be the same as the typical inpatient unit. Nurses will tend to the patients just as they would on an inpatient unit, only the location will differ. However, staffmay fluctuate to fulfill other department staffing needs. On call and holidays may be required.Travelers are first to floatwithin facility and to alternate locations within 20 miles of permanent assigned location and to all areas in which they are trained, including alternate holding areas to care for appropriate patients, including PresNow ED/UC (freestanding urgent/emergent care facilities)????ORIENTATION: 1st week of the contract, not to exceed 40 total hours, and includes EPIC training.SCRUBS: required and not provided by the facility.   Additional Information:Presbyterian was voted #1 hospital of NM for 2022-2023 by U.S. News & World Report! *1.	Travelers must have a permanent address outside of the 75 MILE STRAIGHT LINE RADIUS of intended facility (not driving distance). 2.	Travelers must not have been an employee of any healthcare facility located within the Albuquerque Metropolitan area within the past year in order to be considered for a position. 3. Travelers are first to float within facility and to alternate locations within 20 miles of permanent assigned location. 4. Please visit the New Mexico Department of Health COVID page at https://cv.nmhealth.org/. 5. State tax is passed through to your agency and will be reflected on your invoice. The state tax should be paid to the state of New Mexico. 6. ENSURE AN ACCURATE SS# and DOB IS ENTERED. IF NOT, TRAVELER MAY BE PUSHED/AGENCY SUSPENED (creates I.T. onboarding issues).   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 546072
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2329
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-31
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 27 2023 19:10:45
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262209 ;Status=Open;Association=Presbyterian Healthcare Services ;Client=NURSING Presbyterian Hospital ;City=Albuquerque ;State=NM ;Zip=87106 ;Start=12/31/2023;End=3/31/2024;Duration=91;Cert=Nursing ;Specialty=PCU ;Unit=PCU ;Shift=12 Days;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$94.00;OTRate=104 ;OTRules=By The Week, after 40, ;ChargeRate=3 (Charge Rate Differential) ;CallbackRate=104 (All Inclusive Rate + $10) ;HolidayRate=104 (All Inclusive Rate + $10) ;OnCallRateDescription=$4 per hour pager ;Description=75 MILESTRAIGHT LINE RADIUS RULE (not driving distance) - NO LOCAL TRAVELERS-Please only submit candidates that area aware of their submission to our facility. Please do not allow candidates to contact facility. Please only submit candidates with an active NM or compact license. Please note time off requests must be disclosed with initial submission to be considered for approval. Time off requested after the acceptance date will not be approved.When submitting candidates include at least two references (one must be from current manager), a resume, and completed skills checklist/competency assessment.2 years  experience current required in an 18 plus bed telemetry/progressive care unit required. Must be a team player, flexible and accustomed to fast paced environment. Must have successfully completed at least one 13-week travel assignment.CERTIFICATIONS: BLS, ACLS, and NIHSS certifications required. BLS and ACLS must be completed through American Heart Association, American Health and Safety, or American Red Cross. EPIC EMR experience preferred. Traveler must pass the BCA testing during first week of assignment. Travelers that do not pass the BCA test will be dismissed.SHIFTS:12 hour Days shift position-starttime 0700-3 Weekend shifts in a 4 week scheduling period -Shifts will be in the Emergency Department tending to Progressive Care level patients who are awaiting an inpatient bed. Ratios will be the same as the typical inpatient unit. Nurses will tend to the patients just as they would on an inpatient unit, only the location will differ. However, staffmay fluctuate to fulfill other department staffing needs. On call and holidays may be required.Travelers are first to floatwithin facility and to alternate locations within 20 miles of permanent assigned location and to all areas in which they are trained, including alternate holding areas to care for appropriate patients, including PresNow ED/UC (freestanding urgent/emergent care facilities)????ORIENTATION: 1st week of the contract, not to exceed 40 total hours, and includes EPIC training.SCRUBS: required and not provided by the facility.   Additional Information:Presbyterian was voted #1 hospital of NM for 2022-2023 by U.S. News & World Report! *1.	Travelers must have a permanent address outside of the 75 MILE STRAIGHT LINE RADIUS of intended facility (not driving distance). 2.	Travelers must not have been an employee of any healthcare facility located within the Albuquerque Metropolitan area within the past year in order to be considered for a position. 3. Travelers are first to float within facility and to alternate locations within 20 miles of permanent assigned location. 4. Please visit the New Mexico Department of Health COVID page at https://cv.nmhealth.org/. 5. State tax is passed through to your agency and will be reflected on your invoice. The state tax should be paid to the state of New Mexico. 6. ENSURE AN ACCURATE SS# and DOB IS ENTERED. IF NOT, TRAVELER MAY BE PUSHED/AGENCY SUSPENED (creates I.T. onboarding issues).   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262209;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 94
+    [facilityName] => Presbyterian Hospital Travel
+    [shiftDateEnd] => 2024-03-31
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,154 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '26',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2498',
+  'Cf-Ray' => '838c228153614955-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL CT TECH11A - 11P13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIRED
+BLS REQUIRED
+ General CommentsPosition Description: CT Tech
+
+Unit/Cost Center:
+Cat Scan (72607) 
+
+
+
+
+
+Must have: 
+Certified CT technologist
+
+
+
+ Current CPR
+
+
+
+ Virginia License
+
+
+
+Preferred Skills: 
+
+
+
+2-3 Years of experienceIV
+
+
+
+Typical procedures performed on unit(s):
+
+
+
+Head CT, chest, abd. Pelvis, with and without contrast
+
+
+
+
+ 
+
+
+
+Dress Code: Scrubs: Navy
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 545250
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5508
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-14
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => December, 20 2023 19:51:03
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=775251 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=CJW MEDICAL -JOHNSTON-WILLIS CAMPUS VA ;City=RICHMOND ;State=VA ;Zip=23235 ;Start=12/10/2023;End=3/10/2024;Duration=91;Cert=CT Tech ;Specialty=Radiology ;Unit=CAPITAL DIVISION (20) ;Shift=11A-11P;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=98 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:TRAVEL CT TECH11A - 11P13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIRED
+BLS REQUIRED
+ General CommentsPosition Description: CT Tech
+
+Unit/Cost Center:
+Cat Scan (72607) 
+
+
+
+
+
+Must have: 
+Certified CT technologist
+
+
+
+ Current CPR
+
+
+
+ Virginia License
+
+
+
+Preferred Skills: 
+
+
+
+2-3 Years of experienceIV
+
+
+
+Typical procedures performed on unit(s):
+
+
+
+Head CT, chest, abd. Pelvis, with and without contrast
+
+
+
+
+ 
+
+
+
+Dress Code: Scrubs: Navy
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/775251;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => CJW Johnston-Willis Hospital
+    [shiftDateEnd] => 2024-04-14
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

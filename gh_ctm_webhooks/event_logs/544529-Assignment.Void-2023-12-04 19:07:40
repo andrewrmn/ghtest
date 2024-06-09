@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '29',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2219',
+  'Cf-Ray' => '8306556ae2a84961-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Looking for an RN to provide nursing care in our Intensive Care Unit. BLS and ACLS required. TNCC and PALS helpful. 3 shifts available: Day/Evening or Straight Nights includes every other weekend or 3 day weekend Fri-Sat-Sun. 12 hour shifts. Rotate holidays. May float to other departments based on census such as Med/Surg, ED, Mental Health.   Position Urgency:Normal Billing string = Spencer Hospital
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 544529
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10650
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-01
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 04 2023 14:07:40
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261736 ;Status=Open;Association=Spencer Hospital ;Client=Spencer Hospital ;City=Spencer ;State=IA ;Zip=51301 ;Start=1/1/2024;End=4/1/2024;Duration=91;Cert=Nursing ;Specialty=Intensive Care / Coronary Nurse (ICU) ;Unit=Intensive Care / Coronary Nurse (ICU) ;Shift=12 hr variable shifts;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$90.00;OTRate=100 ;OTRules=By The Week, after 40, ;CallbackRate=100 (All Inclusive Rate + $10) ;HolidayRate=100 (All Inclusive Rate + $10) ;OnCallRateDescription=$4 per hour pager ;Description=Looking for an RN to provide nursing care in our Intensive Care Unit. BLS and ACLS required. TNCC and PALS helpful. 3 shifts available: Day/Evening or Straight Nights includes every other weekend or 3 day weekend Fri-Sat-Sun. 12 hour shifts. Rotate holidays. May float to other departments based on census such as Med/Surg, ED, Mental Health.   Position Urgency:Normal Billing string = Spencer Hospital ;url=https://vms.medefis5.com/jobs/261736;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Spencer Hospital
+    [shiftDateEnd] => 2024-04-01
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

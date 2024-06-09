@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1575',
+  'Cf-Ray' => '8289bd1cb1b523b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => RN (ED) -Nights- 12 hour shifts.13 weeks   Position Urgency:Quick Start Billing string = Lewis County General Hospital
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 541772
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10037
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-03
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 19 2023 11:12:46
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=260852 ;Status=Open;Association=Lewis County General Hospital ;Client=Lewis County General Hospital ;City=Lowville ;State=NY ;Zip=13367 ;Start=11/1/2023;End=1/31/2024;Duration=91;Cert=Nursing ;Specialty=Emergency Room Nurse ;Unit=Emergency Room Nurse ;Shift=Nights 12 hr shifts;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$105.00;OTRate=115 ;OTRules=By The Week, after 40, ;HolidayRate=115 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=RN (ED) -Nights- 12 hour shifts.13 weeks   Position Urgency:Quick Start Billing string = Lewis County General Hospital ;url=https://vms.medefis5.com/jobs/260852;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Lewis County General Hospital
+    [shiftDateEnd] => 2024-03-03
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

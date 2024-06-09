@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '43',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '959',
+  'Cf-Ray' => '85f534d7c0f21840-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Start/End Date Change
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 534308
+    [workerID] => 119984
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 24
+    [facilityID] => 13340
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-13
+    [workerLastName] => Turner
+    [shiftNum] => 4
+    [workerFirstName] => Treshone
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => March, 04 2024 17:12:11
+    [daysPerWeek] => 3
+    [orderNote] => BR:$116.63lRS:134977
+Orient:$23lNonBill:8hrs
+FTK: GiftTS (Sign); OT Approval Form Required
+    [guaranteedMinimum] => 
+    [workerEmail] => tresh_turner@yahoo.com
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 116.63
+    [facilityName] => Alta Bates Summit Medical Center - Oakland Travel RS
+    [shiftDateEnd] => 2024-02-09
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

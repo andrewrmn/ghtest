@@ -1,0 +1,589 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7897',
+  'Cf-Ray' => '8348464ef4031463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Data Collection:
+          Unit Information: 9 Tower Surgical             Location: Centennial Medical Center             
+Address: 2300   Patterson St. Nashville, TN 37203
+         
+Floor: 9th   
+             
+Building: Main   Tower
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+   Number of Beds - 36
+   
+ 
+
+
+
+
+
+   Number of Staff   40 RNs (8 bedside   RNs per shift)
+   
+ 
+
+
+
+
+
+   Type of staff:
+   
+o
+
+   Day Shift   8 RNs, 1 Charge RN, 1 Unit   Secretary, 1 Manager, 1 CNC
+   
+o
+
+   Night Shift   8 RNs
+   
+ 
+
+
+
+
+
+   Patient Ratios   
+1:5
+   
+ 
+
+
+
+
+
+   Type of equipment   Bariatric fitted   ADLs, Wound Vacs, Drains, Lifts
+   
+ 
+
+
+
+
+
+   EMR - Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+ Time Management and Efficiency (Fast paced   unit with short LOS)
+   
+ 
+
+
+
+
+
+ Teamwork
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+   Background   in post op surgical areas (i.e. vascular, bariatric, urology, general   surgery, colorectal, and general surgery)
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+ Maintenance of post op surgical procedure   sites
+ 
+   
+ 
+
+
+
+
+
+ Wound care i.e. packing, dressing changes,   wound vac maintenance 
+   
+ 
+
+
+
+
+
+ Foley Catheter care- Continuous bladder   irrigation
+   
+ 
+
+
+
+
+
+ Ostomy appliance changed and maintenance 
+   
+ 
+
+
+
+
+
+ Nasogastric Tube insertion and suction
+   
+ 
+
+
+
+
+
+ TPN
+   
+ 
+
+
+
+
+
+ Blood Administration
+   
+ 
+
+
+
+
+
+ Central Line Care and dressing changes
+   
+ 
+
+
+
+
+
+ Bedside Shift Report
+   Best personality Fit:   
+ 
+
+
+
+
+
+   Outgoing, customer service oriented 
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+   BLS
+   Floating Area(s):   
+ 
+
+
+
+
+
+   Medical-Surgical Units
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+   Scrub Color/Attire -
+ Black, Grey, White, Royal Blue
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+   Prompt   Attendance (clocking in and out on time, attending scheduled shifts)
+   
+ 
+
+
+
+
+
+   Open   Communication
+   
+ 
+
+
+
+
+
+   Professional   Appearance
+   
+ 
+
+
+
+
+
+   Attentive/   Responsive to patient needs
+   
+
+
+             Weekends and On call(if any)   
+ 
+
+
+
+
+
+ 3 weekend days (i.e. Saturdays or Sundays) in   a 4 week scheduling period
+   
+ 
+
+
+
+
+
+ No pre-scheduled on call
+ General Comments
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 537047
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1297
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-21
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 12 2023 14:11:41
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=755941 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=CENTENNIAL MEDICAL CENTER TN ;City=NASHVILLE ;State=TN ;Zip=37203 ;Start=11/21/2023;End=2/20/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=TRISTAR DIVISION (7) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$76.00;minBillRate=$76.00;OTRate=84 ;CallbackRate=84 ;HolidayRate=84 ;Orientation=0 ;Description=Description:Data Collection:
+          Unit Information: 9 Tower Surgical             Location: Centennial Medical Center             
+Address: 2300   Patterson St. Nashville, TN 37203
+         
+Floor: 9th   
+             
+Building: Main   Tower
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+   Number of Beds - 36
+   
+ 
+
+
+
+
+
+   Number of Staff   40 RNs (8 bedside   RNs per shift)
+   
+ 
+
+
+
+
+
+   Type of staff:
+   
+o
+
+   Day Shift   8 RNs, 1 Charge RN, 1 Unit   Secretary, 1 Manager, 1 CNC
+   
+o
+
+   Night Shift   8 RNs
+   
+ 
+
+
+
+
+
+   Patient Ratios   
+1:5
+   
+ 
+
+
+
+
+
+   Type of equipment   Bariatric fitted   ADLs, Wound Vacs, Drains, Lifts
+   
+ 
+
+
+
+
+
+   EMR - Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+ Time Management and Efficiency (Fast paced   unit with short LOS)
+   
+ 
+
+
+
+
+
+ Teamwork
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+   Background   in post op surgical areas (i.e. vascular, bariatric, urology, general   surgery, colorectal, and general surgery)
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+ Maintenance of post op surgical procedure   sites
+ 
+   
+ 
+
+
+
+
+
+ Wound care i.e. packing, dressing changes,   wound vac maintenance 
+   
+ 
+
+
+
+
+
+ Foley Catheter care- Continuous bladder   irrigation
+   
+ 
+
+
+
+
+
+ Ostomy appliance changed and maintenance 
+   
+ 
+
+
+
+
+
+ Nasogastric Tube insertion and suction
+   
+ 
+
+
+
+
+
+ TPN
+   
+ 
+
+
+
+
+
+ Blood Administration
+   
+ 
+
+
+
+
+
+ Central Line Care and dressing changes
+   
+ 
+
+
+
+
+
+ Bedside Shift Report
+   Best personality Fit:   
+ 
+
+
+
+
+
+   Outgoing, customer service oriented 
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+   BLS
+   Floating Area(s):   
+ 
+
+
+
+
+
+   Medical-Surgical Units
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+   Scrub Color/Attire -
+ Black, Grey, White, Royal Blue
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+   Prompt   Attendance (clocking in and out on time, attending scheduled shifts)
+   
+ 
+
+
+
+
+
+   Open   Communication
+   
+ 
+
+
+
+
+
+   Professional   Appearance
+   
+ 
+
+
+
+
+
+   Attentive/   Responsive to patient needs
+   
+
+
+             Weekends and On call(if any)   
+ 
+
+
+
+
+
+ 3 weekend days (i.e. Saturdays or Sundays) in   a 4 week scheduling period
+   
+ 
+
+
+
+
+
+ No pre-scheduled on call
+ General Comments
+ No. of Positions: 1/3. ;url=https://vendor.healthtrustws.com/positions/755941;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 76
+    [facilityName] => Centennial Medical Center
+    [shiftDateEnd] => 2024-02-20
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

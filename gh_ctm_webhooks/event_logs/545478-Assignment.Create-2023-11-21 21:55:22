@@ -1,0 +1,218 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5249',
+  'Cf-Ray' => '829c2d2c82bd23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Data Collection: 
+
+Unit Information:
+
+ Medicine 3
+
+Location: 
+Surgery
+
+Address: 12412 Judson Rd, Live Oak, TX 78233
+
+Floor: 1
+
+Building:
+ Methodist Hospital Northeast
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+5 OR sCurrent staffing: 5 FT RN including Manager and Boardrunner, 2 PT RN (one on FMLA), 3 PRN RN (4 Open Reqs for FT nurses)
+12 surgical Techs
+Type of staff:Current Day Shift   1 charge, 1 manager, 3 day shift RN, 1 day/evening two days a week, 1 attendant, 12 techsCurrent Evening Shift   1 nurse on call, 1 evening nurse until 7pm two nights a weekPatient Ratios   
+1 to 1Type of equipment - 
+Basic OR equipment (cautery, video monitors, arthroscopy equip, positioning equip)EMR -
+
+
+ Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+OR circulator experienceBLS/ACLSAbility to fulfill rotating call (one night a week minimum, one weekend per 5wk schedule minimum)
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+Experience in orthopedics, general, gynecology, robotics, urology, vascular, Cardiovascular, Neuro,
+
+ thoracic
+
+
+
+List typical procedures performed on unit(s): 
+
+
+Listed above
+
+Best personality Fit:
+
+ Flexible, caring, compassionate,
+ willing attitude 
+REQUIRED CERTIFICATIONS:
+BLS and ACLS
+Floating Area(s):
+NONE
+Dress Code: 
+Scrub Color/Attire -
+ provided at facility
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+
+
+
+
+
+Weekends and On call(if any)
+Rotate week night and weekends ((one night a week minimum, one weekend per 5wk schedule minimum)
+ General Comments
+ No. of Positions: 2/2.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 545478
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5541
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-30
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 21 2023 16:55:15
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=763161 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=NORTHEAST METHODIST HOSPITAL ;City=SAN ANTONIO ;State=TX ;Zip=78233 ;Start=10/30/2023;End=1/29/2024;Duration=91;Cert=CST/ORT ;Specialty=OR ;Unit=SAN ANTONIO DIVISION (39) ;Shift=6:30AM-5:00PM;# of Postions=2;Type=Travel;BillRate=$80.00;OTRate=95 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:Data Collection: 
+
+Unit Information:
+
+ Medicine 3
+
+Location: 
+Surgery
+
+Address: 12412 Judson Rd, Live Oak, TX 78233
+
+Floor: 1
+
+Building:
+ Methodist Hospital Northeast
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+5 OR sCurrent staffing: 5 FT RN including Manager and Boardrunner, 2 PT RN (one on FMLA), 3 PRN RN (4 Open Reqs for FT nurses)
+12 surgical Techs
+Type of staff:Current Day Shift   1 charge, 1 manager, 3 day shift RN, 1 day/evening two days a week, 1 attendant, 12 techsCurrent Evening Shift   1 nurse on call, 1 evening nurse until 7pm two nights a weekPatient Ratios   
+1 to 1Type of equipment - 
+Basic OR equipment (cautery, video monitors, arthroscopy equip, positioning equip)EMR -
+
+
+ Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+OR circulator experienceBLS/ACLSAbility to fulfill rotating call (one night a week minimum, one weekend per 5wk schedule minimum)
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+Experience in orthopedics, general, gynecology, robotics, urology, vascular, Cardiovascular, Neuro,
+
+ thoracic
+
+
+
+List typical procedures performed on unit(s): 
+
+
+Listed above
+
+Best personality Fit:
+
+ Flexible, caring, compassionate,
+ willing attitude 
+REQUIRED CERTIFICATIONS:
+BLS and ACLS
+Floating Area(s):
+NONE
+Dress Code: 
+Scrub Color/Attire -
+ provided at facility
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+
+
+
+
+
+Weekends and On call(if any)
+Rotate week night and weekends ((one night a week minimum, one weekend per 5wk schedule minimum)
+ General Comments
+ No. of Positions: 2/2.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/763161;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Northeast Methodist Hospital Travel
+    [shiftDateEnd] => 2024-01-29
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

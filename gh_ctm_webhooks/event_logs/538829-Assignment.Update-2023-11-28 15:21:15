@@ -1,0 +1,590 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6683',
+  'Cf-Ray' => '82d39973f18623c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN PCU
+NIGHTS
+
+13 WEEKS
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE VA LICENSE/COMPACT AT SUBMISSION
+BLS/ACLS REQUIRED
+ General CommentsUnit Information:
+
+631/ East Progressive UnitLocation: LewisGale Medical Center
+Address: 1900 Electric Rd
+
+Floor: 3rd
+floor
+
+Building: Main Campus Salem
+
+
+
+General InformationTell us about the unit(s):
+ 
+
+
+
+
+
+
+
+
+Number of Beds   15 beds
+
+ 
+
+
+
+
+
+
+
+
+Number of Staff   22 (RN/PCT)
+
+ 
+
+
+
+
+
+
+
+
+Type of staff:
+
+o
+
+
+
+Day Shift   3-4RN, 2 PCT, 1 Clinical Coordinator
+
+o
+
+
+
+Night Shift   3-4 RN 1 PCT
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios   4-5/1
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment  
+
+Cardiac Telemetry, Chest tubes, Cardiac drips(NTG, Cardizem, Amiodarone), Post Cath Patients, post-surgical patients to include open heart, lung patients, general surgery patients, post op orthopedic patients that require cardiac monitoring.
+
+ 
+
+
+
+
+
+
+
+
+EMR   Meditech
+
+
+
+Typical hiring profileSkill Set Most recruited for:
+
+
+Must have:
+
+candidates without these skills will not be considered for the role.
+
+ 
+
+
+
+
+
+
+
+
+PCU experience
+
+ 
+
+
+
+
+
+
+
+
+Knowledge of cardiac rhythms and surgical patients
+
+ 
+
+
+
+
+
+
+
+
+Chest tube management, epidurals
+
+
+
+
+Preferred or nice to have:
+
+candidates with these skills will be considered first.
+
+ 
+
+
+
+
+
+
+
+
+Teamwork ability
+
+ 
+
+
+
+
+
+
+
+
+Time management with high turnover of patients
+
+
+
+
+List typical procedures performed on unit(s):
+
+
+
+ 
+
+
+
+
+
+
+
+
+Post cardiac cath, EP studies, device placements, groin management, chest tubes , post op surgical patients
+
+ 
+
+
+
+
+
+
+
+
+
+Critical drips, epidurals, PCA
+
+
+
+Best personality Fit:
+ 
+
+
+
+
+
+
+
+
+
+Outgoing, team oriented, willing to go above and beyond for patients
+REQUIRED CERTIFICATIONS:
+ 
+
+
+
+
+
+
+
+
+BLS &amp; ACLS
+Floating Area(s):
+ 
+
+
+
+
+
+
+
+
+ICU taking PCU type patients, PCU, Med-surg (taking 5 patients)
+
+Dress Code:
+
+ 
+
+
+
+
+
+
+
+
+Scrub Color/Attire  
+
+Navy or white, can mix or match
+
+
+
+Weekends and On call:
+ 
+
+
+
+
+
+
+
+
+Every other weekend or 4 weekend shifts
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 538829
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7323
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 28 2023 10:20:37
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=770801 ;Status=Pending Approval;Association=HCA Healthcare (Parent) ;Client=LEWISGALE MEDICAL CENTER VA ;City=SALEM ;State=VA ;Zip=24153 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=RN ;Specialty=PCU ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM - 7:00AM;# of Postions=1;Type=Travel;Description=Description:TRAVEL RN PCU
+NIGHTS
+
+13 WEEKS
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE VA LICENSE/COMPACT AT SUBMISSION
+BLS/ACLS REQUIRED
+ General CommentsUnit Information:
+
+631/ East Progressive UnitLocation: LewisGale Medical Center
+Address: 1900 Electric Rd
+
+Floor: 3rd
+floor
+
+Building: Main Campus Salem
+
+
+
+General InformationTell us about the unit(s):
+ 
+
+
+
+
+
+
+
+
+Number of Beds   15 beds
+
+ 
+
+
+
+
+
+
+
+
+Number of Staff   22 (RN/PCT)
+
+ 
+
+
+
+
+
+
+
+
+Type of staff:
+
+o
+
+
+
+Day Shift   3-4RN, 2 PCT, 1 Clinical Coordinator
+
+o
+
+
+
+Night Shift   3-4 RN 1 PCT
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios   4-5/1
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment  
+
+Cardiac Telemetry, Chest tubes, Cardiac drips(NTG, Cardizem, Amiodarone), Post Cath Patients, post-surgical patients to include open heart, lung patients, general surgery patients, post op orthopedic patients that require cardiac monitoring.
+
+ 
+
+
+
+
+
+
+
+
+EMR   Meditech
+
+
+
+Typical hiring profileSkill Set Most recruited for:
+
+
+Must have:
+
+candidates without these skills will not be considered for the role.
+
+ 
+
+
+
+
+
+
+
+
+PCU experience
+
+ 
+
+
+
+
+
+
+
+
+Knowledge of cardiac rhythms and surgical patients
+
+ 
+
+
+
+
+
+
+
+
+Chest tube management, epidurals
+
+
+
+
+Preferred or nice to have:
+
+candidates with these skills will be considered first.
+
+ 
+
+
+
+
+
+
+
+
+Teamwork ability
+
+ 
+
+
+
+
+
+
+
+
+Time management with high turnover of patients
+
+
+
+
+List typical procedures performed on unit(s):
+
+
+
+ 
+
+
+
+
+
+
+
+
+Post cardiac cath, EP studies, device placements, groin management, chest tubes , post op surgical patients
+
+ 
+
+
+
+
+
+
+
+
+
+Critical drips, epidurals, PCA
+
+
+
+Best personality Fit:
+ 
+
+
+
+
+
+
+
+
+
+Outgoing, team oriented, willing to go above and beyond for patients
+REQUIRED CERTIFICATIONS:
+ 
+
+
+
+
+
+
+
+
+BLS &amp; ACLS
+Floating Area(s):
+ 
+
+
+
+
+
+
+
+
+ICU taking PCU type patients, PCU, Med-surg (taking 5 patients)
+
+Dress Code:
+
+ 
+
+
+
+
+
+
+
+
+Scrub Color/Attire  
+
+Navy or white, can mix or match
+
+
+
+Weekends and On call:
+ 
+
+
+
+
+
+
+
+
+Every other weekend or 4 weekend shifts ;url=https://vendor.healthtrustws.com/positions/770801;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => LewisGale Medical Center Salem Campus Travel
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

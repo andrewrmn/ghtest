@@ -1,0 +1,135 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6150',
+  'Cf-Ray' => '83ef0e37e43b23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:THIS POSITION IS AUTO-OFFER
+Unit: Tele Neurology 6C - Mercy Hospital Springfield
+Specialty: Tele
+Role/Title: RN
+Shift: Nights, 1900-0700
+
+Guaranteed Hours: 36 or 48
+- must be indicated on submission form
+Assignment Length: 8-26 weeks
+- must be indicated on submission form
+ALL CONTINGENCY REQUESTS MUST BE ON THE SUBMISSION FORM
+Required Licensure:
+Current RN
+License (Meets the criteria to be eligible for licensure in state of Missouri or currently licensed in the state of Missouri.)Required Certifications:
+BLS from AHA only,
+NIHSS (may be submitted without, but must obtain prior to start)
+Required Experience:
+1 year Tele
+Preferred Experience:
+1 year NeuroMust be willing to float when neededMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsCall Requirements- None
+Float Requirements-
+To other MedSurg Units
+Patient Ratios: varies. Days 1:5-1:6, nights 1:6-1:7. We do not guarantee ratios. Careful consideration is given depending on the circumstances.
+
+Equipment-
+Tele, Lift equipment, IV pumps, tube feeding pumps
+EMR-EPIC
+Must Have Skills/Experience- MedSurg, Tele, BLS
+Scrub Color   Black
+
+Any unacceptable attire - Anything but black scrubsNumber of beds: 32
+Type of Patients on Unit:
+Neuro, Med, Med teleOverview: Performs direct patient care activities for all age groups to include assessment, planning, implementation, and evaluation. Monitors and coordinates patient care activities with ancillary departments to optimize patient care and comfort. Functions within the scope of nursing preparation and consistent with the established guidelines of nursing practice, the Missouri Nurse Practice Act, Mercy Code of Conduct, Mercy Mission and Values and Mercy Service Standards.
+
+Working Conditions, Mental and Physical Requirements: Stand and walk most of the time on duty. Meet unit specific physical demands. Significant amount of bending and stooping, as well as lifting and turning patients with assistance. May be required to work differing schedules, shifts, days of the week, or work frequency according to patient care requirements. High risk exposure to blood and body fluids. Physical demands are attached plus push, pull, and grip up to 50 lbs., pinch up to 15 lbs., kneel, crouch, and crawl minimally.
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 544764
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13126
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-14
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 01 2024 19:58:45
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=776388 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Springfield ;City=Springfield ;State=MO ;Zip=65804 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=Mercy ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:THIS POSITION IS AUTO-OFFER
+Unit: Tele Neurology 6C - Mercy Hospital Springfield
+Specialty: Tele
+Role/Title: RN
+Shift: Nights, 1900-0700
+
+Guaranteed Hours: 36 or 48
+- must be indicated on submission form
+Assignment Length: 8-26 weeks
+- must be indicated on submission form
+ALL CONTINGENCY REQUESTS MUST BE ON THE SUBMISSION FORM
+Required Licensure:
+Current RN
+License (Meets the criteria to be eligible for licensure in state of Missouri or currently licensed in the state of Missouri.)Required Certifications:
+BLS from AHA only,
+NIHSS (may be submitted without, but must obtain prior to start)
+Required Experience:
+1 year Tele
+Preferred Experience:
+1 year NeuroMust be willing to float when neededMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsCall Requirements- None
+Float Requirements-
+To other MedSurg Units
+Patient Ratios: varies. Days 1:5-1:6, nights 1:6-1:7. We do not guarantee ratios. Careful consideration is given depending on the circumstances.
+
+Equipment-
+Tele, Lift equipment, IV pumps, tube feeding pumps
+EMR-EPIC
+Must Have Skills/Experience- MedSurg, Tele, BLS
+Scrub Color   Black
+
+Any unacceptable attire - Anything but black scrubsNumber of beds: 32
+Type of Patients on Unit:
+Neuro, Med, Med teleOverview: Performs direct patient care activities for all age groups to include assessment, planning, implementation, and evaluation. Monitors and coordinates patient care activities with ancillary departments to optimize patient care and comfort. Functions within the scope of nursing preparation and consistent with the established guidelines of nursing practice, the Missouri Nurse Practice Act, Mercy Code of Conduct, Mercy Mission and Values and Mercy Service Standards.
+
+Working Conditions, Mental and Physical Requirements: Stand and walk most of the time on duty. Meet unit specific physical demands. Significant amount of bending and stooping, as well as lifting and turning patients with assistance. May be required to work differing schedules, shifts, days of the week, or work frequency according to patient care requirements. High risk exposure to blood and body fluids. Physical demands are attached plus push, pull, and grip up to 50 lbs., pinch up to 15 lbs., kneel, crouch, and crawl minimally.
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/776388;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Mercy Hospital Springfield TRAVEL
+    [shiftDateEnd] => 2024-04-14
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

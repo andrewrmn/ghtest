@@ -1,0 +1,142 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3904',
+  'Cf-Ray' => '828d784a50976a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name
+Radiology - Mercy Hospital Washington - Radiologic Tech
+
+
+Facility
+Mercy
+
+Location
+Mercy Hospital Washington
+
+Unit
+Radiology
+
+Cost Center
+15-417120
+
+FLU
+and
+COVID-19:
+
+
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.
+SHIFT INFOShift
+variable
+Shifts per week
+4
+
+Hours per shift
+10-12
+Shift & Hours:
+ Saturday and Sunday 1030a-11p, Monday and Tuesday 11p-7aEXPERIENCE
+Years of Experience
+One Year Plus
+CERTIFICATIONS
+Certifications
+BLS
+DESCRIPTION
+Qualifications: R.T.(R) ARRT
+
+Job Summary: Perform Radiologic Technologist duties-use can use canned so it is similar to other facilities.
+ General CommentsMercy Hospital - Washington is an acute care hospital offering comprehensive medical, surgical, obstetric and pediatric services. As the only Level III Trauma Center between St. Louis and Jefferson City, Mercy Hospital offers an experienced medical staff that is specially trained in trauma care. Located just 50 miles southwest of St. Louis, Mercy Hospital is committed to quality health care for its service area of more than 150,000 residents. More than 800 co-workers and 233 physicians serve the Washington hospital.
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 535595
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 11770
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 19 2023 22:05:10
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=765495 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Washington ;City=Washington ;State=MO ;Zip=63090 ;Start=11/6/2023;End=2/5/2024;Duration=91;Cert=Rad Tech ;Specialty=Radiology ;Unit=Mercy ;Shift=00:00-00:00;# of Postions=1;Type=Travel;BillRate=$65.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Name
+Radiology - Mercy Hospital Washington - Radiologic Tech
+
+
+Facility
+Mercy
+
+Location
+Mercy Hospital Washington
+
+Unit
+Radiology
+
+Cost Center
+15-417120
+
+FLU
+and
+COVID-19:
+
+
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.
+SHIFT INFOShift
+variable
+Shifts per week
+4
+
+Hours per shift
+10-12
+Shift &amp; Hours:
+ Saturday and Sunday 1030a-11p, Monday and Tuesday 11p-7aEXPERIENCE
+Years of Experience
+One Year Plus
+CERTIFICATIONS
+Certifications
+BLS
+DESCRIPTION
+Qualifications: R.T.(R) ARRT
+
+Job Summary: Perform Radiologic Technologist duties-use can use canned so it is similar to other facilities.
+ General CommentsMercy Hospital - Washington is an acute care hospital offering comprehensive medical, surgical, obstetric and pediatric services. As the only Level III Trauma Center between St. Louis and Jefferson City, Mercy Hospital offers an experienced medical staff that is specially trained in trauma care. Located just 50 miles southwest of St. Louis, Mercy Hospital is committed to quality health care for its service area of more than 150,000 residents. More than 800 co-workers and 233 physicians serve the Washington hospital.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/765495;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Mercy Hospital Washington - TRAVEL
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

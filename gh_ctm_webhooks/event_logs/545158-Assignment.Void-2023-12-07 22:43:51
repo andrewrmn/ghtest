@@ -1,0 +1,79 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1707',
+  'Cf-Ray' => '83204a3700e61832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 545158
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 13566
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 07 2023 17:43:51
+    [daysPerWeek] => 3
+    [orderNote] => 36 or 48 hours, 13 weeks NO HOLIDAY RTO permitted, other RTO permitted.
+4T unit is a medical surgical unit that provides care of patients needing cardiac care and rhythm monitoring.  We admit the open heart surgery cases here, prepare them for surgery and care for them again after their CVICCU care and then complete their education and discharge. 
+Requirements:
+
+at least 1 travel assignment required
+1 year Tele or similar experience please
+BLS
+No locals within 75 miles
+OT after 8 hrs
+Min 1 year - 18 months experience
+Quant or TSPOT within 90 or 2 TB skin
+Must be compliant by 4pm wed prior to start
+Scrubs - any color
+-EMR: Cerner but not required
+-No online modules prior to start
+-Monday at 2pm is Orientation for badges/instructions etc.,
+-Tuesday is clinical orientation
+-Nonbillable orientation up to 16 hours
+-Fit testing can be done at the facility.
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 105
+    [facilityName] => Kaweah Health Medical Center TRAVEL
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

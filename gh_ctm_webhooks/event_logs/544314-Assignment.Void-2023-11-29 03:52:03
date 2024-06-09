@@ -1,0 +1,77 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3575',
+  'Cf-Ray' => '82d7e54b80261834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Backfill: J. D. St. John | Ratio- 1:2-3 | Weekends: Yes | Call: No | Float: NCU, SCU: float all 3 ICU's no specific unit assignment | Epic exp | Unit Info: Neuro/Stroke patients, Vascular surgeries, Multi-level back surgeries, Gen ICU | Req Skills: Interpretation & Management of Dysrhythmias, Contin. IV Sedation, ICP Monitoring, Vent Exp, CRRT Management, Spinal Drains, Bolts/ICP Monitoring | Min 2 yrs ICU/Neuro | Req Cert: ACLS, NIH, CPI | Pref Cert: CCRN 
+
+ Modified Time:12/5/2023 12:00:00 AM
+ Account Manager: Shannon Steely
+ Account Manager Email: Ssteely@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel.
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 544314
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13892
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-05
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 28 2023 22:51:51
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2291794 ;Status=Open;Association=Vaya Legacy MSP (Connect) ;Client=LCMC Health West Jefferson Medical Center ;City=Marrero ;State=LA ;Zip=70072 ;Start=12/5/2023;End=3/5/2024;Duration=91;Cert=Registered Nurse ;Specialty=ICU ;Unit=Vaya - CCU 60037 ;Shift=Night 3x12-Hour (19:00 - 07:30);# of Postions=1;Type=Travel;BillRate=$80.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Backfill: J. D. St. John | Ratio- 1:2-3 | Weekends: Yes | Call: No | Float: NCU, SCU: float all 3 ICU's no specific unit assignment | Epic exp | Unit Info: Neuro/Stroke patients, Vascular surgeries, Multi-level back surgeries, Gen ICU | Req Skills: Interpretation & Management of Dysrhythmias, Contin. IV Sedation, ICP Monitoring, Vent Exp, CRRT Management, Spinal Drains, Bolts/ICP Monitoring | Min 2 yrs ICU/Neuro | Req Cert: ACLS, NIH, CPI | Pref Cert: CCRN 
+
+ Modified Time:12/5/2023 12:00:00 AM
+ Account Manager: Shannon Steely
+ Account Manager Email: Ssteely@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2291794/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => West Jefferson Medical Center TRV VAYA
+    [shiftDateEnd] => 2024-03-05
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

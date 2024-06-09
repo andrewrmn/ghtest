@@ -1,0 +1,96 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4869',
+  'Cf-Ray' => '8289997eb2584951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+The Endoscopy Registered Nurse demonstrates critical thinking skills, scientific judgment and leadership in the anticipation and planning for the care of the patient undergoing diagnostic Endoscopy procedures.  In coordination with other members of the Endoscopy team, the registered nurse is responsible and accountable for the planning, directing and the provision of nursing care to patients in accordance with the state Nurse Practice Act, physician s orders, recognized nursing techniques, policies, procedures, established standards and administrative policiesparseGeneralComments Comments
+.bd_title
+                                  {
+                                         font-weight: bold;
+                                  }
+Reason for opening (special, internal vacancy, leave coverage) 8 hour days  call
+          		******************************************************************************* 
+          		How long has it been open? 
+          		Will position be required to float to other units? 
+          		Number of beds in your facility? 
+          		Years of experience required? 
+          		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) 
+          		Willing to review clinicians with pending state license? 
+          		Is there anyone in the past that has worked for you that you would consider rehiring? 
+          		What is the work schedule for this position? (days needed, hours or shift) 
+			EMR for your facility: 
+          		Scrub colors / dress code: 
+			Parking location:  Contact: Christopher Stearns Resource Manager: Suhani Desai OT Rate:Custom Rate
+    [sitename] => giftednurses
+    [spec] => Endoscopy
+    [assignmentid] => 128420
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 
+    [facilityID] => 8782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-08-03
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 14:30
+    [whenmodified] => November, 19 2023 10:48:41
+    [daysPerWeek] => 
+    [orderNote] => Source=Parallon;SourceID=367752 ;Status=Open;Client=Cedar Park Regional Medical Center ;City=Cedar Park ;State=TX ;Zip=78613 ;Start=ASAP;End=;Duration=56;Cert=Registered Nurse (RN) ;Specialty=Endoscopy ;Unit=ENDOSCOPY ;Shift=6:00 AM - 3:00 PM;# of Postions=1;Guaranteed Hours=?;Type=Travel;BillRate=$70.90;OTRate=?/$99.26 ;OTRules=1.00x (OT), 1.00x (DT) ;CallbackRate=?/$99.26 ;HolidayRate=?/$106.35 ;Description=Position Description
+The Endoscopy Registered Nurse demonstrates critical thinking skills, scientific judgment and leadership in the anticipation and planning for the care of the patient undergoing diagnostic Endoscopy procedures.  In coordination with other members of the Endoscopy team, the registered nurse is responsible and accountable for the planning, directing and the provision of nursing care to patients in accordance with the state Nurse Practice Act, physician s orders, recognized nursing techniques, policies, procedures, established standards and administrative policiesparseGeneralComments Comments
+.bd_title
+                                  {
+                                         font-weight: bold;
+                                  }
+Reason for opening (special, internal vacancy, leave coverage) 8 hour days  call
+          		******************************************************************************* 
+          		How long has it been open? 
+          		Will position be required to float to other units? 
+          		Number of beds in your facility? 
+          		Years of experience required? 
+          		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) 
+          		Willing to review clinicians with pending state license? 
+          		Is there anyone in the past that has worked for you that you would consider rehiring? 
+          		What is the work schedule for this position? (days needed, hours or shift) 
+			EMR for your facility: 
+          		Scrub colors / dress code: 
+			Parking location:  Contact: Christopher Stearns Resource Manager: Suhani Desai OT Rate:Custom Rate ;Buyer=Christopher Stearns ;url=https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=367752&null;VMSPositionType=Travel maxPayRate=$70.90;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70.9
+    [facilityName] => Cedar Park Regional Medical Center
+    [shiftDateEnd] => 2020-09-28
+    [shiftStartTime] => 06:00
+    [subjectID] => 
+)

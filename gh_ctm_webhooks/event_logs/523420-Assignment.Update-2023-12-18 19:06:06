@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '27',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '947',
+  'Cf-Ray' => '8379ae5d05da4959-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: End Date / Rate Change
+Rate Change Eff. 12/10/2023
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 523420
+    [workerID] => 200297
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13608
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-09-11
+    [workerLastName] => Jureski
+    [shiftNum] => 5
+    [workerFirstName] => Austin
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 18 2023 14:06:05
+    [daysPerWeek] => 3
+    [orderNote] => BR:$105lRS:132971lFTK:Kronos
+OnCl:P$2/B$3
+Orient:$20lNonBill:16hrs
+    [guaranteedMinimum] => 
+    [workerEmail] => austinjureski@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Banner - McKee Medical Center TRAVEL
+    [shiftDateEnd] => 2023-12-16
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

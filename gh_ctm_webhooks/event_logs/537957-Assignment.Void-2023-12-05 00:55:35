@@ -1,0 +1,491 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7158',
+  'Cf-Ray' => '8308530e367a1465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Facility: Alaska Regional
+Shift:
+Thursday-Sunday 8:30pm-7:00am, 4-10 hour shifts, 1.0 FTE with rotating call/holidays.Need: X-Ray Tech
+Unit: X-Ray Radiology      Cost Center: 728
+Start Date: 11/6
+Length of Assignment: 13 weeks
+
+
+        Unit Information:
+   Alaska Regional Hospital Radiology Department              Location: Alaska Regional Hospital             
+Address: 2801 Debarr Road Anchorage AK 99508
+         
+Floor: 1
+             
+Building: Main   Hospital
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   approx. 185
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   7 fulltime, 5 prn 
+   
+ 
+
+
+
+
+
+
+
+   Shift for the Traveler ---nights
+   
+ 
+
+
+
+
+
+
+
+   Type of staff: 
+   
+o
+
+
+   Day Shift   3-4 Tech
+   
+o
+
+
+   Night Shift   1
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   1:1
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   GE, C-arms OEC   9800 & 9900, O-Arm, GE 3d Carm
+   
+ 
+
+
+
+
+
+
+
+   EMR   Epic, McKesson PACS
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+ARRT (R) with 1 years experience
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   ARRT   Registered with 2 years experience and OR experience
+   
+List typical procedures performed on unit(s): 
+
+   
+ 
+
+
+
+
+
+
+
+   
+Heavy OR surgery case volume, ER,   outpatient, and inpatient xray, fluoroscopy.
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Self starter, self motivated,   patient centered and patient focused, follow through with attention to   detail, high quality imaging
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   ARRT, BLS
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   None
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ Grey or Pewter
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+
+
+             Weekends and On call(if any)   
+ 
+
+
+
+
+
+
+
+   Call will rotate among fulltime staff members   on evenings/overnights and weekends, utilized in the event OR add-ons or   extremely high volumes. Traveler will need to work into the call rotation.
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 537957
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 1263
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 3
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 08:30
+    [whenmodified] => December, 04 2023 19:55:35
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=765209 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=Alaska Regional Hospital AK ;City=ANCHORAGE ;State=AK ;Zip=99508 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Rad Tech ;Specialty=Radiology ;Unit=MOUNTAIN DIVISION (15) ;Shift=8:30PM-7:00AM;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Facility: Alaska Regional
+Shift:
+Thursday-Sunday 8:30pm-7:00am, 4-10 hour shifts, 1.0 FTE with rotating call/holidays.Need: X-Ray Tech
+Unit: X-Ray Radiology      Cost Center: 728
+Start Date: asap
+Length of Assignment: 13 weeks
+
+
+        Unit Information:
+   Alaska Regional Hospital Radiology Department              Location: Alaska Regional Hospital             
+Address: 2801 Debarr Road Anchorage AK 99508
+         
+Floor: 1
+             
+Building: Main   Hospital
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   approx. 185
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   7 fulltime, 5 prn 
+   
+ 
+
+
+
+
+
+
+
+   Shift for the Traveler ---nights
+   
+ 
+
+
+
+
+
+
+
+   Type of staff: 
+   
+o
+
+
+   Day Shift   3-4 Tech
+   
+o
+
+
+   Night Shift   1
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   1:1
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   GE, C-arms OEC   9800 &amp; 9900, O-Arm, GE 3d Carm
+   
+ 
+
+
+
+
+
+
+
+   EMR   Epic, McKesson PACS
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+ARRT (R) with 1 years experience
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   ARRT   Registered with 2 years experience and OR experience
+   
+List typical procedures performed on unit(s): 
+
+   
+ 
+
+
+
+
+
+
+
+   
+Heavy OR surgery case volume, ER,   outpatient, and inpatient xray, fluoroscopy.
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Self starter, self motivated,   patient centered and patient focused, follow through with attention to   detail, high quality imaging
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   ARRT, BLS
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   None
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ Grey or Pewter
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+
+
+             Weekends and On call(if any)   
+ 
+
+
+
+
+
+
+
+   Call will rotate among fulltime staff members   on evenings/overnights and weekends, utilized in the event OR add-ons or   extremely high volumes. Traveler will need to work into the call rotation.
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/765209;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Alaska Regional Hospital AK
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 20:30
+    [subjectID] => 
+)

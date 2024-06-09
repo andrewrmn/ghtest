@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3548',
+  'Cf-Ray' => '82b30ccec3de1836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position DescriptionScrub technicians, also referred to as surgical technologists, assist surgeons in the operating room. Responsibilities for this position include preparing operating rooms, sterilizing equipment, passing instruments to the surgeons, moving patients, and dressing wounds.Heavy experience in open heart cases is required. No First Assist Experience needed. Pay is negotiable. parseGeneralComments Comments.bd_title                                   {                                          font-weight: bold;                                   }                                                    Reason for opening is leave coverage              *******************************************************************************              Will position be required to float to other units? The position will not float outside of the operating room but will primarily be on Heart Cases.             What is the work schedule for this position? Days shift and Call             Scrub colors / dress code: Scrubs will be provided. Contact: Paige Moran Resource Manager: Suhani Desai OT Rate:?/$57.40 Holiday Rate: ?/$61.50https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=269167&null 
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 51998
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 42.5
+    [facilityID] => 9491
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-04-01
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:30
+    [whenmodified] => November, 24 2023 11:32:48
+    [daysPerWeek] => 5
+    [orderNote] => Source=Parallon;ID=0;SourceID=269167;Status=;Client=DeTar Healthcare System Allied;City=Victoria;State=TX;Zip=77904;Start=4/1/2019;End=7/1/2019;Duration=91;Cert=Scrub Tech;Specialty=OPERATING ROOM;Unit=1111: OPERATING ROOM;Shift=6:00 AM - 4:00 PM;# of Postions=1;Type=Travel;BillRate=$41.00;OTRate=;Description=Position DescriptionScrub technicians, also referred to as surgical technologists, assist surgeons in the operating room. Responsibilities for this position include preparing operating rooms, sterilizing equipment, passing instruments to the surgeons, moving patients, and dressing wounds.Heavy experience in open heart cases is required. No First Assist Experience needed. Pay is negotiable. parseGeneralComments Comments.bd_title                                   {                                          font-weight: bold;                                   }                                                    Reason for opening is leave coverage              *******************************************************************************              Will position be required to float to other units? The position will not float outside of the operating room but will primarily be on Heart Cases.             What is the work schedule for this position? Days shift and Call             Scrub colors / dress code: Scrubs will be provided. Contact: Paige Moran Resource Manager: Suhani Desai OT Rate:?/$57.40 Holiday Rate: ?/$61.50https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=269167&null;VMSPositionType= AvgHoursPerWeek= 
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 41
+    [facilityName] => DeTar Hospital - North 
+    [shiftDateEnd] => 2019-07-01
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

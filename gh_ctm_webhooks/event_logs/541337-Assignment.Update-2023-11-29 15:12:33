@@ -1,0 +1,208 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8078',
+  'Cf-Ray' => '82dbca19d0f41465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:HCA Florida Bayonet Point Hospital
+(Level II Trauma Center)
+
+
+
+Address:
+14000 Fivay Rd, Hudson, FL 34667
+
+
+Parking:
+Anywhere except the ER parkingScrub Color:
+RN   Navy Blue
+
+Clinical Support   Caribbean
+Blue
+
+Radiology   Black
+
+Lab   Khaki
+
+Surgical Staff   Ciel Blue
+
+
+
+
+General Comments
+
+
+
+
+Additional Information:
+
+
+Bed Capacity: 309
+
+        Unit Information:
+ MRI/73430             Location: Imaging             
+Address: 14000 Fivay Rd Hudson   FL 34667
+         
+Floor: 1st
+             
+Building: Main Hospital
+         
+
+
+             General Information             Tell us   about the unit(s):          Number        of Beds - 1    Number        of Staff   3    Type        of staff:         Day         Shift   Mon-Fri 0700-1530      Night         Shift   1500-0130     Weekend         - Sat-Sunday 0800-2030        Patient        Ratios   1:1    Type        of equipment   GE Explorer Lift Signa 1.5T    EMR -        Meditech                Typical hiring profile             Skill Set   Most recruited for:
+ (Travel RNs, local CNAs and sitters)   
+   
+Must have:
+ candidates without these   skills will not be considered for the role.
+       Ability        to work independently in the department with Radiologist availability        for questions    Ability        to give excellent patient care keeping the MRI environment safe for        everyone      
+Preferred   or nice to have:
+   candidates with these skills will be considered first. 
+       Ability        to adapt protocols for patients or physician needs
+    Willing        to learn from onsite and virtual applications for new procedures
+      
+List   typical procedures performed on unit(s): 
+
+       
+Neuro        exams including MRA s MRI s of the head, neck, and spine
+    
+Abdominal        exams including MRCP s, MRA s-MRI s of the aorta, liver, and kidneys     MSK        exams include extremities and arthrograms      Best   personality Fit:       Friendly        personality that has excellent communication skills on the phone and in        person    
+Team        player who strives to keep a relaxed and fun work environment working        with a great team                
+Unit   Guidelines/Policies: Please   feel free to attach unit policies and guidelines.
+       We        have many policies for safety and exams. All protocols are built in the        scanner for easy access and guidance      
+
+
+             Any   additional information that would entice a worker to select your unit for   their assignment: 
+Consider   items such as new equipment or technology, tenure and experience of staff,   schedule options, etc.
+ *Remember   it is a very competitive market any information you can provide will   help attract talent.   
+
+
+   
+We are   planning a software upgrade that will increase our software from GE 23X to   the newest GE 30X with AirDL. This will give us faster scans and new neuro   and abdominal sequences. Future growth will involve a 2nd scanner   and growth of the department.
+ General CommentsTraveler shall be scheduled in accordance with facility policy and is expected to work every other weekend and Holidays in rotation with Hospital employees.
+    [sitename] => giftednurses
+    [spec] => MRI
+    [assignmentid] => 541337
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2271
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => MRI Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 00:00
+    [whenmodified] => November, 29 2023 10:12:26
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=765141 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA Florida Bayonet Point Hospital ;City=HUDSON ;State=FL ;Zip=34667 ;Start=11/1/2023;End=1/31/2024;Duration=91;Cert=MRI Tech ;Specialty=Radiology ;Unit=WEST FLORIDA DIVISION (21) ;Shift=12:00PM-12:30AM;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=83 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:HCA Florida Bayonet Point Hospital
+(Level II Trauma Center)
+
+
+
+Address:
+14000 Fivay Rd, Hudson, FL 34667
+
+
+Parking:
+Anywhere except the ER parkingScrub Color:
+RN   Navy Blue
+
+Clinical Support   Caribbean
+Blue
+
+Radiology   Black
+
+Lab   Khaki
+
+Surgical Staff   Ciel Blue
+
+
+
+
+General Comments
+
+
+
+
+Additional Information:
+
+
+Bed Capacity: 309
+
+        Unit Information:
+ MRI/73430             Location: Imaging             
+Address: 14000 Fivay Rd Hudson   FL 34667
+         
+Floor: 1st
+             
+Building: Main Hospital
+         
+
+
+             General Information             Tell us   about the unit(s):          Number        of Beds - 1    Number        of Staff   3    Type        of staff:         Day         Shift   Mon-Fri 0700-1530      Night         Shift   1500-0130     Weekend         - Sat-Sunday 0800-2030        Patient        Ratios   1:1    Type        of equipment   GE Explorer Lift Signa 1.5T    EMR -        Meditech                Typical hiring profile             Skill Set   Most recruited for:
+ (Travel RNs, local CNAs and sitters)   
+   
+Must have:
+ candidates without these   skills will not be considered for the role.
+       Ability        to work independently in the department with Radiologist availability        for questions    Ability        to give excellent patient care keeping the MRI environment safe for        everyone      
+Preferred   or nice to have:
+   candidates with these skills will be considered first. 
+       Ability        to adapt protocols for patients or physician needs
+    Willing        to learn from onsite and virtual applications for new procedures
+      
+List   typical procedures performed on unit(s): 
+
+       
+Neuro        exams including MRA s MRI s of the head, neck, and spine
+    
+Abdominal        exams including MRCP s, MRA s-MRI s of the aorta, liver, and kidneys     MSK        exams include extremities and arthrograms      Best   personality Fit:       Friendly        personality that has excellent communication skills on the phone and in        person    
+Team        player who strives to keep a relaxed and fun work environment working        with a great team                
+Unit   Guidelines/Policies: Please   feel free to attach unit policies and guidelines.
+       We        have many policies for safety and exams. All protocols are built in the        scanner for easy access and guidance      
+
+
+             Any   additional information that would entice a worker to select your unit for   their assignment: 
+Consider   items such as new equipment or technology, tenure and experience of staff,   schedule options, etc.
+ *Remember   it is a very competitive market any information you can provide will   help attract talent.   
+
+
+   
+We are   planning a software upgrade that will increase our software from GE 23X to   the newest GE 30X with AirDL. This will give us faster scans and new neuro   and abdominal sequences. Future growth will involve a 2nd scanner   and growth of the department.
+ General CommentsTraveler shall be scheduled in accordance with facility policy and is expected to work every other weekend and Holidays in rotation with Hospital employees. ;url=https://vendor.healthtrustws.com/positions/765141;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Regional Medical Center Bayonet Point
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 12:00
+    [subjectID] => 
+)

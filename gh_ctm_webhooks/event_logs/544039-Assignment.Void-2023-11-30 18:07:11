@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '21',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '10951',
+  'Cf-Ray' => '82e5075112ec4941-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Job Summary: The information described in this job description has been designed to indicate the general nature of the work performed. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications required of employees assigned to this job. Assists surgical team in delivering direct patient care, during and after operative procedures. Cares for patients of all ages. Works effectively and cooperatively within the workplace. Location/Department specific tasks and competencies may apply. Essential functions: Assist the surgeon at the sterile field using the procedure in accordance with established procedures. Assist patient and surgeon with procedure/surgery preparation. Provide requested instrumentation. Assist RN with preparation of patient prior to the procedure in accordance with established guidelines and safety procedures. Prepare operating room for procedure to ensure patient safety. Ensure all required equipment and instrumentation is available in the room. Ensures additional supplies are available as needed. Set up the room based on procedure type. Perform post procedure duties in accordance with established guidelines. Assist with room turnover, instrumentation and equipment post procedure processing. Maintain ability to effectively utilize Microsoft Office (Outlook) and department specific software applications to perform work. Communicate effectively and cooperatively in the workplace. Actively contribute to the achievement of Quality Improvement and Lean Process Improvement activities. Complete all mandatory learning requirements in a timely manner. Maintain current licensure and/or certification as required. Attend and actively participate in all department, team and/or committee meetings. Comply with all Skagit Regional Health, department and location specific policies and procedures. Perform other duties as assigned by Supervisor or designee.Education: High School diploma or GED required. Graduate of a Surgical Technologist program or US military Operating Room training preferred.Experience/Training: Previous healthcare experience preferred.License/Certifications: Current Washington State Surgical Technologist registration required. Current AHA (American Heart Association) Healthcare Provider BLS required. Certified Surgical Technician (CST) preferred.Other Skills: Effective verbal, written and interpersonal communication skills required. Must be able to effectively utilize Microsoft Office applications to perform work. Well developed problem solving and analytical skills required. Must be able to effectively prioritize workload amongst frequent interruptions with competing priorities. Knowledge of surgical instrumentation and principles of aseptic technique. Understanding of surgical service protocols and surgical equipment. Working knowledge of anatomy. Proficient in the use of surgical instrumentation, instrument handling, provider assistance and room set-up/tear down. Must be able to stand for long periods of time with constant stooping, bending and overhead reaching. Ability to lift 25 pounds. Ability to withstand repetitive hand movement and a tolerance for exposure to conditions of an operating room. Ability to coordinate work schedule with requirements of position (may include overtime and weekend work).Physical Demands & Work Environment: The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. While performing the duties of this job, the employee is regularly required to talk and hear. This position is very active and requires standing, walking, bending, kneeling, stooping, crouching, crawling, and climbing all day. The employee must frequently lift or move objects and patients weighing over 50 pounds. Specific vision abilities required by this job include close vision, distance vision, color vision, peripheral vision, depth perception and ability to focus.Our Mission: To continually improve the health of our communities serving with compassion and respect, one person at a time.About Us: Skagit Regional Health the umbrella name for Skagit Valley Hospital, Skagit Regional Clinics, and Cascade Valley Hospital and Clinics is a health care leader in Northwest Washington, providing advanced, quality and comprehensive services to the people of our communities. Skagit Regional Health has been recognized as a  Leader in LGBT Healthcare Equality  by the Human Rights Campaign (HRC). Skagit Regional Health is a smoke free campus and is committed to Safety, Compassion, Presentation, and Efficiency.   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 544039
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13430
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 30 2023 13:07:11
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=261584 ;Status=Open;Association=Skagit Regional Health ;Client=Skagit Valley Hospital ;City=Mt Vernon ;State=WA ;Zip=98273 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Nursing ;Specialty=OR Technologist, Surgical Technologist ;Unit=OR Technologist, Surgical Technologist ;Shift=Variable shift, 4x10's starting at 09:00AM, floating as needed, call is required;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$105.00;OTRate=115 ;OTRules=By The Week, after 40, ;CallbackRate=115 (All Inclusive Rate + $10) ;HolidayRate=115 (All Inclusive Rate + $10) ;OnCallRateDescription=$4 per hour pager ;Description=Job Summary: The information described in this job description has been designed to indicate the general nature of the work performed. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications required of employees assigned to this job. Assists surgical team in delivering direct patient care, during and after operative procedures. Cares for patients of all ages. Works effectively and cooperatively within the workplace. Location/Department specific tasks and competencies may apply. Essential functions: Assist the surgeon at the sterile field using the procedure in accordance with established procedures. Assist patient and surgeon with procedure/surgery preparation. Provide requested instrumentation. Assist RN with preparation of patient prior to the procedure in accordance with established guidelines and safety procedures. Prepare operating room for procedure to ensure patient safety. Ensure all required equipment and instrumentation is available in the room. Ensures additional supplies are available as needed. Set up the room based on procedure type. Perform post procedure duties in accordance with established guidelines. Assist with room turnover, instrumentation and equipment post procedure processing. Maintain ability to effectively utilize Microsoft Office (Outlook) and department specific software applications to perform work. Communicate effectively and cooperatively in the workplace. Actively contribute to the achievement of Quality Improvement and Lean Process Improvement activities. Complete all mandatory learning requirements in a timely manner. Maintain current licensure and/or certification as required. Attend and actively participate in all department, team and/or committee meetings. Comply with all Skagit Regional Health, department and location specific policies and procedures. Perform other duties as assigned by Supervisor or designee.Education: High School diploma or GED required. Graduate of a Surgical Technologist program or US military Operating Room training preferred.Experience/Training: Previous healthcare experience preferred.License/Certifications: Current Washington State Surgical Technologist registration required. Current AHA (American Heart Association) Healthcare Provider BLS required. Certified Surgical Technician (CST) preferred.Other Skills: Effective verbal, written and interpersonal communication skills required. Must be able to effectively utilize Microsoft Office applications to perform work. Well developed problem solving and analytical skills required. Must be able to effectively prioritize workload amongst frequent interruptions with competing priorities. Knowledge of surgical instrumentation and principles of aseptic technique. Understanding of surgical service protocols and surgical equipment. Working knowledge of anatomy. Proficient in the use of surgical instrumentation, instrument handling, provider assistance and room set-up/tear down. Must be able to stand for long periods of time with constant stooping, bending and overhead reaching. Ability to lift 25 pounds. Ability to withstand repetitive hand movement and a tolerance for exposure to conditions of an operating room. Ability to coordinate work schedule with requirements of position (may include overtime and weekend work).Physical Demands & Work Environment: The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. While performing the duties of this job, the employee is regularly required to talk and hear. This position is very active and requires standing, walking, bending, kneeling, stooping, crouching, crawling, and climbing all day. The employee must frequently lift or move objects and patients weighing over 50 pounds. Specific vision abilities required by this job include close vision, distance vision, color vision, peripheral vision, depth perception and ability to focus.Our Mission: To continually improve the health of our communities serving with compassion and respect, one person at a time.About Us: Skagit Regional Health the umbrella name for Skagit Valley Hospital, Skagit Regional Clinics, and Cascade Valley Hospital and Clinics is a health care leader in Northwest Washington, providing advanced, quality and comprehensive services to the people of our communities. Skagit Regional Health has been recognized as a  Leader in LGBT Healthcare Equality  by the Human Rights Campaign (HRC). Skagit Regional Health is a smoke free campus and is committed to Safety, Compassion, Presentation, and Efficiency.   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261584;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Skagit Valley Hospital
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

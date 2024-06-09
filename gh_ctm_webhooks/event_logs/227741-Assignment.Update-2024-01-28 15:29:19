@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '29',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2128',
+  'Cf-Ray' => '84ca4530a0164961-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 03/17/2021 1225 MDTTricia Wichtoski
+                            
+                            
+                                48 hours, Minimum 2 years of experience, prefer Cerner experience, must be willing to float to other Seton locations as needed. IVS to interview and extend offer
+ RatePlan:AH-Rapid Response (Covid19) APRIL 1
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 227741
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9548
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 1
+    [bonus] => 
+    [shiftDateStart] => 2021-06-14
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 28 2024 10:29:16
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;SourceID=9160402 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Hays Medical Center ;City=Kyle ;State=TX ;Zip=78640 ;Start=4/12/2021;End=6/7/2021;Duration=57;Cert=RN ;Specialty=Med ;Unit=SMCH 3rd Floor Med/Surg ;Shift=AM 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$100.00;minBillRate=$100.00;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=03/17/2021 1225 MDTTricia Wichtoski
+                            
+                            
+                                48 hours, Minimum 2 years of experience, prefer Cerner experience, must be willing to float to other Seton locations as needed. IVS to interview and extend offer
+ RatePlan:AH-Rapid Response (Covid19) APRIL 1 ;url=https://automated.shiftwise.net/esp/order.aspx?order_id=DDA5758AA2B5F4F062D58ABF14028866;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Ascension Seton Hays
+    [shiftDateEnd] => 2021-08-09
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

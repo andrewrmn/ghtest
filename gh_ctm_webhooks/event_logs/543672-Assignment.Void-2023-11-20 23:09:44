@@ -1,0 +1,129 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4538',
+  'Cf-Ray' => '82945cbd81451834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => The Registered Nurse is a practitioner who is responsible for assessing planning implementing and evaluating nursing care for an identified group of patients. This individual demonstrates competency in delivery of care to a primarily adult population. The Registered Nurse job description has incorporated the 15 essential functions of the job description which are adapted from the ANA Standards of Clinical Nursing Practice. Other duties as assigned. 
+ Schedule Notes:float as needed
+
+Skills: American Heart Association (AHA) Advanced Cardiac Life Support (ACLS) - Required
+ Required
+	
+	  CARDIAC LIFE SUPPORT
+	   NURSING LICENSE
+	   REGISTERED NURSE
+	   REGISTERED NURSE LICENSE
+	   ACLS
+	      
+	
+	
+	
+	Additional
+	
+	            RN
+	   CARDIAC
+
+Education: American Heart Association (AHA) Advanced Cardiac Life Support (ACLS) - Required American Heart Association (AHA) Basic Life Support for the Healthcare Provider (BLS) - Required Professional knowledge of nursing theory & practice acquired through completion of a minimum of 2 years education at an accredited School of Nursing - Required Requires current state of Wisconsin Registered Nurse License or a Multi-state Nursing License from a participating state in the NLC - Required
+
+;Languages: 
+ 
+English
+&nbsp;Read
+&nbsp;Write
+&nbsp;Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: Clinical - Nursing - Travel
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 543672
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12891
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 20 2023 18:09:43
+    [daysPerWeek] => 3
+    [orderNote] => Source=Wand;SourceID=27501877 ;Status=Pending;Client=Froedtert Health ;City=West Bend ;State=WI ;Zip=53095 ;Start=12/4/2023;End=3/1/2024;Duration=88;Cert=Clinical - Nursing - Travel ;Specialty=RN - Modified Care Unit - SJH ;Unit=MODIFIED CARE UNIT (MCU) 						: SJH-60221-1000    		                Froedtert West Bend Hospital MODIFIED CARE UNIT (MCU)  : SJH-60221-1000   Froedtert West Bend Hospital ;Shift=3rd float as needed 3x12 Hr;# of Postions=1;Guaranteed Hours=36.00;Type=Travel;BillRate=$95.00;OTRate=$128.25 ;CallbackRate=$142.50 ;HolidayRate=$142.50 ;Description=The Registered Nurse is a practitioner who is responsible for assessing planning implementing and evaluating nursing care for an identified group of patients. This individual demonstrates competency in delivery of care to a primarily adult population. The Registered Nurse job description has incorporated the 15 essential functions of the job description which are adapted from the ANA Standards of Clinical Nursing Practice. Other duties as assigned. 
+ Schedule Notes:float as needed
+
+Skills: American Heart Association (AHA) Advanced Cardiac Life Support (ACLS) - Required
+ Required
+	
+	  CARDIAC LIFE SUPPORT
+	   NURSING LICENSE
+	   REGISTERED NURSE
+	   REGISTERED NURSE LICENSE
+	   ACLS
+	      
+	
+	
+	
+	Additional
+	
+	            RN
+	   CARDIAC
+
+Education: American Heart Association (AHA) Advanced Cardiac Life Support (ACLS) - Required American Heart Association (AHA) Basic Life Support for the Healthcare Provider (BLS) - Required Professional knowledge of nursing theory & practice acquired through completion of a minimum of 2 years education at an accredited School of Nursing - Required Requires current state of Wisconsin Registered Nurse License or a Multi-state Nursing License from a participating state in the NLC - Required
+
+;Languages: 
+ 
+English
+&nbsp;Read
+&nbsp;Write
+&nbsp;Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: Clinical - Nursing - Travel ;url=https://prowand.pro-unlimited.com/supplier/standard/requisition/req_geninfo_view.html?id=27501877&type=REQUISITION&reqProfile=true;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Froedtert West Bend Hospital TRAVEL
+    [shiftDateEnd] => 2024-03-01
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

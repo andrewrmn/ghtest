@@ -1,0 +1,516 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5825',
+  'Cf-Ray' => '829b94c993af1466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:10/16/2023
+
+        Unit Information:
+   (Cath Lab Rad Tech
+ 746)             Location:
+ Good Sam             
+Address:2425   Samaritan Drive 
+         
+Floor: Basement 
+             
+Building :main 
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds -
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   teams of 4 for cath lab   (EP team of #) 
+   
+o
+
+
+   Night Shift - 
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   4 :1 
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   Philips and GE 
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech / Mac Lab / CCW 
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   BLS, ACLS   
+   
+ 
+
+
+
+
+
+
+
+   CRT, FRT 
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+Able to perform Cath for LHC, RHC 
+   
+ 
+
+
+
+
+
+
+
+   Nuero   case 
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+LHC 
+
+   
+ 
+
+
+
+
+
+
+
+   
+RHC 
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Coachable, team player 
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   CRT, FRT 
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   Cath lab only 
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire - provided 
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   Code of conduct   
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   Optional
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 538847
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 1228
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Cath Lab Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 21 2023 15:11:18
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=763840 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=GOOD SAMARITAN HOSPITAL NCA ;City=SAN JOSE ;State=CA ;Zip=95124 ;Start=10/23/2023;End=1/22/2024;Duration=91;Cert=Cardiac Cath Lab Tech ;Specialty=Cardiac Cath Lab ;Unit=FAR WEST DIVISION (26) ;Shift=7:00 AM - 3:30 PM ;# of Postions=3;Type=Travel;BillRate=$100.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:10/16/2023
+
+        Unit Information:
+   (Cath Lab Rad Tech
+ 746)             Location:
+ Good Sam             
+Address:2425   Samaritan Drive 
+         
+Floor: Basement 
+             
+Building :main 
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds -
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   teams of 4 for cath lab   (EP team of #) 
+   
+o
+
+
+   Night Shift - 
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   4 :1 
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   Philips and GE 
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech / Mac Lab / CCW 
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   BLS, ACLS   
+   
+ 
+
+
+
+
+
+
+
+   CRT, FRT 
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+Able to perform Cath for LHC, RHC 
+   
+ 
+
+
+
+
+
+
+
+   Nuero   case 
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+LHC 
+
+   
+ 
+
+
+
+
+
+
+
+   
+RHC 
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Coachable, team player 
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   CRT, FRT 
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   Cath lab only 
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire - provided 
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   Code of conduct   
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   Optional
+ General Comments ;url=https://vendor.healthtrustws.com/positions/763840;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Good Samaritan Hospital
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

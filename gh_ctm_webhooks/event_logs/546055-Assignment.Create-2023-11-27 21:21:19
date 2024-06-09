@@ -1,0 +1,109 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '22',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2784',
+  'Cf-Ray' => '82cd6b8ef6234945-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:OR UNCMC ST Position #1751-6127
+Complete Description:Main OR has 32 bed suite offering all surgical specialties and is open 24/7 due to surgical trauma center.
+Requisition Comments:Proof of HS (or higher) Diploma AND Proof of ST program graduation REQUIRED FOR SUBMITTAL
+
+Lotus Offers- Fast Offers! 
+Candidates will NOT interview. 
+
+Must include RTO in submittal  
+BLS (AHA) required
+
+Neuro/ENT experience preferred
+Scheduling Details:*Travel exp required. No 1st time travelers.*
+
+3x12 Hour shifts: Days 
+9a-9p
+
+Weekend: See below.
+
+Call: 2 call shifts per week (9p7a) Possible 1 wknd (24 hr) call per 6 week sch
+
+No block scheduling
+    [sitename] => giftednurses
+    [spec] => ORT
+    [assignmentid] => 546055
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13245
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => ORT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 21:00
+    [whenmodified] => November, 27 2023 16:21:18
+    [daysPerWeek] => 3
+    [orderNote] => Source=PeopleFluent;SourceID=725039 ;Status=Open;Association=UNC Medical Center OR, 100 - 210520 - 1000 ;Client=UNC Health ;Start=12/11/2023;End=3/9/2024;Duration=89;Cert=ST ;Specialty=OR Tech ;Unit=ST - Operating Room - Days - UNC Medical Center ;Shift=3x12.0 *Travel exp required. No 1st time travelers.*
+
+3x12 Hour shifts: Days 
+9a-9p
+
+Weekend: See below.
+
+Call: 2 call shifts per week (9p7a) Possible 1 wknd (24 hr) call per 6 week sch
+
+No block scheduling;# of Postions=1;Type=Travel;BillRate=$70.00;Description=Short Description:OR UNCMC ST Position #1751-6127
+Complete Description:Main OR has 32 bed suite offering all surgical specialties and is open 24/7 due to surgical trauma center.
+Requisition Comments:Proof of HS (or higher) Diploma AND Proof of ST program graduation REQUIRED FOR SUBMITTAL
+
+Lotus Offers- Fast Offers! 
+Candidates will NOT interview. 
+
+Must include RTO in submittal  
+BLS (AHA) required
+
+Neuro/ENT experience preferred
+Scheduling Details:*Travel exp required. No 1st time travelers.*
+
+3x12 Hour shifts: Days 
+9a-9p
+
+Weekend: See below.
+
+Call: 2 call shifts per week (9p7a) Possible 1 wknd (24 hr) call per 6 week sch
+
+No block scheduling ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=725039;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => UNC Medical Center TRAVEL
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 09:00
+    [subjectID] => 
+)

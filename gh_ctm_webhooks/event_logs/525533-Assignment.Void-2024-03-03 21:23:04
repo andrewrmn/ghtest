@@ -1,0 +1,195 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3895',
+  'Cf-Ray' => '85ecaf7f2462183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN IMC7:00PM - 7:00AM13 WEEKS
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE IN LICENSE/COMPACT AT SUBMISSION
+BLS/ACLS REQUIRED
+ General CommentsUnit Information:
+ IMC 
+
+Location: Terre Haute Regional Hospital
+
+Address: 3901 S 7th Street, Terre Haute, IN 47802
+
+Floor: 5th 
+
+Building: Main
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   currently 12Type of staff:Day Shift   3 RNs, 1 PCT, 1 USNight Shift   3 RNs, 1 PCTPatient Ratios   1:4Type of equipment   tele, 
+ EMR   Meditech
+
+
+
+Hiring Profile
+
+
+
+
+Must have:
+ 
+Cardiac experience, including drips
+ 
+
+
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+Stroke experience 
+
+
+
+List typical procedures performed on unit(s): 
+
+
+ Very few, cardioversions 
+
+
+
+Best personality Fit:
+
+Outgoing, energic, organized
+ 
+REQUIRED CERTIFICATIONS:
+BLS &amp; ACLS
+Floating Area(s):
+Med/Surg
+Dress Code: 
+Scrub Color/Attire   
+Navy Scrubs 
+
+
+
+Weekends and On call:
+Up to 4 weekend shifts, usually 3. No required call shifts outside of 3- 12 hour shifts
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 525533
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7590
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-03-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => March, 03 2024 16:23:03
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=734147 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=Terre Haute Regional Hospital IN ;City=Terre Haute ;State=IN ;Zip=47802 ;Start=2/9/2024;End=5/10/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM-7:00AM;# of Postions=1;Type=Travel;BillRate=$85.00;minBillRate=$85.00;OTRate=93 ;CallbackRate=93 ;HolidayRate=93 ;Orientation=0 ;Description=Description:TRAVEL RN IMC7:00PM - 7:00AM13 WEEKS
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE IN LICENSE/COMPACT AT SUBMISSION
+BLS/ACLS REQUIRED
+ General CommentsUnit Information:
+ IMC 
+
+Location: Terre Haute Regional Hospital
+
+Address: 3901 S 7th Street, Terre Haute, IN 47802
+
+Floor: 5th 
+
+Building: Main
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   currently 12Type of staff:Day Shift   3 RNs, 1 PCT, 1 USNight Shift   3 RNs, 1 PCTPatient Ratios   1:4Type of equipment   tele, 
+ EMR   Meditech
+
+
+
+Hiring Profile
+
+
+
+
+Must have:
+ 
+Cardiac experience, including drips
+ 
+
+
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+Stroke experience 
+
+
+
+List typical procedures performed on unit(s): 
+
+
+ Very few, cardioversions 
+
+
+
+Best personality Fit:
+
+Outgoing, energic, organized
+ 
+REQUIRED CERTIFICATIONS:
+BLS &amp; ACLS
+Floating Area(s):
+Med/Surg
+Dress Code: 
+Scrub Color/Attire   
+Navy Scrubs 
+
+
+
+Weekends and On call:
+Up to 4 weekend shifts, usually 3. No required call shifts outside of 3- 12 hour shifts
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/734147;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Terre Haute Regional Hospital
+    [shiftDateEnd] => 2024-06-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,96 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '43',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3437',
+  'Cf-Ray' => '82edcfd422ae1840-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Northwest Health - La Porte  Travel Cath Lab RN
+ Start: ASAP
+ Duration: 13 weeks
+ Shift: Days, 8hr or 10hr shifts depending on cases, weekday/weekend call required  **$100/hr rate approved**BLS, ACLS required!!Please don't submit unless agreeable to BOTH 8hr AND 10hr shifts!!
+ General Comments8 hour shifts or 4 10 hour shifts. Call is required. Minimum every third weekend on call and 2 days per week. Call may be more based on vacations and staff PTO.
+ Weekend call coverage is Friday afternoon
+through Monday morning.
+ 
+  
+Hours are from 6- 430pm or 6-230. That may change based on case start times.
+
+  
+
+
+  Education:
+    Associate Degree in Nursing (ADN/ASN) required, BSN      preferred.    Licensure & Certification:
+    Current licensure as a Registered Nurse in the State of      Indiana.   BLS certification must be maintained while in this      position   ACLS certification within 12 months of hire, must be      maintained while in this position
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 544982
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 10686
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 01 2023 14:42:10
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=774679 ;Status=Open;Association=Community Health Systems ;Client=Northwest Health - La Porte ;City=La Porte ;State=IN ;Zip=46350 ;Start=12/11/2023;End=3/4/2024;Duration=84;Cert=RN ;Specialty=Cardiac Cath Lab ;Unit=EXT-Other (911) ;Shift=6- 430pm;6-230;6- 430pm;6-230;# of Postions=1;Type=Travel;BillRate=$5.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Northwest Health - La Porte  Travel Cath Lab RN
+ Start: ASAP
+ Duration: 13 weeks
+ Shift: Days, 8hr or 10hr shifts depending on cases, weekday/weekend call required  **$100/hr rate approved**BLS, ACLS required!!Please don't submit unless agreeable to BOTH 8hr AND 10hr shifts!!
+ General Comments8 hour shifts or 4 10 hour shifts. Call is required. Minimum every third weekend on call and 2 days per week. Call may be more based on vacations and staff PTO.
+ Weekend call coverage is Friday afternoon
+through Monday morning.
+ 
+  
+Hours are from 6- 430pm or 6-230. That may change based on case start times.
+
+  
+
+
+  Education:
+    Associate Degree in Nursing (ADN/ASN) required, BSN      preferred.    Licensure & Certification:
+    Current licensure as a Registered Nurse in the State of      Indiana.   BLS certification must be maintained while in this      position   ACLS certification within 12 months of hire, must be      maintained while in this position
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/774679;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => La Porte Hospital 
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

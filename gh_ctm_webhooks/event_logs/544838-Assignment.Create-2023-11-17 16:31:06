@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '887',
+  'Cf-Ray' => '82795cacf70c1465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 544838
+    [workerID] => 2947
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 133488 82523 sd
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6647
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-30
+    [workerLastName] => Luster
+    [shiftNum] => 5
+    [workerFirstName] => Yvette
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:15
+    [whenmodified] => November, 17 2023 11:31:05
+    [daysPerWeek] => 3
+    [orderNote] => $1.54 Insurance. 
+Request off: None
+PO? 75H71023P00598
+    [guaranteedMinimum] => 
+    [workerEmail] => yluste@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 168
+    [facilityName] => IHS- Chinle Comprehensive Health Care Travel
+    [shiftDateEnd] => 2024-03-31
+    [shiftStartTime] => 18:45
+    [subjectID] => 
+)

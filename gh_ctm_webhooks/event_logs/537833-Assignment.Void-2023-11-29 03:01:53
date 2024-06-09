@@ -1,0 +1,75 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1849',
+  'Cf-Ray' => '82d79bd2b15323b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 weeks
+36 hrs/wk with call
+Days with rotating start times
+BLS/ACLS/Valid CRT from State of California with Fluoroscopy required 
+ARRT in Radiology Required 
+2 years previous Cath Lab Cardiac Radiology Technologist required 
+
+MUST START BY 10/1/23
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 537833
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 1477
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Cath Lab Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 28 2023 22:01:53
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=45980 ;Status=Open;Association=Trinity Health ;Client=CA - Saint Agnes Medical Center ;City=Fresno ;State=CA ;Zip=93720 ;Start=10/8/2023;End=1/6/2024;Duration=90;Cert=Cardiac Radiology Technologist ;Specialty=Cath Lab ;Unit=CA\Saint Agnes\Cardiac Cath Lab Rad Tech ;Shift=7a7p;# of Postions=2;Type=Travel;BillRate=$145.00;OTRate=188.50 ;ChargeRate=148.00 ;CallbackRate=188.50 ;HolidayRate=188.50 ;Orientation=0.00 ;Description=13 weeks
+36 hrs/wk with call
+Days with rotating start times
+BLS/ACLS/Valid CRT from State of California with Fluoroscopy required 
+ARRT in Radiology Required 
+2 years previous Cath Lab Cardiac Radiology Technologist required 
+
+MUST START BY 10/1/23 ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 145
+    [facilityName] => Saint Agnes Medical Center TRAVEL
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

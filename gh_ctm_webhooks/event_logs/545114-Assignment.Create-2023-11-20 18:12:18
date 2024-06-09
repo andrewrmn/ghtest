@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3745',
+  'Cf-Ray' => '8292a90e726e1838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Step Down RN needed for the Clinical Decision Unit/ED. A minimum of 2 year of Nursing experience. BLS, ACLS required. 2 recent references; .**Must be proficient in Drips & Vents.**** All travelers will be required to float if needed. They will only be asked to float within their skill set.For more than 75 years, Shannon Medical Center has served this area, growing with the community and serving its health care needs.  Our facility is licensed for 400 beds and provides a variety of clinical services to meet each patient's needs. We are the designated Lead Level 3 Trauma Center for the region, have a nationally-recognized Intensive Care Unit, provide critical care to newborns as young as 28 weeks, perform state-of-the-art diagnostics in our radiology department, and provide complete testing and surgical capabilities for the cardiology patient among many more services.**Shannon Medical Center has a 110 mile radius rule, no contractor will be employed if they live within this radius.**   Additional Information:**Shannon Medical does NOT hire travelers/contractors that have a permanent address within 110 miles of the facility.**   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Stepdown
+    [assignmentid] => 545114
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1343
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 20 2023 13:12:18
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261919 ;Status=Open;Association=Shannon Medical Center ;Client=Shannon Medical Center ;City=San Angelo ;State=TX ;Zip=76903 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Nursing ;Specialty=Step Down, IMC (Intermediate Care) ;Unit=Step Down, IMC (Intermediate Care) ;Shift=to be determined. ;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$95.00;OTRate=105 ;OTRules=By The Week, after 48, ;HolidayRate=105 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=Step Down RN needed for the Clinical Decision Unit/ED. A minimum of 2 year of Nursing experience. BLS, ACLS required. 2 recent references; .**Must be proficient in Drips & Vents.**** All travelers will be required to float if needed. They will only be asked to float within their skill set.For more than 75 years, Shannon Medical Center has served this area, growing with the community and serving its health care needs.  Our facility is licensed for 400 beds and provides a variety of clinical services to meet each patient's needs. We are the designated Lead Level 3 Trauma Center for the region, have a nationally-recognized Intensive Care Unit, provide critical care to newborns as young as 28 weeks, perform state-of-the-art diagnostics in our radiology department, and provide complete testing and surgical capabilities for the cardiology patient among many more services.**Shannon Medical Center has a 110 mile radius rule, no contractor will be employed if they live within this radius.**   Additional Information:**Shannon Medical does NOT hire travelers/contractors that have a permanent address within 110 miles of the facility.**   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261919;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Shannon Medical Center Medefis
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

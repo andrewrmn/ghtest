@@ -1,0 +1,86 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3260',
+  'Cf-Ray' => '82a3f108516123b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 11/27 start date is firm
+crisis compliance
+  Our call is around 2 or 3 calls a (6 week schedule), they are for 12 hours each.  Days (0630-1830) and or nights (1830-0600). We have stay late team as well, that could possibly be once a week.  As cases, finish any room could be a trauma room.   
+
+
+
+
+ Modified Time:11/27/2023 8:00:00 AM
+ Account Manager: Shannon Steely
+ Account Manager Email: Ssteely@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel.
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 544975
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13890
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 22 2023 15:32:23
+    [daysPerWeek] => 5
+    [orderNote] => Source=AYA;SourceID=2284070 ;Status=Open;Association=Vaya Legacy MSP (Connect) ;Client=LCMC Health University Medical Center New Orleans ;City=New Orleans ;State=LA ;Zip=70112 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Registered Nurse ;Specialty=Operating Room ;Unit=Vaya - OR 50045 ;Shift=Day 5x8-Hour (11:00 - 19:30);# of Postions=1;Type=Travel;BillRate=$95.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=11/27 start date is firm
+crisis compliance
+  Our call is around 2 or 3 calls a (6 week schedule), they are for 12 hours each.  Days (0630-1830) and or nights (1830-0600). We have stay late team as well, that could possibly be once a week.  As cases, finish any room could be a trauma room.   
+
+
+
+
+ Modified Time:11/27/2023 8:00:00 AM
+ Account Manager: Shannon Steely
+ Account Manager Email: Ssteely@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2284070/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => University Medical Center of New Orleans TRV VAYA
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

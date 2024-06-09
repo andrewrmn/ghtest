@@ -1,0 +1,643 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '86',
+  'Ki-Request-Colo' => '658',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '10343',
+  'Cf-Ray' => '8579147cb48610f2-ORD',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Hospital:
+ Rapides   Regional Medical Center             Location: Alexandria, Louisiana             
+Address: 211 4th   Street
+         
+Unit Name: Medical   ICU
+             
+Building: South   Tower
+         
+Cost Center: 65073
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds : 26
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios : 2:1
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description: RNs and   Unit secretary/COVID runner. Total care is provided by RNs.
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment: Ventilators, Alaris   IV pumps, Balloon pumps, ventriculostomy drains, glucometers. Use of iMobile   phones and technology by all staff in the hospital. PPE- includes mask, face   shields, goggles, PAPR s and hoods for our COVID-19 patients.
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech using   EBCD (Evidence Based Clinical Documentation)
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: All nursing   shift are twelve hours from 7 to 7; every other weekend.
+ Holiday requirements
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: Nursing staff will   float to other Medical-Surgical Units in the hospital as needed with priority   focus on pulling to Intensive Care Units.
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements:   Hourly rounding, bedside hand-off reporting, completion of  My Care Board    during hand-off report; use of AIDET with a focus on compassionate connected   care.
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Pathways to   Excellence Certified
+   
+ 
+
+
+
+
+
+
+
+   Working   toward Magnet status
+   
+ 
+
+
+
+
+
+
+
+   Certified   Stroke Center
+   
+ 
+
+
+
+
+
+
+
+   Certified   Chest Pain Center
+   
+ 
+
+
+
+
+
+
+
+   Level II   Trauma Center
+             Hiring profile             Requested Skill Set:   
+   
+Must have: 
+Must   be willing to care for COVID-19 patients, ICU experience, Positive attitude,   flexibility, teamwork, desire for excellence, self-motivated, good   communication and people skills, ability to work in a diverse environment. 
+   
+
+
+   
+Advanced skills needed: Ventilator management, critical care drip   knowledge, thorough and accurate assessment skills, and proficient knowledge   with cardiac, neuro, and respiratory systems, and Don and Doff of PPE.
+   
+
+
+   
+   
+Procedures performed on unit: 
+Intubations,   cardioversions, ventriculostomy drain placement and management, IABP   management, continual renal replacement therapy (CRRT), proning of patients.
+   
+
+
+   
+
+
+   
+Certifications Required: ACLS and BLS;
+   TNCC a plus
+   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   Ceil blue scrubs
+   
+ 
+
+
+
+
+
+
+
+   White or ceil blue scrub jacket   optional
+   
+ 
+
+
+
+
+
+
+
+   If working with COVID patients, green   surgery scrubs will be provided upon arrival to unit. 
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Awards/Recognition: 
+   
+ 
+
+
+
+
+
+
+
+   HCA Unit of Distinction winner of top   10% and 5%. Finished overall #2 ranked ICU in HCA in 2019.
+   
+ 
+
+
+
+
+
+
+
+   Quality measures are highly maintained
+   
+
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+
+
+
+
+
+
+
+   Many staff   members are nationally certified, including managers
+   
+ 
+
+
+
+
+
+
+
+   Several   highly tenured nursing staff
+   
+ 
+
+
+
+
+
+
+
+   Self-scheduling   within certain guidelines
+   
+ 
+
+
+
+
+
+
+
+   iMobile   technology
+   
+ 
+
+
+
+
+
+
+
+   This unit   cares for ICU COVID-19 patients
+ General Comments
+ No. of Positions: 2/3.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 531281
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7577
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-02-26
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => February, 18 2024 15:39:32
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=741935 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=RAPIDES REGIONAL MEDICAL CENTER LA ;City=ALEXANDRIA ;State=LA ;Zip=71301 ;Start=12/8/2023;End=3/8/2024;Duration=91;Cert=RN ;Specialty=ICU ;Unit=NORTH TEXAS DIVISION (17) ;Shift= 7:00 PM - 7:00 AM;# of Postions=2;Type=Travel;BillRate=$70.00;minBillRate=$70.00;OTRate=78 ;CallbackRate=78 ;HolidayRate=78 ;Orientation=0 ;Description=Description:Hospital:
+ Rapides   Regional Medical Center             Location: Alexandria, Louisiana             
+Address: 211 4th   Street
+         
+Unit Name: Medical   ICU
+             
+Building: South   Tower
+         
+Cost Center: 65073
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds : 26
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios : 2:1
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description: RNs and   Unit secretary/COVID runner. Total care is provided by RNs.
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment: Ventilators, Alaris   IV pumps, Balloon pumps, ventriculostomy drains, glucometers. Use of iMobile   phones and technology by all staff in the hospital. PPE- includes mask, face   shields, goggles, PAPR s and hoods for our COVID-19 patients.
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech using   EBCD (Evidence Based Clinical Documentation)
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: All nursing   shift are twelve hours from 7 to 7; every other weekend.
+ Holiday requirements
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: Nursing staff will   float to other Medical-Surgical Units in the hospital as needed with priority   focus on pulling to Intensive Care Units.
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements:   Hourly rounding, bedside hand-off reporting, completion of  My Care Board    during hand-off report; use of AIDET with a focus on compassionate connected   care.
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Pathways to   Excellence Certified
+   
+ 
+
+
+
+
+
+
+
+   Working   toward Magnet status
+   
+ 
+
+
+
+
+
+
+
+   Certified   Stroke Center
+   
+ 
+
+
+
+
+
+
+
+   Certified   Chest Pain Center
+   
+ 
+
+
+
+
+
+
+
+   Level II   Trauma Center
+             Hiring profile             Requested Skill Set:   
+   
+Must have: 
+Must   be willing to care for COVID-19 patients, ICU experience, Positive attitude,   flexibility, teamwork, desire for excellence, self-motivated, good   communication and people skills, ability to work in a diverse environment. 
+   
+
+
+   
+Advanced skills needed: Ventilator management, critical care drip   knowledge, thorough and accurate assessment skills, and proficient knowledge   with cardiac, neuro, and respiratory systems, and Don and Doff of PPE.
+   
+
+
+   
+   
+Procedures performed on unit: 
+Intubations,   cardioversions, ventriculostomy drain placement and management, IABP   management, continual renal replacement therapy (CRRT), proning of patients.
+   
+
+
+   
+
+
+   
+Certifications Required: ACLS and BLS;
+   TNCC a plus
+   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   Ceil blue scrubs
+   
+ 
+
+
+
+
+
+
+
+   White or ceil blue scrub jacket   optional
+   
+ 
+
+
+
+
+
+
+
+   If working with COVID patients, green   surgery scrubs will be provided upon arrival to unit. 
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Awards/Recognition: 
+   
+ 
+
+
+
+
+
+
+
+   HCA Unit of Distinction winner of top   10% and 5%. Finished overall #2 ranked ICU in HCA in 2019.
+   
+ 
+
+
+
+
+
+
+
+   Quality measures are highly maintained
+   
+
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+
+
+
+
+
+
+
+   Many staff   members are nationally certified, including managers
+   
+ 
+
+
+
+
+
+
+
+   Several   highly tenured nursing staff
+   
+ 
+
+
+
+
+
+
+
+   Self-scheduling   within certain guidelines
+   
+ 
+
+
+
+
+
+
+
+   iMobile   technology
+   
+ 
+
+
+
+
+
+
+
+   This unit   cares for ICU COVID-19 patients
+ General Comments
+ No. of Positions: 2/3.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/741935;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Rapides Regional Medical Center - Travel
+    [shiftDateEnd] => 2024-05-27
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

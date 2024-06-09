@@ -1,0 +1,65 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2463',
+  'Cf-Ray' => '82a4798237a323b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => (VAYA OFFER) CRCST certified. Travel Experience required. Level 1 trauma experience and 3+ years experience in sterile processing. Proficient in decontamination, assembly, sterilization, case carts and scope reprocessing. Also proficient in the following service lines: Ortho, Neuro, CT, Trauma, Vascular, Oral, Plastics, ENT, and General surgeries. No time off granted requests during first contract. (BF for Tyra Bailey, TL) 
+ Critical Need: Nursing Critical
+VayaOffer = True
+    [sitename] => giftednurses
+    [spec] => Sterile Processing Tech 
+    [assignmentid] => 545717
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 12923
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Sterile Processing Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 22 2023 17:05:34
+    [daysPerWeek] => 5
+    [orderNote] => Source=OptimizerVizient;SourceID=83707213 ;Status=CandidatesRequested;Association=University of Kentucky Hospital ;Client=University of Kentucky Hospital ;City=Lexington ;State=KY ;Zip=40536 ;Start=12/18/2023;End=3/23/2024;Duration=96;Cert=Central Sterile Tech ;Specialty=Central Sterile Tech ;Unit=CH PAV A OR- Central Sterile - 1058729750 ;Shift=7:00 AM - 3:30 PM;# of Postions=1;Guaranteed Hours=0;Type=Travel;BillRate=$53.00;OTRate=74.20 ;CallbackRate=74.20 ;HolidayRate=79.50 ;Orientation=37.10 ;Priority=Critical;Description=(VAYA OFFER) CRCST certified. Travel Experience required. Level 1 trauma experience and 3+ years experience in sterile processing. Proficient in decontamination, assembly, sterilization, case carts and scope reprocessing. Also proficient in the following service lines: Ortho, Neuro, CT, Trauma, Vascular, Oral, Plastics, ENT, and General surgeries. No time off granted requests during first contract. (BF for Tyra Bailey, TL) 
+ Critical Need: Nursing Critical
+VayaOffer = True ;url=https://optimizer.vayaworkforce.com/agency/job-requests/83707213;localRate=$47.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 53
+    [facilityName] => University of Kentucky Hospital Travel
+    [shiftDateEnd] => 2024-03-23
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

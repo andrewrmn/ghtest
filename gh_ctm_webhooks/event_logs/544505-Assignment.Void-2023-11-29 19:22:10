@@ -1,0 +1,85 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '28',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1854',
+  'Cf-Ray' => '82dd37c383cb495d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Unit:Osler 3 Halsted 3-General Medicine
+
+	MS/Tele RN
+
+	Shift:AM/PM rotation
+
+	EOW, Holidays as needed
+
+	AVL CALL:(2) 12 hour shifts for 6-week schedule
+
+	Required: 2 yrs MS/Tele, BLS
+
+	Preferred:EPIC experience, travel experience
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544505
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1877
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 29 2023 14:22:09
+    [daysPerWeek] => 3
+    [orderNote] => Source=IntrastaffVMS;SourceID=304461 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Johns Hopkins Hospital ;Start=12/11/2023;End=3/9/2024;Duration=89;Cert=MSP RN Enhanced High Needs ;Specialty=OSLER 3 HALSTED 3 (4801337989) ;Unit=OSLER 3 HALSTED 3 (4801337989) ;Shift=ROTATING 7A/7P (12:00 AM - 12:00 AM);# of Postions=1;Type=Travel;BillRate=$85.00;minBillRate=$85.00;Description=Unit:Osler 3 Halsted 3-General Medicine
+
+	MS/Tele RN
+
+	Shift:AM/PM rotation
+
+	EOW, Holidays as needed
+
+	AVL CALL:(2) 12 hour shifts for 6-week schedule
+
+	Required: 2 yrs MS/Tele, BLS
+
+	Preferred:EPIC experience, travel experience ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=QSroocmHucA=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => The Johns Hopkins Hospital TRAVEL
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

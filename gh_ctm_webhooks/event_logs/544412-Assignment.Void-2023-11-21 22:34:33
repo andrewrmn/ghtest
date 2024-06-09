@@ -1,0 +1,101 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2537',
+  'Cf-Ray' => '829c66922561183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => The Johns Hopkins Hospital-The Sidney Kimmel Comprehensive Cancer Center
+
+	Weinberg Infusion Clinic;Ambulatory Oncology Infusion RN -Infusion Clinic
+
+	Experience: 2 years RN experience; BLS; chemo/bio/Immuno therapy provider card required
+
+	Preferred:Ambulatory Oncology with Epic experience
+
+	Requirements:
+
+	     Experienced Oncology nurse; Chemo competent
+
+	     Ambulatory experience preferred
+
+	     Travel experience preferred
+
+	     Experience with Epic/Beacon    
+
+	Length:13 Weeks
+
+	Float as needed to other Onc Infusion Center and areas of like skill set.
+    [sitename] => giftednurses
+    [spec] => Oncol
+    [assignmentid] => 544412
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 1877
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:30
+    [whenmodified] => November, 21 2023 17:34:32
+    [daysPerWeek] => 4
+    [orderNote] => Source=IntrastaffVMS;SourceID=304410 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Johns Hopkins Hospital ;Start=12/18/2023;End=3/17/2024;Duration=90;Cert=MSP RN Enhanced High Needs ;Specialty=Wbg Onc Infusion (4801357421) ;Unit=Wbg Onc Infusion (4801357421) ;Shift=Day 10 (7:00 AM - 5:30 PM);# of Postions=1;Type=Travel;BillRate=$90.00;minBillRate=$90.00;Description=The Johns Hopkins Hospital-The Sidney Kimmel Comprehensive Cancer Center
+
+	Weinberg Infusion Clinic;Ambulatory Oncology Infusion RN -Infusion Clinic
+
+	Experience: 2 years RN experience; BLS; chemo/bio/Immuno therapy provider card required
+
+	Preferred:Ambulatory Oncology with Epic experience
+
+	Requirements:
+
+	     Experienced Oncology nurse; Chemo competent
+
+	     Ambulatory experience preferred
+
+	     Travel experience preferred
+
+	     Experience with Epic/Beacon    
+
+	Length:13 Weeks
+
+	Float as needed to other Onc Infusion Center and areas of like skill set. ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=f*EXMDM4t6A=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => The Johns Hopkins Hospital TRAVEL
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

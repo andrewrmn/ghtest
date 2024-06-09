@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '415',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '942',
+  'Cf-Ray' => '8567490f35e06303-ORD',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: End Date Change
+End Date: 2/21/2024
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 527137
+    [workerID] => 200067
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 14367
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-23
+    [workerLastName] => Brock
+    [shiftNum] => 4
+    [workerFirstName] => Erin
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => February, 16 2024 11:49:41
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$90lRS:133682lFTK:Paycom
+ChrgDiff:P$2/B$5lOnCl:P$5.50/B$7.50
+    [guaranteedMinimum] => 
+    [workerEmail] => nurserin23@icloud.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Duncan Regional Hospital TRAVEL (Qualivis)
+    [shiftDateEnd] => 2024-02-21
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,444 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7832',
+  'Cf-Ray' => '8357c8da609877bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Data Collection:
+          Unit Information:
+   (insert name)             Location: 
+Brownsville, Texas             
+Address: 100 A.   Gloor
+         
+Floor: 2nd   Floor-2W Surgical
+             
+Building:
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+   Number of Beds   Bed Capacity is 32
+   
+ 
+
+
+
+
+
+   Number of Staff   Unit has 40 employees
+   
+ 
+
+
+
+
+
+   Type of staff: Director, manager,   CN s, Staff RN s, LVN s, Nurse Aides, and Unit secretaries.
+   
+o
+
+   Day Shift   CN, 3-5 staff nurses   (depending on census), 2-3 nurse aides, and US
+   
+o
+
+   Night Shift   CN, 3-5 staff nurses   (depending on census), 2-3 aides.
+   
+ 
+
+
+
+
+
+   Patient Ratios   6-7 patients per   nurse; 2-3 nurses depending of census.
+   
+ 
+
+
+
+
+
+   Type of equipment   PCA pumps, IV   pumps
+   
+ 
+
+
+
+
+
+   EMR -
+             Typical hiring profile             Skill Set Most recruited for:
+   (Travel RNs, local CNAs and sitters)   
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+ Med-Surg experience. 
+   
+ 
+
+
+
+
+
+ Minimum of 2 years recent hospital experience
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+ 
+Surgical   experience;
+ bilingual preferred but   not a must; 
+   
+ 
+
+
+
+
+
+ 
+Experience   with Meditech
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+ Admissions, discharges, transfers;
+ 
+   
+ 
+
+
+
+
+
+ Wound care, IV s, Blood administration,   collecting of specimens, medication administration
+             
+Dress Code: Include requirements, but most of   all not acceptable attire.
+   
+ 
+
+
+
+
+
+   Scrub Color -
+ Royal Blue; Only scrub jacket in white or   royal blue may be used; no outside jackets.
+    
+
+
+
+
+
+   
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+ 
+
+   
+
+
+             Awards/Recognition: 
+Feel free to include items such as   links to videos that feature the department, outstanding department/team   awards, reigning annual chili cook-off winners, etc.
+    
+ 
+
+
+
+
+
+   Unit is currently over 500 days free   of any CAUTIs, CLABSI s, Pressure ulcers 
+   
+ 
+
+
+
+
+
+   Unit of Distinction 2017
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.
+ *Remember it is a very   competitive market any information you can provide will help attract talent.
+ General Comments1.Local Fill
+2846419
+Auto backfill for
+Jei Badon
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 535591
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5410
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-01
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 14 2023 11:22:13
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=748279 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=VALLEY REGIONAL MEDICAL CENTER ;City=Brownsville ;State=TX ;Zip=78526 ;Start=9/29/2023;End=12/29/2023;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=GULF COAST DIVISION (14) ;Shift=7:00PM-7:00AM;# of Postions=1;Type=Travel;BillRate=$65.00;minBillRate=$65.00;OTRate=73 ;CallbackRate=73 ;HolidayRate=73 ;Orientation=0 ;Description=Description:Data Collection:
+          Unit Information:
+   (insert name)             Location: 
+Brownsville, Texas             
+Address: 100 A.   Gloor
+         
+Floor: 2nd   Floor-2W Surgical
+             
+Building:
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+   Number of Beds   Bed Capacity is 32
+   
+ 
+
+
+
+
+
+   Number of Staff   Unit has 40 employees
+   
+ 
+
+
+
+
+
+   Type of staff: Director, manager,   CN s, Staff RN s, LVN s, Nurse Aides, and Unit secretaries.
+   
+o
+
+   Day Shift   CN, 3-5 staff nurses   (depending on census), 2-3 nurse aides, and US
+   
+o
+
+   Night Shift   CN, 3-5 staff nurses   (depending on census), 2-3 aides.
+   
+ 
+
+
+
+
+
+   Patient Ratios   6-7 patients per   nurse; 2-3 nurses depending of census.
+   
+ 
+
+
+
+
+
+   Type of equipment   PCA pumps, IV   pumps
+   
+ 
+
+
+
+
+
+   EMR -
+             Typical hiring profile             Skill Set Most recruited for:
+   (Travel RNs, local CNAs and sitters)   
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+ Med-Surg experience. 
+   
+ 
+
+
+
+
+
+ Minimum of 2 years recent hospital experience
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+ 
+Surgical   experience;
+ bilingual preferred but   not a must; 
+   
+ 
+
+
+
+
+
+ 
+Experience   with Meditech
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+ Admissions, discharges, transfers;
+ 
+   
+ 
+
+
+
+
+
+ Wound care, IV s, Blood administration,   collecting of specimens, medication administration
+             
+Dress Code: Include requirements, but most of   all not acceptable attire.
+   
+ 
+
+
+
+
+
+   Scrub Color -
+ Royal Blue; Only scrub jacket in white or   royal blue may be used; no outside jackets.
+    
+
+
+
+
+
+   
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+ 
+
+   
+
+
+             Awards/Recognition: 
+Feel free to include items such as   links to videos that feature the department, outstanding department/team   awards, reigning annual chili cook-off winners, etc.
+    
+ 
+
+
+
+
+
+   Unit is currently over 500 days free   of any CAUTIs, CLABSI s, Pressure ulcers 
+   
+ 
+
+
+
+
+
+   Unit of Distinction 2017
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.
+ *Remember it is a very   competitive market any information you can provide will help attract talent.
+ General Comments1.Local Fill
+2846419
+2.
+
+Auto backfill for
+Jei Badon and
+Wendy Quirk
+ who Canceled
+
+
+Position:
+749422
+
+
+
+4 total opens.
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/748279;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Valley Regional Medical Center - Travel
+    [shiftDateEnd] => 2024-04-01
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2364',
+  'Cf-Ray' => '82bd1d76951423c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Charting procedures, monitoring pt. vitals, sedation, assisting with care. Pre-post OP care   Additional Information:50 mile radius rule is in place. traveler's permanent address must be 50 miles or further from facility -------------All of the travelers documents must be in by 3pm Wednesday the week before the traveler starts. They will automatically be pushed out till the next orientation class.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Interventional Radiology
+    [assignmentid] => 537366
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10066
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 25 2023 16:51:47
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=260072 ;Status=Open;Association=CHI Hospital System ;Client=St. Alexius Health Bismarck MBO 4000 ;City=Bismarck ;State=ND ;Zip=58501 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Nursing ;Specialty=Interventional Radiology ;Unit=Interventional Radiology ;Shift=SAHB IR RN 2;# of Postions=3;Guaranteed Hours=32;Type=Travel;BillRate=$110.00;OTRate=110 ;OTRules=By The Week, after 40, ;ChargeRate=5 (Charge Rate Differential) ;CallbackRate=110 (All Inclusive Rate) ;HolidayRate=110 (All Inclusive Rate) ;OnCallRateDescription=$7 per hour pager ;Description=Charting procedures, monitoring pt. vitals, sedation, assisting with care. Pre-post OP care   Additional Information:50 mile radius rule is in place. traveler's permanent address must be 50 miles or further from facility -------------All of the travelers documents must be in by 3pm Wednesday the week before the traveler starts. They will automatically be pushed out till the next orientation class.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260072;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => Saint Alexius Health
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

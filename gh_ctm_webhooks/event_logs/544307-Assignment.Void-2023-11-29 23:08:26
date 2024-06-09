@@ -1,0 +1,135 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5328',
+  'Cf-Ray' => '82de8337c183183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position / Specialty: Ultrasound/Sonographer
+Start date: December
+Ratios: 1:2
+2 Years of experience required
+First-timers accepted
+Certs REQ: BLS, ARRT, ARDMS - OB, AB, BR
+On Call required
+Floating Required: No
+Schedule :
+Friday 7p-7a
+Saturday 11p-7a
+Sunday 11p-7a
+Monday 7p-7a
+
+Locals accepted 
+RTO Restrictions: must be presented at the of submission. 
+Guaranteed Hours: 40
+Other Details: 
+Required: BLS, 2 years experience in the field, and at least one weekday of their weekly schedule.
+ 
+Hospital Highlights
+Type of Facility: Short Term Acute Care
+Magnet / Teaching / Level Trauma (if applicable):Voluntary Non-Profit. Level III Trauma
+Total Staffed Beds: 110
+Scrub Color: blue for nursing; purple or gray for Respiratory; Surgery and Birth Center provide facility laundered scrubs
+Charting: Meditech   experience preferred
+Parking Cost: None
+Duncan Regional Hospital in Duncan, OK is rated high performing in 1 adult procedure or condition. It is a general medical and surgical facility.
+Formed more than 45 years ago from three Duncan-area hospitals, Lindley, Physicians & Surgeons, and Medical Center, joined together to what has now become a non-for-profit system consisting of two hospitals and 20 provider clinics that offer a variety of specialty practices including cancer-oncology, wound and cardiac care.
+
+
+ Modified Time:12/11/2023 12:00:00 AM
+ Account Manager: Thomas Pettineo
+ Account Manager Email: Thomas.pettineo@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceNeed 3 weeks/21 calendar days+ at minimum lead time from Booking to Start to account for Credentialing/Compliance.RTO must be included with submittal, including any RTO needed during the onboarding process, prestart to the assignmentLicense in hand with submittalMeditech experience preferred
+    [sitename] => giftednurses
+    [spec] => Ultrasound Tech
+    [assignmentid] => 544307
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 14367
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => Ultrasound Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 29 2023 18:08:25
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2298073 ;Status=Open;Association=Qualivis MSP ;Client=Duncan Regional Hospital ;City=Duncan ;State=OK ;Zip=73533 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Radiology / Cardiology ;Specialty=Ultrasound Tech - General ;Unit=01.7041 Imaging ;Shift=Night 2x12-Hour (19:00 - 07:00); Night 2x8-Hour (23:00 - 07:00);# of Postions=1;Type=Travel;BillRate=$90.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Position / Specialty: Ultrasound/Sonographer
+Start date: December
+Ratios: 1:2
+2 Years of experience required
+First-timers accepted
+Certs REQ: BLS, ARRT, ARDMS - OB, AB, BR
+On Call required
+Floating Required: No
+Schedule :
+Friday 7p-7a
+Saturday 11p-7a
+Sunday 11p-7a
+Monday 7p-7a
+
+Locals accepted 
+RTO Restrictions: must be presented at the of submission. 
+Guaranteed Hours: 40
+Other Details: 
+Required: BLS, 2 years experience in the field, and at least one weekday of their weekly schedule.
+ 
+Hospital Highlights
+Type of Facility: Short Term Acute Care
+Magnet / Teaching / Level Trauma (if applicable):Voluntary Non-Profit. Level III Trauma
+Total Staffed Beds: 110
+Scrub Color: blue for nursing; purple or gray for Respiratory; Surgery and Birth Center provide facility laundered scrubs
+Charting: Meditech   experience preferred
+Parking Cost: None
+Duncan Regional Hospital in Duncan, OK is rated high performing in 1 adult procedure or condition. It is a general medical and surgical facility.
+Formed more than 45 years ago from three Duncan-area hospitals, Lindley, Physicians & Surgeons, and Medical Center, joined together to what has now become a non-for-profit system consisting of two hospitals and 20 provider clinics that offer a variety of specialty practices including cancer-oncology, wound and cardiac care.
+
+
+ Modified Time:12/11/2023 12:00:00 AM
+ Account Manager: Thomas Pettineo
+ Account Manager Email: Thomas.pettineo@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceNeed 3 weeks/21 calendar days+ at minimum lead time from Booking to Start to account for Credentialing/Compliance.RTO must be included with submittal, including any RTO needed during the onboarding process, prestart to the assignmentLicense in hand with submittalMeditech experience preferred ;url=https://app.ayaconnect.com/index.html#/vendor/job/2298073/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Duncan Regional Hospital TRAVEL (Qualivis)
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

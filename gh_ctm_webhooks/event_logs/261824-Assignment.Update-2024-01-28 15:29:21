@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2235',
+  'Cf-Ray' => '84ca453c44951830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 08/10/2021 1044 MDTTricia Wichtoski
+                            
+                            
+                                Bill Rate: $165/hr. Prefer 48 hours but will consider 36 hours. Open to 8-13 week contract. Must be willing to float to other Seton facilities if needed. 2+ years of experience. Cerner experience preferred. IVS interview w/ offer
+ RatePlan:AH-CRISIS RN rates (8/2/2021)
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 261824
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9548
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 1
+    [bonus] => 
+    [shiftDateStart] => 2021-08-30
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 28 2024 10:29:16
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;SourceID=9385276 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Hays Medical Center ;City=Kyle ;State=TX ;Zip=78640 ;Start=8/30/2021;End=11/29/2021;Duration=92;Cert=RN ;Specialty=ICU ;Unit=SMCH ICU ;Shift=NOC 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$165.00;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=08/10/2021 1044 MDTTricia Wichtoski
+                            
+                            
+                                Bill Rate: $165/hr. Prefer 48 hours but will consider 36 hours. Open to 8-13 week contract. Must be willing to float to other Seton facilities if needed. 2+ years of experience. Cerner experience preferred. IVS interview w/ offer
+ RatePlan:AH-CRISIS RN rates (8/2/2021) ;url=https://automated.shiftwise.net/esp/order.aspx?order_id=431570961B0DDD18551651607EA2F5EC;minPayRate=$165.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 165
+    [facilityName] => Ascension Seton Hays
+    [shiftDateEnd] => 2021-11-29
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,141 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '22',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6095',
+  'Cf-Ray' => '831fe930b5494945-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:THIS POSITION IS AUTO-OFFERUnit: Emergency Department - Mercy Hospital Springfield
+Specialty: ER
+Role/Title: RN
+Shift: Days, 0700-1900
+
+Guaranteed Hours: 48 (4x12) only
+Assignment Length: 13 weeksALL CONTINGENCY REQUESTS MUST BE ON THE SUBMISSION FORMChristmas holidays (12/24-12/27) can not be approved as RTO
+Required Licensure:
+Current RN
+License (Meets the criteria to be eligible for licensure in state of Missouri or currently licensed in the state of Missouri.)
+Required Certifications:
+BLS, ACLS, PALS from AHA only; TNCC
+Required Experience:
+1 year Emergency Department in a Level 1 or or 2 years in a Level 2 Trauma facility only; this must be indicated on the resume
+Must be willing to float when needed
+MUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsCall Requirements- None
+Float Requirements-
+None
+Patient Ratios:
+4:1 routinely, surge and other circumstances will alter.
+We do not guarantee ratios.
+Type of Patients on Unit-
+We are a level one trauma, Stroke, STEMI center and regional burn center
+
+EMR-EPIC
+Preferred Skills/Experience-
+trauma/peds, 200+patients/day, high acuity experience preferred
+
+Scrub Color   Black
+
+Any unacceptable attire -
+attire unprofessional, jeans
+Number of beds: 68
+Performs direct patient care activities for all age groups to include assessment, planning, implementation, and evaluation. Monitors and coordinates patient care activities with ancillary departments to optimize patient care and comfort. Functions within the scope of nursing preparation and consistent with the established guidelines of nursing practice, the Missouri Nurse Practice Act, Mercy Code of Conduct, Mercy Mission and Values and Mercy Service Standards.
+
+Skills, Knowledge, and Abilities: Demonstrated skill in human relations and communications is required. Must have demonstrated clinical expertise in their area of responsibility.
+
+Working Conditions, Mental and Physical Requirements: Stand and walk most of the time on duty. Lift and push patients on stretchers and in wheelchairs. Usually work in a clean, air-conditioned area. Physical demands are attached plus push, pull, and grip up to 50 lbs., pinch up to 15 lbs., kneel, crouch, and crawl minimally.
+ No. of Positions: 4/4.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 545445
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13126
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 07 2023 16:37:37
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=777456 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Springfield ;City=Springfield ;State=MO ;Zip=65804 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=RN ;Specialty=Emergency Dept ;Unit=Mercy ;Shift=07:00-19:00;# of Postions=4;Type=Travel;BillRate=$75.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:THIS POSITION IS AUTO-OFFERUnit: Emergency Department - Mercy Hospital Springfield
+Specialty: ER
+Role/Title: RN
+Shift: Days, 0700-1900
+
+Guaranteed Hours: 48 (4x12) only
+Assignment Length: 13 weeksALL CONTINGENCY REQUESTS MUST BE ON THE SUBMISSION FORMChristmas holidays (12/24-12/27) can not be approved as RTO
+Required Licensure:
+Current RN
+License (Meets the criteria to be eligible for licensure in state of Missouri or currently licensed in the state of Missouri.)
+Required Certifications:
+BLS, ACLS, PALS from AHA only; TNCC
+Required Experience:
+1 year Emergency Department in a Level 1 or or 2 years in a Level 2 Trauma facility only; this must be indicated on the resume
+Must be willing to float when needed
+MUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsCall Requirements- None
+Float Requirements-
+None
+Patient Ratios:
+4:1 routinely, surge and other circumstances will alter.
+We do not guarantee ratios.
+Type of Patients on Unit-
+We are a level one trauma, Stroke, STEMI center and regional burn center
+
+EMR-EPIC
+Preferred Skills/Experience-
+trauma/peds, 200+patients/day, high acuity experience preferred
+
+Scrub Color   Black
+
+Any unacceptable attire -
+attire unprofessional, jeans
+Number of beds: 68
+Performs direct patient care activities for all age groups to include assessment, planning, implementation, and evaluation. Monitors and coordinates patient care activities with ancillary departments to optimize patient care and comfort. Functions within the scope of nursing preparation and consistent with the established guidelines of nursing practice, the Missouri Nurse Practice Act, Mercy Code of Conduct, Mercy Mission and Values and Mercy Service Standards.
+
+Skills, Knowledge, and Abilities: Demonstrated skill in human relations and communications is required. Must have demonstrated clinical expertise in their area of responsibility.
+
+Working Conditions, Mental and Physical Requirements: Stand and walk most of the time on duty. Lift and push patients on stretchers and in wheelchairs. Usually work in a clean, air-conditioned area. Physical demands are attached plus push, pull, and grip up to 50 lbs., pinch up to 15 lbs., kneel, crouch, and crawl minimally.
+ No. of Positions: 4/4.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/777456;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Mercy Hospital Springfield TRAVEL
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

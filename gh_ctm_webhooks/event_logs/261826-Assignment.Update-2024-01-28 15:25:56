@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '23',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2674',
+  'Cf-Ray' => '84ca403960c34949-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 08/10/2021 1034 MDTJackie Pittmann
+                            
+                            
+                                Bill rate $80 . 11a - 7p - Must be certified   Days working will vary, and will occasionally include a weekend shift.   On-call includes: o Six to seven weekday shifts in a six week schedule period o Two to three weekend shifts in a six week schedule period o They choose their call shifts (to some extent) and the length of each may vary from 4 hours to12 hours.   Skill set: Davinci, Ortho/Spine and Eye experienceBILL RATE UPDATED $80/hr
+ RatePlan:AH-STANDARD TRAVEL RATE
+    [sitename] => giftednurses
+    [spec] => ORT
+    [assignmentid] => 261826
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13445
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-09-06
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => ORT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => January, 28 2024 10:25:06
+    [daysPerWeek] => 5
+    [orderNote] => Source=ShiftWise;SourceID=9385257 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Medical Center ;City=Austin ;State=TX ;Zip=78701 ;Start=9/6/2021;End=1/2/2022;Duration=119;Cert=OR Tech ;Specialty=OR ;Unit=SMC Surgery ;Shift=PM 8.00 Hrs;# of Postions=1;Type=Travel;BillRate=$80.00;minBillRate=$50.01;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=08/10/2021 1034 MDTJackie Pittmann
+                            
+                            
+                                Bill rate $80 . 11a - 7p - Must be certified   Days working will vary, and will occasionally include a weekend shift.   On-call includes: o Six to seven weekday shifts in a six week schedule period o Two to three weekend shifts in a six week schedule period o They choose their call shifts (to some extent) and the length of each may vary from 4 hours to12 hours.   Skill set: Davinci, Ortho/Spine and Eye experienceBILL RATE UPDATED $80/hr
+ RatePlan:AH-STANDARD TRAVEL RATE ;url=https://automated.shiftwise.net/esp/order.aspx?order_id=63E02961B96058BCA80D5645558BD0DB;minPayRate=$80.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Ascension Seton Medical Center Austin
+    [shiftDateEnd] => 2022-01-02
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

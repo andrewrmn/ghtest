@@ -1,0 +1,157 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5254',
+  'Cf-Ray' => '82cd32dff1ad6a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:ASAP START
+BILL RATE $70.00
+SHIFT: DAYS 7A TO 7PSHIFT: 2 NIGHTS 7P TO 7P
+NOTATE SHIFT PREFERENCE ON SUBMITTAL
+REQUIREMENTS:BLS
+1 YEAR OF BEHAVIORAL HEALTH EXPERIENCE PREFERRED
+PLEASE INCLUDE THE HOME ADDRESS ON THE SUBMISSION
+MUST BE GREATER THAN 50 MILES FROM THE FACILITY
+
+
+The Registered Nurse holds shift accountability for providing care to adult psychiatric patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care.
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location:
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Psych
+    [assignmentid] => 542882
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9115
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 27 2023 15:42:37
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=773432 ;Status=Open;Association=Community Health Systems ;Client=Northwest Medical Center Springdale ;City=Springdale ;State=AR ;Zip=72765 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=RN ;Specialty=Psychiatry ;Unit=EXT-Other (911) ;Shift=DAYS 7A TO 7P;# of Postions=3;Type=Travel;BillRate=$70.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:ASAP START
+BILL RATE $70.00
+SHIFT: DAYS 7A TO 7PSHIFT: 2 NIGHTS 7P TO 7P
+NOTATE SHIFT PREFERENCE ON SUBMITTAL
+REQUIREMENTS:BLS
+1 YEAR OF BEHAVIORAL HEALTH EXPERIENCE PREFERRED
+PLEASE INCLUDE THE HOME ADDRESS ON THE SUBMISSION
+MUST BE GREATER THAN 50 MILES FROM THE FACILITY
+
+
+The Registered Nurse holds shift accountability for providing care to adult psychiatric patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care.
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location:
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/773432;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Northwest Medical Center Springdale Travel
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '866',
+  'Cf-Ray' => '82a3447d76376a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Start Date Change
+    [sitename] => giftednurses
+    [spec] => School
+    [assignmentid] => 543720
+    [workerID] => 341123
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 37.5
+    [facilityID] => 13897
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => Johnson
+    [shiftNum] => 1
+    [workerFirstName] => Chanel
+    [cert] => CNA
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 22 2023 13:34:36
+    [daysPerWeek] => 5
+    [orderNote] => BR:$56lRS:136327
+FTK: GiftTS(Sign) Reg. 37.5
+    [guaranteedMinimum] => 
+    [workerEmail] => chanelj0304@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 56
+    [facilityName] => Washtenaw ISD
+    [shiftDateEnd] => 2024-06-07
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

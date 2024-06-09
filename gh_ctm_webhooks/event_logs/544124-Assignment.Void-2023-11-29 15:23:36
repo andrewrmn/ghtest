@@ -1,0 +1,91 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2982',
+  'Cf-Ray' => '82dbda5195481463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Med Surg
+12 D
+ASAP SD
+Weekdays and some weekends
+BLCS, ACLS, PALS Req
+1 YR Experience
+EMR: CPSI
+Skills required - Vents, IV Start, Triage, charge experience
+
+ Modified Time:12/4/2023 8:00:00 AM
+ Account Manager: Amber Lawrence Qualivis
+ Account Manager Email: amber.lawrence@qualivis.com
+ COVID-19 Vaccine: Unknown
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceSSNDOBRTO# of jobs in system we can sub   No cap that I am aware of   0 currently postedRequires specific amount of exp -1 years  experience/ First time travelers okayValid State License (required at time of submission) - YesMile Radius Rule Applies   No ruleReferences RequiredLocal Rules   Locals accepted at same rateCandidates will float within hospital or to an affiliate hospitals near by - NoCopy of Certifications
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544124
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12501
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 29 2023 10:23:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2309642 ;Status=Open;Association=Qualivis EPA ;Client=Clay County Hospital ;City=Ashland ;State=AL ;Zip=36251 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Registered Nurse ;Specialty=Medical Surgical ;Unit=Med Surg, 3 ;Shift=Day 3x12-Hour (07:00 - 19:00);# of Postions=1;Type=Travel;BillRate=$70.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Med Surg
+12 D
+ASAP SD
+Weekdays and some weekends
+BLCS, ACLS, PALS Req
+1 YR Experience
+EMR: CPSI
+Skills required - Vents, IV Start, Triage, charge experience
+
+ Modified Time:12/4/2023 8:00:00 AM
+ Account Manager: Amber Lawrence Qualivis
+ Account Manager Email: amber.lawrence@qualivis.com
+ COVID-19 Vaccine: Unknown
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceSSNDOBRTO# of jobs in system we can sub   No cap that I am aware of   0 currently postedRequires specific amount of exp -1 years  experience/ First time travelers okayValid State License (required at time of submission) - YesMile Radius Rule Applies   No ruleReferences RequiredLocal Rules   Locals accepted at same rateCandidates will float within hospital or to an affiliate hospitals near by - NoCopy of Certifications ;url=https://app.ayaconnect.com/index.html#/vendor/job/2309642/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Clay County Hospital TRAVEL
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5189',
+  'Cf-Ray' => '8289973b27d26a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position DescriptionThe PCU/Telemetry Registered Nurse holds shift accountability for providing care to patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The Registered Nurse demonstrates critical thinking skills, scientific judgment and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care.1 day shift 1 night shiftThey must have at least 2 year experience on a Tele unit.3x/week-36 hour weekly guaranteed.  Will be expected to float to Med/Surgand overflow unit.parseGeneralComments Comments.bd_title                                   {                                          font-weight: bold;                                   }                                                    Reason for opening (special, internal vacancy, leave coverage)              *******************************************************************************              How long has it been open?              Will position be required to float to other units?              Number of beds in your facility?              Years of experience required?              Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)              Willing to review clinicians with pending state license?              Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift)     EMR for your facility:              Scrub colors / dress code:     Parking location:  Contact: Iris Joseph Resource Manager: Whitney Nelson OT Rate:?/? Holiday Rate: ?/?https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=254812&null 
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 42970
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2018-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:47:10
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;ID=0;SourceID=254812;Status=Open;Client=Northwest Med Ctr of Oro Valley;City=Oro Valley;State=AZ;Zip=85755;Start=12/10/2018 12:00:00 AM;End=3/11/2019;Duration=91;Cert=Registered Nurse (RN);Specialty=Telemetry (Tele);Unit=1038: TELEMETRY;Shift=for this position? (days needed, hours or shift);# of Postions=1;Type=Travel;Description=Position DescriptionThe PCU/Telemetry Registered Nurse holds shift accountability for providing care to patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The Registered Nurse demonstrates critical thinking skills, scientific judgment and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care.1 day shift 1 night shiftThey must have at least 2 year experience on a Tele unit.3x/week-36 hour weekly guaranteed.  Will be expected to float to Med/Surgand overflow unit.parseGeneralComments Comments.bd_title                                   {                                          font-weight: bold;                                   }                                                    Reason for opening (special, internal vacancy, leave coverage)              *******************************************************************************              How long has it been open?              Will position be required to float to other units?              Number of beds in your facility?              Years of experience required?              Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)              Willing to review clinicians with pending state license?              Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift)     EMR for your facility:              Scrub colors / dress code:     Parking location:  Contact: Iris Joseph Resource Manager: Whitney Nelson OT Rate:?/? Holiday Rate: ?/?https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=254812&null;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 
+    [facilityName] => Northwest Medical Center of Oro Valley
+    [shiftDateEnd] => 2019-03-25
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

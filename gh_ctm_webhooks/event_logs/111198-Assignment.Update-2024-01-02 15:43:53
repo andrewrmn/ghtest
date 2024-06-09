@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4802',
+  'Cf-Ray' => '83f41ec1925e23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => The Echo Ultrasound Technologist position is responsible for performing echocardiograms, stress echocardiograms, and vascular studies in accordance with all policies and procedures. Echo Ultrasound Technologist is also responsible for understanding general ultrasound procedures including abdomen and OB/GYN.   DUTIES/RESPONSIBILITIES (include but are not limited to the following)         Preform quality echocardiograms and stress echos.         Explain procedures to patients and/or family members to ensure cooperation and optimum test results.         Responsible for ensuring the wellbeing of the patient           Work in conjecture with all necessary departments         Prepare and clean exam rooms by changing linens and cleaning tables, equipment, and other areas as necessary         Maintain a clean working environment through scheduled equipment cleaning         Responsible for testing equipment after scheduled cleanings and recording the results         Responsible for contacting service personnel and notifying supervisors of malfunctioning equipment         Cross training in general ultrasound including abdomen and OB/GYN         Perform office duties and scheduling         Working up patient requisitions         Transporting patients         Checking films in and out         Recommend process improvements for increased efficiencies         Display and promote company values         Regular attendance         Other duties as assignedEDUCATION AND/OR EXPERIENCE         Graduate from a credited school of ultrasound         RDCS registered required         RVT registration preferred         Required CEU s         BLS required
+Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Echocardiography
+    [assignmentid] => 111198
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3763
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-06-01
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Echo Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 02 2024 10:43:52
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=153014 ;Status=Open;Client=Washington County Hospital and Clinics ;City=Washington ;State=IA ;Zip=52353 ;Start=6/1/2020;End=8/31/2020;Duration=91;Cert=Diagnostic Imaging ;Specialty=Echo Technologist, Ultrasound Technologist General ab/ob small parts ;Unit=Echo Technologist, Ultrasound Technologist General ab/ob small parts ;Shift=1st Shift;# of Postions=1;Guaranteed Hours=40;Type=Travel;OTRate=95 ;OTRules=By The Week, after 40, All Inclusive Rate + $10 ;CallbackRate=95 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=The Echo Ultrasound Technologist position is responsible for performing echocardiograms, stress echocardiograms, and vascular studies in accordance with all policies and procedures. Echo Ultrasound Technologist is also responsible for understanding general ultrasound procedures including abdomen and OB/GYN.   DUTIES/RESPONSIBILITIES (include but are not limited to the following)         Preform quality echocardiograms and stress echos.         Explain procedures to patients and/or family members to ensure cooperation and optimum test results.         Responsible for ensuring the wellbeing of the patient           Work in conjecture with all necessary departments         Prepare and clean exam rooms by changing linens and cleaning tables, equipment, and other areas as necessary         Maintain a clean working environment through scheduled equipment cleaning         Responsible for testing equipment after scheduled cleanings and recording the results         Responsible for contacting service personnel and notifying supervisors of malfunctioning equipment         Cross training in general ultrasound including abdomen and OB/GYN         Perform office duties and scheduling         Working up patient requisitions         Transporting patients         Checking films in and out         Recommend process improvements for increased efficiencies         Display and promote company values         Regular attendance         Other duties as assignedEDUCATION AND/OR EXPERIENCE         Graduate from a credited school of ultrasound         RDCS registered required         RVT registration preferred         Required CEU s         BLS required
+Billing string = Medefis ;url=https://api.medefis5.com/Job/GetJobInfo/153014;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Washington County Hospital
+    [shiftDateEnd] => 2020-08-31
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

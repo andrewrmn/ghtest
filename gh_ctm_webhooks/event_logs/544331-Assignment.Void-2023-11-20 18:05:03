@@ -1,0 +1,399 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '29',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7417',
+  'Cf-Ray' => '82929e6b203d4961-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:The Ultrasound Technician is a graduate of an accredited AMA school and registered with the American Registry of Radiologic Technology (ARRT), maintains a State License as a general radiographer, and/or is a Registered Diagnostic Medical Sonographer (RDMS).  The Ultrasound Technician is responsible for providing timely diagnostic services to both inpatient and outpatients under the direction of a Radiologist and departmental protocols.  Responsibilities include but are not limited to: abdominal, pelvic, (gynecological &amp; obstetrical), and transvaginal sonograms.  Additionally is proficient at scanning small parts (thyroid, breast &amp; scrotom) along with ultrasound-guided biopsies, drainage, thoracentesis, paracentesis and aspirations.
+$90 Bill Rate
+
+        Facility Name: Northwest   Medical Center Houghton             Unit Information:
+   (insert name) Ultrasound         
+Floor: First
+             Reason for Request: Vacant position         
+Date: 12/04/23
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Shift -Mon - Fri Afternoon 1400-2230
+   
+ 
+ 
+ 
+ 
+
+EMR   Cerner
+             Typical hiring profile             Skill Set Most recruited for:
+    
+   
+Must have:
+ candidates without these skills will not be   considered for the role.
+    
+
+
+
+
+
+
+
+   Perform   general, obstetrical, and vascular ultrasound exams    
+
+
+
+
+
+
+
+   Perform   ultrasound-guided interventional procedures   
+Preferred or   nice to have:
+ candidates with these skills will be considered   first. 
+    
+
+
+
+
+
+
+
+   GE   Loqiq S8 ultrasound system    
+
+
+
+
+
+
+
+   Cerner   PowerChart    
+
+
+
+
+
+
+
+   Change   Healthcare/McKesson PACS   List typical procedures   performed on unit(s): 
+    
+
+
+
+
+
+
+
+   Abdomen    
+
+
+
+
+
+
+
+   Transabdominal   and Endovaginal pelvic    
+
+
+
+
+
+
+
+   Upper   and Lower arterial and venous studies    
+
+
+
+
+
+
+
+   Carotids    
+
+
+
+
+
+
+
+   Neonatal   REQUIRED CERTIFICATIONS:    
+
+
+
+
+
+
+
+   Registered   Diagnostic Medical Sonographer (RDMS) through ARDMS or ARRT    
+
+
+
+
+
+
+
+   BLS   Floating Area(s):    
+
+
+
+
+
+
+
+   N/A             
+Dress Code:   
+   
+ 
+
+
+
+
+
+
+
+   Scrub   Color/Attire -
+ Scrubs (any color or pattern)
+   
+
+
+             
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   Yes,   on call hours required weekends and weeknights; approximately 4 per month.
+ General CommentsMon-Fri afternoon/evening from 1400-2230 and there would be the need to take some callback shifts (up to
+ 4/month).
+
+PCR# - 4162-001
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Ultrasound Tech
+    [assignmentid] => 544331
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13691
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => Ultrasound Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 22:30
+    [whenmodified] => November, 20 2023 13:05:02
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=775655 ;Status=Pending Approval;Association=Community Health Systems ;Client=Northwest Houghton ;City=Tucson ;State=AZ ;Zip=85748 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Ultrasound Tech/Sonographer ;Specialty=Radiology ;Unit=EXT-Other (911) ;Shift=14:00-22:30;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:The Ultrasound Technician is a graduate of an accredited AMA school and registered with the American Registry of Radiologic Technology (ARRT), maintains a State License as a general radiographer, and/or is a Registered Diagnostic Medical Sonographer (RDMS).  The Ultrasound Technician is responsible for providing timely diagnostic services to both inpatient and outpatients under the direction of a Radiologist and departmental protocols.  Responsibilities include but are not limited to: abdominal, pelvic, (gynecological &amp; obstetrical), and transvaginal sonograms.  Additionally is proficient at scanning small parts (thyroid, breast &amp; scrotom) along with ultrasound-guided biopsies, drainage, thoracentesis, paracentesis and aspirations.
+$90 Bill Rate
+
+        Facility Name: Northwest   Medical Center Houghton             Unit Information:
+   (insert name) Ultrasound         
+Floor: First
+             Reason for Request: Vacant position         
+Date: 12/04/23
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Shift -Mon - Fri Afternoon 1400-2230
+   
+ 
+ 
+ 
+ 
+
+EMR   Cerner
+             Typical hiring profile             Skill Set Most recruited for:
+    
+   
+Must have:
+ candidates without these skills will not be   considered for the role.
+    
+
+
+
+
+
+
+
+   Perform   general, obstetrical, and vascular ultrasound exams    
+
+
+
+
+
+
+
+   Perform   ultrasound-guided interventional procedures   
+Preferred or   nice to have:
+ candidates with these skills will be considered   first. 
+    
+
+
+
+
+
+
+
+   GE   Loqiq S8 ultrasound system    
+
+
+
+
+
+
+
+   Cerner   PowerChart    
+
+
+
+
+
+
+
+   Change   Healthcare/McKesson PACS   List typical procedures   performed on unit(s): 
+    
+
+
+
+
+
+
+
+   Abdomen    
+
+
+
+
+
+
+
+   Transabdominal   and Endovaginal pelvic    
+
+
+
+
+
+
+
+   Upper   and Lower arterial and venous studies    
+
+
+
+
+
+
+
+   Carotids    
+
+
+
+
+
+
+
+   Neonatal   REQUIRED CERTIFICATIONS:    
+
+
+
+
+
+
+
+   Registered   Diagnostic Medical Sonographer (RDMS) through ARDMS or ARRT    
+
+
+
+
+
+
+
+   BLS   Floating Area(s):    
+
+
+
+
+
+
+
+   N/A             
+Dress Code:   
+   
+ 
+
+
+
+
+
+
+
+   Scrub   Color/Attire -
+ Scrubs (any color or pattern)
+   
+
+
+             
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   Yes,   on call hours required weekends and weeknights; approximately 4 per month.
+ General CommentsMon-Fri afternoon/evening from 1400-2230 and there would be the need to take some callback shifts (up to
+ 4/month).
+
+PCR# - 4162-001
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/775655;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Northwest Medical Center Houghton
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 14:00
+    [subjectID] => 
+)

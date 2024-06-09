@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7390',
+  'Cf-Ray' => '82a3802c76861464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => **Traveler must include and/or meet all minimum requirements below to be consider.**Do not submit candidates who have or will have expiring licenses and/or certifications during time frame of entire assignment. Candidates will automatically be declined.**Only submit profile who can work schedule in posting and interested in the unit. We are seeking a Registered Nurse to: 	Work with a dynamic interdisciplinary Orthopedic team to systematically and continuously collect and assess data to provide therapeutic care with the patient and/or family. 	Be part of a team that uses evidenced based care and technology at Wisconsin s #1 Hospital.Minimum Requirements:  Facility Requirement:    Traveler must have permanent address outside50mile radius of Madison (address must be included in       traveler's profile).  Experience:    Orthopedics experience preferred.Traveler must have completed two years of acute care experience       within last 3 years.   Traveler must have experience in an Academic Level 1 -       Trauma center or similar size hospital.   Successfully completed traveler assignment       (13 weeks).  Licensure and Certification:   Traveler must have WI nursing license or compact       license from their permanent address state.   BLS   must       be certified through American Heart Association ONLY  Reference   Needs 2 references from recent work       environment/assignments (supervisor or manager only).  TelemetryTraveler must have Basic Arrhythmia experience. Traveler       will be required to pass UW Health Telemetry test prior to being cleared       to start (not for clinic positions).       UW Health Recruitment will send instructions to traveler 2-3 weeks       prior to start date.   Floating    Travelers are the first to float to       floors working with children up to 1 year of age. The Traveler may have       shifts scheduled in multiple units, depending on the current staffing       needs. During the traveler s assignment, if the primary unit no longer       has a need, shifts will be re-assigned to another unit in order to       complete contract. Location:University Hospital, 600 Highland Ave, Madison, WI 53792Parking:Permit required through UW Transportation. University Hospitalin Madison is a Magnet -designated facility that sranked Wisconsin s #1 hospitaland considered one of the nation's leading hospitals, teaching institutions and referral centers.   Additional Information: 	UW Health is moving away from using outdated file formats for Microsoft (Word, PowerPoint, and Excel). Profiles will need to be submitted in the following format: .docx, .xlsx and .pptx file types or our IS department will be blocking them and we will no longer receive the files nor able to forward internal to our hiring managers.-------------------------------------   	QuantiFERON/TSpot results will NOT be accepted for any reason   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 538426
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3538
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 22 2023 14:15:21
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=260403 ;Status=Open;Association=UW Health ;Client=UW Health University Hospital ;City=Madison ;State=WI ;Zip=53792 ;Start=11/13/2023;End=2/12/2024;Duration=91;Cert=Nursing ;Specialty=Med-surg Adult, Orthopedic, Telemetry Med / Surg, Med-Surg Ortho ;Unit=Med-surg Adult, Orthopedic, Telemetry Med / Surg, Med-Surg Ortho ;Shift=36 hrs/week, Night, 3 - 12 hour shifts per week, 1900-0730, every 3rd weekends, and some holidays.;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$103.00;OTRate=113 ;OTRules=By The Week, after 40, ;HolidayRate=113 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=**Traveler must include and/or meet all minimum requirements below to be consider.**Do not submit candidates who have or will have expiring licenses and/or certifications during time frame of entire assignment. Candidates will automatically be declined.**Only submit profile who can work schedule in posting and interested in the unit. We are seeking a Registered Nurse to: 	Work with a dynamic interdisciplinary Orthopedic team to systematically and continuously collect and assess data to provide therapeutic care with the patient and/or family. 	Be part of a team that uses evidenced based care and technology at Wisconsin s #1 Hospital.Minimum Requirements:  Facility Requirement:    Traveler must have permanent address outside50mile radius of Madison (address must be included in       traveler's profile).  Experience:    Orthopedics experience preferred.Traveler must have completed two years of acute care experience       within last 3 years.   Traveler must have experience in an Academic Level 1 -       Trauma center or similar size hospital.   Successfully completed traveler assignment       (13 weeks).  Licensure and Certification:   Traveler must have WI nursing license or compact       license from their permanent address state.   BLS   must       be certified through American Heart Association ONLY  Reference   Needs 2 references from recent work       environment/assignments (supervisor or manager only).  TelemetryTraveler must have Basic Arrhythmia experience. Traveler       will be required to pass UW Health Telemetry test prior to being cleared       to start (not for clinic positions).       UW Health Recruitment will send instructions to traveler 2-3 weeks       prior to start date.   Floating    Travelers are the first to float to       floors working with children up to 1 year of age. The Traveler may have       shifts scheduled in multiple units, depending on the current staffing       needs. During the traveler s assignment, if the primary unit no longer       has a need, shifts will be re-assigned to another unit in order to       complete contract. Location:University Hospital, 600 Highland Ave, Madison, WI 53792Parking:Permit required through UW Transportation. University Hospitalin Madison is a Magnet -designated facility that sranked Wisconsin s #1 hospitaland considered one of the nation's leading hospitals, teaching institutions and referral centers.   Additional Information: 	UW Health is moving away from using outdated file formats for Microsoft (Word, PowerPoint, and Excel). Profiles will need to be submitted in the following format: .docx, .xlsx and .pptx file types or our IS department will be blocking them and we will no longer receive the files nor able to forward internal to our hiring managers.-------------------------------------   	QuantiFERON/TSpot results will NOT be accepted for any reason   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260403;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 103
+    [facilityName] => University of Wisconsin Hospital and Clinics
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

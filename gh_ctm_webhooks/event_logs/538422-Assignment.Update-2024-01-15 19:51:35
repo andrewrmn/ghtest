@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '921',
+  'Cf-Ray' => '8460a77ed2b36a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By Facility; No Longer Needed; Facility Withdrew Offer
+    [sitename] => giftednurses
+    [spec] => School
+    [assignmentid] => 538422
+    [workerID] => 281051
+    [WorkerContactNo] => 573-567-6988
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 30
+    [facilityID] => 13896
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-06
+    [workerLastName] => Brown
+    [shiftNum] => 1
+    [workerFirstName] => Leon
+    [cert] => SLI
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 14:30
+    [whenmodified] => January, 15 2024 14:51:34
+    [daysPerWeek] => 5
+    [orderNote] => BR:$66.50lRS:135953
+FTK: GiftTS(Sign)
+    [guaranteedMinimum] => 
+    [workerEmail] => ll.brown98@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 66.5
+    [facilityName] => Columbia Public Schools
+    [shiftDateEnd] => 2024-01-03
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

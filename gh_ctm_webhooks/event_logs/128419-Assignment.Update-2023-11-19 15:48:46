@@ -1,0 +1,96 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5144',
+  'Cf-Ray' => '8289996a12d51464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+The PACU Registered Nurse holds shift accountability for providing care to Post Anesthesia Care patients working with Surgeons, Anesthesiologists, Surgical staff, and other personnel by utilizing the Nursing Process in accordance with the state Nurse Practice Act, AORN, and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care.parseGeneralComments Comments
+.bd_title
+                                  {
+                                         font-weight: bold;
+                                  }
+Reason for opening (special, internal vacancy, leave coverage) 10 hour days   call
+******************************************************************************* 
+          		How long has it been open? 
+          		Will position be required to float to other units? 
+          		Number of beds in your facility? 
+          		Years of experience required? 
+          		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) 
+          		Willing to review clinicians with pending state license? 
+          		Is there anyone in the past that has worked for you that you would consider rehiring? 
+          		What is the work schedule for this position? (days needed, hours or shift) 
+			EMR for your facility: 
+          		Scrub colors / dress code: 
+			Parking location:  Contact: Christopher Stearns Resource Manager: Suhani Desai OT Rate:Custom Rate
+    [sitename] => giftednurses
+    [spec] => PACU
+    [assignmentid] => 128419
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 8
+    [facilityID] => 8782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-07-20
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 19 2023 10:48:41
+    [daysPerWeek] => 1
+    [orderNote] => Source=Parallon;SourceID=367748 ;Status=Open;Client=Cedar Park Regional Medical Center ;City=Cedar Park ;State=TX ;Zip=78613 ;Start=7/20/2020;End=9/14/2020;Duration=56;Cert=Registered Nurse (RN) ;Specialty=PACU ;Unit=RECOVERY ROOM ;Shift=7:00 AM - 4:00 PM;# of Postions=1;Guaranteed Hours=?;Type=Travel;BillRate=$69.10;OTRate=?/$96.74 ;OTRules=1.00x (OT), 1.00x (DT) ;CallbackRate=?/$96.74 ;HolidayRate=?/$103.65 ;Description=Position Description
+The PACU Registered Nurse holds shift accountability for providing care to Post Anesthesia Care patients working with Surgeons, Anesthesiologists, Surgical staff, and other personnel by utilizing the Nursing Process in accordance with the state Nurse Practice Act, AORN, and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care.parseGeneralComments Comments
+.bd_title
+                                  {
+                                         font-weight: bold;
+                                  }
+Reason for opening (special, internal vacancy, leave coverage) 10 hour days   call
+******************************************************************************* 
+          		How long has it been open? 
+          		Will position be required to float to other units? 
+          		Number of beds in your facility? 
+          		Years of experience required? 
+          		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) 
+          		Willing to review clinicians with pending state license? 
+          		Is there anyone in the past that has worked for you that you would consider rehiring? 
+          		What is the work schedule for this position? (days needed, hours or shift) 
+			EMR for your facility: 
+          		Scrub colors / dress code: 
+			Parking location:  Contact: Christopher Stearns Resource Manager: Suhani Desai OT Rate:Custom Rate ;Buyer=Christopher Stearns ;url=https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=367748&null;VMSPositionType=Travel maxPayRate=$69.10;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 69.1
+    [facilityName] => Cedar Park Regional Medical Center
+    [shiftDateEnd] => 2020-09-14
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '942',
+  'Cf-Ray' => '8404580e47911830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By RN; Medical Leave
+    [sitename] => giftednurses
+    [spec] => Stepdown
+    [assignmentid] => 536357
+    [workerID] => 4787
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3127
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-26
+    [workerLastName] => Kennedy
+    [shiftNum] => 5
+    [workerFirstName] => Claudia
+    [cert] => RN
+    [floorDesc] => ICA 6132
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 04 2024 09:59:11
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$85lRS:135474
+ChrgDiff:P$1/B$3lOnCl:P$10/B$18
+FTK: API
+    [guaranteedMinimum] => 
+    [workerEmail] => kennedycan8@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => North Oaks Medical Center - Travel
+    [shiftDateEnd] => 2023-12-09
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

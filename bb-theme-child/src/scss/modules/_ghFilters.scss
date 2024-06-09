@@ -1,0 +1,133 @@
+.ghFilters{
+  border-top: 1px solid #DCDCDC;
+  padding-top: 24px;
+
+  &__header,
+  &__footer{
+    display: none;
+  }
+
+  &__group{
+    .facetwp-facet{
+      margin: 0;
+    }
+  }
+
+  .facetwp-type-checkboxes,
+  .facetwp-overflow{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .facetwp-overflow.facetwp-hidden{
+    display: none;
+  }
+
+  .facetwp-type-checkboxes{
+    margin-top: 16px;
+  }
+
+  .facetwp-checkbox{
+    background: none !important;
+    position: relative;
+    @include resetFont;
+    font-size: 14px;
+    line-height: 20px;
+    padding-left: 32px;
+    margin: 0;
+
+    &::before{
+      transition: all 0.2s ease;
+      content: '';
+      width: 20px;
+      height: 20px;
+      border-radius: 4px;
+      border: 1px solid #DCDCDC;
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+
+    &::after{
+      background-image: url("data:image/svg+xml,%3Csvg width='12' height='9' viewBox='0 0 12 9' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M4.66647 7.11391L10.7947 0.985657L11.7375 1.92846L4.66647 8.99951L0.423828 4.75691L1.36664 3.81411L4.66647 7.11391Z' fill='white'/%3E%3C/svg%3E%0A");
+      background-repeat: no-repeat;
+      background-position: center center;
+      content: '';
+      width: 12px;
+      height: 9px;
+      position: absolute;
+      top: 5px;
+      left: 4px;
+    }
+
+    &.checked::before{
+      border-color: $color-teal;
+      background: $color-teal;
+    }
+  }
+
+  @media screen and (max-width: 700px){
+    background: white;
+    margin-top: 15px;
+    border-radius: 24px;
+    padding: 88px 20px 114px;
+    box-shadow: 0 0 0 2000px #3F3D3DEE;
+    height: 100%;
+    overflow: auto;
+    position: relative;
+
+    &__header{
+      display: flex;
+      position: fixed;
+      top: 15px;
+      left: 0;
+      width: 100%;
+      height: 64px;
+      background: white;
+      z-index: 1;
+      border-radius: 24px 24px 0 0;
+      border-bottom: 1px solid #DCDCDC;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+      letter-spacing: -0.01em;
+      color: $color-dark-teal;
+      font-weight: bold;
+    }
+
+    &__close{
+      position: absolute !important;
+      left: 20px;
+      height: 64px;
+      border: none !important;
+      top: 0;
+      color: $color-teal !important;
+      background: none !important;
+      padding: 0 !important;
+
+      i{
+        line-height: 64px;
+        font-size: 30px;
+      }
+    }
+
+    .t-h2{
+      display: none;
+    }
+
+    &__footer{
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      border-top: 1px solid #DCDCDC;
+      background: white;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      padding: 12px 20px;
+    }
+  }
+}

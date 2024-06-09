@@ -1,0 +1,119 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2873',
+  'Cf-Ray' => '82b393d961831464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => RN Cath Lab
+CHRISTUS Santa Rosa Hospital Medical Center
+2827 Babcock Road, San Antonio, TX, 78229
+QUANTITY: 2
+
+CONTRACT: 13-Weeks
+BILL RATE: $95, orientation 70% of the bill rate up to the first 36 hours
+SHIFT: 8 HR Days
+WEEKENDS: Yes
+HOLIDAYS: Per Ministry Policy
+ON CALL:1 weekday a week & 1 weekend a month
+FLOATING: Per Ministry Policy
+GUARANTEE: 40-hrs
+
+EMR: Meditech
+SCRUB COLOR: TBD
+
+REQUIRED CREDENTIALS: *Must be provided upon submission*
+TX or Multistate RN license
+BLS, ACLS (AHA only)
+EKG Exam (upon compliance onboarding)
+
+REQUIRED EXPERIENCE: 2 years
+PREFERRED SKILLS:
+
+SUBMISSION REQUIREMENTS (Must be combined into 1 PDF file)
+Filled out coversheet (blank coversheet attached)
+Resume/work history
+Skills checklist
+Certification verification within last 30 days
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 544187
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 12782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 24 2023 13:04:59
+    [daysPerWeek] => 4
+    [orderNote] => Source=StafferLink;SourceID=7935630 ;Status=O;Association=CHRISTUS Santa Rosa Health Care (STX) ;Client=CHRISTUS Santa Rosa Health Care (STX) ;City=San Antonio ;State=TX ;Zip=78229 ;Start=12/4/2023;End=3/2/2024;Duration=90;Cert=RN Cath Lab ;Specialty=Cardiology Cath 2605 / 489 ;Unit=Cardiology Cath 2605 / 489 ;Shift=07:00:00 - 16:00:00;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$95.00;Description=RN Cath Lab
+CHRISTUS Santa Rosa Hospital Medical Center
+2827 Babcock Road, San Antonio, TX, 78229
+QUANTITY: 2
+
+CONTRACT: 13-Weeks
+BILL RATE: $95, orientation 70% of the bill rate up to the first 36 hours
+SHIFT: 8 HR Days
+WEEKENDS: Yes
+HOLIDAYS: Per Ministry Policy
+ON CALL:1 weekday a week & 1 weekend a month
+FLOATING: Per Ministry Policy
+GUARANTEE: 40-hrs
+
+EMR: Meditech
+SCRUB COLOR: TBD
+
+REQUIRED CREDENTIALS: *Must be provided upon submission*
+TX or Multistate RN license
+BLS, ACLS (AHA only)
+EKG Exam (upon compliance onboarding)
+
+REQUIRED EXPERIENCE: 2 years
+PREFERRED SKILLS:
+
+SUBMISSION REQUIREMENTS (Must be combined into 1 PDF file)
+Filled out coversheet (blank coversheet attached)
+Resume/work history
+Skills checklist
+Certification verification within last 30 days ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => CHRISTUS Santa Rosa Hospital - Medical Center
+    [shiftDateEnd] => 2024-03-02
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

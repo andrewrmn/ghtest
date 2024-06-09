@@ -1,0 +1,119 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2861',
+  'Cf-Ray' => '82b393d8d37e1466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Cardiovascular Technologist Senior/ Cardiovascular Tech II
+CHRISTUS Santa Rosa Hospital Medical Center
+2827 Babcock Road, San Antonio, TX, 78229
+QUANTITY: 2
+
+CONTRACT: 13-Weeks
+BILL RATE: $100.00, orientation 70% of the bill rate up to the first 36 hours
+SHIFT: TBD
+WEEKENDS: Yes
+HOLIDAYS: Per Ministry Policy
+ON CALL: Yes
+FLOATING: Per Ministry Policy
+GUARANTEE: 40-hrs
+PATIENT RATIO:
+PATIENT POPULATION:
+EQUIPMENT/TECHS ON UNIT:
+EMR: Meditech
+SCRUB COLOR:
+
+REQUIRED CREDENTIALS: *Must be provided upon submission*
+
+
+REQUIRED EXPERIENCE: 2 years
+PREFERRED SKILLS:
+
+SUBMISSION REQUIREMENTS (Must be combined into 1 PDF file)
+Filled out coversheet (blank coversheet attached)
+Resume/work history
+Skills checklist
+Certification verification within last 30 days
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 544220
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 12782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Cath Lab Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 24 2023 13:04:59
+    [daysPerWeek] => 4
+    [orderNote] => Source=StafferLink;SourceID=7935756 ;Status=O;Association=CHRISTUS Santa Rosa Health Care (STX) ;Client=CHRISTUS Santa Rosa Health Care (STX) ;City=San Antonio ;State=TX ;Zip=78229 ;Start=12/4/2023;End=3/4/2024;Duration=92;Cert=Cardiovascular Tech II ;Specialty=Cardiology Cath 2605 / 489 ;Unit=Cardiology Cath 2605 / 489 ;Shift=07:00:00 - 16:00:00;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$100.00;Description=Cardiovascular Technologist Senior/ Cardiovascular Tech II
+CHRISTUS Santa Rosa Hospital Medical Center
+2827 Babcock Road, San Antonio, TX, 78229
+QUANTITY: 2
+
+CONTRACT: 13-Weeks
+BILL RATE: $100.00, orientation 70% of the bill rate up to the first 36 hours
+SHIFT: TBD
+WEEKENDS: Yes
+HOLIDAYS: Per Ministry Policy
+ON CALL: Yes
+FLOATING: Per Ministry Policy
+GUARANTEE: 40-hrs
+PATIENT RATIO:
+PATIENT POPULATION:
+EQUIPMENT/TECHS ON UNIT:
+EMR: Meditech
+SCRUB COLOR:
+
+REQUIRED CREDENTIALS: *Must be provided upon submission*
+
+
+REQUIRED EXPERIENCE: 2 years
+PREFERRED SKILLS:
+
+SUBMISSION REQUIREMENTS (Must be combined into 1 PDF file)
+Filled out coversheet (blank coversheet attached)
+Resume/work history
+Skills checklist
+Certification verification within last 30 days ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => CHRISTUS Santa Rosa Hospital - Medical Center
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

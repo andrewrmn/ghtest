@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1058',
+  'Cf-Ray' => '8307632891f46a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => We will just move their extension date down as the facility approves- agreements are sent to end 12/31/23 on clinican side
+    [sitename] => giftednurses
+    [spec] => Pharmacy
+    [assignmentid] => 511900
+    [workerID] => 178999
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 40
+    [facilityID] => 7404
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-07-09
+    [workerLastName] => Smith
+    [shiftNum] => 1
+    [workerFirstName] => Leslie Sheree
+    [cert] => Pharmacy Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 16:30
+    [whenmodified] => December, 04 2023 17:11:48
+    [daysPerWeek] => 5
+    [orderNote] => Termed on 12/04/23 (Paying for 2 hours on 12/05/23 to turn in badge/out). 
+1.35 Medical and Dental
+Pay rate change
+    [guaranteedMinimum] => 
+    [workerEmail] => lssmith35576@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => BOP-FCI Aliceville
+    [shiftDateEnd] => 2023-12-05
+    [shiftStartTime] => 08:30
+    [subjectID] => 
+)

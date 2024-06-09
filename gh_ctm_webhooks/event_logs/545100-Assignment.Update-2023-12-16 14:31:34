@@ -1,0 +1,138 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '27',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2477',
+  'Cf-Ray' => '8367a17165a24959-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => The Johns Hopkins Pediatric Emergency Room
+
+	
+
+	Required: 2 years experience in Pediatric ED
+
+	
+
+	Please only submit Pediatric ED RNs not Adult ED RNs !!
+
+	
+
+	
+
+	Shift: E/N Rotate  (1p-1a, 3p-3a and 7p-7a)
+
+	
+
+	REQUIRED
+		2+ years of pediatric ER/Psych experience
+		At least 1 travel assignment
+		PALS
+		BLS
+	
+
+	EPIC:experience peferred
+
+	
+
+	
+
+	36hr/week
+
+	
+
+	Weekend:requirement: EOW
+
+	
+
+	Holiday:as needed by the unit
+    [sitename] => giftednurses
+    [spec] => Peds
+    [assignmentid] => 545100
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1877
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-31
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:30
+    [whenmodified] => December, 16 2023 09:31:25
+    [daysPerWeek] => 3
+    [orderNote] => Source=IntrastaffVMS;SourceID=304790 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Johns Hopkins Hospital ;Start=12/18/2023;End=3/16/2024;Duration=89;Cert=MSP RN Enhanced High Needs ;Specialty=Pediatrics Emergency Department  (4801357630) ;Unit=Pediatrics Emergency Department  (4801357630) ;Shift=Eve 8 (3:00 PM - 11:30 PM);# of Postions=1;Type=Travel;BillRate=$100.00;minBillRate=$100.00;Description=The Johns Hopkins Pediatric Emergency Room
+
+	
+
+	Required: 2 years experience in Pediatric ED
+
+	
+
+	Please only submit Pediatric ED RNs not Adult ED RNs !!
+
+	
+
+	
+
+	Shift: E/N Rotate  (1p-1a, 3p-3a and 7p-7a)
+
+	
+
+	REQUIRED
+		2+ years of pediatric ER/Psych experience
+		At least 1 travel assignment
+		PALS
+		BLS
+	
+
+	EPIC:experience peferred
+
+	
+
+	
+
+	36hr/week
+
+	
+
+	Weekend:requirement: EOW
+
+	
+
+	Holiday:as needed by the unit ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=j2qHPUzH7iU=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => The Johns Hopkins Hospital TRAVEL
+    [shiftDateEnd] => 2024-03-29
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

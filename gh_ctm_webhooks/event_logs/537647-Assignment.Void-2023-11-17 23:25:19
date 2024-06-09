@@ -1,0 +1,99 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7316',
+  'Cf-Ray' => '827bbb705758183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => A.	Performs incentive spirometry, aerosol therapy, oxygen therapy, pulmonary drainage procedures, BIPAP/CPAP, ventilator management, therapeutic bronchoscopy, co-oximetry, ekg, holter, zio, intubation assist, extubation, blood gas, outpatient testing, and suctioning following interpretation of physician order.
+B.	Assesses patients receiving Respiratory Care using beside assessment technique and knowledge of indications, contraindications, hazards of the above procedures and actions/reactions of medications being given.
+C.	Responds to and are team members of the resuscitation and rapid response pages.
+D.	Performs aseptic techniques when required, and routine cleaning and disinfecting procedures.
+E.	Performs basic spirometry procedures, electrocardiograms, arterial blood gas sampling and analysis.
+F.	Provides patient education and assists with community events dealing with Respiratory Care.
+G.	Provides competent patient care to the above indicated patient populations by obtaining and appropriately interpreting data, making appropriate decisions based on demonstrated knowledge of age-specific growth and development, and appropriately adapting procedures and treatments.
+H.  Communicates with and performs duties following Mercy One North Iowa Service Excellence Standards of Behavior.
+I.	Supports and abides by all health center departmental and safety policies and procedures.
+J.	Acts in a professional manner reflecting the mission, philosophy and values of Mercy One North Iowa.  
+K.	Performs other responsibilities as requested by the Clinical Leaders or Manager of Respiratory Care.
+L.	Creates and documents individual plan for professional/personal growth.
+M.	Performs department tasks related to maintenance of medications, equipment, and documentation. 
+N.	Participates in the Mercy Way by attending huddle and using problem solving and waste elimination tools to promote continuous positive improvement.  
+O.	Maintains required department confidentiality and abides by HIPPA regulations.
+P.	Provides competent patient care to the above indicated patient populations by obtaining and appropriately interpreting data, making appropriate decisions based on demonstrated knowledge of age-specific growth and development, and appropriately adapting procedures and treatments.
+Q.	Takes an active role in enhancing ability to carry out job functions through personal and professional/job-related growth and development. Participates in medical center and/or departmental education programs.
+R.	Communicates with and performs duties following the philosophy of MercyOne North Iowa and the Sisters of Mercy reflecting the organization s Mission, Values, and Guiding Behaviors.
+S.	Supports and abides by all medical center, departmental, and safety policies and procedures.  Proactively identifies safety concerns surrounding the work environment. 
+T.	Performs other responsibilities as requested by supervisor, manager or department head.
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 537647
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12691
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RRT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 17 2023 18:25:18
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;ID=1 ;SourceID=47570 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne North Iowa Medical Center ;City=Mason City ;State=IA ;Zip=50401 ;Start=11/12/2023;End=2/10/2024;Duration=90;Cert=Respiratory Therapist ;Specialty=Respiratory Services ;Unit=Respiratory Therapy-RT-Respiratory Services ;Shift=7a-7p;# of Postions=1;Type=Travel;BillRate=$71.00;OTRate=92.30 ;ChargeRate=74.00 ;CallbackRate=92.30 ;HolidayRate=92.30 ;Orientation=0.00 ;Description=A.	Performs incentive spirometry, aerosol therapy, oxygen therapy, pulmonary drainage procedures, BIPAP/CPAP, ventilator management, therapeutic bronchoscopy, co-oximetry, ekg, holter, zio, intubation assist, extubation, blood gas, outpatient testing, and suctioning following interpretation of physician order.
+B.	Assesses patients receiving Respiratory Care using beside assessment technique and knowledge of indications, contraindications, hazards of the above procedures and actions/reactions of medications being given.
+C.	Responds to and are team members of the resuscitation and rapid response pages.
+D.	Performs aseptic techniques when required, and routine cleaning and disinfecting procedures.
+E.	Performs basic spirometry procedures, electrocardiograms, arterial blood gas sampling and analysis.
+F.	Provides patient education and assists with community events dealing with Respiratory Care.
+G.	Provides competent patient care to the above indicated patient populations by obtaining and appropriately interpreting data, making appropriate decisions based on demonstrated knowledge of age-specific growth and development, and appropriately adapting procedures and treatments.
+H.  Communicates with and performs duties following Mercy One North Iowa Service Excellence Standards of Behavior.
+I.	Supports and abides by all health center departmental and safety policies and procedures.
+J.	Acts in a professional manner reflecting the mission, philosophy and values of Mercy One North Iowa.  
+K.	Performs other responsibilities as requested by the Clinical Leaders or Manager of Respiratory Care.
+L.	Creates and documents individual plan for professional/personal growth.
+M.	Performs department tasks related to maintenance of medications, equipment, and documentation. 
+N.	Participates in the Mercy Way by attending huddle and using problem solving and waste elimination tools to promote continuous positive improvement.  
+O.	Maintains required department confidentiality and abides by HIPPA regulations.
+P.	Provides competent patient care to the above indicated patient populations by obtaining and appropriately interpreting data, making appropriate decisions based on demonstrated knowledge of age-specific growth and development, and appropriately adapting procedures and treatments.
+Q.	Takes an active role in enhancing ability to carry out job functions through personal and professional/job-related growth and development. Participates in medical center and/or departmental education programs.
+R.	Communicates with and performs duties following the philosophy of MercyOne North Iowa and the Sisters of Mercy reflecting the organization s Mission, Values, and Guiding Behaviors.
+S.	Supports and abides by all medical center, departmental, and safety policies and procedures.  Proactively identifies safety concerns surrounding the work environment. 
+T.	Performs other responsibilities as requested by supervisor, manager or department head. ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 71
+    [facilityName] => Mercy Medical Center - North Iowa East Travel
+    [shiftDateEnd] => 2024-03-03
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

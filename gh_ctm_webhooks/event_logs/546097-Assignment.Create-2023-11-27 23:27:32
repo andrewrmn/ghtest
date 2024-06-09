@@ -1,0 +1,122 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '28',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '9152',
+  'Cf-Ray' => '82ce247203d5495d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => CVPICU RN
+Shift: manager will accept 3x12s or 4x12s, 7p-730a
+Ratios:  1:1 or 1:2, based on acuity, 1:3 for stepdown patients
+Years of experience REQ: 2 years Peds Cardiac ICU experience
+Experience required: CV and Pediatric experience
+First-timers accepted:: yes
+Weekend REQ: 4 weekend shifts in a 4 week schedule , holiday rotation
+Certs REQ: SC or Multi-State compact RN license, PALS, BLS, ACLS-preferred
+Will clinician float within scope to meet facility needs?  yes
+Open to accommodating block schedule?  -per manager s discretion
+Locals accepted: (Y/N) What is the local radius rule? Yes, 50 miles
+RTO Restrictions: ALL RTO must be provided at time of submission. Approval based off unit needs
+Guaranteed Hours:  traveler may be cancelled one shift/2 weeks
+
+*this unit does not accept travel pairs*
+
+
+* Gold  Beacon Award-winning unit*
+*voted #4 in US News report and #1 in the nation for outcomes*
+
+Pediatric Cardiology Intensive Care unit is a 29 bed (mixed acuity unit)-- Beacon Award-Winning unit and is the referral center for all major pediatric cardiac surgery in South Carolina. Average Daily Census on the unit is 26, with a blend of cardiac surgical and medical diagnoses. The PCICU cares for patients with congenital heart disease of any age based on care needs. Common procedures associated with this unit's care include cardiac surgery, Ventricular Assist Devices, Heart Transplant, cardiac catheterization, and all medical diagnoses associated with cardiac care for the children in South Carolina. In addition to ventilatory and cardiac support, the unit provides ECMO/CRRT and additional complex supportive therapies . Pediatric palliative care is available as needed The staffing mix includes Registered Nurses, Patient Care Technicians, and Unit Secretaries with ancillary supportive services such as Respiratory Therapy, Pediatric Dietitians, and Pediatric Pharmacist available as needed. All PCICU beds are monitored beds.
+
+Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+
+
+ Modified Time:12/18/2023 5:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal radius: 50 miles. Locals accepted on a case by case basis at lower ratePerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+    [sitename] => giftednurses
+    [spec] => PICU
+    [assignmentid] => 546097
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15757
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 27 2023 18:27:31
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2322495 ;Status=Open;Association=Qualivis MSP ;Client=MUSC Health - Shawn Jenkins Children's Hospital ;City=Charleston ;State=SC ;Zip=29425 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Registered Nurse ;Specialty=CVPICU ;Unit=CHS Heart Center 3 (SJCH), CC000517 (Meduflex) ;Shift=Night 4x12-Hour (19:00 - 07:30);# of Postions=3;Type=Travel;BillRate=$84.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=CVPICU RN
+Shift: manager will accept 3x12s or 4x12s, 7p-730a
+Ratios:  1:1 or 1:2, based on acuity, 1:3 for stepdown patients
+Years of experience REQ: 2 years Peds Cardiac ICU experience
+Experience required: CV and Pediatric experience
+First-timers accepted:: yes
+Weekend REQ: 4 weekend shifts in a 4 week schedule , holiday rotation
+Certs REQ: SC or Multi-State compact RN license, PALS, BLS, ACLS-preferred
+Will clinician float within scope to meet facility needs?  yes
+Open to accommodating block schedule?  -per manager s discretion
+Locals accepted: (Y/N) What is the local radius rule? Yes, 50 miles
+RTO Restrictions: ALL RTO must be provided at time of submission. Approval based off unit needs
+Guaranteed Hours:  traveler may be cancelled one shift/2 weeks
+
+*this unit does not accept travel pairs*
+
+
+* Gold  Beacon Award-winning unit*
+*voted #4 in US News report and #1 in the nation for outcomes*
+
+Pediatric Cardiology Intensive Care unit is a 29 bed (mixed acuity unit)-- Beacon Award-Winning unit and is the referral center for all major pediatric cardiac surgery in South Carolina. Average Daily Census on the unit is 26, with a blend of cardiac surgical and medical diagnoses. The PCICU cares for patients with congenital heart disease of any age based on care needs. Common procedures associated with this unit's care include cardiac surgery, Ventricular Assist Devices, Heart Transplant, cardiac catheterization, and all medical diagnoses associated with cardiac care for the children in South Carolina. In addition to ventilatory and cardiac support, the unit provides ECMO/CRRT and additional complex supportive therapies . Pediatric palliative care is available as needed The staffing mix includes Registered Nurses, Patient Care Technicians, and Unit Secretaries with ancillary supportive services such as Respiratory Therapy, Pediatric Dietitians, and Pediatric Pharmacist available as needed. All PCICU beds are monitored beds.
+
+Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+
+
+ Modified Time:12/18/2023 5:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal radius: 50 miles. Locals accepted on a case by case basis at lower ratePerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2322495/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 84
+    [facilityName] => MUSC Shawn Jenkins Children's Hospital
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

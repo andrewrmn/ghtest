@@ -1,0 +1,73 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6232',
+  'Cf-Ray' => '82cb294be4b91465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:***WellSpan is not currently accepting compact licenses - do not submit compact licenses. All vendors will be updated once this changes. thank you***
+ASAP Start$90 bill ratesSHIFT- Day/evening shift- w/ Weekends and holiday as needed8-HOUR SHIFTS 330P-12A &amp; PRIMARILY IN THE ED*2 yrs experience required
+*Could care for covid patients
+*Could float if neededClinical Checklist*Do not submit local candidates to these travel positions. Contact the PMO team for the local rate first. If candidate accepts the lower local rate, submit the profile which clearly notates candidate is local and aware local rates are lower.*As of 1/5/2022 all travelers must be fully vaccinated for COVID-19.**Any traveler declining the COVID-19 vaccine, must be approved for a medical/religious exemption by their agencyThe CT Technologist is a graduate of an accredited AMA school and registered with the American Registry of Radiologic Technology (ARRT).  The CT Technologist is licensed by the state as a general radiographer and  is responsible for providing timely diagnostic services to both inpatient and outpatients under the direction of a Radiologist and departmental protocols. Responsibilities include but are not limited to the performance of basic radiographic procedures, fluoroscopy, portable radiographic procedures, C-arm procedures, and OR imaging services.  The CT Technologist demonstrates proficiency at routine diagnostic CT Scanning procedures including but not limited to CT of head/brain, neck, thorax, spine, abdomen/pelvis extremities and biopsy/drainage procedures.  Responsibilities also include: knowledge of processing of CT system, surgical/sterile procedure, studies with or without contrast media and cross sectional anatomy.
+ General Comments*Nicotine-free facility   ALL FORMS OF NICOTINE   ASSIGNMENT WILL BE CANCELED &amp; NOT ELIGIBLE FOR REHIRE FOR 12 MONTHS IF THERE IS A POSITIVE RESULT FOR ANY REASON**WELLSPAN WILL NOT CONSIDER CANDIDATES THAT HAVE HAD LICENSE SUSPENDED ANYTIME IN THE PAST - DO NOT SUBMIT THESE PROFILES*All time off and/or scheduling requests must be included in the submissionCandidates cannot be considered if they have been employed as a perm hire at any WellSpan site within the year.WellSpan requires the flu vaccine from September 7 - April 30. Please ensure your traveler is willing to obtain prior to submitting
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 545252
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2396
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 27 2023 09:46:33
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=776963 ;Status=Open;Association=WellSpan Health ;Client=Chambersburg Hospital ;City=Chambersburg ;State=PA ;Zip=17201 ;Start=12/11/2023;End=3/10/2024;Duration=91;Cert=CT Tech ;Specialty=Radiology ;Unit=EXT-Allspire (525) ;Shift=- Day/evening shift- w/ Weekends and holiday as needed;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:***WellSpan is not currently accepting compact licenses - do not submit compact licenses. All vendors will be updated once this changes. thank you***
+ASAP Start$90 bill ratesSHIFT- Day/evening shift- w/ Weekends and holiday as needed8-HOUR SHIFTS 330P-12A &amp; PRIMARILY IN THE ED*2 yrs experience required
+*Could care for covid patients
+*Could float if neededClinical Checklist*Do not submit local candidates to these travel positions. Contact the PMO team for the local rate first. If candidate accepts the lower local rate, submit the profile which clearly notates candidate is local and aware local rates are lower.*As of 1/5/2022 all travelers must be fully vaccinated for COVID-19.**Any traveler declining the COVID-19 vaccine, must be approved for a medical/religious exemption by their agencyThe CT Technologist is a graduate of an accredited AMA school and registered with the American Registry of Radiologic Technology (ARRT).  The CT Technologist is licensed by the state as a general radiographer and  is responsible for providing timely diagnostic services to both inpatient and outpatients under the direction of a Radiologist and departmental protocols. Responsibilities include but are not limited to the performance of basic radiographic procedures, fluoroscopy, portable radiographic procedures, C-arm procedures, and OR imaging services.  The CT Technologist demonstrates proficiency at routine diagnostic CT Scanning procedures including but not limited to CT of head/brain, neck, thorax, spine, abdomen/pelvis extremities and biopsy/drainage procedures.  Responsibilities also include: knowledge of processing of CT system, surgical/sterile procedure, studies with or without contrast media and cross sectional anatomy.
+ General Comments*Nicotine-free facility   ALL FORMS OF NICOTINE   ASSIGNMENT WILL BE CANCELED &amp; NOT ELIGIBLE FOR REHIRE FOR 12 MONTHS IF THERE IS A POSITIVE RESULT FOR ANY REASON**WELLSPAN WILL NOT CONSIDER CANDIDATES THAT HAVE HAD LICENSE SUSPENDED ANYTIME IN THE PAST - DO NOT SUBMIT THESE PROFILES*All time off and/or scheduling requests must be included in the submissionCandidates cannot be considered if they have been employed as a perm hire at any WellSpan site within the year.WellSpan requires the flu vaccine from September 7 - April 30. Please ensure your traveler is willing to obtain prior to submitting
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/776963;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Chambersburg Hospital
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

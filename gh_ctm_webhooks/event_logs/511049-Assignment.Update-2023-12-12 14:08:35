@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '908',
+  'Cf-Ray' => '83468a4ec2ba77ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Actual Start Date was 07-20-23
+    [sitename] => giftednurses
+    [spec] => LTAC
+    [assignmentid] => 511049
+    [workerID] => 80207
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9468
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-07-20
+    [workerLastName] => McDowell
+    [shiftNum] => 5
+    [workerFirstName] => Tangela
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => December, 12 2023 09:08:35
+    [daysPerWeek] => 3
+    [orderNote] => BR:$95lRS:130159lFTK:GiftTC
+Orient:$24lNonBill:8hrs
+    [guaranteedMinimum] => 
+    [workerEmail] => tangela1224@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => ContinueCare Hospital at Palmetto Health-Travel
+    [shiftDateEnd] => 2023-09-02
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

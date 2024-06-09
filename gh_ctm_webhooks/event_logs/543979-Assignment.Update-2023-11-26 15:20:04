@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2653',
+  'Cf-Ray' => '82c31d00c2a86a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Confluence Health is seeking anRNfor PCU E/N; Telemetry/Step Down. Must be able to float to MOU and SOU as needed.NIHSS, ACLS, BLSis required. This position will be located at Central Washington Hospital.MUST HAVE CURRENT WA License.   Additional Information:PLEASE NOTE THAT CONFLUENCE HEALTH PARTICIPATES IN THE MEDEFIS CREDENTIAL SERVICE. PLEASE SUBMIT ALL CREDENTIALS THROUGH THE MEDEFIS PORTAL. THEY ALSO PARTICIPATE IN THE MEDEFIS INVOICING SERVICE OF WHICH KRONOS REPORTS ARE UPLOADED BIWEEKLY.  TRAVELERS ARE NOT TO USE PAPER TIMECARDS.  AGENCY MUST HAVE WA STATE NURSE POOL LICENSE IN ORDER TO HAVE TRAVELERS WORKING AT THIS FACILITY.   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 543979
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8716
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 26 2023 10:19:59
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261566 ;Status=Open;Association=Confluence Health ;Client=Confluence Health ;City=Wenatchee ;State=WA ;Zip=98801 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Nursing ;Specialty=PCU ;Unit=PCU ;Shift=D/E;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$100.00;OTRate=110 ;OTRules=By The Week, after 40, ;HolidayRate=110 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=Confluence Health is seeking anRNfor PCU E/N; Telemetry/Step Down. Must be able to float to MOU and SOU as needed.NIHSS, ACLS, BLSis required. This position will be located at Central Washington Hospital.MUST HAVE CURRENT WA License.   Additional Information:PLEASE NOTE THAT CONFLUENCE HEALTH PARTICIPATES IN THE MEDEFIS CREDENTIAL SERVICE. PLEASE SUBMIT ALL CREDENTIALS THROUGH THE MEDEFIS PORTAL. THEY ALSO PARTICIPATE IN THE MEDEFIS INVOICING SERVICE OF WHICH KRONOS REPORTS ARE UPLOADED BIWEEKLY.  TRAVELERS ARE NOT TO USE PAPER TIMECARDS.  AGENCY MUST HAVE WA STATE NURSE POOL LICENSE IN ORDER TO HAVE TRAVELERS WORKING AT THIS FACILITY.   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261566;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Confluence Health
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

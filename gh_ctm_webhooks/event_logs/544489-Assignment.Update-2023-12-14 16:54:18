@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2727',
+  'Cf-Ray' => '8357f7cba0ca1466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Oncology Clinic RNShift:  M-F 8am-430pm or 830am-5pm depending on provider coverage5x8s - 40 hours per weekAt least 1 year oncology experience required*ONS Chemo/Bio Certificate required*I have 1 December and 1 February start date available.Competency in Port Access and ManagementWill float to Port Draw Room May travel between 2 locations based on provider assignment   Additional Information:Orientation: The first 16 hours of orientation are unpaid. Call Off Policy: 5 shifts (or the equivalent hours) per 13 week assignment.  Parking: Travelers may need to  pay for parking at VCU depending on how close they want to be to the hospital.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Oncol
+    [assignmentid] => 544489
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3760
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-01
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:30
+    [whenmodified] => December, 14 2023 11:54:18
+    [daysPerWeek] => 5
+    [orderNote] => Source=Medefis5;SourceID=261724 ;Status=Open;Association=VCU Health ;Client=VCU Medical Center ;City=Richmond ;State=VA ;Zip=23298 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Nursing ;Specialty=Clinic, Oncology Nurse ;Unit=Clinic, Oncology Nurse ;Shift=M-F 5x8s;# of Postions=2;Guaranteed Hours=40;Type=Travel;BillRate=$90.00;OTRate=100 ;OTRules=By The Week, after 40, ;CallbackRate=90 (All Inclusive Rate) ;HolidayRate=90 (All Inclusive Rate) ;OnCallRateDescription=$10 per hour pager ;Description=Oncology Clinic RNShift:  M-F 8am-430pm or 830am-5pm depending on provider coverage5x8s - 40 hours per weekAt least 1 year oncology experience required*ONS Chemo/Bio Certificate required*I have 1 December and 1 February start date available.Competency in Port Access and ManagementWill float to Port Draw Room May travel between 2 locations based on provider assignment   Additional Information:Orientation: The first 16 hours of orientation are unpaid. Call Off Policy: 5 shifts (or the equivalent hours) per 13 week assignment.  Parking: Travelers may need to  pay for parking at VCU depending on how close they want to be to the hospital.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261724;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => VCU Medical Center - TRAVEL
+    [shiftDateEnd] => 2024-04-01
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

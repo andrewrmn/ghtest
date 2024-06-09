@@ -1,0 +1,66 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3794',
+  'Cf-Ray' => '84fbbafe54466a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 01/27/2020 1039 MSTCerville Exavier
+                            
+                            
+                                Experienced Pediatric CVOR Nurse needed. Must have at least 2 years of experience.  Must have  experienced cases:Atrial Septal Repair, Ventricular Septal Repair, Norwood, Glenn, Fontan (fenestrated and not), Vascular Ring, Tetralogy of Fallot Repairs, Ross Operation and/or Ross Konno, Patent Ductus Arteriosus, Aortic Coarctation, Interrupted Aortic Arch,Pacemaker/AICD Placement, Right Ventricle to Pulmonary Artery (RV-PA) conduit placement/revisions,General understanding of ECMO procedure. 10H Shifts, variable days. Variable case volumes. Call cover required. ** Must have pediatric experience - non negotiable.IVS to interview via montage. NM to make final offer.***95.00 Bill Rate plus 3k Sign on bonus for starts prior to January who will work the holidays. 3K will be paid on front end of assignment, after working first holiday. There will also be a 2K completion bonus.** Bonus is approved and will still be honored even though the holidays are over. Manager willing to take 1 year of experience. If minimal Peds experience, please submit candidates for review. ***
+    [sitename] => giftednurses
+    [spec] => CVOR
+    [assignmentid] => 103111
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2478
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-02-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => February, 03 2024 10:32:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=Shiftwise;SourceID=8568049;Status=Open;Association=CCS WFS: Seton HealthCare Network;Client=AH: Dell Children's Medical Center;City=Austin;State=TX;Zip=78723;Start=2/24/2020;End=5/23/2020;Duration=90;Cert=RN;Specialty=CVOR;Unit=DCMC Surgical Services;Shift=AM 12.00 Hrs;# of Postions=1;Type=Travel;OTRate= ;OTRules= ;ChargeRate= ;CallbackRate= ;CallbackRate= ;HolidayRate= ;OnCallRateDescription= ;Orientation= ;Description=01/27/2020 1039 MSTCerville Exavier
+                            
+                            
+                                Experienced Pediatric CVOR Nurse needed. Must have at least 2 years of experience.  Must have  experienced cases:Atrial Septal Repair, Ventricular Septal Repair, Norwood, Glenn, Fontan (fenestrated and not), Vascular Ring, Tetralogy of Fallot Repairs, Ross Operation and/or Ross Konno, Patent Ductus Arteriosus, Aortic Coarctation, Interrupted Aortic Arch,Pacemaker/AICD Placement, Right Ventricle to Pulmonary Artery (RV-PA) conduit placement/revisions,General understanding of ECMO procedure. 10H Shifts, variable days. Variable case volumes. Call cover required. ** Must have pediatric experience - non negotiable.IVS to interview via montage. NM to make final offer.***95.00 Bill Rate plus 3k Sign on bonus for starts prior to January who will work the holidays. 3K will be paid on front end of assignment, after working first holiday. There will also be a 2K completion bonus.** Bonus is approved and will still be honored even though the holidays are over. Manager willing to take 1 year of experience. If minimal Peds experience, please submit candidates for review. ***;Buyer= ;url=https://secure.shiftwise.net/esp/order.aspx?order_id=17E940897369F7B5D5B4D90462C15EDB;VMSPositionType= AvgHoursPerWeek= InterviewRequired=False;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 
+    [facilityName] => Dell Children's Medical Center
+    [shiftDateEnd] => 2020-05-23
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

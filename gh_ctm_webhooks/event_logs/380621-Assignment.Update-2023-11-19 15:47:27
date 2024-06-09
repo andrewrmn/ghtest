@@ -1,0 +1,76 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2950',
+  'Cf-Ray' => '8289977ce2cb23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+Operating room assistants, also known as surgical technologists or operating room technicians, help with surgical procedures under the supervision of surgeons, anesthesiologists, nurses and other members of the surgical team. They also ensure the operating room is clean before, during and after surgery. Operating room assistants usually complete accredited training through a certificate, diploma or associate's degree program and obtain voluntary certification in order to gain employment.
+Days
+13
+week contract, 36 hours guaranteed, 4/10 hr shifts plus call, Surgical Tech
+certification, BLS,  2  years of OR experience, Cerner experience is
+preferredparseGeneralComments Comments
+.bd_title { font-weight: bold }
+PCR 2111-007 Contact: CHS MSP HOUSE Resource Manager: CHS MSP HOUSE
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 380621
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-07-18
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:47:10
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=605409 ;Status=Open;Association=CHS ;Client=Oro Valley Hospital ;City=Oro Valley ;State=AZ ;Zip=85755 ;Start=5/23/2022;End=8/22/2022;Duration=91;Cert=CHS Travel:Surgical Technician (ST) / (OR) (605409) ;Specialty=1111: OPERATING ROOM ;Unit=OPERATING ROOM ;Shift=;# of Postions=1;Type=Travel;BillRate=$90.00;Description=Position Description
+Operating room assistants, also known as surgical technologists or operating room technicians, help with surgical procedures under the supervision of surgeons, anesthesiologists, nurses and other members of the surgical team. They also ensure the operating room is clean before, during and after surgery. Operating room assistants usually complete accredited training through a certificate, diploma or associate's degree program and obtain voluntary certification in order to gain employment.
+Days
+13
+week contract, 36 hours guaranteed, 4/10 hr shifts plus call, Surgical Tech
+certification, BLS,  2  years of OR experience, Cerner experience is
+preferredparseGeneralComments Comments
+.bd_title { font-weight: bold }
+PCR 2111-007 Contact: CHS MSP HOUSE Resource Manager: CHS MSP HOUSE ;Buyer=CHS MSP HOUSE ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=605409#!/position/manage/605409;VMSPositionType=Travel InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Northwest Medical Center of Oro Valley
+    [shiftDateEnd] => 2022-10-17
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

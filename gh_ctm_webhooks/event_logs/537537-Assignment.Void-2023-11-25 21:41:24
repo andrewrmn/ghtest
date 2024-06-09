@@ -1,0 +1,500 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '29',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6396',
+  'Cf-Ray' => '82bd0e3bd7b94961-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL-CT TECH (794)-7:00PM-7:00AMUnit: FSER
+13 weeks, 36 hours guaranteed
+
+***MUST HAVE ACTIVE UT LICENSE WITH SUBMISSION**ARRT REQUIRED
+
+STARTS WILL BE 4-6 WEEKS OUT
+ General CommentsHospital:
+ Lone   Peak Hospital             
+Address: 11925   South State Street
+         Unit: Radiology   Tech 728 or CT SCAN 726             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds : 32 Bed Hospital   1   CT scanner (Back up CT connected to Nuc Med camera)
+   
+ 
+
+
+
+
+
+
+
+   Cost Center: 25016
+   
+ 
+
+
+
+
+
+
+
+   Length of contract: 13 weeks
+   
+ 
+
+
+
+
+
+
+
+   Shift: Mix Days night 12 hr shifts
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios : 
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) : Mix day and grave 12 hr CT shifts
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment : GE 64slice light   speed, Optima 540 16 slice back up CT on Nuc Med camera
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Epic and   Centricity PACS
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: 
+   
+ 
+
+
+
+
+
+
+
+   Floating policy:
+   
+ 
+
+
+
+
+
+
+
+   On Call Expectations:
+   
+ 
+
+
+
+
+
+
+
+   Weekend Requirement: Yes every other   weekend
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements: 
+   
+
+
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications: ARRT (CT) (R) 
+   
+ 
+
+
+
+
+
+
+
+   Utah state Radiology license
+             Hiring profile             
+   
+Must have: 
+CT   certification and experience with all standard CT exams. 
+   
+   Certifications   Required:    ARRT   (CT) (R)    Utah   state Radiology license https://dopl.utah.gov/rad/   BLS             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   
+Royal blue scrubs
+             Weekends/On call (if any)   
+ 
+
+
+
+
+
+
+
+   n/a
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+   
+ 
+
+
+
+
+
+
+
+   Self-motivated
+   
+ 
+
+
+
+
+
+
+
+   Quick   learner
+   
+ 
+
+
+
+
+
+
+
+   Able to   work independently
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 537537
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7304
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 25 2023 16:41:23
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=767566 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=Lone Peak Hospital ;City=Draper ;State=UT ;Zip=84020 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=CT Tech ;Specialty=Radiology ;Unit=MOUNTAIN DIVISION (15) ;Shift=7:00AM-7:00PM;# of Postions=1;Type=Travel;BillRate=$95.00;OTRate=103 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL-CT TECH (794)-7:00-1900Unit: FSER
+13 weeks, 36 hours guaranteed
+
+***MUST HAVE ACTIVE UT LICENSE WITH SUBMISSION**ARRT REQUIRED
+ General CommentsHospital:
+ Lone   Peak Hospital             
+Address: 11925   South State Street
+         Unit: Radiology   Tech 728 or CT SCAN 726             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds : 32 Bed Hospital   1   CT scanner (Back up CT connected to Nuc Med camera)
+   
+ 
+
+
+
+
+
+
+
+   Cost Center: 25016
+   
+ 
+
+
+
+
+
+
+
+   Length of contract: 13 weeks
+   
+ 
+
+
+
+
+
+
+
+   Shift: Mix Days night 12 hr shifts
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios : 
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) : Mix day and grave 12 hr CT shifts
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment : GE 64slice light   speed, Optima 540 16 slice back up CT on Nuc Med camera
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Epic and   Centricity PACS
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: 
+   
+ 
+
+
+
+
+
+
+
+   Floating policy:
+   
+ 
+
+
+
+
+
+
+
+   On Call Expectations:
+   
+ 
+
+
+
+
+
+
+
+   Weekend Requirement: Yes every other   weekend
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements: 
+   
+
+
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications: ARRT (CT) (R) 
+   
+ 
+
+
+
+
+
+
+
+   Utah state Radiology license
+             Hiring profile             
+   
+Must have: 
+CT   certification and experience with all standard CT exams. 
+   
+   Certifications   Required:    ARRT   (CT) (R)    Utah   state Radiology license https://dopl.utah.gov/rad/   BLS             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   
+Royal blue scrubs
+             Weekends/On call (if any)   
+ 
+
+
+
+
+
+
+
+   n/a
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+   
+ 
+
+
+
+
+
+
+
+   Self-motivated
+   
+ 
+
+
+
+
+
+
+
+   Quick   learner
+   
+ 
+
+
+
+
+
+
+
+   Able to   work independently
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/767566;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Lone Peak Hospital
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

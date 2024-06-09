@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '29',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4825',
+  'Cf-Ray' => '8304efcb93e54961-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Unit Name:OrthopedicsAll candidates will need to complete a virtual interview for this role. Offers will be made based on that interview. Please ensure that all candidates have a full skills checklist with their resume combined on one document.Boone Health now requires that all nurse candidates provide current CEU documentation during the interview process32 bed fast paced unit.Nurse Patient Ratio:1:5-6Must be willing to floatPatient Age Groups: Adults, Geriatric, OutpatientTop 10 Diagnosis/Procedures:Total knee replacement, Total hip replacement, Total ankle replacement, Total shoulder replacement, fracture repair, spine surgeries including XLIF, ALIF, TDLF, ACDF, PCDF, microdisc, lamis.Common Medications used on the unit:Pain medication, Antibiotics, Anticoagulants, Home medications, Antiemetics, steroids.Common Equipment: Ice wraps, Polar coolersMay float to other Med/Surg areas - varies on surgical scheduleLine Management/Skills:Required: ??IV Insertion,Preferred: PICC/Central Line ManagementOrtho/MS/Onc Skills:Preferred: ??Traction,CPM,Epidural/PCA pumps,Feeding Tubes,Wound VacCardiac:Preferred: Remote Tele, Tele InterpretationAirway Skills:Preferred: ??CPAP/BiPAP??   Additional Information:For roles with a guarantee, Boone Health can call off staff for up to 36 hours in a contract ---------------------------------------------  For Boone Health RN, LPN's and RRT Requests  *A VIRTUAL INTERVIEW WILL BE SENT TO YOUR CANDIDATE TO COMPLETE PRIOR TO SUBMITTING TO THE HOSPTIAL FOR CONSIDERATION**  **PLEASE BE SURE TO HAVE A COMPLETE PACKET OR YOUR CANDIDATE WILL BE DENIED**  **CHECKLIST IS ATTACHED AND MUST BE THE FIRST PAGE OF THE SUBMISSION PACKET**   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Ortho
+    [assignmentid] => 545354
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 9740
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 04 2023 10:03:32
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261991 ;Status=Open;Association=Boone Health ;Client=Boone Health ;City=Columbia ;State=MO ;Zip=65201 ;Start=11/21/2023;End=2/20/2024;Duration=91;Cert=Nursing ;Specialty=Orthopedic ;Unit=Orthopedic ;Shift=Nights 1900-0730;# of Postions=2;Guaranteed Hours=48;Type=Travel;BillRate=$95.00;OTRate=105 ;OTRules=By The Week, after 48, ;CallbackRate=105 (All Inclusive Rate + $10) ;HolidayRate=105 (All Inclusive Rate + $10) ;OnCallRateDescription=$5 per hour pager ;Description=Unit Name:OrthopedicsAll candidates will need to complete a virtual interview for this role. Offers will be made based on that interview. Please ensure that all candidates have a full skills checklist with their resume combined on one document.Boone Health now requires that all nurse candidates provide current CEU documentation during the interview process32 bed fast paced unit.Nurse Patient Ratio:1:5-6Must be willing to floatPatient Age Groups: Adults, Geriatric, OutpatientTop 10 Diagnosis/Procedures:Total knee replacement, Total hip replacement, Total ankle replacement, Total shoulder replacement, fracture repair, spine surgeries including XLIF, ALIF, TDLF, ACDF, PCDF, microdisc, lamis.Common Medications used on the unit:Pain medication, Antibiotics, Anticoagulants, Home medications, Antiemetics, steroids.Common Equipment: Ice wraps, Polar coolersMay float to other Med/Surg areas - varies on surgical scheduleLine Management/Skills:Required: ??IV Insertion,Preferred: PICC/Central Line ManagementOrtho/MS/Onc Skills:Preferred: ??Traction,CPM,Epidural/PCA pumps,Feeding Tubes,Wound VacCardiac:Preferred: Remote Tele, Tele InterpretationAirway Skills:Preferred: ??CPAP/BiPAP??   Additional Information:For roles with a guarantee, Boone Health can call off staff for up to 36 hours in a contract ---------------------------------------------  For Boone Health RN, LPN's and RRT Requests  *A VIRTUAL INTERVIEW WILL BE SENT TO YOUR CANDIDATE TO COMPLETE PRIOR TO SUBMITTING TO THE HOSPTIAL FOR CONSIDERATION**  **PLEASE BE SURE TO HAVE A COMPLETE PACKET OR YOUR CANDIDATE WILL BE DENIED**  **CHECKLIST IS ATTACHED AND MUST BE THE FIRST PAGE OF THE SUBMISSION PACKET**   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261991;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 95
+    [facilityName] => Boone Hospital Center
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

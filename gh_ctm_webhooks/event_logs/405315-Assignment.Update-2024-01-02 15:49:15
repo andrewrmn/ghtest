@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1545',
+  'Cf-Ray' => '83f426a52529183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+N/AparseGeneralComments Comments
+N/A Contact: Jenester Outten Resource Manager: Jenester Outten
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 405315
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13775
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-10-03
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 22:00
+    [whenmodified] => January, 02 2024 10:49:08
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=627004 ;Status=Open;Association=HWS ;Client=Methodist Hospital Atascosa ;City=Jourdanton ;State=TX ;Zip=78026 ;Start=ASAP;End=;Duration=91;Cert=Contract-REPLACEMENT-RN-ER(780)-10A-10P/ 13 weeks  (627004) ;Specialty=ER (780) ;Unit=ER ;Shift=10:00 AM - 10:00 PM;# of Postions=1;Type=Travel;BillRate=$83.00;minBillRate=$83.00;Description=Position Description
+N/AparseGeneralComments Comments
+N/A Contact: Jenester Outten Resource Manager: Jenester Outten ;Buyer=Jenester Outten ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=627004#!/position/manage/627004;VMSPositionType=Travel InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 83
+    [facilityName] => Methodist Hospital Atascosa
+    [shiftDateEnd] => 2023-01-02
+    [shiftStartTime] => 10:00
+    [subjectID] => 
+)

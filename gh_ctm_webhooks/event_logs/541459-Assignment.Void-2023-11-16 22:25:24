@@ -1,0 +1,81 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2730',
+  'Cf-Ray' => '8273264dc7061463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Minimum 2 years experience
+Certifications Required: ACLS, BCLS, PALS
+Certifications Preferred: CPI, TNCC
+
+ Modified Time:11/27/2023 5:00:00 AM
+ Account Manager: Erin Verbanic
+ Account Manager Email: Erin.Verbanic@qualivis.com
+ COVID-19 Vaccine: Unknown
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceSSNDOBRTORequires specific amount of exp.   1 year minimum in specialtyValid State License (required at time of submission)   ALReferences RequiredLocal Rules   Accepted at same rateCopy of CertificationsBackground Policy to be noted prior to submission   Reviewed on case-by-case basisReturn Staff Policy   Reviewed on case-by-case basis
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 541459
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9420
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 16 2023 17:25:23
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2293037 ;Status=Open;Association=Qualivis EPA ;Client=Regional Medical Center of Central Alabama ;City=Greenville ;State=AL ;Zip=36037 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Registered Nurse ;Specialty=ER ;Unit=ER ;Shift=Night 3x12-Hour (19:00 - 07:00);# of Postions=1;Type=Travel;BillRate=$80.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Minimum 2 years experience
+Certifications Required: ACLS, BCLS, PALS
+Certifications Preferred: CPI, TNCC
+
+ Modified Time:11/27/2023 5:00:00 AM
+ Account Manager: Erin Verbanic
+ Account Manager Email: Erin.Verbanic@qualivis.com
+ COVID-19 Vaccine: Unknown
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceSSNDOBRTORequires specific amount of exp.   1 year minimum in specialtyValid State License (required at time of submission)   ALReferences RequiredLocal Rules   Accepted at same rateCopy of CertificationsBackground Policy to be noted prior to submission   Reviewed on case-by-case basisReturn Staff Policy   Reviewed on case-by-case basis ;url=https://app.ayaconnect.com/index.html#/vendor/job/2293037/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Regional Medical Center of Central Alabama(FKA LV Stabler Memorial Hospital)
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

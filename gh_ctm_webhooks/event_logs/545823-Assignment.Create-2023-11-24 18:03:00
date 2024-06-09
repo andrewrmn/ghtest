@@ -1,0 +1,72 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1679',
+  'Cf-Ray' => '82b390ef97e66a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:SEASONAL-CONTRACT-MEDSURG/TELE
+ 3S(611)-13 WEEKS-7P-7A
+BLS, ACLS, RN LICENSURE
+JANUARY 7TH,2024 STARTS
+ General Comments
+ No. of Positions: 3/3.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 545823
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5422
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 24 2023 13:03:00
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=770048 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=DEL SOL MEDICAL CENTER El Paso ;City=El Paso ;State=TX ;Zip=79925 ;Start=1/7/2024;End=4/7/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=CENTRAL AND WEST TEXAS DIVISION (50) ;Shift=7:00PM – 7:00AM ;# of Postions=3;Type=Travel;BillRate=$75.00;OTRate=83 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:SEASONAL-CONTRACT-MEDSURG/TELE
+ 3S(611)-13 WEEKS-7P-7A
+BLS, ACLS, RN LICENSURE
+JANUARY 7TH,2024 STARTS
+ General Comments
+ No. of Positions: 3/3.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/770048;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Del Sol Medical Center Travel
+    [shiftDateEnd] => 2024-04-07
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

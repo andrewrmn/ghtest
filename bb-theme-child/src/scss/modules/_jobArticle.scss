@@ -1,0 +1,29 @@
+.jobArticle{
+  border: 1px solid #dcdcdc;
+  border-radius: 6px;
+  padding: 32px;
+  display: block;
+  transition: all 0.3s ease;
+
+  .t-h2{
+    transition: all 0.2s ease;
+  }
+
+  &__list{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  @media screen and (max-width: 700px){
+    padding: 20px;
+  }
+
+  @media (hover: hover) {
+    &:hover{
+      --heading-color: #{$color-teal};
+      box-shadow: 0 2px 8px rgba(0,0,0,0.12) !important;
+      border-color: #cacaca;
+    }
+  }
+}

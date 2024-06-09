@@ -1,0 +1,74 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '10737',
+  'Cf-Ray' => '82b28a24e2a1183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => **Traveler must include and/or meet all minimum requirements below to be considered.  **Do not submit candidates who have or will have expiring licenses and/or certifications during time frame of entire assignment. Candidates will automatically be declined.  **Only submit profile who can work schedule in posting and interested in the unit.?Advance your nursing career at UW Health East Madison Hospital, which is the newest and one of the most advanced hospitals and wellness centers in the country. Here, health care is seen as a holistic endeavor where our mission is to not only diagnose and treat you when you re sick, but also to partner with you in health and wellness. 
+Nurses working on the Inpatient Medical Surgical Unit, at East Madison Hospital will have the opportunity to provide care to both medical and surgical patients. High volume elective surgical admissions will be orthopedic patients, including joint replacement, spine surgery, and both upper extremity and lower extremity procedures. A smaller volume of the elective surgical patients will come from Neurosurgery spine, Urology, General Surgery, Endocrine, and Bariatrics.
+
+In addition to the surgical population, nurses will care for a variety of medical patients including those with pneumonia, sepsis, COPD, CHF and other acute and chronic medical conditions. The medical/surgical unit offers inpatient dialysis, with a two chair dialysis suite located on the unit. Telemetry monitoring can be provided for all patients, and a limited number of IMC status patients will be cared for at East Madison Hospital.
+
+This unit offers motivated nursing staff the opportunity to not only work in a new physical environment but will give them the chance to expand their skills beyond that of a single specialty area of nursing practice.
+
+We are seeking a Registered Nurse to:  Help provide high-quality patient-centered care in a professional environmentthat fosters and values collaboration, respect, and diversity.   Join a team of remarkable nurses and have the opportunity to care for general care and select IMC patients with a wide variety of medical and surgical diagnoses.  Work in a collaborative environment, surrounded by state of the art technology, evidence-based practice and a strong interdisciplinary team.      Participate in quality improvement initiatives and lead practice changes.  Collaborate in the development, execution and evaluationof the multidisciplinary plan of care.  Minimum Requirements:Facility Requirement:    Traveler must have permanent address outside50mile radius of Madison (address must be included in       traveler's profile).  Experience:Traveler must have completed two years of acute care experience       within last 3 years.   Traveler must have experience in an Academic Level 1 -       Trauma center or similar size hospital.   Traveler must have successfully completed traveler assignment       (13 weeks).??Education:??Associate degree in Nursing.Licensure and Certification:   Traveler must have WI nursing license or compact       license from their permanent address state.    BLS   must       be certified through American Heart Association ONLY  Reference   Needs 2 completed references from recent work       environment/assignments (supervisor or manager only for work performed in the last two years).  Telemetry    Traveler must have Basic Arrhythmia experience. Traveler       will be required to pass UW Health Telemetry test prior to being cleared       to start (not for clinic positions).       UW Health Recruitment will send instructions to traveler 2-3 weeks       prior to start date.   Floating    Travelers are the first to float to       floors working with children up to 1 year of age. The Traveler may have       shifts scheduled in multiple units, depending on the current staffing       needs. During the traveler s assignment, if the primary unit no longer       has a need, shifts will be re-assigned to another unit in order to       complete contract.  Location:UW Health East Madison Hospital 4602 Eastpark Blvd, Madison, WI 53718Parking:Free parking onsite.   Additional Information: 	UW Health is moving away from using outdated file formats for Microsoft (Word, PowerPoint, and Excel). Profiles will need to be submitted in the following format: .docx, .xlsx and .pptx file types or our IS department will be blocking them and we will no longer receive the files nor able to forward internal to our hiring managers.-------------------------------------   	QuantiFERON/TSpot results will NOT be accepted for any reason   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545809
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11999
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 24 2023 10:03:35
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262129 ;Status=Open;Association=UW Health ;Client=UW Health East Madison Hospital ;City=Madison ;State=WI ;Zip=53718 ;Start=12/18/2023;End=2/12/2024;Duration=56;Cert=Nursing ;Specialty=Med-surg Adult ;Unit=Med-surg Adult ;Shift=36 hrs/week, Nights: Friday, Saturday, Sunday, 12 hr shifts,  some holidays required.;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$108.00;OTRate=118 ;OTRules=By The Week, after 40, ;CallbackRate=108 (All Inclusive Rate) ;HolidayRate=118 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=**Traveler must include and/or meet all minimum requirements below to be considered.  **Do not submit candidates who have or will have expiring licenses and/or certifications during time frame of entire assignment. Candidates will automatically be declined.  **Only submit profile who can work schedule in posting and interested in the unit.?Advance your nursing career at UW Health East Madison Hospital, which is the newest and one of the most advanced hospitals and wellness centers in the country. Here, health care is seen as a holistic endeavor where our mission is to not only diagnose and treat you when you re sick, but also to partner with you in health and wellness. 
+Nurses working on the Inpatient Medical Surgical Unit, at East Madison Hospital will have the opportunity to provide care to both medical and surgical patients. High volume elective surgical admissions will be orthopedic patients, including joint replacement, spine surgery, and both upper extremity and lower extremity procedures. A smaller volume of the elective surgical patients will come from Neurosurgery spine, Urology, General Surgery, Endocrine, and Bariatrics.
+
+In addition to the surgical population, nurses will care for a variety of medical patients including those with pneumonia, sepsis, COPD, CHF and other acute and chronic medical conditions. The medical/surgical unit offers inpatient dialysis, with a two chair dialysis suite located on the unit. Telemetry monitoring can be provided for all patients, and a limited number of IMC status patients will be cared for at East Madison Hospital.
+
+This unit offers motivated nursing staff the opportunity to not only work in a new physical environment but will give them the chance to expand their skills beyond that of a single specialty area of nursing practice.
+
+We are seeking a Registered Nurse to:  Help provide high-quality patient-centered care in a professional environmentthat fosters and values collaboration, respect, and diversity.   Join a team of remarkable nurses and have the opportunity to care for general care and select IMC patients with a wide variety of medical and surgical diagnoses.  Work in a collaborative environment, surrounded by state of the art technology, evidence-based practice and a strong interdisciplinary team.      Participate in quality improvement initiatives and lead practice changes.  Collaborate in the development, execution and evaluationof the multidisciplinary plan of care.  Minimum Requirements:Facility Requirement:    Traveler must have permanent address outside50mile radius of Madison (address must be included in       traveler's profile).  Experience:Traveler must have completed two years of acute care experience       within last 3 years.   Traveler must have experience in an Academic Level 1 -       Trauma center or similar size hospital.   Traveler must have successfully completed traveler assignment       (13 weeks).??Education:??Associate degree in Nursing.Licensure and Certification:   Traveler must have WI nursing license or compact       license from their permanent address state.    BLS   must       be certified through American Heart Association ONLY  Reference   Needs 2 completed references from recent work       environment/assignments (supervisor or manager only for work performed in the last two years).  Telemetry    Traveler must have Basic Arrhythmia experience. Traveler       will be required to pass UW Health Telemetry test prior to being cleared       to start (not for clinic positions).       UW Health Recruitment will send instructions to traveler 2-3 weeks       prior to start date.   Floating    Travelers are the first to float to       floors working with children up to 1 year of age. The Traveler may have       shifts scheduled in multiple units, depending on the current staffing       needs. During the traveler s assignment, if the primary unit no longer       has a need, shifts will be re-assigned to another unit in order to       complete contract.  Location:UW Health East Madison Hospital 4602 Eastpark Blvd, Madison, WI 53718Parking:Free parking onsite.   Additional Information: 	UW Health is moving away from using outdated file formats for Microsoft (Word, PowerPoint, and Excel). Profiles will need to be submitted in the following format: .docx, .xlsx and .pptx file types or our IS department will be blocking them and we will no longer receive the files nor able to forward internal to our hiring managers.-------------------------------------   	QuantiFERON/TSpot results will NOT be accepted for any reason   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262129;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 108
+    [facilityName] => UW Health at The American Center Travel
+    [shiftDateEnd] => 2024-02-12
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

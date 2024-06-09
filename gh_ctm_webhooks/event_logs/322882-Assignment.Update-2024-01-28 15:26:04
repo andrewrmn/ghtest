@@ -1,0 +1,95 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '27',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4154',
+  'Cf-Ray' => '84ca406db6124959-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 12/01/2021 0845 CSTJennifer Carner
+                            
+                            
+                                $165.00 - Duration: 13 weeks - Shift: Evenings, 11am-9:30pm, 40 hours/week - Call Rotation: Yes, 3 call shifts per 6 week schedule - Weekend Rotation: Other, Mostly call, occasional weekend shift possible - Will work both PACU and Phase 2 Recovery. Participate in holiday coverage with other unit staff. - 2 years exp. Cerner exp a plus. All travelers must be willing to float to sister facilities. Only float when necessary. All must be fully vaccinated with covid 19 and flu and proof of vaccinations must be in the sub packets. Navy Blue Scrubs will be required.
+ RatePlan:AH-Covid 19 RN rates (8-25-2021)
+    [sitename] => giftednurses
+    [spec] => PACU
+    [assignmentid] => 322882
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13445
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-02-14
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => January, 28 2024 10:25:06
+    [daysPerWeek] => 5
+    [orderNote] => Source=ShiftWise;SourceID=9595015 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Medical Center ;City=Austin ;State=TX ;Zip=78701 ;Start=2/14/2022;End=5/14/2022;Duration=90;Cert=RN ;Specialty=PACU ;Unit=SMC Post Anesthesia Care ;Shift=PM 10.00 Hrs;# of Postions=1;Type=Travel;BillRate=$165.00;minBillRate=$165.00;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=12/01/2021 0845 CSTJennifer Carner
+                            
+                            
+                                $165.00 - Duration: 13 weeks - Shift: Evenings, 11am-9:30pm, 40 hours/week - Call Rotation: Yes, 3 call shifts per 6 week schedule - Weekend Rotation: Other, Mostly call, occasional weekend shift possible - Will work both PACU and Phase 2 Recovery. Participate in holiday coverage with other unit staff. - 2 years exp. Cerner exp a plus. All travelers must be willing to float to sister facilities. Only float when necessary. All must be fully vaccinated with covid 19 and flu and proof of vaccinations must be in the sub packets. Navy Blue Scrubs will be required.
+                            
+                        
+                    
+                        
+                            
+                                12/20/2021 1918 CSTJennifer Carner
+                            
+                            
+                                2 full years of experience in specific specialty. At least 1 Travel contract required for submittal. IVS w/Offer. Navy blue scrubs will be required. 150 mile radius rule (no locals). Request # 4902
+                            
+                        
+                    
+                        
+                            
+                                12/24/2021 0944 CSTJasmine Pulido
+                            
+                            
+                                BR Travel $145, Local $145
+                            
+                        
+                    
+                        
+                            
+                                01/21/2022 1349 CSTJennifer Carner
+                            
+                            
+                                Correction: This position doesn t utilize IVS w/Offer.
+ RatePlan:AH-Covid 19 RN rates (8-25-2021) ;url=https://secure.shiftwise.net/esp/order.aspx?order_id=B38E3DDBED982BB770E13A823756988B;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 165
+    [facilityName] => Ascension Seton Medical Center Austin
+    [shiftDateEnd] => 2022-05-14
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

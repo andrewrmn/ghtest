@@ -1,0 +1,550 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '11118',
+  'Cf-Ray' => '82999ff954351463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Centerpoint Medical Center   Independence 
+
+19600 East 39th St S
+
+Independence, MO 64057
+
+Facility Overview:
+
+
+
+
+Centerpoint Medical Center is part of HCA Midwest Health, a network of hospitals in the Kansas City and surrounding areas. Our campus includes the medical center itself and a medical office building/outpatient services center connected to the hospital (on the west side of the hospital).
+
+
+
+
+Centerpoint Medical Center features 221 private rooms, state-of-the-art equipment and technology, and some of the latest clinical services available to patients. Along with our high-tech services, we also remain focused on providing compassionate care and the best possible customer service for our patients. In addition, we offer numerous features for visitors, including sleeper chairs in patient rooms, comfortable waiting areas, wireless internet access throughout the facility and more.
+
+
+
+
+Hospital Features:
+
+
+
+Level II Trauma Center (only one in eastern Jackson County) with 24/7 Emergency ServicesAn accredited Chest Pain Center and a variety of Cardiovascular ServicesOrthopedic Services including Total Joints and Sports MedicineAn accredited Cancer Program and Breast Center with Nurse NavigatorStroke Center with Joint Commission Primary Stroke Center CertificationNeuroscience Services for the treatment of brain and spine disorders as well as injuriesWomen s Services, including a Level III Neonatal Intensive Care Unit to provide care for early or ill newborns, and a labor and delivery unitOutpatient Services, including a surgery center, advanced wound care center, pain center, sleep disorder center, imaging, rehab and more
+
+        Hospital:
+ HCA   Centerpoint Medical Center             Location: Independence, Missouri             
+Address:
+ 19600 E. 39th Street
+         
+Unit: Progressive   Care Unit
+             
+Building: Main   Hospital
+         
+
+
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds: 36
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios: 1:3 AM, 1:4 AM or 1:4   PM, 1:5PM (with patient care techs)
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability): Typically, total RN based care with no   techs unless stretched. Secretaries are scheduled 7am-7pm in the PCU and are   available for a number of resources.
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment: BiPAP, Heated   High-Flow Nasal Cannulas, Alaris IV pumps, Kangaroo Feeding Pumps
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: FT Staff: 36   hours/week with every 3rd weekend rotation, PT staff: 48 hours/week   with every 3rd weekend rotation, PRN 1 Staff: 3 shifts in a 4-week   period with 1 weekend shift requirement, PRN 2 Staff: 6 shifts in a 4-week   period with 3 weekend shift requirements. Rotating holiday schedule.
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: PRN floats 1 time per   week, FT/PT staff floats in a rotation based upon dates, bonus shifts always   float first
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements:   Bedside shift report, hourly rounding, and daily leadership rounds. 
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:   Level 2 trauma center, Stroke Accreditation, STEMI Accreditation, Certified   Bariatric Center
+             Hiring profile             
+Must have:
+ 
+    
+
+
+
+
+
+
+
+   REQUIRED CERTIFICATIONS: BLS, ACLS   
+ 
+
+
+
+
+
+
+
+   Advanced   assessment and critical thinking skills
+   
+ 
+
+
+
+
+
+
+
+   Management   of vasoactive drips
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   Central   Line or PICC line placement
+   
+ 
+
+
+
+
+
+
+
+   
+Chest tube placements
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Positive attitude and desire   to work as a member of a team
+   Floating Area(s):    
+
+
+
+
+
+
+
+   Telemetry Unit             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   Charcoal grey scrub tops with charcoal   grey or black scrub bottoms.
+   
+ 
+
+
+
+
+
+
+
+   Black or charcoal grey jackets, with   the option to order unit specific jackets.
+             
+Unit Guidelines/Policies: 
+   
+ 
+
+
+
+
+
+
+
+   See attached Unit Standards of Care Policy
+             Awards/Recognition: 
+   
+ 
+
+
+
+
+
+
+
+   Unit of Distinction Honorable Mention   2018
+ General Comments
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 538363
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5447
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 21 2023 09:28:55
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=765654 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=CENTERPOINT MEDICAL CENTER MO ;City=Independence ;State=MO ;Zip=64057 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=RN ;Specialty=PCU ;Unit=MIDAMERICA DIVISION (48) ;Shift=7p-7a;# of Postions=3;Type=Travel;BillRate=$80.00;OTRate=88 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Centerpoint Medical Center   Independence 
+
+19600 East 39th St S
+
+Independence, MO 64057
+
+Facility Overview:
+
+
+
+
+Centerpoint Medical Center is part of HCA Midwest Health, a network of hospitals in the Kansas City and surrounding areas. Our campus includes the medical center itself and a medical office building/outpatient services center connected to the hospital (on the west side of the hospital).
+
+
+
+
+Centerpoint Medical Center features 221 private rooms, state-of-the-art equipment and technology, and some of the latest clinical services available to patients. Along with our high-tech services, we also remain focused on providing compassionate care and the best possible customer service for our patients. In addition, we offer numerous features for visitors, including sleeper chairs in patient rooms, comfortable waiting areas, wireless internet access throughout the facility and more.
+
+
+
+
+Hospital Features:
+
+
+
+Level II Trauma Center (only one in eastern Jackson County) with 24/7 Emergency ServicesAn accredited Chest Pain Center and a variety of Cardiovascular ServicesOrthopedic Services including Total Joints and Sports MedicineAn accredited Cancer Program and Breast Center with Nurse NavigatorStroke Center with Joint Commission Primary Stroke Center CertificationNeuroscience Services for the treatment of brain and spine disorders as well as injuriesWomen s Services, including a Level III Neonatal Intensive Care Unit to provide care for early or ill newborns, and a labor and delivery unitOutpatient Services, including a surgery center, advanced wound care center, pain center, sleep disorder center, imaging, rehab and more
+
+        Hospital:
+ HCA   Centerpoint Medical Center             Location: Independence, Missouri             
+Address:
+ 19600 E. 39th Street
+         
+Unit: Progressive   Care Unit
+             
+Building: Main   Hospital
+         
+
+
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds: 36
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios: 1:3 AM, 1:4 AM or 1:4   PM, 1:5PM (with patient care techs)
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability): Typically, total RN based care with no   techs unless stretched. Secretaries are scheduled 7am-7pm in the PCU and are   available for a number of resources.
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment: BiPAP, Heated   High-Flow Nasal Cannulas, Alaris IV pumps, Kangaroo Feeding Pumps
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: FT Staff: 36   hours/week with every 3rd weekend rotation, PT staff: 48 hours/week   with every 3rd weekend rotation, PRN 1 Staff: 3 shifts in a 4-week   period with 1 weekend shift requirement, PRN 2 Staff: 6 shifts in a 4-week   period with 3 weekend shift requirements. Rotating holiday schedule.
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: PRN floats 1 time per   week, FT/PT staff floats in a rotation based upon dates, bonus shifts always   float first
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements:   Bedside shift report, hourly rounding, and daily leadership rounds. 
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:   Level 2 trauma center, Stroke Accreditation, STEMI Accreditation, Certified   Bariatric Center
+             Hiring profile             
+Must have:
+ 
+    
+
+
+
+
+
+
+
+   REQUIRED CERTIFICATIONS: BLS, ACLS   
+ 
+
+
+
+
+
+
+
+   Advanced   assessment and critical thinking skills
+   
+ 
+
+
+
+
+
+
+
+   Management   of vasoactive drips
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   Central   Line or PICC line placement
+   
+ 
+
+
+
+
+
+
+
+   
+Chest tube placements
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Positive attitude and desire   to work as a member of a team
+   Floating Area(s):    
+
+
+
+
+
+
+
+   Telemetry Unit             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   Charcoal grey scrub tops with charcoal   grey or black scrub bottoms.
+   
+ 
+
+
+
+
+
+
+
+   Black or charcoal grey jackets, with   the option to order unit specific jackets.
+             
+Unit Guidelines/Policies: 
+   
+ 
+
+
+
+
+
+
+
+   See attached Unit Standards of Care Policy
+             Awards/Recognition: 
+   
+ 
+
+
+
+
+
+
+
+   Unit of Distinction Honorable Mention   2018
+ General Comments ;url=https://vendor.healthtrustws.com/positions/765654;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Centerpoint Medical Center-MO
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

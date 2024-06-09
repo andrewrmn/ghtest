@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '10059',
+  'Cf-Ray' => '83be5c1a543a23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => *******Fingerprinting must be submitted and cleared prior to start!***** **PLEASE SUBMIT CURRENT ADDRESS FOR FINGERPRINT PACKET TO BE MAILED VIA FEDERAL EXPRES** Please submit only if Tuba City housing and travel are secured. MUST provide copies of current immunizations, negative Tb skin test proof of last two years, provide documentation of 2 MMR vaccinations, Tdap, and Flu shot. Clean background check, negative 10 panel drug screen within 7 days, all PRIOR to arrival. Tuba City Regional Healthcare does not require your RN to have an AZ state license. Your nurse must have a valid RN license from their state of residence. Must present a copy of license. *****BLS, ACLS - PALS is required! Please do not submit candidates without current certs. Tuba City Regional Health Care Corporation, a JCAHO accredited health center, provides services to a 4,400 square mile area and serves as a referral center for the western part of the Navajo and Hopi Reservations. The hospital was constructed in 1975 with a bed capacity of 73. Services provided to the community include comprehensive inpatient/outpatient emergency services, dental and ophthalmology services, orthopedics, OB/GYN, oral surgery, eye surgery and urological procedures. Approximately 49% of the surgeries performed are out patient/ambulatory surgical procedures. Learn more about our organization. The Tuba City Regional Health Care Corporation is located in Northwestern Arizona on the land known as the Colorado Plateau. This semi-desert landscape varies in elevation from 4,400 in the Little Colorado River Valley to nearly 7,000 feet at Preston Mesa. The unique community of Tuba City offers a culturally rich environment. The Native American tribes located and served here are the Navajo, Hopi, and Southern Paiute. This mixture along with Anglo, Hispanic, and African American employees of the hospital and school systems make a pleasantly diverse community. The staff of medical providers includes surgeons, general medical officers, internal medicine, psychiatrists, pediatricians, family practice physicians, obstetricians, ENT specialists, orthopedic surgeons, and urologists. Dental staff includes general dentists, endodontists, oral and maxillofacial surgeons, pediatric dentists, dental assistants and hygienists. The nursing staff includes registered nurses, licensed practical nurses, nursing assistants, community health nurses, nurse practitioners, nurse midwives, CRNA, and community health medics.This position is primarily within the Intensive Care Unit and periodically will FLOAT to ED, Med/Surg or Peds in case of low census. Provides Nursing Care to critically ill patients. The Registered Nurse performs a variety of responsible nursing care procedures requiring professional knowledge and consideration of specific patient conditions and treatments and ability to work independently in completing assignments. Guidelines include doctors' orders, standards of care, nursing policies and procedures manuals, hospital policies. Nursing duties include the provision of inpatient care and support in the 5 Bed I.C.U. to individuals of all ages and their families. After hours recovery of post op general surgery, pediatric, & OB patients as needed.**Compensation. Contractor shall be paid for each individual Nurse s time worked at TCRHCC facilities.  The overtime rate is an additional $10.00 per hour to their hourly wage over 40 hours worked in a weekly period. The hourly rate includes all associated costs including, but not limited to, travel, transportation, lodging, etc.  No additional amounts will be paid by TCRHCC to Contractor for overtime, on-call or hours worked during the weekends or on holidays. Contractor shall be responsible for compliance with all labor laws including but not limited to the Fair Labor Standards Act with respect to payment of providers assigned to TCRHCC.   Additional Information:ORIENTATION: Every two (2) weeks only. COVID EXEMPTIONS: We do not accept religious exemptions. If a candidate submits for a medical exemption, we will have to get approval from our medical review board to proceed with onboarding. HOUSING APPLICATION: must be submitted 2 weeks prior to start date - form uploaded in Medefis   Position Urgency:Normal Billing string = Tuba City Regional
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 546059
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1338
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-14
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 26 2023 22:08:33
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262068 ;Status=Open;Association=Tuba City Regional ;Client=Tuba City Regional ;City=Tuba City ;State=AZ ;Zip=86045 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Nursing ;Specialty=Intensive Care / Coronary Nurse (ICU) ;Unit=Intensive Care / Coronary Nurse (ICU) ;Shift=
+0630 - 1900 Days 1830 - 0700 Nights 6 - 7 shifts per pay period with floating to PACU, ER and Med/Surg;# of Postions=2;Type=Travel;BillRate=$105.00;OTRate=115 ;OTRules=By The Week, after 40, ;CallbackRate=105 (All Inclusive Rate) ;HolidayRate=105 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=*******Fingerprinting must be submitted and cleared prior to start!***** **PLEASE SUBMIT CURRENT ADDRESS FOR FINGERPRINT PACKET TO BE MAILED VIA FEDERAL EXPRES** Please submit only if Tuba City housing and travel are secured. MUST provide copies of current immunizations, negative Tb skin test proof of last two years, provide documentation of 2 MMR vaccinations, Tdap, and Flu shot. Clean background check, negative 10 panel drug screen within 7 days, all PRIOR to arrival. Tuba City Regional Healthcare does not require your RN to have an AZ state license. Your nurse must have a valid RN license from their state of residence. Must present a copy of license. *****BLS, ACLS - PALS is required! Please do not submit candidates without current certs. Tuba City Regional Health Care Corporation, a JCAHO accredited health center, provides services to a 4,400 square mile area and serves as a referral center for the western part of the Navajo and Hopi Reservations. The hospital was constructed in 1975 with a bed capacity of 73. Services provided to the community include comprehensive inpatient/outpatient emergency services, dental and ophthalmology services, orthopedics, OB/GYN, oral surgery, eye surgery and urological procedures. Approximately 49% of the surgeries performed are out patient/ambulatory surgical procedures. Learn more about our organization. The Tuba City Regional Health Care Corporation is located in Northwestern Arizona on the land known as the Colorado Plateau. This semi-desert landscape varies in elevation from 4,400 in the Little Colorado River Valley to nearly 7,000 feet at Preston Mesa. The unique community of Tuba City offers a culturally rich environment. The Native American tribes located and served here are the Navajo, Hopi, and Southern Paiute. This mixture along with Anglo, Hispanic, and African American employees of the hospital and school systems make a pleasantly diverse community. The staff of medical providers includes surgeons, general medical officers, internal medicine, psychiatrists, pediatricians, family practice physicians, obstetricians, ENT specialists, orthopedic surgeons, and urologists. Dental staff includes general dentists, endodontists, oral and maxillofacial surgeons, pediatric dentists, dental assistants and hygienists. The nursing staff includes registered nurses, licensed practical nurses, nursing assistants, community health nurses, nurse practitioners, nurse midwives, CRNA, and community health medics.This position is primarily within the Intensive Care Unit and periodically will FLOAT to ED, Med/Surg or Peds in case of low census. Provides Nursing Care to critically ill patients. The Registered Nurse performs a variety of responsible nursing care procedures requiring professional knowledge and consideration of specific patient conditions and treatments and ability to work independently in completing assignments. Guidelines include doctors' orders, standards of care, nursing policies and procedures manuals, hospital policies. Nursing duties include the provision of inpatient care and support in the 5 Bed I.C.U. to individuals of all ages and their families. After hours recovery of post op general surgery, pediatric, & OB patients as needed.**Compensation. Contractor shall be paid for each individual Nurse s time worked at TCRHCC facilities.  The overtime rate is an additional $10.00 per hour to their hourly wage over 40 hours worked in a weekly period. The hourly rate includes all associated costs including, but not limited to, travel, transportation, lodging, etc.  No additional amounts will be paid by TCRHCC to Contractor for overtime, on-call or hours worked during the weekends or on holidays. Contractor shall be responsible for compliance with all labor laws including but not limited to the Fair Labor Standards Act with respect to payment of providers assigned to TCRHCC.   Additional Information:ORIENTATION: Every two (2) weeks only. COVID EXEMPTIONS: We do not accept religious exemptions. If a candidate submits for a medical exemption, we will have to get approval from our medical review board to proceed with onboarding. HOUSING APPLICATION: must be submitted 2 weeks prior to start date - form uploaded in Medefis   Position Urgency:Normal Billing string = Tuba City Regional ;url=https://vms.medefis5.com/jobs/262068;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Tuba City Regional
+    [shiftDateEnd] => 2024-04-14
+    [shiftStartTime] => 06:30
+    [subjectID] => 
+)

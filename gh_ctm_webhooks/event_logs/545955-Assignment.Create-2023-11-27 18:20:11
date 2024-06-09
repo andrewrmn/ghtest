@@ -1,0 +1,106 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4944',
+  'Cf-Ray' => '82cc623a75e6183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => **Must have 2 years med surg experience minimum**
+
+50 mile radius rule
+
+Unit profile: 4T MS unit - 29 bed general surgical and ortho unit with medical overflow
+Start date: ASAP
+Contract length: 13 weeks
+Possible extension: Yes
+Shift dates: Weekdays, every other weekend, float, holidays
+Certs required: BCLS
+Skills required: IV start
+Experience required: 2+ years
+Scrubs provided: No, royal blue/white
+EMR: Meditech
+
+
+
+ Modified Time:12/13/2023 12:00:00 AM
+ Account Manager: Ashley Glass
+ Account Manager Email: Ashley.Glass@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceNeed 1.5 weeks/10 calendar days + (Quick Starts okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance.SSN&nbsp;DOB&nbsp;&nbsp;RTO:&nbsp;Minimal to no RTO - if RTO is NOT on the submittal and NOT discussed in interview - it will NOT be approved.Valid State License required at time of submission: Exceptions will be made for hard to fill positions&nbsp;Mile Radius Rule Applies: 50 mile radius restriction&nbsp;References are not required for submittalLocal Rules: locals not acceptedThis facility has high ratios and lots of floating - if your candidate isn't comfortable with this, please do not submit! -floating is possible depending on unit. Only 1 facility so would only be floated within the hospitalCopy of Certifications  &nbsp;not required at submission, but nice to have&nbsp;Meditech&nbsp;is EMR   only requires for RRT jobs, just preferred for other units&nbsp;Background Policy to be noted prior to submission: no set policy, will review hits as they come&nbsp;Return Staff Policy: must be gone 1 year&nbsp;16 Hours NBO with a max of 8 hours going toward modules&nbsp;
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545955
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3633
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-13
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 27 2023 13:19:25
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2315954 ;Status=Open;Association=Qualivis PA ;Client=Beaufort Memorial Hospital ;City=Beaufort ;State=SC ;Zip=29902-5441 ;Start=12/13/2023;End=3/13/2024;Duration=91;Cert=Registered Nurse ;Specialty=Medical Surgical ;Unit=4T ;Shift=Night 3x12-Hour (19:00 - 07:00);# of Postions=1;Type=Travel;BillRate=$82.00;OTRules=40 total hours in 1 week : % ;Orientation=16 ;Description=**Must have 2 years med surg experience minimum**
+
+50 mile radius rule
+
+Unit profile: 4T MS unit - 29 bed general surgical and ortho unit with medical overflow
+Start date: ASAP
+Contract length: 13 weeks
+Possible extension: Yes
+Shift dates: Weekdays, every other weekend, float, holidays
+Certs required: BCLS
+Skills required: IV start
+Experience required: 2+ years
+Scrubs provided: No, royal blue/white
+EMR: Meditech
+
+
+
+ Modified Time:12/13/2023 12:00:00 AM
+ Account Manager: Ashley Glass
+ Account Manager Email: Ashley.Glass@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceNeed 1.5 weeks/10 calendar days + (Quick Starts okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance.SSN&nbsp;DOB&nbsp;&nbsp;RTO:&nbsp;Minimal to no RTO - if RTO is NOT on the submittal and NOT discussed in interview - it will NOT be approved.Valid State License required at time of submission: Exceptions will be made for hard to fill positions&nbsp;Mile Radius Rule Applies: 50 mile radius restriction&nbsp;References are not required for submittalLocal Rules: locals not acceptedThis facility has high ratios and lots of floating - if your candidate isn't comfortable with this, please do not submit! -floating is possible depending on unit. Only 1 facility so would only be floated within the hospitalCopy of Certifications  &nbsp;not required at submission, but nice to have&nbsp;Meditech&nbsp;is EMR   only requires for RRT jobs, just preferred for other units&nbsp;Background Policy to be noted prior to submission: no set policy, will review hits as they come&nbsp;Return Staff Policy: must be gone 1 year&nbsp;16 Hours NBO with a max of 8 hours going toward modules&nbsp; ;url=https://app.ayaconnect.com/index.html#/vendor/job/2315954/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 82
+    [facilityName] => Beaufort Memorial Hospital Travel
+    [shiftDateEnd] => 2024-03-13
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

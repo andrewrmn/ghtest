@@ -1,0 +1,78 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1970',
+  'Cf-Ray' => '828997ace62d23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Bill Rate $110
+Shift: Days (7a - 3p) 5 - 8's with On Call - hours may change depending on cath lab schedule
+13-Week contract
+36 Hours Guaranteed
+Some WeekendsMust be flexible to work at sister hospital
+AZ license, BLS, ACLS
+2+ years of Cath Lab Experience
+Cerner experience is preferred.
+ General CommentsPCR #
+2106-011
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 502935
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 2355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-06-19
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:30
+    [whenmodified] => November, 19 2023 10:47:10
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=716563 ;Status=Pending Approval;Association=Community Health Systems ;Client=Oro Valley Hospital ;City=Oro Valley ;State=AZ ;Zip=85755 ;Start=6/5/2023;End=9/4/2023;Duration=91;Cert=RN ;Specialty=Cardiac Cath Lab ;Unit= ;Shift=7a - 3p;# of Postions=1;Type=Travel;BillRate=$110.00;OTRate=137.5 ;CallbackRate=137.5 ;HolidayRate=137.5 ;Orientation=0 ;Description=Description:Bill Rate $110
+Shift: Days (7a - 3p) 5 - 8's with On Call - hours may change depending on cath lab schedule
+13-Week contract
+36 Hours Guaranteed
+Some WeekendsMust be flexible to work at sister hospital
+AZ license, BLS, ACLS
+2+ years of Cath Lab Experience
+Cerner experience is preferred.
+ General CommentsPCR #
+2106-011 ;url=https://vendor.healthtrustws.com/positions/716563;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => Northwest Medical Center of Oro Valley
+    [shiftDateEnd] => 2023-09-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

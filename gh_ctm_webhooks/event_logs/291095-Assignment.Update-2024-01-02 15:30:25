@@ -1,0 +1,136 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '20',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3479',
+  'Cf-Ray' => '83f40b09c06c493d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => AUTO OFFER
+
+ER RN
+Days - RN can choose 36 or 48 hrs per week
+13 weeks
+Weekdays/ weekends/ holidays as needed
+
+SCREENING CRITERIA
+  BLS
+  ACLS
+  PALS
+  Airway management
+  Management of vented patients
+  Artline management
+  Management of dysrhythmias
+  Central line management
+  Management of IV drips
+  Isolation precautions
+  Triage skills (ER/ER Holding only)
+  Electronic charting experience
+  Nurse to patient ratios 1:1-2+
+  1 year of recent
+
+CRISIS TERMS:
+ Waived non-billable orientation hours
+ Option for 48hrs/week contracts
+ Clinical screening & Auto offers
+ Truncated compliance
+
+
+ Modified Time:10/4/2021 6:31:52 PM
+ Account Manager: Heather Ryan
+ Account Manager Email: Heather.Ryan@qualivis.com
+ Over Time Multiplier: 1.25x
+ Over Time Rule: Overtime after 48.00 Hours per week
+ Call Back: 1.00x
+ Charge: $3.00 Bump
+ Holiday: 1.25x
+ Submittal Details: #Tier1 Crisis ComplianceNeed  3 days at minimum lead time from BOOKING to START to account for crisis compliance
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 291095
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10628
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-11-15
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 02 2024 10:30:22
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=1472913 ;Status=Open;Association=Qualivis Enhanced PA ;Client=Ouachita County Medical Center Crisis Response ;City=Camden ;State=AR ;Zip=71701 ;Start=11/15/2021;End=2/14/2022;Duration=91;Cert=Registered Nurse ;Specialty=ER ;Unit= ;Shift=Day (12 Hours) 7:00 19:00;# of Postions=1;Type=Travel;BillRate=$130.00;OTRate=1.25x ;OTRules=Overtime after 48.00 Hours per week ;ChargeRate=$3.00 Bump ;CallbackRate=1.00x ;HolidayRate=1.25x ;OnCallRateDescription=$5.00 ;Orientation=Non-Billable Orientation: 16 Hours ;Description=AUTO OFFER
+
+ER RN
+Days - RN can choose 36 or 48 hrs per week
+13 weeks
+Weekdays/ weekends/ holidays as needed
+
+SCREENING CRITERIA
+  BLS
+  ACLS
+  PALS
+  Airway management
+  Management of vented patients
+  Artline management
+  Management of dysrhythmias
+  Central line management
+  Management of IV drips
+  Isolation precautions
+  Triage skills (ER/ER Holding only)
+  Electronic charting experience
+  Nurse to patient ratios 1:1-2+
+  1 year of recent
+
+CRISIS TERMS:
+ Waived non-billable orientation hours
+ Option for 48hrs/week contracts
+ Clinical screening & Auto offers
+ Truncated compliance
+
+
+ Modified Time:11/15/2021 12:00:00 AM
+ Account Manager: Lisa Beebe
+ Account Manager Email: Lisa.Beebe@qualivis.com
+ Over Time Multiplier: 1.25x
+ Over Time Rule: Overtime after 48.00 Hours per week
+ Call Back: 1.00x
+ Charge: $3.00 Bump
+ Holiday: 1.25x
+ Submittal Details: #Tier1 Crisis ComplianceNeed  3 days at minimum lead time from BOOKING to START to account for crisis compliance ;url=https://app.ayaconnect.com/index.html#/vendor/job/1472913/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 130
+    [facilityName] => Ouachita County Medical Center - TRAVEL
+    [shiftDateEnd] => 2022-02-14
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

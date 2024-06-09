@@ -1,0 +1,462 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5939',
+  'Cf-Ray' => '82a1c4ba432a1834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Unit Profile
+
+
+Hospital:
+
+Research Medical CenterLocation: Kansas City
+Address:2316 E Meyer Blvd, Kansas City Mo
+
+Unit Name: Cardiac Care Unit
+
+Building:
+
+Cost Center:636/637
+General InformationUnit Specifics:
+ 
+
+
+
+
+
+
+
+
+Number of Beds : 29 beds per department. 58 beds total
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios : 1:3-1:5 depending on acuity
+
+ 
+
+
+
+
+
+
+
+
+Unit staffing description- (unit secretaries and tech availability) : CNC, Unit Clerk x2, Pct s, Nurse externs, and Monitor Technicians
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment : Cardiac monitors, Telemetry Packs, Ekgs, Virtual Nurses
+
+ 
+
+
+
+
+
+
+
+
+Documentation system: Meditech
+
+ 
+
+
+
+
+
+
+
+
+Scheduling requirements: 3 shifts a week/3 weekend shifts in a 4 week period
+
+ 
+
+
+
+
+
+
+
+
+On Call Requirements: None
+
+ 
+
+
+
+
+
+
+
+
+Floating policy: Within scope
+
+ 
+
+
+
+
+
+
+
+
+Patient Experience requirements:
+Hospital Specifics-
+ 
+
+
+
+
+
+
+
+
+Certifications: Level 1 Trauma, Stemi, Stroke
+Hiring profileRequested Skill Set:
+
+Must have: BLS, ACLS, NIH
+
+
+
+
+
+
+Advanced skills needed: ACLS, NIH
+
+
+
+
+
+
+Procedures performed on unit:
+
+Tavrs, Mitral clips, Watchman procedures
+
+
+
+
+
+
+Certifications Required:
+
+
+
+
+Dress Code: (Required uniform)
+
+ 
+
+
+
+
+
+
+
+
+
+Navy
+
+blue scrub top/ Navy blue or Black scrub pants
+
+Unit Guidelines/Policies:
+Please attach unit specific policies and guidelines.
+
+ 
+
+
+
+
+
+
+
+
+
+
+Awards/Recognition:
+
+Please include anything that you would like prospective candidates to be aware of, such as, links to videos that feature the department, outstanding department/team awards..
+
+ 
+
+
+
+
+
+
+
+
+See attachment
+Any additional information that would entice a worker to select your unit for their assignment:
+
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc.
+ 
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 541913
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5910
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 22 2023 09:12:37
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771855 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=RESEARCH MEDICAL CENTER MO ;City=Kansas City ;State=MO ;Zip=64132 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=MIDAMERICA DIVISION (48) ;Shift=7P - 7A;# of Postions=5;Type=Travel;BillRate=$80.00;OTRate=88 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:Unit Profile
+
+
+Hospital:
+
+Research Medical CenterLocation: Kansas City
+Address:2316 E Meyer Blvd, Kansas City Mo
+
+Unit Name: Cardiac Care Unit
+
+Building:
+
+Cost Center:636/637
+General InformationUnit Specifics:
+ 
+
+
+
+
+
+
+
+
+Number of Beds : 29 beds per department. 58 beds total
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios : 1:3-1:5 depending on acuity
+
+ 
+
+
+
+
+
+
+
+
+Unit staffing description- (unit secretaries and tech availability) : CNC, Unit Clerk x2, Pct s, Nurse externs, and Monitor Technicians
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment : Cardiac monitors, Telemetry Packs, Ekgs, Virtual Nurses
+
+ 
+
+
+
+
+
+
+
+
+Documentation system: Meditech
+
+ 
+
+
+
+
+
+
+
+
+Scheduling requirements: 3 shifts a week/3 weekend shifts in a 4 week period
+
+ 
+
+
+
+
+
+
+
+
+On Call Requirements: None
+
+ 
+
+
+
+
+
+
+
+
+Floating policy: Within scope
+
+ 
+
+
+
+
+
+
+
+
+Patient Experience requirements:
+Hospital Specifics-
+ 
+
+
+
+
+
+
+
+
+Certifications: Level 1 Trauma, Stemi, Stroke
+Hiring profileRequested Skill Set:
+
+Must have: BLS, ACLS, NIH
+
+
+
+
+
+
+Advanced skills needed: ACLS, NIH
+
+
+
+
+
+
+Procedures performed on unit:
+
+Tavrs, Mitral clips, Watchman procedures
+
+
+
+
+
+
+Certifications Required:
+
+
+
+
+Dress Code: (Required uniform)
+
+ 
+
+
+
+
+
+
+
+
+
+Navy
+
+blue scrub top/ Navy blue or Black scrub pants
+
+Unit Guidelines/Policies:
+Please attach unit specific policies and guidelines.
+
+ 
+
+
+
+
+
+
+
+
+
+
+Awards/Recognition:
+
+Please include anything that you would like prospective candidates to be aware of, such as, links to videos that feature the department, outstanding department/team awards..
+
+ 
+
+
+
+
+
+
+
+
+See attachment
+Any additional information that would entice a worker to select your unit for their assignment:
+
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc.
+ 
+ General Comments ;url=https://vendor.healthtrustws.com/positions/771855;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Research Medical Center- Travel
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

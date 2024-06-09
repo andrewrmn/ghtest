@@ -1,0 +1,161 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3057',
+  'Cf-Ray' => '83cada20776623c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name
+
+Intermediate Care-RN-Ardmore
+
+
+Organization
+
+Mercy
+
+
+Facility
+
+Mercy Hospital Ardmore
+
+
+Unit
+
+Intermediate Care Unit
+
+
+Cost Center
+
+40-416083
+ General CommentsSHIFT INFO
+Shift
+
+Night
+
+Shifts per week
+
+3
+
+Hours per shift
+
+12
+EXPERIENCE
+Years of Experience
+
+Two Years Plus
+
+Specialties
+
+Step Down
+-
+required
+
+
+Technologies
+
+DESCRIPTION
+Role: RN Location: West Facility: Ardmore Shift: 3x12s, nights  Education: BSN preferred (not required)  To define the admitting and discharge criteria of patient in the Mercy Ardmore Intermediate Care Unit. Patients appropriate for admission to the Intermediate Care Unit are those whom require frequent monitoring of vital signs and/or nursing interventions, but do not require invasive monitoring.
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 541991
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3392
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 28 2023 10:31:45
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=772536 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Ardmore ;City=Ardmore ;State=OK ;Zip=73401 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=RN ;Specialty=ICU ;Unit=Mercy ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$90.00;minBillRate=$90.00;OTRate=98 ;CallbackRate=98 ;HolidayRate=98 ;Orientation=0 ;Description=Description:Name
+
+Intermediate Care-RN-Ardmore
+
+
+Organization
+
+Mercy
+
+
+Facility
+
+Mercy Hospital Ardmore
+
+
+Unit
+
+Intermediate Care Unit
+
+
+Cost Center
+
+40-416083
+ General CommentsSHIFT INFO
+Shift
+
+Night
+
+Shifts per week
+
+3
+
+Hours per shift
+
+12
+EXPERIENCE
+Years of Experience
+
+Two Years Plus
+
+Specialties
+
+Step Down
+-
+required
+
+
+Technologies
+
+DESCRIPTION
+Role: RN Location: West Facility: Ardmore Shift: 3x12s, nights  Education: BSN preferred (not required)  To define the admitting and discharge criteria of patient in the Mercy Ardmore Intermediate Care Unit. Patients appropriate for admission to the Intermediate Care Unit are those whom require frequent monitoring of vital signs and/or nursing interventions, but do not require invasive monitoring.
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/772536;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Mercy Hospital Ardmore TRAVEL
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

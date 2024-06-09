@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '970',
+  'Cf-Ray' => '829c8be2f0cd6a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By RN; Not Willing to Return
+    [sitename] => giftednurses
+    [spec] => Stepdown
+    [assignmentid] => 531418
+    [workerID] => 130006
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3496
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-23
+    [workerLastName] => Lee
+    [shiftNum] => 5
+    [workerFirstName] => Allison
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 21 2023 18:00:00
+    [daysPerWeek] => 3
+    [orderNote] => BR:$80lRS:134583lFTK:Kronos
+ChrgDiff:P$1.5/B$3lOnCl:P$3/B$6
+Orient:$20lNonBill:16hrs
+    [guaranteedMinimum] => 
+    [workerEmail] => allisonlee1111@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Orlando Health-Orlando Regional Medical Center
+    [shiftDateEnd] => 2023-11-09
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

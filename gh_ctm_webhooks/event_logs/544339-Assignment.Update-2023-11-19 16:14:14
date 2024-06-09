@@ -1,0 +1,412 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '28',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6369',
+  'Cf-Ray' => '8289beb000e9495d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Hospital:
+ Centennial   Medical Center             Location: Nashville, TN             
+Address:2300   Patterson St
+         
+Unit Name: 7 Tower
+             
+Building: Tower
+         
+Cost Center:   60329/610
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds :33
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios :5:1
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) : Charge nurse, RN s, Techs, Secretary
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment :
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditechs
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: Every other   weekend but will accept requests offs and work well with scheduling and   special requests
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: travelers take turns   floating when needed.
+ 
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements: White   Boards filled out.
+
+ 
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:   BLS
+             Hiring profile             Requested Skill Set:   
+   
+Must have: Basic med surg knowledge
+   
+   
+
+
+   Advanced skills needed:   
+
+
+   
+   
+Procedures performed on unit: 
+regular   med/surg area
+   
+
+
+   
+
+
+   Certifications Required: none   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   Navy blue, black, royal blue, or any   color gray scrubs 
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+
+
+
+
+
+
+
+   Work well   together as a team and we have had several first time travelers with great   experiences.
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544339
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1297
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 19 2023 11:13:47
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=767612 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=CENTENNIAL MEDICAL CENTER TN ;City=NASHVILLE ;State=TN ;Zip=37203 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=TRISTAR DIVISION (7) ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$76.00;OTRate=84 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Hospital:
+ Centennial   Medical Center             Location: Nashville, TN             
+Address:2300   Patterson St
+         
+Unit Name: 7 Tower
+             
+Building: Tower
+         
+Cost Center:   60329/610
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds :33
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios :5:1
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) : Charge nurse, RN s, Techs, Secretary
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment :
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditechs
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: Every other   weekend but will accept requests offs and work well with scheduling and   special requests
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: travelers take turns   floating when needed.
+ 
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements: White   Boards filled out.
+
+ 
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:   BLS
+             Hiring profile             Requested Skill Set:   
+   
+Must have: Basic med surg knowledge
+   
+   
+
+
+   Advanced skills needed:   
+
+
+   
+   
+Procedures performed on unit: 
+regular   med/surg area
+   
+
+
+   
+
+
+   Certifications Required: none   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   Navy blue, black, royal blue, or any   color gray scrubs 
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+
+
+
+
+
+
+
+   Work well   together as a team and we have had several first time travelers with great   experiences.
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/767612;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 76
+    [facilityName] => Centennial Medical Center
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

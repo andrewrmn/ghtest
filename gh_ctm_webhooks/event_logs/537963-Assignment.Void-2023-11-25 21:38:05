@@ -1,0 +1,65 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1579',
+  'Cf-Ray' => '82bd095e732a1830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:2 YEARS EXPERIENCE IN A HOSPITAL SETTING REQUIREDMUST HAVE KY/COMPACT LICENSE AT SUBMISSION
+BLS AND ACLS REQUIRED
+ General Comments
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 537963
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7589
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 25 2023 16:38:04
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=758513 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=FRANKFORT REGIONAL MEDICAL CTR KY ;City=Frankfort ;State=KY ;Zip=40601 ;Start=10/16/2023;End=1/15/2024;Duration=91;Cert=RN ;Specialty=ICU ;Unit=TRISTAR DIVISION (7) ;Shift=7:00PM – 7:00AM ;# of Postions=3;Type=Travel;BillRate=$70.00;OTRate=78 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:2 YEARS EXPERIENCE IN A HOSPITAL SETTING REQUIREDMUST HAVE KY/COMPACT LICENSE AT SUBMISSION
+BLS AND ACLS REQUIRED
+ General Comments ;url=https://vendor.healthtrustws.com/positions/758513;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Frankfort Regional Medical Hospital
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

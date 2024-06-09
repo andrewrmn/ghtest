@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2330',
+  'Cf-Ray' => '82cce7dc22ac1842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Please do not submit first time travelers.As an RWHS Surgical Technician you will:  Handle the instruments, supplies, and equipment necessary during a surgical procedure  Begin to have an understanding of the procedure being performed and will start to anticipate the surgeon s needs. You may be a good fit if you have:  Graduated from an accredited Surgical Technologist Program   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 545980
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5758
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 27 2023 14:51:24
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=262161 ;Status=Open;Association=Regional West Medical Center ;Client=Regional West Medical Center ;City=Scottsbluff ;State=NE ;Zip=69361 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Nursing ;Specialty=Scrub Technologist, Surgical Technologist ;Unit=Scrub Technologist, Surgical Technologist ;Shift=Varied Shift;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$95.00;OTRate=105 ;OTRules=By The Week, after 40, ;CallbackRate=105 (All Inclusive Rate + $10) ;HolidayRate=105 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=Please do not submit first time travelers.As an RWHS Surgical Technician you will:  Handle the instruments, supplies, and equipment necessary during a surgical procedure  Begin to have an understanding of the procedure being performed and will start to anticipate the surgeon s needs. You may be a good fit if you have:  Graduated from an accredited Surgical Technologist Program   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262161;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Regional West Medical Center Travel
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

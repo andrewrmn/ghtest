@@ -1,0 +1,435 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '12178',
+  'Cf-Ray' => '82790ce384c9183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Hospital:
+ Frankfort   Regional Medical Center             Location: TriStar             
+Address: 299 Kings Daughters Drive Frankfort, KY 40601
+         
+Unit Name: 611   4th Floor Med/Surg
+             
+Building: Main
+         
+Cost Center: 31768
+             General Information             Unit Specifics:     
+
+
+
+
+
+
+
+   Number of Beds: 46    
+
+
+
+
+
+
+
+   Patient Ratios: 6:1    
+
+
+
+
+
+
+
+   Unit staffing description- (unit secretaries and tech availability): Clinical Nurse Coordinators (charge nurse), RNs, LPNs, PCTs, Nurse Externs,   Unit Clerks -staffing based on patient census)    
+
+
+
+
+
+
+
+   Type of equipment: GE Apex Pro Telemetry box, Hoyer lift, Sara Steady, Baxter IV pumps,   iMobile, Alaris PCA IV pump, Welch Allen Vitals machine, Glucometer    
+
+
+
+
+
+
+
+   Documentation system: Meditech Expanse    
+
+
+
+
+
+
+
+   Scheduling requirements: Every other weekend, three 12-hour shifts per week    
+
+
+
+
+
+
+
+   Floating policy: May float to 3 South (post-surgical   med/surg), or to PCU (to staff tele overflow)    
+
+
+
+
+
+
+
+   Patient Experience requirements: At least two   years med/surg experience    
+   Hospital Specifics- Frankfort Regional Medical Center   is a 173-bed acute care facility that has received numerous awards and   accolades for its quality of care, including Magnet  designation for nursing   excellence. Accredited by The Joint Commission, the hospital is conveniently   located off I-64 in Central Kentucky approximately 50 miles from Louisville   and 30 miles from Lexington.   
+   At Frankfort Regional Medical   Center, our focus is simple - putting Patients First. We have embraced this   philosophy by focusing on patient care practices and new technology, keeping   patient safety a top priority. At Frankfort Regional, you re going to be   treated as an individual, with compassion and care, like one of the family.   Our Patients First approach is clear...excellent service, every patient,   every time.   
+   Certifications: Active   nursing license in good standing (with compact if indicated), BLS   required, ACLS preferred, current NIH (must be certified annually)             Hiring profile             Requested Skill Set: General med/surg skills, EKG   interpretation, CPap management, Port access   
+   
+Must have: Telemetry experience,   post-Percutaneous Coronary Intervention experience
+   
+   
+
+
+   Advanced skills needed: preferred experience with chest tubes, NG   tubes, wound vac, drains, post-dialysis assessment skills, central lines,   blood transfusions   
+
+
+   
+   Procedures performed on unit: 
+telemetry monitoring, paracentesis   
+
+
+   
+
+
+   Certifications Required: Active nursing license in good standing (with   compact if indicated), BLS   required, ACLS preferred, current NIH (must be certified annually)   
+   
+
+
+             
+Dress Code: (Required uniform)
+    
+
+
+
+
+
+
+
+   Navy blue or Gray scrubs. No   T-shirts, fleece jackets, or sweatshirts. Staff may wear any color or   patterned scrub jacket, and may wear any color or patterned long sleeve   shirts under scrub top if preferred.   NO ROYAL BLUE SCRUBS ARE PERMITTED our OB/LD department wears this color   exclusively for their unit staff identification as a safety standard for the   protection of our infants.              
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+    
+
+
+
+
+
+
+
+   Specific polices   related to skill sets, procedures, etc. will be made available upon request,   indicated need, and facility approval.
+                Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards.
+     
+
+
+
+
+
+
+
+   Daisy Nominations    
+
+
+
+
+
+
+
+   Inclusion in staff and hospital   celebrations    
+
+
+
+
+
+
+
+   Unit Prizes done bi-weekly for   patient/staff recognition for exceptional team work and patient care             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.     
+
+
+
+
+
+
+
+   We utilize   GroupMe to communicate information, ask questions, and to celebrate one   another.    
+
+
+
+
+
+
+
+   The unit is   home to several travelers who have continued to extend contracts due to our   excellent teamwork and amazing staff.    
+
+
+
+
+
+
+
+   The unit is   fully supported with a director and Manger, as well as a clinical educator.    
+
+
+
+
+
+
+
+   We have excellent   interdisciplinary communication and collaboration with all providers.     
+
+
+
+
+
+
+
+   We are continuously   requesting and receiving new equipment and supplies. We welcome feedback from   all staff, including contract staff, if they have suggestions or ideas to make   our workflow better and enhance our exceptional patient care.
+ General Comments
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543158
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7589
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 17 2023 10:36:37
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=770176 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=FRANKFORT REGIONAL MEDICAL CTR KY ;City=Frankfort ;State=KY ;Zip=40601 ;Start=12/17/2023;End=3/17/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=TRISTAR DIVISION (7) ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$73.00;OTRate=81 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Hospital:
+ Frankfort   Regional Medical Center             Location: TriStar             
+Address: 299 Kings Daughters Drive Frankfort, KY 40601
+         
+Unit Name: 611   4th Floor Med/Surg
+             
+Building: Main
+         
+Cost Center: 31768
+             General Information             Unit Specifics:     
+
+
+
+
+
+
+
+   Number of Beds: 46    
+
+
+
+
+
+
+
+   Patient Ratios: 6:1    
+
+
+
+
+
+
+
+   Unit staffing description- (unit secretaries and tech availability): Clinical Nurse Coordinators (charge nurse), RNs, LPNs, PCTs, Nurse Externs,   Unit Clerks -staffing based on patient census)    
+
+
+
+
+
+
+
+   Type of equipment: GE Apex Pro Telemetry box, Hoyer lift, Sara Steady, Baxter IV pumps,   iMobile, Alaris PCA IV pump, Welch Allen Vitals machine, Glucometer    
+
+
+
+
+
+
+
+   Documentation system: Meditech Expanse    
+
+
+
+
+
+
+
+   Scheduling requirements: Every other weekend, three 12-hour shifts per week    
+
+
+
+
+
+
+
+   Floating policy: May float to 3 South (post-surgical   med/surg), or to PCU (to staff tele overflow)    
+
+
+
+
+
+
+
+   Patient Experience requirements: At least two   years med/surg experience    
+   Hospital Specifics- Frankfort Regional Medical Center   is a 173-bed acute care facility that has received numerous awards and   accolades for its quality of care, including Magnet  designation for nursing   excellence. Accredited by The Joint Commission, the hospital is conveniently   located off I-64 in Central Kentucky approximately 50 miles from Louisville   and 30 miles from Lexington.   
+   At Frankfort Regional Medical   Center, our focus is simple - putting Patients First. We have embraced this   philosophy by focusing on patient care practices and new technology, keeping   patient safety a top priority. At Frankfort Regional, you re going to be   treated as an individual, with compassion and care, like one of the family.   Our Patients First approach is clear...excellent service, every patient,   every time.   
+   Certifications: Active   nursing license in good standing (with compact if indicated), BLS   required, ACLS preferred, current NIH (must be certified annually)             Hiring profile             Requested Skill Set: General med/surg skills, EKG   interpretation, CPap management, Port access   
+   
+Must have: Telemetry experience,   post-Percutaneous Coronary Intervention experience
+   
+   
+
+
+   Advanced skills needed: preferred experience with chest tubes, NG   tubes, wound vac, drains, post-dialysis assessment skills, central lines,   blood transfusions   
+
+
+   
+   Procedures performed on unit: 
+telemetry monitoring, paracentesis   
+
+
+   
+
+
+   Certifications Required: Active nursing license in good standing (with   compact if indicated), BLS   required, ACLS preferred, current NIH (must be certified annually)   
+   
+
+
+             
+Dress Code: (Required uniform)
+    
+
+
+
+
+
+
+
+   Navy blue or Gray scrubs. No   T-shirts, fleece jackets, or sweatshirts. Staff may wear any color or   patterned scrub jacket, and may wear any color or patterned long sleeve   shirts under scrub top if preferred.   NO ROYAL BLUE SCRUBS ARE PERMITTED our OB/LD department wears this color   exclusively for their unit staff identification as a safety standard for the   protection of our infants.              
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+    
+
+
+
+
+
+
+
+   Specific polices   related to skill sets, procedures, etc. will be made available upon request,   indicated need, and facility approval.
+                Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards.
+     
+
+
+
+
+
+
+
+   Daisy Nominations    
+
+
+
+
+
+
+
+   Inclusion in staff and hospital   celebrations    
+
+
+
+
+
+
+
+   Unit Prizes done bi-weekly for   patient/staff recognition for exceptional team work and patient care             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.     
+
+
+
+
+
+
+
+   We utilize   GroupMe to communicate information, ask questions, and to celebrate one   another.    
+
+
+
+
+
+
+
+   The unit is   home to several travelers who have continued to extend contracts due to our   excellent teamwork and amazing staff.    
+
+
+
+
+
+
+
+   The unit is   fully supported with a director and Manger, as well as a clinical educator.    
+
+
+
+
+
+
+
+   We have excellent   interdisciplinary communication and collaboration with all providers.     
+
+
+
+
+
+
+
+   We are continuously   requesting and receiving new equipment and supplies. We welcome feedback from   all staff, including contract staff, if they have suggestions or ideas to make   our workflow better and enhance our exceptional patient care.
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/770176;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 73
+    [facilityName] => Frankfort Regional Medical Hospital
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

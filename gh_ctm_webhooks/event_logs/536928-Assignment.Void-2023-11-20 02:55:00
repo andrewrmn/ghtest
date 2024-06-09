@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8477',
+  'Cf-Ray' => '828d695a117423b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => *** Tuba City Regional Healthcare doesnotrequire your RN to have an AZ state license, RN license from any state is acceptable. Limited housing options. Shared housing units at $600 per month, based on availability.No family or pets allowed.Fingerprinting must be submitted and clearedpriorto start!Please submit current address for further instructions. MUST have current immunizations. ***Tuba City Regional Health Care Corporation, a JCAHO accredited health center, provides services to a 4,400 square mile area and serves as a referral center for the western part of the Navajo and Hopi Reservations. The hospital was constructed in 1975 with a bed capacity of 73. Services provided to the community include comprehensive inpatient/outpatient emergency services, dental and ophthalmology services, orthopedics, OB/GYN, oral surgery, eye surgery and urological procedures. Approximately 49% of the surgeries performed are out patient/ambulatory surgical procedures. Learn more about our organization.The Tuba City Regional Health Care Corporation is located in Northwestern Arizona on the land known as the Colorado Plateau. This semi-desert landscape varies in elevation from 4,400 in the Little Colorado River Valley to nearly 7,000 feet at Preston Mesa. The unique community of Tuba City offers a culturally rich environment. The Native American tribes located and served here are the Navajo, Hopi, and Southern Paiute. This mixture along with Anglo, Hispanic, and African American employees of the hospital and school systems make a pleasantly diverse community. The staff of medical providers includes surgeons, general medical officers, internal medicine, psychiatrists, pediatricians, family practice physicians, obstetricians, ENT specialists, orthopedic surgeons, and urologists. Dental staff includes general dentists, endodontists, oral and maxillofacial surgeons, pediatric dentists, dental assistants and hygienists. The nursing staff includes registered nurses, licensed practical nurses, nursing assistants, community health nurses, nurse practitioners, nurse midwives, CRNA, and community health medics.The Clinical Nurse performs a variety of nursing care procedures requiring professional knowledge and consideration for specific patient conditions and treatments, and ability to work independently in completing assignments.Guidelines include physician s orders, standards of care, nursing policies and procedures manuals, hospital policies.Nursing duties include support to individuals of all ages and their families.NECESSARY QUALIFICATIONS Associate s or bachelor s degree in Nursing A valid, current, full and unrestricted Professional Nursing License to practice nursing in any state of theUnited States of America, The Commonwealth of Puerto Rico, or a territory of the United StatesA minimum of 1-year clinical nursingexperience providing direct patient care to infants, children, and adults.Must have current and valid certified of the following from the American Heart Association: Basic Life Support (BLS), Advanced Cardiac Life Support (ACLS), Pediatric Advanced Life Support (PALS) from the American Heart Association   Additional Information:ORIENTATION: Every two (2) weeks only. COVID EXEMPTIONS: We do not accept religious exemptions. If a candidate submits for a medical exemption, we will have to get approval from our medical review board to proceed with onboarding. HOUSING APPLICATION: must be submitted 2 weeks prior to start date - form uploaded in Medefis   Position Urgency:Normal Billing string = Tuba City Regional
+    [sitename] => giftednurses
+    [spec] => Peds
+    [assignmentid] => 536928
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1338
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 21:54:59
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=259921 ;Status=Open;Association=Tuba City Regional ;Client=Tuba City Regional ;City=Tuba City ;State=AZ ;Zip=86045 ;Start=11/6/2023;End=2/5/2024;Duration=91;Cert=Nursing ;Specialty=Pediatric ;Unit=Pediatric ;Shift=7 - 12 hour shift per pay period (every 2 weeks);# of Postions=2;Type=Travel;BillRate=$110.00;OTRate=120 ;OTRules=By The Week, after 40, ;CallbackRate=110 (All Inclusive Rate) ;HolidayRate=110 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=*** Tuba City Regional Healthcare doesnotrequire your RN to have an AZ state license, RN license from any state is acceptable. Limited housing options. Shared housing units at $600 per month, based on availability.No family or pets allowed.Fingerprinting must be submitted and clearedpriorto start!Please submit current address for further instructions. MUST have current immunizations. ***Tuba City Regional Health Care Corporation, a JCAHO accredited health center, provides services to a 4,400 square mile area and serves as a referral center for the western part of the Navajo and Hopi Reservations. The hospital was constructed in 1975 with a bed capacity of 73. Services provided to the community include comprehensive inpatient/outpatient emergency services, dental and ophthalmology services, orthopedics, OB/GYN, oral surgery, eye surgery and urological procedures. Approximately 49% of the surgeries performed are out patient/ambulatory surgical procedures. Learn more about our organization.The Tuba City Regional Health Care Corporation is located in Northwestern Arizona on the land known as the Colorado Plateau. This semi-desert landscape varies in elevation from 4,400 in the Little Colorado River Valley to nearly 7,000 feet at Preston Mesa. The unique community of Tuba City offers a culturally rich environment. The Native American tribes located and served here are the Navajo, Hopi, and Southern Paiute. This mixture along with Anglo, Hispanic, and African American employees of the hospital and school systems make a pleasantly diverse community. The staff of medical providers includes surgeons, general medical officers, internal medicine, psychiatrists, pediatricians, family practice physicians, obstetricians, ENT specialists, orthopedic surgeons, and urologists. Dental staff includes general dentists, endodontists, oral and maxillofacial surgeons, pediatric dentists, dental assistants and hygienists. The nursing staff includes registered nurses, licensed practical nurses, nursing assistants, community health nurses, nurse practitioners, nurse midwives, CRNA, and community health medics.The Clinical Nurse performs a variety of nursing care procedures requiring professional knowledge and consideration for specific patient conditions and treatments, and ability to work independently in completing assignments.Guidelines include physician s orders, standards of care, nursing policies and procedures manuals, hospital policies.Nursing duties include support to individuals of all ages and their families.NECESSARY QUALIFICATIONS Associate s or bachelor s degree in Nursing A valid, current, full and unrestricted Professional Nursing License to practice nursing in any state of theUnited States of America, The Commonwealth of Puerto Rico, or a territory of the United StatesA minimum of 1-year clinical nursingexperience providing direct patient care to infants, children, and adults.Must have current and valid certified of the following from the American Heart Association: Basic Life Support (BLS), Advanced Cardiac Life Support (ACLS), Pediatric Advanced Life Support (PALS) from the American Heart Association   Additional Information:ORIENTATION: Every two (2) weeks only. COVID EXEMPTIONS: We do not accept religious exemptions. If a candidate submits for a medical exemption, we will have to get approval from our medical review board to proceed with onboarding. HOUSING APPLICATION: must be submitted 2 weeks prior to start date - form uploaded in Medefis   Position Urgency:Normal Billing string = Tuba City Regional ;url=https://vms.medefis5.com/jobs/259921;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => Tuba City Regional
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

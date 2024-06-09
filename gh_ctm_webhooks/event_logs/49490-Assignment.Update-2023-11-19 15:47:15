@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5212',
+  'Cf-Ray' => '828997340483183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position DescriptionThe PCU/Telemetry Registered Nurse holds shift accountability for providing care to patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The Registered Nurse demonstrates critical thinking skills, scientific judgment and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care.1-AM and 1-PM position, 36 hour guaranteed, rotatingweekends, two years of acute care experience, Must have AZ license, BLS andACLS-Cerner experience is a plusparseGeneralComments Comments.bd_title                                   {                                          font-weight: bold;                                   }                                                    Reason for opening (special, internal vacancy, leave coverage)              *******************************************************************************              How long has it been open?              Will position be required to float to other units?              Number of beds in your facility?              Years of experience required?              Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)              Willing to review clinicians with pending state license?              Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift)     EMR for your facility:              Scrub colors / dress code:     Parking location:  Contact: Iris Joseph Resource Manager: Whitney Nelson OT Rate:?/$91.70 Holiday Rate: ?/$98.25https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=265374&null 
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 49490
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 8
+    [facilityID] => 2355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-03-25
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 19 2023 10:47:10
+    [daysPerWeek] => 1
+    [orderNote] => Source=Parallon;ID=0;SourceID=265374;Status=Open;Client=Northwest Med Ctr of Oro Valley;City=Oro Valley;State=AZ;Zip=85755;Start=2/18/2019;End=5/20/2019;Duration=91;Cert=Registered Nurse (RN);Specialty=Telemetry (Tele);Unit=1022: MED/SURG/TELE UNIT;Shift=for this position? (days needed, hours or shift);# of Postions=2;Type=Travel;BillRate=$65.50;OnCallRate=$6.55;Description=Position DescriptionThe PCU/Telemetry Registered Nurse holds shift accountability for providing care to patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The Registered Nurse demonstrates critical thinking skills, scientific judgment and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care.1-AM and 1-PM position, 36 hour guaranteed, rotatingweekends, two years of acute care experience, Must have AZ license, BLS andACLS-Cerner experience is a plusparseGeneralComments Comments.bd_title                                   {                                          font-weight: bold;                                   }                                                    Reason for opening (special, internal vacancy, leave coverage)              *******************************************************************************              How long has it been open?              Will position be required to float to other units?              Number of beds in your facility?              Years of experience required?              Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)              Willing to review clinicians with pending state license?              Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift)     EMR for your facility:              Scrub colors / dress code:     Parking location:  Contact: Iris Joseph Resource Manager: Whitney Nelson OT Rate:?/$91.70 Holiday Rate: ?/$98.25https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=265374&null;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65.5
+    [facilityName] => Northwest Medical Center of Oro Valley
+    [shiftDateEnd] => 2019-06-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

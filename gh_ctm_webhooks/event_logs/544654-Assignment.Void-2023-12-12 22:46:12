@@ -1,0 +1,73 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1564',
+  'Cf-Ray' => '8349808386611463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 weeks
+40 hrs/wk
+Days with call, 10 hour shifts with rotating starts between 5   7 AM.
+EOW
+BLS/ACLS/CA RN
+Pervious CVOR Exp
+Previous travel exp
+    [sitename] => giftednurses
+    [spec] => CVOR
+    [assignmentid] => 544654
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 32
+    [facilityID] => 1477
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 12 2023 17:46:11
+    [daysPerWeek] => 4
+    [orderNote] => Source=EinsteinTrinity;SourceID=48500 ;Status=Open;Association=Trinity Health ;Client=CA - Saint Agnes Medical Center ;City=Fresno ;State=CA ;Zip=93720 ;Start=12/10/2023;End=3/9/2024;Duration=90;Cert=RN CVOR ;Specialty=CVOR ;Unit=*Registered Nurse-CVOR-CVOR ;Shift=05:00:00 - 15:30:00;# of Postions=1;Type=Travel;BillRate=$118.00;OTRate=153.40 ;ChargeRate=121.00 ;CallbackRate=153.40 ;HolidayRate=153.40 ;Description=13 weeks
+40 hrs/wk
+Days with call, 10 hour shifts with rotating starts between 5   7 AM.
+EOW
+BLS/ACLS/CA RN
+Pervious CVOR Exp
+Previous travel exp ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 8
+    [offContractRate] => 118
+    [facilityName] => Saint Agnes Medical Center TRAVEL
+    [shiftDateEnd] => 2024-03-23
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

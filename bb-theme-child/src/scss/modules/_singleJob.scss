@@ -1,0 +1,141 @@
+.singleJob{
+  max-width: 1104px;
+  margin: 0 auto;
+  padding: 116px 35px 120px;
+
+  &__back{
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 17px;
+    display: inline-flex;
+    gap: 8px;
+    vertical-align: middle;
+    font-family: 'futura-pt', sans-serif;
+
+    &:hover{
+      text-decoration: none;
+      gap: 10px;
+    }
+
+    i{
+      font-weight: 400;
+      font-size: 22px;
+    }
+  }
+
+
+  &__layout{
+    margin-top: 36px;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 24px;
+  }
+
+  &__title{
+    margin-top: 0;
+    color: $color-dark-teal;
+    font-size: 36px;
+    line-height: 1.2;
+    letter-spacing: -0.01em;
+    font-weight: bold;
+  }
+
+  &__details{
+    margin: 40px 0;
+  }
+
+  &__description{
+    color: #737373;
+    font-size: 16px;
+    line-height: 24px;
+
+    p{
+      margin: 0;
+    }
+
+    p strong:only-child,
+    p b:only-child,
+    h2{
+      font-family: futura-pt, sans-serif;
+      color: $color-dark-teal;
+      font-weight: 700;
+      letter-spacing: -0.01em;
+      font-size: 24px;
+      line-height: 1.2;
+    }
+
+    p:not(:first-child),
+    ul:not(:first-child){
+      margin-top: 24px;
+    }
+
+    h2{
+      margin-bottom: -6px;
+    }
+
+    h2:not(:first-child){
+      margin-top: 36px;
+    }
+
+    h3{
+      font-weight: bold;
+      font-family: futura-pt, sans-serif;
+      color: $color-dark-teal;
+      font-size: 20px;
+      line-height: 24px;
+      margin: 24px 0 -4px;
+    }
+
+    ul{
+      padding: 0;
+      list-style: none;
+
+      li {
+        position: relative;
+        padding-left: 24px;
+
+        &::before{
+          content: '•';
+          position: absolute;
+          left: 4px;
+          width: 12px;
+          text-align: center;
+          font-weight: bold;
+        }
+      }
+    }
+  }
+
+  &__mobileLink{
+    margin: 48px 0;
+    display: none;
+  }
+
+
+  &__benefits{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-top: 24px;
+
+    ul {
+      margin: 0 !important;
+    }
+  }
+
+
+  @media screen and (max-width: 930px){
+    &__layout{
+      grid-template-columns: 1fr;
+    }
+
+    &__mobileLink{
+      display: block;
+    }
+  }
+
+}
+
+.fl-post-meta-bottom{
+  display: none;
+}

@@ -1,0 +1,96 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5437',
+  'Cf-Ray' => '8289975f969a23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+Surgical technologists prepare the operating room, including the sterile field, setting up surgical equipment, supplies and solutions. During surgery, surgical technologists pass instruments, fluids and supplies to the surgeon and prepare and manage surgical equipment. Surgical technologists simultaneously manage the sterile field and specimens. Surgical technologists perform a count of sponges and supplies to prevent foreign retained objects. Surgical technologists are certified following successful completion of a CAAHEP-accredited program or other programmatically-accredited surgical technology program and the national Certified Surgical Technologist (CST) examination administered by the National Board of Surgical Technology and Surgical Assisting.
+8 week contact with possible extension, 36 hr. guaranteed,
+4/10 hr. shifts plus call, BLS , Surgical Tech certification, 2  years of
+experience and Cerner experience is preferred--Bill rate $45.25/hrparseGeneralComments Comments
+.bd_title { font-weight: bold }
+Reason for opening (special, internal vacancy, leave coverage) 
+          		******************************************************************************* 
+          		How long has it been open? 
+          		Will position be required to float to other units? 
+          		Number of beds in your facility? 
+          		Years of experience required? 
+          		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) 
+          		Willing to review clinicians with pending state license? 
+          		Is there anyone in the past that has worked for you that you would consider rehiring? 
+          		What is the work schedule for this position? (days needed, hours or shift) 
+			EMR for your facility: 
+          		Scrub colors / dress code: 
+			Parking location:  Contact: Michelle Warnock Resource Manager: Michelle Warnock
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 216202
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-05-17
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:47:10
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=465103 ;Status=Open;Association=CHS ;Client=Oro Valley Hospital ;City=Oro Valley ;State=AZ ;Zip=85755 ;Start=5/17/2021;End=7/12/2021;Duration=56;Cert=Certified Surgical Technician (CST) ;Specialty=(OR) ;Unit=OPERATING ROOM ;Shift=for this position? (days needed, hours or shift)  			EMR for your facility:            		Scrub colors / dress code:  			Parking location:;# of Postions=1;Type=Travel;BillRate=$45.25;Description=Position Description
+Surgical technologists prepare the operating room, including the sterile field, setting up surgical equipment, supplies and solutions. During surgery, surgical technologists pass instruments, fluids and supplies to the surgeon and prepare and manage surgical equipment. Surgical technologists simultaneously manage the sterile field and specimens. Surgical technologists perform a count of sponges and supplies to prevent foreign retained objects. Surgical technologists are certified following successful completion of a CAAHEP-accredited program or other programmatically-accredited surgical technology program and the national Certified Surgical Technologist (CST) examination administered by the National Board of Surgical Technology and Surgical Assisting.
+8 week contact with possible extension, 36 hr. guaranteed,
+4/10 hr. shifts plus call, BLS , Surgical Tech certification, 2  years of
+experience and Cerner experience is preferred--Bill rate $45.25/hrparseGeneralComments Comments
+.bd_title { font-weight: bold }
+Reason for opening (special, internal vacancy, leave coverage) 
+          		******************************************************************************* 
+          		How long has it been open? 
+          		Will position be required to float to other units? 
+          		Number of beds in your facility? 
+          		Years of experience required? 
+          		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) 
+          		Willing to review clinicians with pending state license? 
+          		Is there anyone in the past that has worked for you that you would consider rehiring? 
+          		What is the work schedule for this position? (days needed, hours or shift) 
+			EMR for your facility: 
+          		Scrub colors / dress code: 
+			Parking location:  Contact: Michelle Warnock Resource Manager: Michelle Warnock ;Buyer=Michelle Warnock ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=465103#!/position/manage/465103;VMSPositionType=Travel InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 45.25
+    [facilityName] => Northwest Medical Center of Oro Valley
+    [shiftDateEnd] => 2021-07-12
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

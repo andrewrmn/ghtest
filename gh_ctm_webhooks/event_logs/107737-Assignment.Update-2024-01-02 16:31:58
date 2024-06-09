@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2386',
+  'Cf-Ray' => '83f46532c4871842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 12hr shift either day or nights, will do either 6p - 6a or vice versa, but ideally a night shift nurse. Ideally 24 weeks but will consider 13.Job Description  supportive environment in a 25 bed critical access rural town facility. 5 bed ED, 7 bed IP capability. Low nurse to patient ratio. Lodging assistance may be available. No required on call.Shift  Guaranteed Hours (36) Certifications or Requirements -acls, pals, BLSQuantity - 1
+Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 107737
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 12.5
+    [facilityID] => 3544
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-03-09
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 06:30
+    [whenmodified] => January, 02 2024 11:31:57
+    [daysPerWeek] => 1
+    [orderNote] => Source=Medefis5;SourceID=152030;Status=Open;Client=Ferry County Health;City=Republic;State=WA;Zip=99166;Start=3/9/2020;End=6/8/2020;Duration=91;Cert=Nursing;Specialty=Emergency Room Nurse, Med-surg Adult;Unit=Emergency Room Nurse, Med-surg Adult;Shift=12 hour 6pm - 6am;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$75.00;OTRate=85 ;OTRules=By The Week, after 36, All Inclusive Rate + $10 ;ChargeRate= ;CallbackRate= ;CallbackRate= ;HolidayRate=85 (All Inclusive Rate + $10) ;OnCallRateDescription=$5 per hour pager ;Orientation= ;Description=12hr shift either day or nights, will do either 6p - 6a or vice versa, but ideally a night shift nurse. Ideally 24 weeks but will consider 13.Job Description  supportive environment in a 25 bed critical access rural town facility. 5 bed ED, 7 bed IP capability. Low nurse to patient ratio. Lodging assistance may be available. No required on call.Shift  Guaranteed Hours (36) Certifications or Requirements -acls, pals, BLSQuantity - 1
+Billing string = Medefis;Buyer= ;url=https://api.medefis5.com/Job/GetJobInfo/152030;VMSPositionType= AvgHoursPerWeek= InterviewRequired=False;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Washington Registry- Ferry County Memorial Hospital
+    [shiftDateEnd] => 2020-06-08
+    [shiftStartTime] => 18:00
+    [subjectID] => 
+)

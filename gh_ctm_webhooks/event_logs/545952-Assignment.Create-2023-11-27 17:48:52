@@ -1,0 +1,122 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2840',
+  'Cf-Ray' => '82cc345c659c23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 545952
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Contract
+    [hoursPerWeek] => 36
+    [facilityID] => 16205
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 27 2023 12:48:46
+    [daysPerWeek] => 3
+    [orderNote] => JOB ID 2272684 //Job Location:
+1415 Tulane Avenue
+New Orleans, LA 70112
+Description:
+Patient Population:
+Adult internal medicine
+Adult Cardiac
+
+Unit Info:
+Beds: 27
+Patient Ratios: Patient Ratios 1:6 (Float: All contract staff are expected to float.) Medical Surgical/PCU (RN) may float to ICU/ED to care for MS patients in that area.
+Required Certs: BLS  NIHSS  CPI
+Preferred Certs: ACLS
+1 Year Min Experience Required (Prefer 2 yrs experience)
+Meditech Exp Preferred
+Please note that we may still have Covid-19 patients and all nurses are expected to be able to take care of any isolation patient. Please know your N95 Mask size.
+
+Schedule Requirements:
+Weekend Requirements: 1/2 schedule with need weekend as described by the manager. Unit needs vary throughout the week. Weekend Days: Sat and Sunday only. Weekend Nights: Friday, Sat and Sunday
+NO BLOCKED SCHEDULING
+RTO: <5 Days Total (Unit manager approves all RTO)
+
+Required Skills:
+Med/Surg
+Use of Rapid Response Teams
+Isolation Precautions
+
+Preferred Skills:
+Post Angiogram
+Post Cardiac Surgery
+Post MI
+Gastrointestinal
+Colostomy care
+Feeding tube care and management
+Pre/Post Hemodialysis Management
+Renal failure
+Accessing Ports
+Blood Product Administration
+Central line blood draw
+Phlebotomy
+PICC line management
+Starting IVs
+Heparin
+Insulin
+PCA
+Surgical drains
+Chest tubes-Emerson/Pleur-evac
+CPAP/BiPAP
+Pre/Post Thoracic Surgery
+High Flow Nasal Cannula (HFNC)
+Wound Care
+
+Other Notes:
+Scrubs: Teal/White Combo
+Parking: one-time $40 fee
+Locals: <75 miles, $10 less than the base rate
+
+Please be advised that January 13th 2024, all clinicians working at Tulane campus will be transitioned over and will continue their assignments at East Jefferson campus.
+Location : 4200 Houma Blvd, Metairie, LA 70006
+COVID-19 Vaccine (Facility Guideline):
+Required - Medical/Religious Exemptions Only
+Flu Vaccine (Facility Guideline):
+Required - No Exemptions
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Tulane Medical Center
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1939',
+  'Cf-Ray' => '84fbbada05261838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 11/07/2018 0808 MSTCerville Exavier					Must have a min of 2yrs exp in PICU. Children's hosp exp is strongly pref. pals req. acls a plus.  OH and/or NICU exp a strong plus.  Any ato must be requested on submission.   Will float w/in crit care pedi units if needed.  IVS to interview and offer if no time off. $2500 bonus for assignments started by 12/17 with full 20 week completion.https://secure.shiftwise.net/esp/order.aspx?order_id=7401D38F5FE5B483
+    [sitename] => giftednurses
+    [spec] => PICU
+    [assignmentid] => 42303
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2478
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2018-12-17
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => February, 03 2024 10:32:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;ID=0;SourceID=7853562;Status=Open;Client=AH: Dell Children's Medical Center;City=Austin;State=TX;Start=12/17/2018;End=5/5/2019;Duration=140;Cert=RN;Specialty=PICU;Unit=DCMC Pediatric ICU;Shift=AM 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$70.23;Description=11/07/2018 0808 MSTCerville ExavierMust have a min of 2yrs exp in PICU. Children's hosp exp is strongly pref. pals req. acls a plus.  OH and/or NICU exp a strong plus.  Any ato must be requested on submission.   Will float w/in crit care pedi units if needed.  IVS to interview and offer if no time off. $2500 bonus for assignments started by 12/17 with full 20 week completion.https://secure.shiftwise.net/esp/order.aspx?order_id=7401D38F5FE5B483;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70.23
+    [facilityName] => Dell Children's Medical Center
+    [shiftDateEnd] => 2019-05-05
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

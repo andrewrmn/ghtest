@@ -1,0 +1,138 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4884',
+  'Cf-Ray' => '82ee081de361183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL - RN - PCU (611) - Sky Ridge MC -Nights
+
+          Unit Information:
+   (5th Floor Med/Tele/61115)                    
+Address:10101 RidgeGate Parkway
+         
+Floor:
+             
+Building:Sky Ridge Medical Center
+         
+5th
+             General Information             Tell us about the unit(s):        Number of Beds -38    Number of Staff   73 total    Type of staff:         Day Shift   1 charge, 6-7 RNs, 2-3 MSTs     Night Shift   1 charge, 7-9 RNS, 2-3 MSTs        Patient Ratios   4-5 Days/Nights    Type of equipment   Lifts, dynamap, cardiac        monitoring equipment     EMR -Meditech                Typical hiring profile             Skill Set Most recruited for:
+ (Travel RNs, local CNAs   and sitters)   
+   
+Must have:
+ candidates without these skills will not be   considered for the role.
+       ACLS    
+      
+Preferred or nice to have:
+ candidates with these   skills will be considered first. 
+       
+Cardiac experience     
+      
+List typical procedures performed on unit(s): 
+
+       
+
+Cardiac drips, cardiac caths, s/p VATS,     
+      Best personality Fit:       Team-oriented    Positive                 
+Unit Guidelines/Policies: Please feel free to attach   unit policies and guidelines.
+       
+      
+
+
+             Any additional information that would entice a worker to   select your unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.
+ *Remember it is a very competitive market any   information you can provide will help attract talent.   
+New lift equipment, imobile technology, self-schedule as   allows,
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 537113
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1273
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 01 2023 15:20:35
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=712955 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=SKY RIDGE MEDICAL CENTER CO ;City=Lonetree ;State=CO ;Zip=80124 ;Start=11/30/2023;End=2/29/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=CONTINENTAL DIVISION (10) ;Shift=7:00PM - 7:00AM;# of Postions=1;Type=Travel;BillRate=$75.00;minBillRate=$75.00;OTRate=83 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:TRAVEL - RN - PCU (611) - Sky Ridge MC -Nights
+
+          Unit Information:
+   (5th Floor Med/Tele/61115)                    
+Address:10101 RidgeGate Parkway
+         
+Floor:
+             
+Building:Sky Ridge Medical Center
+         
+5th
+             General Information             Tell us about the unit(s):        Number of Beds -38    Number of Staff   73 total    Type of staff:         Day Shift   1 charge, 6-7 RNs, 2-3 MSTs     Night Shift   1 charge, 7-9 RNS, 2-3 MSTs        Patient Ratios   4-5 Days/Nights    Type of equipment   Lifts, dynamap, cardiac        monitoring equipment     EMR -Meditech                Typical hiring profile             Skill Set Most recruited for:
+ (Travel RNs, local CNAs   and sitters)   
+   
+Must have:
+ candidates without these skills will not be   considered for the role.
+       ACLS    
+      
+Preferred or nice to have:
+ candidates with these   skills will be considered first. 
+       
+Cardiac experience     
+      
+List typical procedures performed on unit(s): 
+
+       
+
+Cardiac drips, cardiac caths, s/p VATS,     
+      Best personality Fit:       Team-oriented    Positive                 
+Unit Guidelines/Policies: Please feel free to attach   unit policies and guidelines.
+       
+      
+
+
+             Any additional information that would entice a worker to   select your unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.
+ *Remember it is a very competitive market any   information you can provide will help attract talent.   
+New lift equipment, imobile technology, self-schedule as   allows,
+ General Comments
+ No. of Positions: 1/2. ;url=https://vendor.healthtrustws.com/positions/712955;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Sky Ridge Medical Center Parallon
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

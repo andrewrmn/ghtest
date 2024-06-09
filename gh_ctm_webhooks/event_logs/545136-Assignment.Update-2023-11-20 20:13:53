@@ -1,0 +1,208 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6902',
+  'Cf-Ray' => '82935b27b14a23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL - CT Tech (726) - Wesley MC - 7P - 7A
+
+
+        Unit Information:
+ 
+
+
+CT
+   72620             Location: Wesley Woodlawn   Hospital &amp; ER             
+Address:2610 N Woodlawn   Wichita Ks
+ 67220
+         
+Floor:
+ 1st
+             
+Building: Imaging area
+
+ -
+   CT 726
+         
+
+
+             General Information             Tell us   about the unit(s):          Adult        64 Bed Hospital with 12 bed Adult ICU.
+        14 bed ED department.
+
+     Imaging        department staffing on weekend during the day is 1 MRI tech / 1 Xray        tech / 1 US tech (Saturday only) / 1 CT tech    CT        shifts on weekends are 7a-7p (that are needing coverage)    Type        of CT patients         Majority         is adult ED patients
+ (some         pediatric scans are possible)     Adult         Inpatients as ordered.
+         Type        of equipment - 
+Siemens Somatom        Plus 128 slice CT    EMR          Meditech     PACS        - 
+FUJI Synapse                 Typical hiring profile             Skill Set   Most recruited for:
+ (Travel RNs, local CNAs and sitters)   
+   
+Must have:
+ candidates without these   skills will not be considered for the role.
+       CT        registered with ARRT    KSBHA        license    Work        independently and be able to problem solve      
+Preferred   or nice to have:
+   candidates with these skills will be considered first. 
+       Siemens        scanner experience
+    
+2-3        plus years of experience in CT    Be        able to back up XRAY if XRAY tech is in the OR.      
+List   typical procedures performed on unit(s): 
+
+   
+ 
+
+
+
+
+
+
+
+   Mixture of CT Head, cervical spine, chest,   abdomen, pelvis.
+ 
+       CTA        chest, neck, abdomen    Occasional        CTA Cardiac studies    Some        CT Lumbar / Thoracic spine    CT        Head Stroke protocol      Best   personality Fit:   
+ 
+
+
+
+
+
+
+
+   Works well in a department that could be   busy or slow based on the ED patient load.
+       Works        well with other departments    Dependable        / prompt                
+Unit   Guidelines/Policies: Please   feel free to attach unit policies and guidelines.
+       Dress        code -
+ Black scrubs (not        provided)      
+
+
+             Any   additional information that would entice a worker to select your unit for   their assignment: 
+We   are a small facility with family friendly atmosphere.
+ Easy access and easy to find your way   around.
+ Our department has a great   guideline book and resources to help someone come in and orientate   quickly.
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 545136
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1282
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 20 2023 15:13:38
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=727683 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=WESLEY MEDICAL CENTER KS ;City=WICHITA ;State=KS ;Zip=67214 ;Start=7/24/2023;End=10/23/2023;Duration=91;Cert=CT Tech ;Specialty=Radiology ;Unit=CONTINENTAL DIVISION (10) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$95.00;OTRate=103 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL - CT Tech (726) - Wesley MC - 7P - 7A
+
+
+        Unit Information:
+ 
+
+
+CT
+   72620             Location: Wesley Woodlawn   Hospital &amp; ER             
+Address:2610 N Woodlawn   Wichita Ks
+ 67220
+         
+Floor:
+ 1st
+             
+Building: Imaging area
+
+ -
+   CT 726
+         
+
+
+             General Information             Tell us   about the unit(s):          Adult        64 Bed Hospital with 12 bed Adult ICU.
+        14 bed ED department.
+
+     Imaging        department staffing on weekend during the day is 1 MRI tech / 1 Xray        tech / 1 US tech (Saturday only) / 1 CT tech    CT        shifts on weekends are 7a-7p (that are needing coverage)    Type        of CT patients         Majority         is adult ED patients
+ (some         pediatric scans are possible)     Adult         Inpatients as ordered.
+         Type        of equipment - 
+Siemens Somatom        Plus 128 slice CT    EMR          Meditech     PACS        - 
+FUJI Synapse                 Typical hiring profile             Skill Set   Most recruited for:
+ (Travel RNs, local CNAs and sitters)   
+   
+Must have:
+ candidates without these   skills will not be considered for the role.
+       CT        registered with ARRT    KSBHA        license    Work        independently and be able to problem solve      
+Preferred   or nice to have:
+   candidates with these skills will be considered first. 
+       Siemens        scanner experience
+    
+2-3        plus years of experience in CT    Be        able to back up XRAY if XRAY tech is in the OR.      
+List   typical procedures performed on unit(s): 
+
+   
+ 
+
+
+
+
+
+
+
+   Mixture of CT Head, cervical spine, chest,   abdomen, pelvis.
+ 
+       CTA        chest, neck, abdomen    Occasional        CTA Cardiac studies    Some        CT Lumbar / Thoracic spine    CT        Head Stroke protocol      Best   personality Fit:   
+ 
+
+
+
+
+
+
+
+   Works well in a department that could be   busy or slow based on the ED patient load.
+       Works        well with other departments    Dependable        / prompt                
+Unit   Guidelines/Policies: Please   feel free to attach unit policies and guidelines.
+       Dress        code -
+ Black scrubs (not        provided)      
+
+
+             Any   additional information that would entice a worker to select your unit for   their assignment: 
+We   are a small facility with family friendly atmosphere.
+ Easy access and easy to find your way   around.
+ Our department has a great   guideline book and resources to help someone come in and orientate   quickly.
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/727683;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Wesley Medical Center Travel
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

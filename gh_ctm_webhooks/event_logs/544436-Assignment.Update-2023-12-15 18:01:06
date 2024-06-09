@@ -1,0 +1,520 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6225',
+  'Cf-Ray' => '8360970311961466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:3 12-hour shifts Friday, Saturday, and Sunday only 0630-1900.   No call required.
+        
+Data Collection:
+          Unit Information:
+   (insert name)             Location: Corpus Christi Medical Center-   Bay Area             
+Address:7101 SPID,   Corpus Christi, TX, 78412
+         
+Floor:1st
+             
+Building: BAMC   OR/Endo
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds -2
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   4
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   (example 1 charge, 3 RN, 2 CNA, and 1-3 sitters)
+   
+o
+
+
+   Night Shift - 
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   1:1
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment - Olympus
+   
+ 
+
+
+
+
+
+
+
+   EMR -meditech
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+Endo experience
+   
+ 
+
+
+
+
+
+
+
+   RN   License TX or compact
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+Greater than 1 year of endo experience
+   
+ 
+
+
+
+
+
+
+
+   
+Conscious sedation
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+
+EGDs and Colonoscopies
+   
+ 
+
+
+
+
+
+
+
+   
+ERCPs
+   Best personality Fit:    
+
+
+
+
+
+
+
+   
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   
+
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   Main OR if experienced
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ OR provided scrubs
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   Must be available to take call
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 544436
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8394
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-01
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 15 2023 13:00:58
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771976 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=Corpus Christi Medical Center ;City=Corpus Christi ;State=TX ;Zip=78412 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=RN ;Specialty=OR ;Unit=GULF COAST DIVISION (14) ;Shift=6:30AM-7:00PM;# of Postions=1;Type=Travel;BillRate=$85.00;minBillRate=$80.00;OTRate=93 ;CallbackRate=93 ;HolidayRate=93 ;Orientation=0 ;Description=Description:3 12-hour shifts Friday, Saturday, and Sunday only 0630-1900.   No call required.
+        
+Data Collection:
+          Unit Information:
+   (insert name)             Location: Corpus Christi Medical Center-   Bay Area             
+Address:7101 SPID,   Corpus Christi, TX, 78412
+         
+Floor:1st
+             
+Building: BAMC   OR/Endo
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds -2
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   4
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   (example 1 charge, 3 RN, 2 CNA, and 1-3 sitters)
+   
+o
+
+
+   Night Shift - 
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   1:1
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment - Olympus
+   
+ 
+
+
+
+
+
+
+
+   EMR -meditech
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+Endo experience
+   
+ 
+
+
+
+
+
+
+
+   RN   License TX or compact
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+Greater than 1 year of endo experience
+   
+ 
+
+
+
+
+
+
+
+   
+Conscious sedation
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+
+EGDs and Colonoscopies
+   
+ 
+
+
+
+
+
+
+
+   
+ERCPs
+   Best personality Fit:    
+
+
+
+
+
+
+
+   
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   
+
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   Main OR if experienced
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ OR provided scrubs
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   Must be available to take call
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/771976;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Corpus Christi Medical Center-Bay Area Medical Center Travel
+    [shiftDateEnd] => 2024-04-01
+    [shiftStartTime] => 06:30
+    [subjectID] => 
+)

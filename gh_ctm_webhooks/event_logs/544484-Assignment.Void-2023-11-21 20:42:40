@@ -1,0 +1,129 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4229',
+  'Cf-Ray' => '829bc2b261664951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => "Key Job Responsibilities:1. Provides care to patient and family care that progresses them towards self-identified, holistic, and individualized goals.2. Performs nursing process through individualized assessment, planning, implementation and evaluation of safe, therapeutic, efficient care for patients.3. Promotes quality outcomes.4. Collaborates or seeks additional resources as needed in the management of complex, new/unusual, or other high-risk clinical situations 5. Serves as patient and family advocate in ensuring excellent and satisfying care.Sharp HealthCare Registry RN Discipline - Specific Responsibilities: The Registered Nurse is the direct and indirect provider of safe and therapeutic care for an assigned group of patients. Care is individualized and age specific using the nursing process. null
+
+Skills: Licensure:  CA RN license
+Certifications:  CPR  NIH null
+ Required
+	
+	  RN
+	   CA RN
+	   RN LICENSE
+	   CPR
+	   RN-
+	      
+	
+	
+	
+	Additional
+	
+	            REGISTERED NURSE
+	   THERAPEUTIC
+
+Education: At least three year recent RN experience working in RN role. At least two year recent RN experience working in an specialty area. null
+
+;Languages: 
+ 
+English
+ Read
+ Write
+ Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: Clinical - Nursing - Travel
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 544484
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 2202
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 21 2023 15:42:39
+    [daysPerWeek] => 3
+    [orderNote] => Source=Wand;SourceID=28096043 ;Status=Pending;Client=Sharp HealthCare ;City=San Diego ;State=CA ;Zip=92123 ;Start=12/4/2023;End=3/2/2024;Duration=89;Cert=Clinical - Nursing - Travel ;Specialty=RN-PCU 101-61810 SB 7S/3N Stroke/Neuro 12N ;Unit=100*101*61810 :					 10161810*SBHC 3N Medical PCU 100*101*61810 :  10161810*SBHC 3N Medical PCU ;Shift=12H/N 3x12 Hr;# of Postions=1;Guaranteed Hours=36.00;Type=Travel;BillRate=$97.91;OTRate=$127.28 ;Description="Key Job Responsibilities:1. Provides care to patient and family care that progresses them towards self-identified, holistic, and individualized goals.2. Performs nursing process through individualized assessment, planning, implementation and evaluation of safe, therapeutic, efficient care for patients.3. Promotes quality outcomes.4. Collaborates or seeks additional resources as needed in the management of complex, new/unusual, or other high-risk clinical situations 5. Serves as patient and family advocate in ensuring excellent and satisfying care.Sharp HealthCare Registry RN Discipline - Specific Responsibilities: The Registered Nurse is the direct and indirect provider of safe and therapeutic care for an assigned group of patients. Care is individualized and age specific using the nursing process. null
+
+Skills: Licensure:  CA RN license
+Certifications:  CPR  NIH null
+ Required
+	
+	  RN
+	   CA RN
+	   RN LICENSE
+	   CPR
+	   RN-
+	      
+	
+	
+	
+	Additional
+	
+	            REGISTERED NURSE
+	   THERAPEUTIC
+
+Education: At least three year recent RN experience working in RN role. At least two year recent RN experience working in an specialty area. null
+
+;Languages: 
+ 
+English
+ Read
+ Write
+ Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: Clinical - Nursing - Travel ;url=https://prowand.pro-unlimited.com/supplier/standard/requisition/req_geninfo_view.html?id=28096043&type=REQUISITION&reqProfile=true;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 97.91
+    [facilityName] => Sharp Memorial Hospital
+    [shiftDateEnd] => 2024-03-02
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,218 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '122',
+  'Ki-Request-Colo' => '398',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5212',
+  'Cf-Ray' => '830d49faa58e2d6a-ORD',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Data Collection:
+ HCA Houston Healthcare Kingwood
+
+Unit Information:
+ Medical 1100 Unit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Manager: Kesha Allen, MSN, RN, CMSRN
+
+Location
+
+Address: 22999 Hwy 59 North Kingwood TX 77339
+
+Floor: First Floor
+
+Building: North Tower First Floor
+
+Medical Telemetry
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   28 Capacity (Currently 24 secondary to staffing)Number of Staff   8Type of staff:Day Shift   1 charge, 4 RNs, 2 PCTs, and 1 Unit SecretaryNight Shift   4 RNs, 2 PCTsPatient Ratios   6:1Type of equipment   Telemetry, Vitals Neuron, Bladder Scanner, Aleris IV Pumps, Mobilab, GlucometerEMR - Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+RN License BLS
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+ACLS
+RN Certification
+List typical procedures performed on unit(s): 
+
+
+Wound Vac Dressing Changes
+IV Starts, Insert Nasogastric Tubes, Foley Catheter Inserts, Tracheostomy Care, Peg Tube Site Care
+Best personality Fit:
+
+Open Minded, Solution Oriented, Flexibility, Team Player, Kind, Compassionate, High Energy
+REQUIRED CERTIFICATIONS:
+BLS
+Floating Area(s):
+Only to sister unit: Med/Surg/Tele within same scope of practice
+Dress Code: 
+Scrub Color/Attire - Nurses wear Royal Blue Scrubs
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+Tattoos and body piercings must be covered; Fingernails must be naked, no polish, no acrylic etc.
+
+
+
+Weekends and on call (if any)
+Must be willing to work 3 weekend shifts per month (28-day schedule)
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 534214
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5429
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 05 2023 10:22:58
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=756716 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA Houston Kingwood ;City=Kingwood ;State=TX ;Zip=77339 ;Start=10/9/2023;End=1/8/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=GULF COAST DIVISION (14) ;Shift=7:00PM-7:00AM;# of Postions=1;Type=Travel;BillRate=$70.00;minBillRate=$70.00;OTRate=78 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:Data Collection:
+ HCA Houston Healthcare Kingwood
+
+Unit Information:
+ Medical 1100 Unit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Manager: Kesha Allen, MSN, RN, CMSRN
+
+Location
+
+Address: 22999 Hwy 59 North Kingwood TX 77339
+
+Floor: First Floor
+
+Building: North Tower First Floor
+
+Medical Telemetry
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   28 Capacity (Currently 24 secondary to staffing)Number of Staff   8Type of staff:Day Shift   1 charge, 4 RNs, 2 PCTs, and 1 Unit SecretaryNight Shift   4 RNs, 2 PCTsPatient Ratios   6:1Type of equipment   Telemetry, Vitals Neuron, Bladder Scanner, Aleris IV Pumps, Mobilab, GlucometerEMR - Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+RN License BLS
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+ACLS
+RN Certification
+List typical procedures performed on unit(s): 
+
+
+Wound Vac Dressing Changes
+IV Starts, Insert Nasogastric Tubes, Foley Catheter Inserts, Tracheostomy Care, Peg Tube Site Care
+Best personality Fit:
+
+Open Minded, Solution Oriented, Flexibility, Team Player, Kind, Compassionate, High Energy
+REQUIRED CERTIFICATIONS:
+BLS
+Floating Area(s):
+Only to sister unit: Med/Surg/Tele within same scope of practice
+Dress Code: 
+Scrub Color/Attire - Nurses wear Royal Blue Scrubs
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+Tattoos and body piercings must be covered; Fingernails must be naked, no polish, no acrylic etc.
+
+
+
+Weekends and on call (if any)
+Must be willing to work 3 weekend shifts per month (28-day schedule)
+ General CommentsLocal Fill
+2900000-- CANCELEDAndrea Hines - Travel-RN-1 South Tower-Tele (614) / 7:00PM-7:00AM/ 13 Weeks (2916006
+ No. of Positions: 1/2. ;url=https://vendor.healthtrustws.com/positions/756716;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => KINGWOOD MEDICAL CENTER - TX
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,85 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1833',
+  'Cf-Ray' => '82a3589452896a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 week contract available
+
+	L  D
+
+	36 Hours per week, 12 hour shift, every other weekend
+
+	Holiday as needed
+
+	Experience: Two year experience labor and delivery
+
+	Required: NRP, BLS
+
+	Preferred: ACLS, EFM
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 544210
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2907
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 22 2023 13:48:19
+    [daysPerWeek] => 3
+    [orderNote] => Source=IntrastaffVMS;SourceID=304298 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Howard CNTY General Hospital ;Start=12/18/2023;End=3/17/2024;Duration=90;Cert=MSP RN Enhanced High Needs ;Specialty=2 CX LABOR AND DELIV (6407360000) ;Unit=2 CX LABOR AND DELIV (6407360000) ;Shift=Night 12 (7:00 PM - 7:30 AM);# of Postions=1;Type=Travel;BillRate=$100.00;minBillRate=$100.00;Description=13 week contract available
+
+	L  D
+
+	36 Hours per week, 12 hour shift, every other weekend
+
+	Holiday as needed
+
+	Experience: Two year experience labor and delivery
+
+	Required: NRP, BLS
+
+	Preferred: ACLS, EFM ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=AHBO&ID=1eJyso2NGEU=&BID=RIyck10nhBU=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => JHHS Howard County General Hospital
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

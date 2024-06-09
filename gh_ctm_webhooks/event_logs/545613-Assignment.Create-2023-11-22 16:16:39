@@ -1,0 +1,76 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3238',
+  'Cf-Ray' => '82a27a62f065183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:The Registered Nurse holds shift accountability for providing during the antepartum, intrapatum, immediate postpartum, and neonatal phase of Obstetrical care to Labor and Delivery patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient.
+
+Bill Rate: $95
+1 - Day Shift 6a -630p
+Required:
+BLS, ACLS, NRP and STABLECensus on the unit varies, may also float to other units as needed.
+ General CommentsPCR #1028-009 1028T279634
+ No. of Positions: 2/2.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 545613
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5112
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 18:30
+    [whenmodified] => November, 22 2023 11:16:38
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=775944 ;Status=Open;Association=Community Health Systems ;Client=Eastern New Mexico Medical Center ;City=Roswell ;State=NM ;Zip=88201 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=RN ;Specialty=L&D ;Unit=EXT-Other (911) ;Shift=06:00-18:30;# of Postions=2;Type=Travel;BillRate=$95.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:The Registered Nurse holds shift accountability for providing during the antepartum, intrapatum, immediate postpartum, and neonatal phase of Obstetrical care to Labor and Delivery patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient.
+
+Bill Rate: $95
+1 - Day Shift 6a -630p
+Required:
+BLS, ACLS, NRP and STABLECensus on the unit varies, may also float to other units as needed.
+ General CommentsPCR #1028-009 1028T279634
+ No. of Positions: 2/2.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/775944;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Eastern New Mexico Medical Center
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 06:00
+    [subjectID] => 
+)

@@ -1,0 +1,74 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1675',
+  'Cf-Ray' => '829bd818d78723b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:CONTRACT - RN - BMT/ONC (694) - 7A-7P
+NO ON CALL REQUIRED
+BMT
+ EXP. Oncology
+ and Bone Marrow Transplant
+Preferred Chemo cert.
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Oncol
+    [assignmentid] => 545447
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6727
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-13
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 21 2023 15:57:16
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=769052 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=SOUTH AUSTIN HOSPITAL TX ;City=AUSTIN ;State=TX ;Zip=78704 ;Start=11/13/2023;End=2/12/2024;Duration=91;Cert=RN ;Specialty=Oncology ;Unit=CENTRAL AND WEST TEXAS DIVISION (50) ;Shift=7:00AM - 7:00PM;# of Postions=1;Type=Travel;BillRate=$100.00;OTRate=108 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:CONTRACT - RN - BMT/ONC (694) - 7A-7P
+NO ON CALL REQUIRED
+BMT
+ EXP. Oncology
+ and Bone Marrow Transplant
+Preferred Chemo cert.
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/769052;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => St. David's South Austin Medical Center
+    [shiftDateEnd] => 2024-02-12
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

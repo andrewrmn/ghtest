@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4820',
+  'Cf-Ray' => '82899720a66323c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position DescriptionThe Endoscopy Registered Nurse demonstrates critical thinking skills, scientific judgment and leadership in the anticipation and planning for the care of the patient undergoing diagnostic Endoscopy procedures.  In coordination with other members of the Endoscopy team, the registered nurse is responsible and accountable for the planning, directing and the provision of nursing care to patients in accordance with the state Nurse Practice Act, physician   s orders, recognized nursing techniques, policies, procedures, established standards and administrative policies36 hr  guaranteed   .4/10 hr shifts per week plus oncallDay ShiftparseGeneralComments Comments.bd_title                                  {                                         font-weight: bold;                                  }          		Reason for opening (special, internal vacancy, leave coverage)           		*******************************************************************************           		How long has it been open?           		Will position be required to float to other units?           		Number of beds in your facility?           		Years of experience required?           		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)           		Willing to review clinicians with pending state license?           		Is there anyone in the past that has worked for you that you would consider rehiring?           		What is the work schedule for this position? (days needed, hours or shift) 			EMR for your facility:           		Scrub colors / dress code: 			Parking location:  Contact: Roberta Berry2 Resource Manager: Whitney Nelson OT Rate:?/$93.80 Holiday Rate: ?/$100.50https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=247666&null 
+    [sitename] => giftednurses
+    [spec] => Endoscopy
+    [assignmentid] => 39484
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2018-11-26
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:47:10
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;ID=0;SourceID=247666;Status=Open;Client=Northwest Med Ctr of Oro Valley;City=Oro Valley;State=AZ;Zip=85755;Start=11/26/2018;End=2/25/2019;Duration=91;Cert=Registered Nurse (RN);Specialty=Endoscopy;Unit=1116: ENDOSCOPY;Shift=for this position? (days needed, hours or shift);# of Postions=2;Type=Travel;BillRate=$67.00;OnCallRate=$6.70;Description=Position DescriptionThe Endoscopy Registered Nurse demonstrates critical thinking skills, scientific judgment and leadership in the anticipation and planning for the care of the patient undergoing diagnostic Endoscopy procedures.  In coordination with other members of the Endoscopy team, the registered nurse is responsible and accountable for the planning, directing and the provision of nursing care to patients in accordance with the state Nurse Practice Act, physician   s orders, recognized nursing techniques, policies, procedures, established standards and administrative policies36 hr  guaranteed   .4/10 hr shifts per week plus oncallDay ShiftparseGeneralComments Comments.bd_title                                  {                                         font-weight: bold;                                  }          Reason for opening (special, internal vacancy, leave coverage)           *******************************************************************************           How long has it been open?           Will position be required to float to other units?           Number of beds in your facility?           Years of experience required?           Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)           Willing to review clinicians with pending state license?           Is there anyone in the past that has worked for you that you would consider rehiring?           What is the work schedule for this position? (days needed, hours or shift) EMR for your facility:           Scrub colors / dress code: Parking location:  Contact: Iris Joseph Resource Manager: Whitney Nelson OT Rate:?/$93.80 Holiday Rate: ?/$100.50https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=247666&null;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 67
+    [facilityName] => Northwest Medical Center of Oro Valley
+    [shiftDateEnd] => 2019-02-25
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

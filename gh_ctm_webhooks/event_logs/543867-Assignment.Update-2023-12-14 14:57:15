@@ -1,0 +1,188 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5035',
+  'Cf-Ray' => '83574c4cb6256a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name
+7 Renal - Mercy Hospital Joplin - RN - Mercy Hospital Joplin
+Facility
+Mercy
+
+Location
+Mercy Hospital Joplin
+
+Unit
+Medical Surgical Unit
+
+Cost Center
+50-456030
+FLU
+and
+COVID-19:
+
+
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.SHIFT INFO
+Shift Night
+
+Shifts per week
+3
+
+Hours per shift
+12
+
+Hours: 7pm to 7:30am
+EXPERIENCE
+Years of Experience
+Two Years Plus
+
+Specialties
+Med-Surg
+-
+preferred
+CERTIFICATIONS
+Certifications
+
+BLS
+ 
+required
+
+ACLS - preferred
+DESCRIPTION
+Ratio: 1:6
+
+Renal/Oncology.
+ Our Dialysis patients typically go there.
+ If there is a CAPD patient, one of our nurses would perform the CAPD exchanges. Mainly medical patients.
+ Any IP Chemo is administered by our nurses. ACLS preferred to have it as they would float to other floors such as 7 Medical Cardiac and 3 Surgical Cardiac or a medical unit.
+Utilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards
+Approved Assignment Details:Flexible contract
+length
+- 8-26 weeks
+Flexible Guaranteed Hours - 36 or 48 hours
+
+Blocked scheduling would need facility approval
+ 
+ We will still need confirmation within 5 days of offer
+RTO of 5 days or less, must make up the week on the back end
+
+If requesting any of the above, it must be listed on Mercy Submission Form
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543867
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8970
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-31
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => December, 14 2023 09:57:09
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=772664 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Joplin ;City=Joplin ;State=MO ;Zip=64804 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=Mercy ;Shift=19:00-07:30;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Name
+7 Renal - Mercy Hospital Joplin - RN - Mercy Hospital Joplin
+Facility
+Mercy
+
+Location
+Mercy Hospital Joplin
+
+Unit
+Medical Surgical Unit
+
+Cost Center
+50-456030
+FLU
+and
+COVID-19:
+
+
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.SHIFT INFO
+Shift Night
+
+Shifts per week
+3
+
+Hours per shift
+12
+
+Hours: 7pm to 7:30am
+EXPERIENCE
+Years of Experience
+Two Years Plus
+
+Specialties
+Med-Surg
+-
+preferred
+CERTIFICATIONS
+Certifications
+
+BLS
+ 
+required
+
+ACLS - preferred
+DESCRIPTION
+Ratio: 1:6
+
+Renal/Oncology.
+ Our Dialysis patients typically go there.
+ If there is a CAPD patient, one of our nurses would perform the CAPD exchanges. Mainly medical patients.
+ Any IP Chemo is administered by our nurses. ACLS preferred to have it as they would float to other floors such as 7 Medical Cardiac and 3 Surgical Cardiac or a medical unit.
+Utilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards
+Approved Assignment Details:Flexible contract
+length
+- 8-26 weeks
+Flexible Guaranteed Hours - 36 or 48 hours
+
+Blocked scheduling would need facility approval
+ 
+ We will still need confirmation within 5 days of offer
+RTO of 5 days or less, must make up the week on the back end
+
+If requesting any of the above, it must be listed on Mercy Submission Form
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/772664;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Mercy Hospital Joplin - TRAVEL
+    [shiftDateEnd] => 2024-03-31
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

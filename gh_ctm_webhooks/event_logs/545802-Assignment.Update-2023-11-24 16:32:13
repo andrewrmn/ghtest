@@ -1,0 +1,142 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3784',
+  'Cf-Ray' => '82b30bf4071a23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:RN / Medical Surgical
+BR: $75
+Shift: Nights, 7P-7A, no call, every other weekend13 weeksCandidates must be located at least 50 miles from facility
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+           		*******************************************************************************
+
+
+           		How long has it been open?
+
+
+           		Will position be required to float to other units?
+
+
+           		Number of beds in your facility?
+
+
+           		Years of experience required?
+
+
+           		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+           		Willing to review clinicians with pending state license?
+
+
+           		Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+           		What is the work schedule for this position? (days needed, hours or shift)
+
+
+ 			EMR for your facility:
+
+
+           		Scrub colors / dress code:
+
+
+ 			Parking location:
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545802
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8293
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 24 2023 11:32:13
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=777670 ;Status=Open;Association=Community Health Systems ;Client=Lake Norman Regional Medical Center ;City=Mooresville ;State=NC ;Zip=28117-0000 ;Start=12/18/2022;End=3/19/2023;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=EXT-Other (911) ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:RN / Medical Surgical
+BR: $75
+Shift: Nights, 7P-7A, no call, every other weekend13 weeksCandidates must be located at least 50 miles from facility
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+           		*******************************************************************************
+
+
+           		How long has it been open?
+
+
+           		Will position be required to float to other units?
+
+
+           		Number of beds in your facility?
+
+
+           		Years of experience required?
+
+
+           		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+           		Willing to review clinicians with pending state license?
+
+
+           		Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+           		What is the work schedule for this position? (days needed, hours or shift)
+
+
+ 			EMR for your facility:
+
+
+           		Scrub colors / dress code:
+
+
+ 			Parking location:
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/777670;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Lake Norman Regional Medical Center
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

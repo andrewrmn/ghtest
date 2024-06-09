@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1898',
+  'Cf-Ray' => '849988f995a077ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 10/11/2023 1304 CDTFallon Wiley
+                            
+                            
+                                Must have Texas GMR license Must have ARRT C.T. certificationShifts 8hr days - start time may vary and includes weekdays and weekends
+ RatePlan:Travel Nurse Rates
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 536209
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 10141
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 1
+    [bonus] => 
+    [shiftDateStart] => 2024-01-28
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => January, 22 2024 12:32:13
+    [daysPerWeek] => 5
+    [orderNote] => Source=ShiftWise;SourceID=10606731 ;Status=Open;Association=Harris County Hospital District ;Client=Ben Taub General Hospital ;City=Houston ;State=TX ;Zip=77030 ;Start=1/28/2024;End=4/28/2024;Duration=92;Cert=Rad Tech ;Specialty=CT Technologist ;Unit=BE Radiology Cat Scanner ;Shift=AM 8.00 Hrs;# of Postions=1;Type=Travel;ChargeRate=Additive 3.000 ;CallbackRate=Multiplier 1.500 ;Description=10/11/2023 1304 CDTFallon Wiley
+                            
+                            
+                                Must have Texas GMR license Must have ARRT C.T. certificationShifts 8hr days - start time may vary and includes weekdays and weekends
+ RatePlan:Travel Nurse Rates ;url=https://secure.shiftwise.net/esp/order.aspx?order_id=BE191E5193C36D0CBC1F6DA7715707B3;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => Ben Taub General Hospital - Travel
+    [shiftDateEnd] => 2024-04-28
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

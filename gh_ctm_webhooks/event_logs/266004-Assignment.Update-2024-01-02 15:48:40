@@ -1,0 +1,182 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7126',
+  'Cf-Ray' => '83f425c306f677ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => AUTO OFFER
+
+ICU RN
+13-weeks
+Option for 36 or 48hrs/week
+7p-7a
+Every other weekend
+COVID: Yes
+
+Specialty/Unit: 8 bed ICU with telemetry.
+Specialty Requirements/Years of Experience: ICU (with cardiac experience if possible)
+Licensure: Arkansas or compact state in good standing
+Certifications: ACLS, BLS
+Patient Ratio: 2;1
+EMR: MedHost (experience not required)
+Weekend Requirement (Y/N) please specify: yes, every other weekend
+On Call Requirements: no
+Floating Requirements: Possible float to ER if ICU census are down.
+First Time Traveler: Travel preferred
+Scrub Color: any color ( except denim or camouflage)
+98-bed small community hospital (not critical access)
+
+**SCREENING CRITERIA**
+  BLS
+  ACLS
+  PALS (ER only)
+  Airway management
+  Management of vented patients
+  Artline management
+  Management of dysrhythmias
+  Central line management
+  Management of IV drips
+  Isolation precautions
+  Electronic charting experience
+  Nurse to patient ratios 1:1-2+
+  1 year of recent experience
+
+CRISIS TERMS:
+ Waived non-billable orientation hours
+ Option for 48hrs/week contracts
+ Clinical screening & Auto offers
+ Truncated compliance
+
+
+
+ Modified Time:8/17/2021 1:41:46 AM
+
+ Account Manager: Heather Ryan
+
+ Account Manager Email: Heather.Ryan@qualivis.com
+
+ Over Time Multiplier: 1.25x
+
+ Over Time Rule: Overtime after 48.00 Hours per week
+
+ Call Back: 1.00x
+
+ Charge: $3.00 Bump
+
+ Holiday: 1.25x
+
+ Submittal Details: #Tier1 Crisis ComplianceNeed  3 days at minimum lead time from BOOKING to START to account for crisis compliance
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 266004
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10628
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 1
+    [bonus] => 
+    [shiftDateStart] => 2021-09-07
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 02 2024 10:48:29
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=1429100 ;Status=Open;Association=Qualivis Enhanced PA ;Client=Ouachita County Medical Center Crisis Response ;City=Camden ;State=AR ;Zip=71701 ;Start=9/7/2021;End=12/7/2021;Duration=91;Cert=Registered Nurse ;Specialty=ICU ;Unit=ICU ;Shift=Night (12 Hours) 19:00 7:00;# of Postions=1;Type=Travel;BillRate=$135.00;OTRate=1.25x ;OTRules=Overtime after 48.00 Hours per week ;ChargeRate=$3.00 Bump ;CallbackRate=1.00x ;HolidayRate=1.25x ;OnCallRateDescription=$5.00 ;Orientation=Non-Billable Orientation: 16 Hours If requested by Client, or as otherwise mutually agreed upon in writing between Agency and Client, Agency shall provide to Client an invoice credit for an Agency Staff orientation in accordance with the pertinent schedule:i) up to sixteen (16) hours for Travel / Contract Agency Staff;ii) up to eight (8) hours for Local, Per Diem, Critical, and Rapid Response Agency Staff;iii) for categories of Agency Staff not listed in this subsection as mutually agreed upon in writing between Agency and Client.Clients often offer CPR, ACLS, etc. classes. Should an Agency Staff voluntarily attend a hospital class, the Client will not be billed for the hours spent in class; however, notwithstanding the foregoing, Agency shall be responsible for compensating Agency Staff for all hours worked, including overtime hours, in accordance with applicable federal and state wage and hour law, and Agency shall have the responsibility for compensation of Agency Staff in accordance with applicable law. If a Client requires an Agency Staff attendance at a class, then the Client will be billed for the hours spent in class.From Schedule A1: Regardless of the method of orientation, and at the Client s discretion, Agency shall provide Client with an invoice credit of up to sixteen (16) hours, or as otherwise may be negotiated between Agency and Client, for contract/travel Staff at non-overtime rates for orientation time on Agency s next invoice to Client. Orientation hours may include time spent by Agency Staff in completion of Client-mandated pre-start testing or other compliance requirements. Agency acknowledges that Agency Staff will be appropriately oriented for each Client unit or department.Notwithstanding the foregoing, Agency shall be responsible for compensating for all hours worked by an Agency Staff candidate who prepares for and attends any such orientation in accordance with applicable federal and state wage and hour law. Non-clinical placements, such as environmental services, warehouse staff, administrative services and other similar specialties that are not in direct patient care, may not be subject to orientation hours.In any event, Agency shall be responsible to assure each Agency Staff placed with a Client complies with such Client s orientation requirements. ;Description=AUTO OFFER
+
+ICU RN
+13-weeks
+Option for 36 or 48hrs/week
+7p-7a
+Every other weekend
+COVID: Yes
+
+Specialty/Unit: 8 bed ICU with telemetry.
+Specialty Requirements/Years of Experience: ICU (with cardiac experience if possible)
+Licensure: Arkansas or compact state in good standing
+Certifications: ACLS, BLS
+Patient Ratio: 2;1
+EMR: MedHost (experience not required)
+Weekend Requirement (Y/N) please specify: yes, every other weekend
+On Call Requirements: no
+Floating Requirements: Possible float to ER if ICU census are down.
+First Time Traveler: Travel preferred
+Scrub Color: any color ( except denim or camouflage)
+98-bed small community hospital (not critical access)
+
+**SCREENING CRITERIA**
+  BLS
+  ACLS
+  PALS (ER only)
+  Airway management
+  Management of vented patients
+  Artline management
+  Management of dysrhythmias
+  Central line management
+  Management of IV drips
+  Isolation precautions
+  Electronic charting experience
+  Nurse to patient ratios 1:1-2+
+  1 year of recent experience
+
+CRISIS TERMS:
+ Waived non-billable orientation hours
+ Option for 48hrs/week contracts
+ Clinical screening & Auto offers
+ Truncated compliance
+
+
+
+ Modified Time:8/17/2021 1:41:46 AM
+
+ Account Manager: Heather Ryan
+
+ Account Manager Email: Heather.Ryan@qualivis.com
+
+ Over Time Multiplier: 1.25x
+
+ Over Time Rule: Overtime after 48.00 Hours per week
+
+ Call Back: 1.00x
+
+ Charge: $3.00 Bump
+
+ Holiday: 1.25x
+
+ Submittal Details: #Tier1 Crisis ComplianceNeed  3 days at minimum lead time from BOOKING to START to account for crisis compliance ;url=https://app.ayaconnect.com/index.html#/vendor/job/1429100/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 135
+    [facilityName] => Ouachita County Medical Center - TRAVEL
+    [shiftDateEnd] => 2021-12-07
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

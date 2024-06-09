@@ -1,0 +1,171 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5190',
+  'Cf-Ray' => '83267c2a31a1183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RRT7:00PM - 7:00AM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsHospital: CJW Chippenham Hospital
+
+Location: Respiratory Care
+
+Address: 7101 Jahnke Road, Richmond, VA
+ 23225
+
+Unit Name: 
+Respiratory Care
+
+Building: 
+Main Hospital
+
+Cost Center:
+ 75607
+
+General Information
+
+Unit Specifics: 
+Number of Beds :
+ 478Patient Ratios :
+ N/a   Assignments based on volumeUnit staffing description- (unit secretaries and tech availability) :
+ RT s assigned to units for patient careType of equipment :
+ PB980 vents/V60 NIV/F&amp;P high flowDocumentation system:
+ MeditechScheduling requirements: Every other weekend   12 hour shift 6:45A-7PFloating policy:
+ Float to JW campus as neededPatient Experience requirements: AIDET and Exemplify Core Values at all times
+Hospital Specifics-
+Certifications:
+ BLS, VA licensure to practice as a RCP, RRT credentialed by NBRC 
+Hiring profile
+
+Requested Skill Set:
+
+
+
+
+Must have: 
+
+BLSCritical Care Experience 
+Procedures performed on unit: 
+
+Bedside bronchoscopy
+Dress Code: Navy Scrubs
+
+Any additional information that would entice a worker to select your unit for their assignment: 
+
+Our department has a family feel and culture.
+ We work as a team and care about each other like family.
+ A positive attitude is very important to us.
+ We are a level 1 trauma center and enjoy the many experiences that come along with that.
+ We have a brand new fleet of mechanical ventilators and have ongoing construction for our ED expansion project.
+ Each employee engagement survey, we see many positive items of feedback based on supervisor support for work/life balance as well as the staff feeling supported and cared for.
+ No. of Positions: 1/2.
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 546116
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8325
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-25
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RRT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 08 2023 11:46:31
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=774194 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=CJW MEDICAL CENTER CHIPPENHAM CAMPUS VA ;City=RICHMOND ;State=VA ;Zip=23225 ;Start=12/3/2023;End=3/3/2024;Duration=91;Cert=RRT ;Specialty=Respiratory Therapy ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$70.00;minBillRate=$70.00;OTRate=78 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:TRAVEL RRT7:00PM - 7:00AM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsHospital: CJW Chippenham Hospital
+
+Location: Respiratory Care
+
+Address: 7101 Jahnke Road, Richmond, VA
+ 23225
+
+Unit Name: 
+Respiratory Care
+
+Building: 
+Main Hospital
+
+Cost Center:
+ 75607
+
+General Information
+
+Unit Specifics: 
+Number of Beds :
+ 478Patient Ratios :
+ N/a   Assignments based on volumeUnit staffing description- (unit secretaries and tech availability) :
+ RT s assigned to units for patient careType of equipment :
+ PB980 vents/V60 NIV/F&amp;P high flowDocumentation system:
+ MeditechScheduling requirements: Every other weekend   12 hour shift 6:45A-7PFloating policy:
+ Float to JW campus as neededPatient Experience requirements: AIDET and Exemplify Core Values at all times
+Hospital Specifics-
+Certifications:
+ BLS, VA licensure to practice as a RCP, RRT credentialed by NBRC 
+Hiring profile
+
+Requested Skill Set:
+
+
+
+
+Must have: 
+
+BLSCritical Care Experience 
+Procedures performed on unit: 
+
+Bedside bronchoscopy
+Dress Code: Navy Scrubs
+
+Any additional information that would entice a worker to select your unit for their assignment: 
+
+Our department has a family feel and culture.
+ We work as a team and care about each other like family.
+ A positive attitude is very important to us.
+ We are a level 1 trauma center and enjoy the many experiences that come along with that.
+ We have a brand new fleet of mechanical ventilators and have ongoing construction for our ED expansion project.
+ Each employee engagement survey, we see many positive items of feedback based on supervisor support for work/life balance as well as the staff feeling supported and cared for.
+ No. of Positions: 1/2. ;url=https://vendor.healthtrustws.com/positions/774194;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Chippenham Medical Center
+    [shiftDateEnd] => 2024-03-25
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

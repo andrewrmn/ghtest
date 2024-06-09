@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1751',
+  'Cf-Ray' => '82d4e358a3d723b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 9 bed ER in Port Lavaca, TX. Day nurse. 12 hour shifts 7A to 7P.  6 days on 8 days off. Uses T-system in ER and CPSI.   Position Urgency:Normal Billing string = Memorial Medical Center - Port Lavaca
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 546061
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5987
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-22
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 28 2023 14:06:25
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262190 ;Status=Open;Association=Memorial Medical Center - Port Lavaca ;Client=Memorial Medical Center - Port Lavaca ;City=Port Lavaca ;State=TX ;Zip=77979 ;Start=12/22/2023;End=2/2/2024;Duration=42;Cert=Nursing ;Specialty=Emergency Room Nurse ;Unit=Emergency Room Nurse ;Shift=Day shift ;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=90 ;OTRules=By The Week, after 40, ;HolidayRate=90 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=9 bed ER in Port Lavaca, TX. Day nurse. 12 hour shifts 7A to 7P.  6 days on 8 days off. Uses T-system in ER and CPSI.   Position Urgency:Normal Billing string = Memorial Medical Center - Port Lavaca ;url=https://vms.medefis5.com/jobs/262190;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Memorial Medical Center - Port Lavaca
+    [shiftDateEnd] => 2024-02-02
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

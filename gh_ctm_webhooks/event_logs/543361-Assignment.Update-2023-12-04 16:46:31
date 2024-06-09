@@ -1,0 +1,71 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2052',
+  'Cf-Ray' => '830586a832db1464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Lutheran Hospital  Travel Intermediate Care/Step-down Unit/Progressive Care Unit RN
+ Start: ASAP
+ Duration: 13 weeks
+ Shift: Days, 7a-7p, EOH, Every 3rd Weekend, No call  **$90/hr rate approved**Cardiac drip, art lines, post procedure care, &amp; neuro experience required**NIHSS certification required
+ General Comments
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 543361
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8294
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 04 2023 11:46:31
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=773798 ;Status=Open;Association=Community Health Systems ;Client=Lutheran Hospital ;City=Fort Wayne ;State=IN ;Zip=46804 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=RN ;Specialty=PCU ;Unit=EXT-Other (911) ;Shift=07:00-19:00;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Lutheran Hospital  Travel Intermediate Care/Step-down Unit/Progressive Care Unit RN
+ Start: ASAP
+ Duration: 13 weeks
+ Shift: Nights 7p-7a, EOH, Every other Weekend, No call  **$90/hr rate approved**Cardiac drip, art lines, post procedure care, &amp; neuro experience required**NIHSS certification required
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/773798;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Lutheran Hospital - Parallon Travel
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

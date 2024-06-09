@@ -1,0 +1,194 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '11299',
+  'Cf-Ray' => '8307b8bbe4a81465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 weeks
+36 hrs/wk
+7a-7:30p
+
+Job Title:  MR Technologist 		  	Department/Subsidiary:  Radiology - MRI
+
+Effective Date: January 2023 		Job Code: Y0387
+
+JOB SUMMARY 
+The MR Technologist maintains all standards of the Magnetic Resonance (MR) Area as established by the Department of Radiology
+
+ORGANIZATIONAL SUMMARY      
+A.	Reports to: MR Supervisor
+B.	Supervises: N/A
+C.	Key Working Relationships: Radiologists, Nursing Units, Radiology Staff, Emergency Department, Emergency Center
+D.	Primary Customer Groups: General Public, Medical Staff, Patients, and families. 
+E.	Age/Population of Patients Served:
+
+	Neonatal		Adolescent		Geriatric
+	Pediatric		Adult	X 	All Ages
+
+ESSENTIAL FUNCTIONS  
+A.	Accurately identifies and transports patients to and from MR
+B.	Prepares patient and scan room for MR procedures.  Completes required consents and/or checklists/forms.  Performs venipuncture on patients from adolescent to geriatric patients.
+C.	Assists Mercy One Radiology office with scheduling of MR exams.  Reviews MR protocol with Radiologist. Responds to telephone inquiries and provides accurate information to customers of all age groups.
+D.	Ensures the safety of all persons entering MR.  Instructs others on MR safety policies and procedures. 
+E.	Performs Radiology Information System (RIS) and Hospital Information System (HIS) functions.  Ensures proper billing for MR exams. 
+F.	Completes MR-related clerical functions and PACS functions.  Saves, verifies, and performs all image manipulation on PACS for each patient scanned. Sends images to StatRad and verifies patient information during designated hours.  
+G.	Attends to restocking of linen and supplies.  Assists with cleaning of magnets, coils and other equipment. Performs and monitors quality assurance measures in MR. 
+H.	Provides excellent customer service to all internal and external customers.
+I.	Maintains documentation for American Registry of Radiologic Technologists clinical competencies for MR. 
+J.	Maintains required department confidentiality and abides by HIPPA regulations.
+K.	Provides competent patient care to the above indicated patient populations by obtaining and appropriately interpreting data, making appropriate decisions based on demonstrated knowledge of age-specific growth and development, and appropriately adapting procedures and treatments.
+L.	Takes an active role in enhancing ability to carry out job functions through personal and professional/job-related growth and development and participates in medical center and/or departmental education programs.
+M.	Communicates with and performs duties following the philosophy of Mercy One North Iowa and the Sisters of Mercy reflecting the organization s Mission, Values, and Cultural Beliefs.
+N.	Supports and abides by all medical center, departmental, and safety policies and procedures.  Proactively identifies safety concerns surrounding the work environment. 
+O.	Performs other responsibilities as requested by supervisor, manager, or department head.
+
+ADDITIONAL FUNCTIONS  
+1.	Is prepared to assume responsibility for the MR Area in the absence of the Supervisor.
+2.	Assists with training and education of MRI interns and Radiology students
+3.	Assists in other areas of Radiology if necessary. 
+
+POSITION QUALIFICATIONS
+A.	Education [formal]: 
+1.	Must be credentialed in Radiology by the American Registry of Radiologic Technologists (ARRT). 
+2.	Must be credentialed in Magnetic Resonance by the American Registry of Radiologic Technologists (ARRT) or must be board eligible. Must complete boards within 12 months of hire date. 
+B.	 Experience:  Must have demonstrated competencies as a Diagnostic Radiographer.  Previous MR or CT experience preferred
+C.	Special Skills and Competencies: 
+1.	 May be required to alternate shifts. 
+2.	 May be required to take call.
+3.	Must be able to read, write and/or speak English.
+
+  
+
+  X	Must provide proof of Basic Life Support (BLS Provider, American Heart Association; or American Red Cross, Professional Rescuer-LIVE class only) via current card prior to employment or within 60 days of hire and maintains current status.
+
+  X	Must provide proof of Mandatory Reporting for Child and Dependent Adult Abuse training prior to employment or within 6 months of hire and maintain current status per State of Iowa guidelines
+
+NA	Completes Advanced Cardiac Life Support (ACLS)   American Heart Association within 6 months of hire and maintains current status.
+
+NA	Completes Pediatric Advance Life Support (PALS)   American Heart Association within 6 months of hire and maintains current status.
+
+NA	Completes Neonatal Resuscitation Program (NRP)   American Heart Association within 6 months of hire and maintains current status.
+
+NA	Completes MANDT Training within 6 months of hire and maintains current status.
+
+NA	Completes Trauma Nurse Core Course (TNCC) within 6 months of hire and maintains current status.
+    [sitename] => giftednurses
+    [spec] => MRI
+    [assignmentid] => 538525
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12691
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => MRI Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 04 2023 18:09:54
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=47896 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne North Iowa Medical Center ;City=Mason City ;State=IA ;Zip=50401 ;Start=11/19/2023;End=2/17/2024;Duration=90;Cert=MRI Tech ;Specialty=MRI ;Unit=IA\MercyOne North Iowa\MRI Tech ;Shift=7a-7p;# of Postions=1;Type=Travel;BillRate=$78.00;OTRate=101.40 ;ChargeRate=81.00 ;CallbackRate=101.40 ;HolidayRate=101.40 ;Orientation=0.00 ;Description=13 weeks
+36 hrs/wk
+7a-7:30p
+
+Job Title:  MR Technologist 		  	Department/Subsidiary:  Radiology - MRI
+
+Effective Date: January 2023 		Job Code: Y0387
+
+JOB SUMMARY 
+The MR Technologist maintains all standards of the Magnetic Resonance (MR) Area as established by the Department of Radiology
+
+ORGANIZATIONAL SUMMARY      
+A.	Reports to: MR Supervisor
+B.	Supervises: N/A
+C.	Key Working Relationships: Radiologists, Nursing Units, Radiology Staff, Emergency Department, Emergency Center
+D.	Primary Customer Groups: General Public, Medical Staff, Patients, and families. 
+E.	Age/Population of Patients Served:
+
+	Neonatal		Adolescent		Geriatric
+	Pediatric		Adult	X 	All Ages
+
+ESSENTIAL FUNCTIONS  
+A.	Accurately identifies and transports patients to and from MR
+B.	Prepares patient and scan room for MR procedures.  Completes required consents and/or checklists/forms.  Performs venipuncture on patients from adolescent to geriatric patients.
+C.	Assists Mercy One Radiology office with scheduling of MR exams.  Reviews MR protocol with Radiologist. Responds to telephone inquiries and provides accurate information to customers of all age groups.
+D.	Ensures the safety of all persons entering MR.  Instructs others on MR safety policies and procedures. 
+E.	Performs Radiology Information System (RIS) and Hospital Information System (HIS) functions.  Ensures proper billing for MR exams. 
+F.	Completes MR-related clerical functions and PACS functions.  Saves, verifies, and performs all image manipulation on PACS for each patient scanned. Sends images to StatRad and verifies patient information during designated hours.  
+G.	Attends to restocking of linen and supplies.  Assists with cleaning of magnets, coils and other equipment. Performs and monitors quality assurance measures in MR. 
+H.	Provides excellent customer service to all internal and external customers.
+I.	Maintains documentation for American Registry of Radiologic Technologists clinical competencies for MR. 
+J.	Maintains required department confidentiality and abides by HIPPA regulations.
+K.	Provides competent patient care to the above indicated patient populations by obtaining and appropriately interpreting data, making appropriate decisions based on demonstrated knowledge of age-specific growth and development, and appropriately adapting procedures and treatments.
+L.	Takes an active role in enhancing ability to carry out job functions through personal and professional/job-related growth and development and participates in medical center and/or departmental education programs.
+M.	Communicates with and performs duties following the philosophy of Mercy One North Iowa and the Sisters of Mercy reflecting the organization s Mission, Values, and Cultural Beliefs.
+N.	Supports and abides by all medical center, departmental, and safety policies and procedures.  Proactively identifies safety concerns surrounding the work environment. 
+O.	Performs other responsibilities as requested by supervisor, manager, or department head.
+
+ADDITIONAL FUNCTIONS  
+1.	Is prepared to assume responsibility for the MR Area in the absence of the Supervisor.
+2.	Assists with training and education of MRI interns and Radiology students
+3.	Assists in other areas of Radiology if necessary. 
+
+POSITION QUALIFICATIONS
+A.	Education [formal]: 
+1.	Must be credentialed in Radiology by the American Registry of Radiologic Technologists (ARRT). 
+2.	Must be credentialed in Magnetic Resonance by the American Registry of Radiologic Technologists (ARRT) or must be board eligible. Must complete boards within 12 months of hire date. 
+B.	 Experience:  Must have demonstrated competencies as a Diagnostic Radiographer.  Previous MR or CT experience preferred
+C.	Special Skills and Competencies: 
+1.	 May be required to alternate shifts. 
+2.	 May be required to take call.
+3.	Must be able to read, write and/or speak English.
+
+  
+
+  X	Must provide proof of Basic Life Support (BLS Provider, American Heart Association; or American Red Cross, Professional Rescuer-LIVE class only) via current card prior to employment or within 60 days of hire and maintains current status.
+
+  X	Must provide proof of Mandatory Reporting for Child and Dependent Adult Abuse training prior to employment or within 6 months of hire and maintain current status per State of Iowa guidelines
+
+NA	Completes Advanced Cardiac Life Support (ACLS)   American Heart Association within 6 months of hire and maintains current status.
+
+NA	Completes Pediatric Advance Life Support (PALS)   American Heart Association within 6 months of hire and maintains current status.
+
+NA	Completes Neonatal Resuscitation Program (NRP)   American Heart Association within 6 months of hire and maintains current status.
+
+NA	Completes MANDT Training within 6 months of hire and maintains current status.
+
+NA	Completes Trauma Nurse Core Course (TNCC) within 6 months of hire and maintains current status. ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 78
+    [facilityName] => Mercy Medical Center - North Iowa East Travel
+    [shiftDateEnd] => 2024-03-23
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

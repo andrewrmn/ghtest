@@ -1,0 +1,85 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3227',
+  'Cf-Ray' => '8328abc932fd1464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 1.5 YEARS ECHO TECH  PEDS EXP. REQUIRED 
+
+PALS/BLS REQUIRED 
+
+50 MILE RADIUS RULE
+
+ Modified Time:12/18/2023 5:00:00 AM
+ Account Manager: Peyton Henley
+ Account Manager Email: Peyton.Henley@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceSSN - YesDOB - YesRTO - Yes# of jobs in system we can sub   no limit2 years experience requiredLicense in hand or compact required at submissionMile Radius Rule Applies   no limitReferences Required   2 reference &nbsp;Local Rules   accepted at same rateFloating: travelers may float to different unitCopy of Certifications   not required for submittalNo specific charting requiredBill rate (for hospitals that use bidding system)   rate postedBackground Policy to be noted prior to submission   facility is open to some with an explanation
+    [sitename] => giftednurses
+    [spec] => Echocardiography
+    [assignmentid] => 545289
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 9618
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Echo Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => December, 08 2023 18:08:33
+    [daysPerWeek] => 5
+    [orderNote] => Source=AYA;SourceID=2317046 ;Status=Open;Association=Qualivis EPA ;Client=East Tennessee Childrens Hospital ;City=Knoxville ;State=TN ;Zip=37916 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Radiology / Cardiology ;Specialty=Echo Tech/Cardiac Sonographed Pediatrics ;Unit=Echo Lab, 01.620 ;Shift=Day 5x8-Hour (08:00 - 17:00);# of Postions=1;Type=Travel;BillRate=$120.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=1.5 YEARS ECHO TECH  PEDS EXP. REQUIRED 
+
+PALS/BLS REQUIRED 
+
+50 MILE RADIUS RULE
+
+ Modified Time:12/18/2023 5:00:00 AM
+ Account Manager: Peyton Henley
+ Account Manager Email: Peyton.Henley@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceSSN - YesDOB - YesRTO - Yes# of jobs in system we can sub   no limit2 years experience requiredLicense in hand or compact required at submissionMile Radius Rule Applies   no limitReferences Required   2 reference &nbsp;Local Rules   accepted at same rateFloating: travelers may float to different unitCopy of Certifications   not required for submittalNo specific charting requiredBill rate (for hospitals that use bidding system)   rate postedBackground Policy to be noted prior to submission   facility is open to some with an explanation ;url=https://app.ayaconnect.com/index.html#/vendor/job/2317046/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 120
+    [facilityName] => East Tennessee Children's Hospital
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

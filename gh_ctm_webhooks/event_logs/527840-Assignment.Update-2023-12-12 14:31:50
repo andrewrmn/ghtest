@@ -1,0 +1,108 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3530',
+  'Cf-Ray' => '8346ac56b49e6a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TriStar Skyline Medical Center is a 233-bed HCA facility located in Nashville, Tennessee. The Center is home to the state's first
+comprehensive stroke center
+and is one of the national leaders in
+neuroscience.
+
+
+TriStar Skyline has earned many
+awards and accreditations, including an Outstanding Achievement Award from the Commission on
+Cancer, an Accredited
+Chest Pain Center
+with PCI by the Society of Cardiovascular Patient Care, and a Top Performer on Key Quality Measures by The Joint Commission. Staff members
+say
+the Center's emphasis on open communication and the many certification opportunities make them feel like valued employees.
+
+
+The Center's location is close to the
+Opryland/Music Valley
+neighborhood of Nashville, known for its attractions like the
+Grand Ole Opry
+and the
+Two Rivers Mansion. The facility is also about 15 minutes from
+Downtown, which has endless entertainment venues and restaurants. For a place full of vibrancy and southern charm, look no further than
+Music City.
+ General Comments
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 527840
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2835
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 12 2023 09:31:48
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=750295 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=SKYLINE MEDICAL CENTER ;City=NASHVILLE ;State=TN ;Zip=37211 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=TRISTAR DIVISION (7) ;Shift=7:00PM-7:00AM;# of Postions=1;Type=Travel;BillRate=$73.00;minBillRate=$73.00;OTRate=81 ;CallbackRate=81 ;HolidayRate=81 ;Orientation=0 ;Description=Description:TriStar Skyline Medical Center is a 233-bed HCA facility located in Nashville, Tennessee. The Center is home to the state's first
+comprehensive stroke center
+and is one of the national leaders in
+neuroscience.
+
+
+TriStar Skyline has earned many
+awards and accreditations, including an Outstanding Achievement Award from the Commission on
+Cancer, an Accredited
+Chest Pain Center
+with PCI by the Society of Cardiovascular Patient Care, and a Top Performer on Key Quality Measures by The Joint Commission. Staff members
+say
+the Center's emphasis on open communication and the many certification opportunities make them feel like valued employees.
+
+
+The Center's location is close to the
+Opryland/Music Valley
+neighborhood of Nashville, known for its attractions like the
+Grand Ole Opry
+and the
+Two Rivers Mansion. The facility is also about 15 minutes from
+Downtown, which has endless entertainment venues and restaurants. For a place full of vibrancy and southern charm, look no further than
+Music City.
+ General Comments
+ No. of Positions: 1/2.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/750295;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 73
+    [facilityName] => Skyline Medical Center
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

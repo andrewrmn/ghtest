@@ -1,0 +1,96 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '43',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4416',
+  'Cf-Ray' => '835f2be642d21840-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Unit: Radiology - Mercy Hospital Logan County
+Specialty: Radiology Technologist
+Shift: Days,
+3x12,
+
+0800-1630
+Guaranteed Hours: 36
+Assignment Length: 13 weeks
+Required Certifications:
+Radiologic Technology Certification
+-
+preferred
+RRA
+-
+required
+Required Experience: 3
+yearsMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsUnit: Radiology Speciality: Radiological Technologist Location: West Facility: Mercy Logan County Shift: 3-12s weekend nights [36 hours] Overview The Radiologic Technologist works under the supervision of the Administrative Supervisor and/or Director, and arranges patients in a safe and efficient manner for radiological examinations, produces radiographs (x-rays) to aid in the diagnosis of medical problems. Education: Secondary and some post-secondary. Graduate of an accredited Radiological Technologist program or 6 months of graduation of an accredited Radiological Technologist program. Licensure: ARRT Registered in Radiography, or if new graduate registry eligible. Experience: 2 years preferred but new grads welcome. Other: Excellent communication, analytical and organizational skills are required, and must be familiar with a variety of the field's concepts, practices, and procedures. Operate various types of office equipment, including a computer, fax machine, telephone, printer and copy machine. Preferred Certifications: American Registry of Radiologic Technology-Radiology (required) and CT (preferred but can obtain)
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 544379
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15975
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-31
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 15 2023 08:52:53
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=775796 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Logan County ;City=Guthrie ;State=OK ;Zip=73044 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Rad Tech ;Specialty=Radiology ;Unit=Mercy ;Shift=07:00-19:00;# of Postions=1;Type=Travel;BillRate=$65.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Unit: Radiology - Mercy Hospital Logan County
+Specialty: Radiology Technologist
+Shift: Days,
+3x12,
+
+0800-1630
+Guaranteed Hours: 36
+Assignment Length: 13 weeks
+Required Certifications:
+Radiologic Technology Certification
+-
+required
+RRA
+-
+required
+Required Experience: 3
+yearsMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsUnit: Radiology Speciality: Radiological Technologist Location: West Facility: Mercy Logan County Shift: 3-12s weekend nights [36 hours] Overview The Radiologic Technologist works under the supervision of the Administrative Supervisor and/or Director, and arranges patients in a safe and efficient manner for radiological examinations, produces radiographs (x-rays) to aid in the diagnosis of medical problems. Education: Secondary and some post-secondary. Graduate of an accredited Radiological Technologist program or 6 months of graduation of an accredited Radiological Technologist program. Licensure: ARRT Registered in Radiography, or if new graduate registry eligible. Experience: 2 years preferred but new grads welcome. Other: Excellent communication, analytical and organizational skills are required, and must be familiar with a variety of the field's concepts, practices, and procedures. Operate various types of office equipment, including a computer, fax machine, telephone, printer and copy machine. Preferred Certifications: American Registry of Radiologic Technology-Radiology (required) and CT (preferred but can obtain)
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/775796;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Mercy Hospital Logan County- Travel
+    [shiftDateEnd] => 2024-03-31
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

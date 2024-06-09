@@ -1,0 +1,255 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5210',
+  'Cf-Ray' => '82a3e4b320a623b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL
+ - ULTRASOUND TECH - (729) Wesley MC - 7A - 7P - EXT
+Unit Information:
+
+Ultrasound Tech (729)Location:
+Wesley Medical Center
+Address:
+550 N Hillside
+
+Floor:
+Main
+
+Building:
+4
+
+
+
+General InformationTell us about the unit(s):Number of Beds
+  450 staffed bed facility (capacity 700)Number of Staff  
+30Type of staff:1st
+Shift  
+Ultrasound techs x 62nd
+Shift
+ 
+ultrasound techs x 3[] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3rd
+shift   ultrasound techs x 2Patient
+volumes
+ 
+
+Monthly avg. 2100Type of equipment -
+
+GEEMR -
+MeditechTypical hiring profileSkill Set Most recruited for:
+ (Travel RNs, local CNAs and sitters)
+
+Must have:
+ candidates without these skills will not be considered for the role.
+General ultrasound registeredVascular ultrasound registered
+Preferred or nice to have:
+ candidates with these skills will be considered first.
+
+TCD
+Procedural exp.
+List typical procedures performed on unit(s):
+
+
+
+
+Abd.US, vascular, OB, pediatric, sm parts
+Level 1 trauma failityBest personality Fit:Hard worker
+Positive attitude
+Unit Guidelines/Policies:
+Please feel free to attach unit policies and guidelines.
+
+
+
+
+Any additional information that would entice a worker to select your unit for their assignment:
+
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc.
+
+*Remember it is a
+very
+competitive market any information you can provide will help attract talent.
+
+
+
+We have a progressive department who focuses on quality exams, we do a large variety of studies, our radiologist s view all studies and we have an outstanding team who work together well.
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Ultrasound Tech
+    [assignmentid] => 545567
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1282
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Ultrasound Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 22 2023 15:23:54
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=769582 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=WESLEY MEDICAL CENTER KS ;City=WICHITA ;State=KS ;Zip=67214 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Ultrasound Tech/Sonographer ;Specialty=Radiology ;Unit=CONTINENTAL DIVISION (10) ;Shift=7A-7P;# of Postions=1;Type=Travel;BillRate=$95.00;OTRate=103 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL
+ - ULTRASOUND TECH - (729) Wesley MC - 7A - 7P - EXT
+Unit Information:
+
+Ultrasound Tech (729)Location:
+Wesley Medical Center
+Address:
+550 N Hillside
+
+Floor:
+Main
+
+Building:
+4
+
+
+
+General InformationTell us about the unit(s):Number of Beds
+  450 staffed bed facility (capacity 700)Number of Staff  
+30Type of staff:1st
+Shift  
+Ultrasound techs x 62nd
+Shift
+ 
+ultrasound techs x 3[] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3rd
+shift   ultrasound techs x 2Patient
+volumes
+ 
+
+Monthly avg. 2100Type of equipment -
+
+GEEMR -
+MeditechTypical hiring profileSkill Set Most recruited for:
+ (Travel RNs, local CNAs and sitters)
+
+Must have:
+ candidates without these skills will not be considered for the role.
+General ultrasound registeredVascular ultrasound registered
+Preferred or nice to have:
+ candidates with these skills will be considered first.
+
+TCD
+Procedural exp.
+List typical procedures performed on unit(s):
+
+
+
+
+Abd.US, vascular, OB, pediatric, sm parts
+Level 1 trauma failityBest personality Fit:Hard worker
+Positive attitude
+Unit Guidelines/Policies:
+Please feel free to attach unit policies and guidelines.
+
+
+
+
+Any additional information that would entice a worker to select your unit for their assignment:
+
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc.
+
+*Remember it is a
+very
+competitive market any information you can provide will help attract talent.
+
+
+
+We have a progressive department who focuses on quality exams, we do a large variety of studies, our radiologist s view all studies and we have an outstanding team who work together well.
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/769582;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Wesley Medical Center Travel
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

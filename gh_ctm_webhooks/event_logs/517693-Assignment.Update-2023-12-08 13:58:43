@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '934',
+  'Cf-Ray' => '83258657264c1834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Last shift worked was 11-07-23
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 517693
+    [workerID] => 134701
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13727
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-08-22
+    [workerLastName] => Lindsey
+    [shiftNum] => 5
+    [workerFirstName] => Keandra
+    [cert] => RN
+    [floorDesc] => Float Pool
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 08 2023 08:58:42
+    [daysPerWeek] => 3
+    [orderNote] => BR:$85lRS:131670lFTK:API
+OnCl:P$3/B$5
+Orient:$20lNonBill:0hrs
+    [guaranteedMinimum] => 
+    [workerEmail] => ginabell41@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Anderson Regional Medical Center TRAVEL MEDEFIS
+    [shiftDateEnd] => 2023-11-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

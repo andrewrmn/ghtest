@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '958',
+  'Cf-Ray' => '82dc4757e67223b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => RFQ1600503 D12/30/22 thru 2/28/24
+1 year/BLS, ACLS, PALS, TNCC
+Days and nights!
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 532689
+    [workerID] => 56791
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7515
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-24
+    [workerLastName] => Prickett
+    [shiftNum] => 5
+    [workerFirstName] => Joel
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 29 2023 11:38:01
+    [daysPerWeek] => 3
+    [orderNote] => $1.54 Insurance Stipend
+RTO:12/22/23-01/05/24
+On call $5.00 bill/$3.00 pay
+    [guaranteedMinimum] => 
+    [workerEmail] => jtp3jtp3@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => IHS-Kayenta Health Center
+    [shiftDateEnd] => 2024-02-29
+    [shiftStartTime] => 18:30
+    [subjectID] => 
+)

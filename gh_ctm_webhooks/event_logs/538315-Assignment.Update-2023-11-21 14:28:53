@@ -1,0 +1,588 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '10575',
+  'Cf-Ray' => '82999f2a07481830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:MISSION HOSPITAL!!!!
+Mission Hospital is a 816-bed healthcare facility located in Asheville, North Carolina. The hospital is known for being the region's only Level II
+trauma center, as well as being home to the only
+children's hospital
+in the western portion of the state.
+
+
+Mission Hospital offers a variety of
+services, including
+women's services,
+sports medicine, and
+neurological care. The hospital's
+cardiovascular services
+include the only open heart and interventional cardiology in the region. The quality of the facility's services has earned much
+recognition, such as being named among the nation's best hospitals by U.S. News &amp; World Report, Truven Health Analytics, and
+Healthgrades.
+
+
+The on-site
+Mission Children's Hospital
+features 97 beds dedicated to infants and children, including a 51-bed Level III
+NICU. The hospital's pediatric services have also earned numerous awards and accreditations, like a 5-Star Service Excellence Award in the area of children's orthopedics from Professional Research Consultants.
+
+
+Overall, staff members
+say
+that Mission Hospital is a great place to work because of the friendly atmosphere, supportive management, and opportunities for growth.
+
+
+Known for its thriving
+arts
+community and natural beauty, the city of Asheville is located in western North Carolina along the
+Blue Ridge Mountains. The city features a bustling
+Downtown
+and several
+unique museums, such as the
+Asheville Pinball Museum
+and the
+Asheville Mystery Museum. With so much to
+see and do, you'll find something for everyone in Asheville.
+ General CommentsUnit Information:
+   (E5 CARD)             Location:              
+Address: 509   Biltmore Ave., Asheville, NC 28801
+         
+Floor: 5th   floor
+             
+Building: Owen   Heart Center (Heart Tower)
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds - 40
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   1 Charge Nurse/ 10   staff/bedside nurses/4 PCTs/1 Unit Secretary
+   
+o
+
+
+   Night Shift   1 Charge Nurse/10   staff/bedside nurses/3 PCTs
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios  1:4; stretch staffing   at 1:5 ratio 
+   
+ 
+
+
+
+
+
+
+
+   Type of patients: patients with CHF,   MI, CP, arrhythmia, Pulmonary Hypertension; valvular disease, endocarditis;   DKA; post cardiac cath/stent; post pacer/ICD/ ablation.
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment: Zoll, Baxter pump,   lift equipments, bladder scanner; 
+   
+ 
+
+
+
+
+
+
+
+   EMR - Cerner
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   Stepdown   or progressive care experience 
+   
+ 
+
+
+
+
+
+
+
+   Telemetry   experience
+   
+ 
+
+
+
+
+
+
+
+   Experience   with titratable or cardiac IV medications like nitroglycerine, Cardizem,   amiodarone, dopamine, dobutrex, insulin drip, heparin, bumex/Lasix; etc.
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   Experience   with prostacyclins (Flolan, Veletri, Remodulin).
+   
+ 
+
+
+
+
+
+
+
+   Relief   charge experience
+   
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   Bedside   Cardioversion
+ 
+   
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Flexible, positive attitude,   great team player, compassionate
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   BLS, ACLS
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   All MedSurg units, Stepdown units, COVID unit, and ER holding.
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire - all white or all navy   blue or white top and navy blue pants.
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   Will be   discussed during orientation
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   Every other weekend
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 538315
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11849
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 21 2023 09:28:45
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=768039 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=MISSION HOSPITAL ;City=ASHEVILLE ;State=NC ;Zip=28801 ;Start=11/13/2023;End=2/12/2024;Duration=91;Cert=RN ;Specialty=PCU ;Unit=NORTH CAROLINA DIVISION (51) ;Shift=7:00PM - 7:00AM;# of Postions=2;Type=Travel;BillRate=$80.00;OTRate=88 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:MISSION HOSPITAL!!!!
+Mission Hospital is a 816-bed healthcare facility located in Asheville, North Carolina. The hospital is known for being the region's only Level II
+trauma center, as well as being home to the only
+children's hospital
+in the western portion of the state.
+
+
+Mission Hospital offers a variety of
+services, including
+women's services,
+sports medicine, and
+neurological care. The hospital's
+cardiovascular services
+include the only open heart and interventional cardiology in the region. The quality of the facility's services has earned much
+recognition, such as being named among the nation's best hospitals by U.S. News &amp; World Report, Truven Health Analytics, and
+Healthgrades.
+
+
+The on-site
+Mission Children's Hospital
+features 97 beds dedicated to infants and children, including a 51-bed Level III
+NICU. The hospital's pediatric services have also earned numerous awards and accreditations, like a 5-Star Service Excellence Award in the area of children's orthopedics from Professional Research Consultants.
+
+
+Overall, staff members
+say
+that Mission Hospital is a great place to work because of the friendly atmosphere, supportive management, and opportunities for growth.
+
+
+Known for its thriving
+arts
+community and natural beauty, the city of Asheville is located in western North Carolina along the
+Blue Ridge Mountains. The city features a bustling
+Downtown
+and several
+unique museums, such as the
+Asheville Pinball Museum
+and the
+Asheville Mystery Museum. With so much to
+see and do, you'll find something for everyone in Asheville.
+ General CommentsUnit Information:
+   (E5 CARD)             Location:              
+Address: 509   Biltmore Ave., Asheville, NC 28801
+         
+Floor: 5th   floor
+             
+Building: Owen   Heart Center (Heart Tower)
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds - 40
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   1 Charge Nurse/ 10   staff/bedside nurses/4 PCTs/1 Unit Secretary
+   
+o
+
+
+   Night Shift   1 Charge Nurse/10   staff/bedside nurses/3 PCTs
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios  1:4; stretch staffing   at 1:5 ratio 
+   
+ 
+
+
+
+
+
+
+
+   Type of patients: patients with CHF,   MI, CP, arrhythmia, Pulmonary Hypertension; valvular disease, endocarditis;   DKA; post cardiac cath/stent; post pacer/ICD/ ablation.
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment: Zoll, Baxter pump,   lift equipments, bladder scanner; 
+   
+ 
+
+
+
+
+
+
+
+   EMR - Cerner
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   Stepdown   or progressive care experience 
+   
+ 
+
+
+
+
+
+
+
+   Telemetry   experience
+   
+ 
+
+
+
+
+
+
+
+   Experience   with titratable or cardiac IV medications like nitroglycerine, Cardizem,   amiodarone, dopamine, dobutrex, insulin drip, heparin, bumex/Lasix; etc.
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   Experience   with prostacyclins (Flolan, Veletri, Remodulin).
+   
+ 
+
+
+
+
+
+
+
+   Relief   charge experience
+   
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   Bedside   Cardioversion
+ 
+   
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Flexible, positive attitude,   great team player, compassionate
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   BLS, ACLS
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   All MedSurg units, Stepdown units, COVID unit, and ER holding.
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire - all white or all navy   blue or white top and navy blue pants.
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   Will be   discussed during orientation
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   Every other weekend ;url=https://vendor.healthtrustws.com/positions/768039;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mission Hospital Travel
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

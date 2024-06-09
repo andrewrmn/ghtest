@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1427',
+  'Cf-Ray' => '82eef527907d1466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => LRM 467622
+    [sitename] => giftednurses
+    [spec] => Sterile Processing Tech 
+    [assignmentid] => 542150
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 15859
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => Sterile Processing Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => December, 01 2023 18:02:24
+    [daysPerWeek] => 5
+    [orderNote] => Source=EinsteinTrinity;SourceID=48000 ;Status=In-Progress (O);Association=Trinity Health ;Client=OH - Mount Carmel St. Ann's ;City=Westerville ;State=OH ;Zip=43081 ;Start=12/10/2023;End=3/9/2024;Duration=90;Cert=Sterile Processing Tech ;Specialty=Sterile Processing ;Unit=*TH VMS Brantuo-Boateng, E Instrument Tech III_M4396 ;Shift=15:00:00 - 23:30:00;# of Postions=1;Type=Travel;BillRate=$49.00;OTRate=63.70 ;ChargeRate=52.00 ;CallbackRate=63.70 ;HolidayRate=63.70 ;Orientation=1.00 ;Description=shift is full time Monday-Friday 1500-2330
+LRM 467622 ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 49
+    [facilityName] => Mount Carmel St. Ann's
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

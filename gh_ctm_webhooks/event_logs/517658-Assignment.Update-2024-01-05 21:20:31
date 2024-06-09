@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '831',
+  'Cf-Ray' => '840ec40055171836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => CNA
+    [assignmentid] => 517658
+    [workerID] => 294505
+    [WorkerContactNo] => 270-803-9932
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 36
+    [facilityID] => 9825
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-01
+    [workerLastName] => Converso
+    [shiftNum] => 2
+    [workerFirstName] => Mark
+    [cert] => CNA
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 03:00
+    [whenmodified] => January, 05 2024 16:20:30
+    [daysPerWeek] => 3
+    [orderNote] => State: No federal benefit
+    [guaranteedMinimum] => 
+    [workerEmail] => mrkconv@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => VA-JEB Western KY Veterans Center
+    [shiftDateEnd] => 2024-02-03
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

@@ -1,0 +1,66 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '770',
+  'Ki-Request-Colo' => '14',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1983',
+  'Cf-Ray' => '85681314543589ec-ORD',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Bill Rate - $70Night Shift 7p - 7a3-12's13-Week AssignmentWill need to float to other units as neededMay work every other weekendOn-Call can happen, but rare.Compact License AcceptedBLS, ACLS,TNCC &amp; NIH all required. PALS preferred
+ General CommentsPCR # 1031-00910279623
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 542089
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5112
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-08
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => February, 16 2024 14:07:36
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771665 ;Status=Open;Association=Community Health Systems ;Client=Eastern New Mexico Medical Center ;City=Roswell ;State=NM ;Zip=88201 ;Start=12/8/2023;End=3/8/2024;Duration=91;Cert=RN ;Specialty=ICU ;Unit=EXT-Other (911) ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$70.00;minBillRate=$70.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:Bill Rate - $70Night Shift 7p - 7a3-12's13-Week AssignmentWill need to float to other units as neededMay work every other weekendOn-Call can happen, but rare.Compact License AcceptedBLS, ACLS,TNCC &amp; NIH all required. PALS preferred
+ General CommentsPCR # 1031-00910279623
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/771665;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Eastern New Mexico Medical Center
+    [shiftDateEnd] => 2024-03-08
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

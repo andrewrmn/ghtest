@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '29',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '970',
+  'Cf-Ray' => '84b96c7d934b4961-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO:  Change End date from 3/2/24 to 1/27/24
+Completed 10.31.23
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 536621
+    [workerID] => 20307
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 32
+    [facilityID] => 13341
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => Uriarte
+    [shiftNum] => 5
+    [workerFirstName] => Karl
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 26 2024 09:25:10
+    [daysPerWeek] => 4
+    [orderNote] => BR:$137.85lRS:135571
+Orient:$45lNonBill:8hrs
+FTK pay: Gifted TC; Signed OT/Missed Meal form req
+    [guaranteedMinimum] => 
+    [workerEmail] => kvu12@yahoo.com
+    [HoursPerWeekOT] => 16
+    [offContractRate] => 137.85
+    [facilityName] => Eden Medical Center Travel RS
+    [shiftDateEnd] => 2024-01-27
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

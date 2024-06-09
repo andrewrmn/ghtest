@@ -1,0 +1,467 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8723',
+  'Cf-Ray' => '82916ff253d41830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Traveler shall be scheduled in accordance with facility policy and is expected to work every other weekend and Holidays in rotation with Hospital employees
+
+
+1+
+ experience acceptable
+ 
+
+        Hospital:
+ HCA   Orange Park Medical Center             Location: Orange Park Florida             
+Address:2001   Kingsley Blvd Orange Park, Fl, 32073
+         
+Unit: Echo   Cardiology
+             
+Building: Main   Hospital
+         
+
+
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds 400
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios :6-7 studies in 8 hr   shift, 8-9 studies in 10 hr shift, 10-11 studies in 12 hr shift
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) :
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment : GE E95
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: CCW, Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements:4/ 10 hr   shifts per week , on call minimum 1 night per week and 1 wknd/ mo. 
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: NONE
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements:Aidet
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:CCI   or ARDMS
+             Hiring profile             
+Years of Experience Required: Preferred 2   years  experience. 
+   
+   
+Requested Skill Set: TTE/TEE, structural   heart imaging, infants optional
+   
+   
+Must have: 
+   
+   
+
+
+   
+Advanced skills needed: Pedoff probe for AS, valvular workup,
+ MS/AS/MR
+   
+
+
+   
+   Procedures performed on unit: 
+   
+
+
+   
+
+
+   
+Certifications Required: CCI or ARDMS
+   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   
+Black Scrubs
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+ General CommentsOrange Park Medical Center is a 317-bed HCA Healthcare facility located in Northeast Florida. Featuring 170 private rooms, the hospital is known for its high-quality
+services, including
+cardiovascular care, a Level II
+NICU, and the only Level II
+trauma center
+in the county.
+
+
+The Center has earned many
+awards and accreditations, such as the Get With The Guidelines - Gold Plus
+Stroke
+Achievement Award and being recognized as a Top Performer on Quality Measures by The Joint Commission. Staff members
+enjoy
+working at Orange Park Medical Center because of its friendly culture, supportive management, and fast-paced environment.
+
+
+The hospital's location in Orange Park is about a 30 minute drive from
+Downtown Jacksonville.
+Orange Park is home to many outdoor activities, including
+golf courses,
+bike trails, and
+historic parks. Complete with its own
+Fall Festival, Orange Park has something for everyone.
+    [sitename] => giftednurses
+    [spec] => Echocardiography
+    [assignmentid] => 542555
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5698
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Echo Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:30
+    [whenmodified] => November, 20 2023 09:38:33
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=770007 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA Florida Orange Park Hospital ;City=Orange Park ;State=FL ;Zip=32073 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Echo Tech ;Specialty=Radiology ;Unit=SOUTH ATLANTIC DIVISION (23) ;Shift=7:00AM - 5:30PM ;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=88 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Traveler shall be scheduled in accordance with facility policy and is expected to work every other weekend and Holidays in rotation with Hospital employees
+
+
+1+
+ experience acceptable
+ 
+
+        Hospital:
+ HCA   Orange Park Medical Center             Location: Orange Park Florida             
+Address:2001   Kingsley Blvd Orange Park, Fl, 32073
+         
+Unit: Echo   Cardiology
+             
+Building: Main   Hospital
+         
+
+
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds 400
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios :6-7 studies in 8 hr   shift, 8-9 studies in 10 hr shift, 10-11 studies in 12 hr shift
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) :
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment : GE E95
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: CCW, Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements:4/ 10 hr   shifts per week , on call minimum 1 night per week and 1 wknd/ mo. 
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: NONE
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements:Aidet
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:CCI   or ARDMS
+             Hiring profile             
+Years of Experience Required: Preferred 2   years  experience. 
+   
+   
+Requested Skill Set: TTE/TEE, structural   heart imaging, infants optional
+   
+   
+Must have: 
+   
+   
+
+
+   
+Advanced skills needed: Pedoff probe for AS, valvular workup,
+ MS/AS/MR
+   
+
+
+   
+   Procedures performed on unit: 
+   
+
+
+   
+
+
+   
+Certifications Required: CCI or ARDMS
+   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   
+Black Scrubs
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+ General CommentsOrange Park Medical Center is a 317-bed HCA Healthcare facility located in Northeast Florida. Featuring 170 private rooms, the hospital is known for its high-quality
+services, including
+cardiovascular care, a Level II
+NICU, and the only Level II
+trauma center
+in the county.
+
+
+The Center has earned many
+awards and accreditations, such as the Get With The Guidelines - Gold Plus
+Stroke
+Achievement Award and being recognized as a Top Performer on Quality Measures by The Joint Commission. Staff members
+enjoy
+working at Orange Park Medical Center because of its friendly culture, supportive management, and fast-paced environment.
+
+
+The hospital's location in Orange Park is about a 30 minute drive from
+Downtown Jacksonville.
+Orange Park is home to many outdoor activities, including
+golf courses,
+bike trails, and
+historic parks. Complete with its own
+Fall Festival, Orange Park has something for everyone.
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/770007;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Orange Park Medical Center
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

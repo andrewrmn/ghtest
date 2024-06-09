@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3309',
+  'Cf-Ray' => '82cd6c13d1286a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => JOB SUMMARY/PURPOSEThe Registered Nurse (RN) is accountable for utilizing the nursing process to provide safe, age-appropriate, direct and indirect patient care, while practicing within the scope of practice of the Oregon State Board of Nursing.DEPARTMENT DESCRIPTIONThe Emergency Department provides care for patients with a wide variety of needs from non-critical to emergent medical conditions including emergent and urgent mental health care. All patients are welcome whether walking in or arriving by emergency transport. All Emergency Department staff are certified to care for critical cardiac and trauma patients including children.EXPERIENCE/EDUCATION/QUALIFICATIONSCurrent unencumbered Oregon RN license required upon submission. AHA Healthcare Provider Level BLS required upon submission. NLH Emergency:ACLS, TNCC, PALS and NRP preferred upon submission. Required for any extensions.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 546062
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1484
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 27 2023 16:21:40
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262198 ;Status=Open;Association=Samaritan Health Services ;Client=Samaritan North Lincoln Hospital ;City=Lincoln City ;State=OR ;Zip=97367 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Nursing ;Specialty=Emergency Room Nurse ;Unit=Emergency Room Nurse ;Shift=Nights - 18:00 - 06:30 - Rotating Weekends ;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$95.00;OTRate=105 ;OTRules=By The Week, after 40, ;CallbackRate=95 (All Inclusive Rate) ;HolidayRate=105 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=JOB SUMMARY/PURPOSEThe Registered Nurse (RN) is accountable for utilizing the nursing process to provide safe, age-appropriate, direct and indirect patient care, while practicing within the scope of practice of the Oregon State Board of Nursing.DEPARTMENT DESCRIPTIONThe Emergency Department provides care for patients with a wide variety of needs from non-critical to emergent medical conditions including emergent and urgent mental health care. All patients are welcome whether walking in or arriving by emergency transport. All Emergency Department staff are certified to care for critical cardiac and trauma patients including children.EXPERIENCE/EDUCATION/QUALIFICATIONSCurrent unencumbered Oregon RN license required upon submission. AHA Healthcare Provider Level BLS required upon submission. NLH Emergency:ACLS, TNCC, PALS and NRP preferred upon submission. Required for any extensions.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262198;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Samaritan North Lincoln Hospital
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

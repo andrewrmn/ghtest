@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6108',
+  'Cf-Ray' => '8330e331d22e4951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => JOB SUMMARYThe Registered Nurse is an essential member of the patient care team who is responsible for the delivery of direct and indirect patient care through the nursing process in all assigned areas. The RN will be required to assess patients upon admission using appropriate interview techniques to obtain past medical history, current medical status, vital signs, lab work, x-rays and other diagnostic test. They will be involved in the planning and implementation of a written care plan under the direction of a Physician. Please note the following  All RN candidates must      have ICU experience  BLS/ACLS required  NIHSS required  Balloon Pump experience      required  Holiday Availability      required  Every other weekend      required  Navy blue scrubs  Floating to Progressive      Care (3N), Medsurg, and ER (to care for boarding admissions) JOB REQUIREMENTSEducation:Bachelor's degree requiredMust possess valid State ofNew HampshireRN license BLS certification requiredACLS required"Experience:3year previous nursing experience preferred  Medical terminology requiredOther Skills Required:Excellent mathematical and analytical skills  Excellent written, verbal and interpersonal communication skillsCovenant Health Mission StatementWe are a Catholic health ministry, providing healing and care for the whole person, in service to all in our communities.Our Core Values: CompassionWe show respect, caring and sensitivity towards all, honoring the dignity of each person, especially the poor, vulnerable and suffering. IntegrityWe promote justice and ethical behavior, and responsibly steward our human, financial and environmental resources. CollaborationWe work in partnership, dialogue and shared purpose to create healthy communities. ExcellenceWe deliver all services with the highest level of quality, while seeking creative innovation. Applicants, employees and former employees are protected from employment discrimination based on race, color, religion, sex (including pregnancy, sexual orientation, or gender identity), national origin, age (40 or older), disability, and genetic information (including family medical history).   Additional Information:**Up to 16 hours of orientation is unpaid **St. Joseph has the right to cancel up to 3 shifts per 13 week contract   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 541184
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9545
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 09 2023 18:04:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=260652 ;Status=Open;Association=St. Joseph Hospital - Nashua ;Client=St Joseph Hospital - Nashua ;City=Nashua ;State=NH ;Zip='03060 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=Nursing ;Specialty=Intensive Care / Coronary Nurse (ICU) ;Unit=Intensive Care / Coronary Nurse (ICU) ;Shift=Nights 7p-7a ;# of Postions=5;Guaranteed Hours=36;Type=Travel;BillRate=$95.00;OTRate=95 ;OTRules=By The Week, after 40, ;CallbackRate=95 (All Inclusive Rate) ;HolidayRate=95 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=JOB SUMMARYThe Registered Nurse is an essential member of the patient care team who is responsible for the delivery of direct and indirect patient care through the nursing process in all assigned areas. The RN will be required to assess patients upon admission using appropriate interview techniques to obtain past medical history, current medical status, vital signs, lab work, x-rays and other diagnostic test. They will be involved in the planning and implementation of a written care plan under the direction of a Physician. Please note the following  All RN candidates must      have ICU experience  BLS/ACLS required  NIHSS required  Balloon Pump experience      required  Holiday Availability      required  Every other weekend      required  Navy blue scrubs  Floating to Progressive      Care (3N), Medsurg, and ER (to care for boarding admissions) JOB REQUIREMENTSEducation:Bachelor's degree requiredMust possess valid State ofNew HampshireRN license BLS certification requiredACLS required"Experience:3year previous nursing experience preferred  Medical terminology requiredOther Skills Required:Excellent mathematical and analytical skills  Excellent written, verbal and interpersonal communication skillsCovenant Health Mission StatementWe are a Catholic health ministry, providing healing and care for the whole person, in service to all in our communities.Our Core Values: CompassionWe show respect, caring and sensitivity towards all, honoring the dignity of each person, especially the poor, vulnerable and suffering. IntegrityWe promote justice and ethical behavior, and responsibly steward our human, financial and environmental resources. CollaborationWe work in partnership, dialogue and shared purpose to create healthy communities. ExcellenceWe deliver all services with the highest level of quality, while seeking creative innovation. Applicants, employees and former employees are protected from employment discrimination based on race, color, religion, sex (including pregnancy, sexual orientation, or gender identity), national origin, age (40 or older), disability, and genetic information (including family medical history).   Additional Information:**Up to 16 hours of orientation is unpaid **St. Joseph has the right to cancel up to 3 shifts per 13 week contract   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260652;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => St. Joseph Hospital - Nashua
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

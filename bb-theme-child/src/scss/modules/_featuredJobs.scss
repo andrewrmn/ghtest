@@ -1,0 +1,75 @@
+.featuredJobs{
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+
+  &__top{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 24px;
+    align-items: center;
+  }
+
+  &__cta{
+    text-align: right;
+  }
+
+  &__bottom{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 24px;
+  }
+
+  &__card{
+    font-family: futura-pt, sans-serif;
+    font-weight: bold;
+    color: $color-dark-teal;
+
+    &:hover{
+      color: $color-teal;
+    }
+  }
+
+  &__card:hover{
+    .featuredJobs__cardImg{
+      opacity: 0.85;
+    }
+  }
+
+  &__cardImg{
+    transition: all 0.2s ease;
+    > img{
+      display: block;
+      width: 100%;
+      aspect-ratio: 1.3333;
+      overflow: hidden;
+      border-radius: 6px;
+      object-fit: cover;
+      object-position: center center;
+    }
+  }
+
+
+  @media screen and (max-width: 1024px){
+    &__top{
+      grid-template-columns: 1fr;
+    }
+    &__cta{
+      text-align: left;
+    }
+  }
+
+  @media screen and (max-width: 600px){
+    &__bottom{
+      grid-template-columns: 1fr;
+    }
+    &__card{
+      flex-direction: row;
+      align-items: center;
+    }
+    &__cardImg > img{
+      width: 179px;
+    }
+  }
+
+}

@@ -1,0 +1,69 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1952',
+  'Cf-Ray' => '83be927dd46d23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => MED/SURG/ORTHO RN
+
+Night Shift (7pm to 7am)
+every other weekend requirement
+    [sitename] => giftednurses
+    [spec] => Ortho
+    [assignmentid] => 542897
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15840
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 26 2023 22:45:40
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48132 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne Des Moines Medical Center ;City=Des Moines ;State=IA ;Zip=50314 ;Start=12/19/2023;End=2/24/2024;Duration=67;Cert=RN Medical / Surgical ;Specialty=5 North Orthopedics ;Unit=*Registered Nurse-Med Surg-5 North Orthopedics/NIGHTS ;Shift=7p7a;# of Postions=1;Type=Travel;BillRate=$95.00;OTRate=123.50 ;ChargeRate=98.00 ;CallbackRate=123.50 ;HolidayRate=123.50 ;Description=MED/SURG/ORTHO RN
+
+Night Shift (7pm to 7am)
+every other weekend requirement
+
+The orthopedic trauma specialty unit (5 North) is a unique floor whose primary focus is orthopedic trauma patients. We are a 36-bed unit. Our type of patients consists of trauma in need of orthopedic surgery, total joint replacements, cervical-thoracic-lumbar spine surgery, and general medical surgical patients. Our team is enthusiastic, diverse, upbeat about our patients, warm, and provide a welcoming environment to new staff and our patient population. ;localRate=$77.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => MercyOne Des Moines Medical Center (Trinity) TRAVEL
+    [shiftDateEnd] => 2024-03-15
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

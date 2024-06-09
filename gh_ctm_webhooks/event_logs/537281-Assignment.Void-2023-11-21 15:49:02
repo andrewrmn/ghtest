@@ -1,0 +1,90 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7239',
+  'Cf-Ray' => '829a148e714f1838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:***WellSpan is not currently accepting compact licenses - do not submit compact licenses. All vendors will be updated once this changes. thank you***Rate - $95/hrASAP STARTSHIFT-days- 3x12 hrs- w/ EOW as needed &amp;
+Holidays as needed***MUST BE CHEMO CERTIFIED***
+*Must be competent in Telemetry
+*Oncology experience is preferred but not required
+*Epic experience is needed
+
+*BLS needed
+*Could come into contact with Covid patients
+*Will float to other units if neededRN Checklist
+*Do not submit local candidates to these travel positions. Contact the PMO team for the local rate first. If candidate accepts the lower local rate, submit the profile which clearly notates candidate is local and aware local rates are lower.*As of 1/5/2022 all travelers must be fully vaccinated for COVID-19.**Any traveler declining the COVID-19 vaccine, must be approved for a medical/religious exemption by their agency
+The Registered Nurse holds shift accountability for providing care to Oncology patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care. The Registered Nurse will perform many duties, some of which are: Review the patient s health history Monitor and assess physical and emotional status of patient Record and analyze results of laboratory, imaging studies and pathology Administer medications, fluids, and cancer treatments safely. Collaborate with physicians and other health professionals about the treatment plan Educate the patient and family members about the disease, available treatment plans and possible side effects of the treatments Help interpret and explain to the patient and family members the complex medical terminology and answer their questions. Communicate with the physicians on the patient s behalf and work as the patient advocate Help the patient plan for and manage symptoms throughout treatments
+ General Comments*Nicotine-free facility   ALL FORMS OF NICOTINE   ASSIGNMENT WILL BE CANCELED &amp; NOT ELIGIBLE FOR REHIRE FOR 12 MONTHS IF THERE IS A POSITIVE RESULT FOR ANY REASON*
+*WELLSPAN WILL NOT CONSIDER CANDIDATES THAT HAVE HAD LICENSE SUSPENDED ANYTIME IN THE PAST - DO NOT SUBMIT THESE PROFILES**All time off and/or scheduling requests must be included in the submission*Candidates cannot be considered if they have been employed as a perm hire at any WellSpan site within the year.*WellSpan requires the flu vaccine from
+September 7
+- April 30. Please ensure your traveler is willing to obtain prior to submitting
+    [sitename] => giftednurses
+    [spec] => Oncol
+    [assignmentid] => 537281
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3816
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 21 2023 10:49:01
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=768344 ;Status=Open;Association=WellSpan Health ;Client=WellSpan York Hospital ;City=York ;State=PA ;Zip=17403 ;Start=11/15/2023;End=2/13/2024;Duration=91;Cert=RN ;Specialty=Oncology ;Unit=EXT-Allspire (525) ;Shift=-days- 3x12 hrs- w/ EOW as needed &amp;
+Holidays as needed;# of Postions=1;Type=Travel;BillRate=$95.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:***WellSpan is not currently accepting compact licenses - do not submit compact licenses. All vendors will be updated once this changes. thank you***Rate - $95/hrASAP STARTSHIFT-days- 3x12 hrs- w/ EOW as needed &amp;
+Holidays as needed***MUST BE CHEMO CERTIFIED***
+*Must be competent in Telemetry
+*Oncology experience is preferred but not required
+*Epic experience is needed
+
+*BLS needed
+*Could come into contact with Covid patients
+*Will float to other units if neededRN Checklist
+*Do not submit local candidates to these travel positions. Contact the PMO team for the local rate first. If candidate accepts the lower local rate, submit the profile which clearly notates candidate is local and aware local rates are lower.*As of 1/5/2022 all travelers must be fully vaccinated for COVID-19.**Any traveler declining the COVID-19 vaccine, must be approved for a medical/religious exemption by their agency
+The Registered Nurse holds shift accountability for providing care to Oncology patients by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care. The Registered Nurse will perform many duties, some of which are: Review the patient s health history Monitor and assess physical and emotional status of patient Record and analyze results of laboratory, imaging studies and pathology Administer medications, fluids, and cancer treatments safely. Collaborate with physicians and other health professionals about the treatment plan Educate the patient and family members about the disease, available treatment plans and possible side effects of the treatments Help interpret and explain to the patient and family members the complex medical terminology and answer their questions. Communicate with the physicians on the patient s behalf and work as the patient advocate Help the patient plan for and manage symptoms throughout treatments
+ General Comments*Nicotine-free facility   ALL FORMS OF NICOTINE   ASSIGNMENT WILL BE CANCELED &amp; NOT ELIGIBLE FOR REHIRE FOR 12 MONTHS IF THERE IS A POSITIVE RESULT FOR ANY REASON*
+*WELLSPAN WILL NOT CONSIDER CANDIDATES THAT HAVE HAD LICENSE SUSPENDED ANYTIME IN THE PAST - DO NOT SUBMIT THESE PROFILES**All time off and/or scheduling requests must be included in the submission*Candidates cannot be considered if they have been employed as a perm hire at any WellSpan site within the year.*WellSpan requires the flu vaccine from
+September 7
+- April 30. Please ensure your traveler is willing to obtain prior to submitting ;url=https://vendor.healthtrustws.com/positions/768344;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Wellspan York Hospital
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

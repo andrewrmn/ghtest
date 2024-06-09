@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2682',
+  'Cf-Ray' => '84ca403d16dd23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 12/10/2021 0907 CSTJennifer Carner
+                            
+                            
+                                $165.00 - Duration: 13 Weeks - Shift: Evenings, 40 hours/week - Call Rotation: Yes - EMR: Cerner - 2 full years of experience in specific specialty. Cerner exp a plus. All travelers must be willing to float to sister facilities. Only float when necessary. All must be fully vaccinated with covid 19 and flu and proof of vaccinations must be in the sub packets. At least 1 Travel contract required for submittal. Navy blue scrubs will be required.
+ RatePlan:AH-Covid 19 RN rates (8-25-2021)
+    [sitename] => giftednurses
+    [spec] => CVOR
+    [assignmentid] => 326046
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13445
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-02-07
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => January, 28 2024 10:25:06
+    [daysPerWeek] => 5
+    [orderNote] => Source=ShiftWise;SourceID=9610531 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Medical Center ;City=Austin ;State=TX ;Zip=78701 ;Start=1/10/2022;End=4/9/2022;Duration=90;Cert=RN ;Specialty=CVOR ;Unit=SMC Surgery ;Shift=PM 8.00 Hrs;# of Postions=1;Type=Travel;BillRate=$165.00;minBillRate=$165.00;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=12/10/2021 0907 CSTJennifer Carner
+                            
+                            
+                                $165.00 - Duration: 13 Weeks - Shift: Evenings, 40 hours/week - Call Rotation: Yes - EMR: Cerner - 2 full years of experience in specific specialty. Cerner exp a plus. All travelers must be willing to float to sister facilities. Only float when necessary. All must be fully vaccinated with covid 19 and flu and proof of vaccinations must be in the sub packets. At least 1 Travel contract required for submittal. Navy blue scrubs will be required.
+ RatePlan:AH-Covid 19 RN rates (8-25-2021) ;url=https://automated.shiftwise.net/esp/order.aspx?order_id=B93DA25AFFA4E69DD351EF6D15634574;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 
+    [facilityName] => Ascension Seton Medical Center Austin
+    [shiftDateEnd] => 2022-05-07
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

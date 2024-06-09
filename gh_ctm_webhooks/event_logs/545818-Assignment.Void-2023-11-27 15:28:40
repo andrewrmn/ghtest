@@ -1,0 +1,103 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3140',
+  'Cf-Ray' => '82cb66fe26d81463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 11055 Little Patuxent Parkway, Suite L9 Columbia Maryland 21044
+
+	General Ultrasound
+
+	M-F (4) 10s or (3) 12s
+
+	Position Summary:
+
+	
+
+	Performs diagnostic sonographic and interventional procedures in the department or on the units under the general supervision of the Chief Imaging Technologist and with the assistance of a Physician or a Senior Sonographer.
+
+	
+					A. Education:
+					
+					High School diploma or equivalent including successful completion of an approved curriculum in diagnostic sonography.
+					D. Required Licensure, Certification, Etc.:
+					
+					Registration by The American Registry of Diagnostic Medical Sonographers (ARDMS). CPR certification required within three months of employment.
+					E. Work Experience:
+					
+					Six months of either clinical or student scanning experience.
+    [sitename] => giftednurses
+    [spec] => Ultrasound Tech
+    [assignmentid] => 545818
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 1877
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Ultrasound Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 27 2023 10:28:09
+    [daysPerWeek] => 4
+    [orderNote] => Source=IntrastaffVMS;SourceID=305189 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Johns Hopkins Imaging LLC ;Start=12/17/2023;End=3/16/2024;Duration=90;Cert=Ultrasound General ;Specialty=JH IMAGING COLUMBIA (5550000400) ;Unit=JH IMAGING COLUMBIA (5550000400) ;Shift=Day 10 (8:00 AM - 6:30 PM);# of Postions=1;Type=Travel;BillRate=$115.00;minBillRate=$115.00;Description=11055 Little Patuxent Parkway, Suite L9 Columbia Maryland 21044
+
+	General Ultrasound
+
+	M-F (4) 10s or (3) 12s
+
+	Position Summary:
+
+	
+
+	Performs diagnostic sonographic and interventional procedures in the department or on the units under the general supervision of the Chief Imaging Technologist and with the assistance of a Physician or a Senior Sonographer.
+
+	
+					A. Education:
+					
+					High School diploma or equivalent including successful completion of an approved curriculum in diagnostic sonography.
+					D. Required Licensure, Certification, Etc.:
+					
+					Registration by The American Registry of Diagnostic Medical Sonographers (ARDMS). CPR certification required within three months of employment.
+					E. Work Experience:
+					
+					Six months of either clinical or student scanning experience. ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=mcCw8cNU5Xc=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 115
+    [facilityName] => The Johns Hopkins Hospital TRAVEL
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

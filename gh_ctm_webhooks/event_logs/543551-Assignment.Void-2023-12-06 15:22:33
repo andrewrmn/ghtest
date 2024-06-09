@@ -1,0 +1,125 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '28',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6920',
+  'Cf-Ray' => '83158663e75e495d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => OR CST
+Start Date: 12/18/23 *6 week contract*
+Shift: 3x12s-7a-7p
+Is on-call REQ? What is the req? yes (call back time is 30 min), 1 shift per week and approximately every 5th Sat/Sun
+# of ORs-6 
+Open to accommodating block schedule? yes
+Years of experience REQ: 2 years
+Preferred experience: Experience with kidney transplants and C-sections. Davinci experience
+Types of cases preferred: ENT, ortho, GYN, General, podiatry, urology
+First-timers accepted: yes
+Will clinician float within scope meet facility needs? No
+Locals accepted: What is the local radius rule? Yes, 50 miles
+RTO Restrictions:  All RTO must be included at time of submission. Approval will be based on facility needs
+Guaranteed Hours: Facility allowed to call off 1 shift per 2 weeks
+
+Certs Required: BLS, NBSTSA
+
+*(4) main ORs (1) c-section room (1) cysto room. The facility offers general surgery, GYN, urology, ENT, podiatry, ortho, basically everything other than neuro, spine, or heart. *Perform Davinci cases for general surgery and urology. *Also have a kidney transplant program
+
+Hospital Highlights
+Total Staffed Beds: 97
+Scrub Color: Ceil Blue or White
+Charting: Epic
+Parking Cost: Free parking 
+
+bf TE
+
+ Modified Time:12/18/2023 5:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal radius: 50 miles. Locals accepted on a case by case basis at lower ratePerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 543551
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9616
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-02
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 06 2023 10:22:32
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2304578 ;Status=Open;Association=Qualivis MSP ;Client=MUSC Health - Lancaster ;City=Lancaster ;State=SC ;Zip=29720-2298 ;Start=1/2/2024;End=2/13/2024;Duration=42;Cert=Surgical Services ;Specialty=Certified OR Tech / Surgical Tech (CST) ;Unit=LAN - OR (Operating Room) (LMC), CC001521 ;Shift=Day 3x12-Hour (07:00 - 19:00);# of Postions=1;Type=Travel;BillRate=$55.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=OR CST
+Start Date: 12/18/23 *6 week contract*
+Shift: 3x12s-7a-7p
+Is on-call REQ? What is the req? yes (call back time is 30 min), 1 shift per week and approximately every 5th Sat/Sun
+# of ORs-6 
+Open to accommodating block schedule? yes
+Years of experience REQ: 2 years
+Required Experience:  kidney transplants, C-section, Davinci experience, ortho
+Types of cases preferred: ENT, ortho, GYN, General, podiatry, urology
+First-timers accepted: yes
+Will clinician float within scope meet facility needs? No
+Locals accepted: What is the local radius rule? Yes, 50 miles
+RTO Restrictions:  All RTO must be included at time of submission. Approval will be based on facility needs
+Guaranteed Hours: Facility allowed to call off 1 shift per 2 weeks
+
+Certs Required: BLS, NBSTSA
+
+*(4) main ORs (1) c-section room (1) cysto room. The facility offers general surgery, GYN, urology, ENT, podiatry, ortho, basically everything other than neuro, spine, or heart. *Perform Davinci cases for general surgery and urology. *Also have a kidney transplant program
+
+Hospital Highlights
+Total Staffed Beds: 97
+Scrub Color: Ceil Blue or White
+Charting: Epic
+Parking Cost: Free parking 
+
+ Modified Time:1/2/2024 12:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal radius: 50 miles. Locals accepted on a case by case basis at lower ratePerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2304578/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 55
+    [facilityName] => MUSC - Lancaster Medical Center
+    [shiftDateEnd] => 2024-02-13
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

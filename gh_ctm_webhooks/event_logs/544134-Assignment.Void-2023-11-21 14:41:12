@@ -1,0 +1,399 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '9849',
+  'Cf-Ray' => '8299b134a6d61466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Unit Profile
+
+
+
+
+
+Hospital:
+
+Grand Strand Medical Center
+
+Location:
+Myrtle Beach SC
+
+Address:
+809 82nd
+Ave Myrtle
+Beach ,
+SC 29575
+
+Unit:
+Radiology
+
+Building:
+
+Grand Strand Medical Center   Radiology Dept
+
+
+
+
+General Information
+
+Unit Specifics:
+Number of
+Beds :
+
+380Patient
+Ratios
+:
+n/aUnit staffing description- (unit secretaries and tech availability) :
+(2) Techs overnight in CT deptType of
+equipment
+:
+
+GE 32 slice, GE 64 VCT, GE 128 slice
+RevoDocumentation system:
+MeditechScheduling requirements:
+7p-7a Fri-Sun
+, rotate Call (approximately 2 nights per month)Floating
+policy:n/aPatient Experience requirements:
+n/a
+Hospital Specifics-
+Certifications:
+
+CT ACR accredited
+Hiring profile
+
+Requested Skill Set:
+
+
+
+ARRT CT certified Technologist   Able to multi-task in busy Level I Trauma Center CT department.
+
+
+At least 2
+yrs
+experience in CT.
+
+GE equipment experience.
+
+
+
+
+Must have:
+
+
+
+
+
+
+
+Advanced skills needed:
+
+
+Ability to perform all type of CT exams with emphasis on ED and Trauma patients.
+
+
+
+
+
+
+
+Procedures performed on unit:
+
+Variety of CT exams performed on ED/Trauma patients, and inpatients.
+
+
+Level I Trauma / Level II pediatric trauma, Comprehensive Stroke Care facility.
+
+
+
+
+
+
+
+Certifications Required:
+
+
+ARRT, SCQRSA, BLS
+
+
+
+
+
+
+
+Dress Code:
+
+Charcoal Grey Scrubs
+Unit Guidelines/Policies:
+n/a.
+
+
+Awards/Recognition:
+
+ACR accredited in all Imaging
+Modalties.
+
+
+
+Any additional information that would entice a worker to select your unit
+for their assignment:
+
+Beautiful Myrtle Beach SC.
+
+
+Work in fast pace environment with a very experience CT staff.
+ General CommentsGrand Strand Medical Center is a 345-bed acute-care HCA Healthcare facility located in Myrtle Beach, South Carolina. This facility offers the only
+cardiac surgery
+program,
+neurosurgery
+program, and
+pediatric intensive care unit
+in Myrtle Beach and the surrounding counties, as well as housing the only Level I Adult and Level II Pediatric
+Trauma Centers
+in the area.
+
+  
+Grand Strand Medical Center is known for its dedication to quality patient care. The facility is
+recognized
+by The Joint Commission in the areas of chest pain, knee and hip replacement, sepsis, and stroke, and has received awards for its treatment of heart attacks and strokes by the American Heart Association. Also, Grand Strand Medical Center has been recognized on Healthgrades' America's 250 Best Hospitals
+list
+for the facility's overall clinical excellence.
+  
+The staff
+describe
+the facility as being a fast-paced, enjoyable place to work. The facility has cultivated an environment of transparency and honesty where everyone pitches in to help, everyone is treated as a professional, and everyone is valued as an important member of the healthcare team.
+  
+As mentioned by Patrick Tuttle, RN, "There is so much I love about Grand Strand and what its given me these past few years. I love that Sharon works with my schedule so I can be home with my family and always supporting me. I can tell you several times that she has worked with me when I needed it most and I've never forgotten it. We all know nursing has its own challenges, but everyone I work with here helps out and works as a team! We all just click! That's basically why I stay and renew. I get to do what I love, be with my family away from work and be with my family at work."
+  
+The City of Myrtle Beach is home to more than 60 miles of sandy shoreline, with Grand Strand Medical Center located less than one mile from the beach. This coastal city features the
+Splashes Oceanfront Water Park, the
+SkyWheel, and the
+Boardwalk Entertainment District, among other
+activities.
+The city sees an average of
+215 sunny days
+per year, giving the
+32,000 residents
+plenty of time to enjoy the outdoors.
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 544134
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2468
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:30
+    [whenmodified] => November, 21 2023 09:41:12
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771906 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=GRAND STRAND REGIONAL MED CTR SC ;City=Myrtle Beach ;State=SC ;Zip=29572 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=CT Tech ;Specialty=Radiology ;Unit=SOUTH ATLANTIC DIVISION (23) ;Shift=11:00AM - 11:30PM;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=83 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:Unit Profile
+
+
+
+
+
+Hospital:
+
+Grand Strand Medical Center
+
+Location:
+Myrtle Beach SC
+
+Address:
+809 82nd
+Ave Myrtle
+Beach ,
+SC 29575
+
+Unit:
+Radiology
+
+Building:
+
+Grand Strand Medical Center   Radiology Dept
+
+
+
+
+General Information
+
+Unit Specifics:
+Number of
+Beds :
+
+380Patient
+Ratios
+:
+n/aUnit staffing description- (unit secretaries and tech availability) :
+(2) Techs overnight in CT deptType of
+equipment
+:
+
+GE 32 slice, GE 64 VCT, GE 128 slice
+RevoDocumentation system:
+MeditechScheduling requirements:
+7p-7a Fri-Sun
+, rotate Call (approximately 2 nights per month)Floating
+policy:n/aPatient Experience requirements:
+n/a
+Hospital Specifics-
+Certifications:
+
+CT ACR accredited
+Hiring profile
+
+Requested Skill Set:
+
+
+
+ARRT CT certified Technologist   Able to multi-task in busy Level I Trauma Center CT department.
+
+
+At least 2
+yrs
+experience in CT.
+
+GE equipment experience.
+
+
+
+
+Must have:
+
+
+
+
+
+
+
+Advanced skills needed:
+
+
+Ability to perform all type of CT exams with emphasis on ED and Trauma patients.
+
+
+
+
+
+
+
+Procedures performed on unit:
+
+Variety of CT exams performed on ED/Trauma patients, and inpatients.
+
+
+Level I Trauma / Level II pediatric trauma, Comprehensive Stroke Care facility.
+
+
+
+
+
+
+
+Certifications Required:
+
+
+ARRT, SCQRSA, BLS
+
+
+
+
+
+
+
+Dress Code:
+
+Charcoal Grey Scrubs
+Unit Guidelines/Policies:
+n/a.
+
+
+Awards/Recognition:
+
+ACR accredited in all Imaging
+Modalties.
+
+
+
+Any additional information that would entice a worker to select your unit
+for their assignment:
+
+Beautiful Myrtle Beach SC.
+
+
+Work in fast pace environment with a very experience CT staff.
+ General CommentsGrand Strand Medical Center is a 345-bed acute-care HCA Healthcare facility located in Myrtle Beach, South Carolina. This facility offers the only
+cardiac surgery
+program,
+neurosurgery
+program, and
+pediatric intensive care unit
+in Myrtle Beach and the surrounding counties, as well as housing the only Level I Adult and Level II Pediatric
+Trauma Centers
+in the area.
+
+  
+Grand Strand Medical Center is known for its dedication to quality patient care. The facility is
+recognized
+by The Joint Commission in the areas of chest pain, knee and hip replacement, sepsis, and stroke, and has received awards for its treatment of heart attacks and strokes by the American Heart Association. Also, Grand Strand Medical Center has been recognized on Healthgrades' America's 250 Best Hospitals
+list
+for the facility's overall clinical excellence.
+  
+The staff
+describe
+the facility as being a fast-paced, enjoyable place to work. The facility has cultivated an environment of transparency and honesty where everyone pitches in to help, everyone is treated as a professional, and everyone is valued as an important member of the healthcare team.
+  
+As mentioned by Patrick Tuttle, RN, "There is so much I love about Grand Strand and what its given me these past few years. I love that Sharon works with my schedule so I can be home with my family and always supporting me. I can tell you several times that she has worked with me when I needed it most and I've never forgotten it. We all know nursing has its own challenges, but everyone I work with here helps out and works as a team! We all just click! That's basically why I stay and renew. I get to do what I love, be with my family away from work and be with my family at work."
+  
+The City of Myrtle Beach is home to more than 60 miles of sandy shoreline, with Grand Strand Medical Center located less than one mile from the beach. This coastal city features the
+Splashes Oceanfront Water Park, the
+SkyWheel, and the
+Boardwalk Entertainment District, among other
+activities.
+The city sees an average of
+215 sunny days
+per year, giving the
+32,000 residents
+plenty of time to enjoy the outdoors.
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/771906;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Grand Strand Medical Center- Parallon
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

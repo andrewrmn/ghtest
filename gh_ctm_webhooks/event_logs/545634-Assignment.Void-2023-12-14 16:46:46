@@ -1,0 +1,75 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1709',
+  'Cf-Ray' => '8357ecc2c28677ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:CONTRACT - RN - CASE MANAGEMENT (846) - 13 WEEKS - 8A-4:30P
+Rotating Weekends
+
+NO ON CALL
+
+RN licensure, CM experience, BLS
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Case Mgmt
+    [assignmentid] => 545634
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5422
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-25
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 14 2023 11:46:45
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=774223 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=DEL SOL MEDICAL CENTER El Paso ;City=El Paso ;State=TX ;Zip=79925 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=RN ;Specialty=Case Mgmt ;Unit=CENTRAL AND WEST TEXAS DIVISION (50) ;Shift=8:00AM-4:30PM;# of Postions=1;Type=Travel;BillRate=$70.00;minBillRate=$70.00;OTRate=78 ;CallbackRate=78 ;HolidayRate=78 ;Orientation=0 ;Description=Description:CONTRACT - RN - CASE MANAGEMENT (846) - 13 WEEKS - 8A-4:30P
+Rotating Weekends
+
+NO ON CALL
+
+RN licensure, CM experience, BLS
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/774223;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Del Sol Medical Center Travel
+    [shiftDateEnd] => 2024-03-25
+    [shiftStartTime] => 08:00
+    [subjectID] => 
+)

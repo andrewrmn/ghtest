@@ -1,0 +1,153 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4243',
+  'Cf-Ray' => '84062bc847ed77bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:ASAP STARTBILLRATE $80.00SHIFT: DAYS 6:30A-3P (MONDAY-FRIDAY)NO WEEKENDS, NO CALLSREQUIREMENTS:
+
+2 YEARS OF INTERVENTIONAL RADIOLOGY EXPERIENCEBLSACLSNIH STROKE SCALE CERTIFICATIONCERNERTRAVELERS SUBMITTED WITHOUT THE NECESSARY INFO OR REQUIREMENTS WILL BE REJECTED
+MUST
+INCLUDE THE HOME ADDRESS &amp; SSN ON THE SUBMISSIONS
+TRAVELERS
+MUST
+BE GREATER THAN 50 MILES FROM THE FACILITY
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location:
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Radiology
+    [assignmentid] => 532233
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 8879
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-15
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => January, 04 2024 15:18:29
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=761386 ;Status=Open;Association=Community Health Systems ;Client=Grandview Medical Center ;City=Birmingham ;State=AL ;Zip=35243 ;Start=10/23/2023;End=1/22/2024;Duration=91;Cert=RN ;Specialty=Radiology ;Unit=EXT-Other (911) ;Shift=06:30-15:00;# of Postions=1;Type=Travel;BillRate=$80.00;minBillRate=$80.00;OTRate=88 ;CallbackRate=88 ;HolidayRate=88 ;Description=Description:ASAP STARTBILLRATE $80.00SHIFT: DAYS 6:30A-3P (MONDAY-FRIDAY)NO WEEKENDS, NO CALLSREQUIREMENTS:
+
+2 YEARS OF INTERVENTIONAL RADIOLOGY EXPERIENCEBLSACLSNIH STROKE SCALE CERTIFICATIONCERNERTRAVELERS SUBMITTED WITHOUT THE NECESSARY INFO OR REQUIREMENTS WILL BE REJECTED
+MUST
+INCLUDE THE HOME ADDRESS &amp; SSN ON THE SUBMISSIONS
+TRAVELERS
+MUST
+BE GREATER THAN 50 MILES FROM THE FACILITY
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location:
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/761386;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Grandview Medical Center
+    [shiftDateEnd] => 2024-04-15
+    [shiftStartTime] => 06:30
+    [subjectID] => 
+)

@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3373',
+  'Cf-Ray' => '82ddda1167e123b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Seeking nurse manager for critical care hospital, 18 bed inpatient unit (Acute Care) serving the Alaskan Natives of western Alaska.  The Acute Care unit is an 18 bed low acuity medical unit, no surgical capacity with some psych and labor and delivery.  Applicant must be clinically diverse, culturally sensitive, with good emotional intelligence, and communication skills and willing to put on scrubs as needed.Must be proficient in scheduling, and computer skills.Alaska is not a compact state, but the facility will accept current and unencumbered license from any state, with application for AK license,Must have COVID vaccine with one booster and Flu vaccines.Housing provided, may or may not have a roommate.  No pets.   Additional Information:ALL TRAVELERS ARE REQUIRED TO SHOW PROOF OF COMPLETED COVID VACCINATIONS PLUS BOOSTER??. FLU VACCINES ARE ALSO REQUIRED AND EXEMPTIONS WILL NOT BE ACCEPTED.   Position Urgency:Normal Billing string = Norton Sound Regional Hospital
+    [sitename] => giftednurses
+    [spec] => Nursing Supervisor
+    [assignmentid] => 546243
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1360
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 29 2023 16:12:57
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262273 ;Status=Open;Association=Norton Sound Regional Hospital ;Client=Norton Sound Regional Hospital ;City=Nome ;State=AK ;Zip=99762 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Nursing ;Specialty=Nursing Manager/Director ;Unit=Nursing Manager/Director ;Shift=days Monday - Friday;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$130.00;OTRate=140 ;OTRules=By The Week, after 40, ;CallbackRate=130 (All Inclusive Rate) ;HolidayRate=130 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=Seeking nurse manager for critical care hospital, 18 bed inpatient unit (Acute Care) serving the Alaskan Natives of western Alaska.  The Acute Care unit is an 18 bed low acuity medical unit, no surgical capacity with some psych and labor and delivery.  Applicant must be clinically diverse, culturally sensitive, with good emotional intelligence, and communication skills and willing to put on scrubs as needed.Must be proficient in scheduling, and computer skills.Alaska is not a compact state, but the facility will accept current and unencumbered license from any state, with application for AK license,Must have COVID vaccine with one booster and Flu vaccines.Housing provided, may or may not have a roommate.  No pets.   Additional Information:ALL TRAVELERS ARE REQUIRED TO SHOW PROOF OF COMPLETED COVID VACCINATIONS PLUS BOOSTER??. FLU VACCINES ARE ALSO REQUIRED AND EXEMPTIONS WILL NOT BE ACCEPTED.   Position Urgency:Normal Billing string = Norton Sound Regional Hospital ;url=https://vms.medefis5.com/jobs/262273;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 130
+    [facilityName] => Norton Sound Regional
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,90 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1853',
+  'Cf-Ray' => '827db8d99580183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 540062
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15587
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 1
+    [bonus] => 
+    [shiftDateStart] => 2023-11-20
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 18 2023 00:13:03
+    [daysPerWeek] => 3
+    [orderNote] => MS- Nights
+	OT is not billable until the 49th hour. All hours worked over 49 in one week must be approved by facility administration only. 
+	She/He is guaranteed 36 hours per week.
+	Our facility is allowed to cancel once every 30 days without penalty.
+	Rate: $75/hr 
+	Contract nurse will clock in/out of our Paycom system for tracking hours.
+
+$75 BR / $1855/36 OT: $2467/48
+LOCAL PAY: $50/hr
+
+Orientation pay: $20/hr
+Non: 8
+RSID: 133628
+GP$: 16.51 GP%: 22.4
+
+Ratios: 1:5-6 MedSurg
+1.	About 2 hours from Shreveport, LA
+2.	About 1.5 hours from Tyler, TX
+3.	30 minutes from Lufkin, TX
+4.	Home to STEPHEN F. AUSTIN COLLEGE  
+ 
+ABOUT THE JOBS:
+	EMR: SOARIAN  switching to Cerner in October
+
+	Locals are OK
+	Sit out period  3-6 months, must be on good standing after leaving
+	2 years experience in the specialty is PREFERRED, depends on where they came from
+	13-week contracts 
+Facility will consider block booking, please specify in submission.
+	COVID exemption OK
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Nacogdoches Memorial Hospital TRAVEL
+    [shiftDateEnd] => 2024-02-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

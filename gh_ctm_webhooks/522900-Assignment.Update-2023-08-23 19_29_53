@@ -1,0 +1,38 @@
+Array
+(
+    [transportationNote] => test transportation note update6
+    [sitename] => giftednurses_training
+    [spec] => Cath Lab
+    [assignmentid] => 522900
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => test housing note update6
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 2474
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 1
+    [bonus] => 1234567890
+    [shiftDateStart] => 2023-08-24
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => August, 23 2023 15:29:43
+    [daysPerWeek] => 5
+    [orderNote] => test order note update6
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 1234567890
+    [facilityName] => Abilene Regional Medical Center
+    [shiftDateEnd] => 2023-08-25
+    [shiftStartTime] => 09:00
+    [subjectID] => 
+)

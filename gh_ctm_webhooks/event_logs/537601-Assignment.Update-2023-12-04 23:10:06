@@ -1,0 +1,126 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4319',
+  'Cf-Ray' => '8307b884a69a183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name Interventional Radiology-Vascular Interventional Technologist-South
+  
+Organization Mercy
+  
+Facility Mercy Hospital South
+  
+Unit Interventional Radiology
+  
+Cost Center 15-447149
+  
+
+
+  
+
+
+  SHIFT INFO  
+Shift day
+  
+Shifts per week 5
+  
+Hours per shift 8
+  EXPERIENCE  
+Years of Experience
+  
+Two Years Plus
+  CERTIFICATIONS  
+Certifications
+  
+BLS
+-
+required
+  DESCRIPTION  
+The Vascular Sonographer is a skilled person qualified by technological education to provide patient services using diagnostic ultrasound under the supervision of a doctor of medicine responsible for the use and interpretation of ultrasound procedures. Assist the physician by gathering vascular sonographic data necessary to reach diagnostic decisions. Performs related duties as assigned. Required education: High school diploma or equivalent and one of the American Registry for Diagnostic Medical Sonography (ARDMS) prerequisites for education and required clinical experience. Required licensure: Requires a registry or registry eligible status with the ARDMS. Required certifications: Must have a current American Heart Association BLS Heart saver Card or obtain within probationary period. Other: Working Conditions, Mental and Physical Requirements: This individual must be capable of walking long distances, transporting ultrasound equipment and assist in lifting patients. Equipment Used: Ultrasound equipment.
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Ultrasound Tech
+    [assignmentid] => 537601
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 15624
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Ultrasound Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 04 2023 18:09:54
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=768892 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital South ;City=Saint Louis ;State=MO ;Zip=63128 ;Start=11/13/2023;End=2/12/2024;Duration=91;Cert=Vascular Tech ;Specialty=Vascular Medicine ;Unit=Mercy ;Shift=07:00-17:00;# of Postions=1;Type=Travel;BillRate=$60.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Name Interventional Radiology-Vascular Interventional Technologist-South
+  
+Organization Mercy
+  
+Facility Mercy Hospital South
+  
+Unit Interventional Radiology
+  
+Cost Center 15-447149
+  
+
+
+  
+
+
+  SHIFT INFO  
+Shift day
+  
+Shifts per week 5
+  
+Hours per shift 8
+  EXPERIENCE  
+Years of Experience
+  
+Two Years Plus
+  CERTIFICATIONS  
+Certifications
+  
+BLS
+-
+required
+  DESCRIPTION  
+The Vascular Sonographer is a skilled person qualified by technological education to provide patient services using diagnostic ultrasound under the supervision of a doctor of medicine responsible for the use and interpretation of ultrasound procedures. Assist the physician by gathering vascular sonographic data necessary to reach diagnostic decisions. Performs related duties as assigned. Required education: High school diploma or equivalent and one of the American Registry for Diagnostic Medical Sonography (ARDMS) prerequisites for education and required clinical experience. Required licensure: Requires a registry or registry eligible status with the ARDMS. Required certifications: Must have a current American Heart Association BLS Heart saver Card or obtain within probationary period. Other: Working Conditions, Mental and Physical Requirements: This individual must be capable of walking long distances, transporting ultrasound equipment and assist in lifting patients. Equipment Used: Ultrasound equipment.
+ General Comments ;url=https://vendor.healthtrustws.com/positions/768892;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 60
+    [facilityName] => Mercy Hospital South - Travel
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

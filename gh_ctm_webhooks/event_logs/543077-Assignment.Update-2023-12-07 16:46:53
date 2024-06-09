@@ -1,0 +1,345 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5968',
+  'Cf-Ray' => '831e3f4da0a16a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Hospital:
+ TriStar   StoneCrest             Location: Smyrna, TN             
+Address: 200   StoneCrest Boulevard
+         
+Unit Name: PCU
+             
+Building: Main
+         
+Cost Center: 630
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+   Number of Beds : 12
+   
+ 
+
+
+
+
+
+   Patient Ratios : 4:1
+   
+ 
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) : 1 tech for the unit
+   
+ 
+
+
+
+
+
+   Type of equipment : GE Monitors, Nova   glucometers, Pyxis med dispense
+   
+ 
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+   Scheduling requirements: Every other   weekend
+   
+ 
+
+
+
+
+
+   Floating policy: In rotation with full   time staff and other travelers
+   
+ 
+
+
+
+
+
+   Patient Experience requirements:   AIDET, completion of communication board, medication teaching
+   Hospital Specifics-   
+ 
+
+
+
+
+
+ Certifications: Trauma III
+             
+             Requested Skill Set: post-cath care including TR band   
+   
+Must have: positive attitude, teamwork, problem solving
+   
+   
+
+
+   Advanced skills needed: care of TR band,   advanced pulmonary treatments, medication titration   
+
+
+   
+   
+Procedures performed on unit: 
+none
+   
+
+
+   
+
+
+   Certifications Required: BLS, ACLS   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+ 
+Charcoal gray scrubs
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+ 
+
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+ 
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+ General Comments
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 543077
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1299
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-10-23
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 07 2023 11:46:52
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=762549 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=STONECREST MEDICAL CENTER TN ;City=SMYRNA ;State=TN ;Zip=37167 ;Start=10/23/2023;End=1/22/2024;Duration=91;Cert=RN ;Specialty=PCU ;Unit=TRISTAR DIVISION (7) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$73.00;minBillRate=$73.00;OTRate=81 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Hospital:
+ TriStar   StoneCrest             Location: Smyrna, TN             
+Address: 200   StoneCrest Boulevard
+         
+Unit Name: PCU
+             
+Building: Main
+         
+Cost Center: 630
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+   Number of Beds : 12
+   
+ 
+
+
+
+
+
+   Patient Ratios : 4:1
+   
+ 
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) : 1 tech for the unit
+   
+ 
+
+
+
+
+
+   Type of equipment : GE Monitors, Nova   glucometers, Pyxis med dispense
+   
+ 
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+   Scheduling requirements: Every other   weekend
+   
+ 
+
+
+
+
+
+   Floating policy: In rotation with full   time staff and other travelers
+   
+ 
+
+
+
+
+
+   Patient Experience requirements:   AIDET, completion of communication board, medication teaching
+   Hospital Specifics-   
+ 
+
+
+
+
+
+ Certifications: Trauma III
+             
+             Requested Skill Set: post-cath care including TR band   
+   
+Must have: positive attitude, teamwork, problem solving
+   
+   
+
+
+   Advanced skills needed: care of TR band,   advanced pulmonary treatments, medication titration   
+
+
+   
+   
+Procedures performed on unit: 
+none
+   
+
+
+   
+
+
+   Certifications Required: BLS, ACLS   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+ 
+Charcoal gray scrubs
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+ 
+
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+ 
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+ General Comments
+ No. of Positions: 1/2. ;url=https://vendor.healthtrustws.com/positions/762549;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 73
+    [facilityName] => Stonecrest Medical Center 
+    [shiftDateEnd] => 2024-01-22
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

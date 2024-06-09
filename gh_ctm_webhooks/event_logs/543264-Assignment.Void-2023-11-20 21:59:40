@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1818',
+  'Cf-Ray' => '8293f616f46e1842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Inpatient Telemetry RN 13 weeks 36 hrs/wk 12 hours 7a-7p Every other Holiday Every other Weekend No call required EHR-Epic BLS required ACLS preferred Intermediate level of care- Step down Cardiology experience preferred Cardiac medication/infusions Telemetry/temporary pacemakers
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 543264
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12439
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-03
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => November, 20 2023 16:59:39
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48193 ;Status=In-Progress (O);Association=Trinity Health ;Client=NY - St Joseph Hospital Health Center ;City=Syracuse ;State=NY ;Zip=13203 ;Start=12/3/2023;End=3/2/2024;Duration=90;Cert=RN Telemetry ;Specialty=D4 ;Unit=*Registered Nurse-Med Surg Tele-D4 ;Shift=0700-1930;# of Postions=1;Type=Travel;BillRate=$92.00;OTRate=119.60 ;ChargeRate=95.00 ;CallbackRate=119.60 ;HolidayRate=119.60 ;Description=Inpatient Telemetry RN 13 weeks 36 hrs/wk 12 hours 7a-7p Every other Holiday Every other Weekend No call required EHR-Epic BLS required ACLS preferred Intermediate level of care- Step down Cardiology experience preferred Cardiac medication/infusions Telemetry/temporary pacemakers ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 92
+    [facilityName] => St. Joseph's Health TRAVEL
+    [shiftDateEnd] => 2024-03-02
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

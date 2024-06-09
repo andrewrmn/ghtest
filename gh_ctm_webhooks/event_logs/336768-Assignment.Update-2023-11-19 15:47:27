@@ -1,0 +1,86 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2168',
+  'Cf-Ray' => '8289978262491830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+13
+week contract, 
+36 hours guaranteed, 
+3/12 hr shifts, rotating weekends, 
+Must
+take Covid patients, willing to float to Tele and sister hospital, 
+AZ license,
+BLS, 
+2  years of MedSurg experience, 
+Cerner experience is preferred.parseGeneralComments Comments
+.bd_title { font-weight: bold }
+PCR 2013-051
+Days 7a - 7p Contact: CHS MSP HOUSE Resource Manager: CHS MSP HOUSE
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 336768
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-01-31
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:47:10
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=559352 ;Status=Open;Association=CHS ;Client=Oro Valley Hospital ;City=Oro Valley ;State=AZ ;Zip=85755 ;Start=1/31/2022;End=5/2/2022;Duration=91;Cert=CHS Travel:Registered Nurse (RN) / Medical Surgical (559352) ;Specialty=1013: MED/SURG (UNIT/FLOOR 3) ;Unit=MED/SURG (UNIT/FLOOR 3) ;Shift=7:00 AM - 7:00 PM;# of Postions=1;Type=Travel;BillRate=$150.00;Description=Position Description
+13
+week contract, 
+36 hours guaranteed, 
+3/12 hr shifts, rotating weekends, 
+Must
+take Covid patients, willing to float to Tele and sister hospital, 
+AZ license,
+BLS, 
+2  years of MedSurg experience, 
+Cerner experience is preferred.parseGeneralComments Comments
+.bd_title { font-weight: bold }
+PCR 2013-051
+Days 7a - 7p Contact: CHS MSP HOUSE Resource Manager: CHS MSP HOUSE ;Buyer=CHS MSP HOUSE ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=559352#!/position/manage/559352;VMSPositionType=Travel InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 150
+    [facilityName] => Northwest Medical Center of Oro Valley
+    [shiftDateEnd] => 2022-05-02
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

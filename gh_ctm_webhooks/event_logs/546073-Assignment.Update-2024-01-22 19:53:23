@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '918',
+  'Cf-Ray' => '849a57c1b47077ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By Temp; Not Willing to Return
+    [sitename] => giftednurses
+    [spec] => Special Education
+    [assignmentid] => 546073
+    [workerID] => 294528
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 37.5
+    [facilityID] => 15724
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => Moncrieft
+    [shiftNum] => 1
+    [workerFirstName] => Rachell
+    [cert] => Teacher
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => January, 22 2024 14:53:22
+    [daysPerWeek] => 5
+    [orderNote] => FTK: GiftTS(Sign) Reg. 37.5
+BR:$64
+    [guaranteedMinimum] => 
+    [workerEmail] => rachellmoncrieft@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 64
+    [facilityName] => Gaston County Schools
+    [shiftDateEnd] => 2024-01-12
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

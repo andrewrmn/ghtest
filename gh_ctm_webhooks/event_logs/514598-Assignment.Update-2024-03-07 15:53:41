@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '925',
+  'Cf-Ray' => '860bc27fe3f3183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By RN; Moved to Perm
+    [sitename] => giftednurses
+    [spec] => Special Education
+    [assignmentid] => 514598
+    [workerID] => 316692
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 37.5
+    [facilityID] => 13903
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-07-26
+    [workerLastName] => Kimball
+    [shiftNum] => 1
+    [workerFirstName] => Leissa
+    [cert] => Teacher
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:30
+    [whenmodified] => March, 07 2024 10:53:40
+    [daysPerWeek] => 5
+    [orderNote] => BR:$65lRS:130850
+FTK:GiftTC(Signed) Reg 37.5 hrs
+    [guaranteedMinimum] => 
+    [workerEmail] => leissakimball@hotmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Hobbs Municipal Schools - Travel
+    [shiftDateEnd] => 2024-03-29
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

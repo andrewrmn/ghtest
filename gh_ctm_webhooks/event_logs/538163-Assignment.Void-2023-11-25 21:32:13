@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3962',
+  'Cf-Ray' => '82bd00c707941465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => We are looking for an Operating Room RN's with at least 3-5 years experience in the following specialties:  General, GYN, Orthopedics, Vascular, ENT, Neuro, Urology and Cardiothoracic. The RN must be able to Scrub and Circulate.Shift:Varied Days/Shifts (Schedule will be finalized at offer)   Additional Information:COVID Vaccine mandate PLEASE REVIEW COVID DOCUMENT IN THEIR ACCOUNT. Former perm employees will not be considered for a traveler position. ***Travelers are the first to float***Strict RADIUS RULE of 100 miles***  We will not accept agency time cards. Time will be processed and uploaded into Medefis the following week.  21 days discrepancies policy.  There is a time card walk through tutorial attached along with the facility contract and required docs under hospital profile page.  Medefis will handle all billing for this client. By clicking on the profile you can see a list of the documents required. That list must also be completed, signed and uploaded into Medefis.  Anyone directly contacting us will not be considered for this or any other positions at Parkview.   Position Urgency:Rapid Response Crisis Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 538163
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1349
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 25 2023 16:32:11
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=260311 ;Status=Open;Association=Parkview Medical Center ;Client=Parkview Medical Center ;City=Pueblo ;State=CO ;Zip=81009 ;Start=10/23/2023;End=1/22/2024;Duration=91;Cert=Nursing ;Specialty=Operating Room, Operating Room / Circulate, Operating Room / Circulation & Scrub, Operating Room / Scrub ;Unit=Operating Room, Operating Room / Circulate, Operating Room / Circulation & Scrub, Operating Room / Scrub ;Shift=Varied Days/Shifts (Schedule will be finalized at offer);# of Postions=3;Guaranteed Hours=36;Type=Travel;BillRate=$95.00;OTRate=105 ;OTRules=By The Week, after 40, ;ChargeRate=1 (Charge Rate Differential) ;CallbackRate=105 (All Inclusive Rate + $10) ;HolidayRate=105 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=We are looking for an Operating Room RN's with at least 3-5 years experience in the following specialties:  General, GYN, Orthopedics, Vascular, ENT, Neuro, Urology and Cardiothoracic. The RN must be able to Scrub and Circulate.Shift:Varied Days/Shifts (Schedule will be finalized at offer)   Additional Information:COVID Vaccine mandate PLEASE REVIEW COVID DOCUMENT IN THEIR ACCOUNT. Former perm employees will not be considered for a traveler position. ***Travelers are the first to float***Strict RADIUS RULE of 100 miles***  We will not accept agency time cards. Time will be processed and uploaded into Medefis the following week.  21 days discrepancies policy.  There is a time card walk through tutorial attached along with the facility contract and required docs under hospital profile page.  Medefis will handle all billing for this client. By clicking on the profile you can see a list of the documents required. That list must also be completed, signed and uploaded into Medefis.  Anyone directly contacting us will not be considered for this or any other positions at Parkview.   Position Urgency:Rapid Response Crisis Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260311;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Parkview Medical Center Travel
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

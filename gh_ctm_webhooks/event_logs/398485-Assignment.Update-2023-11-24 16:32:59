@@ -1,0 +1,74 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2072',
+  'Cf-Ray' => '82b30d15605b1464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+DeTar Healthcare System
+Shift: DAYS w/ ON CALL
+Start: ASAP
+RATE: $125parseGeneralComments Comments
+.bd_title { font-weight: bold }
+Backfill for Angela Tovar.
+This position is 5 days a week day shift from 0700-1530, with an alternating 7day on call commitment.  Contact: Yudline Baronville Resource Manager: Victoria Escamilla
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 398485
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9491
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-08-01
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 24 2023 11:32:48
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=614926 ;Status=Open;Association=CHS ;Client=DeTar Healthcare System ;City=Victoria ;State=TX ;Zip=77904 ;Start=ASAP;End=;Duration=91;Cert=CHS Travel:Registered Nurse (RN) / Cath Lab## (614926) ;Specialty=1106: CARDIO-CATH LAB ;Unit=CARDIO-CATH LAB ;Shift=DAYS w/ ON CALL;# of Postions=1;Type=Travel;BillRate=$125.00;minBillRate=$125.00;Description=Position Description
+DeTar Healthcare System
+Shift: DAYS w/ ON CALL
+Start: ASAP
+RATE: $125parseGeneralComments Comments
+.bd_title { font-weight: bold }
+Backfill for Angela Tovar.
+This position is 5 days a week day shift from 0700-1530, with an alternating 7day on call commitment.  Contact: Yudline Baronville Resource Manager: Victoria Escamilla ;Buyer=Yudline Baronville ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=614926#!/position/manage/614926;VMSPositionType=Travel minPayRate=$125.00;maxPayRate=$125.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 125
+    [facilityName] => DeTar Hospital - North 
+    [shiftDateEnd] => 2022-10-31
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

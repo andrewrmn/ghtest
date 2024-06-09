@@ -1,0 +1,99 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5241',
+  'Cf-Ray' => '829ad23546cb23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Clinical review and auto offer - position specific to cardiovascular
+Can offer 13 or 26 weeks
+Can offer 36 or 48 hours
+Rotating
+11/27 SD
+EOH
+3 Weekends per six week schedule
+BLS, PALS
+Must have experience with open chest patients, please make sure candidate aware of this and comfortable with that
+Can submit with VA license pending
+Can approve 40 hours max for time off
+Unable to approve time off first 2 weeks of contract
+
+ Modified Time:12/11/2023 12:00:00 AM
+ Account Manager: Christian Brown
+ Account Manager Email: Christian.Brown@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceRTO - Travelers are only guaranteed up to 40 hours of RTO per 13-week contract.&nbsp; The facility will try to accommodate any additional time off that exceeds the allotted 40 hours.If traveler has any vacation plans during the period between Sign Date and Start Date, this must be communicated to the Account Manager at the time of submission to ensure a realistic start date may be requestedExperience - Please refer to the job description for required experience.Valid State License - Will accept pending licenses except for RRT travelers must have license in-hand.Nursys Verification is required at time of submissionMile Radius Rule - No rule.References Required - YesFloat Requirements - Candidates will be asked to float within their scope of practice within the facility.Copy of Certification - Please include copy of certification(s) that are required in the job description with submissions.Required Charting Exp. - SRO Float Pool and Inpatient Units need Epic ExperienceBackground Policy - If aware of background hit(s), please inform Account Manager.Return Staff Policy - 12 months must pass to return as traveler.&nbsp; Please inform Account Manager if previously employed at UVA as permanent staff member or traveler.BSN preferred
+    [sitename] => giftednurses
+    [spec] => PICU
+    [assignmentid] => 543806
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12555
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 21 2023 12:58:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2293230 ;Status=Open;Association=Qualivis MSP ;Client=University of Virginia Medical Center ;City=Charlottesville ;State=VA ;Zip=22908-0001 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Registered Nurse ;Specialty=CVPICU ;Unit=PICU - 2071 ;Shift=Night 4x12-Hour (19:00 - 07:00);# of Postions=1;Type=Travel;BillRate=$125.00;OTRules=48 total hours in 1 week : 10 ;Orientation=16 ;Description=Clinical review and auto offer - position specific to cardiovascular
+Can offer 13 or 26 weeks
+Can offer 36 or 48 hours
+Rotating
+11/27 SD
+EOH
+3 Weekends per six week schedule
+BLS, PALS
+Must have experience with open chest patients, please make sure candidate aware of this and comfortable with that
+Can submit with VA license pending
+Can approve 40 hours max for time off
+Unable to approve time off first 2 weeks of contract
+
+ Modified Time:12/11/2023 12:00:00 AM
+ Account Manager: Christian Brown
+ Account Manager Email: Christian.Brown@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceRTO - Travelers are only guaranteed up to 40 hours of RTO per 13-week contract.&nbsp; The facility will try to accommodate any additional time off that exceeds the allotted 40 hours.If traveler has any vacation plans during the period between Sign Date and Start Date, this must be communicated to the Account Manager at the time of submission to ensure a realistic start date may be requestedExperience - Please refer to the job description for required experience.Valid State License - Will accept pending licenses except for RRT travelers must have license in-hand.Nursys Verification is required at time of submissionMile Radius Rule - No rule.References Required - YesFloat Requirements - Candidates will be asked to float within their scope of practice within the facility.Copy of Certification - Please include copy of certification(s) that are required in the job description with submissions.Required Charting Exp. - SRO Float Pool and Inpatient Units need Epic ExperienceBackground Policy - If aware of background hit(s), please inform Account Manager.Return Staff Policy - 12 months must pass to return as traveler.&nbsp; Please inform Account Manager if previously employed at UVA as permanent staff member or traveler.BSN preferred ;url=https://app.ayaconnect.com/index.html#/vendor/job/2293230/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 125
+    [facilityName] => University of Virginia Medical Center Travel
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

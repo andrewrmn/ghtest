@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2672',
+  'Cf-Ray' => '827aaadb22b96a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Seeking a surgical tech with at least one year of experience in ortho, OBGYN, & general surgery. ND UAP is required, and in order to qualify for a UAP in ND, candidate must have completed an accredited program OR be nationally certified.   Additional Information:50 mile radius rule is in place. traveler's permanent address must be 50 miles or further from facility -------------All of the travelers documents must be in by 3pm Wednesday the week before the traveler starts. They will automatically be pushed out till the next orientation class.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 542377
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 6081
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 17 2023 15:18:32
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=261122 ;Status=Open;Association=CHI Hospital System ;Client=Mercy Medical Center Williston MBO 3800 ;City=Williston ;State=ND ;Zip=58801 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Nursing ;Specialty=Surgical Technologist ;Unit=Surgical Technologist ;Shift=Rotating;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$90.00;OTRate=90 ;OTRules=By The Week, after 40, ;ChargeRate=5 (Charge Rate Differential) ;CallbackRate=90 (All Inclusive Rate) ;HolidayRate=90 (All Inclusive Rate) ;OnCallRateDescription=$7 per hour pager ;Description=Seeking a surgical tech with at least one year of experience in ortho, OBGYN, & general surgery. ND UAP is required, and in order to qualify for a UAP in ND, candidate must have completed an accredited program OR be nationally certified.   Additional Information:50 mile radius rule is in place. traveler's permanent address must be 50 miles or further from facility -------------All of the travelers documents must be in by 3pm Wednesday the week before the traveler starts. They will automatically be pushed out till the next orientation class.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261122;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => CHI St. Alexius Health Williston Medical Center
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

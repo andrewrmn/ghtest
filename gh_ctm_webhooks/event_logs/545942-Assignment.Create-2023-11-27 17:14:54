@@ -1,0 +1,166 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '29',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4321',
+  'Cf-Ray' => '82cc029701284961-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:1 OA
+
+
+ASAP START
+BILL RATE $65.00
+NIGHTS 7P TO 7A12 HOUR SHIFTS - 3X12'S BLOCKEDNO CALL6:1 RATIOEMR: CERNER
+PLEASE SUBMIT UPDATED PACKETS WITH ALL REQUIRED INFO AND CERTS
+PLEASE DO NOT SUBMIT MORE THAN ONCE.
+IF REJECTED, EMAIL WITH MISSING DOCS AND WE WILL UNREJECT THE CURRENT MATCH
+REQUIREMENTS
+BLS
+CERNER EXPERIENCE
+
+MUST INCLUDE HOME ADDRESS AND SSN WITH SUBMISSION
+MUST BE GREATER THAN 50 MILES FROM THE FACILITY
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location:
+ No. of Positions: 3/3.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545942
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8461
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-13
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 27 2023 12:14:53
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=775365 ;Status=Open;Association=Community Health Systems ;Client=Merit Health River Oaks ;City=Flowood ;State=MS ;Zip=39232 ;Start=11/13/2023;End=2/12/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=EXT-Other (911) ;Shift=NIGHTS;# of Postions=3;Type=Travel;BillRate=$65.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:1 OA
+
+
+ASAP START
+BILL RATE $65.00
+NIGHTS 7P TO 7A12 HOUR SHIFTS - 3X12'S BLOCKEDNO CALL6:1 RATIOEMR: CERNER
+PLEASE SUBMIT UPDATED PACKETS WITH ALL REQUIRED INFO AND CERTS
+PLEASE DO NOT SUBMIT MORE THAN ONCE.
+IF REJECTED, EMAIL WITH MISSING DOCS AND WE WILL UNREJECT THE CURRENT MATCH
+REQUIREMENTS
+BLS
+CERNER EXPERIENCE
+
+MUST INCLUDE HOME ADDRESS AND SSN WITH SUBMISSION
+MUST BE GREATER THAN 50 MILES FROM THE FACILITY
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location:
+ No. of Positions: 3/3.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/775365;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Merit Health River Oaks Travel
+    [shiftDateEnd] => 2024-02-12
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,90 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1657',
+  'Cf-Ray' => '84257829943a77ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => Special Education
+    [assignmentid] => 537103
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 37
+    [facilityID] => 14404
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Teacher
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => January, 08 2024 10:28:16
+    [daysPerWeek] => 5
+    [orderNote] => SPEDs needed in Rock Hill, SC  (27 miles // 35 minutes from Charlotte, NC)
+
+New client - Rock Hill Schools
+
+ASAP - June 6th 2024
+
+37 hours per week
+
+SC license certification (multi-categorical is preferred or LD for high school resource, ED for middle behavior or ID for elementary ID)
+
+Will consider candidate with pending license
+
+Bill rate: $70 per hour
+
+2 teacher assistants in all of the self-contained classrooms
+
+Will not consider remote teachers at this time
+
+ 
+
+ 
+
+3elementary self-contained classes for students with moderate intellectual disabilities
+
+1elementary resource teacher
+
+1middle school self-contained class for students with severe intellectual disabilities
+
+2middle school self-contained classes for students with emotional and behavioral disabilities
+
+2high school resource teachers
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Rock Hill Schools
+    [shiftDateEnd] => 2024-06-06
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

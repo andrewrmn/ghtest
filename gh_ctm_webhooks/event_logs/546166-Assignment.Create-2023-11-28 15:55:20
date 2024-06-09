@@ -1,0 +1,92 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2218',
+  'Cf-Ray' => '82d3cb6aa72723b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Operating Room- RN
+
+	Candidates must have strong ortho/neuro trauma experience
+
+	13 weeks,shifts 11a-11:30p, See further down in purple additional requirements
+
+	Two plus yearscirculating  scrub OR experience,BLS, EPIC
+
+	Including:
+
+	2 8hr weekend call shift/6wk schedule with 45minute response time
+
+	1-8hr holiday shift, if applicable
+
+	1 12hr weekend shift/6week schedule
+
+	1st week of orientation will be 5x day shift.
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 546166
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2908
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-02
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => November, 28 2023 10:55:19
+    [daysPerWeek] => 3
+    [orderNote] => Source=IntrastaffVMS;SourceID=305397 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Bayview Medical Center ;Start=1/2/2024;End=3/30/2024;Duration=88;Cert=MSP RN Enhanced High Needs ;Specialty=OPERATING ROOM (4007257201) ;Unit=OPERATING ROOM (4007257201) ;Shift=Day 12 (11:00 AM - 11:00 PM);# of Postions=1;Type=Travel;BillRate=$100.00;minBillRate=$100.00;Description=Operating Room- RN
+
+	Candidates must have strong ortho/neuro trauma experience
+
+	13 weeks,shifts 11a-11:30p, See further down in purple additional requirements
+
+	Two plus yearscirculating  scrub OR experience,BLS, EPIC
+
+	Including:
+
+	2 8hr weekend call shift/6wk schedule with 45minute response time
+
+	1-8hr holiday shift, if applicable
+
+	1 12hr weekend shift/6week schedule
+
+	1st week of orientation will be 5x day shift. ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=C8VTyDjEEbg=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => JHHS Johns Hopkins Bayview Med Ctr TRAVEL
+    [shiftDateEnd] => 2024-03-30
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

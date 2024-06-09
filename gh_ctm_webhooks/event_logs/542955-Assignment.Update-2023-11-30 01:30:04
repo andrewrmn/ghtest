@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3957',
+  'Cf-Ray' => '82df52afb26823b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => We are seeking an experienced RN for our Skilled Nursing units.The candidate must have a current WI License and CPR. RN must be fully vaccinated for COVID-19 and Flu.This position will require every third weekend  holiday and12 hours shiftsNights (6:30p -7:00a)ESSENTIAL DUTIES AND RESPONSIBILITIESUtilizes the nursing process and collaborates with interdisciplinary team members in caring for patients.Administers prescribed medications and treatments in accordance with approved nursing techniques, policies and procedures, standards of care, and State laws/practice act.Documents according to standards of care.Develops, initiates, and executes a patient plan of care according to the individualized needs of the patient, as prescribed by Physician and/or hospital policy including patient and family instruction.Participates in department or unit performance improvement activities, may include shared governance.Utilizes clinical expertise  guidance to other units/departments in support of the patient s longitudinal plan of care.Utilizes critical thinking in regards to patient safety and patient experience and appropriately escalates to the appropriate chain of command.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Skilled Nursing
+    [assignmentid] => 542955
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11297
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 29 2023 20:29:22
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261283 ;Status=Open;Association=Mercyhealth ;Client=Mercyhealth Hospital and Trauma Center - Janesville ;City=Janesville ;State=WI ;Zip=53548 ;Start=11/7/2023;End=2/6/2024;Duration=91;Cert=Nursing ;Specialty=Skilled Nursing (SNF) ;Unit=Skilled Nursing (SNF) ;Shift=Nights;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$87.50;OTRate=97.5 ;OTRules=By The Week, after 40, ;HolidayRate=97.5 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=We are seeking an experienced RN for our Skilled Nursing units.The candidate must have a current WI License and CPR. RN must be fully vaccinated for COVID-19 and Flu.We need specific coverage for the dates below:1830-0700 schedule -November 27, 30, and December 1, 3, 4, 9, 10, 12, 29, and January 11830-2230 schedule - November 18, 21, December 7, 11, 13, 14, 18, 21, 28, 31, January 4, and 5ESSENTIAL DUTIES AND RESPONSIBILITIESUtilizes the nursing process and collaborates with interdisciplinary team members in caring for patients.Administers prescribed medications and treatments in accordance with approved nursing techniques, policies and procedures, standards of care, and State laws/practice act.Documents according to standards of care.Develops, initiates, and executes a patient plan of care according to the individualized needs of the patient, as prescribed by Physician and/or hospital policy including patient and family instruction.Participates in department or unit performance improvement activities, may include shared governance.Utilizes clinical expertise  guidance to other units/departments in support of the patient s longitudinal plan of care.Utilizes critical thinking in regards to patient safety and patient experience and appropriately escalates to the appropriate chain of command.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261283;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 87.5
+    [facilityName] => Mercyhealth Hospital and Trauma Center-Janesville
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

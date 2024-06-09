@@ -1,0 +1,503 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '10485',
+  'Cf-Ray' => '82d6ca32655d1838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:
+ General CommentsTriStar Centennial Medical Center is a 657-bed comprehensive facility located in Nashville, Tennessee. The hospital's 43-acre campus is home to many noteworthy treatment centers, including a
+Sarah Cannon Cancer Institute, a
+Children's Hospital, and a
+Women's Hospital, among other
+service offerings.
+
+
+The facility's
+positive company culture
+stems from its strong emphasis on
+ICARE, short for
+Integrity,
+Compassion,
+A
+positive attitude,
+Respect, and
+Exceptional quality.
+Through living this philosophy each day, TriStar Centennial has earned many
+awards and accreditations, such as:
+An "A" Hospital Safety Score from the Leapfrog Group,Recognition as a Bariatric Surgery Center of Excellence by the American Society for Metabolic and Bariatric Surgery, andAn accreditation and Gold Seal of Approval from The Joint Commission.
+
+The facility's focus on exceptional care and meeting the needs of the surrounding community have made TriStar Centennial a leading healthcare provider in the Nashville area.
+
+
+Nashville lives up to its nickname of
+Music City
+by featuring more than 100 live music venues, including the famous
+Grand Ole Opry. The city is also home to the
+Frist Art Museum, the
+Country Music Hall of Fame and Museum, a
+booming food scene, and
+so much more. For a truly unique experience, the city holds an annual
+Tomato Art Festival
+that you need to see to believe.
+
+        Hospital:
+ Centennial   Medical Center             Location: Nashville, TN             
+Address: 2300   Patterson Street 
+         
+Unit Name: Main   Operating Room
+             
+Building: Main   Tower
+         
+Cost Center: 703
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds: 20
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios: 1:1
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description: 1 RN, 1   CST, and 1 FA per OR room
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment: DaVinci Xi robots,   Mazor robots, Stealth Navigation
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: 36   40   hrs/wk and call shifts as needed (no more than 1/week)
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: During low census,   only to other OR s on campus
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements:   Surgical experience
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:   STFA or RNFA, CPR
+   
+ 
+
+
+
+
+
+
+
+   RN s have   to be registered nurses in TN or compact state. 
+   
+ 
+
+
+
+
+
+
+
+   Certifications:   CST
+             Hiring profile             Requested Skill Set: Endovascular experience preferred; DaVinci   robotics experience preferred; Meditech charting experience preferred (RN)   
+   
+Must have: Multi-year   OR experience in the current role (RN, CST, FA, RNFA)
+   
+   
+
+
+   Advanced skills needed: See  Requested Skill   set    
+
+
+   
+   
+Procedures performed on unit: 
+Neurosurgery,   ortho-spine surgery, orthopaedics, oral/maxo facial surgery, plastics,   Colorectal, Robotic general surgery, general surgery, robotic bariatric   surgery, ENT, Urology/cysto surgery, Robotic urology surgery, Robotic   thoracic surgery, vascular surgery, endo-vascular surgery. 
+   
+
+
+   
+
+
+   Certifications Required: STFA or RNFA; CPR   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   
+Navy or Ceil blue scrubs (not provided).   Hospital scrubs available to change into for  dirty  cases
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 546223
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1297
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 28 2023 19:38:47
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=769822 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=CENTENNIAL MEDICAL CENTER TN ;City=NASHVILLE ;State=TN ;Zip=37203 ;Start=11/20/2023;End=2/12/2024;Duration=84;Cert=CST/ORT ;Specialty=First Assist ;Unit=TRISTAR DIVISION (7) ;Shift=7:00AM - 7:00PM;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=83 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:
+ General CommentsTriStar Centennial Medical Center is a 657-bed comprehensive facility located in Nashville, Tennessee. The hospital's 43-acre campus is home to many noteworthy treatment centers, including a
+Sarah Cannon Cancer Institute, a
+Children's Hospital, and a
+Women's Hospital, among other
+service offerings.
+
+
+The facility's
+positive company culture
+stems from its strong emphasis on
+ICARE, short for
+Integrity,
+Compassion,
+A
+positive attitude,
+Respect, and
+Exceptional quality.
+Through living this philosophy each day, TriStar Centennial has earned many
+awards and accreditations, such as:
+An "A" Hospital Safety Score from the Leapfrog Group,Recognition as a Bariatric Surgery Center of Excellence by the American Society for Metabolic and Bariatric Surgery, andAn accreditation and Gold Seal of Approval from The Joint Commission.
+
+The facility's focus on exceptional care and meeting the needs of the surrounding community have made TriStar Centennial a leading healthcare provider in the Nashville area.
+
+
+Nashville lives up to its nickname of
+Music City
+by featuring more than 100 live music venues, including the famous
+Grand Ole Opry. The city is also home to the
+Frist Art Museum, the
+Country Music Hall of Fame and Museum, a
+booming food scene, and
+so much more. For a truly unique experience, the city holds an annual
+Tomato Art Festival
+that you need to see to believe.
+
+        Hospital:
+ Centennial   Medical Center             Location: Nashville, TN             
+Address: 2300   Patterson Street 
+         
+Unit Name: Main   Operating Room
+             
+Building: Main   Tower
+         
+Cost Center: 703
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds: 20
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios: 1:1
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description: 1 RN, 1   CST, and 1 FA per OR room
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment: DaVinci Xi robots,   Mazor robots, Stealth Navigation
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: 36   40   hrs/wk and call shifts as needed (no more than 1/week)
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: During low census,   only to other OR s on campus
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements:   Surgical experience
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:   STFA or RNFA, CPR
+   
+ 
+
+
+
+
+
+
+
+   RN s have   to be registered nurses in TN or compact state. 
+   
+ 
+
+
+
+
+
+
+
+   Certifications:   CST
+             Hiring profile             Requested Skill Set: Endovascular experience preferred; DaVinci   robotics experience preferred; Meditech charting experience preferred (RN)   
+   
+Must have: Multi-year   OR experience in the current role (RN, CST, FA, RNFA)
+   
+   
+
+
+   Advanced skills needed: See  Requested Skill   set    
+
+
+   
+   
+Procedures performed on unit: 
+Neurosurgery,   ortho-spine surgery, orthopaedics, oral/maxo facial surgery, plastics,   Colorectal, Robotic general surgery, general surgery, robotic bariatric   surgery, ENT, Urology/cysto surgery, Robotic urology surgery, Robotic   thoracic surgery, vascular surgery, endo-vascular surgery. 
+   
+
+
+   
+
+
+   Certifications Required: STFA or RNFA; CPR   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   
+Navy or Ceil blue scrubs (not provided).   Hospital scrubs available to change into for  dirty  cases
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/769822;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Centennial Medical Center
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

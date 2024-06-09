@@ -1,0 +1,81 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2329',
+  'Cf-Ray' => '82ee8b8ff61d1466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DRIVER'S LICENSE MUST BE INCLUDED WITH SUBMISSION 
+
+NO MORE THAN 5 DAYS OF RTO WILL BE ACCEPTED
+
+
+ Modified Time:12/19/2023 12:00:00 AM
+
+ Account Manager: Jennifer Davis
+
+ Account Manager Email: Jennifer.Davis@ayahealthcare.com
+
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+
+ Submittal Details: #Tier2 Travel ComplianceRN & Allied Travelers - A copy of traveler s valid State Issued Driver s License or State ID MUST be attached to ALL submittalsRN candidates only - Must have compact license to applyAmerican Heart Association certs requiredNo more than 5 days of RTO will be accepted per every 13 weeks (NO HOLIDAY RTO at all)Floating: All candidates must be willing to float to other areas   even if that is another Integris facility, up to 75 miles.  Do not sub unless the traveler is aware and willing to float.Traveler must have a minimum of 1 year separation from INTEGRIS as an employee to be eligible for submissionCandidates within 75 miles are considered local travelers and are NOT eligible to apply at Integris.ER candidates only: $32 for ESI certification not included in the BROrientation - held every OTHER Tuesday: 11/14/23, 11/28/23, 12/5/23, 12/19/23, 1/9/24, 1/24/24, etc.DOES NOT ACCEPT TRAVEL PAIRS
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 544285
+    [workerID] => 204256
+    [WorkerContactNo] => 337-280-6304
+    [housingNote] => Scrub Color: TBD
+Approved Time Off: None. 
+Orientation Pay: $20.00
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13235
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-09
+    [workerLastName] => Broussard
+    [shiftNum] => 2
+    [workerFirstName] => Lauren
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 01 2023 16:50:19
+    [daysPerWeek] => 5
+    [orderNote] => FTK: Kronos
+Chrg:P$1/B$2-OnCl:P$7/B$9
+Ornt:$20/NB:8hr
+BR $90
+    [guaranteedMinimum] => 
+    [workerEmail] => laurenbrou3@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => INTEGRIS Baptist Medical Center Travel
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

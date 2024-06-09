@@ -1,0 +1,70 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1619',
+  'Cf-Ray' => '82ee709a464823b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:CONTRACT - CST - OR/SURGERY (701) - 13 WEEKS -
+10A-8:30P
+ON-CALL REQUIRED
+**BLS REQUIRED**
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 543376
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5423
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 21:00
+    [whenmodified] => December, 01 2023 16:31:55
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=772121 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=LAS PALMAS MEDICAL CENTER El Paso ;City=El Paso ;State=TX ;Zip=79902 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=CST/ORT ;Specialty=OR ;Unit=CENTRAL AND WEST TEXAS DIVISION (50) ;Shift=10A-8:30P;# of Postions=1;Type=Travel;BillRate=$75.00;minBillRate=$75.00;OTRate=83 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:CONTRACT - CST - OR/SURGERY (701) - 13 WEEKS -
+10A-8:30P
+ON-CALL REQUIRED
+**BLS REQUIRED**
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/772121;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Las Palmas Medical Center Travel
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

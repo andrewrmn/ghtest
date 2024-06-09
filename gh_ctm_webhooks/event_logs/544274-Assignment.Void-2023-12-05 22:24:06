@@ -1,0 +1,133 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6158',
+  'Cf-Ray' => '830fb288601b4951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Med Surg RN (this is an MS/Tele unit, but the Tele Tech's are separate)
+Contract will be offered through the holidays.  Please limit holiday RTO.
+ASAP start
+
+Some weekends/Holidays required
+
+Required Certs: BLS, ACLS (AHA only)
+Required to be a graduate of an accredited school of nursing with current licensure as a registered nurse in the state of NC
+Required Skills: IV Start
+
+2 years Experience Preferred
+Travel Experience Preferred
+
+EMR: MEDITECH (experience not required)
+
+*COVID: Possible
+
+**Covid vaccine or approved medical/religious exemption is required
+
+More info,
+-Common pt populations/illnesses?  27 bed medical and surgical combined. General surgery and orthopedics, CHF, diabetes, general illness, sepsis
+-How many beds on the floor? 27
+-What is your patient to nurse ratio? Usually 5 patient assignment
+-Are there CNAs/techs on the floor?  Usually staff with 3 aids and a unit secretary 
+-What can I expect during orientation/how long usually? Orientation for travelers is typically 3 shifts. The first shift is more house-wide and general hospital, then 2 shifts of working with a nurse on the unit
+-What does your units scheduling look like? Self scheduling model for the most part, every other weekend, schedule is 4 week
+-What is your charting system? Meditech
+-How often do travelers float and to what units? We are boosting up our staffing to be able to open and staff 1st medical, our overflow unit.  We have a float rotation and try to float by turn.  At times, staff are needed to float to ICU to help with any overflows or less critical patients.  It is not frequent, but it could occur.
+
+
+ Modified Time:12/4/2023 5:00:00 AM
+ Account Manager: Ashley Feick
+ Account Manager Email: Ashley.Feick@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceNeed 1.5 weeks/10 calendar days + (Quick Starts okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance.RTO: Please keep RTO to a minimum.&nbsp; It must be listed on Qualivis cover page at time of submission to be approved by facility prior to offer.Experience requirements may vary, please see job description.Must be licensed to practice in NC at time of submission, not pending.2 supervisory references requiredLocals accepted at regular rateCopy of Certifications
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544274
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10920
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 05 2023 17:24:06
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2310640 ;Status=Open;Association=Qualivis EPA ;Client=Granville Medical Center ;City=Oxford ;State=NC ;Zip=27565 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Registered Nurse ;Specialty=Medical Surgical ;Unit=Med Surg, 01.6031 ;Shift=Night 3x12-Hour (19:00 - 07:00);# of Postions=2;Type=Travel;BillRate=$80.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Med Surg RN (this is an MS/Tele unit, but the Tele Tech's are separate)
+Contract will be offered through the holidays.  Please limit holiday RTO.
+ASAP start
+
+Some weekends/Holidays required
+
+Required Certs: BLS, ACLS (AHA only)
+Required to be a graduate of an accredited school of nursing with current licensure as a registered nurse in the state of NC
+Required Skills: IV Start
+
+2 years Experience Preferred
+Travel Experience Preferred
+
+EMR: MEDITECH (experience not required)
+
+*COVID: Possible
+
+**Covid vaccine or approved medical/religious exemption is required
+
+More info,
+-Common pt populations/illnesses?  27 bed medical and surgical combined. General surgery and orthopedics, CHF, diabetes, general illness, sepsis
+-How many beds on the floor? 27
+-What is your patient to nurse ratio? Usually 5 patient assignment
+-Are there CNAs/techs on the floor?  Usually staff with 3 aids and a unit secretary 
+-What can I expect during orientation/how long usually? Orientation for travelers is typically 3 shifts. The first shift is more house-wide and general hospital, then 2 shifts of working with a nurse on the unit
+-What does your units scheduling look like? Self scheduling model for the most part, every other weekend, schedule is 4 week
+-What is your charting system? Meditech
+-How often do travelers float and to what units? We are boosting up our staffing to be able to open and staff 1st medical, our overflow unit.  We have a float rotation and try to float by turn.  At times, staff are needed to float to ICU to help with any overflows or less critical patients.  It is not frequent, but it could occur.
+
+
+ Modified Time:12/4/2023 5:00:00 AM
+ Account Manager: Ashley Feick
+ Account Manager Email: Ashley.Feick@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceNeed 1.5 weeks/10 calendar days + (Quick Starts okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance.RTO: Please keep RTO to a minimum.&nbsp; It must be listed on Qualivis cover page at time of submission to be approved by facility prior to offer.Experience requirements may vary, please see job description.Must be licensed to practice in NC at time of submission, not pending.2 supervisory references requiredLocals accepted at regular rateCopy of Certifications ;url=https://app.ayaconnect.com/index.html#/vendor/job/2310640/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Granville Medical Center
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

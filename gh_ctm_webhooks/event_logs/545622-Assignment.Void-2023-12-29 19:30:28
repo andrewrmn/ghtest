@@ -1,0 +1,129 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '21',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2961',
+  'Cf-Ray' => '83d4752c55b64941-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 545622
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Contract
+    [hoursPerWeek] => 36
+    [facilityID] => 13882
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-15
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => float to MS / Tele
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 29 2023 14:30:27
+    [daysPerWeek] => 3
+    [orderNote] => job ID 	2258818
+this is an auto offer and if RN receives offer the offer has to be accepted within 2 to 4 hours of receiving 
+Job: Registered Nurse - MS/Tele @ LCMC Health East Jefferson General Hospital
+ Job Details
+ Requirements
+Status:
+Open
+Union Code:
+-
+Profession:
+Registered Nurse
+Specialty:
+MS/Tele
+Unit:
+Vaya - 2 East PCU 70021
+Shift:
+Night 3x12-Hour (19:00 - 07:30)
+
+Block Schedules:
+No
+Start Date:
+11/22/2023
+Job Duration:
+13
+# of Positions:
+1
+Non-Bill. Orientation:
+16
+Job ID:
+2258818
+Account Manager:
+Shannon Steely
+Email:
+Ssteely@ayahealthcare.com
+Base Bill Rate:
+$85.00
+Overtime Multiplier:
+40 total hours in 1 week : 1.25%
+Double Time Multiplier:
+None
+Charge Nurse:
+$5.00
+On Call:
+0.1%
+Call Back:
+1.4%
+Holiday:
+1.4%
+Observed Holidays:
+New Year's Day: Falls Within: 11:00 PM day before - 11:00 PM day of
+Labor Day: Falls Within: 11:00 PM day before - 11:00 PM day of
+Independence Day: Falls Within: 11:00 PM day before - 11:00 PM day of
+Thanksgiving: Falls Within: 11:00 PM day before - 11:00 PM day of
+Christmas: Falls Within: 11:00 PM day before - 11:00 PM day of
+MLK: Falls Within: 11:00 PM day before - 11:00 PM day of
+Mardi Gras: Falls Within: 11:00 PM day before - 11:00 PM day of
+
+Holiday Comments: None
+Orientation:
+16 hours @ $0 Non-Billable
+Job Location:
+4200 Houma Boulevard
+Metairie, LA 70006
+Description:
+Backfill: R. Gardette  Ratio 1:6  Weekend: Yes  On-Call: No  Float: MS/Tele/PCU; float across all 5 units requiring MS Tele and PCU Exp  Epic Exp Req  Min 2 yrs: PCU/MS Tele  Pls Include PCU and MS Tele skills checklist  Unit Info: Must have worked in a cardiac tele unit with cardiazem, amiodarone, and other set rate drips are hung. Experience interpreting strips and making clinical decisions as to cardiac med admin and drip titration  Req Cert: BLS, ACLS  RTO <5 days
+COVID-19 Vaccine (Facility Guideline):
+Required - Medical/Religious Exemptions Only
+Flu Vaccine (Facility Guideline):
+Required - No Exemptions
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => East Jefferson General Hospital VAYA
+    [shiftDateEnd] => 2024-04-18
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

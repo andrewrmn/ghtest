@@ -1,0 +1,65 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '22',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1965',
+  'Cf-Ray' => '82929a9135764945-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Level 1 experience desired, plus 2 years recent experience in OR and BLS. Staff will be expected to work in a variety of specialty areas. Total Joints, Ortho Spine, Gyn, and MIS required.  (BF for Stacey Payne JG) 
+ Critical Need: Disaster Critical 13
+VayaOffer = False
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 544107
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 12923
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-09
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 20 2023 13:02:24
+    [daysPerWeek] => 5
+    [orderNote] => Source=OptimizerVizient;SourceID=54842462 ;Status=CandidatesRequested;Association=University of Kentucky Hospital ;Client=University of Kentucky Hospital ;City=Lexington ;State=KY ;Zip=40536 ;Start=1/9/2024;End=4/13/2024;Duration=95;Cert=RN ;Specialty=RN - Operating Room ;Unit=GS Surgery - 1061970000 ;Shift=7:00 AM - 3:30 PM;# of Postions=1;Guaranteed Hours=0;Type=Travel;BillRate=$110.00;OTRate=154.00 ;CallbackRate=154.00 ;HolidayRate=165.00 ;Orientation=77.00 ;Priority=Critical;Description=Level 1 experience desired, plus 2 years recent experience in OR and BLS. Staff will be expected to work in a variety of specialty areas. Total Joints, Ortho Spine, Gyn, and MIS required.  (BF for Stacey Payne JG) 
+ Critical Need: Disaster Critical 13
+VayaOffer = False ;url=https://optimizer.vayaworkforce.com/agency/job-requests/54842462;localRate=$105.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => University of Kentucky Hospital Travel
+    [shiftDateEnd] => 2024-04-13
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,66 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1603',
+  'Cf-Ray' => '8315ca8303186a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Prefer 5+ years of experience. Monday-Friday 3pm-11:30pm or 11pm-7:30am, with weekend call. 
+Must have autoclave experience.
+
+LRM 00471824
+    [sitename] => giftednurses
+    [spec] => Sterile Processing Tech 
+    [assignmentid] => 544658
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 10945
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 3
+    [workerFirstName] => 
+    [cert] => Sterile Processing Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 06 2023 11:09:02
+    [daysPerWeek] => 5
+    [orderNote] => Source=EinsteinTrinity;SourceID=48496 ;Status=In-Progress (O);Association=Trinity Health ;Client=OH - Mount Carmel East ;City=Columbus ;State=OH ;Zip=43213 ;Start=12/17/2023;End=3/16/2024;Duration=90;Cert=Sterile Processing Tech ;Specialty=Sterile Processing Instrument Tech ;Unit=*TH VMS Instrument Tech III_M4396 ;Shift=11p7;# of Postions=1;Type=Travel;BillRate=$49.00;OTRate=63.70 ;ChargeRate=52.00 ;CallbackRate=63.70 ;HolidayRate=63.70 ;Orientation=0.00 ;Description=Prefer 5+ years of experience. Monday-Friday 3pm-11:30pm or 11pm-7:30am, with weekend call. 
+Must have autoclave experience.
+
+LRM 00471824 ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 49
+    [facilityName] => Mount Carmel East TRAVEL
+    [shiftDateEnd] => 2024-03-23
+    [shiftStartTime] => 23:00
+    [subjectID] => 
+)

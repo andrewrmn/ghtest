@@ -1,0 +1,154 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3923',
+  'Cf-Ray' => '82b2ac14f07d23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name Med Step Down Intermediate-RN-Mercy South
+  
+Organization Mercy
+  
+Facility Mercy Hospital South
+  
+Unit Step Down Unit
+  
+Cost Center 15-446208
+  
+
+
+  SHIFT INFO  
+Shift day
+  
+Shifts per week 3
+  
+Hours per shift 12
+  EXPERIENCE  
+Years of Experience
+  
+Specialties Step Down
+-
+required
+  
+Technologies
+  CERTIFICATIONS  
+Certifications
+  
+BLS
+-
+required
+ ACLS
+-
+required
+  DESCRIPTION  
+Unit: Step Down Specialty: RN
+  
+
+Location: East Facility
+  
+Central Shift: 3x12 [36 hours] 
+  
+ICU/Vent experience required Utilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards. Graduate of a state approved professional nurse program. 
+  
+Current RN licensure with Missouri State Board of Nursing or current RN Missouri temporary work permit.
+ General Comments
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Stepdown
+    [assignmentid] => 542885
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15624
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 24 2023 10:26:05
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=773955 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital South ;City=Saint Louis ;State=MO ;Zip=63128 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=RN ;Specialty=Step Down ;Unit=Mercy ;Shift=07:00-19:00;# of Postions=2;Type=Travel;BillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Name Med Step Down Intermediate-RN-Mercy South
+  
+Organization Mercy
+  
+Facility Mercy Hospital South
+  
+Unit Step Down Unit
+  
+Cost Center 15-446208
+  
+
+
+  SHIFT INFO  
+Shift day
+  
+Shifts per week 3
+  
+Hours per shift 12
+  EXPERIENCE  
+Years of Experience
+  
+Specialties Step Down
+-
+required
+  
+Technologies
+  CERTIFICATIONS  
+Certifications
+  
+BLS
+-
+required
+ ACLS
+-
+required
+  DESCRIPTION  
+Unit: Step Down Specialty: RN
+  
+
+Location: East Facility
+  
+Central Shift: 3x12 [36 hours] 
+  
+ICU/Vent experience required Utilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards. Graduate of a state approved professional nurse program. 
+  
+Current RN licensure with Missouri State Board of Nursing or current RN Missouri temporary work permit.
+ General Comments
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/773955;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital South - Travel
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

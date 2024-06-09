@@ -1,0 +1,158 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4431',
+  'Cf-Ray' => '837975a315b277ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:ASAP START
+
+BILLRATE $70.00
+SHIFT DAYS: 6:30A-3P
+NO WEEKENDS, NO CALLSREQUIREMENTS:2 YEARS INTERVENTIONAL RADIOLOGY EXPERIENCE
+BLS, ACLS
+MUST
+INCLUDE THE HOME ADDRESS ON THE SUBMISSION
+MUST BE GREATER THAN 50 MILES FROM THE FACILITY
+
+Scrub
+technicians, also referred to as surgical technologists, assist surgeons in the operating room. Responsibilities for this position include preparing operating rooms, sterilizing equipment, passing instruments to the surgeons, moving patients, and dressing wounds.
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location:
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 532234
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 8879
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-10-23
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => December, 18 2023 13:27:22
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=761395 ;Status=Open;Association=Community Health Systems ;Client=Grandview Medical Center ;City=Birmingham ;State=AL ;Zip=35243 ;Start=10/23/2023;End=1/22/2024;Duration=91;Cert=Scrub Tech ;Specialty=OR ;Unit=EXT-Other (911) ;Shift=06:30-15:00;# of Postions=1;Type=Travel;BillRate=$70.00;minBillRate=$70.00;OTRate=78 ;CallbackRate=78 ;HolidayRate=78 ;Description=Description:ASAP START
+
+BILLRATE $70.00
+SHIFT DAYS: 6:30A-3P
+NO WEEKENDS, NO CALLSREQUIREMENTS:2 YEARS INTERVENTIONAL RADIOLOGY EXPERIENCE
+BLS, ACLS
+MUST
+INCLUDE THE HOME ADDRESS ON THE SUBMISSION
+MUST BE GREATER THAN 50 MILES FROM THE FACILITY
+
+Scrub
+technicians, also referred to as surgical technologists, assist surgeons in the operating room. Responsibilities for this position include preparing operating rooms, sterilizing equipment, passing instruments to the surgeons, moving patients, and dressing wounds.
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location:
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/761395;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Grandview Medical Center
+    [shiftDateEnd] => 2024-01-22
+    [shiftStartTime] => 06:30
+    [subjectID] => 
+)

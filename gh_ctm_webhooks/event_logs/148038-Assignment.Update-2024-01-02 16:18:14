@@ -1,0 +1,74 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '12190',
+  'Cf-Ray' => '83f45114f5a21463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => ***Position is located in the Southeast Alaska!  This position may require night coverage and will be discussed at time of interview.  Please note:  We need to fill this position ASAP, please ensure submissions are Alaska Licensed at the time of submission.  Position will require RN to be skilled in Primary Care Nursing as well as Urgent Care/Emergency***
+
+
+Provides professional nursing care to patients of all ages from infant to elderly including after hours urgent/emergent clinic.  Performs professional nursing duties utilizing the nursing process and initiating nursing actions, providing comprehensive nursing care to meet the physical, emotional, spiritual, and socio-cultural needs of the patient and family.  Demonstrates initiatives and ability to work independently on a variety of tasks during times when patient load is light.
+ 
+Must be able to identify life threatening situations quickly.  Must be organized and able to coordinate all aspects of patient care to provide the highest quality of healthcare services and to promote excellent customer service. The RN makes daily decisions affecting patient access to care and direct delivery of care.  Communication with the patient, primary health care provider and SEARHC support services are required.  This position is under the direct supervision of the nurse manager.  Employee is expected to make decisions using basic nursing knowledge and skill developed from educational experiences and training.  This person is expected to function independently, be self-starting and show good judgment in decision and problem solving.
+
+Knowledge of nursing care principles, practice and procedures required to assess and care for patients of all ages and conditions. In conjunction with the primary care provider, develops a plan of care from assessment data for individual patients.  Observes, assesses, recognizes, identifies and interprets the patient condition.  Documents observations, nursing interventions, health teaching, therapeutic measures, and the coordinated activities between nursing and other professional disciplines.  Evaluates to what extent nursing interventions have met the health care goals the patient and revises the plan of care accordingly. Administers therapeutic measures as ordered by a physician or other qualified health care provider appropriates within scope of practice and department protocol. Operates specialized equipment.  Demonstrates correct utilization of computer-based health information system. Performs triage of patients requesting other than routine clinic appointments. Assesses patient according to established protocol and provides appropriate advice or directs patient to level of care.  Recognizes signs and symptoms requiring intervention and acts appropriately.  Maintains a safe and aseptic environment by carrying out sterile and aseptic technique and procedures.  Maintains equipment and adequate level of medical and nursing supplies.  Identifies safety concerns and quickly takes steps to correct the situation.Nursing staff is responsible for the weekend, on-call, and secondary coverage of the moderate complexity lab which includes but not limited to: phlebotomy, QA/QI of instrumentation, testing of lab specimens, documenting of lab specimens, proficiency testing, and shipping of lab specimens.  Nursing is also responsible for respiratory therapy functions such as:  pulmonary function testing, peak flow test, 12 lead EKG s, Nebulizer treatments, and oxygen therapy.  Radiology is another function of the nursing staff which includes:  registering and editing x-rays in the Nova Rad system, taking of films, editing, transferring, and printing of x-rays when needed, erasing and cleaning of cassettes, and documentation of all radiology studies both electronically and hard copy.  Case management is another function of the nursing staff as occasionally the need to assist the referral care coordinator and establish care plans with the patient s provider.Education/ExperienceSuccessful completion of a BSN, Diploma, or Associated Nursing Degree Program6 months ambulatory health nursing experience with 1 year general nursing experience as an RN following completion of a BSN or 2 years of general nursing experience. Background in Emergency/Critical Care Nursing a plus. License/CertificationValid RN license issued by the State of Alaska.Must have BLS until obtain ACLS.ACLS/PALS within one year of employment.  Training is provided on site.  Limited Radiology on line course will also be required and provided by employer.Knowledge, Skills & Abilities:KnowledgeKnowledge of professional nursing care principles, practice, and procedures.Knowledge of pharmaceuticals, their desired effect, side effects and the complications of their use.Knowledge of a wide variety of medical and psychosocial disorders.SkillsProfessional nursing skills.Professional skill in operating and monitoring a variety of specialized medical equipment and assisting with procedures.Interpersonal communication skills.Skill in operating and monitoring equipment necessary for patient diagnosis and care.AbilitiesAbility to provide guidance and leadership to other nursing personnel.Ability to develop or coordinate a multi-disciplinary outpatient care plan.  Ability to recognize adverse signs and react appropriately. Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 148038
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11746
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-10-21
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 02 2024 11:18:13
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=161381 ;Status=Open;Client=Haines Health Center ;City=Haines ;State=AK ;Zip=99835-9982 ;Start=9/9/2020;End=12/9/2020;Duration=91;Cert=Nursing ;Specialty=Clinic, Emergency Room Nurse, Fast Track / Triage, Urgent Care ;Unit=Clinic, Emergency Room Nurse, Fast Track / Triage, Urgent Care ;Shift=Discussed at Interview ;# of Postions=0;Guaranteed Hours=36;Type=Travel;BillRate=$80.00;OTRate=90 ;OTRules=By The Week, after 40, All Inclusive Rate + $10 ;CallbackRate=90 (All Inclusive Rate + $10) ;HolidayRate=90 (All Inclusive Rate + $10) ;OnCallRateDescription=$4 per hour pager ;Description=***Position is located in the Southeast Alaska!  This position may require night coverage and will be discussed at time of interview.  Please note:  We need to fill this position ASAP, please ensure submissions are Alaska Licensed at the time of submission.  Position will require RN to be skilled in Primary Care Nursing as well as Urgent Care/Emergency***
+
+
+Provides professional nursing care to patients of all ages from infant to elderly including after hours urgent/emergent clinic.  Performs professional nursing duties utilizing the nursing process and initiating nursing actions, providing comprehensive nursing care to meet the physical, emotional, spiritual, and socio-cultural needs of the patient and family.  Demonstrates initiatives and ability to work independently on a variety of tasks during times when patient load is light.
+ 
+Must be able to identify life threatening situations quickly.  Must be organized and able to coordinate all aspects of patient care to provide the highest quality of healthcare services and to promote excellent customer service. The RN makes daily decisions affecting patient access to care and direct delivery of care.  Communication with the patient, primary health care provider and SEARHC support services are required.  This position is under the direct supervision of the nurse manager.  Employee is expected to make decisions using basic nursing knowledge and skill developed from educational experiences and training.  This person is expected to function independently, be self-starting and show good judgment in decision and problem solving.
+
+Knowledge of nursing care principles, practice and procedures required to assess and care for patients of all ages and conditions. In conjunction with the primary care provider, develops a plan of care from assessment data for individual patients.  Observes, assesses, recognizes, identifies and interprets the patient condition.  Documents observations, nursing interventions, health teaching, therapeutic measures, and the coordinated activities between nursing and other professional disciplines.  Evaluates to what extent nursing interventions have met the health care goals the patient and revises the plan of care accordingly. Administers therapeutic measures as ordered by a physician or other qualified health care provider appropriates within scope of practice and department protocol. Operates specialized equipment.  Demonstrates correct utilization of computer-based health information system. Performs triage of patients requesting other than routine clinic appointments. Assesses patient according to established protocol and provides appropriate advice or directs patient to level of care.  Recognizes signs and symptoms requiring intervention and acts appropriately.  Maintains a safe and aseptic environment by carrying out sterile and aseptic technique and procedures.  Maintains equipment and adequate level of medical and nursing supplies.  Identifies safety concerns and quickly takes steps to correct the situation.Nursing staff is responsible for the weekend, on-call, and secondary coverage of the moderate complexity lab which includes but not limited to: phlebotomy, QA/QI of instrumentation, testing of lab specimens, documenting of lab specimens, proficiency testing, and shipping of lab specimens.  Nursing is also responsible for respiratory therapy functions such as:  pulmonary function testing, peak flow test, 12 lead EKG s, Nebulizer treatments, and oxygen therapy.  Radiology is another function of the nursing staff which includes:  registering and editing x-rays in the Nova Rad system, taking of films, editing, transferring, and printing of x-rays when needed, erasing and cleaning of cassettes, and documentation of all radiology studies both electronically and hard copy.  Case management is another function of the nursing staff as occasionally the need to assist the referral care coordinator and establish care plans with the patient s provider.Education/ExperienceSuccessful completion of a BSN, Diploma, or Associated Nursing Degree Program6 months ambulatory health nursing experience with 1 year general nursing experience as an RN following completion of a BSN or 2 years of general nursing experience. Background in Emergency/Critical Care Nursing a plus. License/CertificationValid RN license issued by the State of Alaska.Must have BLS until obtain ACLS.ACLS/PALS within one year of employment.  Training is provided on site.  Limited Radiology on line course will also be required and provided by employer.Knowledge, Skills & Abilities:KnowledgeKnowledge of professional nursing care principles, practice, and procedures.Knowledge of pharmaceuticals, their desired effect, side effects and the complications of their use.Knowledge of a wide variety of medical and psychosocial disorders.SkillsProfessional nursing skills.Professional skill in operating and monitoring a variety of specialized medical equipment and assisting with procedures.Interpersonal communication skills.Skill in operating and monitoring equipment necessary for patient diagnosis and care.AbilitiesAbility to provide guidance and leadership to other nursing personnel.Ability to develop or coordinate a multi-disciplinary outpatient care plan.  Ability to recognize adverse signs and react appropriately. Billing string = Medefis ;url=https://vms.medefis5.com/jobs/161381;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Haines Health Center
+    [shiftDateEnd] => 2021-01-20
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

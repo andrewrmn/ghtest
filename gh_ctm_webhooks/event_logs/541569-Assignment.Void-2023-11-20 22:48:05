@@ -1,0 +1,287 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7502',
+  'Cf-Ray' => '82943d06003a23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Traveler shall be scheduled in accordance with facility policy and is expected to work every other weekend and Holidays in rotation with Hospital employees
+
+
+1+
+ experience acceptable
+
+
+
+
+Hospital:
+ Trident Medical Center
+
+Location: Charleston, SC
+
+Address: 9330 Medical Plaza Drive
+
+ 
+
+Unit: CT
+
+Building: Main hospital
+
+
+
+
+General Information
+
+Unit Specifics: 
+Number of Beds :
+ 321Patient Ratios :
+
+
+
+ n/aUnit staffing description- (unit secretaries and tech availability) : n/aType of equipment :
+ GE 64 Rev Evo x 2, GE 128 Rev EVODocumentation system: MeditechScheduling requirements: Friday-Sunday, holidays and call requirementsFloating policy:
+ n/aPatient Experience requirements:
+ n/a
+Hospital Specifics-
+Certifications: ARRT(R)(CT), CPR, SCRQSA
+Hiring profile
+
+Requested Skill Set:
+
+
+
+
+Must have: 
+
+
+
+
+
+
+
+Advanced skills needed:
+ n/a
+
+
+
+
+
+
+
+Procedures performed on unit: 
+Trauma, Stroke, Emergency Room and Inpatient exams
+
+Certifications Required:
+
+ARRT(R)(CT), CPR, SCRQSA
+
+
+
+
+Dress Code: (Required uniform)
+
+Gray scrubs
+Unit Guidelines/Policies: Please attach unit specific policies and guidelines.
+n/a
+Awards/Recognition: 
+Please include anything that you would like prospective candidates to be aware of, such as, links to videos that feature the department, outstanding department/team awards..
+ 
+n/a
+Any additional information that would entice a worker to select your unit for their assignment: 
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc. 
+n/a
+ General CommentsTrident Medical Center is a 313-bed HCA Healthcare facility in Charleston, South Carolina. The hospital is well-known in the community for its 24-hour
+emergency room
+and
+Level II Trauma Center.
+
+
+The Center features a wide array of specialized services, including the
+Joseph M. Still Burn Clinic, the
+Trident Breast Care Center, and the
+South Carolina Institute for Robotic Surgery. The quality of these services have earned the facility many
+awards and accreditations, such as a
+Chest Pain Center
+accreditation by the American College of Cardiology and a
+Stroke Center
+accreditation from The Joint Commission. Staff members
+say
+the supportive management, emphasis on teamwork, and excellent work-life balance are among the top reasons to work at Trident Medical Center.
+
+The
+historic
+city of Charleston is home to many museums and monuments, including the
+Nathaniel-Russell House Museum,
+Fort Sumter National Monument, and
+Magnolia Plantation &amp; Gardens. This coastal city is also rich in aquatic activities, like
+boat tours
+and
+kayak adventures. Whether you're looking for a city bursting with southern charm or to soak up the sun at the
+beach, Charleston has it all.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 541569
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5916
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-03
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 20 2023 17:48:04
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=761897 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=TRIDENT REGIONAL MEDICAL CTR SC ;City=Charleston ;State=SC ;Zip=29406 ;Start=11/6/2023;End=5/6/2024;Duration=182;Cert=CT Tech ;Specialty=Radiology ;Unit=SOUTH ATLANTIC DIVISION (23) ;Shift=7:00PM - 7:00AM;# of Postions=1;Type=Travel;BillRate=$85.00;OTRate=93 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:Traveler shall be scheduled in accordance with facility policy and is expected to work every other weekend and Holidays in rotation with Hospital employees
+
+
+1+
+ experience acceptable
+
+
+
+
+Hospital:
+ Trident Medical Center
+
+Location: Charleston, SC
+
+Address: 9330 Medical Plaza Drive
+
+ 
+
+Unit: CT
+
+Building: Main hospital
+
+
+
+
+General Information
+
+Unit Specifics: 
+Number of Beds :
+ 321Patient Ratios :
+
+
+
+ n/aUnit staffing description- (unit secretaries and tech availability) : n/aType of equipment :
+ GE 64 Rev Evo x 2, GE 128 Rev EVODocumentation system: MeditechScheduling requirements: Friday-Sunday, holidays and call requirementsFloating policy:
+ n/aPatient Experience requirements:
+ n/a
+Hospital Specifics-
+Certifications: ARRT(R)(CT), CPR, SCRQSA
+Hiring profile
+
+Requested Skill Set:
+
+
+
+
+Must have: 
+
+
+
+
+
+
+
+Advanced skills needed:
+ n/a
+
+
+
+
+
+
+
+Procedures performed on unit: 
+Trauma, Stroke, Emergency Room and Inpatient exams
+
+Certifications Required:
+
+ARRT(R)(CT), CPR, SCRQSA
+
+
+
+
+Dress Code: (Required uniform)
+
+Gray scrubs
+Unit Guidelines/Policies: Please attach unit specific policies and guidelines.
+n/a
+Awards/Recognition: 
+Please include anything that you would like prospective candidates to be aware of, such as, links to videos that feature the department, outstanding department/team awards..
+ 
+n/a
+Any additional information that would entice a worker to select your unit for their assignment: 
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc. 
+n/a
+ General CommentsTrident Medical Center is a 313-bed HCA Healthcare facility in Charleston, South Carolina. The hospital is well-known in the community for its 24-hour
+emergency room
+and
+Level II Trauma Center.
+
+
+The Center features a wide array of specialized services, including the
+Joseph M. Still Burn Clinic, the
+Trident Breast Care Center, and the
+South Carolina Institute for Robotic Surgery. The quality of these services have earned the facility many
+awards and accreditations, such as a
+Chest Pain Center
+accreditation by the American College of Cardiology and a
+Stroke Center
+accreditation from The Joint Commission. Staff members
+say
+the supportive management, emphasis on teamwork, and excellent work-life balance are among the top reasons to work at Trident Medical Center.
+
+The
+historic
+city of Charleston is home to many museums and monuments, including the
+Nathaniel-Russell House Museum,
+Fort Sumter National Monument, and
+Magnolia Plantation &amp; Gardens. This coastal city is also rich in aquatic activities, like
+boat tours
+and
+kayak adventures. Whether you're looking for a city bursting with southern charm or to soak up the sun at the
+beach, Charleston has it all.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/761897;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Trident Medical Center
+    [shiftDateEnd] => 2024-06-02
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,543 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8513',
+  'Cf-Ray' => '83078938466d183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Profiles:
+  
+The purpose of a unit profile is to help provide an exceptional understanding of the unit.
+ Profiles will include location, number of beds, patient rations, and other unique details to assist recruiting professional in effectively and efficiently identifying highly qualified staff. 
+
+Below you will find a data collection tool to help you identify essential data needed to complete your profile.
+ I have also included a sample of a completed profile for your reference.
+ Please utilize the formatting 
+  
+
+
+  
+Data Collection:
+          Unit Information:
+   (insert name)             Location: 3 South-Inpatient Rehab             
+Address: 7700   Floyd Curl Dr
+         
+Floor:
+ 3 South
+             
+Building:
+ Methodist Hospital
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds - 24
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   1 charge, 4 RNs, 2-3 PCTs,   and about 13 Therapists PT/OT/SLP 
+   
+o
+
+
+   Night Shift   1
+ charge, 4 RNs, 2 PCTs
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   6:1 plus free charge
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   wheelchairs,   walkers, vitals machines
+   
+ 
+
+
+
+
+
+
+
+   EMR -
+   Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+   Travel RNs   
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+Adult experience
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+Rehab experience
+   
+ 
+
+
+
+
+
+
+
+   
+Med/Surg experience
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+
+Pass meds, care assessment, transfer   patients, work with therapists
+   
+ 
+
+
+
+
+
+
+
+   
+
+             
+Dress Code: Include requirements, but most of   all not acceptable attire.
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color -
+ Navy
+    
+
+
+
+
+
+
+
+   
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+
+
+             Awards/Recognition: 
+Feel free to include items such as   links to videos that feature the department, outstanding department/team   awards, reigning annual chili cook-off winners, etc.
+    
+ 
+
+
+
+
+
+
+
+   
+New Rehab unit with quality scores in the 70th   percentile
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.
+ *Remember it is a very   competitive market any information you can provide will help attract talent.   
+Brand new, beautiful unit, with a terrific   team environment.
+ Work closely with   Rehab MDs as well as hospitalists, therapists, and other allied health   disciplines.
+ General Comments
+ No. of Positions: 2/2.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545488
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5314
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 04 2023 17:37:47
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=754654 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=METHODIST HOSPITAL ;City=SAN ANTONIO ;State=TX ;Zip=78229 ;Start=9/5/2023;End=12/5/2023;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=SAN ANTONIO DIVISION (39) ;Shift=7:00AM – 7:00PM ;# of Postions=2;Type=Travel;BillRate=$60.00;OTRate=75 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Profiles:
+  
+The purpose of a unit profile is to help provide an exceptional understanding of the unit.
+ Profiles will include location, number of beds, patient rations, and other unique details to assist recruiting professional in effectively and efficiently identifying highly qualified staff. 
+
+Below you will find a data collection tool to help you identify essential data needed to complete your profile.
+ I have also included a sample of a completed profile for your reference.
+ Please utilize the formatting 
+  
+
+
+  
+Data Collection:
+          Unit Information:
+   (insert name)             Location: 3 South-Inpatient Rehab             
+Address: 7700   Floyd Curl Dr
+         
+Floor:
+ 3 South
+             
+Building:
+ Methodist Hospital
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds - 24
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   1 charge, 4 RNs, 2-3 PCTs,   and about 13 Therapists PT/OT/SLP 
+   
+o
+
+
+   Night Shift   1
+ charge, 4 RNs, 2 PCTs
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   6:1 plus free charge
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   wheelchairs,   walkers, vitals machines
+   
+ 
+
+
+
+
+
+
+
+   EMR -
+   Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+   Travel RNs   
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+Adult experience
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+Rehab experience
+   
+ 
+
+
+
+
+
+
+
+   
+Med/Surg experience
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+
+Pass meds, care assessment, transfer   patients, work with therapists
+   
+ 
+
+
+
+
+
+
+
+   
+
+             
+Dress Code: Include requirements, but most of   all not acceptable attire.
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color -
+ Navy
+    
+
+
+
+
+
+
+
+   
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+   
+
+
+             Awards/Recognition: 
+Feel free to include items such as   links to videos that feature the department, outstanding department/team   awards, reigning annual chili cook-off winners, etc.
+    
+ 
+
+
+
+
+
+
+
+   
+New Rehab unit with quality scores in the 70th   percentile
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.
+ *Remember it is a very   competitive market any information you can provide will help attract talent.   
+Brand new, beautiful unit, with a terrific   team environment.
+ Work closely with   Rehab MDs as well as hospitalists, therapists, and other allied health   disciplines.
+ General Comments
+ No. of Positions: 2/2. ;url=https://vendor.healthtrustws.com/positions/754654;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 60
+    [facilityName] => Methodist Hospital - Main TRAVEL
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

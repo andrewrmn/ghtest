@@ -1,0 +1,102 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3888',
+  'Cf-Ray' => '82cc029ca4d223b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Unit: Operating RoomSpecialty: RNLocation: Mercy NW ArkansasCommunity/Campus: CentralShift Option #1: 4x10 (40 hours)
+
+BLS
+-
+required
+ACLS
+-
+preferred
+PALS
+-
+preferred
+Overview: Performs direct patient care activities for all age groups to include assessment, planning, implementation, and evaluation. Monitors and coordinates patient care activities with ancillary departments to optimize patient care and comfort. Functions within the scope of nursing preparation and consistent with the established guidelines of nursing practice, Mercy Code of Conduct, Mercy Mission and Values and Mercy Service Standards.
+FLU &amp; COVID - Must be fully vaccinated to start
+ General CommentsQualifications Education: Graduate of an accredited school of nursing.
+Licensure: Current Registered Nurse licensure in the State of Arkansas.
+Experience:
+ Certifications: Current BLS certification.
+Other: Basic computer knowledge. Ability to read and communicate effectively in English.
+Preferred Education: BSN preferredPreferred Certifications: CNOR preferred. Current ACLS or Basic EKG or Arrhythmia-identification certification recommended. PALS preferred.
+Preferred Other: Additional languages preferred.
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 545943
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 8646
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 27 2023 12:14:54
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=778170 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Northwest Arkansas ;City=Rogers ;State=AR ;Zip=72758 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=RN ;Specialty=OR ;Unit=Mercy ;Shift=07:00-17:00;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Unit: Operating RoomSpecialty: RNLocation: Mercy NW ArkansasCommunity/Campus: CentralShift Option #1: 4x10 (40 hours)
+
+BLS
+-
+required
+ACLS
+-
+preferred
+PALS
+-
+preferred
+Overview: Performs direct patient care activities for all age groups to include assessment, planning, implementation, and evaluation. Monitors and coordinates patient care activities with ancillary departments to optimize patient care and comfort. Functions within the scope of nursing preparation and consistent with the established guidelines of nursing practice, Mercy Code of Conduct, Mercy Mission and Values and Mercy Service Standards.
+FLU &amp; COVID - Must be fully vaccinated to start
+ General CommentsQualifications Education: Graduate of an accredited school of nursing.
+Licensure: Current Registered Nurse licensure in the State of Arkansas.
+Experience:
+ Certifications: Current BLS certification.
+Other: Basic computer knowledge. Ability to read and communicate effectively in English.
+Preferred Education: BSN preferredPreferred Certifications: CNOR preferred. Current ACLS or Basic EKG or Arrhythmia-identification certification recommended. PALS preferred.
+Preferred Other: Additional languages preferred.
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/778170;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital Northwest Arkansas - TRAVEL
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

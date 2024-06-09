@@ -1,0 +1,72 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '27',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1832',
+  'Cf-Ray' => '8381d15296f34959-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Facility  
+ 
+West Valley Medical center Caldwell, IDStart Date- 12/11/2021Cost Center - 746Need: EP Tech
+Shift   7:00AM-7:00PMAssignment Length: 13 weeksGuarantee of hrs: 36
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 543828
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7595
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 19 2023 13:47:57
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=773549 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=WEST VALLEY MEDICAL CENTER ID ;City=CALDWELL ;State=ID ;Zip=83605 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=EP Tech ;Specialty=Radiology ;Unit=MOUNTAIN DIVISION (15) ;Shift=7:00AM-7:00PM;# of Postions=1;Type=Travel;BillRate=$85.00;OTRate=93 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:Facility  
+ 
+West Valley Medical center Caldwell, IDStart Date- 12/11/2021Cost Center - 746Need: EP Tech
+Shift   7:00AM-7:00PMAssignment Length: 13 weeksGuarantee of hrs: 36
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/773549;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => West Valley Medical Center
+    [shiftDateEnd] => 2024-04-07
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

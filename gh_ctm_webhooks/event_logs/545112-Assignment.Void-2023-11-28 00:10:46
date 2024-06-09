@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5321',
+  'Cf-Ray' => '82ce63c5e2ed183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => IMMEDIATE NEED for EMERGENCY ROOM RN with MINIMUM 3 YEARS' ER experience.  Recent EPIC EMR EXPERIENCE REQUIRED. Facility has a 21-bed Emergency department with 6 bed Fast-Track. REQUIRED: BLS, ACLS, PALS (all AHA), NIHSS and EPIC EMR EXPERIENCE. Department is fast-paced, seeing approximately 90 patients per day with a 20% are Pediatric patient population.   This assignment requires proven self-starting, critical thinking, and positive interpersonal skills. This department currently functions very well as a team and the successful travel experience will require the ability to work well within that team. Emergency Department does accept COVID patients. Flexibility in work hours needed.  Candidate will be required to successfully complete a Basic Dysrrthymia (BDR) test and Medication exam first day as well as 'test out' of Epic. ALL candidates  must successfully complete an Epic platform eLearning during orientation to familiarize with SFH Muskogee platform. Safety Sensitive position*Safety Sensitive position:  Safety Sensitive Under the Oklahoma Medical Marijuana Use and Patient Protection Act (OMMA), is defined as any job that includes tasks or duties that the employer believes could affect the safety and health of the employee performing the task or others. This position has been identified as a safety sensitive position. This statute allows employers to lawfully refuse to hire applicants for safety-sensitive jobs or to discipline or discharge employees who work in safety- sensitive jobs if they test positive for marijuana, even if they have a valid license to use medical marijuana. SFHS SUBMISSION COVER SHEET REQUIRED WITH SUBMISSION INCLUDING PERMANENT ADDRESS AND DEGREE OF EPIC EXPERIENCE OR WILL BE DECLINED; CANDIDATE must have current unencumbered ability to practice as RN in Oklahoma AND must have a permanent address greater than 100 miles from facility.   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 545112
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9220
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 27 2023 19:10:45
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261887 ;Status=Open;Association=Saint Francis Hospital Muskogee ;Client=Saint Francis Hospital Muskogee ;City=Muskogee ;State=OK ;Zip=74401 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Nursing ;Specialty=Emergency Room Nurse ;Unit=Emergency Room Nurse ;Shift=7p-7a with every other weekend rotation;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$95.00;OTRate=95 ;OTRules=By The Week, after 40, ;CallbackRate=95 (All Inclusive Rate) ;HolidayRate=95 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=IMMEDIATE NEED for EMERGENCY ROOM RN with MINIMUM 3 YEARS' ER experience.  Recent EPIC EMR EXPERIENCE REQUIRED. Facility has a 21-bed Emergency department with 6 bed Fast-Track. REQUIRED: BLS, ACLS, PALS (all AHA), NIHSS and EPIC EMR EXPERIENCE. Department is fast-paced, seeing approximately 90 patients per day with a 20% are Pediatric patient population.   This assignment requires proven self-starting, critical thinking, and positive interpersonal skills. This department currently functions very well as a team and the successful travel experience will require the ability to work well within that team. Emergency Department does accept COVID patients. Flexibility in work hours needed.  Candidate will be required to successfully complete a Basic Dysrrthymia (BDR) test and Medication exam first day as well as 'test out' of Epic. ALL candidates  must successfully complete an Epic platform eLearning during orientation to familiarize with SFH Muskogee platform. Safety Sensitive position*Safety Sensitive position:  Safety Sensitive Under the Oklahoma Medical Marijuana Use and Patient Protection Act (OMMA), is defined as any job that includes tasks or duties that the employer believes could affect the safety and health of the employee performing the task or others. This position has been identified as a safety sensitive position. This statute allows employers to lawfully refuse to hire applicants for safety-sensitive jobs or to discipline or discharge employees who work in safety- sensitive jobs if they test positive for marijuana, even if they have a valid license to use medical marijuana. SFHS SUBMISSION COVER SHEET REQUIRED WITH SUBMISSION INCLUDING PERMANENT ADDRESS AND DEGREE OF EPIC EXPERIENCE OR WILL BE DECLINED; CANDIDATE must have current unencumbered ability to practice as RN in Oklahoma AND must have a permanent address greater than 100 miles from facility.   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261887;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Saint Francis Muskogee-Travel - OK
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

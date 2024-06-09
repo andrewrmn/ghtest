@@ -1,0 +1,65 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '23',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4308',
+  'Cf-Ray' => '834735cd770c4949-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => General Description
+Administers, directs, and coordinates activities assigned to the department. Consults with staff, physicians, and the Chief Clinical Officer (CCO). ResponsibilityResponsible for keeping all informed of progress and potential problems. Responsible for the direction and evaluation of patient care delivery in the assigned department to ensure appropriate patient outcomes. Maintains operational aspects of the assigned department.AccountabilityThe Birthing Center Manager reports directly to the Chief Clinical Officer.Special DemandsMental:       Astute communication skills with employees, physicians, visitors, administration and public. Ability to adjust to job situations that involve many different people and projects, requiring some independent action and judgment.Physical: Must have the ability and competency to operate the equipment of his/her position; perform technical procedures; speak intelligently and in a professional manner before others; and exercise supervision and management skills.Qualifications
+Education: Graduate from an accredited school of nursing; baccalaureate degree or equivalent experience required. Current Colorado Registered Nurse Licensure. Current BCLS certification.Experience: Minimum of five years of Obstetrics Nursing experience preferred. Bi-lingual capabilities helpful.   Position Urgency:Normal Billing string = Prowers Medical Center
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 544632
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5871
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-28
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 12 2023 11:05:39
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261768 ;Status=Open;Association=Prowers Medical Center ;Client=Prowers Medical Center ;City=Lamar ;State=CO ;Zip=81052 ;Start=12/28/2023;End=3/28/2024;Duration=91;Cert=Nursing ;Specialty=Obstetrics RN, Nursing Manager/Director, Labor and Delivery Nurse ;Unit=Obstetrics RN, Nursing Manager/Director, Labor and Delivery Nurse ;Shift=Day Shift and needed coverage;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$165.00;OTRate=247.5 ;OTRules=By The Week, after 40, ;CallbackRate=165 (All Inclusive Rate) ;HolidayRate=165 (All Inclusive Rate) ;OnCallRateDescription=$3 per hour pager ;Description=General Description
+Administers, directs, and coordinates activities assigned to the department. Consults with staff, physicians, and the Chief Clinical Officer (CCO). ResponsibilityResponsible for keeping all informed of progress and potential problems. Responsible for the direction and evaluation of patient care delivery in the assigned department to ensure appropriate patient outcomes. Maintains operational aspects of the assigned department.AccountabilityThe Birthing Center Manager reports directly to the Chief Clinical Officer.Special DemandsMental:       Astute communication skills with employees, physicians, visitors, administration and public. Ability to adjust to job situations that involve many different people and projects, requiring some independent action and judgment.Physical: Must have the ability and competency to operate the equipment of his/her position; perform technical procedures; speak intelligently and in a professional manner before others; and exercise supervision and management skills.Qualifications
+Education: Graduate from an accredited school of nursing; baccalaureate degree or equivalent experience required. Current Colorado Registered Nurse Licensure. Current BCLS certification.Experience: Minimum of five years of Obstetrics Nursing experience preferred. Bi-lingual capabilities helpful.   Position Urgency:Normal Billing string = Prowers Medical Center ;url=https://vms.medefis5.com/jobs/261768;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 165
+    [facilityName] => Prowers Medical Center
+    [shiftDateEnd] => 2024-03-28
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

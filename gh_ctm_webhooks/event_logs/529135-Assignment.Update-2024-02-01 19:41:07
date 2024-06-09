@@ -1,0 +1,182 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3802',
+  'Cf-Ray' => '84ecab7702161465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name
+
+Orthopedics 3rd Floor-RN-Mercy Hospital South
+
+Organization
+
+Mercy
+
+Facility
+
+Mercy Hospital South
+
+Unit
+
+Medical Surgical Unit
+
+Cost Center
+
+15-446070
+
+
+
+
+
+
+Shift
+
+night
+
+Shifts per week
+
+3
+
+Hours per shift
+
+12
+EXPERIENCE
+Years of Experience
+
+Specialties
+
+Ortho
+-
+preferred
+
+
+Technologies
+CERTIFICATIONS
+Certifications
+
+BLS
+-
+required
+ACLS
+-
+preferred
+
+DESCRIPTION
+Utilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards. Required education: Current RN license. Required licensure: Meets the criteria to be eligible for licensure in state of Missouri or currently licensed in the state of Missouri.
+ General Comments
+ No. of Positions: 3/10.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 529135
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15624
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-02-19
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => February, 01 2024 14:41:04
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=756500 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital South ;City=Saint Louis ;State=MO ;Zip=63128 ;Start=10/2/2023;End=1/1/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=Mercy ;Shift=19:00-07:00;# of Postions=3;Type=Travel;BillRate=$90.00;minBillRate=$90.00;OTRate=98 ;CallbackRate=98 ;HolidayRate=98 ;Orientation=0 ;Description=Description:Name
+
+Orthopedics 3rd Floor-RN-Mercy Hospital South
+
+Organization
+
+Mercy
+
+Facility
+
+Mercy Hospital South
+
+Unit
+
+Medical Surgical Unit
+
+Cost Center
+
+15-446070
+
+
+
+
+
+
+Shift
+
+night
+
+Shifts per week
+
+3
+
+Hours per shift
+
+12
+EXPERIENCE
+Years of Experience
+
+Specialties
+
+Ortho
+-
+preferred
+
+
+Technologies
+CERTIFICATIONS
+Certifications
+
+BLS
+-
+required
+ACLS
+-
+preferred
+
+DESCRIPTION
+Utilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards. Required education: Current RN license. Required licensure: Meets the criteria to be eligible for licensure in state of Missouri or currently licensed in the state of Missouri.
+ General Comments
+ No. of Positions: 3/10.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/756500;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Mercy Hospital South - Travel
+    [shiftDateEnd] => 2024-05-20
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

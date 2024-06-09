@@ -1,0 +1,77 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2389',
+  'Cf-Ray' => '837a9aaea2a377ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:$85 Bill Rate
+3 - Night Shifts 7p-7aStep down unit. 1 year Stepdown or 2 years tele experience required.
+1:4 patient/nurse ratio.
+Must be able to identify
+arrhythmias, manage bipap and highflow nasal cannula.
+Experience with insulin gtt, cardizem gtt, precedex gtt preferred but not required.
+Must be able to work nights and some holidays.Will be REQUIRED to float to ICU and TeleACLS &amp; BLS are RequiredNo Call Requirements.
+ General CommentsPCR#s: 1035-010 and 1035-024
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 542932
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2326
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-10-09
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 18 2023 16:47:25
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=757066 ;Status=Open;Association=Community Health Systems ;Client=Mountainview Regional Medical Center ;City=Las Cruces ;State=NM ;Zip=88011 ;Start=10/9/2023;End=1/8/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=EXT-Other (911) ;Shift=19:00-07:00;# of Postions=2;Type=Travel;BillRate=$70.00;minBillRate=$70.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:$70 Bill Rate
+3 2 - Night Shifts 7p-7aStep down unit. 1 year Stepdown or 2 years tele experience required.
+1:4 patient/nurse ratio.
+Must be able to identify
+arrhythmias, manage bipap and highflow nasal cannula.
+Experience with insulin gtt, cardizem gtt, precedex gtt preferred but not required.
+Must be able to work nights and some holidays.Will be REQUIRED to float to ICU and TeleACLS &amp; BLS are RequiredNo Call Requirements.
+ General CommentsPCR#s: 1035-010 and 1035-024
+ No. of Positions: 2/3.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/757066;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Mountainview Regional Medical Center
+    [shiftDateEnd] => 2024-01-08
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

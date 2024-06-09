@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3350',
+  'Cf-Ray' => '8330aee4a7ae23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => We are looking for a Day-shift NICU RN with 2 years experience. On call hours may be required but are not guaranteed.  Agency staff will be the first to float based on facility census and needs.The level III Neonatal Intensive Care Unit (NICU) is a new 15-bed unit. The NICU can care for very preterm, 28 weeks gestation, to term infants that require additional support. The range of medical conditions include but are not limited to respiratory support, feeding assistance, neonatal opioid withdrawal syndrome, glucose instability, and antibiotic therapy. NICU RNs attend all high-risk deliveries and assist with initial assessments as needed. Staff RNs provide evidence-based care and place special emphasis on skin-to-skin, breastfeeding, and safe sleep practices.   Additional Information:Agency staff will be the first to float based on facility census and needs.   Position Urgency:Normal Billing string = The Christ Hospital
+    [sitename] => giftednurses
+    [spec] => NICU 3
+    [assignmentid] => 542746
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9945
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 09 2023 17:28:47
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=260706 ;Status=Open;Association=The Christ Hospital ;Client=The Christ Hospital ;City=Cincinnati ;State=OH ;Zip=45219 ;Start=10/30/2023;End=1/29/2024;Duration=91;Cert=Nursing ;Specialty=NICU / Neonatal ICU ;Unit=NICU / Neonatal ICU ;Shift=Days - Every 3rd weekend and holiday availability required (Christmas preferred);# of Postions=3;Guaranteed Hours=36;Type=Travel;BillRate=$75.00;OTRate=80 ;OTRules=By The Week, after 40, ;CallbackRate=75 (All Inclusive Rate) ;HolidayRate=80 (All Inclusive Rate + $5) ;OnCallRateDescription=$4 per hour pager ;Description=We are looking for a Day-shift NICU RN with 2 years experience. On call hours may be required but are not guaranteed.  Agency staff will be the first to float based on facility census and needs.The level III Neonatal Intensive Care Unit (NICU) is a new 15-bed unit. The NICU can care for very preterm, 28 weeks gestation, to term infants that require additional support. The range of medical conditions include but are not limited to respiratory support, feeding assistance, neonatal opioid withdrawal syndrome, glucose instability, and antibiotic therapy. NICU RNs attend all high-risk deliveries and assist with initial assessments as needed. Staff RNs provide evidence-based care and place special emphasis on skin-to-skin, breastfeeding, and safe sleep practices.   Additional Information:Agency staff will be the first to float based on facility census and needs.   Position Urgency:Normal Billing string = The Christ Hospital ;url=https://vms.medefis5.com/jobs/260706;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Christ Hospital System (AKA the Christ Hospital Health Network)
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

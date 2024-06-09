@@ -1,0 +1,144 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3975',
+  'Cf-Ray' => '82e7e97865061463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:RN / MSIC - Trauma ICUNights 5p - 5a13 weeks$90
+Every other Weekend and Holidays
+Must
+score at least a 3 in proficiency in most of the neuro categories: managing ICP/EVDs, caring for stroke, post interventions, and closed head trauma patients.
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+           		*******************************************************************************
+
+
+           		How long has it been open?
+
+
+           		Will position be required to float to other units?
+
+
+           		Number of beds in your facility?
+
+
+           		Years of experience required?
+
+
+           		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+           		Willing to review clinicians with pending state license?
+
+
+           		Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+           		What is the work schedule for this position? (days needed, hours or shift)
+
+
+ 			EMR for your facility:
+
+
+           		Scrub colors / dress code:
+
+
+ 			Parking location:
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 545055
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8294
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 03:00
+    [whenmodified] => November, 30 2023 21:30:40
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=774834 ;Status=Pending Approval;Association=Community Health Systems ;Client=Lutheran Hospital ;City=Fort Wayne ;State=IN ;Zip=46804 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=RN ;Specialty=ICU ;Unit=EXT-Other (911) ;Shift=17:00-05:00;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:RN / MSIC - Trauma ICUNights 5p - 5a13 weeks$90
+Every other Weekend and Holidays
+Must
+score at least a 3 in proficiency in most of the neuro categories: managing ICP/EVDs, caring for stroke, post interventions, and closed head trauma patients.
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+           		*******************************************************************************
+
+
+           		How long has it been open?
+
+
+           		Will position be required to float to other units?
+
+
+           		Number of beds in your facility?
+
+
+           		Years of experience required?
+
+
+           		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+           		Willing to review clinicians with pending state license?
+
+
+           		Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+           		What is the work schedule for this position? (days needed, hours or shift)
+
+
+ 			EMR for your facility:
+
+
+           		Scrub colors / dress code:
+
+
+ 			Parking location:
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/774834;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Lutheran Hospital - Parallon Travel
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

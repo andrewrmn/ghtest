@@ -1,0 +1,126 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5226',
+  'Cf-Ray' => '82ccec1e10e96a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Summary of Services:The Certified Surgical Technologist is responsible for identifying and securing instrumentation and equipment needed for invasive procedures and demonstrating proficient use and implementation of the same.Performs pre-operative procedures such as selection and placement of surgical instruments, supplies, and equipment.Assists surgeon and designated assistants in invasive procedures, passing instruments and supplies and anticipating the needs of the surgical team.During the surgical procedure provides instruments, sutures, and other sterile supplies.Helps prepare, care for, and dispose of specimens taken for laboratory analysis and helps apply dressings.Applies basic knowledge of anatomy & physiology, medical terminology and microbiology.Applies knowledge related to emergency situations and surgical procedures in the operating room.May develop, organize and deliver continuing education topics and/or training (in-services).May assist in precept of students and new staff.Maintains a safe work environment.Perform other services as assigned. 
+ Schedule Notes:DAY
+
+Skills: Minimum qualifications required for services:Experience: 1+ year of relevant experience in the specialtyLicenses/Certifications: Certified as a Surgical Technologist (CST) by National Board of Surgical Technology and Surgical Assisting (NBSTSA)-Current BLS
+ Required
+	
+	  MICROBIOLOGY
+	   SURGICAL TECHNOLOGY
+	   STERILE
+	   INSTRUMENTATION
+	   LABORATORY
+	    
+	
+	
+	
+	Additional
+	
+	            OFFICE MEDICAL
+
+Education: Minimum qualifications required for services:Certificate or Degree from a Surgical Technology Program
+
+;Languages: 
+ 
+English
+&nbsp;Read
+&nbsp;Write
+&nbsp;Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: Clinical-Allied-Travel
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 545987
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3513
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-25
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 27 2023 14:54:18
+    [daysPerWeek] => 5
+    [orderNote] => Source=Wand;SourceID=27806410 ;Status=Pending;Client=St. Lukes Health System ;City=Meridian ;State=ID ;Zip=83642 ;Start=12/25/2023;End=3/31/2024;Duration=97;Cert=Clinical-Allied-Travel ;Specialty=Certified Surgical Technologist ;Unit=Surgical Services Meridian Hospital Flr 2 						: 1671    		                Default Lvl 2 Surgical Services Meridian Hospital Flr 2  : 1671   Default Lvl 2 ;Shift=DAY DAY 5x8 Hr;# of Postions=1;Guaranteed Hours=40.00;Type=Travel;BillRate=$85.00;HolidayRate=$114.75 ;Description=Summary of Services:The Certified Surgical Technologist is responsible for identifying and securing instrumentation and equipment needed for invasive procedures and demonstrating proficient use and implementation of the same.Performs pre-operative procedures such as selection and placement of surgical instruments, supplies, and equipment.Assists surgeon and designated assistants in invasive procedures, passing instruments and supplies and anticipating the needs of the surgical team.During the surgical procedure provides instruments, sutures, and other sterile supplies.Helps prepare, care for, and dispose of specimens taken for laboratory analysis and helps apply dressings.Applies basic knowledge of anatomy & physiology, medical terminology and microbiology.Applies knowledge related to emergency situations and surgical procedures in the operating room.May develop, organize and deliver continuing education topics and/or training (in-services).May assist in precept of students and new staff.Maintains a safe work environment.Perform other services as assigned. 
+ Schedule Notes:DAY
+
+Skills: Minimum qualifications required for services:Experience: 1+ year of relevant experience in the specialtyLicenses/Certifications: Certified as a Surgical Technologist (CST) by National Board of Surgical Technology and Surgical Assisting (NBSTSA)-Current BLS
+ Required
+	
+	  MICROBIOLOGY
+	   SURGICAL TECHNOLOGY
+	   STERILE
+	   INSTRUMENTATION
+	   LABORATORY
+	    
+	
+	
+	
+	Additional
+	
+	            OFFICE MEDICAL
+
+Education: Minimum qualifications required for services:Certificate or Degree from a Surgical Technology Program
+
+;Languages: 
+ 
+English
+&nbsp;Read
+&nbsp;Write
+&nbsp;Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: Clinical-Allied-Travel ;url=https://prowand.pro-unlimited.com/supplier/standard/requisition/req_geninfo_view.html?id=27806410&type=REQUISITION&reqProfile=true;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => St. Luke's Meridian Medical Center
+    [shiftDateEnd] => 2024-03-31
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

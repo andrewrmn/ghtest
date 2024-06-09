@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1772',
+  'Cf-Ray' => '82d387f884066a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Certifications Needed       Specific Requirements: WA State Registered Nurse License, American      Heart Association BLS Card, NRP and C-EFM   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 546158
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3542
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-26
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 28 2023 10:09:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262230 ;Status=Open;Association=Skagit Regional Health ;Client=Cascade Valley Hospital ;City=Arlington ;State=WA ;Zip=98223 ;Start=12/26/2023;End=3/26/2024;Duration=91;Cert=Nursing ;Specialty=Labor and Delivery Nurse ;Unit=Labor and Delivery Nurse ;Shift=12 hours 1900-0730;# of Postions=3;Guaranteed Hours=36;Type=Travel;BillRate=$105.00;OTRate=115 ;OTRules=By The Week, after 40, ;CallbackRate=115 (All Inclusive Rate + $10) ;HolidayRate=115 (All Inclusive Rate + $10) ;OnCallRateDescription=$4 per hour pager ;Description=Certifications Needed       Specific Requirements: WA State Registered Nurse License, American      Heart Association BLS Card, NRP and C-EFM   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262230;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Cascade Valley Hospital
+    [shiftDateEnd] => 2024-03-26
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

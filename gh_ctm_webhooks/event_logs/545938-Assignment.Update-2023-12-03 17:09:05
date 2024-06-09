@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '22',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '904',
+  'Cf-Ray' => '82fd6a5656e44945-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 545938
+    [workerID] => 200417
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Extension Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13727
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => Moran
+    [shiftNum] => 4
+    [workerFirstName] => Nina
+    [cert] => RN
+    [floorDesc] => Float Pool
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 03 2023 12:09:05
+    [daysPerWeek] => 3
+    [orderNote] => EXT-FTK:API no GH timesheets
+OnCl:P$3/B$5
+POT:$58
+BR:$90
+    [guaranteedMinimum] => 
+    [workerEmail] => nina_moran@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Anderson Regional Medical Center TRAVEL MEDEFIS
+    [shiftDateEnd] => 2024-03-23
+    [shiftStartTime] => 06:45
+    [subjectID] => 
+)

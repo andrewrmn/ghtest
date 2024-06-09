@@ -1,0 +1,144 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4449',
+  'Cf-Ray' => '830526b6a76e23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name 4 Med Surg - RN - Mercy Joplin
+Facility Mercy
+Location Mercy Hospital Joplin
+Unit Medical Surgical Unit
+Cost Center 50-456065
+FLU and COVID-19:
+ 
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.
+
+SHIFT INFO
+Shift Night
+Shifts per week 3
+Hours per shift 12
+
+Hours:
+ 1900 -
+0730
+
+EXPERIENCE
+Years of Experience One Year Plus Med Surg
+
+Candidate must pass the Cardiac Rhythm Identification Assessment prior to start
+
+
+CERTIFICATIONS
+Certifications BLS - required
+NIHSS - Required but can be obtained at orientation
+DESCRIPTION
+Ratio: 1:6
+ORTHO/NEURO Unit (takes medical overflow as well)
+Utilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards
+Approved Assignment Details:
+Flexible contract length - 8-26 weeks
+Flexible Guaranteed Hours - 36 or 48 hours
+
+Blocked scheduling would need facility approval
+ 
+ We will still need confirmation within 5 days of offer
+RTO of 5 days or less, must make up the week on the back end
+
+If requesting any of the above, it must be listed on Mercy Submission Form
+ General Comments
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 537975
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8970
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-20
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => December, 04 2023 10:41:01
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=768984 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Joplin ;City=Joplin ;State=MO ;Zip=64804 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=Mercy ;Shift=19:00-07:30;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Name 4 Med Surg - RN - Mercy Joplin
+Facility Mercy
+Location Mercy Hospital Joplin
+Unit Medical Surgical Unit
+Cost Center 50-456065
+FLU:
+ 
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.
+
+SHIFT INFO
+Shift Night
+Shifts per week 3
+Hours per shift 12
+
+Hours:
+ 1900 -
+0730
+
+EXPERIENCE
+Years of Experience One Year Plus Med Surg
+
+Candidate must pass the Cardiac Rhythm Identification Assessment prior to start
+
+
+CERTIFICATIONS
+Certifications BLS - required
+NIHSS - Required but can be obtained at orientation
+DESCRIPTION
+Ratio: 1:6
+ORTHO/NEURO Unit (takes medical overflow as well)
+Utilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards
+Approved Assignment Details:
+Flexible contract length - 8-26 weeks
+Flexible Guaranteed Hours - 36 or 48 hours
+
+Blocked scheduling would need facility approval
+ 
+ We will still need confirmation within 5 days of offer
+RTO of 5 days or less, must make up the week on the back end
+
+If requesting any of the above, it must be listed on Mercy Submission Form
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/768984;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital Joplin - TRAVEL
+    [shiftDateEnd] => 2024-02-19
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

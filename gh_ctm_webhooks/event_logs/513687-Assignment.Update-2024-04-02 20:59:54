@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '885',
+  'Cf-Ray' => '86e3bed040e91465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Bill Rate Change
+    [sitename] => giftednurses
+    [spec] => School
+    [assignmentid] => 513687
+    [workerID] => 319338
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 37.5
+    [facilityID] => 15724
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-08-16
+    [workerLastName] => Batts
+    [shiftNum] => 1
+    [workerFirstName] => Cassandre
+    [cert] => Psychologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => April, 02 2024 16:59:53
+    [daysPerWeek] => 5
+    [orderNote] => BR:$72lRS:132483
+FTK:GiftTC(NO Sign) Reg 37.5 hrs
+    [guaranteedMinimum] => 
+    [workerEmail] => Cassbatts39@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 72
+    [facilityName] => Gaston County Schools
+    [shiftDateEnd] => 2024-06-22
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

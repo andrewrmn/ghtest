@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2797',
+  'Cf-Ray' => '829ae428e43b1466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => ED R.N NeededSHIFT: Flexible Shift - Day/Night rotating  This is a Critical Access Hospital - this person MUST be able to work in multiple areas - Provides direct and indirect patient care on the Med-Surg floor. Must be comfortable in ER. Communicates with physicians/Nurse Manager/co-workers, as appropriate about changes in patient s clinical condition including results of diagnostic studies and symptomatology. Ability to respond quickly and accurately to changes in condition or response to treatment. CERTS: must have TNCC BLS and ACLS   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545243
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10352
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 21 2023 13:10:45
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261959 ;Status=Open;Association=Kit Carson County Health Service District ;Client=Kit Carson County Health Service District ;City=Burlington ;State=CO ;Zip=80807 ;Start=12/24/2023;End=3/24/2024;Duration=91;Cert=Nursing ;Specialty=Critical Access Hospital RN, Med-surg Adult, Emergency Room Nurse, Registered Nurse ;Unit=Critical Access Hospital RN, Med-surg Adult, Emergency Room Nurse, Registered Nurse ;Shift=Flexible Shift - Day/Night rotating  ;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$110.00;OTRate=115 ;OTRules=By The Week, after 40, ;CallbackRate=115 (All Inclusive Rate + $5) ;HolidayRate=115 (All Inclusive Rate + $5) ;OnCallRateDescription=$5 per hour pager ;Description=ED R.N NeededSHIFT: Flexible Shift - Day/Night rotating  This is a Critical Access Hospital - this person MUST be able to work in multiple areas - Provides direct and indirect patient care on the Med-Surg floor. Must be comfortable in ER. Communicates with physicians/Nurse Manager/co-workers, as appropriate about changes in patient s clinical condition including results of diagnostic studies and symptomatology. Ability to respond quickly and accurately to changes in condition or response to treatment. CERTS: must have TNCC BLS and ACLS   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261959;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => Kit Carson County Memorial Hospital
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8894',
+  'Cf-Ray' => '827a4623f07b1464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Total Weight = 100%   JOB SUMMARY  Provides direct and indirect patient care in the assigned setting. Communicates      with physicians/Nurse Manager/co-workers, as appropriate about changes in      patient's clinical condition including results of diagnostic studies and      symptomatology. Is able to respond quickly and accurately to changes in      condition or response to treatment. Additionally, is able to perform      general nursing duties utilizing the nursing process. Will float to      other areas of the hospital as assigned.   DUTIES AND RESPONSIBILITIES  Demonstrates Competency in the Following Areas:   Professional       Requirements:    Knowledge        of medications and their correct administration based on age of the        patient and their clinical condition.    Performs        patient care responsibilities considering needs specific to the plan of        care.    Ability        to perform and document a complete admission assessment to include:        patient's health history, problems identified, patient teaching, and        discharge needs/expectations.    Ability        to initiate and/or revise an individualized nursing care plan that is        based on assessment of identified needs/problems involving the patient        and/or family.    Formulates        a teaching plan based upon identified learning needs and evaluates        effectiveness of learning; family is included in teaching as        appropriate.    Demonstrates        ability to perform treatments and provide services.    Provides        patients with a complete explanation of procedures or treatments.    Always        provides patient safety by keeping call light within reach, maintaining        bed in a low position with side rails in place and locked at all times,        and seeing that patients are secured appropriately when transporting by        wheelchair or stretcher.    Communicates        appropriately and clearly to Nurse Manager, co-workers, and physicians.    Consults        other departments as appropriate for an interdisciplinary approach to        the patient's needs.    Provides        care appropriate to condition and age of the patient.    Participates        in orientation of new personnel.    Demonstrates        an ability to assist physicians with procedures and performs services        requiring technical and manual skills.    Manages        and operates equipment safely and correctly.    Delegates,        coordinates, and supervises patient care as necessary.    Documentation        meets current standards and policies.    Identifies        and addresses psychosocial needs of patients and family; communicates        with social services regarding both in hospital and post discharge        needs.    Completes        documentation as specified by organizational policy and procedures.    Recognizes        abuse/neglect potential.    Demonstrates        a cost effective practice by efficient and non-wasteful use of supplies        and linen, always following established procedures for charge items.    Participates        in sharing of knowledge and expertise through in-service, staff        meetings, assisting in orientation of new personnel.    Utilizes        infection control principles.    Recognizes        adverse drug reactions/interactions with appropriate actions taken.    Takes        appropriate measure to prevent skin breakdown.    Provides        assistance with basic self-care/ADLs, as appropriate.    Provides        feedback about health status and potential life style changes.    Attends        mandatory staff meetings; reads and returns all staff meeting minutes.    Promotes        professional growth of peers and subordinates by sharing knowledge        and/or directing them to sources of information appropriate to a given        situation.    Accepts        constructive criticism regarding nursing judgments or actions.    Demonstrates        an ability to be flexible, organized, and function under stressful        situations.    Interacts        professionally with patient/family and treats them with respect and        dignity; ensures patient confidentiality and privacy.    Utilizes        critical thinking skills, recognizes and reacts appropriately in the        delivery of patient care.    Provides        assistance to other nursing care team members to assure efficient, effective        and timely quality patient centered care.    Understands        and assumes responsibility for charge position when assigned, to include        patient assignment according to patient acuity and staff mix.    Displays        a positive attitude toward the hospital and his/her profession.    Displays        appropriate time management skills in the planning and administering of        patient care    Active        in PMly participates in the department's performance improvement (PI)        activities.    Assumes        lifelong learning related to profession.   Education/Regulatory       Requirements:    Current        Mississippi Registered Nurse Licensure.    CPR        certified.    ACLS        certification within 6 months of hire or RN Licensure.    One year        med/surg experience preferred.   Language       Skills:    Ability        to read and communicate effectively in English.   Skills:    Moderate        to advanced computer and data entry skills.   Specific       Age Groups Served:    All age        groups.   Exposure       Classifications:    Classification        I: Jobs in which required tasks routinely involve a potential for mucous        membranes or skin contact with blood, body fluids, tissues, or potential        spills or splashes. Use of appropriate measures is required for every        healthcare provider in these jobs.   Professional       Expectations:    Meets        dress code standards; appearance is neat and clean.    Completes        annual educational requirements.    Maintains        regulatory requirements.    Wears        identification badge while on duty.    Attends        annual review and department in-services as scheduled.    Complies        with all organizational policies regarding ethical business practices.    Communicates        the mission, ethics and goals of the facility as well as the focus        statement of the department.    Demonstrates        an ability to be flexible, organized, and functions well under stressful        situations.    Answers        telephone and greets all patients and family members in a polite and        tactful manner.        This job description      is not intended to be all-inclusive. Employee may perform other related      duties as negotiated to meet the ongoing needs to the organization.   PHYSICAL DEMANDS  Descriptions for Physical Demands:       1-33% - Occasional; 34-67% - Frequent; 68-100% - Continuous   Physical       Demands        On-the-job time is spent in the following physical activities. This job       requires that weight is lifted or force is exerted.    Stand -        Occasional    Walk -        Frequent    Sit -        Occasional    Talk or        hear - Continuous    Use        hands to finger, handle or feel - Occasional    Push/Pull        - Occasional    Reach        with hands and arms - Occasional    Up to 10        pounds - Occasional    Up to 25        pounds - Occasional    Up to 50        pounds - Occasional    Up to        100 pounds - Occasional    More        than 100 pounds - Frequent    Close        Vision (clear vision at 20 inches or less)    Distance        Vision (clear vision at 20 feet or more)    Color        Vision (ability to identify and distinguish colors)    Peripheral        Vision (ability to observe an area that can be seen up and down or to        the left and right while eyes are fixed on a given point)    Depth        Perception (three-dimensional vision; ability to judge distances and        spatial relationships)    Ability        to Adjust Focus (ability to adjust eye to bring an object into sharp
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544019
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Contract
+    [hoursPerWeek] => 36
+    [facilityID] => 13733
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-12
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 3E
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 17 2023 14:10:28
+    [daysPerWeek] => 3
+    [orderNote] => Charge Diff: NA
+On Call Pay Rate: $3.00
+On Call Bill Rate: $5.00
+Call Back Pay Rate: 1.5x
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Anderson Regional Medical Center MEDEFIS
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

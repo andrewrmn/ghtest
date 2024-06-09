@@ -1,0 +1,206 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4053',
+  'Cf-Ray' => '8291d65903276a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Data Collection:
+
+Unit Information:
+ Surgical Services HCASE
+
+Location: HCA Houston Southeast
+
+Address: 4000 Spencer Hwy, Pasadena, TX 77504
+
+Floor:
+ 1st floor
+
+Building: Main
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   10 OR sNumber of Staff   
+35Type of staff:Day Shift   (example 1 charge, 3 RN, 2 CNA, and 1-3 sitters)
+ - 10 RN s, 8 CST, 1 FANight Shift - 
+On call onlyPatient Ratios   
+1:1Type of equipment - 
+All OR essential equipmentEMR -
+ Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+
+OR experience   CV experience 
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+
+
+List typical procedures performed on unit(s): 
+
+
+ CABG, Vat, Fem-Pop, AVR
+
+Best personality Fit:
+
+Teamwork, 
+REQUIRED CERTIFICATIONS:
+CST
+Floating Area(s):
+
+
+Dress Code: 
+Scrub Color/Attire -
+ Caribbean blue   CSTRoyal blue - RN
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+
+
+
+
+
+Weekends and On call(if any)
+On call   7a   7p &amp; 7p- 7a
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 542170
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13931
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 20 2023 10:48:27
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=766852 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA Houston Med Ctr ;City=Houston ;State=TX ;Zip=77004 ;Start=11/13/2023;End=2/12/2024;Duration=91;Cert=CST/ORT ;Specialty=OR ;Unit=GULF COAST DIVISION (14) ;Shift=8:30a-5p;# of Postions=1;Type=Travel;BillRate=$70.00;OTRate=78 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Data Collection:
+
+Unit Information:
+ Surgical Services HCASE
+
+Location: HCA Houston Southeast
+
+Address: 4000 Spencer Hwy, Pasadena, TX 77504
+
+Floor:
+ 1st floor
+
+Building: Main
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   10 OR sNumber of Staff   
+35Type of staff:Day Shift   (example 1 charge, 3 RN, 2 CNA, and 1-3 sitters)
+ - 10 RN s, 8 CST, 1 FANight Shift - 
+On call onlyPatient Ratios   
+1:1Type of equipment - 
+All OR essential equipmentEMR -
+ Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+
+OR experience   CV experience 
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+
+
+List typical procedures performed on unit(s): 
+
+
+ CABG, Vat, Fem-Pop, AVR
+
+Best personality Fit:
+
+Teamwork, 
+REQUIRED CERTIFICATIONS:
+CST
+Floating Area(s):
+
+
+Dress Code: 
+Scrub Color/Attire -
+ Caribbean blue   CSTRoyal blue - RN
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+
+
+
+
+
+Weekends and On call(if any)
+On call   7a   7p &amp; 7p- 7a
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/766852;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => HCA Houston Healthcare Medical Center
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 09:00
+    [subjectID] => 
+)

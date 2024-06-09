@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '22',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3434',
+  'Cf-Ray' => '83207cbfa7474945-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Minimum of 1 year of recent Ortho experience is required - HIGHLIGHT in resume2 years of recent experience as a Scrub Tech requiredColorado Surgical Technologist Licensure is REQUIRED PRIOR TO START DATE. Do you currently have it or can you obtain it prior to start? Note: Application takes approximately 4-5 weeks from submittal of application.Call is required with 30 minute response time. (Call amount can vary)Not currently granting RTO.IMPORTANT NOTE: Traveler will be responsible for securing their own housing for the duration of this assignment.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 534836
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5970
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-26
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 07 2023 18:18:21
+    [daysPerWeek] => 5
+    [orderNote] => Source=Medefis5;SourceID=259205 ;Status=Open;Association=Aspen Valley Hospital ;Client=Aspen Valley Hospital ;City=Aspen ;State=CO ;Zip=81611 ;Start=12/26/2023;End=3/26/2024;Duration=91;Cert=Nursing ;Specialty=Scrub Technologist, OR Technologist, Operating Room / Scrub ;Unit=Scrub Technologist, OR Technologist, Operating Room / Scrub ;Shift=M-F 10:30a-7p;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$90.00;OTRate=100 ;OTRules=By The Week, after 40, ;CallbackRate=90 (All Inclusive Rate) ;HolidayRate=90 (All Inclusive Rate) ;OnCallRateDescription=$10 per hour pager ;Description=EXPERIENCE: Minimum of 1 year of recent Ortho experience is required - HIGHLIGHT in resume-2 years of recent experience as a Scrub Tech requiredCERTS REQUIRED: Colorado Surgical Technologist Licensure is REQUIRED PRIOR TO START DATE. Do you currently have it or can you obtain it prior to start? Note: Application takes approximately 4-5 weeks from submittal of application.CALL: is required with 30 minute response time. (Call amount can vary)HOUSING:Extremely expensive, even more so in winter. Please consider housing options in the surrounding towns: Basalt, Carbondale,  Glenwood Springs. FYI $3500/month is common for a 1 BR apartment in Basalt.Travelers looking for a housing budget less than this should probably not be submitted.Traveler will be responsible for securing their own housing for the duration of this assignment.IMPORTANT NOTE: Traveler will be responsible for securing their own housing for the duration of this assignment.   Additional Information:HOUSING: Extremely expensive, especially in winter. Please consider housing options in the surrounding towns: Basalt, Carbondale, & Glenwood Springs. FYI $3500/month is common for a 1 BR apartment in Basalt. Travelers looking for a housing budget less than this should probably not be submitted. DISPUTES: 30 DAY TIMEFRAME  otherwise they'll be denied   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/259205;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Aspen Valley Hospital
+    [shiftDateEnd] => 2024-03-26
+    [shiftStartTime] => 10:30
+    [subjectID] => 
+)

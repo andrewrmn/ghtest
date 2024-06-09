@@ -1,0 +1,140 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3952',
+  'Cf-Ray' => '833bc85c13291463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Travel: Radiology Tech - Nights - 36
+Unit: Radiology
+
+Specialty:
+Radiologic Tech
+
+Facility: St. Louis
+
+
+Shift: 5x8s
+ 
+
+
+Experience: 1+ years
+
+ARRT Registered in Radiography preferred
+
+BLS
+-
+preferred
+
+
+FLU
+and
+COVID-19:
+
+
+All travelers must be completely vaccinated PRIOR TO START. There are no exemptions.
+
+
+
+The Radiologic Technologist works under the supervision of the Administrative Supervisor and/or Director, and arranges patients in a safe and efficient manner for radiological examinations, produces radiographs (x-rays) to aid in the diagnosis of medical problems.
+ General CommentsEducation: Secondary and some post-secondary. Graduate of an accredited Radiological Technologist program or 6 months of graduation of an accredited Radiological Technologist program. 
+
+
+Licensure: ARRT Registered in Radiography, or if new graduate registry eligible.
+
+
+
+Other: Excellent communication, analytical and organizational skills are required, and must be familiar with a variety of the field's concepts, practices, and procedures. Operate various types of office equipment, including a computer, fax machine, telephone, printer and copy machine. Preferred Certifications: ARRT Registered in Radiography
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 541310
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 8384
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-31
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:30
+    [whenmodified] => December, 11 2023 01:48:33
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=770712 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital St Louis ;City=Saint Louis ;State=MO ;Zip=63141 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Rad Tech ;Specialty=Radiology ;Unit=Mercy ;Shift=15:00-23:30;# of Postions=1;Type=Travel;BillRate=$60.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Travel: Radiology Tech - Nights - 36
+Unit: Radiology
+
+Specialty:
+Radiologic Tech
+
+Facility: St. Louis
+
+
+Shift: 5x8s
+ 
+
+
+Experience: 1+ years
+
+ARRT Registered in Radiography preferred
+
+BLS
+-
+preferred
+
+
+FLU
+and
+COVID-19:
+
+
+All travelers must be completely vaccinated PRIOR TO START. There are no exemptions.
+
+
+
+The Radiologic Technologist works under the supervision of the Administrative Supervisor and/or Director, and arranges patients in a safe and efficient manner for radiological examinations, produces radiographs (x-rays) to aid in the diagnosis of medical problems.
+ General CommentsEducation: Secondary and some post-secondary. Graduate of an accredited Radiological Technologist program or 6 months of graduation of an accredited Radiological Technologist program. 
+
+
+Licensure: ARRT Registered in Radiography, or if new graduate registry eligible.
+
+
+
+Other: Excellent communication, analytical and organizational skills are required, and must be familiar with a variety of the field's concepts, practices, and procedures. Operate various types of office equipment, including a computer, fax machine, telephone, printer and copy machine. Preferred Certifications: ARRT Registered in Radiography
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/770712;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 60
+    [facilityName] => Mercy Hospital St. Louis - HT
+    [shiftDateEnd] => 2024-03-31
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

@@ -1,0 +1,113 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '20',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3058',
+  'Cf-Ray' => '82bd2b7e03c8493d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Echocardiogram Technician Registered
+CHRISTUS Good Shepherd Medical Center Longview
+Echo Techs work both in the hospital and rotate to our Heart & Vascular Clinic across the street performing Stress Echos and transthoracic echos
+700 East Marshall Avenue, Longview TX 75601
+
+QUANTITY: 1
+CONTRACT: 13-Weeks
+BILL RATE: $95, orientation billable at 70% of the bill rate up to the first 36 hours
+
+SHIFT: 4-10 HR Days
+WEEKENDS: Yes
+ON CALL: 7 days every 5th week
+FLOATING: Per Ministry Policy
+GUARANTEE: 40-hrs
+
+REQUIRED CREDENTIALS: AHA BLS, ARDMS or CCI, HS Diploma
+REQUIRED EXPERIENCE: 2 years 
+EMR: Epic
+EQUIPMENT USED: GE Vivid E9 Echo machines
+
+SUBMISSION REQUIREMENTS (Must be combined into 1 PDF file)
+
+Filled out coversheet (blank coversheet attached)
+
+Resume/work history
+
+Skills checklist
+
+Certification verification within last 30 days
+    [sitename] => giftednurses
+    [spec] => Echocardiography
+    [assignmentid] => 534502
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 9828
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Echo Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 16:30
+    [whenmodified] => November, 25 2023 17:01:22
+    [daysPerWeek] => 5
+    [orderNote] => Source=StafferLink;SourceID=7872039 ;Status=O;Association=CHRISTUS Good Shepherd (NETX) ;Client=CHRISTUS Good Shepherd (NETX) ;City=Longview ;State=TX ;Zip=75601 ;Start=12/4/2023;End=3/2/2024;Duration=90;Cert=Echo Tech Registered ;Specialty=Card Non Inv 2615 / 503 ;Unit=Card Non Inv 2615 / 503 ;Shift=07:30:00 - 16:00:00;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$105.00;Description=Echocardiogram Technician Registered
+CHRISTUS Good Shepherd Medical Center Longview
+Echo Techs work both in the hospital and rotate to our Heart & Vascular Clinic across the street performing Stress Echos and transthoracic echos
+700 East Marshall Avenue, Longview TX 75601
+
+QUANTITY: 1
+CONTRACT: 13-Weeks
+BILL RATE: $105, orientation billable at 70% of the bill rate up to the first 36 hours
+
+SHIFT: 4-10 HR Days
+WEEKENDS: Yes
+ON CALL: 7 days every 5th week
+FLOATING: Per Ministry Policy
+GUARANTEE: 40-hrs
+
+REQUIRED CREDENTIALS: AHA BLS, ARDMS or CCI, HS Diploma
+REQUIRED EXPERIENCE: 2 years 
+EMR: Epic
+EQUIPMENT USED: GE Vivid E9 Echo machines
+
+SUBMISSION REQUIREMENTS (Must be combined into 1 PDF file)
+Filled out coversheet (blank coversheet attached)
+Resume/work history
+Skills checklist
+Certification verification within last 30 days ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => CHRISTUS Good Shepherd Medical Center - Longview TRAVEL
+    [shiftDateEnd] => 2024-03-02
+    [shiftStartTime] => 07:30
+    [subjectID] => 
+)

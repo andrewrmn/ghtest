@@ -1,0 +1,132 @@
+.ghTestimonials{
+  background: #DFF1F2;
+  border-radius: 6px;
+  color: $color-dark-teal;
+  padding: 64px 80px;
+
+  &__item{
+    .flow{
+      align-items: center;
+    }
+  }
+  &__image{
+    img{
+      max-width: 152px;
+      height: auto;
+      display: block;
+    }
+  }
+  &__text{
+    margin: -0.25em 0;
+    font-size: var(--heading-2-font-size);
+    line-height: 1.5;
+    font-weight: 500;
+    max-width: 728px;
+    text-align: center;
+  }
+
+  &__author{
+    display: inline-flex;
+    align-items: center;
+    font-size: 18px;
+    gap: 16px;
+  }
+
+  &__authorPic{
+    > img{
+      width: 80px;
+      height: 80px;
+      display: block;
+      border: 3px solid white;
+      border-radius: 80px;
+      overflow: hidden;
+      object-fit: cover;
+      object-position: center center;
+    }
+  }
+
+  /*
+  Owl carousel
+   */
+
+  .owl-prev,
+  .owl-next{
+    background: none !important;
+    width: 48px !important;
+    height: 48px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    position: absolute !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+    border: 1px solid $color-teal !important;
+    color: $color-teal !important;
+    border-radius: 40px !important;
+
+    i{
+      font-size: 24px;
+    }
+  }
+
+  .owl-prev{
+    left: -64px;
+  }
+  .owl-next{
+    right: -64px;
+  }
+
+  .owl-dots{
+    position: absolute;
+    bottom: -64px;
+    left: 0;
+    right: 0;
+  }
+
+  .owl-dot{
+    span{
+      background: $color-light-green !important;
+    }
+    &.active{
+      span{
+        background: $color-dark-teal !important;
+      }
+    }
+  }
+
+
+  @media screen and (max-width: 680px){
+    background: none;
+    padding: 0 0 72px;
+
+    &__item{
+      padding: 40px 20px;
+      background: #DFF1F2;
+      border-radius: 6px;
+    }
+    &__text{
+      font-size: 18px;
+    }
+
+    .owl-dots{
+      bottom: -66px;
+    }
+
+    .owl-prev,
+    .owl-next{
+      top: auto !important;
+      transform: none !important;
+      bottom: -80px !important;
+      z-index: 2;
+    }
+
+    .owl-prev{
+      left: 10vw !important;
+    }
+    .owl-next{
+      right: 10vw !important;
+    }
+  }
+
+
+}

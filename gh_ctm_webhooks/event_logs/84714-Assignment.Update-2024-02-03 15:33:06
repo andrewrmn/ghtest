@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '43',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1964',
+  'Cf-Ray' => '84fbbafbf65f1840-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 09/11/2019 0703 MDTCerville Exavier					Shift 7p-7a. Must have Peds ER exp. PALS & TNCC req. ACLS pref. Min of 2yrs exp required. Level1 trauma exp. required. Any time off req must be on submission. Strongly prefer prior kids hosp exp. If not file, must state amount of Peds experience.  IVS to interview and NM to make final offer.
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 84714
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2478
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-11-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => February, 03 2024 10:32:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;ID=0;SourceID=8347612;Status=;Association=CCS WFS: Seton HealthCare Network;Client=AH: Dell Children's Medical Center;City=Austin;State=TX;Zip=78723;Start=10/14/2019;End=1/13/2020;Duration=92;Cert=RN;Specialty=ER I;Unit=DCMC Emergency Department;Shift=NOC 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$69.09;OTRate= ;OTRules= ;ChargeRate= ;CallbackRate= ;CallbackRate= ;HolidayRate= ;OnCallRateDescription= ;Orientation= ;Description=09/11/2019 0703 MDTCerville Exavier					Shift 7p-7a. Must have Peds ER exp. PALS & TNCC req. ACLS pref. Min of 2yrs exp required. Level1 trauma exp. required. Any time off req must be on submission. Strongly prefer prior kids hosp exp. If not file, must state amount of Peds experience.  IVS to interview and NM to make final offer.;Buyer= ;VMSPositionType=  AvgHoursPerWeek=  InterviewRequired=False;WinterPlanNeed=;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 69.09
+    [facilityName] => Dell Children's Medical Center
+    [shiftDateEnd] => 2020-02-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,66 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3462',
+  'Cf-Ray' => '82b30d0332ca1463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+The Respiratory Therapist is either registered or certified by the National Board of Respiratory Care to provide Cardiopulmonary Services.  The Respiratory Therapist is responsible for following protocols approved by the medical staff and department policy and procedures in order to provide timely diagnostic and therapeutic services to both inpatients and outpatients.  Responsibilities include: assisting physicians with invasive and non-invasive procedures, delivery of medicated aerosols via medical compressed gas, maintaining airways, ventilator management, insertion of arterial lines, intubations, pulmonary function studies, cardiac and pulmonary stress tests, and blood gases.parseGeneralComments Comments
+.bd_title { font-weight: bold }
+DETARShift: DaysStart: ASAPRate: $110/hrReplacing employees who will be leaving due to internal contracts being suspended. Two night positions and one day.  The hours are from 6pm to 6am and 6am to 6pm. Contact: Jasmine Rivera Resource Manager: Christopher Stearns
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 356848
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9491
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-03-21
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RRT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 24 2023 11:32:48
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=581399 ;Status=Open;Association=CHS ;Client=DeTar Healthcare System ;City=Victoria ;State=TX ;Zip=77904 ;Start=3/21/2022;End=6/20/2022;Duration=91;Cert=CHS Travel:Registered Respiratory Therapist (RRT) - Days (581399) ;Specialty=1171: RESPIRATORY THERAPY ;Unit=RESPIRATORY THERAPY ;Shift=Days;# of Postions=1;Type=Travel;BillRate=$110.00;minBillRate=$110.00;Description=Position Description
+The Respiratory Therapist is either registered or certified by the National Board of Respiratory Care to provide Cardiopulmonary Services.  The Respiratory Therapist is responsible for following protocols approved by the medical staff and department policy and procedures in order to provide timely diagnostic and therapeutic services to both inpatients and outpatients.  Responsibilities include: assisting physicians with invasive and non-invasive procedures, delivery of medicated aerosols via medical compressed gas, maintaining airways, ventilator management, insertion of arterial lines, intubations, pulmonary function studies, cardiac and pulmonary stress tests, and blood gases.parseGeneralComments Comments
+.bd_title { font-weight: bold }
+DETARShift: DaysStart: ASAPRate: $110/hrReplacing employees who will be leaving due to internal contracts being suspended. Two night positions and one day.  The hours are from 6pm to 6am and 6am to 6pm. Contact: Jasmine Rivera Resource Manager: Christopher Stearns ;Buyer=Jasmine Rivera ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=581399#!/position/manage/581399;VMSPositionType=Travel minPayRate=$110.00;maxPayRate=$110.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => DeTar Hospital - North 
+    [shiftDateEnd] => 2022-06-20
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

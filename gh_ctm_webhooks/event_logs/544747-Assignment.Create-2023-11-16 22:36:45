@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '26',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '896',
+  'Cf-Ray' => '827336f012074955-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544747
+    [workerID] => 13984
+    [WorkerContactNo] => OtherPhone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 8669
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => Johnson
+    [shiftNum] => 5
+    [workerFirstName] => Rachel
+    [cert] => RN
+    [floorDesc] => Tele
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 16 2023 17:36:45
+    [daysPerWeek] => 4
+    [orderNote] => FTK: GTC
+Chrg:P$1/B$3-OnCl:P$10/B$18
+Ornt:$20/NB:8hr-POT:$60.88>40hr
+BR:$80
+    [guaranteedMinimum] => 
+    [workerEmail] => tjohns3883@yahoo.com
+    [HoursPerWeekOT] => 8
+    [offContractRate] => 80
+    [facilityName] => Pikeville Medical Center Travel
+    [shiftDateEnd] => 2024-02-03
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

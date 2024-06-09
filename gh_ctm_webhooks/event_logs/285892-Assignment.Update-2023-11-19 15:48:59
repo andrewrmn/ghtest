@@ -1,0 +1,76 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5422',
+  'Cf-Ray' => '828999bf646123c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+TRAVEL RN POST PARTUM
+Start Date: ASAP
+Duration: 13 WEEKS
+Shift: NIGHTS (7p-7a)
+Approved Rate: $135/Hr
+The Post Partum Registered Nurse holds shift accountability for providing care to patients during the postpartum phase of Obstetrical care by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient careparseGeneralComments Comments
+.bd_title { font-weight: bold }
+Reason for opening (special, internal vacancy, leave coverage) Vacancies in 1021-006, 1021-007, 1021-008, 1021-010, 1021-012             ******************************************************************************* 5 needs total, all night shift.              How long has it been open?              Will position be required to float to other units? Potentially depending on unit and hospital needs and competencies             Number of beds in your facility? 126             Years of experience required? At least one year             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) Danna Buchhorn, 512-528-7303, danna_buchhorn@cedarparkregional.com             Willing to review clinicians with pending state license? No             Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift) 1900-0700    EMR for your facility: Centricity             Scrub colors / dress code: Navy Blue    Parking location:  Contact: Christopher Stearns Resource Manager: Christopher Stearns
+    [sitename] => giftednurses
+    [spec] => PP
+    [assignmentid] => 285892
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-10-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 19 2023 10:48:41
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=522172 ;Status=Open;Association=CHS ;Client=Cedar Park Regional Medical Center ;City=Cedar Park ;State=TX ;Zip=78613 ;Start=ASAP;End=;Duration=91;Cert=Registered Nurse (RN) ;Specialty=Post Partum ;Unit=OBSTETRICS/GYNECOLOGY ;Shift=7p-7a;# of Postions=5;Type=Travel;BillRate=$135.00;minBillRate=$135.00;Description=Position Description
+TRAVEL RN POST PARTUM
+Start Date: ASAP
+Duration: 13 WEEKS
+Shift: NIGHTS (7p-7a)
+Approved Rate: $135/Hr
+The Post Partum Registered Nurse holds shift accountability for providing care to patients during the postpartum phase of Obstetrical care by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient careparseGeneralComments Comments
+.bd_title { font-weight: bold }
+Reason for opening (special, internal vacancy, leave coverage) Vacancies in 1021-006, 1021-007, 1021-008, 1021-010, 1021-012             ******************************************************************************* 5 needs total, all night shift.              How long has it been open?              Will position be required to float to other units? Potentially depending on unit and hospital needs and competencies             Number of beds in your facility? 126             Years of experience required? At least one year             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) Danna Buchhorn, 512-528-7303, danna_buchhorn@cedarparkregional.com             Willing to review clinicians with pending state license? No             Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift) 1900-0700    EMR for your facility: Centricity             Scrub colors / dress code: Navy Blue    Parking location:  Contact: Christopher Stearns Resource Manager: Christopher Stearns ;Buyer=Christopher Stearns ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=522172#!/position/manage/522172;VMSPositionType=Travel minPayRate=$135.00;maxPayRate=$135.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 135
+    [facilityName] => Cedar Park Regional Medical Center
+    [shiftDateEnd] => 2022-01-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

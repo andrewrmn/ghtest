@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3766',
+  'Cf-Ray' => '82b30cd4031223b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position DescriptionThe CT Technologist is a graduate of an accredited AMA school and registered with the American Registry of Radiologic Technology (ARRT).  The CT Technologist is licensed by the state as a general radiographer and  is responsible for providing timely diagnostic services to both inpatient and outpatients under the direction of a Radiologist and departmental protocols. Responsibilities include but are not limited to the performance of basic radiographic procedures, fluoroscopy, portable radiographic procedures, C-arm procedures, and OR imaging services.  The CT Technologist demonstrates proficiency at routine diagnostic CT Scanning procedures including but not limited to CT of head/brain, neck, thorax, spine, abdomen/pelvis extremities and biopsy/drainage procedures.  Responsibilities also include: knowledge of processing of CT system, surgical/sterile procedure, studies with or without contrast media and cross sectional anatomy.parseGeneralComments Comments.bd_title                                  {                                         font-weight: bold;                                  } Contact: Christopher Stearns Resource Manager: Suhani Desai OT Rate:Custom Rate
+    [sitename] => giftednurses
+    [spec] => Radiology
+    [assignmentid] => 76558
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9491
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-09-23
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 24 2023 11:32:48
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;ID=0;SourceID=302003;Status=;Client=DeTar Healthcare System Allied;City=Victoria;State=TX;Zip=77904;Start=9/9/2019;End=10/21/2019;Duration=42;Cert=CT Scan Tech;Specialty=Radiology (R);Unit=RADIOLOGY - DIAGNOSTIC;Shift=;# of Postions=1;Guaranteed Hours=?;Type=Travel;BillRate=$67.00;OTRate=?/$93.80 ;OTRules=1.00x (OT), 1.00x (DT) ;ChargeRate= ;CallbackRate=?/$100.50 ;CallbackRate=?/$100.50 ;HolidayRate= ;OnCallRateDescription= ;Orientation= ;Description=Position DescriptionThe CT Technologist is a graduate of an accredited AMA school and registered with the American Registry of Radiologic Technology (ARRT).  The CT Technologist is licensed by the state as a general radiographer and  is responsible for providing timely diagnostic services to both inpatient and outpatients under the direction of a Radiologist and departmental protocols. Responsibilities include but are not limited to the performance of basic radiographic procedures, fluoroscopy, portable radiographic procedures, C-arm procedures, and OR imaging services.  The CT Technologist demonstrates proficiency at routine diagnostic CT Scanning procedures including but not limited to CT of head/brain, neck, thorax, spine, abdomen/pelvis extremities and biopsy/drainage procedures.  Responsibilities also include: knowledge of processing of CT system, surgical/sterile procedure, studies with or without contrast media and cross sectional anatomy.parseGeneralComments Comments.bd_title                                  {                                         font-weight: bold;                                  } Contact: Christopher Stearns Resource Manager: Suhani Desai OT Rate:Custom Rate;Buyer=Christopher Stearns ;VMSPositionType=Travel Travel AvgHoursPerWeek=  maxPayRate=$67.00;InterviewRequired=False;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 
+    [facilityName] => DeTar Hospital - North 
+    [shiftDateEnd] => 2019-11-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

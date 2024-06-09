@@ -1,0 +1,84 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2189',
+  'Cf-Ray' => '82d417a6c1c21834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Johns Hopkins Hospital Zayed 11 East
+
+	Orthopedic/Spine/Trauma/General Surgery
+
+	Med Surg level Nursewho has worked on a unit with patients who have had surgery.
+
+	Pre and post-surgical care on the unit.
+
+	Multiple levels of care- Adult inpatient acute, tele unit with continuous vital sign
+
+	Required: 2 years nursing experience; dysrhythmia management; BLS
+
+	Preferred EPIC experience; 1-2 travel assignments;
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 546190
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1877
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 28 2023 11:47:22
+    [daysPerWeek] => 3
+    [orderNote] => Source=IntrastaffVMS;SourceID=305428 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Johns Hopkins Hospital ;Start=1/8/2024;End=4/6/2024;Duration=89;Cert=MSP RN Enhanced High Needs ;Specialty=Zayed 11E (Surgery)  (4801336942) ;Unit=Zayed 11E (Surgery)  (4801336942) ;Shift=Night 12 (7:00 PM - 7:30 AM);# of Postions=1;Type=Travel;BillRate=$85.00;minBillRate=$85.00;Description=Johns Hopkins Hospital Zayed 11 East
+
+	Orthopedic/Spine/Trauma/General Surgery
+
+	Med Surg level Nursewho has worked on a unit with patients who have had surgery.
+
+	Pre and post-surgical care on the unit.
+
+	Multiple levels of care- Adult inpatient acute, tele unit with continuous vital sign
+
+	Required: 2 years nursing experience; dysrhythmia management; BLS
+
+	Preferred EPIC experience; 1-2 travel assignments; ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=4tOagbZMCnI=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => The Johns Hopkins Hospital TRAVEL
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

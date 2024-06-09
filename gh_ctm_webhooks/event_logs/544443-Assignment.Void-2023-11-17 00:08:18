@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4175',
+  'Cf-Ray' => '8273bd08e5141834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Come join us on the Western Slope in Colorado!  Why Valley View? Nurses at Valley View are making a difference! Valley View recently received ANCC Pathway to Excellence designation! Valley View supports a Shared Governance model for all Nurses at Valley View, this has allowed us to build a culture of sustained excellence, where nurses and administrators collaboratively determine nursing standards and allow nurses to share responsibility and accountability for patient care. Click on our website to learn more about our culture of nursing at Valley View: https://www.vvh.org/nursing/E.D. INFO:  13-bed Emergency Department.  Valley View is a Level 3 Trauma facility. SHIFT: 12 hour night shift with rotating weekends CERTS REQUIRED: Current Colorado RN license or compact to practice in Colorado. Current BLS, ACLS, PALS endorsed by the American Heart Association, no exceptions. Current TNCC certification.EXP: Must have a minimum of 2 year RN Emergency Department experience.Agency's, please submit the following with each submission:Skills SheetCopy of RN License Copy of AHA BLS, ACLS, and PALSCopy of TNCCProof of Flu Vaccine, no exemptions   Additional Information:  *RADIUS RULE* Traveler's permanent address must be at least 75 miles away from our facility to be considered for a travel assignment.   Position Urgency:Normal Billing string = Valley View Hospital
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 544443
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6969
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-05
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 16 2023 19:08:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261709 ;Status=Open;Association=Valley View Hospital ;Client=Valley View Hospital ;City=Glenwood Springs ;State=CO ;Zip=81601 ;Start=12/5/2023;End=3/5/2024;Duration=91;Cert=Nursing ;Specialty=Emergency Room Nurse ;Unit=Emergency Room Nurse ;Shift=12-hour nights with rotating weekends; call rotation;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$85.00;OTRate=95 ;OTRules=By The Week, after 40, ;CallbackRate=90 (All Inclusive Rate + $5) ;HolidayRate=95 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=Come join us on the Western Slope in Colorado!  Why Valley View? Nurses at Valley View are making a difference! Valley View recently received ANCC Pathway to Excellence designation! Valley View supports a Shared Governance model for all Nurses at Valley View, this has allowed us to build a culture of sustained excellence, where nurses and administrators collaboratively determine nursing standards and allow nurses to share responsibility and accountability for patient care. Click on our website to learn more about our culture of nursing at Valley View: https://www.vvh.org/nursing/E.D. INFO:  13-bed Emergency Department.  Valley View is a Level 3 Trauma facility. SHIFT: 12 hour night shift with rotating weekends CERTS REQUIRED: Current Colorado RN license or compact to practice in Colorado. Current BLS, ACLS, PALS endorsed by the American Heart Association, no exceptions. Current TNCC certification.EXP: Must have a minimum of 2 year RN Emergency Department experience.Agency's, please submit the following with each submission:Skills SheetCopy of RN License Copy of AHA BLS, ACLS, and PALSCopy of TNCCProof of Flu Vaccine, no exemptions   Additional Information:  *RADIUS RULE* Traveler's permanent address must be at least 75 miles away from our facility to be considered for a travel assignment.   Position Urgency:Normal Billing string = Valley View Hospital ;url=https://vms.medefis5.com/jobs/261709;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Valley View Hospital
+    [shiftDateEnd] => 2024-03-05
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

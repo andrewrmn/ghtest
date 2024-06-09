@@ -1,0 +1,185 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5450',
+  'Cf-Ray' => '845a1298b3e677bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name
+
+8 West Neuro-RN-Mercy South
+
+Organization
+
+Mercy
+
+Facility
+
+Mercy Hospital South
+
+Unit
+
+Medical Unit
+
+Cost Center
+
+15-446066
+
+
+
+
+
+
+
+Shift
+
+night
+
+Shifts per week
+
+3
+
+Hours per shift
+
+12
+EXPERIENCE
+Years of Experience
+
+Specialties
+
+Med-Surg
+-
+required
+
+
+Technologies
+CERTIFICATIONS
+Certifications
+
+BLS
+-
+required
+ACLS
+-
+preferred
+
+DESCRIPTION
+Unit: Neuro Specialty: Neuro Location: Mercy South (10010 Kennerly Rd, St Louis, Missouri 63128-2106) Community/Campus: East Shift Option #1: 3x12 (36 hours)   Overview: Performs direct patient care activities for all age groups to include assessment, planning, implementation, and evaluation. Monitors and coordinates patient care activities with ancillary departments to optimize patient care and comfort. Functions within the scope of nursing preparation and consistent with the established guidelines of nursing practice, the Missouri Nurse Practice Act, Mercy Code of Conduct, Mercy Mission and Values and Mercy Service Standards.   Qualifications:  Education: Graduate of a state-approved professional nurse program.  Licensure: Current RN licensure with Missouri active or compact   Certifications: Must have a current American Heart Association Healthcare Provider card or complete a course within their probation period. Must have a current ACLS card  Physical Requirements: Stand and walk most of the time on duty. Meet unit specific physical demands. Significant amount of bending and stooping, as well as lifting and turning patients with assistance. May be required to work differing schedules, shifts, days of the week, or work frequency according to patient care requirements. High risk exposure to blood and body fluids. Physical demands are attached plus push, pull, and grip up to 50 lbs., pinch up to 15 lbs., kneel, crouch, and crawl minimally.
+ General Comments
+ No. of Positions: 2/2.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 535011
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15624
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-28
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 14 2024 19:41:21
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=764601 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital South ;City=Saint Louis ;State=MO ;Zip=63128 ;Start=10/30/2023;End=1/29/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=Mercy ;Shift=19:00-07:00;# of Postions=2;Type=Travel;BillRate=$90.00;minBillRate=$90.00;OTRate=98 ;CallbackRate=98 ;HolidayRate=98 ;Orientation=0 ;Description=Description:Name
+
+8 West Neuro-RN-Mercy South
+
+Organization
+
+Mercy
+
+Facility
+
+Mercy Hospital South
+
+Unit
+
+Medical Unit
+
+Cost Center
+
+15-446066
+
+
+
+
+
+
+
+Shift
+
+night
+
+Shifts per week
+
+3
+
+Hours per shift
+
+12
+EXPERIENCE
+Years of Experience
+
+Specialties
+
+Med-Surg
+-
+required
+
+
+Technologies
+CERTIFICATIONS
+Certifications
+
+BLS
+-
+required
+ACLS
+-
+preferred
+
+DESCRIPTION
+Unit: Neuro Specialty: Neuro Location: Mercy South (10010 Kennerly Rd, St Louis, Missouri 63128-2106) Community/Campus: East Shift Option #1: 3x12 (36 hours)   Overview: Performs direct patient care activities for all age groups to include assessment, planning, implementation, and evaluation. Monitors and coordinates patient care activities with ancillary departments to optimize patient care and comfort. Functions within the scope of nursing preparation and consistent with the established guidelines of nursing practice, the Missouri Nurse Practice Act, Mercy Code of Conduct, Mercy Mission and Values and Mercy Service Standards.   Qualifications:  Education: Graduate of a state-approved professional nurse program.  Licensure: Current RN licensure with Missouri active or compact   Certifications: Must have a current American Heart Association Healthcare Provider card or complete a course within their probation period. Must have a current ACLS card  Physical Requirements: Stand and walk most of the time on duty. Meet unit specific physical demands. Significant amount of bending and stooping, as well as lifting and turning patients with assistance. May be required to work differing schedules, shifts, days of the week, or work frequency according to patient care requirements. High risk exposure to blood and body fluids. Physical demands are attached plus push, pull, and grip up to 50 lbs., pinch up to 15 lbs., kneel, crouch, and crawl minimally.
+ General Comments
+ No. of Positions: 2/2.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/764601;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Mercy Hospital South - Travel
+    [shiftDateEnd] => 2024-04-28
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

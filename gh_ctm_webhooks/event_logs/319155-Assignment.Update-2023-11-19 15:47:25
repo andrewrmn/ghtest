@@ -1,0 +1,72 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2079',
+  'Cf-Ray' => '82899773974023b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+$150 Bill Rate
+Nights 
+36 hours guaranteed, rotating weekends, float to other units and possibly sister hospital2  plus years of acute care experience, Must have AZ license and BLS--Cerner experience is a plusparseGeneralComments Comments
+.bd_title { font-weight: bold }
+PCR 2013-036
+Nights Contact: CHS MSP HOUSE Resource Manager: CHS MSP HOUSE
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 319155
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-01-03
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:47:10
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=540962 ;Status=Open;Association=CHS ;Client=Oro Valley Hospital ;City=Oro Valley ;State=AZ ;Zip=85755 ;Start=12/6/2021;End=3/7/2022;Duration=91;Cert=CHS Travel:Registered Nurse (RN) / Medical Surgical (540962) ;Specialty=1013: MED/SURG (UNIT/FLOOR 3) ;Unit=MED/SURG (UNIT/FLOOR 3) ;Shift=;# of Postions=1;Type=Travel;BillRate=$150.00;Description=Position Description
+$150 Bill Rate
+Nights 
+36 hours guaranteed, rotating weekends, float to other units and possibly sister hospital2  plus years of acute care experience, Must have AZ license and BLS--Cerner experience is a plusparseGeneralComments Comments
+.bd_title { font-weight: bold }
+PCR 2013-036
+Nights Contact: CHS MSP HOUSE Resource Manager: CHS MSP HOUSE ;Buyer=CHS MSP HOUSE ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=540962#!/position/manage/540962;VMSPositionType=Travel InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 150
+    [facilityName] => Northwest Medical Center of Oro Valley
+    [shiftDateEnd] => 2022-04-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

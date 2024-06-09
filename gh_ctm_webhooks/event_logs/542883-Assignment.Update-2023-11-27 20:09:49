@@ -1,0 +1,377 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6169',
+  'Cf-Ray' => '82cd02c010e323c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Need to have experience w/ Open heart ( CABG), LVADS, Aortic &amp; Mitral Valve replacement procedures, ECMO , Aortic Dissections and Elephant truck procedures
+          Unit Information:
+   Scrub Tech   CVOR (703)             Facility: 
+HCA FLORIDA JFK MC HOSPITAL             
+Address: 
+5301 Congress Ave Atlantis Fl
+         
+Floor: 2nd   fl
+             
+Building: 
+         
+Cost Center: 
+703
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+   Number of Beds: 2 Open heart rooms   &amp; 1 Hybrid Room
+   
+ 
+
+
+
+
+
+   Number of Staff: 1 Charge RN, 
+
+5   RN,
+ 2 Scrub tech
+   
+ 
+
+
+
+
+
+ Type of Staff: 
+
+   
+o
+
+   Day Shift: 
+all day shift + On Call evenings, weekends   &amp; holidays.
+
+ Shift Starts at 6am   to 4:30pm
+   
+o
+
+   Night Shift: 
+On call only. 
+   
+ 
+
+
+
+
+
+   Patient Ratios   1:1
+   
+ 
+
+
+
+
+
+   Type of Equipment: 
+   
+ 
+
+
+
+
+
+   Documentation System: Meditech
+   
+ 
+
+
+
+
+
+   Call Requirements: Evenings, weekends   &amp; holidays
+             Typical Hiring Profile             
+   
+Must have: (includes certifications and special skills, ex: ACLS, BLS, NIH)
+   
+ 
+
+
+
+
+
+   BLS 
+   
+ 
+
+
+
+
+
+   
+
+   
+
+
+   List Typical Procedures Performed on Unit(s): 
+   
+ 
+
+
+
+
+
+   CBG, AVR, MVR, LVAD, ECMO, Dissections, Elephant Trunk Procedure   &amp; repair, TAVRS, Mitral Valve clips, AAA
+   Additional Preferences: (ex:   previous travel experience preferred, easily adaptable to fast paced unit,   can function well independently)   
+ 
+
+
+
+
+
+   Previous Travel experience on heart teams that did similar cases. 
+Must live within 30 minutes of the hospital   for Call response time
+ 
+   
+ 
+
+
+
+
+
+   
+
+             
+Dress Code:
+   
+ 
+
+
+
+
+
+   Scrub Color     Hospital issued scrub 
+             Awards/Recognition: 
+Feel free to include items such as   links to videos that feature the department, outstanding department/team   awards, etc.
+     
+
+
+
+
+
+   
+
+    
+ General Comments
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 542883
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1411
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 27 2023 15:09:43
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=750999 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA FLORIDA JFK HOSPITAL ;City=ATLANTIS ;State=FL ;Zip=33462 ;Start=11/24/2023;End=2/23/2024;Duration=91;Cert=CST/ORT ;Specialty=OR ;Unit=EAST FLORIDA DIVISION (22) ;Shift=7:00AM – 7:00PM ;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=98 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Need to have experience w/ Open heart ( CABG), LVADS, Aortic &amp; Mitral Valve replacement procedures, ECMO , Aortic Dissections and Elephant truck procedures
+          Unit Information:
+   Scrub Tech   CVOR (703)             Facility: 
+HCA FLORIDA JFK MC HOSPITAL             
+Address: 
+5301 Congress Ave Atlantis Fl
+         
+Floor: 2nd   fl
+             
+Building: 
+         
+Cost Center: 
+703
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+   Number of Beds: 2 Open heart rooms   &amp; 1 Hybrid Room
+   
+ 
+
+
+
+
+
+   Number of Staff: 1 Charge RN, 
+
+5   RN,
+ 2 Scrub tech
+   
+ 
+
+
+
+
+
+ Type of Staff: 
+
+   
+o
+
+   Day Shift: 
+all day shift + On Call evenings, weekends   &amp; holidays.
+
+ Shift Starts at 6am   to 4:30pm
+   
+o
+
+   Night Shift: 
+On call only. 
+   
+ 
+
+
+
+
+
+   Patient Ratios   1:1
+   
+ 
+
+
+
+
+
+   Type of Equipment: 
+   
+ 
+
+
+
+
+
+   Documentation System: Meditech
+   
+ 
+
+
+
+
+
+   Call Requirements: Evenings, weekends   &amp; holidays
+             Typical Hiring Profile             
+   
+Must have: (includes certifications and special skills, ex: ACLS, BLS, NIH)
+   
+ 
+
+
+
+
+
+   BLS 
+   
+ 
+
+
+
+
+
+   
+
+   
+
+
+   List Typical Procedures Performed on Unit(s): 
+   
+ 
+
+
+
+
+
+   CBG, AVR, MVR, LVAD, ECMO, Dissections, Elephant Trunk Procedure   &amp; repair, TAVRS, Mitral Valve clips, AAA
+   Additional Preferences: (ex:   previous travel experience preferred, easily adaptable to fast paced unit,   can function well independently)   
+ 
+
+
+
+
+
+   Previous Travel experience on heart teams that did similar cases. 
+Must live within 30 minutes of the hospital   for Call response time
+ 
+   
+ 
+
+
+
+
+
+   
+
+             
+Dress Code:
+   
+ 
+
+
+
+
+
+   Scrub Color     Hospital issued scrub 
+             Awards/Recognition: 
+Feel free to include items such as   links to videos that feature the department, outstanding department/team   awards, etc.
+     
+
+
+
+
+
+   
+
+    
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/750999;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => JFK Medical Center Parallon
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

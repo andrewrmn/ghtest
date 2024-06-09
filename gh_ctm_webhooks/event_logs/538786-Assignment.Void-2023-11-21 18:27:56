@@ -1,0 +1,65 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1928',
+  'Cf-Ray' => '829afd5685de1834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Will work 5 Main, with also the possibility to work other areas within UKHC and Good Sam. Level 1 Trauma Experience Required. Must have Med/Surg experience and BLS. (BF for Amy Puckett JG) 
+ Critical Need: Disaster Critical 12
+VayaOffer = False
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 538786
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12923
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 21 2023 13:27:54
+    [daysPerWeek] => 3
+    [orderNote] => Source=OptimizerVizient;SourceID=70827389 ;Status=CandidatesRequested;Association=University of Kentucky Hospital ;Client=University of Kentucky Hospital ;City=Lexington ;State=KY ;Zip=40536 ;Start=11/21/2023;End=2/24/2024;Duration=95;Cert=RN ;Specialty=RN - Telemetry ;Unit=CH 5 Main - Med/Surg (S&W) - 1058715210 ;Shift=7:00 PM - 7:30 AM;# of Postions=1;Guaranteed Hours=0;Type=Travel;BillRate=$90.00;OTRate=126.00 ;CallbackRate=126.00 ;HolidayRate=135.00 ;Orientation=63.00 ;Priority=Critical;Description=Will work 5 Main, with also the possibility to work other areas within UKHC and Good Sam. Level 1 Trauma Experience Required. Must have Med/Surg experience and BLS. (BF for Amy Puckett JG) 
+ Critical Need: Disaster Critical 12
+VayaOffer = False ;url=https://optimizer.vayaworkforce.com/agency/job-requests/70827389;localRate=$85.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => University of Kentucky Hospital Travel
+    [shiftDateEnd] => 2024-03-14
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

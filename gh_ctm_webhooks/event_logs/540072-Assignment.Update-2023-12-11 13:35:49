@@ -1,0 +1,475 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6143',
+  'Cf-Ray' => '833e1ced45cd183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN ER
+13 WEEKS
+7P- 7A
+
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE ACTIVE VA LICENSE AT SUBMISSION
+BLS/PALS/ACLS/CPI REQUIRED
+ General CommentsUnit Information:
+   Emergency Room             Location: Henrico Doctors Hospital -   Retreat             
+Address: 2621   Grove Avenue, Richmond, VA 23220
+         
+Floor: 1st
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   12 + 6 hallway
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+16
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift  1 charge/manager, 3 nurses,   sitter/tech PRN
+   
+o
+
+
+   Night Shift   1 charge, 2 nurses,   sitter/tech PRN
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   
+1:4 nurse to patient
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   Central monitors,   bedside US, non-invasive CVP monitor
+   
+ 
+
+
+
+
+
+
+
+   EMR - Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+   (Travel RNs, local CNAs and sitters)   
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   BLS, ACLS   and PALS
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   TNCC/trauma   certification/CEN 
+   
+ 
+
+
+
+
+
+
+
+   ENPC
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+
+IVs, EKGs routine
+   
+ 
+
+
+
+
+
+
+
+   
+Sedation, ortho reduction rarely
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Team/swarm nursing friendly
+   
+ 
+
+
+
+
+
+
+
+   
+Strong patient experience   focus
+             
+Dress Code: Include requirements, but most of   all not acceptable attire.
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color -
+ Navy
+   
+
+
+             Awards/Recognition: 
+   
+ 
+
+
+
+
+
+
+
+   HCA Unit of Distinction 2018
+   
+ 
+
+
+
+
+
+
+
+   Most Engaged small unit- Capital   Division 2017
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 540072
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7637
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-31
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 11 2023 08:35:46
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771066 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HENRICO DOCTORS HOSPITAL-RETREAT VA ;City=RICHMOND ;State=VA ;Zip=23220 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=RN ;Specialty=Emergency Dept ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$80.00;minBillRate=$80.00;OTRate=86 ;CallbackRate=86 ;HolidayRate=86 ;Orientation=0 ;Description=Description:TRAVEL RN ER
+13 WEEKS
+7:00PM- 7:00AM
+
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE ACTIVE VA LICENSE AT SUBMISSION
+BLS/PALS/ACLS/CPI REQUIRED
+ General CommentsUnit Information:
+   Emergency Room             Location: Henrico Doctors Hospital -   Retreat             
+Address: 2621   Grove Avenue, Richmond, VA 23220
+         
+Floor: 1st
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   12 + 6 hallway
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+16
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift  1 charge/manager, 3 nurses,   sitter/tech PRN
+   
+o
+
+
+   Night Shift   1 charge, 2 nurses,   sitter/tech PRN
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   
+1:4 nurse to patient
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   Central monitors,   bedside US, non-invasive CVP monitor
+   
+ 
+
+
+
+
+
+
+
+   EMR - Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+   (Travel RNs, local CNAs and sitters)   
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   BLS, ACLS   and PALS
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   TNCC/trauma   certification/CEN 
+   
+ 
+
+
+
+
+
+
+
+   ENPC
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+
+IVs, EKGs routine
+   
+ 
+
+
+
+
+
+
+
+   
+Sedation, ortho reduction rarely
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Team/swarm nursing friendly
+   
+ 
+
+
+
+
+
+
+
+   
+Strong patient experience   focus
+             
+Dress Code: Include requirements, but most of   all not acceptable attire.
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color -
+ Navy
+   
+
+
+             Awards/Recognition: 
+   
+ 
+
+
+
+
+
+
+
+   HCA Unit of Distinction 2018
+   
+ 
+
+
+
+
+
+
+
+   Most Engaged small unit- Capital   Division 2017
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/771066;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Retreat Doctors' Hospital
+    [shiftDateEnd] => 2024-03-31
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

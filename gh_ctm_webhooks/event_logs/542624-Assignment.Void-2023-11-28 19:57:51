@@ -1,0 +1,217 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '26',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3530',
+  'Cf-Ray' => '82d52eac16964955-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:50 MILE RADIUS REQUIRED
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lee s Summit Medical Center
+
+2100 SE Blue Pkwy
+
+Lee's Summit, MO 64063
+
+Facility Overview:
+
+
+
+
+Lee's Summit Medical Center, a hospital and ER, is ready to meet all the healthcare needs of the community. As a dually-accredited Chest Pain and Primary Stroke Center, the highly trained staff and experienced Medical Staff stand ready to treat you.
+
+
+
+
+Lee's Summit Medical Center is a general medical and surgical hospital in Lee's Summit, MO, with 64 beds. Survey data for the latest year available shows that 18,106 patients visited the hospital's emergency room. The hospital had a total of 3,984 admissions. Its physicians performed 810 inpatient and 2,188 outpatient surgeries.
+
+
+
+
+
+
+Facts about Lee's Summit Medical CenterDirectionsPatient StoriesThing to do in Lee's Summit - Missouri
+ General Comments
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 542624
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7301
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 28 2023 14:57:50
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=773662 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=LEE'S SUMMIT MEDICAL CENTER MO ;City=Lee's Summit ;State=MO ;Zip=64801 ;Start=11/6/2023;End=2/5/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=MIDAMERICA DIVISION (48) ;Shift=7p-7a;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=83 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:50 MILE RADIUS REQUIRED
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lee s Summit Medical Center
+
+2100 SE Blue Pkwy
+
+Lee's Summit, MO 64063
+
+Facility Overview:
+
+
+
+
+Lee's Summit Medical Center, a hospital and ER, is ready to meet all the healthcare needs of the community. As a dually-accredited Chest Pain and Primary Stroke Center, the highly trained staff and experienced Medical Staff stand ready to treat you.
+
+
+
+
+Lee's Summit Medical Center is a general medical and surgical hospital in Lee's Summit, MO, with 64 beds. Survey data for the latest year available shows that 18,106 patients visited the hospital's emergency room. The hospital had a total of 3,984 admissions. Its physicians performed 810 inpatient and 2,188 outpatient surgeries.
+
+
+
+
+
+
+Facts about Lee's Summit Medical CenterDirectionsPatient StoriesThing to do in Lee's Summit - Missouri
+ General Comments ;url=https://vendor.healthtrustws.com/positions/773662;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Lee's Summit Medical Center
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

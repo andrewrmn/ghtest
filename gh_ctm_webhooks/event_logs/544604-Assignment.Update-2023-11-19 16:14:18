@@ -1,0 +1,248 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '26',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4474',
+  'Cf-Ray' => '8289beca04a64955-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Data Collection:
+
+Unit Information:
+
+4HT Cardiac Med-Surg
+
+Location:
+
+HCA Houston Clearlake
+
+Address:
+495 Medical Drive, Webster, Texas
+
+Floor:
+4HT
+
+Building:
+Heart Tower
+
+
+
+
+General Information
+
+Tell us about the unit(s):
+Number of Beds -
+36Number of Staff
+ 
+
+60++Type of staff:Day Shift  
+1 CN, 6-8 RNs, 2-3 NTs, 1 USNight Shift -
+
+1 CN, 6-8 RNs, 2-3 NTs, 1 USPatient
+Ratios
+ 
+
+1: 6Type of equipment -
+
+Welch VS, Hoyer lifts, bladder scan, Nova Glucose machine,
+etcEMR
+ 
+Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+
+
+
+
+
+Must have:
+
+candidates without these skills will not be considered for the role.
+Med-Surg
+experience
+
+Preferred or nice to have:
+
+candidates with these skills will be considered first.
+
+Med-Surg Experience
+
+List typical procedures performed on unit(s):
+
+
+Blood transfusion
+
+Heparin drip, CV medications not is none titrated
+Best personality Fit:
+Team player
+REQUIRED CERTIFICATIONS:
+BLS
+Floating Area(s):
+
+Med- Surgical units, ER holds taking the same type of patients admitted in the unit.
+Dress Code:
+Scrub Color/Attire
+-
+
+Royal blue
+
+
+
+Unit Guidelines/Policies:
+Please feel free to attach unit policies and guidelines.
+
+
+
+
+
+Weekends and On call(if any)
+36 hours per weeks with every other weekend
+and rotating holidays.
+ General CommentsLocal Fill
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544604
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5531
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 19 2023 11:13:47
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=770929 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA HOUSTON CLEAR LAKE ;City=Webster ;State=TX ;Zip=77598 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=GULF COAST DIVISION (14) ;Shift= 7:00PM-7:00AM;# of Postions=1;Type=Travel;BillRate=$65.00;OTRate=73 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Data Collection:
+
+Unit Information:
+
+4HT Cardiac Med-Surg
+
+Location:
+
+HCA Houston Clearlake
+
+Address:
+495 Medical Drive, Webster, Texas
+
+Floor:
+4HT
+
+Building:
+Heart Tower
+
+
+
+
+General Information
+
+Tell us about the unit(s):
+Number of Beds -
+36Number of Staff
+ 
+
+60++Type of staff:Day Shift  
+1 CN, 6-8 RNs, 2-3 NTs, 1 USNight Shift -
+
+1 CN, 6-8 RNs, 2-3 NTs, 1 USPatient
+Ratios
+ 
+
+1: 6Type of equipment -
+
+Welch VS, Hoyer lifts, bladder scan, Nova Glucose machine,
+etcEMR
+ 
+Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+
+
+
+
+
+Must have:
+
+candidates without these skills will not be considered for the role.
+Med-Surg
+experience
+
+Preferred or nice to have:
+
+candidates with these skills will be considered first.
+
+Med-Surg Experience
+
+List typical procedures performed on unit(s):
+
+
+Blood transfusion
+
+Heparin drip, CV medications not is none titrated
+Best personality Fit:
+Team player
+REQUIRED CERTIFICATIONS:
+BLS
+Floating Area(s):
+
+Med- Surgical units, ER holds taking the same type of patients admitted in the unit.
+Dress Code:
+Scrub Color/Attire
+-
+
+Royal blue
+
+
+
+Unit Guidelines/Policies:
+Please feel free to attach unit policies and guidelines.
+
+
+
+
+
+Weekends and On call(if any)
+36 hours per weeks with every other weekend
+and rotating holidays.
+ General CommentsLocal Fill
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/770929;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Clear Lake Regional Medical Center-Travel
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

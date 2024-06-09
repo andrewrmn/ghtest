@@ -1,0 +1,70 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1995',
+  'Cf-Ray' => '8274e9eae65923b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:GENERAL OR$75 Bill RateREQUIRED: Skilled in Robotics4 x 10hr Day shiftsTaking Call shifts is a must:
+current requirements are as follows but may change based on staffing
+1 on-call shift per week1 full weekend in a 4wk period
+A license is not required for this position.2+ yrs of experience preferred
+ General CommentsPCRs
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 536986
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2354
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => November, 16 2023 22:33:41
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=766324 ;Status=Open;Association=Community Health Systems ;Client=Northwest Medical Center ;City=Tucson ;State=AZ ;Zip=85741 ;Start=10/16/2023;End=1/15/2024;Duration=91;Cert=Scrub Tech ;Specialty=OR ;Unit=EXT-Other (911) ;Shift=07:00-17:30;# of Postions=1;Type=Travel;BillRate=$70.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:GENERAL OR$70 Bill RateREQUIRED: Skilled in Robotics4 x 10hr Day shiftsTaking Call shifts is a must:
+current requirements are as follows but may change based on staffing
+1 on-call shift per week1 full weekend in a 4wk period
+A license is not required for this position.2+ yrs of experience preferred
+ General CommentsPCRs -
+ No. of Positions: 1/2.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/766324;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Northwest Medical Center
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

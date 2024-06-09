@@ -1,0 +1,588 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8425',
+  'Cf-Ray' => '82cd4921d256183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Belton Regional Medical Center
+
+17065 S. 71 Highway
+
+Belton, MO 64012
+
+Facility Overview
+
+Belton Regional Medical Center is one of 10 HCA Midwest Health System hospitals in the Kansas City and surrounding areas. Located conveniently at Highways 71 and 58 in Belton, Mo., Belton Regional Medical Center is an 85-bed acute care facility offering a full range of inpatient and outpatient services.
+
+
+
+
+Hospital Features
+Certified designated Level III Trauma Center with 24/7 adult and pediatric Emergency Room Services14-bed state-of-the-art Intensive Care Unit, in addition to our Medical/Telemetry and Surgical/Ortho/Trauma unitsOncology services through the Sarah Cannon Cancer Institute networkOutpatient Sports Medicine and Rehab located offsite with easy community accessParticipation in the Joint Commission Stroke Center Certification program and are named an Acute Stroke Ready HospitalJoint Commission- Certified Orthopedic Center of Excellence for total hip and total joint surgical proceduresOffering the latest in robotic surgical technologies
+
+
+
+
+Unit Profiles:
+
+
+
+Unit Information:
+Location: 2 East
+Building: Main Building
+
+Floor: 2nd
+Order Detail:Facility Department Number: 611Discipline: Ortho   Trauma - TelemetryCall Requirements NoneWeekends: 3 weekend shifts per monthGeneral InformationTell us about the unit(s):
+ 
+
+
+
+
+
+
+
+
+Number of Beds - 21
+
+ 
+
+
+
+
+
+
+
+
+Type of staff:
+
+o
+
+
+
+Day Shift   1 CNC, 4 RN, 2 CNA
+
+o
+
+
+
+Night Shift - 1 CNC, 5-6 RN, 3 CNA
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios   1:5-6
+
+ 
+
+
+
+
+
+
+
+
+EMR - Meditech
+Typical hiring profileSkill Set Most recruited for:
+
+(Travel RNs, local CNAs and sitters)
+
+Must have:
+
+candidates without these skills will not be considered for the role.
+
+ 
+
+
+
+
+
+
+
+
+BLS
+
+ 
+
+
+
+
+
+
+
+
+ALS
+
+Preferred or nice to have:
+
+candidates with these skills will be considered first.
+
+ 
+
+
+
+
+
+
+
+
+
+NIH
+
+ 
+
+
+
+
+
+
+
+
+
+Certifications
+
+List typical procedures performed on unit(s):
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+General Surgery, Total Joint Replacements
+
+ 
+
+
+
+
+
+
+
+
+
+Echo, EKG, Colonoscopy, TEE, EEG, wound vac
+List any machines and/or equipment used on the unit:
+ 
+
+
+
+
+
+
+
+
+Welch-Allen Vital sign machines
+
+ 
+
+
+
+
+
+
+
+
+Glucometers
+
+ 
+
+
+
+
+
+
+
+
+Polar Ice
+
+ 
+
+
+
+
+
+
+
+
+CBI
+
+Dress Code:
+
+ 
+
+
+
+
+
+
+
+
+Scrub Color - RN/LPN Grey, PCT/CNA Navy
+Awards/Recognition:
+
+
+ 
+
+
+
+
+
+
+
+
+Daisy Award winners
+
+ 
+
+
+
+
+
+
+
+
+Bee Awards
+
+ 
+
+
+
+
+
+
+
+
+Peer to Peer recognition
+Any additional information that would entice a worker to select your unit for their assignment:
+Open to block scheduling for travelers, orientation to unit/policy/procedure provided. Opportunities for resourcing, precepting, and working with students. Belton is a community hospital with cohesive and easy to access providers. Case management and PT/OT/ST on the same floor as unit. MDRs held daily to coordinate care for patients.
+ General Comments
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 542090
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7253
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 27 2023 15:57:48
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771052 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=BELTON REGIONAL MEDICAL CENTER MO ;City=Belton ;State=MO ;Zip=64012 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=MIDAMERICA DIVISION (48) ;Shift=7P-7A;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=83 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:Belton Regional Medical Center
+
+17065 S. 71 Highway
+
+Belton, MO 64012
+
+Facility Overview
+
+Belton Regional Medical Center is one of 10 HCA Midwest Health System hospitals in the Kansas City and surrounding areas. Located conveniently at Highways 71 and 58 in Belton, Mo., Belton Regional Medical Center is an 85-bed acute care facility offering a full range of inpatient and outpatient services.
+
+
+
+
+Hospital Features
+Certified designated Level III Trauma Center with 24/7 adult and pediatric Emergency Room Services14-bed state-of-the-art Intensive Care Unit, in addition to our Medical/Telemetry and Surgical/Ortho/Trauma unitsOncology services through the Sarah Cannon Cancer Institute networkOutpatient Sports Medicine and Rehab located offsite with easy community accessParticipation in the Joint Commission Stroke Center Certification program and are named an Acute Stroke Ready HospitalJoint Commission- Certified Orthopedic Center of Excellence for total hip and total joint surgical proceduresOffering the latest in robotic surgical technologies
+
+
+
+
+Unit Profiles:
+
+
+
+Unit Information:
+Location: 2 East
+Building: Main Building
+
+Floor: 2nd
+Order Detail:Facility Department Number: 611Discipline: Ortho   Trauma - TelemetryCall Requirements NoneWeekends: 3 weekend shifts per monthGeneral InformationTell us about the unit(s):
+ 
+
+
+
+
+
+
+
+
+Number of Beds - 21
+
+ 
+
+
+
+
+
+
+
+
+Type of staff:
+
+o
+
+
+
+Day Shift   1 CNC, 4 RN, 2 CNA
+
+o
+
+
+
+Night Shift - 1 CNC, 5-6 RN, 3 CNA
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios   1:5-6
+
+ 
+
+
+
+
+
+
+
+
+EMR - Meditech
+Typical hiring profileSkill Set Most recruited for:
+
+(Travel RNs, local CNAs and sitters)
+
+Must have:
+
+candidates without these skills will not be considered for the role.
+
+ 
+
+
+
+
+
+
+
+
+BLS
+
+ 
+
+
+
+
+
+
+
+
+ALS
+
+Preferred or nice to have:
+
+candidates with these skills will be considered first.
+
+ 
+
+
+
+
+
+
+
+
+
+NIH
+
+ 
+
+
+
+
+
+
+
+
+
+Certifications
+
+List typical procedures performed on unit(s):
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+General Surgery, Total Joint Replacements
+
+ 
+
+
+
+
+
+
+
+
+
+Echo, EKG, Colonoscopy, TEE, EEG, wound vac
+List any machines and/or equipment used on the unit:
+ 
+
+
+
+
+
+
+
+
+Welch-Allen Vital sign machines
+
+ 
+
+
+
+
+
+
+
+
+Glucometers
+
+ 
+
+
+
+
+
+
+
+
+Polar Ice
+
+ 
+
+
+
+
+
+
+
+
+CBI
+
+Dress Code:
+
+ 
+
+
+
+
+
+
+
+
+Scrub Color - RN/LPN Grey, PCT/CNA Navy
+Awards/Recognition:
+
+
+ 
+
+
+
+
+
+
+
+
+Daisy Award winners
+
+ 
+
+
+
+
+
+
+
+
+Bee Awards
+
+ 
+
+
+
+
+
+
+
+
+Peer to Peer recognition
+Any additional information that would entice a worker to select your unit for their assignment:
+Open to block scheduling for travelers, orientation to unit/policy/procedure provided. Opportunities for resourcing, precepting, and working with students. Belton is a community hospital with cohesive and easy to access providers. Case management and PT/OT/ST on the same floor as unit. MDRs held daily to coordinate care for patients.
+ General Comments ;url=https://vendor.healthtrustws.com/positions/771052;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Belton Regional Medical Center
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

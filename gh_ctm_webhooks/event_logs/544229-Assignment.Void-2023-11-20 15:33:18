@@ -1,0 +1,69 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1596',
+  'Cf-Ray' => '8291c022c59823b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => MED B
+
+	Day/Night Rotation,every other weekend, holiday as needed per unit
+
+	Two plus yearsM/S experience, BLS, EPIC
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544229
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2908
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 20 2023 10:33:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=IntrastaffVMS;SourceID=304311 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Bayview Medical Center ;Start=12/11/2023;End=3/9/2024;Duration=89;Cert=MSP RN Enhanced High Needs ;Specialty=MEDICAL B (4004657005) ;Unit=MEDICAL B (4004657005) ;Shift=ROTATING 7A/7P (12:00 AM - 12:00 AM);# of Postions=1;Type=Travel;BillRate=$85.00;minBillRate=$85.00;Description=MED B
+
+	Day/Night Rotation,every other weekend, holiday as needed per unit
+
+	Two plus yearsM/S experience, BLS, EPIC ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=TE9+3B07K*g=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => JHHS Johns Hopkins Bayview Med Ctr TRAVEL
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

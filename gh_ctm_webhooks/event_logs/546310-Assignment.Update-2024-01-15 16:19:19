@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '24',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1258',
+  'Cf-Ray' => '845f708d83e7494d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 546310
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6565
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-02-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => January, 15 2024 11:19:18
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48732 ;Status=Open;Association=Trinity Health ;Client=NY - St. Peter&#39;s Hospital ;City=Albany ;State=NY ;Zip=12208 ;Start=2/4/2024;End=5/4/2024;Duration=90;Cert=RN Medical / Surgical ;Specialty=6 Pavilion Ortho ;Unit=*Registered Nurse-Med Surg-6 Pavilion Ortho ;Shift=Night : 1900-0730;# of Postions=1;Type=Travel;BillRate=$93.00;OTRate=120.90 ;ChargeRate=96.00 ;CallbackRate=120.90 ;HolidayRate=120.90 ;localRate=$79.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 93
+    [facilityName] => St. Peter's Hospital TRAVEL
+    [shiftDateEnd] => 2024-05-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,128 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '20',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5482',
+  'Cf-Ray' => '8291b1968783493d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name Wash Medical 7-RN-Mercy Washington
+Facility Mercy
+Location Mercy Hospital Washington
+Unit Medical Unit
+Cost Center 15-416091
+FLU and COVID-19:
+ 
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.
+SHIFT INFO
+Shift night
+Shifts per week 3
+Hours per shift 12
+Hours: 18:30- 07:00
+EXPERIENCE
+Years of Experience One Year Plus
+Specialties Med-Surg - required
+CERTIFICATIONS
+Certifications
+BLS - requiredACLS - required
+DESCRIPTION
+Ratios: 1:6
+Utilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care for the assigned patients. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information.
+Qualifications
+Education: Completion of accredited nursing program.
+Licensure: Currently licensed in the state of Missouri
+Other: Employment conditional upon successful completion of cardiac fellowship and cardiac arrhythmia test.
+Approved Assignment Details:
+
+Blocked Scheduling will need facility approvalMust be willing to work weekends as neededRTO of 5 days or less, must make up the week on the back end
+
+ Any RTO over 5 days would need facility approval
+No assignment details auto approved for length or guaranteed hours 
+Can request facility approval
+If requesting any of the above, it must be listed on Mercy Submission Form
+ General CommentsMercy Hospital - Washington is an acute care hospital offering comprehensive medical, surgical, obstetric and pediatric services. As the only Level III Trauma Center between St. Louis and Jefferson City, Mercy Hospital offers an experienced medical staff that is specially trained in trauma care. Located just 50 miles southwest of St. Louis, Mercy Hospital is committed to quality health care for its service area of more than 150,000 residents. More than 800 co-workers and 233 physicians serve the Washington hospital.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 537056
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11770
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 20 2023 10:23:15
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=767899 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Washington ;City=Washington ;State=MO ;Zip=63090 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=Mercy ;Shift=18:30-07:00;# of Postions=2;Type=Travel;BillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Name Wash Medical 7-RN-Mercy Washington
+Facility Mercy
+Location Mercy Hospital Washington
+Unit Medical Unit
+Cost Center 15-416091
+FLU and COVID-19:
+ 
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.
+SHIFT INFO
+Shift night
+Shifts per week 3
+Hours per shift 12
+Hours: 18:30- 07:00
+EXPERIENCE
+Years of Experience One Year Plus
+Specialties Med-Surg - required
+CERTIFICATIONS
+Certifications
+BLS - requiredACLS - required
+DESCRIPTION
+Ratios: 1:6
+Utilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care for the assigned patients. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information.
+Qualifications
+Education: Completion of accredited nursing program.
+Licensure: Currently licensed in the state of Missouri
+Other: Employment conditional upon successful completion of cardiac fellowship and cardiac arrhythmia test.
+Approved Assignment Details:
+
+Blocked Scheduling will need facility approvalMust be willing to work weekends as neededRTO of 5 days or less, must make up the week on the back end
+
+ Any RTO over 5 days would need facility approval
+No assignment details auto approved for length or guaranteed hours 
+Can request facility approval
+If requesting any of the above, it must be listed on Mercy Submission Form
+ General CommentsMercy Hospital - Washington is an acute care hospital offering comprehensive medical, surgical, obstetric and pediatric services. As the only Level III Trauma Center between St. Louis and Jefferson City, Mercy Hospital offers an experienced medical staff that is specially trained in trauma care. Located just 50 miles southwest of St. Louis, Mercy Hospital is committed to quality health care for its service area of more than 150,000 residents. More than 800 co-workers and 233 physicians serve the Washington hospital. ;url=https://vendor.healthtrustws.com/positions/767899;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital Washington - TRAVEL
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 18:30
+    [subjectID] => 
+)

@@ -1,0 +1,507 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7179',
+  'Cf-Ray' => '8307b60070e06a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN MED SURG7:00AM-7:00PM13 WEEKS
+2 YEARS EXPERIENCE IN A HOSPITAL SETTING REQUIREDMUST HOLD ACTIVE VA LICENSE AT TIME OF SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+   6 Front Telemetry, Med Surg, Trauma             Location: CJW Chippenham             
+Address: 7101   Jahnke Road Richmond, VA
+ 23225
+         
+Floor: 6th   Floor
+             
+Building: Main   Hospital
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+   Number of Beds -
+ 33
+   
+ 
+
+
+
+
+
+   Number of Staff   
+55
+   
+ 
+
+
+
+
+
+   Type of staff:
+   
+o
+
+   Day Shift   (1 charge, Unit Secretary,   7-8 RN, 2-3 PCT)
+   
+o
+
+   Night Shift   (1 charge, Unit   Secretary, 7-8 RN, 2 PCT)
+   
+ 
+
+
+
+
+
+   Patient Ratios   5 to 6:1
+   
+ 
+
+
+
+
+
+   Type of equipment   EKG, Code cart,   Welch Allyn vital machines, Vascular Doppler, wound vacs, Cultura Link   interpreting services, Carescape monitors for rhythm monitoring at bedside   when administering push meds such as metoprolol
+   
+ 
+
+
+
+
+
+   EMR   Meditech
+   
+
+
+             Typical hiring profile             
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+ 
+BLS   &amp; ACLS
+   
+ 
+
+
+
+
+
+ 
+Pass   our Basic Rhythm test
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+ 
+Experience   on Medical Surgical
+   
+ 
+
+
+
+
+
+ 
+Excellent patient focus
+   
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+ 
+Small I   &amp; D s
+   
+ 
+
+
+
+
+
+ 
+Peritoneal   Dialysis
+   
+ 
+
+
+
+
+
+ 
+Thoracentesis (not very often)
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+   
+High energy 
+   
+ 
+
+
+
+
+
+   
+Positive attitude
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+   Scrub Color -
+ navy
+   
+ 
+
+
+
+
+
+   No cotton jackets, dress code enforced
+   
+
+
+             Awards/Recognition: 
+   
+ 
+
+
+
+
+
+   
+Most improved HCHAPS
+   
+ 
+
+
+
+
+
+   
+Many Daisy nominations
+   
+
+
+             Any additional information that would entice a worker to select your   unit for their assignment:   
+ 
+
+
+
+
+
+ Hospital of the future which includes centrak,   55  TV s with interactive white boards, Virtual sitter rooms, and currently   being renovated to include low profile showers, and decorative tile.
+ Level I trauma Hospital.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543532
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8325
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 04 2023 18:08:09
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=746004 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=CJW MEDICAL CENTER CHIPPENHAM CAMPUS VA ;City=RICHMOND ;State=VA ;Zip=23225 ;Start=11/21/2023;End=2/20/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=CAPITAL DIVISION (20) ;Shift=7:00AM-7:00PM;# of Postions=1;Type=Travel;BillRate=$78.00;minBillRate=$78.00;OTRate=86 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL RN MED SURG7:00AM-7:00PM13 WEEKS
+2 YEARS EXPERIENCE IN A HOSPITAL SETTING REQUIREDMUST HOLD ACTIVE VA LICENSE AT TIME OF SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+   6 Front Telemetry, Med Surg, Trauma             Location: CJW Chippenham             
+Address: 7101   Jahnke Road Richmond, VA
+ 23225
+         
+Floor: 6th   Floor
+             
+Building: Main   Hospital
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+   Number of Beds -
+ 33
+   
+ 
+
+
+
+
+
+   Number of Staff   
+55
+   
+ 
+
+
+
+
+
+   Type of staff:
+   
+o
+
+   Day Shift   (1 charge, Unit Secretary,   7-8 RN, 2-3 PCT)
+   
+o
+
+   Night Shift   (1 charge, Unit   Secretary, 7-8 RN, 2 PCT)
+   
+ 
+
+
+
+
+
+   Patient Ratios   5 to 6:1
+   
+ 
+
+
+
+
+
+   Type of equipment   EKG, Code cart,   Welch Allyn vital machines, Vascular Doppler, wound vacs, Cultura Link   interpreting services, Carescape monitors for rhythm monitoring at bedside   when administering push meds such as metoprolol
+   
+ 
+
+
+
+
+
+   EMR   Meditech
+   
+
+
+             Typical hiring profile             
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+ 
+BLS   &amp; ACLS
+   
+ 
+
+
+
+
+
+ 
+Pass   our Basic Rhythm test
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+ 
+Experience   on Medical Surgical
+   
+ 
+
+
+
+
+
+ 
+Excellent patient focus
+   
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+ 
+Small I   &amp; D s
+   
+ 
+
+
+
+
+
+ 
+Peritoneal   Dialysis
+   
+ 
+
+
+
+
+
+ 
+Thoracentesis (not very often)
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+   
+High energy 
+   
+ 
+
+
+
+
+
+   
+Positive attitude
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+   Scrub Color -
+ navy
+   
+ 
+
+
+
+
+
+   No cotton jackets, dress code enforced
+   
+
+
+             Awards/Recognition: 
+   
+ 
+
+
+
+
+
+   
+Most improved HCHAPS
+   
+ 
+
+
+
+
+
+   
+Many Daisy nominations
+   
+
+
+             Any additional information that would entice a worker to select your   unit for their assignment:   
+ 
+
+
+
+
+
+ Hospital of the future which includes centrak,   55  TV s with interactive white boards, Virtual sitter rooms, and currently   being renovated to include low profile showers, and decorative tile.
+ Level I trauma Hospital.
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/746004;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 78
+    [facilityName] => Chippenham Medical Center
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

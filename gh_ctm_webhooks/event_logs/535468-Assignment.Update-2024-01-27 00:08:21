@@ -1,0 +1,65 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '28',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '976',
+  'Cf-Ray' => '84bcc2bd86f4495d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: CNX Behavior Perf 1.26.24
+
+DISPO: Start/End Date Change
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 535468
+    [workerID] => 311798
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3229
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-08
+    [workerLastName] => Reynolds
+    [shiftNum] => 5
+    [workerFirstName] => Andreana
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 26 2024 19:08:20
+    [daysPerWeek] => 3
+    [orderNote] => BR:$75lRS:135206
+ChrgDf:P$1/B$3
+Orient:$20lNonBill:8hrs
+FTK:SIGNED  GH timesheets
+    [guaranteedMinimum] => 
+    [workerEmail] => Andreanareynolds0110@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Iberia Medical Center Travel
+    [shiftDateEnd] => 2024-02-03
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

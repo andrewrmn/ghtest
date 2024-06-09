@@ -1,0 +1,67 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1575',
+  'Cf-Ray' => '83ba9540336877bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:CONTRACT - RN - CASE MGMT (689) - 13 WEEKS - 8A-5P
+NO ON CALL REQUIRED
+ General Comments
+ No. of Positions: 2/2.
+    [sitename] => giftednurses
+    [spec] => Case Mgmt
+    [assignmentid] => 546349
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5500
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-15
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 26 2023 11:08:31
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=778636 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=ST. DAVID'S MEDICAL CENTER TX ;City=AUSTIN ;State=TX ;Zip=78705 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=RN ;Specialty=Case Mgmt ;Unit=CENTRAL AND WEST TEXAS DIVISION (50) ;Shift=8A-5P;# of Postions=1;Type=Travel;BillRate=$65.00;minBillRate=$65.00;OTRate=73 ;CallbackRate=73 ;HolidayRate=73 ;Orientation=0 ;Description=Description:CONTRACT - RN - CASE MGMT (689) - 13 WEEKS - 8A-5P
+NO ON CALL REQUIRED
+ General Comments
+ No. of Positions: 1/2. ;url=https://vendor.healthtrustws.com/positions/778636;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => St. David's Medical Center Travel
+    [shiftDateEnd] => 2024-04-15
+    [shiftStartTime] => 08:00
+    [subjectID] => 
+)

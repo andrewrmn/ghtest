@@ -1,0 +1,173 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3368',
+  'Cf-Ray' => '82d39f04916b23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:***Auto Offer***
+Med Surg-RN-Mercy Ardmore
+Medsurg required in large/fast paced acute-care facility 1+ years
+
+Facility
+
+Mercy
+
+Location
+
+Mercy Hospital Ardmore
+
+Unit
+
+Pediatric Medical Unit
+(Agency nurses will not be assigned pediatrics unless they already have the competencies to care for them.)
+
+Cost Center
+
+404106030
+
+
+Shift
+Night
+Shifts per week
+
+3
+
+Hours per shift
+
+12
+
+Years of Experience1+SpecialtiesMed-Surg
+-
+required
+Certifications
+BLS
+-
+required
+ACLS
+-
+preferred
+ General CommentsApproved Assignment Details:  
+
+
+    Flexible      contract
+length
+- 8-26 weeks
+  Flexible Guaranteed Hours - 36      or 48 hours
+  Blocked Scheduling to include      every other weekend or every weekend
+  RTO      of 5 days or less, must make up the week on the back end
+
+  Holiday RTO   approved based on      availability
+
+
+
+    If requesting must be listed on      Mercy Submission Form
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 540014
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3392
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 28 2023 10:25:01
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771011 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Ardmore ;City=Ardmore ;State=OK ;Zip=73401 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=Mercy ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:***Auto Offer***
+Med Surg-RN-Mercy Ardmore
+Medsurg required in large/fast paced acute-care facility 1+ years
+
+Facility
+
+Mercy
+
+Location
+
+Mercy Hospital Ardmore
+
+Unit
+
+Pediatric Medical Unit
+(Agency nurses will not be assigned pediatrics unless they already have the competencies to care for them.)
+
+Cost Center
+
+404106030
+
+
+Shift
+Night
+Shifts per week
+
+3
+
+Hours per shift
+
+12
+
+Years of Experience1+SpecialtiesMed-Surg
+-
+required
+Certifications
+BLS
+-
+required
+ACLS
+-
+preferred
+ General CommentsApproved Assignment Details:  
+
+
+    Flexible      contract
+length
+- 8-26 weeks
+  Flexible Guaranteed Hours - 36      or 48 hours
+  Blocked Scheduling to include      every other weekend or every weekend
+  RTO      of 5 days or less, must make up the week on the back end
+
+  Holiday RTO   approved based on      availability
+
+
+
+    If requesting must be listed on      Mercy Submission Form
+ No. of Positions: 1/3. ;url=https://vendor.healthtrustws.com/positions/771011;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital Ardmore TRAVEL
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

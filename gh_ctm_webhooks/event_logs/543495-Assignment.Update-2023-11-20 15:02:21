@@ -1,0 +1,116 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5151',
+  'Cf-Ray' => '829192ccd4dc6a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Orientation billable at 70% of the bill rate up to the first 36 hours
+
+Echo Tech
+CHRISTUS TMF Louis Peach Owen Heart Hospital
+703 S Fleishel Ave, Tyler, TX, 75701
+
+Shift: 8a-6:30p Mon-Thurs - be sure to only sub HCPs who want this shift time only
+Bill Rate: $105
+Length: 13wks
+HOL: Per Ministry Policy
+Call: Yes
+Guaranteed: 40hrs
+EMR: EPIC
+Scrubs: Black
+
+REQUIRED at the time of submission:
+Min 2yrs of Echo Tech exp
+ARDMS (ardms.org) or CCI (cci-online.org)
+BLS thru AHA
+
+Job Description: 
+This subspecialty position is responsible for performing standard and complex congenital echocardiograms, stress echocardiograms, and assists physicians with trans esophageal echocardiograms (TEE s). The patient population ranges from newborn to young adults. The echo sonographers must be skilled in working with pediatric patients with a wide variety of complex medical and psychosocial conditions. Must have patience and compassion to work with patients who may be ill or frightened. Must be technology-minded, detail-oriented and able to follow precise directions. Depending on department need may be asked to perform 12 and 15 lead ECG s, holter monitor hookup, cardiac event monitor hookup, and cardiac exercise treadmill testing Responsibilities   Provides physical and developmental age appropriate care for all age groups ranging from neonate to adults with or without congenital defects   This includes implementation of safety measures and selection of appropriate equipment and supplies depending on the physical and developmental age   Must be able to learn and adapt to a verity of echo equipment, software, and protocols Education Included From 
+Job Education Essential Level High School Diploma Yes 1 Credentials Included From Job Credential Credential Source Essential BLS American Heart Association Yes
+
+SUBMISSION REQUIREMENTS (Must be combined into 1 PDF file)
+Filled out coversheet (blank coversheet attached)
+Resume/work history
+Skills checklist
+Certs
+    [sitename] => giftednurses
+    [spec] => Echocardiography
+    [assignmentid] => 543495
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 16165
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Echo Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 20 2023 10:02:20
+    [daysPerWeek] => 4
+    [orderNote] => Source=StafferLink;SourceID=7928518 ;Status=O;Association=CHRISTUS Trinity Mother Frances (NETX) ;Client=CHRISTUS Trinity Mother Frances (NETX) ;City=Tyler ;State=TX ;Zip=75701 ;Start=12/4/2023;End=3/2/2024;Duration=90;Cert=Echocardiogram Tech ;Specialty=Cardiology Non Inv 2615 / 507 ;Unit=Cardiology Non Inv 2615 / 507 ;Shift=08:00:00 - 18:30:00;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$105.00;Description=Orientation billable at 70% of the bill rate up to the first 36 hours
+
+Echo Tech
+CHRISTUS TMF Louis Peach Owen Heart Hospital
+703 S Fleishel Ave, Tyler, TX, 75701
+
+Shift: 8a-6:30p Mon-Thurs - be sure to only sub HCPs who want this shift time only
+Bill Rate: $105
+Length: 13wks
+HOL: Per Ministry Policy
+Call: Yes
+Guaranteed: 40hrs
+EMR: EPIC
+Scrubs: Black
+
+REQUIRED at the time of submission:
+Min 2yrs of Echo Tech exp
+ARDMS (RDCS,AE) (ardms.org) or CCI (RCS) (cci-online.org)
+BLS thru AHA
+Travel exp preferred
+
+Job Description: 
+This subspecialty position is responsible for performing standard and complex congenital echocardiograms, stress echocardiograms, and assists physicians with trans esophageal echocardiograms (TEE s). The patient population ranges from newborn to young adults. The echo sonographers must be skilled in working with pediatric patients with a wide variety of complex medical and psychosocial conditions. Must have patience and compassion to work with patients who may be ill or frightened. Must be technology-minded, detail-oriented and able to follow precise directions. Depending on department need may be asked to perform 12 and 15 lead ECG s, holter monitor hookup, cardiac event monitor hookup, and cardiac exercise treadmill testing Responsibilities   Provides physical and developmental age appropriate care for all age groups ranging from neonate to adults with or without congenital defects   This includes implementation of safety measures and selection of appropriate equipment and supplies depending on the physical and developmental age   Must be able to learn and adapt to a verity of echo equipment, software, and protocols Education Included From 
+
+SUBMISSION REQUIREMENTS (Must be combined into 1 PDF file)
+Filled out coversheet (blank coversheet attached)
+Resume/work history
+Skills checklist
+Certs ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => CHRISTUS Trinity Mother Frances Louis and Peaches Owen Heart Hospital
+    [shiftDateEnd] => 2024-03-02
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

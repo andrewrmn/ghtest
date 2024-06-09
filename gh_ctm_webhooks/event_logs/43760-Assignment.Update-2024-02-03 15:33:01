@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2028',
+  'Cf-Ray' => '84fbbad9c55523b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 11/07/2018 0908 MSTCerville Exavier					Shift 7p-7a. Pediatric Acute Care. Min 2yrs general peds experience required. Previous travel experience a plus.  Will be based in pedi float and get assigned accordingly. Must have PALS. Flexibility req.  All RTO must be presented upon submission. IVS to interview via montage and make offer if not RTO. 2500 bonus for assignments started by 12/17 with full assignment completion.https://secure.shiftwise.net/esp/order.aspx?order_id=A3AF065E9E656A34 
+    [sitename] => giftednurses
+    [spec] => Peds
+    [assignmentid] => 43760
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2478
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-01-21
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => February, 03 2024 10:32:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;ID=0;SourceID=7853725;Status=Open;Client=AH: Dell Children's Medical Center;City=Austin;State=TX;Start=12/17/2018;End=3/17/2019;Duration=91;Cert=RN;Specialty=PEDS;Unit=DCMC Pediatric Float;Shift=NOC 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$65.57;Description=11/07/2018 0908 MSTCerville Exavier					Shift 7p-7a. Pediatric Acute Care. Min 2yrs general peds experience required. Previous travel experience a plus.  Will be based in pedi float and get assigned accordingly. Must have PALS. Flexibility req.  All RTO must be presented upon submission. IVS to interview via montage and make offer if not RTO. 2500 bonus for assignments started by 12/17 with full assignment completion.https://secure.shiftwise.net/esp/order.aspx?order_id=A3AF065E9E656A34;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65.57
+    [facilityName] => Dell Children's Medical Center
+    [shiftDateEnd] => 2019-04-21
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

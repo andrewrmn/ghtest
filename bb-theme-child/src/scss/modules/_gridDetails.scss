@@ -1,0 +1,35 @@
+.gridDetails{
+  color: $color-gray;
+  @include resetFont;
+  display: grid;
+  background: #f2f2f2;
+  border-radius: 6px;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  padding: 24px 16px;
+  list-style: none;
+  font-size: 13px;
+  margin: 0;
+
+  li{
+    position: relative;
+    padding-left: 19px;
+
+    i{
+      position: absolute;
+      top: 0;
+      left: 0;
+      text-align: center;
+      width: 16px;
+      display: inline-block;
+    }
+  }
+
+  @media screen and (max-width: 900px){
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media screen and (max-width: 500px){
+    grid-template-columns: 1fr;
+  }
+}

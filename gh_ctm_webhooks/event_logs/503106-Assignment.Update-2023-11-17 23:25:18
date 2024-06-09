@@ -1,0 +1,66 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1382',
+  'Cf-Ray' => '827bbb6b06611464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 weeks
+36 hrs/wk
+7a-7:30p
+EOW
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 503106
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12691
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-20
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RRT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 17 2023 18:25:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=43387 ;Status=In-Progress (O);Association=Trinity Health ;Client=IA - MercyOne North Iowa Medical Center ;City=Mason City ;State=IA ;Zip=50401 ;Start=11/20/2023;End=2/18/2024;Duration=90;Cert=Respiratory Therapist ;Specialty=Respiratory Services ;Unit=Respiratory Therapy-RT-Respiratory Services ;Shift=7a-7p;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=97.50 ;ChargeRate=78.00 ;CallbackRate=97.50 ;HolidayRate=97.50 ;Orientation=0.00 ;Description=8 weeks
+36 hrs/wk
+7a-7:30p
+EOW ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Mercy Medical Center - North Iowa East Travel
+    [shiftDateEnd] => 2024-02-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

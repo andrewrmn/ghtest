@@ -1,0 +1,168 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5632',
+  'Cf-Ray' => '8307c05683936a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name Med Surg Medical/Peds-RN-Mercy Washington
+  
+Facility Mercy
+  
+Location Mercy Hospital Washington
+  
+Unit Pediatric Medical Surgical Unit
+  
+Cost Center 15-416065
+** FLU &amp; COVID-19:
+All travelers mush be fully vaccinated prior to start.
+ There are no exceptions. **  SHIFT INFO  
+Shift night
+  
+Shifts per week 3
+  
+Hours per shift 12
+  EXPERIENCE  
+Years of Experience One Year Plus
+  
+Specialties Peds Med-Surg
+-
+required
+  CERTIFICATIONS  
+Certifications
+  
+BLS
+-
+required
+ ACLS
+-
+required
+ NIHSS
+-
+required
+ PALS
+-
+required
+  DESCRIPTIONWhile this unit is 99.9% adult population with an occasional pediatric, peds experience is required.  
+The Registered Nurse, utilizing theoretical concepts as a basis for decisions in practice will assess, plan, implement and evaluate individualized nursing care in accordance with standards of nursing practice for adult/geriatric patients. Level III Unit. Unit will experience some Peds but mainly Adults. Required licensure: Current MO License 
+  
+Preferred education: BSN
+
+Approved Assignment Details:
+
+Blocked Scheduling
+will need facility approvalMust be willing to work weekends as neededRTO of 5 days or less, must make up the week on the back end
+
+ 
+Any RTO over 5 days would need facility approval
+No assignment details auto approved for length or guaranteed hours Can request facility approval
+If requesting any of the above, it must be listed on Mercy Submission Form
+ General CommentsMercy Hospital - Washington is an acute care hospital offering comprehensive medical, surgical, obstetric and pediatric services. As the only Level III Trauma Center between St. Louis and Jefferson City, Mercy Hospital offers an experienced medical staff that is specially trained in trauma care. Located just 50 miles southwest of St. Louis, Mercy Hospital is committed to quality health care for its service area of more than 150,000 residents. More than 800 co-workers and 233 physicians serve the Washington hospital.
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Peds
+    [assignmentid] => 544606
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11770
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => December, 04 2023 18:15:19
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=776218 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Washington ;City=Washington ;State=MO ;Zip=63090 ;Start=12/11/2023;End=12/9/2024;Duration=364;Cert=RN ;Specialty=Peds ;Unit=Mercy ;Shift=19:00-07:30;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Name Med Surg Medical/Peds-RN-Mercy Washington
+  
+Facility Mercy
+  
+Location Mercy Hospital Washington
+  
+Unit Pediatric Medical Surgical Unit
+  
+Cost Center 15-416065
+** FLU &amp; COVID-19:
+All travelers mush be fully vaccinated prior to start.
+ There are no exceptions. **  SHIFT INFO  
+Shift night
+  
+Shifts per week 3
+  
+Hours per shift 12
+  EXPERIENCE  
+Years of Experience One Year Plus
+  
+Specialties Peds Med-Surg
+-
+required
+  CERTIFICATIONS  
+Certifications
+  
+BLS
+-
+required
+ ACLS
+-
+required
+ NIHSS
+-
+required
+ PALS
+-
+required
+  DESCRIPTIONWhile this unit is 99.9% adult population with an occasional pediatric, peds experience is required.  
+The Registered Nurse, utilizing theoretical concepts as a basis for decisions in practice will assess, plan, implement and evaluate individualized nursing care in accordance with standards of nursing practice for adult/geriatric patients. Level III Unit. Unit will experience some Peds but mainly Adults. Required licensure: Current MO License 
+  
+Preferred education: BSN
+
+Approved Assignment Details:
+
+Blocked Scheduling
+will need facility approvalMust be willing to work weekends as neededRTO of 5 days or less, must make up the week on the back end
+
+ 
+Any RTO over 5 days would need facility approval
+No assignment details auto approved for length or guaranteed hours Can request facility approval
+If requesting any of the above, it must be listed on Mercy Submission Form
+ General CommentsMercy Hospital - Washington is an acute care hospital offering comprehensive medical, surgical, obstetric and pediatric services. As the only Level III Trauma Center between St. Louis and Jefferson City, Mercy Hospital offers an experienced medical staff that is specially trained in trauma care. Located just 50 miles southwest of St. Louis, Mercy Hospital is committed to quality health care for its service area of more than 150,000 residents. More than 800 co-workers and 233 physicians serve the Washington hospital.
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/776218;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital Washington - TRAVEL
+    [shiftDateEnd] => 2024-12-22
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

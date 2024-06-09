@@ -1,0 +1,128 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2496',
+  'Cf-Ray' => '82e476a9b4261834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => Sterile Processing Tech 
+    [assignmentid] => 545090
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Contract
+    [hoursPerWeek] => 40
+    [facilityID] => 13889
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => Sterile Processing Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => November, 30 2023 11:28:26
+    [daysPerWeek] => 5
+    [orderNote] => Job: Surgical Services - Sterile Processing Tech (SPT) @ LCMC Health University Medical Center New Orleans
+ Job Details
+ Requirements
+Status:
+Open
+Union Code:
+-
+Profession:
+Surgical Services
+Specialty:
+Sterile Processing Tech (SPT)
+Unit:
+50094 - UMCSterile Processing - Central Sterile Tech
+Shift:
+Night 5x8-Hour (03:00 - 23:30)
+
+Block Schedules:
+No
+Start Date:
+12/07/2023
+Job Duration:
+13
+# of Positions:
+3
+Non-Bill. Orientation:
+16
+Job ID:
+2303069
+Account Manager:
+Shannon Steely
+Email:
+Ssteely@ayahealthcare.com
+Base Bill Rate:
+$40.00
+Overtime Multiplier:
+40 total hours in 1 week : 1.25%
+Double Time Multiplier:
+None
+Charge Nurse:
+$5.00
+On Call:
+0.1%
+Call Back:
+1.4%
+Holiday:
+1.4%
+Observed Holidays:
+New Year's Day: Falls Within: 11:00 PM day before - 11:00 PM day of
+Labor Day: Falls Within: 11:00 PM day before - 11:00 PM day of
+Independence Day: Falls Within: 11:00 PM day before - 11:00 PM day of
+Thanksgiving: Falls Within: 11:00 PM day before - 11:00 PM day of
+Christmas: Falls Within: 11:00 PM day before - 11:00 PM day of
+MLK: Falls Within: 11:00 PM day before - 11:00 PM day of
+Mardi Gras: Falls Within: 11:00 PM day before - 11:00 PM day of
+
+Holiday Comments: None
+Orientation:
+16 hours @ $0 Non-Billable
+Job Location:
+2000 Canal Street
+New Orleans, LA 70112
+Description:
+No weekends.
+COVID-19 Vaccine (Facility Guideline):
+Required - Medical/Religious Exemptions Only
+Flu Vaccine (Facility Guideline):
+Required - No Exemptions
+Attachments
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 30
+    [facilityName] => University Medical Center of New Orleans VAYA
+    [shiftDateEnd] => 2024-03-13
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

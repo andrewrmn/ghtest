@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3342',
+  'Cf-Ray' => '82e4577d252b23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Performs the primary functions of a registered nurse in assigning, planning, implementing and evaluating the care of all assigned patients of all ages (neonates/infants, pediatrics, adolescents, adults, geriatrics). Manages all assigned personal supplies and equipment and promotes teamwork with all members of the health care team. Adheres to performance standards designated for their position. On call staff will be required to assist "on call" for rest of the facility as needed and outlined in the clinical "on call" policy. Responsible to take one in three call nights & weekends in a low volume CVOR.   Additional Information:50 mile radius rule is in place. traveler's permanent address must be 50 miles or further from facility -------------All of the travelers documents must be in by 3pm Wednesday the week before the traveler starts. They will automatically be pushed out till the next orientation class.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => CVOR
+    [assignmentid] => 543923
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 10066
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 30 2023 11:07:06
+    [daysPerWeek] => 5
+    [orderNote] => Source=Medefis5;SourceID=261551 ;Status=Open;Association=CHI Hospital System ;Client=St. Alexius Health Bismarck MBO 4000 ;City=Bismarck ;State=ND ;Zip=58501 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Nursing ;Specialty=CVOR ;Unit=CVOR ;Shift=8 hr Days/Evenings/Weekends / With Call;# of Postions=1;Guaranteed Hours=32;Type=Travel;BillRate=$115.00;OTRate=115 ;OTRules=By The Week, after 40, ;ChargeRate=2 (Charge Rate Differential) ;CallbackRate=115 (All Inclusive Rate) ;HolidayRate=115 (All Inclusive Rate) ;OnCallRateDescription=$7 per hour pager ;Description=Performs the primary functions of a registered nurse in assigning, planning, implementing and evaluating the care of all assigned patients of all ages (neonates/infants, pediatrics, adolescents, adults, geriatrics). Manages all assigned personal supplies and equipment and promotes teamwork with all members of the health care team. Adheres to performance standards designated for their position. On call staff will be required to assist "on call" for rest of the facility as needed and outlined in the clinical "on call" policy. Responsible to take one in three call nights & weekends in a low volume CVOR.   Additional Information:50 mile radius rule is in place. traveler's permanent address must be 50 miles or further from facility -------------All of the travelers documents must be in by 3pm Wednesday the week before the traveler starts. They will automatically be pushed out till the next orientation class.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261551;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 115
+    [facilityName] => Saint Alexius Health
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

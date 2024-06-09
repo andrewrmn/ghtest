@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '21',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '925',
+  'Cf-Ray' => '8306ded1d5474941-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 75H70723F80020 PO end date: 2/29/24
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 519892
+    [workerID] => 192259
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 135426 RS sd
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7337
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 1
+    [bonus] => 
+    [shiftDateStart] => 2023-12-07
+    [workerLastName] => Bentley
+    [shiftNum] => 4
+    [workerFirstName] => Olivia
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 04 2023 15:41:28
+    [daysPerWeek] => 3
+    [orderNote] => $4.57 Declining (New Insurance rate 7/25/23)
+RTO: None
+    [guaranteedMinimum] => 
+    [workerEmail] => bentley_77@hotmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 133
+    [facilityName] => IHS-Zuni Comprehensive Community Health Center
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

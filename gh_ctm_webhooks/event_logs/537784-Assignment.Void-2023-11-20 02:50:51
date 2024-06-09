@@ -1,0 +1,103 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3676',
+  'Cf-Ray' => '828d634320501466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:5 BT UNCMC RN Position # 112315062
+Complete Description:5 Bedtower is a 28 bed Trauma and Orthopedic Unit. They excel is putting broken bones back together again and making them work like new. This unit is an integral component of a leading trauma program.
+Requisition Comments:Lotus Offers- Fast Offers! 
+Candidates will not interview with MGR.
+
+Must include RTO in submittal in order to be honored at time of offer! 
+
+Traveler is expected to float to like acuities or less if needed. 
+
+No block scheduling
+
+EPIC Required
+Scheduling Details:3/12s, Nights 7p -7am
+
+Weekend Requirement : EOW EOH 
+
+Call Requirements: NO call 
+
+You will be asked to float to other units as NEEDED.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 537784
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13245
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 19 2023 21:50:50
+    [daysPerWeek] => 3
+    [orderNote] => Source=PeopleFluent;SourceID=723275 ;Status=Open;Association=1 Memorial, 100 - 111404 - 1000\r\n3 Anderson / ICCU, 100 - 110401 - 1000\r\n3 NSH, 100 - 111800 - 1000\r\n3 West, 100 - 111003 - 1000\r\n4 NSH, 100 - 111802 - 1000\r\n4 Oncology, 100 - 111500 - 1000\r\n4 West, 100 - 111401 - 1000\r\n5 Anderson, 100 - 110404 - 1000\r\n5 Bedtower, 100 - 110953 - 1000\r\n5 Childrens, 100 - 112101 - 1000\r\n5 East Acute Burn & Wound Unit, 100 - 111004 - 1000\r\n5 NSH, 100 - 111803 - 1000\r\n5 West, 100 - 111002 - 1000\r\n6 Bedtower, 100 - 110954 - 1000\r\n6 Childrens, 100 - 112103 - 1000\r\n6 East,100 - 210500 - 1000\r\n6 Neuroscience, 100 - 111805 - 1000\r\n6 West, 100 - 110931 - 1000\r\n6 Women's- GYN Oncology, 100 - 112104 - 1000\r\n7 Childrens,100 - 112105 - 1000\r\n7 Neuroscience, 100 - 110938 - 1000\r\n8 Bedtower, 100 - 110955 - 1000\r\nMICU, 100 - 110612 - 1000\r\n7 Bedtower, 100 - 220100 - 1000 ;Client=UNC Health ;Start=11/13/2023;End=2/10/2024;Duration=89;Cert=RN ;Specialty=Med/Surg ;Unit=RN - 5 Bedtower - Nights - UNC Medical Center ;Shift=3x12.0 3/12s, Nights 7p -7am
+
+Weekend Requirement : EOW EOH 
+
+Call Requirements: NO call 
+
+You will be asked to float to other units as NEEDED.;# of Postions=5;Type=Travel;BillRate=$82.00;Description=Short Description:5 BT UNCMC RN Position # 112315062
+Complete Description:5 Bedtower is a 28 bed Trauma and Orthopedic Unit. They excel is putting broken bones back together again and making them work like new. This unit is an integral component of a leading trauma program.
+Requisition Comments:Lotus Offers- Fast Offers! 
+Candidates will not interview with MGR.
+
+Must include RTO in submittal in order to be honored at time of offer! 
+
+Traveler is expected to float to like acuities or less if needed. 
+
+No block scheduling
+
+EPIC Required
+Scheduling Details:3/12s, Nights 7p -7am
+
+Weekend Requirement : EOW EOH 
+
+Call Requirements: NO call 
+
+You will be asked to float to other units as NEEDED. ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=723275;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 82
+    [facilityName] => UNC Medical Center TRAVEL
+    [shiftDateEnd] => 2024-02-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

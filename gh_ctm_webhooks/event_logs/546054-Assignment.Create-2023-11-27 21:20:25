@@ -1,0 +1,108 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3480',
+  'Cf-Ray' => '82cd6a3c25e423b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:12-bed ICU is staffed with a team of RN s, PCT s, Unit Secretaries and Providers. The ICU staff are house wide code Responders and part of the Rapid Response Team. The nurse patient ratio is 1 to 1- 3 depending on severity of patient.
+Complete Description:ICU patient population includes, but is not limited to: Renal Failure, Shock, Overdose, ETOH Withdrawal, Pulmonary Edema, Sepsis, Acute Renal Failure, Acute O.B. for stabilization and post-surgical patients needing 
+critical intervention.  
+Onslow Memorial Hospital is a community hospital located at 317 Western Blvd, Jacksonville, NC 28546. They are joint commission and have Primary Stroke Center certification.
+Requisition Comments:Client Offers! Candidates will be reviewed/interviewed by MGR
+
+Must include RTO in submittal in order to be honored at time of offer!
+
+Traveler is expected to float to like acuities or less if needed
+Scheduling Details:3x12's, Nights, 1900-0730
+
+Weekends and holidays required
+
+No call
+
+Truncated Compliance
+
+CPI Required
+
+No locals - 50 mile radius
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 546054
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3580
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 27 2023 16:20:24
+    [daysPerWeek] => 3
+    [orderNote] => Source=PeopleFluent;SourceID=725382 ;Status=Open;Association=ICU ;Client=UNC Health ;Start=12/18/2023;End=3/16/2024;Duration=89;Cert=RN ;Specialty=ICU ;Unit=RN - ICU - Nights - Onslow Memorial Hospital ;Shift=3x12.0 3x12's, Nights, 1900-0730
+
+Weekends and holidays required
+
+No call
+
+Truncated Compliance
+
+CPI Required
+
+No locals - 50 mile radius;# of Postions=1;Type=Travel;BillRate=$85.00;Description=Short Description:12-bed ICU is staffed with a team of RN s, PCT s, Unit Secretaries and Providers. The ICU staff are house wide code Responders and part of the Rapid Response Team. The nurse patient ratio is 1 to 1- 3 depending on severity of patient.
+Complete Description:ICU patient population includes, but is not limited to: Renal Failure, Shock, Overdose, ETOH Withdrawal, Pulmonary Edema, Sepsis, Acute Renal Failure, Acute O.B. for stabilization and post-surgical patients needing 
+critical intervention.  
+Onslow Memorial Hospital is a community hospital located at 317 Western Blvd, Jacksonville, NC 28546. They are joint commission and have Primary Stroke Center certification.
+Requisition Comments:Client Offers! Candidates will be reviewed/interviewed by MGR
+
+Must include RTO in submittal in order to be honored at time of offer!
+
+Traveler is expected to float to like acuities or less if needed
+Scheduling Details:3x12's, Nights, 1900-0730
+
+Weekends and holidays required
+
+No call
+
+Truncated Compliance
+
+CPI Required
+
+No locals - 50 mile radius ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=725382;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Onslow Memorial Hospital
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

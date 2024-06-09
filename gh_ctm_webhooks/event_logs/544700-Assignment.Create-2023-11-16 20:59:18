@@ -1,0 +1,138 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3830',
+  'Cf-Ray' => '8272a831872a1464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:North Okaloosa Travel CT TechnologistStart: ASAPRate: $60Duration: 13 weeksShift: M-F 3p-10:30pRequirements: Registered in CT and must have FL license attached to submission
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+           		*******************************************************************************
+
+
+           		How long has it been open?
+
+
+           		Will position be required to float to other units?
+
+
+           		Number of beds in your facility?
+
+
+           		Years of experience required?
+
+
+           		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+           		Willing to review clinicians with pending state license?
+
+
+           		Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+           		What is the work schedule for this position? (days needed, hours or shift)
+
+
+ 			EMR for your facility:
+
+
+           		Scrub colors / dress code:
+
+
+ 			Parking location:
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 544700
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 2231
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => November, 16 2023 15:59:18
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=776339 ;Status=Open;Association=Community Health Systems ;Client=North Okaloosa Medical Center ;City=Crestview ;State=FL ;Zip=32539 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=CT Tech ;Specialty=Radiology ;Unit=EXT-Other (911) ;Shift=15:00-22:30;# of Postions=1;Type=Travel;BillRate=$60.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:North Okaloosa Travel CT TechnologistStart: ASAPRate: $60Duration: 13 weeksShift: M-F 3p-10:30pRequirements: Registered in CT and must have FL license attached to submission
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+           		*******************************************************************************
+
+
+           		How long has it been open?
+
+
+           		Will position be required to float to other units?
+
+
+           		Number of beds in your facility?
+
+
+           		Years of experience required?
+
+
+           		Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+           		Willing to review clinicians with pending state license?
+
+
+           		Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+           		What is the work schedule for this position? (days needed, hours or shift)
+
+
+ 			EMR for your facility:
+
+
+           		Scrub colors / dress code:
+
+
+ 			Parking location:
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/776339;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 60
+    [facilityName] => North Okaloosa Medical Center
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

@@ -1,0 +1,135 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '9796',
+  'Cf-Ray' => '82a3f11a45ca1466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Start date: Start date will be 2-3 weeks from offer
+Will work 3x12 days 7a-7p with every other weekend 
+Holidays required
+Weekend requirement:  every other weekend or equivalent
+On-call requirement: no call
+Ratios: 1:5
+Must have Med Surg Experience
+Highly preferred: Teaching hospital experience, charge experience
+Required: 2+ years of experience, EPIC, BLS, South Carolina or Multi-State/Compact State RN License
+  SC is a walk through state and they can obtain a license during compliance
+First-timers accepted: No
+Will clinician float within scope to meet facility needs?  Yes
+Open to accommodating block schedule? Requires managers approval upon request. Dependent on unit's needs.
+Locals accepted: Yes. 
+Local radius: 50 miles. Locals accepted on a case by case basis at lower rate
+
+RTO Restrictions: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the process.
+Guaranteed Hours:  Facility allowed to call off 1 shift per 2 weeks
+ 
+9C serves as a short stay unit to care for ED boarders, bedded OP, PACU boarders, and Obs patients. 
+Located at MUSC Health s main hospital, 9 Center is a nine-bed ER overflow, Admission and Holding unit open 24/7. 9Center is designed to help alleviate boarding in the Emergency Department. The unit serves direct and new admissions coming into the hospital from the ED under the medical-surgical service lines with a variety of diagnoses. 9 Center is designated and designed for the short-term treatment, observation until discharge, or next day transfer to inpatient units.  
+ 
+Hospital Highlights 
+Type of Facility:  Level I Trauma Center, Teaching Facility, Magnet Hospital
+Total Staffed Beds:  820
+Scrub Color:  All RNs - Solid Royal Blue or White top with Royal blue bottoms.
+Charting:  EPIC
+Parking Cost:  Parking management office (located 91 presidents street) to obtain parking permit. $20 registration fee for a hang tag which will allow use of the garage. No additional fees. Hang tag will not cover parking in any other locations. If parking outside of the 91 Street Parking Garage, additional fees may be incurred.
+
+Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+
+ Modified Time:11/20/2023 5:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal radius: 50 miles. Locals accepted on a case by case basis at lower ratePerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 542014
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3712
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 22 2023 15:32:26
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2296960 ;Status=Open;Association=Qualivis MSP ;Client=MUSC Health Charleston ;City=Charleston ;State=SC ;Zip=29425 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Registered Nurse ;Specialty=Medical Surgical ;Unit=CHS 9C Short Stay Main CC000517 (Meduflex) ;Shift=Night 3x12-Hour (19:00 - 07:00);# of Postions=1;Type=Travel;BillRate=$68.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Start date: Start date will be 2-3 weeks from offer
+Will work 3x12 nights 7p-7a with every other weekend 
+Holidays required
+Weekend requirement:  every other weekend or equivalent
+On-call requirement: no call
+Ratios: 1:5
+Must have Med Surg Experience
+Highly preferred: Teaching hospital experience, charge experience
+Required: 2+ years of experience, EPIC, BLS, South Carolina or Multi-State/Compact State RN License
+  SC is a walk through state and they can obtain a license during compliance
+First-timers accepted: No
+Will clinician float within scope to meet facility needs?  Yes
+Open to accommodating block schedule? Requires managers approval upon request. Dependent on unit's needs.
+Locals accepted: Yes. 
+Local radius: 50 miles. Locals accepted on a case by case basis at lower rate
+
+RTO Restrictions: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the process.
+Guaranteed Hours:  Facility allowed to call off 1 shift per 2 weeks
+ 
+9C serves as a short stay unit to care for ED boarders, bedded OP, PACU boarders, and Obs patients. 
+Located at MUSC Health s main hospital, 9 Center is a nine-bed ER overflow, Admission and Holding unit open 24/7. 9Center is designed to help alleviate boarding in the Emergency Department. The unit serves direct and new admissions coming into the hospital from the ED under the medical-surgical service lines with a variety of diagnoses. 9 Center is designated and designed for the short-term treatment, observation until discharge, or next day transfer to inpatient units.  
+ 
+Hospital Highlights 
+Type of Facility:  Level I Trauma Center, Teaching Facility, Magnet Hospital
+Total Staffed Beds:  820
+Scrub Color:  All RNs - Solid Royal Blue or White top with Royal blue bottoms.
+Charting:  EPIC
+Parking Cost:  Parking management office (located 91 presidents street) to obtain parking permit. $20 registration fee for a hang tag which will allow use of the garage. No additional fees. Hang tag will not cover parking in any other locations. If parking outside of the 91 Street Parking Garage, additional fees may be incurred.
+
+Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+
+ Modified Time:12/11/2023 12:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal radius: 50 miles. Locals accepted on a case by case basis at lower ratePerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2296960/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 68
+    [facilityName] => MUSC- Medical Center
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

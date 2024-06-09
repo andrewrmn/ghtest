@@ -1,0 +1,144 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '221',
+  'Ki-Request-Colo' => '658',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7446',
+  'Cf-Ray' => '84d6266a416b1263-ORD',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN ICU7:00PM - 7:00AM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsHospital: Parkland Medical Center
+
+Location: Derry, NH
+
+Address: 1 Parkland Drive Derry NH
+
+Unit: ICU 
+
+General Information
+
+Unit Specifics: 
+Number of Beds: 8Patient Ratios: 2:1Unit staffing description: Mixed patient population, open ICU, goal staffing 4 RNs 24/7Type of equipment : GE B650 cardiac monitors, vents, Gaymar coolingDocumentation system: MeditechScheduling requirements: Self-scheduling encouraged, EOW, OT ok if available, flexible schedulingFloating policy: ICU may float to critical care or intermediate care areas when neededPatient Experience requirements: AIDET validation during orientation, unit is focused on Nurse Communication (nurses listen carefully and nurse explain things in a way patients can understand), white board use, hourly rounding, bedside care conference/hand off
+Hospital Specifics-
+Certifications: JC- Gold Seal of Approval  for Healthcare Quality and Safety, JC Stroke, JC Ortho/Spine,
+ Chest Pain Accred, Healthgrades Coronary Intervention and Coronary procedures Excellence Awards, Leapfrog Hospital Safety Grade A, Healthgrades Patients Safety Excellence Award, Commission on Cancer Accred, Centers for Medicare and Medicaid Services have ranked us as a top performing hospital in the nation on core measures, Wound Healing and Hyperbaric Medicine has received the prestigious Healogics Center of Excellence in Wound Healing Award four consecutive years, American College of Radiology has accredited CT, MRI and nuclear medicine, Vascular Ultrasound accreditation by the Intersocietal Commission for the Accreditation of Vascular Laboratories (ICAVL), NICHE (Nurses Improving Care for Healthsystem Elders)
+Hiring profile
+
+Requested Skill Set: Medical and Surgical ICU experience. ACLS/BLS required.
+ AIBP experience &amp; CCRN preferred. 
+
+
+
+
+Procedures performed on unit: 
+Ventilator care, Therapeutic Hypothermia, PCI/STEMI, IABP, invasive hemodynamic monitoring, TEE/cardioversion, temp pacer, Sepsis, Stroke/TPA, DKA.
+ ICU RNs are responders for Code Blue and Rapid Response Team
+
+
+
+
+Dress Code: 
+
+Professional scrubs and appearance at all times (specific color not required at this time)
+Awards/Recognition: See above description
+https://parklandmedicalcenter.com/medical-professionals/nursing-careers/
+Any additional information that would entice a worker to select your unit for their assignment: 
+ 
+Progressive community hospital with engaged staff and dedicated authentic leadership focused on AACN Healthy Work Environment philosophyWe treat contract staff like our own permanent employees and they will benefit from the advanced training and supportive environment that allows you to perform at your best while enjoying the freedom and flexibility to maintain your work/life balance
+ No. of Positions: 1/4.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 523824
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1399
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-02-19
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 29 2024 21:05:27
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=741986 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=PARKLAND MEDICAL CENTER NH ;City=DERRY ;State=NH ;Zip='03038 ;Start=12/8/2023;End=3/8/2024;Duration=91;Cert=RN ;Specialty=ICU ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM-7:00AM;# of Postions=1;Type=Travel;BillRate=$85.00;minBillRate=$85.00;OTRate=93 ;CallbackRate=93 ;HolidayRate=93 ;Description=Description:TRAVEL RN ICU7:00PM - 7:00AM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsHospital: Parkland Medical Center
+
+Location: Derry, NH
+
+Address: 1 Parkland Drive Derry NH
+
+Unit: ICU 
+
+General Information
+
+Unit Specifics: 
+Number of Beds: 8Patient Ratios: 2:1Unit staffing description: Mixed patient population, open ICU, goal staffing 4 RNs 24/7Type of equipment : GE B650 cardiac monitors, vents, Gaymar coolingDocumentation system: MeditechScheduling requirements: Self-scheduling encouraged, EOW, OT ok if available, flexible schedulingFloating policy: ICU may float to critical care or intermediate care areas when neededPatient Experience requirements: AIDET validation during orientation, unit is focused on Nurse Communication (nurses listen carefully and nurse explain things in a way patients can understand), white board use, hourly rounding, bedside care conference/hand off
+Hospital Specifics-
+Certifications: JC- Gold Seal of Approval  for Healthcare Quality and Safety, JC Stroke, JC Ortho/Spine,
+ Chest Pain Accred, Healthgrades Coronary Intervention and Coronary procedures Excellence Awards, Leapfrog Hospital Safety Grade A, Healthgrades Patients Safety Excellence Award, Commission on Cancer Accred, Centers for Medicare and Medicaid Services have ranked us as a top performing hospital in the nation on core measures, Wound Healing and Hyperbaric Medicine has received the prestigious Healogics Center of Excellence in Wound Healing Award four consecutive years, American College of Radiology has accredited CT, MRI and nuclear medicine, Vascular Ultrasound accreditation by the Intersocietal Commission for the Accreditation of Vascular Laboratories (ICAVL), NICHE (Nurses Improving Care for Healthsystem Elders)
+Hiring profile
+
+Requested Skill Set: Medical and Surgical ICU experience. ACLS/BLS required.
+ AIBP experience &amp; CCRN preferred. 
+
+
+
+
+Procedures performed on unit: 
+Ventilator care, Therapeutic Hypothermia, PCI/STEMI, IABP, invasive hemodynamic monitoring, TEE/cardioversion, temp pacer, Sepsis, Stroke/TPA, DKA.
+ ICU RNs are responders for Code Blue and Rapid Response Team
+
+
+
+
+Dress Code: 
+
+Professional scrubs and appearance at all times (specific color not required at this time)
+Awards/Recognition: See above description
+https://parklandmedicalcenter.com/medical-professionals/nursing-careers/
+Any additional information that would entice a worker to select your unit for their assignment: 
+ 
+Progressive community hospital with engaged staff and dedicated authentic leadership focused on AACN Healthy Work Environment philosophyWe treat contract staff like our own permanent employees and they will benefit from the advanced training and supportive environment that allows you to perform at your best while enjoying the freedom and flexibility to maintain your work/life balance
+ No. of Positions: 1/4.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/741986;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Parkland Medical Center
+    [shiftDateEnd] => 2024-05-20
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

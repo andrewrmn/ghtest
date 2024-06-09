@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2931',
+  'Cf-Ray' => '84ca406064311836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 10/29/2021 1427 MDTJackie Pittmann
+                            
+                            
+                                $165 -   Schedule: Days and times expected to work Four 10 hour shifts. Hours may be day shift beginning at 0730 - 6pm or they may be evening hours. Flexibility would be very helpful. I am hesitant to provide a specific time due to varying needs of the department.  There is on-call: Approximately 4 in a 6 week schedule. It may vary depending on staff available for call as well. It may adjust up or down slightly. Week night call is 2300-0700. Weekend call varies but the longest shift is a 12 hour call. - Must be fully vaccinated with covid 19 and flu to submit
+ RatePlan:AH-Covid 19 RN rates (8-25-2021)
+    [sitename] => giftednurses
+    [spec] => PACU
+    [assignmentid] => 304715
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13445
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-11-22
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => January, 28 2024 10:25:06
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;SourceID=9537368 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Medical Center ;City=Austin ;State=TX ;Zip=78701 ;Start=11/22/2021;End=2/20/2022;Duration=91;Cert=RN ;Specialty=PACU ;Unit=SMC Surgery ;Shift=AM 10.00 Hrs;# of Postions=1;Type=Travel;BillRate=$165.00;minBillRate=$165.00;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=10/29/2021 1427 MDTJackie Pittmann
+                            
+                            
+                                $165 -   Schedule: Days and times expected to work Four 10 hour shifts. Hours may be day shift beginning at 0730 - 6pm or they may be evening hours. Flexibility would be very helpful. I am hesitant to provide a specific time due to varying needs of the department.  There is on-call: Approximately 4 in a 6 week schedule. It may vary depending on staff available for call as well. It may adjust up or down slightly. Week night call is 2300-0700. Weekend call varies but the longest shift is a 12 hour call. - Must be fully vaccinated with covid 19 and flu to submit
+ RatePlan:AH-Covid 19 RN rates (8-25-2021) ;url=https://automated.shiftwise.net/esp/order.aspx?order_id=86A149D9F81BE387EC4233A8FD7B9EC8;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 165
+    [facilityName] => Ascension Seton Medical Center Austin
+    [shiftDateEnd] => 2022-02-20
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

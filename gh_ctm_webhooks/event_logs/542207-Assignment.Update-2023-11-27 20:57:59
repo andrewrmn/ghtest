@@ -1,0 +1,72 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1674',
+  'Cf-Ray' => '82cd4959f5091830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:BACKFILL - CONTRACT - RN - ENDO (733) - 13 WEEKS - 7A-7P
+ON CALL REQUIRED
+MUST HAVE
+BLS, ACLS, PALS, certification for sedation
+
+Sedation exp. required
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Endoscopy
+    [assignmentid] => 542207
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5423
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 27 2023 15:57:48
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=763178 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=LAS PALMAS MEDICAL CENTER El Paso ;City=El Paso ;State=TX ;Zip=79902 ;Start=10/23/2023;End=1/22/2024;Duration=91;Cert=RN ;Specialty=Endoscopy ;Unit=CENTRAL AND WEST TEXAS DIVISION (50) ;Shift=7:00AM – 7:00PM ;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=88 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:BACKFILL - CONTRACT - RN - ENDO (733) - 13 WEEKS - 7A-7P
+ON CALL REQUIRED
+MUST HAVE
+BLS, ACLS, PALS, certification for sedation
+
+Sedation exp. required
+ General Comments ;url=https://vendor.healthtrustws.com/positions/763178;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Las Palmas Medical Center Travel
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

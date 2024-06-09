@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '28',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2858',
+  'Cf-Ray' => '84ca40708488495d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 01/06/2022 1548 CSTLeah Gillies
+                            
+                            
+                                Saved for Rogerlyn Brown SWRatePlan: AH-Covid 19 RN rates (8-25-2021) clinic nurses for hematology oncology providers, experience with the ambulatory oncology version of cerner which is different than what is used on the inpatient side - plus clinic experience - so they are familiar with clinic process and procedures. M-F 0800-1630, no call, no nights, no weekends, no ministry holidays. preferred previous hematology oncology experience, chemotherapy/bio therapy certified preferred but we can help with that if not. $145.
+ RatePlan:AH-Covid 19 RN rates (8-25-2021)
+    [sitename] => giftednurses
+    [spec] => Clinic
+    [assignmentid] => 364957
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13445
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-04-11
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => January, 28 2024 10:25:06
+    [daysPerWeek] => 5
+    [orderNote] => Source=ShiftWise;SourceID=9657062 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH:  Seton Specialty Care Clinic ;City=Austin ;State=TX ;Zip=78705 ;Start=1/31/2022;End=3/19/2022;Duration=48;Cert=RN ;Specialty=Clinic ;Unit=Infusion Services ;Shift=AM 8.00 Hrs;# of Postions=1;Type=Travel;BillRate=$165.00;minBillRate=$165.00;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=01/06/2022 1548 CSTLeah Gillies
+                            
+                            
+                                Saved for Rogerlyn Brown SWRatePlan: AH-Covid 19 RN rates (8-25-2021) clinic nurses for hematology oncology providers, experience with the ambulatory oncology version of cerner which is different than what is used on the inpatient side - plus clinic experience - so they are familiar with clinic process and procedures. M-F 0800-1630, no call, no nights, no weekends, no ministry holidays. preferred previous hematology oncology experience, chemotherapy/bio therapy certified preferred but we can help with that if not. $145.
+ RatePlan:AH-Covid 19 RN rates (8-25-2021) ;url=https://secure.shiftwise.net/esp/order.aspx?order_id=F7E07B6C6A511EC22C464EBB3D400F2A;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 165
+    [facilityName] => Ascension Seton Medical Center Austin
+    [shiftDateEnd] => 2022-05-28
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

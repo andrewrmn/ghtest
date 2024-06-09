@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2482',
+  'Cf-Ray' => '82929a9174cb1830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => (VAYA OFFER) Procedural RN, Late shifts required. Procedure call required; 1 hour response time to the bedside from the time of call. 2 years exp required, no first time-travelers. ACLS, BLS, PALS, and experience with bronchs and ERCP required.  ability to assist endoscopy technician strongly preferred. Conscious Sedation experience required, and Telemetry exp required. EPIC experience preferred. Will float between CH and GSH facilities on occasion. (BF for Stacy Kocian JG) 
+ Critical Need: Disaster Critical 12
+VayaOffer = True
+    [sitename] => giftednurses
+    [spec] => Endoscopy
+    [assignmentid] => 544651
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12923
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-19
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 20 2023 13:02:24
+    [daysPerWeek] => 3
+    [orderNote] => Source=OptimizerVizient;SourceID=55907189 ;Status=CandidatesRequested;Association=University of Kentucky Hospital ;Client=University of Kentucky Hospital ;City=Lexington ;State=KY ;Zip=40536 ;Start=12/19/2023;End=3/23/2024;Duration=95;Cert=RN ;Specialty=RN - Endoscopy / GI Lab ;Unit=CH Endoscopy - 1058725600 ;Shift=6:30 AM - 7:00 PM;# of Postions=1;Guaranteed Hours=0;Type=Travel;BillRate=$98.00;OTRate=137.20 ;CallbackRate=137.20 ;HolidayRate=147.00 ;Orientation=68.60 ;Priority=Critical;Description=(VAYA OFFER) Procedural RN, Late shifts required. Procedure call required; 1 hour response time to the bedside from the time of call. 2 years exp required, no first time-travelers. ACLS, BLS, PALS, and experience with bronchs and ERCP required.  ability to assist endoscopy technician strongly preferred. Conscious Sedation experience required, and Telemetry exp required. EPIC experience preferred. Will float between CH and GSH facilities on occasion. (BF for Stacy Kocian JG) 
+ Critical Need: Disaster Critical 12
+VayaOffer = True ;url=https://optimizer.vayaworkforce.com/agency/job-requests/55907189;localRate=$90.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 98
+    [facilityName] => University of Kentucky Hospital Travel
+    [shiftDateEnd] => 2024-03-23
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

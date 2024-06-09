@@ -1,0 +1,137 @@
+@at-root :root{
+  --ghHeader-bottom-bleed: 0;
+  --ghHeader-search-size: 72px;
+  --ghHeader-button-font-size: 32px;
+  --ghHeader-search-left-padding: 24px;
+
+  @media screen and (max-width: 700px){
+    --ghHeader-search-left-padding: 16px;
+    --ghHeader-search-size: 64px;
+    --ghHeader-button-font-size: 20px;
+  }
+}
+.ghHeader{
+  padding: 172px 0px 40px;
+  background: #DFF1F2;
+  position: relative;
+  z-index: 1;
+  text-align: center;
+
+  &--overlapped{
+    padding-bottom: 0;
+    --ghHeader-bottom-bleed: calc( var(--ghHeader-search-size) / -2 );
+    margin-bottom: calc( var(--ghHeader-search-size) / 2);
+  }
+
+  &__layout{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 916px;
+    margin: 0 auto;
+  }
+
+  &__title{
+    @extend .t-h1;
+  }
+
+  &__text{
+    margin-top: 32px;
+    font-size: 20px;
+    line-height: 1.5;
+    color: $color-dark-teal;
+    @include resetFont;
+  }
+
+  &__search{
+    width: 100%;
+    max-width: 728px;
+    position: relative;
+    margin-top: 24px;
+    margin-bottom: var(--ghHeader-bottom-bleed);
+
+    input{
+      @include resetFont;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08) !important;
+      border-radius: 6px !important;
+      text-overflow: ellipsis;
+      height: var(--ghHeader-search-size);
+      padding: 0 var(--ghHeader-search-size) 0 var(--ghHeader-search-left-padding) !important;
+      line-height: calc( var(--ghHeader-search-size) - 2px);
+      border: 1px solid #DCDCDC !important;
+      display: block;
+      width: 100%;
+      margin: 0;
+      transition: all 0.1s ease;
+      font-size: 18px !important;
+      outline: 1px solid transparent !important;
+
+      &:focus,
+      &:active{
+        outline: 1px solid $color-green !important;
+      }
+
+    }
+
+    button{
+      position: absolute;
+      width: calc( var(--ghHeader-search-size) - 10px);
+      height: calc( var(--ghHeader-search-size) - 10px);
+      background: transparent;
+      transition: all 0.2s ease;
+      text-align: center;
+      top: 5px;
+      right: 5px;
+      border: none !important;
+      border-radius: 6px;
+      line-height: calc( var(--ghHeader-search-size) - 10px );
+      color: $color-teal !important;
+      margin: 0;
+      padding: 0 !important;
+
+      &:hover{
+        background: #DFF1F2;
+      }
+
+      i{
+        line-height: calc( var(--ghHeader-search-size) - 10px );
+        font-size: var(--ghHeader-button-font-size);
+      }
+    }
+
+
+    /**
+    Facet WP
+     */
+
+    .facetwp-facet{
+      margin: 0;
+    }
+    .facetwp-input-wrap{
+      display: block;
+      width: 100%;
+    }
+
+    .facetwp-search{
+      font-size: 18px;
+      padding-right: var(--ghHeader-search-size) !important;
+      padding-left: 24px !important;
+      min-width: 0 !important;
+    }
+    .facetwp-icon{
+      opacity: 1 !important;
+      &::before{
+        font-family: 'remixicon' !important;
+        content: "\f0d1" !important;
+        background: none;
+        font-style: normal;
+        color: $color-teal;
+        font-size: var(--ghHeader-button-font-size);
+        line-height: calc( var(--ghHeader-search-size) - 2px );
+        width: var(--ghHeader-search-size);
+        text-align: center;
+        transform: none !important;
+      }
+    }
+  }
+}

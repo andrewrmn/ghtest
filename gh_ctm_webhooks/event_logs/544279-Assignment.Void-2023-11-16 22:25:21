@@ -1,0 +1,87 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3240',
+  'Cf-Ray' => '8273263df2986a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Experience: RN with minimum one year Dialysis experience
+Shift: Days 4 x 10 hour weekday shifts with 1 Saturday every 4 weeks
+Start time: 7:00am
+End Time: 5:30pm
+Call Requirements: 1-2 Evening call shifts per week plus on call every 4th weekend from Saturday 7am-Monday at 7am
+
+
+ Modified Time:11/27/2023 8:00:00 AM
+ Account Manager: Nick LaFontaine
+ Account Manager Email: Nick.LaFontaine@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:High
+ Submittal Details: #Tier1 Travel ComplianceRTO   Please submit all RTO at time of submission# of jobs in system we can sub   No LimitRequires specific amount of exp.   Prefer minimum of 1 year experienceValid State License (required at time of submission)   NoCandidates will float within hospital or to an affiliate hospitals nearby   YesP/F testing - will cancel if fail, see special instructions for more details on requirements
+    [sitename] => giftednurses
+    [spec] => Dialysis
+    [assignmentid] => 544279
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3522
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 16 2023 17:25:21
+    [daysPerWeek] => 4
+    [orderNote] => Source=AYA;SourceID=2297997 ;Status=Open;Association=Qualivis MSP ;Client=Southwest General Health Center ;City=Middleburg Heights ;State=OH ;Zip=44130 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Registered Nurse ;Specialty=Dialysis ;Unit=6150 Dialysis ;Shift=Day 4x10-Hour (07:00 - 15:30);# of Postions=1;Type=Travel;BillRate=$95.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Experience: RN with minimum one year Dialysis experience
+Shift: Days 4 x 10 hour weekday shifts with 1 Saturday every 4 weeks
+Start time: 7:00am
+End Time: 5:30pm
+Call Requirements: 1-2 Evening call shifts per week plus on call every 4th weekend from Saturday 7am-Monday at 7am
+
+
+ Modified Time:11/27/2023 8:00:00 AM
+ Account Manager: Nick LaFontaine
+ Account Manager Email: Nick.LaFontaine@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:High
+ Submittal Details: #Tier1 Travel ComplianceRTO   Please submit all RTO at time of submission# of jobs in system we can sub   No LimitRequires specific amount of exp.   Prefer minimum of 1 year experienceValid State License (required at time of submission)   NoCandidates will float within hospital or to an affiliate hospitals nearby   YesP/F testing - will cancel if fail, see special instructions for more details on requirements ;url=https://app.ayaconnect.com/index.html#/vendor/job/2297997/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Southwest General Health Center
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

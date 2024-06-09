@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '998',
+  'Cf-Ray' => '84c1a63e376277bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: CNX for Clinical Concerns 1.27.24
+    [sitename] => giftednurses
+    [spec] => LTAC
+    [assignmentid] => 542615
+    [workerID] => 24756
+    [WorkerContactNo] => 901-428-1152
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3352
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-17
+    [workerLastName] => McDonald
+    [shiftNum] => 4
+    [workerFirstName] => Rosemary
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 27 2024 09:22:42
+    [daysPerWeek] => 3
+    [orderNote] => BR:$77lRS:136373
+ChrgDf:P$3/B$4
+Orient:$20lNonBill:12hrs
+FTK: RN will work every other holiday and every other weekend
+    [guaranteedMinimum] => 
+    [workerEmail] => roseymcdonald@ymail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 77
+    [facilityName] => Select Specialty Hospital - Memphis, Inc. - TRAVEL
+    [shiftDateEnd] => 2024-01-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

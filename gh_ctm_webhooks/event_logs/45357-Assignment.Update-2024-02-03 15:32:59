@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2203',
+  'Cf-Ray' => '84fbbaca17cd1832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 12/20/2018 1236 MSTCerville Exavier					Shift 7a-7p. 170 bed hosp, 22 bed IMC unit, looking for pedi IMCU exp of 2yrs, Tele monitored pre and post op hearts, chronic lung, * vents, hard wired monitors, trauma, moderate sedation, neuro, peritoneal dialysis, respiratory (high flow, cpap), some drips: milrinone, terbutaline, heparin, insulin. 4 w/e shifts per month. could float to any pedi floor if needed. PALS req. ** $5000 Bonus for any traveler that can start by 01/21 an completes the full assignment**https://secure.shiftwise.net/esp/order.aspx?order_id=575ADF78EDAB6516 
+    [sitename] => giftednurses
+    [spec] => PICU
+    [assignmentid] => 45357
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2478
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-01-21
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => February, 03 2024 10:32:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;ID=0;SourceID=7913755;Status=Open;Client=AH: Dell Children's Medical Center;City=Austin;State=TX;Start=1/7/2019;End=4/8/2019;Duration=92;Cert=RN;Specialty=PICU;Unit=DCMC Intermediate Care Unit;Shift=AM 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$70.23;Description=12/20/2018 1236 MSTCerville Exavier					Shift 7a-7p. 170 bed hosp, 22 bed IMC unit, looking for pedi IMCU exp of 2yrs, Tele monitored pre and post op hearts, chronic lung, * vents, hard wired monitors, trauma, moderate sedation, neuro, peritoneal dialysis, respiratory (high flow, cpap), some drips: milrinone, terbutaline, heparin, insulin. 4 w/e shifts per month. could float to any pedi floor if needed. PALS req. ** $5000 Bonus for any traveler that can start by 01/21 an completes the full assignment**https://secure.shiftwise.net/esp/order.aspx?order_id=575ADF78EDAB6516;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70.23
+    [facilityName] => Dell Children's Medical Center
+    [shiftDateEnd] => 2019-04-22
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

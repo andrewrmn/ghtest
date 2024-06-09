@@ -1,0 +1,376 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '20',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5285',
+  'Cf-Ray' => '82ce6932b037493d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Hospital:
+ JFK   Medical Center main campusLocation: 
+Palm Beach county florida
+Address: 5301 Sth   Congress ave, Atlantis FL 33462
+
+Unit Name: Radiology
+
+Building: main   campus
+
+Cost Center: 72613
+General InformationUnit Specifics: 
+ 
+
+
+
+
+
+   Number of Beds : 558
+
+ 
+
+
+
+
+
+   Patient Ratios :
+
+ 
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) :
+
+ 
+
+
+
+
+
+   Type of equipment : GE 
+
+ 
+
+
+
+
+
+   Documentation system: Meditech
+
+ 
+
+
+
+
+
+   Scheduling requirements: 
+
+M-F 9a-5:30p
+
+ 
+
+
+
+
+
+   All positions require rotating call,   holidays and hurricane teams.
+
+ 
+
+
+
+
+
+   Floating policy:
+
+ 
+
+
+
+
+
+   Patient Experience requirements:
+Hospital Specifics-
+ 
+
+
+
+
+
+ Certifications: ARRT (CT) BLS
+Hiring profileRequested Skill Set:
+
+Must have: 
+
+
+
+
+
+
+
+Advanced skills needed:
+
+
+
+
+
+
+Procedures performed on unit: 
+
+
+
+
+
+
+
+Certifications Required: BLS
+
+
+
+
+Dress Code: (Required uniform)
+
+ 
+
+
+
+
+
+ 
+Black scrubs
+
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+
+ 
+
+
+
+
+
+ 
+
+Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+ 
+ 
+
+
+
+
+
+ 
+
+Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 546109
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 1411
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 27 2023 19:14:27
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=774123 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA FLORIDA JFK HOSPITAL ;City=ATLANTIS ;State=FL ;Zip=33462 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=CT Tech ;Specialty=Radiology ;Unit=EAST FLORIDA DIVISION (22) ;Shift=7:30AM - 4:00PM;# of Postions=1;Type=Travel;BillRate=$85.00;OTRate=93 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Hospital:
+ JFK   Medical Center main campusLocation: 
+Palm Beach county florida
+Address: 5301 Sth   Congress ave, Atlantis FL 33462
+
+Unit Name: Radiology
+
+Building: main   campus
+
+Cost Center: 72613
+General InformationUnit Specifics: 
+ 
+
+
+
+
+
+   Number of Beds : 558
+
+ 
+
+
+
+
+
+   Patient Ratios :
+
+ 
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) :
+
+ 
+
+
+
+
+
+   Type of equipment : GE 
+
+ 
+
+
+
+
+
+   Documentation system: Meditech
+
+ 
+
+
+
+
+
+   Scheduling requirements: 
+
+M-F 9a-5:30p
+
+ 
+
+
+
+
+
+   All positions require rotating call,   holidays and hurricane teams.
+
+ 
+
+
+
+
+
+   Floating policy:
+
+ 
+
+
+
+
+
+   Patient Experience requirements:
+Hospital Specifics-
+ 
+
+
+
+
+
+ Certifications: ARRT (CT) BLS
+Hiring profileRequested Skill Set:
+
+Must have: 
+
+
+
+
+
+
+
+Advanced skills needed:
+
+
+
+
+
+
+Procedures performed on unit: 
+
+
+
+
+
+
+
+Certifications Required: BLS
+
+
+
+
+Dress Code: (Required uniform)
+
+ 
+
+
+
+
+
+ 
+Black scrubs
+
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+
+ 
+
+
+
+
+
+ 
+
+Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+ 
+ 
+
+
+
+
+
+ 
+
+Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/774123;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => JFK Medical Center Parallon
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

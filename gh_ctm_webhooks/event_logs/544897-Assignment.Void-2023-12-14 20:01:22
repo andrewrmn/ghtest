@@ -1,0 +1,103 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2710',
+  'Cf-Ray' => '835909d191f1183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Ultrasound Technologist Registered
+CHRISTUS Good Shepherd Medical Center Longview
+700 East Marshall Avenue, Longview TX 75601
+
+CONTRACT: 13-Weeks
+BILL RATE: $95, orientation billable at 70% of the bill rate up to the first 36 hours
+SHIFT: 10:00PM - 7:00AM
+WEEKENDS: Per Unit Policy
+ON CALL: None
+FLOATING: Per Ministry Policy
+GUARANTEE: 36 hours
+
+REQUIRED CREDENTIALS: *Must be provided upon submission*
+Associates Degree
+BLS (AHA only) , ARDMS or ARRT(S), LRST preferred
+REQUIRED EXPERIENCE: 2 years
+
+SUBMISSION REQUIREMENTS (Must be combined into 1 PDF file)
+Filled out coversheet (blank coversheet attached)
+Resume/work history
+Skills checklist
+Certification verification within last 30 days
+    [sitename] => giftednurses
+    [spec] => Ultrasound Tech
+    [assignmentid] => 544897
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 9828
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => 
+    [shiftNum] => 3
+    [workerFirstName] => 
+    [cert] => Ultrasound Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 14 2023 15:01:21
+    [daysPerWeek] => 5
+    [orderNote] => Source=StafferLink;SourceID=7939852 ;Status=O;Association=CHRISTUS Good Shepherd (NETX) ;Client=CHRISTUS Good Shepherd (NETX) ;City=Longview ;State=TX ;Zip=75601 ;Start=1/8/2024;End=4/6/2024;Duration=90;Cert=Ultrasound Tech Reg ;Specialty=Imaging Ultrasound 2528 / 427 ;Unit=Imaging Ultrasound 2528 / 427 ;Shift=23:00:00 - 07:00:00;# of Postions=1;Guaranteed Hours=32;Type=Travel;BillRate=$95.00;Description=Ultrasound Technologist Registered
+CHRISTUS Good Shepherd Medical Center Longview
+700 East Marshall Avenue, Longview TX 75601
+
+CONTRACT: 13-Weeks
+BILL RATE: $95, orientation billable at 70% of the bill rate up to the first 36 hours
+SHIFT: M - F 11:00PM - 7:00AM
+WEEKENDS: Per Unit Policy
+ON CALL: None
+FLOATING: Per Ministry Policy
+GUARANTEE: 36 hours
+
+REQUIRED CREDENTIALS: *Must be provided upon submission*
+Associates Degree
+BLS (AHA only) , ARDMS , RVT preferred
+REQUIRED EXPERIENCE: 2 years
+
+SUBMISSION REQUIREMENTS (Must be combined into 1 PDF file)
+Filled out coversheet (blank coversheet attached)
+Resume/work history
+Skills checklist
+Certification verification within last 30 days ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => CHRISTUS Good Shepherd Medical Center - Longview TRAVEL
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 23:00
+    [subjectID] => 
+)

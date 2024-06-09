@@ -1,0 +1,152 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4629',
+  'Cf-Ray' => '83ef1d6933ab23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Echo TechShift: Days (4x10s) call
+requirement
+Start: ASAPRate: $851+ Years Experience ReqRegistry in Ultrasound -
+ ARDMS or ARRTCan also accept a CCI in lie of ARRT or ARDMSCurrent American Heart Association BLS
+ or American Red Cross requiredMUST HAVE EXPIRIENCE WITH PEDIATRICS AND NEONATES
+
+
+The EKG technician is primarily responsible for performing electrocardiograms (EKG s) and holter monitor hookups and scanning.  Responsibilities also include editing and filing all EKG recordings or cardiology records and appropriate billing of charges
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location:
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => Echocardiography
+    [assignmentid] => 543203
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 2525
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-21
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Echo Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => January, 01 2024 20:09:08
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=769220 ;Status=Open;Association=Community Health Systems ;Client=Longview Regional Medical Center ;City=Longview ;State=TX ;Zip=75605 ;Start=11/6/2023;End=2/5/2024;Duration=91;Cert=Echo Tech ;Specialty=Radiology ;Unit=EXT-Other (911) ;Shift=06:30-17:00;# of Postions=1;Type=Travel;BillRate=$90.00;minBillRate=$90.00;OTRate=93 ;CallbackRate=93 ;HolidayRate=93 ;Orientation=0 ;Description=Description:LONGVIEW REGIONAL MEDICAL CENTER, TXEcho Tech
+START ASAPBILL RATE: $90Shift: Days 6:30A-5P (4x10s) call
+requirement
+REQUIREMENTS:
+Registry in Ultrasound -
+ ARDMS or ARRTCAN ALSO ACCEPT CCI IN LIEU OF ARRT OR ARDMSBLS (AHA OR ARC)TEE-MUST HAVE EXPERIENCE1-2 YEARS EXPERIENCEMUST HAVE EXPERIENCE WITH PEDIATRICS
+
+The EKG technician is primarily responsible for performing electrocardiograms (EKG s) and holter monitor hookups and scanning.  Responsibilities also include editing and filing all EKG recordings or cardiology records and appropriate billing of charges
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location:
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/769220;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Longview Regional Medical Center Travel
+    [shiftDateEnd] => 2024-04-21
+    [shiftStartTime] => 06:30
+    [subjectID] => 
+)

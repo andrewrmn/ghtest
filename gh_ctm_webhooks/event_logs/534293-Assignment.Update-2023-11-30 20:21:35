@@ -1,0 +1,126 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6491',
+  'Cf-Ray' => '82e5cc3162364951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Unit: Endoscopy - Mercy Hospital Springfield
+Specialty: Endoscopy
+Role/Title: RN
+Shift: Days, 5x8, 0700-1900
+(hours may vary during day shift)
+Guaranteed Hours: 36
+
+Assignment Length: 13 weeks
+ALL CONTINGENCY REQUESTS MUST BE ON THE SUBMISSION FORM
+Required Licensure:
+Current RN
+License (Meets the criteria to be eligible for licensure in state of Missouri or currently licensed in the state of Missouri.)
+Required Certifications:
+BLS and ACLS from AHA only
+Preferred Certifications:
+ACLS from AHA only
+Required Experience:
+1 year Med Surg and 1 year EndoscopyMust be willing to float when neededMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsPerforms direct patient care activities for all age groups to include assessment, planning, implementation, and evaluation. Monitors and coordinates patient care activities with ancillary departments to optimize patient care and comfort. Functions within the scope of nursing preparation and consistent with the established guidelines of nursing practice, the goals of Mercy Hospital Springfield, the Philosophy of the Sisters of Mercy, the Missouri Nurse Practice Act, the Code of Professional and Business Ethics and the Employee Code of Conduct. Performs related duties as assigned.
+
+
+Experience: Basic dysrhythmia knowledge.
+
+
+
+Other: Skills, Knowledge, and Abilities: Specialized skill, judgment and knowledge. Good communication skills, able to work closely with physicians and other staff. Skills to work with delicate instruments. Working Conditions, Mental and Physical Requirements: Stand, walk, and sit most of the time on duty. Meet unit specific physical demands. May be required to work differing schedules, shifts, days of the week, call, or work frequency according to patient care requirements. Able to lift, push and move heavy equipment. Able to work with fluoroscopy. Physical demands are attached plus a.push, pull up to 40#/50# respectively and b.grip up to 50 # plus, pinch up to 10 lbs. c.low positioned work including kneel, crouch, and crawl minimally. Equipment Used: Video/fiberoptic endoscopic systems, various cautery units, fluoroscopy, IV pumps, ect., patient monitoring equipment, computers.
+
+
+
+Preferred Experience: Gastroenterology experience preferred, one year of hospital nursing experience (med-surg, ICU or ED).
+
+Preferred Certifications: CGRN certification recommended within 2 years after hire date, but not required
+Preferred Other: Computer skills
+    [sitename] => giftednurses
+    [spec] => Endoscopy
+    [assignmentid] => 534293
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13126
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-10-30
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 30 2023 15:21:35
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=763533 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Springfield ;City=Springfield ;State=MO ;Zip=65804 ;Start=10/30/2023;End=1/29/2024;Duration=91;Cert=RN ;Specialty=Endoscopy ;Unit=Mercy ;Shift=07:00-19:00;# of Postions=1;Type=Travel;BillRate=$75.00;minBillRate=$75.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Unit: Endoscopy - Mercy Hospital Springfield
+Specialty: Endoscopy
+Role/Title: RN
+Shift: Days, 5x8, 0700-1900
+(hours may vary during day shift)
+Guaranteed Hours: 36
+
+Assignment Length: 13 weeks
+ALL CONTINGENCY REQUESTS MUST BE ON THE SUBMISSION FORM
+Required Licensure:
+Current RN
+License (Meets the criteria to be eligible for licensure in state of Missouri or currently licensed in the state of Missouri.)
+Required Certifications:
+BLS and ACLS from AHA only
+Preferred Certifications:
+ACLS from AHA only
+Required Experience:
+1 year Med Surg and 1 year EndoscopyMust be willing to float when neededMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsPerforms direct patient care activities for all age groups to include assessment, planning, implementation, and evaluation. Monitors and coordinates patient care activities with ancillary departments to optimize patient care and comfort. Functions within the scope of nursing preparation and consistent with the established guidelines of nursing practice, the goals of Mercy Hospital Springfield, the Philosophy of the Sisters of Mercy, the Missouri Nurse Practice Act, the Code of Professional and Business Ethics and the Employee Code of Conduct. Performs related duties as assigned.
+
+
+Experience: Basic dysrhythmia knowledge.
+
+
+
+Other: Skills, Knowledge, and Abilities: Specialized skill, judgment and knowledge. Good communication skills, able to work closely with physicians and other staff. Skills to work with delicate instruments. Working Conditions, Mental and Physical Requirements: Stand, walk, and sit most of the time on duty. Meet unit specific physical demands. May be required to work differing schedules, shifts, days of the week, call, or work frequency according to patient care requirements. Able to lift, push and move heavy equipment. Able to work with fluoroscopy. Physical demands are attached plus a.push, pull up to 40#/50# respectively and b.grip up to 50 # plus, pinch up to 10 lbs. c.low positioned work including kneel, crouch, and crawl minimally. Equipment Used: Video/fiberoptic endoscopic systems, various cautery units, fluoroscopy, IV pumps, ect., patient monitoring equipment, computers.
+
+
+
+Preferred Experience: Gastroenterology experience preferred, one year of hospital nursing experience (med-surg, ICU or ED).
+
+Preferred Certifications: CGRN certification recommended within 2 years after hire date, but not required
+Preferred Other: Computer skills
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/763533;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Mercy Hospital Springfield TRAVEL
+    [shiftDateEnd] => 2024-01-29
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,141 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5306',
+  'Cf-Ray' => '8307c0ccc7351836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Summary of Services:The Registered Nurse is responsible for evaluating patients and assisting physicians with patient care. Plans, implements, and documents nursing care based on patient&rsquo;s needs.Identifies patient needs and determines priorities for care through assessment, planning, intervention, and evaluation.Develops, implements and coordinates individualized plan of care for patients assigned through initial and on-going assessments.Initiates assessment based on the patient&rsquo;s problems or needs, the physician&rsquo;s medical diagnosis, and the functional health framework.Performs therapeutic nursing interventions.Manages care of patients.Documents care based on standards of care and practice, patient acuity, and/or clinical priorities.Advocates for evidence-based practice care standards and supports adoption of evidence-based practices and innovations in care delivery.Provides patient centric care in alignment with professional nursing practice model.Other duties and responsibilities as assigned.***Boise and Meridian RNs will need to be willing to take on students when needed***Boise and Meridian RNs will need to be willing to take on students when needed***Boise and Meridian RNs will need to be willing to take on students when needed
+
+
+ 
+ Schedule Notes:DAY
+
+Skills: 
+
+
+Experience:&nbsp;Prefer 2 years of experience in Med Surg&nbsp;Previous travel experience preferredLicenses/Certifications:&nbsp;Current RN licensure from the State of Practice&nbsp;Current BLS
+
+
+
+ Required
+	
+	  REGISTERED NURSE
+	   RN
+	   PATIENT CARE
+	   THERAPEUTIC
+	  
+	
+	
+	
+	Additional
+
+Education: Bachelor's or Associate's accepted
+
+;Languages: 
+ 
+English
+&nbsp;Read
+&nbsp;Write
+&nbsp;Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: Clinical-Nursing-Travel
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545204
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3512
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 04 2023 18:15:31
+    [daysPerWeek] => 3
+    [orderNote] => Source=Wand;SourceID=28200696 ;Status=Pending;Client=St. Lukes Health System ;City=Twin Falls ;State=ID ;Zip=83301 ;Start=12/11/2023;End=3/9/2024;Duration=89;Cert=Clinical-Nursing-Travel ;Specialty=Registered Nurse (RN) - Medical Surgical ;Unit=Medical Surgical Magic Valley Hospital Flr 2 						: 1986    		                Default Lvl 2 Medical Surgical Magic Valley Hospital Flr 2  : 1986   Default Lvl 2 ;Shift=DAY DAY 3x12 Hr;# of Postions=1;Guaranteed Hours=36.00;Type=Travel;BillRate=$85.00;HolidayRate=$114.75 ;Description=
+
+
+Summary of Services:The Registered Nurse is responsible for evaluating patients and assisting physicians with patient care. Plans, implements, and documents nursing care based on patient&rsquo;s needs.Identifies patient needs and determines priorities for care through assessment, planning, intervention, and evaluation.Develops, implements and coordinates individualized plan of care for patients assigned through initial and on-going assessments.Initiates assessment based on the patient&rsquo;s problems or needs, the physician&rsquo;s medical diagnosis, and the functional health framework.Performs therapeutic nursing interventions.Manages care of patients.Documents care based on standards of care and practice, patient acuity, and/or clinical priorities.Advocates for evidence-based practice care standards and supports adoption of evidence-based practices and innovations in care delivery.Provides patient centric care in alignment with professional nursing practice model.Other duties and responsibilities as assigned.***Boise and Meridian RNs will need to be willing to take on students when needed***Boise and Meridian RNs will need to be willing to take on students when needed***Boise and Meridian RNs will need to be willing to take on students when needed
+
+
+ 
+ Schedule Notes:DAY
+
+Skills: 
+
+
+Experience:&nbsp;Prefer 2 years of experience in Med Surg&nbsp;Previous travel experience preferredLicenses/Certifications:&nbsp;Current RN licensure from the State of Practice&nbsp;Current BLS
+
+
+
+ Required
+	
+	  REGISTERED NURSE
+	   RN
+	   PATIENT CARE
+	   THERAPEUTIC
+	  
+	
+	
+	
+	Additional
+
+Education: Bachelor's or Associate's accepted
+
+;Languages: 
+ 
+English
+&nbsp;Read
+&nbsp;Write
+&nbsp;Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: Clinical-Nursing-Travel ;url=https://prowand.pro-unlimited.com/supplier/standard/requisition/req_geninfo_view.html?id=28200696&type=REQUISITION&reqProfile=true;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => St. Luke's Magic Valley Medical Center
+    [shiftDateEnd] => 2024-03-22
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

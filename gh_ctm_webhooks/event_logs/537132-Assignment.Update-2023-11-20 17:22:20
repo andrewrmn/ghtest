@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1341',
+  'Cf-Ray' => '82925fce72791838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 weeks
+36 hrs/wk
+Weekday Baylor
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 537132
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12691
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => November, 20 2023 12:22:12
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=47633 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne North Iowa Medical Center ;City=Mason City ;State=IA ;Zip=50401 ;Start=11/12/2023;End=2/10/2024;Duration=90;Cert=CT Tech ;Specialty=CT Scan ;Unit=IA\MercyOne North\CT Tech ;Shift=0700-1930;# of Postions=1;Type=Travel;BillRate=$79.00;OTRate=102.70 ;ChargeRate=82.00 ;CallbackRate=102.70 ;HolidayRate=102.70 ;Orientation=0.00 ;Description=13 weeks
+36 hrs/wk
+Weekday Baylor ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 79
+    [facilityName] => Mercy Medical Center - North Iowa East Travel
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

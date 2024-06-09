@@ -1,0 +1,119 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '26',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3394',
+  'Cf-Ray' => '830633d3d7f94955-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:Our patient population includes, Cardiac, Diabetes, CHF, COPD, Renal, General Surgery and Orthopedics to name a few. Our team consist of RNs, LPNs, PCTs, CNA/US and unit secretaries. Experience it all on our 42-bed Med-Surg Telemetry unit! Ratio 1 to 6
+Complete Description:Onslow Memorial Hospital is a community hospital located at 317 Western Blvd, Jacksonville, NC 28546.
+Joint Commission and Primary Stroke Center Certification.
+Requisition Comments:Client Offers! Candidates will be reviewed/interviewed by MGR
+
+Must include RTO in submittal in order to be honored at time of offer!
+
+Traveler is expected to float to like acuities or less if needed
+Scheduling Details:4x12's, Days, 7a-7:30p
+
+Weekends and holidays included
+
+No call
+
+May take IMCU patients  if needed based on census
+
+Must be proficient with Insulin, heparin, and Lasik drips
+
+Truncated Compliance
+
+CPI Required
+
+No locals - 50 mile radius
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 546152
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3580
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => December, 04 2023 13:44:44
+    [daysPerWeek] => 3
+    [orderNote] => Source=PeopleFluent;SourceID=725397 ;Status=Open;Association=Med Surg Telemetry ;Client=UNC Health ;Start=12/18/2023;End=3/16/2024;Duration=89;Cert=RN ;Specialty=Med/Surg ;Unit=RN - Med Surg/Tele - Days - Onslow Memorial Hospital ;Shift=4x12.0 4x12's, Days, 7a-7:30p
+
+Weekends and holidays included
+
+No call
+
+May take IMCU patients  if needed based on census
+
+Must be proficient with Insulin, heparin, and Lasik drips
+
+Truncated Compliance
+
+CPI Required
+
+No locals - 50 mile radius;# of Postions=1;Type=Travel;BillRate=$80.00;Description=Short Description:Our patient population includes, Cardiac, Diabetes, CHF, COPD, Renal, General Surgery and Orthopedics to name a few. Our team consist of RNs, LPNs, PCTs, CNA/US and unit secretaries. Experience it all on our 42-bed Med-Surg Telemetry unit! Ratio 1 to 6
+Complete Description:Onslow Memorial Hospital is a community hospital located at 317 Western Blvd, Jacksonville, NC 28546.
+Joint Commission and Primary Stroke Center Certification.
+Requisition Comments:Client Offers! Candidates will be reviewed/interviewed by MGR
+
+Must include RTO in submittal in order to be honored at time of offer!
+
+Traveler is expected to float to like acuities or less if needed
+Scheduling Details:4x12's, Days, 7a-7:30p
+
+Weekends and holidays included
+
+No call
+
+May take IMCU patients  if needed based on census
+
+Must be proficient with Insulin, heparin, and Lasik drips
+
+Truncated Compliance
+
+CPI Required
+
+No locals - 50 mile radius ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=725397;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Onslow Memorial Hospital
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

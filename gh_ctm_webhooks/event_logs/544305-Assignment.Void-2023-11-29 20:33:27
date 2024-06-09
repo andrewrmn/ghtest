@@ -1,0 +1,89 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3191',
+  'Cf-Ray' => '82dda031b2b823c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => CT Weekend Tech Needed Fri-Mon
+
+ARRT CT Req. 
+
+16 Week Contract
+
+**Must be available to work the Christmas and New Years weekends to include those holidays.**
+
+ Modified Time:11/27/2023 12:00:00 AM
+ Account Manager: Lisa Beebe
+ Account Manager Email: Lisa.Beebe@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceSSNDOBRTO# of jobs in system we can sub   No capRequires specific amount of exp.   1-2 yearsValid State License (required at time of submission) - YesMile Radius Rule Applies   No ruleReferences RequiredLocal Rules   Locals accepted at same rateCandidates will float within hospital or to an affiliate hospitals near by - NoCopy of CertificationsSpecific Charting Exp. Required   EPIC for RNsReturn Staff Policy   Cannot take travelers who have worked there or at Twin Lakes as perm, in the past 10 years&nbsp;
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 544305
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9557
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 29 2023 15:33:27
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2297877 ;Status=Open;Association=Qualivis MSP ;Client=Owensboro Health Regional Hospital ;City=Owensboro ;State=KY ;Zip=42303 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Radiology / Cardiology ;Specialty=CT Tech ;Unit=7040	Radiology ;Shift=Night 3x12-Hour (19:00 - 07:00);# of Postions=1;Type=Travel;BillRate=$90.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=CT Weekend Tech Needed Fri-Mon
+
+ARRT CT Req. 
+
+16 Week Contract
+
+**Must be available to work the Christmas and New Years weekends to include those holidays.**
+
+ Modified Time:11/27/2023 12:00:00 AM
+ Account Manager: Lisa Beebe
+ Account Manager Email: Lisa.Beebe@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceSSNDOBRTO# of jobs in system we can sub   No capRequires specific amount of exp.   1-2 yearsValid State License (required at time of submission) - YesMile Radius Rule Applies   No ruleReferences RequiredLocal Rules   Locals accepted at same rateCandidates will float within hospital or to an affiliate hospitals near by - NoCopy of CertificationsSpecific Charting Exp. Required   EPIC for RNsReturn Staff Policy   Cannot take travelers who have worked there or at Twin Lakes as perm, in the past 10 years&nbsp; ;url=https://app.ayaconnect.com/index.html#/vendor/job/2297877/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Owensboro Health Regional Hospital - Travel
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

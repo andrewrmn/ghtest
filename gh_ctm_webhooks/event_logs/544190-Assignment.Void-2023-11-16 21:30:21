@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3418',
+  'Cf-Ray' => '8272d5abe4e41836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => JOB SUMMARY/PURPOSEThe Registered Nurse (RN) is accountable for utilizing the nursing process to provide safe, age-appropriate, direct and indirect patient care, while practicing within the scope of practice of the Oregon State Board of Nursing.DEPARTMENT DESCRIPTIONThe Operating Room of Surgery provides intraoperative care to surgical and procedural sedation patients. We provide service for the patient population of pediatrics, adolescents, adult and elderly patients. We work with a variety of provider specialties in caring for people going home that day or are being admitted to the hospital.EXPERIENCE/EDUCATION/QUALIFICATIONSCurrent unencumbered Oregon RN license required upon submission. AHA Healthcare Provider Level BLS required upon submission. One (1) year recent Perioperative nursing and operating room experience required. One (1) year recent Scrub experience required. Will be required to take Scrub Call   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 544190
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 1484
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-13
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:30
+    [whenmodified] => November, 16 2023 16:30:21
+    [daysPerWeek] => 5
+    [orderNote] => Source=Medefis5;SourceID=261640 ;Status=Open;Association=Samaritan Health Services ;Client=Samaritan North Lincoln Hospital ;City=Lincoln City ;State=OR ;Zip=97367 ;Start=12/13/2023;End=3/13/2024;Duration=91;Cert=Nursing ;Specialty=Operating Room, Operating Room / Scrub ;Unit=Operating Room, Operating Room / Scrub ;Shift=07:00 - 15:30 - Rotating Weekends ;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$88.00;OTRate=98 ;OTRules=By The Week, after 40, ;CallbackRate=88 (All Inclusive Rate) ;HolidayRate=98 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=JOB SUMMARY/PURPOSEThe Registered Nurse (RN) is accountable for utilizing the nursing process to provide safe, age-appropriate, direct and indirect patient care, while practicing within the scope of practice of the Oregon State Board of Nursing.DEPARTMENT DESCRIPTIONThe Operating Room of Surgery provides intraoperative care to surgical and procedural sedation patients. We provide service for the patient population of pediatrics, adolescents, adult and elderly patients. We work with a variety of provider specialties in caring for people going home that day or are being admitted to the hospital.EXPERIENCE/EDUCATION/QUALIFICATIONSCurrent unencumbered Oregon RN license required upon submission. AHA Healthcare Provider Level BLS required upon submission. One (1) year recent Perioperative nursing and operating room experience required. One (1) year recent Scrub experience required. Will be required to take Scrub Call   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261640;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 88
+    [facilityName] => Samaritan North Lincoln Hospital
+    [shiftDateEnd] => 2024-03-13
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,69 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1782',
+  'Cf-Ray' => '82e6aed890f21838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Surg tech needed for busy surgical dept. 1 weekday on call, 2 weekend calls every 6 weeks.
+
+The shift is 7-1730pm and the manager might consider 7-730pm will be discussed in the interview. 
+
+Must have ortho background.
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 537698
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 15854
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 30 2023 17:56:19
+    [daysPerWeek] => 4
+    [orderNote] => Source=EinsteinTrinity;SourceID=47706 ;Status=Open;Association=Trinity Health ;Client=MD - Holy Cross Hospital_ Germantown ;City=Germantown ;State=MD ;Zip=20876 ;Start=12/17/2023;End=3/16/2024;Duration=90;Cert=Surgical Tech ;Specialty=Operating Room ;Unit=Surgical Technologist-Surgical Tech-Operating Room ;Shift=07:00:00 - 17:00:00;# of Postions=1;Type=Travel;BillRate=$64.00;OTRate=83.20 ;ChargeRate=67.00 ;CallbackRate=83.20 ;HolidayRate=83.20 ;Orientation=0.00 ;Description=Surg tech needed for busy surgical dept. 1 weekday on call, 2 weekend calls every 6 weeks.
+
+The shift is 7-1730pm and the manager might consider 7-730pm will be discussed in the interview. 
+
+Must have ortho background. ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 64
+    [facilityName] => Holy Cross Germantown Hospital - TRAVEL
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

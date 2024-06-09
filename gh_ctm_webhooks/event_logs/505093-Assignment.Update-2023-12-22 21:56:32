@@ -1,0 +1,495 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '20',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6349',
+  'Cf-Ray' => '839b9d71731d493d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN IMCU  NIGHTS  13 WEEKS  2 YEARS EXPERIENCE IN A HOSPITAL SETTING REQUIRED  MUST HAVE ACTIVE VA LICENSE AT TIME OF SUBMISSION  BLS/ACLS REQUIRED
+        Unit Information:
+   Intermediate Care Unit (IMCU)             Location: CJW Johnston Willis Medical   Center             
+Address: 1401   Johnston Willis Drive, Richmond, VA 23235
+         
+Floor: 4th   floor 
+             
+Building: Atrium
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds: 21
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff: 35
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift: 6 RN s, 2 tech s, 1   secretary 
+   
+o
+
+
+   Night Shift: 6 RN s, 2 tech s until   2300, 1 tech until 0300
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios:3-4:1
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment:
+ Bedside monitors, EKG, bladder scanner, lab   draws, 
+   
+ 
+
+
+
+
+
+
+
+   EMR:
+   MediTech
+   
+
+
+             Hiring Profile             
+Must have:
+ 
+   
+ 
+
+
+
+
+
+
+
+   ACLS and   BLS 
+   
+ 
+
+
+
+
+
+
+
+   Drip   titration skills (Diltiazem, Nitro, Heparin), These are top 3, others are   titrated on the unit
+   
+ 
+
+
+
+
+
+
+
+   Basic   rhythm recognition 
+   
+
+
+   
+Preferred or nice to have:
+ 
+   
+ 
+
+
+
+
+
+
+
+   Teamwork   oriented 
+   
+ 
+
+
+
+
+
+
+
+   Flexible   with shifts
+   
+
+
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   Lab   draws, EKG, bladder scanning, bedside thoracentesis/paracentesis, blood   product administration, straight cath, Foley insertion, removal and care,   Central line care and removal, peritoneal dialysis
+   
+ 
+
+
+
+
+
+
+
+   
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   Energetic, hardworking, easy going, friendly, team player 
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   Med/Surg Telemetry 
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire:
+ All navy 
+   
+
+
+             Weekends:   
+ 
+
+
+
+
+
+
+
+   Every other   weekend
+ General Comments
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 505093
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5508
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-21
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 22 2023 16:56:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=719926 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=CJW MEDICAL -JOHNSTON-WILLIS CAMPUS VA ;City=RICHMOND ;State=VA ;Zip=23235 ;Start=11/21/2023;End=2/20/2024;Duration=91;Cert=RN ;Specialty=PCU ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM-7:00AM;# of Postions=1;Type=Travel;BillRate=$89.00;minBillRate=$89.00;OTRate=96 ;CallbackRate=96 ;HolidayRate=96 ;Orientation=0 ;Description=Description:TRAVEL RN IMCU  7:00PM-7:00AM
+13 WEEKS
+  2 YEARS EXPERIENCE IN A HOSPITAL SETTING REQUIRED  MUST HAVE ACTIVE VA LICENSE AT TIME OF SUBMISSION  BLS/ACLS REQUIRED
+        Unit Information:
+   Intermediate Care Unit (IMCU)             Location: CJW Johnston Willis Medical   Center             
+Address: 1401   Johnston Willis Drive, Richmond, VA 23235
+         
+Floor: 4th   floor 
+             
+Building: Atrium
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds: 21
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff: 35
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift: 6 RN s, 2 tech s, 1   secretary 
+   
+o
+
+
+   Night Shift: 6 RN s, 2 tech s until   2300, 1 tech until 0300
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios:3-4:1
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment:
+ Bedside monitors, EKG, bladder scanner, lab   draws, 
+   
+ 
+
+
+
+
+
+
+
+   EMR:
+   MediTech
+   
+
+
+             Hiring Profile             
+Must have:
+ 
+   
+ 
+
+
+
+
+
+
+
+   ACLS and   BLS 
+   
+ 
+
+
+
+
+
+
+
+   Drip   titration skills (Diltiazem, Nitro, Heparin), These are top 3, others are   titrated on the unit
+   
+ 
+
+
+
+
+
+
+
+   Basic   rhythm recognition 
+   
+
+
+   
+Preferred or nice to have:
+ 
+   
+ 
+
+
+
+
+
+
+
+   Teamwork   oriented 
+   
+ 
+
+
+
+
+
+
+
+   Flexible   with shifts
+   
+
+
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   Lab   draws, EKG, bladder scanning, bedside thoracentesis/paracentesis, blood   product administration, straight cath, Foley insertion, removal and care,   Central line care and removal, peritoneal dialysis
+   
+ 
+
+
+
+
+
+
+
+   
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   Energetic, hardworking, easy going, friendly, team player 
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   Med/Surg Telemetry 
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire:
+ All navy 
+   
+
+
+             Weekends:   
+ 
+
+
+
+
+
+
+
+   Every other   weekend
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/719926;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 89
+    [facilityName] => CJW Johnston-Willis Hospital
+    [shiftDateEnd] => 2024-02-20
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

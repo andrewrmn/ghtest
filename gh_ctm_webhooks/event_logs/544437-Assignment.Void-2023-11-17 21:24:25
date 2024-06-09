@@ -1,0 +1,119 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6971',
+  'Cf-Ray' => '827b0a58917e1463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => License:Nursys - For Submission:False; For Onboard:True; Optional:False
+ License:License/Certificate Verification - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:COVID-19 Vaccine - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:MMR - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Fit Test - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Hepatitis B  - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Influenza Vaccine  - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:TB Test - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Health Statement - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Varicella - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Tdap - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Annual TB Questionnaire - For Submission:False; For Onboard:True; Optional:False
+ Professional:FMOLHS Resume - For Submission:True; For Onboard:False; Optional:False
+ Professional:FMOLHS 2 Professional References - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Criminal Background Check Results - For Submission:False; For Onboard:True; Optional:False
+ Professional:FMOLHS Social Security Trace - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS OIG Search - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS EPLS - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS National Sex Offender - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Education Verification  - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Employment Verification - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Driving Record - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:FMOLHS Drug Screen - For Submission:False; For Onboard:True; Optional:False
+ Checklist/Testing:FMOLHS Skills Checklist - For Submission:False; For Onboard:True; Optional:False
+ Checklist/Testing:FMOLHS Competency Exam - For Submission:False; For Onboard:True; Optional:False
+ Checklist/Testing:FMOLHS Core Competencies - For Submission:False; For Onboard:True; Optional:False
+ Professional:FMOLHS HRIS Form - For Submission:False; For Onboard:True; Optional:False
+ Order Requisition Reason Name:Replace Agency
+ Certifications:Nursys, License/Certificate Verification
+ Licenses:Nursys, License/Certificate Verification
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 544437
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15886
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-27
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 17 2023 16:24:24
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinII;ID=1 ;SourceID=FHS-684 ;Status=In progress;Association=Franciscan Missionaries of Our Lady Health System ;Client=St. Francis Medical Center ;City=Monroe ;State=LA ;Zip=71201 ;Start=12/27/2023;End=2/24/2024;Duration=59;Cert=RN Telemetry I ;Specialty=RN Telemetry I ;Unit=Med Tele-SFMC Main Campus (401-2006-10321) ;Shift=07:00 PM-07:00 AM;# of Postions=0;Type=Travel;BillRate=$88.00;OTRate=132.0 ;OTRules=40 hrs ;ChargeRate=91 ;CallbackRate=132.0 ;HolidayRate=132.0 ;Description=License:Nursys - For Submission:False; For Onboard:True; Optional:False
+ License:License/Certificate Verification - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:COVID-19 Vaccine - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:MMR - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Fit Test - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Hepatitis B  - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Influenza Vaccine  - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:TB Test - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Health Statement - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Varicella - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Tdap - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Annual TB Questionnaire - For Submission:False; For Onboard:True; Optional:False
+ Professional:FMOLHS Resume - For Submission:True; For Onboard:False; Optional:False
+ Professional:FMOLHS 2 Professional References - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Criminal Background Check Results - For Submission:False; For Onboard:True; Optional:False
+ Professional:FMOLHS Social Security Trace - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS OIG Search - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS EPLS - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS National Sex Offender - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Education Verification  - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Employment Verification - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Driving Record - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:FMOLHS Drug Screen - For Submission:False; For Onboard:True; Optional:False
+ Checklist/Testing:FMOLHS Skills Checklist - For Submission:False; For Onboard:True; Optional:False
+ Checklist/Testing:FMOLHS Competency Exam - For Submission:False; For Onboard:True; Optional:False
+ Checklist/Testing:FMOLHS Core Competencies - For Submission:False; For Onboard:True; Optional:False
+ Professional:FMOLHS HRIS Form - For Submission:False; For Onboard:True; Optional:False
+ Order Requisition Reason Name:Replace Agency
+ Certifications:Nursys, License/Certificate Verification
+ Licenses:Nursys, License/Certificate Verification ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 88
+    [facilityName] => St. Francis Medical Center FMOLHS (HM) TRAVEL
+    [shiftDateEnd] => 2024-02-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

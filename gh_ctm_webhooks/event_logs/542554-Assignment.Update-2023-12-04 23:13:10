@@ -1,0 +1,613 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '29',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7128',
+  'Cf-Ray' => '8307bcff90b34961-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN MEDSURG7P - 7A13 WEEKS
+
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIRED
+MUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+   4 Front Medical Trauma Unit             Location: CJW Chippenham Medical Center             
+Address:
+ 7101 Jahnke Road, Richmond, VA
+ 
+         
+Floor:
+ 4th floor
+             
+Building:
+ Chippenham Medical Center
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Level   of Care: Medical Surgical
+   
+
+
+   
+ 
+
+
+
+
+
+
+
+   Number of Beds -
+ 36 beds
+   (32 private rooms, 2 semi-private rooms)
+   
+
+
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+50
+   
+
+
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   1 charge, 6 RNs &amp; LPNs   , 3 Patient Care Techs, 1 Department Assistant
+   
+o
+
+
+   Night Shift - 
+1 charge, 6 RNs &amp; LPNs , 
+3 Patient Care Techs, 1 Department Assistant
+   
+
+
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios     5-6:1
+   
+
+
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   telemetry, vein   finder, bladder scanner, EKG machine, Doppler, Hoyer Lift, glucometer, pulse   ox, scales, wound vac
+   
+
+
+   
+ 
+
+
+
+
+
+
+
+   EMR -
+   Meditech
+   
+
+
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+ candidates without these skills will not be   considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+RN   or LPN license.
+   
+
+
+   Preferred or nice to have:    
+ 
+
+
+
+
+
+
+
+   Trauma experience
+   
+ 
+
+
+
+
+
+
+
+   Telemetry   experience
+   
+
+
+   Specialized   aspects of care on unit / management of:   
+ 
+
+
+
+
+
+
+
+   complex wounds
+   
+ 
+
+
+
+
+
+
+
+   administration of blood products
+   
+ 
+
+
+
+
+
+
+
+   pain management
+   
+ 
+
+
+
+
+
+
+
+   tubes and drains   NG, PEG, feeding tubes,   surgical drains
+   
+ 
+
+
+
+
+
+
+
+   chest tubes
+   
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   Team player 
+   
+ 
+
+
+
+
+
+
+
+   Compassionate
+   
+Required   Certifications:
+   
+ 
+
+
+
+
+
+
+
+   Basic Life Support - BLS
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ navy
+   
+
+
+             Weekends and On call(if any)   
+ 
+
+
+
+
+
+
+
+   Every other   weekend, no call
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 542554
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8325
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 04 2023 18:12:31
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=770652 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=CJW MEDICAL CENTER CHIPPENHAM CAMPUS VA ;City=RICHMOND ;State=VA ;Zip=23225 ;Start=11/26/2023;End=2/25/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM - 7:00AM;# of Postions=1;Type=Travel;BillRate=$78.00;OTRate=86 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL RN MEDSURG7:00PM - 7:00AM13 WEEKS
+
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIRED
+MUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+   4 Front Medical Trauma Unit             Location: CJW Chippenham Medical Center             
+Address:
+ 7101 Jahnke Road, Richmond, VA
+ 
+         
+Floor:
+ 4th floor
+             
+Building:
+ Chippenham Medical Center
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Level   of Care: Medical Surgical
+   
+
+
+   
+ 
+
+
+
+
+
+
+
+   Number of Beds -
+ 36 beds
+   (32 private rooms, 2 semi-private rooms)
+   
+
+
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+50
+   
+
+
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   1 charge, 6 RNs &amp; LPNs   , 3 Patient Care Techs, 1 Department Assistant
+   
+o
+
+
+   Night Shift - 
+1 charge, 6 RNs &amp; LPNs , 
+3 Patient Care Techs, 1 Department Assistant
+   
+
+
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios     5-6:1
+   
+
+
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   telemetry, vein   finder, bladder scanner, EKG machine, Doppler, Hoyer Lift, glucometer, pulse   ox, scales, wound vac
+   
+
+
+   
+ 
+
+
+
+
+
+
+
+   EMR -
+   Meditech
+   
+
+
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+ candidates without these skills will not be   considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+RN   or LPN license.
+   
+
+
+   Preferred or nice to have:    
+ 
+
+
+
+
+
+
+
+   Trauma experience
+   
+ 
+
+
+
+
+
+
+
+   Telemetry   experience
+   
+
+
+   Specialized   aspects of care on unit / management of:   
+ 
+
+
+
+
+
+
+
+   complex wounds
+   
+ 
+
+
+
+
+
+
+
+   administration of blood products
+   
+ 
+
+
+
+
+
+
+
+   pain management
+   
+ 
+
+
+
+
+
+
+
+   tubes and drains   NG, PEG, feeding tubes,   surgical drains
+   
+ 
+
+
+
+
+
+
+
+   chest tubes
+   
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   Team player 
+   
+ 
+
+
+
+
+
+
+
+   Compassionate
+   
+Required   Certifications:
+   
+ 
+
+
+
+
+
+
+
+   Basic Life Support - BLS
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ navy
+   
+
+
+             Weekends and On call(if any)   
+ 
+
+
+
+
+
+
+
+   Every other   weekend, no call
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/770652;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 78
+    [facilityName] => Chippenham Medical Center
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

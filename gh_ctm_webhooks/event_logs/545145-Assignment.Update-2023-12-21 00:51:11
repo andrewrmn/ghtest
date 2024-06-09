@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2611',
+  'Cf-Ray' => '838c2297c5b11836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Must have:-Current CA RN license-Current BLS recognition -EPIC charting experience-ONC/Chemo certification -Want previous Inpatient Acute Oncology experience -Plus to have Chemo certification -Possibility to float to other Med/Surg units as needed  Overtime Rate By The Shift from 12 to 16: All Inclusive Rate + $10 - $130  Overtime Rate  from 16: All Inclusive Rate + $10 - $130   Additional Information:Enloe Medical Center only accepts agency staff who are W-2 employees of their perspective agency. Med/Surg and Critical Care RN positions are required to float as needed.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Oncol
+    [assignmentid] => 545145
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 1763
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-14
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => December, 20 2023 19:51:03
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261939 ;Status=Open;Association=Enloe Medical Center ;Client=Enloe Medical Center ;City=Chico ;State=CA ;Zip=95926 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Nursing ;Specialty=Oncology Nurse ;Unit=Oncology Nurse ;Shift=NOC;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$120.00;OTRate=130 ;OTRules=By The Shift from 12 to 16: All Inclusive Rate + $10 ;CallbackRate=130 (All Inclusive Rate + $10) ;HolidayRate=130 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=Must have:-Current CA RN license-Current BLS recognition -EPIC charting experience-ONC/Chemo certification -Want previous Inpatient Acute Oncology experience -Plus to have Chemo certification -Possibility to float to other Med/Surg units as needed  Overtime Rate By The Shift from 12 to 16: All Inclusive Rate + $10 - $130  Overtime Rate  from 16: All Inclusive Rate + $10 - $130   Additional Information:Enloe Medical Center only accepts agency staff who are W-2 employees of their perspective agency. Med/Surg and Critical Care RN positions are required to float as needed.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261939;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 120
+    [facilityName] => Enloe Medical Center
+    [shiftDateEnd] => 2024-04-14
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

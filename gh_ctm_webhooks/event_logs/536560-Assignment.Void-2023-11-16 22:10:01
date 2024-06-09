@@ -1,0 +1,71 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '43',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7473',
+  'Cf-Ray' => '82730fc647f61840-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Please read before submitting:**Traveler must meet all minimum requirements below to be consider (**see schedule requirement)**Do not submit traveler who have or will have expiring licenses and/or certifications during time frame of entire assignment. Traveler will automatically be declined. **Only submit traveler who can work schedule in posting and interested in the unit.
+Join the #1 hospital in Wisconsin!
+
+We are seeking a Registered Nurse to:Involve the Operating Room multidisciplinary team to plan for patient care in the Operating Room in a timely manner.Communicate and coordinate Operating Room activities to facilitate efficiency in the surgical case progression and turnover between cases.
+
+Minimum Requirements:  Facility Requirement:    Traveler must have permanent address outside50mile radius of Madison (address must be included in       traveler's profile).  Experience:    Experience in transplant, vascular, and/or heart cases.Experience with multiple service lines including traumas, transplant, cardiac and PV highly preferred.Traveler must have completed two years of acute care       experience within last 3 years.   Traveler must have experience in an Academic Level 1 -       Trauma center or similar size hospital.   Successfully completed traveler assignment       (13 weeks).  Licensure and Certification:   Traveler must have WI nursing license or compact       license from their permanent address state.   BLS   must       be certified through American Heart Association ONLY  Reference   Needs 2 references from recent work       environment/assignments (supervisor or manager only).  Floating   Travelers       are the first to float to floors working with children up to 1 year of       age and/or based on the traveler's competency skills/experience. The Traveler may       have shifts scheduled in multiple units, depending on the current       staffing needs and/or different locations within the       organization.       During the traveler s assignment, if the primary unit no longer has a       need, shifts will be re-assigned to another unit in order to complete       contract. Location:UW Health University Hospital, Madison, WIParking:Permit required by UW TransportationServices University Hospitalin Madison is a Magnet -designated facility that sranked Wisconsin s #1 hospitaland considered one of the nation's leading hospitals, teaching institutions and referral centers.   Additional Information: 	UW Health is moving away from using outdated file formats for Microsoft (Word, PowerPoint, and Excel). Profiles will need to be submitted in the following format: .docx, .xlsx and .pptx file types or our IS department will be blocking them and we will no longer receive the files nor able to forward internal to our hiring managers.-------------------------------------   	QuantiFERON/TSpot results will NOT be accepted for any reason   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 536560
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3538
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 16 2023 17:10:01
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=259808 ;Status=Open;Association=UW Health ;Client=UW Health University Hospital ;City=Madison ;State=WI ;Zip=53792 ;Start=11/6/2023;End=2/5/2024;Duration=91;Cert=Nursing ;Specialty=Operating Room / Circulate ;Unit=Operating Room / Circulate ;Shift=36 hrs/wk, Day/Evening, 12 hr shifts Every Saturday and Sunday 6:30am-7:00pm with one 12-hour weekday shift either 6:40am-7:10pm or 9:40am-10:10pm.  ;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$126.00;OTRate=136 ;OTRules=By The Week, after 40, ;CallbackRate=126 (All Inclusive Rate) ;HolidayRate=136 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=Please read before submitting:**Traveler must meet all minimum requirements below to be consider (**see schedule requirement)**Do not submit traveler who have or will have expiring licenses and/or certifications during time frame of entire assignment. Traveler will automatically be declined. **Only submit traveler who can work schedule in posting and interested in the unit.
+Join the #1 hospital in Wisconsin!
+
+We are seeking a Registered Nurse to:Involve the Operating Room multidisciplinary team to plan for patient care in the Operating Room in a timely manner.Communicate and coordinate Operating Room activities to facilitate efficiency in the surgical case progression and turnover between cases.
+
+Minimum Requirements:  Facility Requirement:    Traveler must have permanent address outside50mile radius of Madison (address must be included in       traveler's profile).  Experience:    Experience in transplant, vascular, and/or heart cases.Experience with multiple service lines including traumas, transplant, cardiac and PV highly preferred.Traveler must have completed two years of acute care       experience within last 3 years.   Traveler must have experience in an Academic Level 1 -       Trauma center or similar size hospital.   Successfully completed traveler assignment       (13 weeks).  Licensure and Certification:   Traveler must have WI nursing license or compact       license from their permanent address state.   BLS   must       be certified through American Heart Association ONLY  Reference   Needs 2 references from recent work       environment/assignments (supervisor or manager only).  Floating   Travelers       are the first to float to floors working with children up to 1 year of       age and/or based on the traveler's competency skills/experience. The Traveler may       have shifts scheduled in multiple units, depending on the current       staffing needs and/or different locations within the       organization.       During the traveler s assignment, if the primary unit no longer has a       need, shifts will be re-assigned to another unit in order to complete       contract. Location:UW Health University Hospital, Madison, WIParking:Permit required by UW TransportationServices University Hospitalin Madison is a Magnet -designated facility that sranked Wisconsin s #1 hospitaland considered one of the nation's leading hospitals, teaching institutions and referral centers.   Additional Information: 	UW Health is moving away from using outdated file formats for Microsoft (Word, PowerPoint, and Excel). Profiles will need to be submitted in the following format: .docx, .xlsx and .pptx file types or our IS department will be blocking them and we will no longer receive the files nor able to forward internal to our hiring managers.-------------------------------------   	QuantiFERON/TSpot results will NOT be accepted for any reason   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/259808;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 126
+    [facilityName] => University of Wisconsin Hospital and Clinics
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 06:30
+    [subjectID] => 
+)

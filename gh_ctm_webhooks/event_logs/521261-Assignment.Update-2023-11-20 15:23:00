@@ -1,0 +1,343 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '25',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5705',
+  'Cf-Ray' => '8291b10ef1ea4951-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Data Collection:
+
+Unit Information:
+ (insert name)
+
+Location: Doctor s Regional Medical Center/Bay Area
+ Heart OR
+
+Address: 3315 south alameda
+
+Floor:
+
+Building:
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds -Number of Staff   12Type of staff:5 RN, 6 Techs, 1 Anesthesia techDay Shift   (example 1 charge, 3 RN, 2 CNA, and 1-3 sitters)Night Shift - Patient Ratios   Type of equipment - EMR -
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+
+Active RN licenseMinimum 2 years professional CVOR nursing experienceHold the Basic Life Support Certification &amp; ACLS Excellent attention to detail needed in ensuring patient safety and quality monitoringStrong organizational skills needed in coordination of care across the CVORExperience as a circulator in an open heart procedure room with knowledge of same procedures.(cardiovascular/vascular operating room)
+
+
+
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+
+
+
+Minimum 2 years professional CVOR nursing experience
+
+
+
+List typical procedures performed on unit(s): 
+
+
+ Provides leadership in the coordination and delivery of quality compassionate patient care. Utilizes the nursing process of assessment, planning, implementation, and evaluation, to provide, delegate, supervise and document care and teaching of patients and family. Effectively communicates pertinent patient/family information to health care team. Participates in finding solutions for variances from patient goals and ensures implementation of solutions.
+
+
+Best personality Fit:
+
+
+REQUIRED CERTIFICATIONS:
+ACLS/BLS
+Floating Area(s):
+GENERAL OR
+Dress Code: 
+Scrub Color/Attire -
+ HOSPITAL OR SCRUBS
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+MUST TRAVEL BETWEEN TWO HOSPITALS IN CORPUS CHRISTI AREA
+
+
+
+Weekends and On call(if any)
+CALL EVERY OTHER WEEKEND AS WELL AS WEEK DAYS
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 521261
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 8394
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 20 2023 10:23:00
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=739717 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=Corpus Christi Medical Center ;City=Corpus Christi ;State=TX ;Zip=78412 ;Start=9/26/2023;End=12/26/2023;Duration=91;Cert=CST/ORT ;Specialty=OR ;Unit=GULF COAST DIVISION (14) ;Shift=6:30AM-3:00PM;# of Postions=1;Type=Travel;BillRate=$70.00;OTRate=78 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:Data Collection:
+          Unit Information:
+   Bay Area OR             Location: OR             
+Address: 7101 SPID
+         
+Floor: 1st
+             
+Building: Bay Area   Medical Center
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+   Number of Beds -152
+   
+ 
+
+
+
+
+
+   Number of Staff   30
+   
+ 
+
+
+
+
+
+   Type of staff:
+   
+o
+
+   Day Shift   (1 charge, 8 RN,7 CST 2Anesthesia techs, and 1-2 orderlies)
+   
+o
+
+   Evening Shift- 1RN, I CST
+   
+o
+
+   Night Shift   1RN, 1 CST
+   
+ 
+
+
+
+
+
+   Patient Ratios   1:1
+   
+ 
+
+
+
+
+
+   Type of equipment   Stryker 1688,   Davinxi XI, trios table, hana table
+   
+
+
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+ Gyn
+   
+ 
+
+
+
+
+
+ Ortho
+   
+ 
+
+
+
+
+
+ Davinci XI
+   
+ 
+
+
+
+
+
+ Trauma
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+ 
+Bariatric
+   
+ 
+
+
+
+
+
+ 
+Urology
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+ Robotics-Gyn, Bariatric, general, trauma,   urology, colorectal
+   
+ 
+
+
+
+
+
+ Gyn
+   
+ 
+
+
+
+
+
+ Trauma 
+   
+ 
+
+
+
+
+
+ Ortho
+ 
+   
+ 
+
+
+
+
+
+ 
+Urology
+   
+ 
+
+
+
+
+
+ 
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+   Experienced, accountable, reliable, honest, and a team player 
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+   CST
+   
+ 
+
+
+
+
+
+   CPR
+   Floating Area(s):   
+ 
+
+
+
+
+
+   N/A
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/739717;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Corpus Christi Medical Center-Bay Area Medical Center Travel
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

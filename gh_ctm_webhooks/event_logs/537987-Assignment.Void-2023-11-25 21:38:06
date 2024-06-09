@@ -1,0 +1,617 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '9686',
+  'Cf-Ray' => '82bd0962833a23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Centerpoint Medical Center is a 257-bed HCA facility located in Independence, Missouri. The Center features a
+Level II Trauma Center
+with 24/7 Emergency Services, a
+Level III NICU, the area's most-awarded
+heart program, and
+more.
+
+
+Centerpoint has earned numerous
+awards and accreditations, including the General Thoracic Surgery 3-Star Quality Rating and an Advanced Certification in Stroke from the American Heart Association and the American Stroke Association. Also, Centerpoint has been recognized on Healthgrades' America's 250 Best Hospitals
+list
+for the facility's overall clinical excellence. Staff members
+say
+the supportive management, fast-pace, and learning opportunities are among the top reasons that make the Centerpoint Medical Center a great place to work.
+
+
+Independence is about 20 minutes east of Kansas City, Missouri. This
+historic
+area is known as the "Queen City of the Trails" by serving as the starting point for the Santa Fe, California, and Oregon Trails. As such, Independence is home to numerous sites dedicated to its rich heritage, such as the
+National Frontier Trails Museum
+and
+the
+Bingham-Waggoner Estate. The city's
+Independence Square
+is also filled with
+shops,
+restaurants, and other
+activities.
+
+Unit Profiles:
+  
+
+
+          Unit Information:
+                Location:              
+Building:   Centerpoint Medical Center
+         
+Floor: First
+             Order Detail:             Facility Department   Number: 
+75026   Discipline: Echo   
+Shift: Monday through Friday 4 10   hour shifts 0630-1700
+   Call Requirements: Yes;   callback within 30 minutes   Weekends: On call and   occasional for vacation coverage             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Staff   Ideally 8 full time   sonographers
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift 3-5 sonographers staffed per   day
+   
+o
+
+
+   Weekend option covers Saturday and   Sunday
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   GE; Merge
+   
+ 
+
+
+
+
+
+
+
+   EMR  Merge, Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+   (Travel RNs, local CNAs and sitters)   
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   RDCS-Registered diagnostic cardiac   sonographer through ARDMS 
+   
+ 
+
+
+
+
+
+
+
+   OR
+   
+ 
+
+
+
+
+
+
+
+   RCS- Registered cardiac sonographer   through CCI
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+Minimum 3 years  experience
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   Transthoracic   Echo
+   
+ 
+
+
+
+
+
+
+
+   Transesophageal   echo
+   
+ 
+
+
+
+
+
+
+
+   Stress   echo
+   
+ 
+
+
+
+
+
+
+
+   Intra-procedural   TEE 
+   List any machines and/or   equipment used on the unit:   
+ 
+
+
+
+
+
+
+
+   GE Vivid E95
+   
+ 
+
+
+
+
+
+
+
+   Merge structured reporting
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color -
+ black
+   
+ 
+
+
+
+
+
+
+
+   
+Or
+   
+ 
+
+
+
+
+
+
+
+   Hospital laundered surgical scrubs
+             
+Unit Guidelines/Policies: 
+   
+ 
+
+
+
+
+
+
+
+   ICAEL   accredited
+             Awards/Recognition: 
+   
+ 
+
+
+
+
+
+
+
+   Excellent teamwork with cardiologists
+   
+ 
+
+
+
+
+
+
+
+   Excellent collaboration with stress   RNs and procedural areas
+   
+ 
+
+
+
+
+
+
+
+   Weekly huddles to review complex cases   and discuss learning opportunities
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Echocardiography
+    [assignmentid] => 537987
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5447
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Echo Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 25 2023 16:38:04
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=744336 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=CENTERPOINT MEDICAL CENTER MO ;City=Independence ;State=MO ;Zip=64057 ;Start=9/4/2023;End=12/4/2023;Duration=91;Cert=Echo Tech ;Specialty=Radiology ;Unit=MIDAMERICA DIVISION (48) ;Shift=6:30AM - 5:00PM;# of Postions=2;Type=Travel;BillRate=$75.00;OTRate=83 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Centerpoint Medical Center is a 257-bed HCA facility located in Independence, Missouri. The Center features a
+Level II Trauma Center
+with 24/7 Emergency Services, a
+Level III NICU, the area's most-awarded
+heart program, and
+more.
+
+
+Centerpoint has earned numerous
+awards and accreditations, including the General Thoracic Surgery 3-Star Quality Rating and an Advanced Certification in Stroke from the American Heart Association and the American Stroke Association. Also, Centerpoint has been recognized on Healthgrades' America's 250 Best Hospitals
+list
+for the facility's overall clinical excellence. Staff members
+say
+the supportive management, fast-pace, and learning opportunities are among the top reasons that make the Centerpoint Medical Center a great place to work.
+
+
+Independence is about 20 minutes east of Kansas City, Missouri. This
+historic
+area is known as the "Queen City of the Trails" by serving as the starting point for the Santa Fe, California, and Oregon Trails. As such, Independence is home to numerous sites dedicated to its rich heritage, such as the
+National Frontier Trails Museum
+and
+the
+Bingham-Waggoner Estate. The city's
+Independence Square
+is also filled with
+shops,
+restaurants, and other
+activities.
+
+Unit Profiles:
+  
+
+
+          Unit Information:
+                Location:              
+Building:   Centerpoint Medical Center
+         
+Floor: First
+             Order Detail:             Facility Department   Number: 
+75026   Discipline: Echo   
+Shift: Monday through Friday 4 10   hour shifts 0630-1700
+   Call Requirements: Yes;   callback within 30 minutes   Weekends: On call and   occasional for vacation coverage             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Staff   Ideally 8 full time   sonographers
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift 3-5 sonographers staffed per   day
+   
+o
+
+
+   Weekend option covers Saturday and   Sunday
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   GE; Merge
+   
+ 
+
+
+
+
+
+
+
+   EMR  Merge, Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+   (Travel RNs, local CNAs and sitters)   
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   RDCS-Registered diagnostic cardiac   sonographer through ARDMS 
+   
+ 
+
+
+
+
+
+
+
+   OR
+   
+ 
+
+
+
+
+
+
+
+   RCS- Registered cardiac sonographer   through CCI
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+Minimum 3 years  experience
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   Transthoracic   Echo
+   
+ 
+
+
+
+
+
+
+
+   Transesophageal   echo
+   
+ 
+
+
+
+
+
+
+
+   Stress   echo
+   
+ 
+
+
+
+
+
+
+
+   Intra-procedural   TEE 
+   List any machines and/or   equipment used on the unit:   
+ 
+
+
+
+
+
+
+
+   GE Vivid E95
+   
+ 
+
+
+
+
+
+
+
+   Merge structured reporting
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color -
+ black
+   
+ 
+
+
+
+
+
+
+
+   
+Or
+   
+ 
+
+
+
+
+
+
+
+   Hospital laundered surgical scrubs
+             
+Unit Guidelines/Policies: 
+   
+ 
+
+
+
+
+
+
+
+   ICAEL   accredited
+             Awards/Recognition: 
+   
+ 
+
+
+
+
+
+
+
+   Excellent teamwork with cardiologists
+   
+ 
+
+
+
+
+
+
+
+   Excellent collaboration with stress   RNs and procedural areas
+   
+ 
+
+
+
+
+
+
+
+   Weekly huddles to review complex cases   and discuss learning opportunities
+ General Comments ;url=https://vendor.healthtrustws.com/positions/744336;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Centerpoint Medical Center-MO
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

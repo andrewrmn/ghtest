@@ -1,0 +1,185 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4207',
+  'Cf-Ray' => '82cfa02547bc23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN ER11A-11P13 WEEKS
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE NH LICENSE/COMPACT AT SUBMISSION
+BLS AND ACLS REQUIRED
+ General CommentsHospital:
+
+Parkland Medical Center
+
+Location:
+Derry, New Hampshire
+
+Address:
+1 Parkland Drive
+
+Unit:
+Emergency Department
+
+General Information
+
+Unit Specifics:
+Number of Beds :
+19; 6 Hall; 6 Sub-Waiting roomPatient
+Ratios
+:
+1:5Unit staffing description- (unit secretaries and tech availability) :
+ED Tech (secretary); AEMT, ParamedicsType of equipment
+:
+GE Monitors, Lucas 3, Glidescope, EV 1000; Level 1 infuserDocumentation system:
+MeditechScheduling requirements:
+Weekend/Holiday rotationFloating policy:
+Do not usually float to other areasPatient Experience requirements:
+Whiteboard usage; Keeping patients informed; Patients/Families feel cared for
+Hospital Specifics-
+Required
+Certifications:
+BLS, ACLS, PALS or ENPC
+and CPI (w/n 30 days)Preferred Certifications:
+TNCC
+Hiring profile
+
+Requested Skill Set:
+2-3 years ED Experience
+
+
+
+
+Must have:
+
+
+
+
+Procedures performed on unit:
+
+Moderate Sedation; Central Line placement; Chest tube placement; IV insertion, Lab Draw, POC testing; EKG s; Respiratory Treatments
+
+
+
+
+Dress Code:
+Dark Blue Scrubs
+Awards/Recognition:
+
+
+Stroke Certification; Cath Lab; Trauma Level 3
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 539953
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1399
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-20
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => November, 27 2023 22:46:44
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=770964 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=PARKLAND MEDICAL CENTER NH ;City=DERRY ;State=NH ;Zip='03038 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=RN ;Specialty=Emergency Dept ;Unit=CAPITAL DIVISION (20) ;Shift=11:00AM-11:00PM;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=98 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:TRAVEL RN ER11A-11P13 WEEKS
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE NH LICENSE/COMPACT AT SUBMISSION
+BLS AND ACLS REQUIRED
+ General CommentsHospital:
+
+Parkland Medical Center
+
+Location:
+Derry, New Hampshire
+
+Address:
+1 Parkland Drive
+
+Unit:
+Emergency Department
+
+General Information
+
+Unit Specifics:
+Number of Beds :
+19; 6 Hall; 6 Sub-Waiting roomPatient
+Ratios
+:
+1:5Unit staffing description- (unit secretaries and tech availability) :
+ED Tech (secretary); AEMT, ParamedicsType of equipment
+:
+GE Monitors, Lucas 3, Glidescope, EV 1000; Level 1 infuserDocumentation system:
+MeditechScheduling requirements:
+Weekend/Holiday rotationFloating policy:
+Do not usually float to other areasPatient Experience requirements:
+Whiteboard usage; Keeping patients informed; Patients/Families feel cared for
+Hospital Specifics-
+Required
+Certifications:
+BLS, ACLS, PALS or ENPC
+and CPI (w/n 30 days)Preferred Certifications:
+TNCC
+Hiring profile
+
+Requested Skill Set:
+2-3 years ED Experience
+
+
+
+
+Must have:
+
+
+
+
+Procedures performed on unit:
+
+Moderate Sedation; Central Line placement; Chest tube placement; IV insertion, Lab Draw, POC testing; EKG s; Respiratory Treatments
+
+
+
+
+Dress Code:
+Dark Blue Scrubs
+Awards/Recognition:
+
+
+Stroke Certification; Cath Lab; Trauma Level 3
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/770964;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Parkland Medical Center
+    [shiftDateEnd] => 2024-02-19
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

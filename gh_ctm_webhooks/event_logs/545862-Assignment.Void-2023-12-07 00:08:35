@@ -1,0 +1,69 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1596',
+  'Cf-Ray' => '831888f6a7e723c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Critical Care Float will float between all of our ICUs and PCU
+
+Weekend Package Night Shift 7p-7a
+Friday/Saturday/Sunday
+36 hours/week
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 545862
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15840
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-02
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 06 2023 19:08:35
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48659 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne Des Moines Medical Center ;City=Des Moines ;State=IA ;Zip=50314 ;Start=1/2/2024;End=3/30/2024;Duration=88;Cert=RN Critical Care ;Specialty=Flex Pool - Critical Care ;Unit=*Registered Nurse-ICU-Flex Pool - Critical Care/WKND NOCS ;Shift=7p7a;# of Postions=1;Type=Travel;BillRate=$83.00;OTRate=107.90 ;ChargeRate=86.00 ;CallbackRate=107.90 ;HolidayRate=107.90 ;Description=Critical Care Float will float between all of our ICUs and PCU
+
+Weekend Package Night Shift 7p-7a
+Friday/Saturday/Sunday
+36 hours/week ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 83
+    [facilityName] => MercyOne Des Moines Medical Center (Trinity) TRAVEL
+    [shiftDateEnd] => 2024-03-30
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

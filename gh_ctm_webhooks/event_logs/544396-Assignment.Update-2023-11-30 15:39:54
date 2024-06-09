@@ -1,0 +1,96 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '9817',
+  'Cf-Ray' => '82e42f8e523223c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Unit: Sterile Processing
+ Mercy Hospital Oklahoma City
+Cost Center
+40-406608
+Specialty: Sterile Processing Tech
+Shift: Variable,
+5x8,
+hours may vary
+Guaranteed Hours: 36
+
+Assignment Length: 13 weeks
+Required Certifications:
+CRCST or CSPDT Certification through IAHCSMM or
+CBSPD
+Required Experience: 2
+years Sterile Processing Tech
+Must be willing to float when neededMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsMust be able to wear personal protective equipment (PPE). Must interact with staff and co-workers across a diverse range of disciplines. Must be able to follow directions. Must be able to operate equipment. The physical demands described here are the representative of the minimums that must be met by an employee to perform all essential functions of the job. Most physical demands are below:  Frequent: high/mid/low level lift of items weighing around 25 pounds   Frequent: hand coordination  Frequent: Standing the Majority of Shift, 8 hours or more  Decontaminate, inspect, function test, assemble, disinfect or sterilize instrumentation as well as equipment per Manufacturer's Instructions for Use as required.  The decontamination process involves disassembly of instrumentation, robust manually cleaning with multiple steps and various cleaning agents as well as the use of ultrasonic and washer disinfectors. Manufacturer Instructions for Use are followed.  Prepare instrumentation for use by inspecting, function testing and assembling, labeling and preparing for sterilization. Equipment is also assembled and/or disassembled for use such as cords rolled neatly and/or other equipment separated into components. Follow count sheet instructions and Manufacturer Instructions for Use.  Knows the name of all general surgical instruments and has a general knowledge of their use.  Knows specialty instruments and can assemble and prepare specialty items.  Knows how to check instruments for proper working order, sharpness, etc.  Prepare or Package equipment, instruments, supplies for High Level Disinfection or Sterilization. Instrumentation is packaged in Peel Packs, containers, or linen wrappers with chemical indicators for sterilization as required. Items are labeled with a lot control identifier.  Sterilize instruments on loading carts or place items in the sterilizer neatly to allow the sterilant to come into contact with all surfaces. Manufacturer Instructions for Use are followed for sterilization parameters, etc.  Knows how to properly operate all sterilizers. Involves general knowledge of the sterilizer operation, marking each item with a control sticker, recording items that are being sterilized, proper loading of the sterilizer cart or placement in the sterilizer, quality inspection after sterilizing and proper handling.  Assures that all documentation, records and logs are accurate in a computer system and/or written form.   Navigate and utilize Sterile Processing computer applications for Decontamination, Processing and Sterilization.  Knows how to correctly test and operate Sterile Processing Equipment in Decontamination, Processing and Sterilization.  Ensures instruments, equipment and supplies are in good condition, functional and inspects or replaces damaged or broken items. Maintains repairs processes with Mercy items and works with contracted Vendors with their Vendor items.  Properly dispatches instrumentation, supplies and equipment. This involves answering telephones, taking orders and filling them as well as troubleshooting questions. Pickup and delivery of instrumentation and equipment in accordance with infection control guidelines and our department/hospital policy.  Proficient in all processes and areas of the Sterile Processing Department and follows department and hospital policies/procedures.  Utilizes time in a productive manner  Observes universal precautions consistently and wears proper personal protective equipment when appropriate. Wears clothing and Health System badge consistent with dress code, and attends to personal hygiene to maintain a clean, well-groomed appearance. Meets Health System attendance standards. Performs other duties as directed.
+ No. of Positions: 2/2.
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 544396
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3231
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 30 2023 10:39:53
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=775790 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Oklahoma City ;City=Oklahoma City ;State=OK ;Zip=73120 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=SPT ;Specialty=Central Sterile ;Unit=Mercy ;Shift=07:00-16:30;# of Postions=2;Type=Travel;BillRate=$50.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Unit: Sterile Processing
+ Mercy Hospital Oklahoma City
+Cost Center
+40-406608
+Specialty: Sterile Processing Tech
+Shift: Variable,
+5x8,
+hours may vary
+Guaranteed Hours: 36
+
+Assignment Length: 13 weeks
+Required Certifications:
+CRCST or CSPDT Certification through IAHCSMM or
+CBSPD
+Required Experience: 2
+years Sterile Processing Tech
+Must be willing to float when neededMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsMust be able to wear personal protective equipment (PPE). Must interact with staff and co-workers across a diverse range of disciplines. Must be able to follow directions. Must be able to operate equipment. The physical demands described here are the representative of the minimums that must be met by an employee to perform all essential functions of the job. Most physical demands are below:  Frequent: high/mid/low level lift of items weighing around 25 pounds   Frequent: hand coordination  Frequent: Standing the Majority of Shift, 8 hours or more  Decontaminate, inspect, function test, assemble, disinfect or sterilize instrumentation as well as equipment per Manufacturer's Instructions for Use as required.  The decontamination process involves disassembly of instrumentation, robust manually cleaning with multiple steps and various cleaning agents as well as the use of ultrasonic and washer disinfectors. Manufacturer Instructions for Use are followed.  Prepare instrumentation for use by inspecting, function testing and assembling, labeling and preparing for sterilization. Equipment is also assembled and/or disassembled for use such as cords rolled neatly and/or other equipment separated into components. Follow count sheet instructions and Manufacturer Instructions for Use.  Knows the name of all general surgical instruments and has a general knowledge of their use.  Knows specialty instruments and can assemble and prepare specialty items.  Knows how to check instruments for proper working order, sharpness, etc.  Prepare or Package equipment, instruments, supplies for High Level Disinfection or Sterilization. Instrumentation is packaged in Peel Packs, containers, or linen wrappers with chemical indicators for sterilization as required. Items are labeled with a lot control identifier.  Sterilize instruments on loading carts or place items in the sterilizer neatly to allow the sterilant to come into contact with all surfaces. Manufacturer Instructions for Use are followed for sterilization parameters, etc.  Knows how to properly operate all sterilizers. Involves general knowledge of the sterilizer operation, marking each item with a control sticker, recording items that are being sterilized, proper loading of the sterilizer cart or placement in the sterilizer, quality inspection after sterilizing and proper handling.  Assures that all documentation, records and logs are accurate in a computer system and/or written form.   Navigate and utilize Sterile Processing computer applications for Decontamination, Processing and Sterilization.  Knows how to correctly test and operate Sterile Processing Equipment in Decontamination, Processing and Sterilization.  Ensures instruments, equipment and supplies are in good condition, functional and inspects or replaces damaged or broken items. Maintains repairs processes with Mercy items and works with contracted Vendors with their Vendor items.  Properly dispatches instrumentation, supplies and equipment. This involves answering telephones, taking orders and filling them as well as troubleshooting questions. Pickup and delivery of instrumentation and equipment in accordance with infection control guidelines and our department/hospital policy.  Proficient in all processes and areas of the Sterile Processing Department and follows department and hospital policies/procedures.  Utilizes time in a productive manner  Observes universal precautions consistently and wears proper personal protective equipment when appropriate. Wears clothing and Health System badge consistent with dress code, and attends to personal hygiene to maintain a clean, well-groomed appearance. Meets Health System attendance standards. Performs other duties as directed.
+ No. of Positions: 2/2. ;url=https://vendor.healthtrustws.com/positions/775790;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 50
+    [facilityName] => Mercy Hospital Oklahoma City TRAVEL
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

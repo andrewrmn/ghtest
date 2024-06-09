@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2218',
+  'Cf-Ray' => '84ca4540711b1463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 06/29/2021 1035 MDTJackie Pittmann
+                            
+                            
+                                Bill rate $90 for 48 hours and $83 for 36 hours. Canddiate will go through IVS. Automatic offers to those who do not request any time off and have 2 + years exp. Make sure your profiles are IVS ready!
+ RatePlan:AH-Rapid Response (Covid19) MAY 1
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 244701
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9548
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-08-16
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 28 2024 10:29:16
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;SourceID=9313361 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Hays Medical Center ;City=Kyle ;State=TX ;Zip=78640 ;Start=8/2/2021;End=10/31/2021;Duration=91;Cert=RN ;Specialty=Med/Surg ;Unit=SMCH 3rd Floor Med/Surg ;Shift=NOC 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$90.00;minBillRate=$90.00;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=06/29/2021 1035 MDTJackie Pittmann
+                            
+                            
+                                Bill rate $90 for 48 hours and $83 for 36 hours. Canddiate will go through IVS. Automatic offers to those who do not request any time off and have 2 + years exp. Make sure your profiles are IVS ready!
+ RatePlan:AH-Rapid Response (Covid19) MAY 1 ;url=https://automated.shiftwise.net/esp/order.aspx?order_id=E9ED0DC9FC11433531C7F7F83AD8E99A;minPayRate=$90.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Ascension Seton Hays
+    [shiftDateEnd] => 2021-11-14
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

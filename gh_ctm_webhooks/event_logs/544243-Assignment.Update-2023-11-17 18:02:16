@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2379',
+  'Cf-Ray' => '8279e23ab1d36a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Acute progressive unit, with heavy Trauma/GI post op patients. ACLS, BLS and Telemetry experience required. Level 1-2 trauma exp required. Will consider first time travelers, with Level 1 trauma exp. Must have exp with abdominal surgeries. Eexpected to work at least 1 Christmas holiday and up to 2 others out of Thanksgiving, Christmas Eve, Christmas Day, New years eve and New Year s Day. (BF for Jessica Lewis JG) 
+ Critical Need: Disaster Critical 12
+VayaOffer = False
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 544243
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12923
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-19
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 17 2023 13:02:15
+    [daysPerWeek] => 3
+    [orderNote] => Source=OptimizerVizient;SourceID=69238527 ;Status=CandidatesRequested;Association=University of Kentucky Hospital ;Client=University of Kentucky Hospital ;City=Lexington ;State=KY ;Zip=40536 ;Start=12/19/2023;End=3/23/2024;Duration=95;Cert=RN ;Specialty=RN - Progressive Intermediate Step Down PCU ;Unit=CH PAV A 6 T1 UNI - 1058716960 ;Shift=7:00 PM - 7:30 AM;# of Postions=1;Guaranteed Hours=0;Type=Travel;BillRate=$98.00;OTRate=137.20 ;CallbackRate=137.20 ;HolidayRate=147.00 ;Orientation=68.60 ;Priority=Critical;Description=Acute progressive unit, with heavy Trauma/GI post op patients. ACLS, BLS and Telemetry experience required. Level 1-2 trauma exp required. Will consider first time travelers, with Level 1 trauma exp. Must have exp with abdominal surgeries. Eexpected to work at least 1 Christmas holiday and up to 2 others out of Thanksgiving, Christmas Eve, Christmas Day, New years eve and New Year s Day. (BF for Jessica Lewis JG) 
+ Critical Need: Disaster Critical 12
+VayaOffer = False ;url=https://optimizer.vayaworkforce.com/agency/job-requests/69238527;localRate=$90.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 98
+    [facilityName] => University of Kentucky Hospital Travel
+    [shiftDateEnd] => 2024-03-23
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,89 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2574',
+  'Cf-Ray' => '82b3214675676a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Operating Room Rural - Mercy Hospital Perry - Surgical Tech - Mercy Hospital Perry
+
+
+Days 5x8
+
+
+BLS required
+
+CST preferred
+
+
+Performs the primary function of a Surgical Technologist in the Operating Room. Maintains accountability for the provision of surgical instruments to the surgical team. Coordinates the care of the surgical patient with other team members. Maintains patient rights and confidentiality. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards.
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 545619
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 16181
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 24 2023 11:46:46
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=777680 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Perry ;City=Perryville ;State=MO ;Zip=63775 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=CST/ORT ;Specialty=OR ;Unit=Mercy ;Shift=07:00-19:00;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Operating Room Rural - Mercy Hospital Perry - Surgical Tech - Mercy Hospital Perry
+
+
+Days 5x8
+
+
+BLS required
+
+CST preferred
+
+
+Performs the primary function of a Surgical Technologist in the Operating Room. Maintains accountability for the provision of surgical instruments to the surgical team. Coordinates the care of the surgical patient with other team members. Maintains patient rights and confidentiality. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards.
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/777680;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Mercy Hospital Perry
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

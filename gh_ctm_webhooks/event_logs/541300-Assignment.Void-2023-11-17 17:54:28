@@ -1,0 +1,433 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '20',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6201',
+  'Cf-Ray' => '8279d6cdc257493d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:**traveler must have an active Alaska RN license to be submitted *
+Facility: Alaska Regional Hospital
+Need: Cath Lab RN
+Shift: 7:00AM to 7:00PM
+
+Unit: Cath Lab
+ 
+ 
+ 
+Cost Center: 746
+Length of Assignment: 13 Weeks
+Start Date: ASAP (must be able to start in the next 3 weeks)
+ General CommentsUnit Information:
+   ARH Cath Lab 746             Location: Alaska Regional              
+Address: 2801   Debarr Rd Anchorage, AK 99508
+         
+Floor: 2nd   floor
+             
+Building: Main   hospital
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+   Number of labs   3 Philips labs
+   
+ 
+
+
+
+
+
+   Number of Staff   
+20 staff total
+   
+ 
+
+
+
+
+
+   Type of staff:
+   
+o
+
+   Day Shift   3 teams M-F 7a-730p
+   
+o
+
+   Night Shift &amp; Weekend   on call
+   
+ 
+
+
+
+
+
+   Team ratios   
+
+run 4 man teams for certain types of cases,   otherwise 3 main teams
+   
+ 
+
+
+
+
+
+   Type of equipment   Philips c-arms,   Merge vericis for hemo system, 
+   
+ 
+
+
+
+
+
+   EMR   Epic
+   
+
+
+             Typical hiring profile             
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+ 
+Experience   in at least 3 of our service lines
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+ 
+Experience   in 4 areas
+   
+
+
+   List   typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+   All service lines- EP, IR, Neuro,   Vascular, Cardiac &amp; TAVR
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+   
+Flexible, self-starter, can   take direction
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+ RN License, BLS and ACLS 
+   
+ 
+
+
+
+
+
+   
+
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+   Scrub Color/Attire -
+ we provide scrubs
+   
+
+
+             
+Unit Guidelines/Policies: 
+   
+ 
+
+
+
+
+
+ Will cover in dept orientation
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+ Call rotates
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 541300
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1263
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-20
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 17 2023 12:54:27
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=739684 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=Alaska Regional Hospital AK ;City=ANCHORAGE ;State=AK ;Zip=99508 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=RN ;Specialty=Cardiac Cath Lab ;Unit=MOUNTAIN DIVISION (15) ;Shift=7:00AM - 7:00PM;# of Postions=1;Type=Travel;BillRate=$115.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:**traveler must have an active Alaska RN license to be submitted *
+Facility: Alaska Regional Hospital
+Need: Cath Lab RN
+Shift: 7:00AM to 7:00PM
+
+Unit: Cath Lab
+ 
+ 
+ 
+Cost Center: 746
+Length of Assignment: 13 Weeks
+Start Date: ASAP (must be able to start in the next 3 weeks)
+ General CommentsUnit Information:
+   ARH Cath Lab 746             Location: Alaska Regional              
+Address: 2801   Debarr Rd Anchorage, AK 99508
+         
+Floor: 2nd   floor
+             
+Building: Main   hospital
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+   Number of labs   3 Philips labs
+   
+ 
+
+
+
+
+
+   Number of Staff   
+20 staff total
+   
+ 
+
+
+
+
+
+   Type of staff:
+   
+o
+
+   Day Shift   3 teams M-F 7a-730p
+   
+o
+
+   Night Shift &amp; Weekend   on call
+   
+ 
+
+
+
+
+
+   Team ratios   
+
+run 4 man teams for certain types of cases,   otherwise 3 main teams
+   
+ 
+
+
+
+
+
+   Type of equipment   Philips c-arms,   Merge vericis for hemo system, 
+   
+ 
+
+
+
+
+
+   EMR   Epic
+   
+
+
+             Typical hiring profile             
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+ 
+Experience   in at least 3 of our service lines
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+ 
+Experience   in 4 areas
+   
+
+
+   List   typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+   All service lines- EP, IR, Neuro,   Vascular, Cardiac &amp; TAVR
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+   
+Flexible, self-starter, can   take direction
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+ RN License, BLS and ACLS 
+   
+ 
+
+
+
+
+
+   
+
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+   Scrub Color/Attire -
+ we provide scrubs
+   
+
+
+             
+Unit Guidelines/Policies: 
+   
+ 
+
+
+
+
+
+ Will cover in dept orientation
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+ Call rotates ;url=https://vendor.healthtrustws.com/positions/739684;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 115
+    [facilityName] => Alaska Regional Hospital AK
+    [shiftDateEnd] => 2024-02-19
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

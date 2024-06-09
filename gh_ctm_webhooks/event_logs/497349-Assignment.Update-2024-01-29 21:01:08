@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '73',
+  'Ki-Request-Colo' => '612',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4291',
+  'Cf-Ray' => '84d4689cd38c22df-ORD',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => We are seeking a Surgical Technologist with a minimum of 2 years experience. Proficient in General/ENT/Plastics/GYN and Ortho cases.BLS and CST required.Primary responsibility involves performance of specific tasks as a scrub technologist and/or during surgical procedures to facilitate the efficient and safe progress of the surgical case. Assist with the maintenance of surgical instruments, supplies, and equipment. Performs various duties within his/her scope of responsibility and is accountable to the Clinical Manager.The Surgical Technologists demonstrates the knowledge, abilities, and skills to provide age and culturally specific patient care and education. The ST effectively communicates with peers, utilizes appropriate channels of communication and maintains absolute confidentiality. The ST maintains competence and demonstrates evidence of continuing professional growth. The ST demonstrates the ability to accept and implement change and the ability to work in a culturally diverse setting. The ST is responsible for knowledge, use, care, and handling of surgical instruments. Maycome in contact with COVID+ patients.CVOR experience required.   Additional Information:Agency staff will be the first to float based on facility census and needs. Any calls offs including week day and weekend shifts will be required to be made up during the contract period.   Position Urgency:Normal Billing string = The Christ Hospital
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 497349
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 9945
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-02-19
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:30
+    [whenmodified] => January, 29 2024 16:01:07
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=247869 ;Status=Open;Association=The Christ Hospital ;Client=The Christ Hospital ;City=Cincinnati ;State=OH ;Zip=45219 ;Start=5/1/2023;End=7/31/2023;Duration=91;Cert=Nursing ;Specialty=Surgical Technologist ;Unit=Surgical Technologist ;Shift=Days - 7:00a - 5:30p;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$65.00;OTRate=70 ;OTRules=By The Week, after 40, ;CallbackRate=65 (All Inclusive Rate) ;HolidayRate=70 (All Inclusive Rate + $5) ;OnCallRateDescription=$4 per hour pager ;Description=We are seeking a Surgical Technologist with a minimum of 2 years experience. Proficient in General/ENT/Plastics/GYN and Ortho cases.BLS and CST required.Primary responsibility involves performance of specific tasks as a scrub technologist and/or during surgical procedures to facilitate the efficient and safe progress of the surgical case. Assist with the maintenance of surgical instruments, supplies, and equipment. Performs various duties within his/her scope of responsibility and is accountable to the Clinical Manager.The Surgical Technologists demonstrates the knowledge, abilities, and skills to provide age and culturally specific patient care and education. The ST effectively communicates with peers, utilizes appropriate channels of communication and maintains absolute confidentiality. The ST maintains competence and demonstrates evidence of continuing professional growth. The ST demonstrates the ability to accept and implement change and the ability to work in a culturally diverse setting. The ST is responsible for knowledge, use, care, and handling of surgical instruments. Maycome in contact with COVID+ patients.CVOR experience required.   Additional Information:Agency staff will be the first to float based on facility census and needs. Any calls offs including week day and weekend shifts will be required to be made up during the contract period.   Position Urgency:Normal Billing string = The Christ Hospital ;url=https://vms.medefis5.com/jobs/247869;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Christ Hospital System (AKA the Christ Hospital Health Network)
+    [shiftDateEnd] => 2024-05-20
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

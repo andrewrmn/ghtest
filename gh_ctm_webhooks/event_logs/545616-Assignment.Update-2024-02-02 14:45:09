@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '966',
+  'Cf-Ray' => '84f3375c454e183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => BR Adjust: $100 ($150 OT BR) - 2.2.24 SEJ
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545616
+    [workerID] => 265250
+    [WorkerContactNo] => 267-393-5897
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 16050
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => Moulic
+    [shiftNum] => 4
+    [workerFirstName] => Jonas
+    [cert] => RN
+    [floorDesc] => 10CD
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => February, 02 2024 09:45:08
+    [daysPerWeek] => 3
+    [orderNote] => FTK: API Reports
+Chrg:P$1/B$3-OnCl:P$10/B$18
+Ornt:$20/NB:12hr-POT:$68>40hr
+LoyaltyBonus:$500x1
+BR:$100
+    [guaranteedMinimum] => 
+    [workerEmail] => jpmoulic@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => AHS - Overlook Medical Center
+    [shiftDateEnd] => 2024-02-03
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

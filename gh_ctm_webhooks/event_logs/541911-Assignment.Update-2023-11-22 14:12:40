@@ -1,0 +1,334 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8183',
+  'Cf-Ray' => '82a1c4ba97516a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Unit Profile
+
+
+
+
+
+Hospital:
+
+Research Medical Center
+
+Location:
+Kansas City, MO
+
+Address:
+2316 E Myer Blvd Kansas City, MO 64132
+
+Unit
+Name:
+4
+Central
+Cardiac Telemetry
+
+Building:
+Main Campus
+
+Cost Center:
+63727
+
+General Information
+
+Unit Specifics:
+Number of Beds :
+29Patient
+Ratios
+:
+1:4Unit staffing description- (unit secretaries and tech availability):
+Charge Nurse, Unit Secretary, and PCTsType of equipment
+:
+Alaris
+IV Pumps, SCD machines, Hill Rom beds,
+dinamap
+in each room, 3 Welch Allen Vital Machines, Wound
+Vacs, Temporary Pacemakers, Telemetry monitor, EKG Machine, Bladder Scanner, Doppler,
+Imobile
+for communication between team membersDocumentation system:
+MeditechScheduling requirements:
+Must work full time hours including 3 weekend shifts per scheduling period.Floating policy:
+Contract Nurses will be floated to any area where they have demonstrated competency.Patient Experience requirements:
+Must align with our patient experience goals by treating every patient with courtesy and respect and to be responsive to the call light (using patients preferred name, making personal connections, involving the patient in bedside shift report, teaching the patient how to use the phone to call nurse directly, and to always ask if there is anything else you can do before leaving the room).
+Hospital Specifics-
+Certifications:
+ACLS, BLS
+Hiring profile
+
+Requested Skill Set:
+
+
+
+
+Must have:
+Cardiac Telemetry or PCU/ICU experience. Read and interpret EKGs and telemetry strips.
+
+
+
+
+
+
+
+Advanced skills needed:
+Must have experience with post cardiac procedural care (Ablations, cardiac catheterizations, Post Op Day 1 Open Heart, permanent Pacemaker placements). Must be able to administer and titrate IV medications such as insulin, Cardizem,
+Cardene,
+and Amiodarone.
+
+
+
+
+
+
+
+
+
+
+Procedures performed on unit:
+
+IV insertions, NGT placement and maintenance, Chest Tube maintenance, Temporary Pacemakers,
+Foley insertions
+
+
+
+
+
+
+
+Certifications Required:
+ACLS, BLS, NIHSS
+
+
+
+
+
+
+
+Dress Code:
+(Required uniform)
+
+Navy Blue scrubs. May wear black scrub pants with Navy Blue top.
+Unit Guidelines/Policies:
+Please
+attach unit
+specific
+policies and guidelines.
+ICARE Values
+Awards/Recognition:
+
+Please
+include
+anything that you would like prospective candidates to be aware of,
+such as,
+links to videos that feature the department, outstanding department/team awards.
+
+
+
+AHA has awarded us  Get With the Guidelines-Heart Failure GOLD PLUS with Honor Roll 
+
+
+
+Any additional information that would entice a worker to select your unit
+for their assignment:
+
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc.
+Tenured and new staff with a family-like atmosphereMany contracts have been satisfied with our department and transitioned into full time employeesFast-paced environmentUse
+Imobile
+which is an
+iphone
+for faster communication between team members.
+Imobile
+allows texting and phone calls between clinicians. You can also see updated lab results on your patients in real time.
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 541911
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5910
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 22 2023 09:12:37
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771870 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=RESEARCH MEDICAL CENTER MO ;City=Kansas City ;State=MO ;Zip=64132 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=MIDAMERICA DIVISION (48) ;Shift=7P - 7A;# of Postions=5;Type=Travel;BillRate=$80.00;OTRate=88 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:Unit Profile
+
+
+
+
+
+Hospital:
+
+Research Medical Center
+
+Location:
+Kansas City, MO
+
+Address:
+2316 E Myer Blvd Kansas City, MO 64132
+
+Unit
+Name:
+4
+Central
+Cardiac Telemetry
+
+Building:
+Main Campus
+
+Cost Center:
+63727
+
+General Information
+
+Unit Specifics:
+Number of Beds :
+29Patient
+Ratios
+:
+1:4Unit staffing description- (unit secretaries and tech availability):
+Charge Nurse, Unit Secretary, and PCTsType of equipment
+:
+Alaris
+IV Pumps, SCD machines, Hill Rom beds,
+dinamap
+in each room, 3 Welch Allen Vital Machines, Wound
+Vacs, Temporary Pacemakers, Telemetry monitor, EKG Machine, Bladder Scanner, Doppler,
+Imobile
+for communication between team membersDocumentation system:
+MeditechScheduling requirements:
+Must work full time hours including 3 weekend shifts per scheduling period.Floating policy:
+Contract Nurses will be floated to any area where they have demonstrated competency.Patient Experience requirements:
+Must align with our patient experience goals by treating every patient with courtesy and respect and to be responsive to the call light (using patients preferred name, making personal connections, involving the patient in bedside shift report, teaching the patient how to use the phone to call nurse directly, and to always ask if there is anything else you can do before leaving the room).
+Hospital Specifics-
+Certifications:
+ACLS, BLS
+Hiring profile
+
+Requested Skill Set:
+
+
+
+
+Must have:
+Cardiac Telemetry or PCU/ICU experience. Read and interpret EKGs and telemetry strips.
+
+
+
+
+
+
+
+Advanced skills needed:
+Must have experience with post cardiac procedural care (Ablations, cardiac catheterizations, Post Op Day 1 Open Heart, permanent Pacemaker placements). Must be able to administer and titrate IV medications such as insulin, Cardizem,
+Cardene,
+and Amiodarone.
+
+
+
+
+
+
+
+
+
+
+Procedures performed on unit:
+
+IV insertions, NGT placement and maintenance, Chest Tube maintenance, Temporary Pacemakers,
+Foley insertions
+
+
+
+
+
+
+
+Certifications Required:
+ACLS, BLS, NIHSS
+
+
+
+
+
+
+
+Dress Code:
+(Required uniform)
+
+Navy Blue scrubs. May wear black scrub pants with Navy Blue top.
+Unit Guidelines/Policies:
+Please
+attach unit
+specific
+policies and guidelines.
+ICARE Values
+Awards/Recognition:
+
+Please
+include
+anything that you would like prospective candidates to be aware of,
+such as,
+links to videos that feature the department, outstanding department/team awards.
+
+
+
+AHA has awarded us  Get With the Guidelines-Heart Failure GOLD PLUS with Honor Roll 
+
+
+
+Any additional information that would entice a worker to select your unit
+for their assignment:
+
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc.
+Tenured and new staff with a family-like atmosphereMany contracts have been satisfied with our department and transitioned into full time employeesFast-paced environmentUse
+Imobile
+which is an
+iphone
+for faster communication between team members.
+Imobile
+allows texting and phone calls between clinicians. You can also see updated lab results on your patients in real time.
+ General Comments ;url=https://vendor.healthtrustws.com/positions/771870;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Research Medical Center- Travel
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

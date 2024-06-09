@@ -1,0 +1,126 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1883',
+  'Cf-Ray' => '8274ea0f722323c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:CONTRACT - RN - MEDSURG 7S (624) - 7:00PM-7:00AM
+NO ON-CALL REQUIRED
+
+ 
+ 
+ 
+ 
+ 
+BLS
+
+
+ 
+ 
+ 
+ 
+ 
+MedSurg Assessment
+
+
+ 
+ 
+ 
+ 
+ 
+Pharmacology Assessment
+
+
+ 
+ 
+ 
+ 
+ 
+MedSurg Skills
+ General Comments
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 539867
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6727
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 16 2023 22:33:42
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=764607 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=SOUTH AUSTIN HOSPITAL TX ;City=AUSTIN ;State=TX ;Zip=78704 ;Start=10/30/2023;End=1/29/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=CENTRAL AND WEST TEXAS DIVISION (50) ;Shift=7:00PM – 7:00AM ;# of Postions=2;Type=Travel;BillRate=$65.00;OTRate=73 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:CONTRACT - RN - MEDSURG 7S (624) - 7:00PM-7:00AM
+NO ON-CALL REQUIRED
+
+ 
+ 
+ 
+ 
+ 
+BLS
+
+
+ 
+ 
+ 
+ 
+ 
+MedSurg Assessment
+
+
+ 
+ 
+ 
+ 
+ 
+Pharmacology Assessment
+
+
+ 
+ 
+ 
+ 
+ 
+MedSurg Skills
+ General Comments ;url=https://vendor.healthtrustws.com/positions/764607;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => St. David's South Austin Medical Center
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3347',
+  'Cf-Ray' => '8330c40c319c183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Midland Health is seeking an experiencedExperienced Med-Surg RN - NIGHTSPosition Summary We are looking for experienced Med-Surg RNs. This position will float to all Med-Surg areas, Medical, Post-Surgical, Ortho Neuro, Oncology, and COVID unit(s). RN MUST be willing to float to ALL areas and will be assigned to work where our needs are most urgent, given that shift. Flexibility is a MUST!Skills, Knowledge and AbilitiesTexas RN license, or MultistateAmerican Heart Association (AHA) BLS, NIHSSSTRONG Med-Surg experienceHousing is NO longer included. Traveler/Agency will need to secure housing.Mask must be work in all areas of the hospital. Hallways, Cafeteria (unless you are dining), Teaming Stations, Department, Common Areas, Etc.**If a traveler is selected for assignment, a FULL State and County Criminal Background Check is required, not limited to 7 years. **   Additional Information:l   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 542662
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1326
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 09 2023 17:43:12
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261083 ;Status=Open;Association=Midland Memorial Hospital ;Client=Midland Memorial Hospital ;City=Midland ;State=TX ;Zip=79701 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=Nursing ;Specialty=Orthopedic, Oncology Nurse, Neurology, Med-Surg Ortho, Med-surg Adult ;Unit=Orthopedic, Oncology Nurse, Neurology, Med-Surg Ortho, Med-surg Adult ;Shift=NIGHTS;# of Postions=5;Guaranteed Hours=36;Type=Travel;BillRate=$90.00;OTRate=100 ;OTRules=By The Week, after 40, ;HolidayRate=100 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=Midland Health is seeking an experiencedExperienced Med-Surg RN - NIGHTSPosition Summary We are looking for experienced Med-Surg RNs. This position will float to all Med-Surg areas, Medical, Post-Surgical, Ortho Neuro, Oncology, and COVID unit(s). RN MUST be willing to float to ALL areas and will be assigned to work where our needs are most urgent, given that shift. Flexibility is a MUST!Skills, Knowledge and AbilitiesTexas RN license, or MultistateAmerican Heart Association (AHA) BLS, NIHSSSTRONG Med-Surg experienceHousing is NO longer included. Traveler/Agency will need to secure housing.Mask must be work in all areas of the hospital. Hallways, Cafeteria (unless you are dining), Teaming Stations, Department, Common Areas, Etc.**If a traveler is selected for assignment, a FULL State and County Criminal Background Check is required, not limited to 7 years. **   Additional Information:l   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261083;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Midland Memorial Hospital Medefis
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

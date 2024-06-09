@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1041',
+  'Cf-Ray' => '83d40b26318b1834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Cancellation: Clinician unwilling to complete credentialing mid assignment 
+new pay effective 10.29.23.
+	Schulman & Schachne CNA: Bill $48 / Pay $28
+    [sitename] => giftednurses
+    [spec] => LTC
+    [assignmentid] => 538378
+    [workerID] => 238413
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 40
+    [facilityID] => 15907
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-05
+    [workerLastName] => Collins
+    [shiftNum] => 2
+    [workerFirstName] => Kasie
+    [cert] => CNA
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => December, 29 2023 13:18:04
+    [daysPerWeek] => 5
+    [orderNote] => EXTENSION
+BR:$48|RS:135940
+FTK:Kronos & Unsigned Gifted Timecard
+    [guaranteedMinimum] => 
+    [workerEmail] => Collins.kasie92@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 48
+    [facilityName] => Schulman & Schachne Institute (RS)
+    [shiftDateEnd] => 2023-12-20
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

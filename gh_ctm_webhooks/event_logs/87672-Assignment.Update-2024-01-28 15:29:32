@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1795',
+  'Cf-Ray' => '84ca457f322123c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 10/22/2019 0713 MDTCerville Exavier
+					2 years required, prev travel preferred, TX licenses not required for submission, 7p-7a night shift, CERNER EMR preferred, not required. CCS to interview via montage, NM to make final offer.
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 87672
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9547
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-12-16
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 28 2024 10:29:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=Shiftwise;ID=0;SourceID=8414022;Status=Pending;Association=CCS WFS: Seton HealthCare Network;Client=AH: Seton Medical Center - Williamson;City=Round Rock;State=TX;Zip=78665;Start=11/11/2019;End=2/8/2020;Duration=90;Cert=RN;Specialty=ICU;Unit=SMCW Medical ICU;Shift=NOC 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$69.09;minBillRate=$69.09;OTRate= ;OTRules= ;ChargeRate= ;CallbackRate= ;CallbackRate= ;HolidayRate= ;OnCallRateDescription= ;Orientation= ;Description=10/22/2019 0713 MDTCerville Exavier
+					2 years required, prev travel preferred, TX licenses not required for submission, 7p-7a night shift, CERNER EMR preferred, not required. CCS to interview via montage, NM to make final offer.;Buyer= ;VMSPositionType= AvgHoursPerWeek= InterviewRequired=False;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 69.09
+    [facilityName] => Ascension Seton Williamson Hospital
+    [shiftDateEnd] => 2020-03-14
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

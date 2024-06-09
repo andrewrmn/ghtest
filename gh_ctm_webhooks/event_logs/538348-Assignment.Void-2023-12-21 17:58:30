@@ -1,0 +1,160 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4471',
+  'Cf-Ray' => '8392037797f91836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name Emergency Department-RN-Mercy Hospital South
+  
+Organization Mercy
+  
+Facility Mercy Hospital South
+  
+Unit Emergency Department
+  
+Cost Center 15-446400
+  
+
+
+  SHIFT INFO  
+Shift night
+  
+Shifts per week 3
+  
+Hours per shift 12
+  EXPERIENCE  
+Years of Experience
+  
+Specialties Trauma
+-
+required
+  
+Technologies
+  CERTIFICATIONS  
+Certifications
+  
+BLS
+-
+required
+ ACLS
+-
+required
+ NIHSS
+-
+required
+ PALS
+-
+required
+ TNCC
+-
+required
+  DESCRIPTION  
+Utilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards. Required education: Current RN license. Required licensure: Meets the criteria to be eligible for licensure in state of Missouri or currently licensed in the state of Missouri.
+ General Comments
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 538348
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 48
+    [facilityID] => 15624
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-13
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 21 2023 12:58:29
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=769975 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital South ;City=Saint Louis ;State=MO ;Zip=63128 ;Start=11/13/2023;End=2/12/2024;Duration=91;Cert=RN ;Specialty=Emergency Dept ;Unit=Mercy ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$80.00;minBillRate=$80.00;OTRate=88 ;CallbackRate=88 ;HolidayRate=88 ;Orientation=0 ;Description=Description:Name Emergency Department-RN-Mercy Hospital South
+  
+Organization Mercy
+  
+Facility Mercy Hospital South
+  
+Unit Emergency Department
+  
+Cost Center 15-446400
+  
+
+
+  SHIFT INFO  
+Shift night
+  
+Shifts per week 3
+  
+Hours per shift 12
+  EXPERIENCE  
+Years of Experience
+  
+Specialties Trauma
+-
+required
+  
+Technologies
+  CERTIFICATIONS  
+Certifications
+  
+BLS
+-
+required
+ ACLS
+-
+required
+ NIHSS
+-
+required
+ PALS
+-
+required
+ TNCC
+-
+required
+  DESCRIPTION  
+Utilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Performs duties and responsibilities in a manner consistent with our mission, values, and Mercy Service Standards. Required education: Current RN license. Required licensure: Meets the criteria to be eligible for licensure in state of Missouri or currently licensed in the state of Missouri.
+ General CommentsCrisis Credentialing will apply to this position.
+ If you have any questions or for further details, please follow up with the HWS Program Team
+
+Must
+have 1 year of level 2 trauma experienceEpic experience is strongly preferredAll of the following certs are required at time of submissionACLSBLSNIHPALSTNCCAuto offer perimetersOffering 13-26 week assignmentsOffering either 36 or 48 hour/week guaranteeUp to 5 days of RTO is approved.
+ Anything more will have to be sent to Becca for review/approval.Candidates will be expected to work 2 of the major winter holidays (Thanksgiving, Christmas and New Year s)
+ No. of Positions: 1/3.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/769975;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital South - Travel
+    [shiftDateEnd] => 2024-02-12
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

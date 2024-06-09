@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '857',
+  'Cf-Ray' => '86a040b6e1121838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 544945
+    [workerID] => 272454
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 136864
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6647
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-01
+    [workerLastName] => Steele
+    [shiftNum] => 5
+    [workerFirstName] => Jennifer
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:15
+    [whenmodified] => March, 25 2024 12:24:42
+    [daysPerWeek] => 3
+    [orderNote] => $1.54   Insurance
+RTO None
+    [guaranteedMinimum] => 
+    [workerEmail] => jennifersteele03@icloud.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => IHS- Chinle Comprehensive Health Care Travel
+    [shiftDateEnd] => 2024-03-31
+    [shiftStartTime] => 18:45
+    [subjectID] => 
+)

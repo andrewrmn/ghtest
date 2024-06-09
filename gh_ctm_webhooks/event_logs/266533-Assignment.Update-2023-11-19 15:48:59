@@ -1,0 +1,78 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4206',
+  'Cf-Ray' => '828999bc57331834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+TRAVEL RN - MEDICAL SURGICAL
+Start Date: ASAP
+Duration: 13 Weeks
+Shift: NIGHTS (7p-7a)
+Approved Rate: $120parseGeneralComments Comments
+.bd_title { font-weight: bold }
+Backfills for Cheyenne Boelk (ending 8/14/21), Tia Pittaway (ending 7/31/21), and Donna Malcom (ending 8/7/21)
+PCR vacancies 1011-004, 021, and 022
+Reason for opening (special, internal vacancy, leave coverage) Vacancy             *******************************************************************************              How long has it been open?              Will position be required to float to other units? Yes depending on unit needs and RN competencies             Number of beds in your facility? 126             Years of experience required? 1 year of acute care experience             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) Katie Bird, kathleen_bird@cedarparkregional.com             Willing to review clinicians with pending state license? No             Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift) 1900-0700    EMR for your facility: HMS Med/Host             Scrub colors / dress code: Navy blue    Parking location:  Contact: Christopher Stearns Resource Manager: Christopher Stearns
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 266533
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-09-06
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 19 2023 10:48:41
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=504762 ;Status=Open;Association=CHS ;Client=Cedar Park Regional Medical Center ;City=Cedar Park ;State=TX ;Zip=78613 ;Start=ASAP;End=;Duration=91;Cert=Registered Nurse (RN) ;Specialty=Medical Surgical ;Unit=MED/SURG (UNIT/FLOOR 1) ;Shift=7p-7a;# of Postions=3;Type=Travel;BillRate=$120.00;minBillRate=$120.00;Description=Position Description
+TRAVEL RN - MEDICAL SURGICAL
+Start Date: ASAP
+Duration: 13 Weeks
+Shift: NIGHTS (7p-7a)
+Approved Rate: $120parseGeneralComments Comments
+.bd_title { font-weight: bold }
+Backfills for Cheyenne Boelk (ending 8/14/21), Tia Pittaway (ending 7/31/21), and Donna Malcom (ending 8/7/21)
+PCR vacancies 1011-004, 021, and 022
+Reason for opening (special, internal vacancy, leave coverage) Vacancy             *******************************************************************************              How long has it been open?              Will position be required to float to other units? Yes depending on unit needs and RN competencies             Number of beds in your facility? 126             Years of experience required? 1 year of acute care experience             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) Katie Bird, kathleen_bird@cedarparkregional.com             Willing to review clinicians with pending state license? No             Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift) 1900-0700    EMR for your facility: HMS Med/Host             Scrub colors / dress code: Navy blue    Parking location:  Contact: Christopher Stearns Resource Manager: Christopher Stearns ;Buyer=Christopher Stearns ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=504762#!/position/manage/504762;VMSPositionType=Travel minPayRate=$120.00;maxPayRate=$120.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 120
+    [facilityName] => Cedar Park Regional Medical Center
+    [shiftDateEnd] => 2021-12-06
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

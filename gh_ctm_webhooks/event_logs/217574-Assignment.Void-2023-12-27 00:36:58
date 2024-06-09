@@ -1,0 +1,65 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '20',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1524',
+  'Cf-Ray' => '83bd7e08f1b0493d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+N/AparseGeneralComments Comments
+N/A Contact: Jessica Gonzalez Resource Manager: Jessica Gonzalez
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 217574
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 12.5
+    [facilityID] => 9328
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-05-31
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 03:30
+    [whenmodified] => December, 26 2023 19:36:57
+    [daysPerWeek] => 1
+    [orderNote] => Source=Parallon;SourceID=464758 ;Status=Open;Association=HWS ;Client=FAIRVIEW PARK HOSPITAL Dublin GA ;City=Dublin ;State=GA ;Zip=31021 ;Start=5/17/2021;End=8/16/2021;Duration=91;Cert=RN ;Specialty=ED ;Unit=Emergency Dept ;Shift=3:00 AM - 3:00 PM;# of Postions=1;Type=Travel;BillRate=$75.00;Description=Position Description
+N/AparseGeneralComments Comments
+N/A Contact: Jessica Gonzalez Resource Manager: Jessica Gonzalez ;Buyer=Jessica Gonzalez ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=464758#!/position/manage/464758;VMSPositionType=Travel InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Fairview Park Hospital
+    [shiftDateEnd] => 2021-08-30
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

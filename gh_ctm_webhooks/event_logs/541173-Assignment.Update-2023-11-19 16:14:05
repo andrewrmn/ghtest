@@ -1,0 +1,466 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5757',
+  'Cf-Ray' => '8289be7dd2031830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN REHAB13 WEEKS
+
+NIGHTS
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTING
+MUST HAVE ACTIVE VA/COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information: Acute Inpatient Rehabilitation             Location: Henrico Doctors  Hospital - Parham                
+Address: 7700 East   Parham Road
+         
+Floor: 4th
+             
+Building: Main
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds -36
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   10-13
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   1 charge, 6 RN, 3 CNA, and 1-3 sitters
+   
+o
+
+
+   Night Shift - 1 charge, 7 RN, 3 CNA, and 1-3 sitters
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   5/6-1
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   Hoyer/sit to stand   lift
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech
+   
+
+
+             Typical hiring profile             Skill Set Most recruited for:
+   (Travel RNs, local CNAs and sitters)   
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   Medical/surgical   experience or same setting
+   
+ 
+
+
+
+
+
+
+
+   BLS
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+CRRN
+   
+ 
+
+
+
+
+
+
+
+   
+Experienced Rehab Nurse
+   
+
+
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+IV meds/peg tube feedings/heparin drips
+   
+ 
+
+
+
+
+
+
+
+   
+Wound care
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   Positive, energetic, collaborative, caring, dependable 
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   
+BLS
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color   all Navy blue
+    [sitename] => giftednurses
+    [spec] => Rehab
+    [assignmentid] => 541173
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2869
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 19 2023 11:14:01
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771070 ;Status=Pending Approval;Association=HCA Healthcare (Parent) ;Client=HENRICO DOCTORS HOSPITAL-PARHAM VA ;City=RICHMOND ;State=VA ;Zip=23294 ;Start=11/26/2023;End=2/25/2024;Duration=91;Cert=RN ;Specialty=Rehab ;Unit=CAPITAL DIVISION (20) ;Shift=NIGHTS;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=88 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL RN REHAB13 WEEKS
+
+NIGHTS
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTING
+MUST HAVE ACTIVE VA/COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information: Acute Inpatient Rehabilitation             Location: Henrico Doctors  Hospital - Parham                
+Address: 7700 East   Parham Road
+         
+Floor: 4th
+             
+Building: Main
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds -36
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   10-13
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   1 charge, 6 RN, 3 CNA, and 1-3 sitters
+   
+o
+
+
+   Night Shift - 1 charge, 7 RN, 3 CNA, and 1-3 sitters
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   5/6-1
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   Hoyer/sit to stand   lift
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech
+   
+
+
+             Typical hiring profile             Skill Set Most recruited for:
+   (Travel RNs, local CNAs and sitters)   
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   Medical/surgical   experience or same setting
+   
+ 
+
+
+
+
+
+
+
+   BLS
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+CRRN
+   
+ 
+
+
+
+
+
+
+
+   
+Experienced Rehab Nurse
+   
+
+
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+IV meds/peg tube feedings/heparin drips
+   
+ 
+
+
+
+
+
+
+
+   
+Wound care
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   Positive, energetic, collaborative, caring, dependable 
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   
+BLS
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color   all Navy blue ;url=https://vendor.healthtrustws.com/positions/771070;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Henrico Doctors Hospital 
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

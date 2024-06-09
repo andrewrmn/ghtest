@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3328',
+  'Cf-Ray' => '830cd68215ca6a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => The Cardiothoracic Surgical Technologist is a certified technologist and allied health care professional providing an advanced level of surgical care to patients within the operating room under the supervision of perioperative nurses and surgeons. The Surgical Technologist utilizes AORN's Perioperative Standards and Recommended Practices and AST Standards of Practice as a reference to ensure quality, safety and appropriateness of patient careEducationGraduate from an accredited Certificate or Associate Degree program in Surgical Technology.Certification, Registration & LicensureCertification Required: Current American Heart Association Basic Life Support for Healthcare Providers certification, or equivalent course credentialed by American Heart Association.Medical Technician - NH Board of Registration of Medical TechniciansNational Board of Surgical Technology and Surgical Assisting certification   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 543232
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2169
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 05 2023 09:04:22
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261363 ;Status=Open;Association=Concord Hospital ;Client=Concord Hospital ;City=Concord ;State=NH ;Zip='03301 ;Start=11/20/2023;End=5/20/2024;Duration=182;Cert=Nursing ;Specialty=Surgical Technologist ;Unit=Surgical Technologist ;Shift=Rotating shifts with call;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$90.00;OTRate=95 ;OTRules=By The Week, after 40, ;CallbackRate=95 (All Inclusive Rate + $5) ;HolidayRate=95 (All Inclusive Rate + $5) ;OnCallRateDescription=$3 per hour pager ;Description=The Cardiothoracic Surgical Technologist is a certified technologist and allied health care professional providing an advanced level of surgical care to patients within the operating room under the supervision of perioperative nurses and surgeons. The Surgical Technologist utilizes AORN's Perioperative Standards and Recommended Practices and AST Standards of Practice as a reference to ensure quality, safety and appropriateness of patient careEducationGraduate from an accredited Certificate or Associate Degree program in Surgical Technology.Certification, Registration & LicensureCertification Required: Current American Heart Association Basic Life Support for Healthcare Providers certification, or equivalent course credentialed by American Heart Association.Medical Technician - NH Board of Registration of Medical TechniciansNational Board of Surgical Technology and Surgical Assisting certification   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261363;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Concord Hospital
+    [shiftDateEnd] => 2024-06-23
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

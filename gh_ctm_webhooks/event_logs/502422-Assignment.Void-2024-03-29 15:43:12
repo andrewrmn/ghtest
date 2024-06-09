@@ -1,0 +1,87 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '53',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3556',
+  'Cf-Ray' => '86c0f965f1b97b12-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => School
+    [assignmentid] => 502422
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Contract
+    [hoursPerWeek] => 37.5
+    [facilityID] => 13977
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 1
+    [bonus] => 
+    [shiftDateStart] => 2023-10-30
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => SLP
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:30
+    [whenmodified] => March, 29 2024 11:43:11
+    [daysPerWeek] => 5
+    [orderNote] => SLPs: Our SLP positions work 7.5 hours per day on student contact days with late starts and early releases worked as full days.  SLPs are required to have an ESA cert and clear fingerprint check, as well as a WA DoH license in place and NPI #.  CCC is preferred due to the difficulty in providing Supervision, however CFs can be considered
+
+In person is preferred, however would consider teletherapy for middle school and high school caseloads. 
+
+
+
+Bethel SchoolDistrict in Spanaway, WA has been working on staffing for the 2023- school year and we still have some openings we need to fill.  Below are the vacancies we're looking to address! 
+
+ 
+
+OTs: Our Occupational Therapists work 7.5 hours per day on all student days according to the district calendar.  OTs are required to have an ESA cert and clear fingerprint check, as well as a WA DoH license in place and NPI #. New grads are welcome, but someone with pediatric experience is preferred.   In person only - remainder of current 23/24 SY.
+
+ 
+
+SLPs: Our SLP positions work 7.5 hours per day on student contact days with late starts and early releases worked as full days.  SLPs are required to have an ESA cert and clear fingerprint check, as well as a WA DoH license in place and NPI #.  CCC is preferred due to the difficulty in providing Supervision, however CFs can be considered
+
+In person is preferred, however would consider teletherapy for middle school and high school caseloads. 
+
+ 
+
+SLP(A): Our SLP(A) positions work 7.5 hours per day on student contact days, with late starts and early releases worked as full days.  We have three (3) openings.  SLP(A)'s are required to have a Speech-Language Pathology Assistant program certificate or Bachelor's degree from a speech, language and hearing program.  A clear fingerprint check, current Washington DOH SLPA certificate/license and NPI # is required before starting. Experience in a school setting is desirable; communication disorder experience strongly preferred. General knowledge of communication disorders.  At this time, we are considering in-person applicants (no tele) only.
+
+ 
+
+School Psychologists:  Our School Psychs work 7.5 hours per day on student contact days with late starts and early releases worked as full days. Psychologists are required to have an ESA cert and clear fingerprint check before starting, and there is no requirement to have a license issued by the Dept of Health. An experienced school psych is highly preferred. School Psychologists get 5 extra days before school begins to review the records of new students at their building(s) in preparation of the upcoming school year. In person only.  In person is preferred.
+
+ 
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Bethel School District
+    [shiftDateEnd] => 2024-06-12
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

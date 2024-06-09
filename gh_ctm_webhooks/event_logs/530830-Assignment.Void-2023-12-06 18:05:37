@@ -1,0 +1,85 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2873',
+  'Cf-Ray' => '83167541d76623c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Unit: Cardiac Cath Lab - Mercy Hospital Springfield
+Specialty: Cardiac Cath Lab/ Radiology TechnologistShift: Days,
+4x10, 0630-1700
+(hours may vary), with rotational Weeknight/Weekend/Holiday call
+Guaranteed Hours: 36
+
+Assignment Length: 13 weeksRequired Certifications:
+Radiology Technologist
+Required Experience:
+2 years Radiology TechMust be willing to float when neededMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsAssist with our 8 Cardiologist in our new Philips imaging procedure rooms and Hybrid suite. Work with a team of Nurses who will monitor and circulate cases. We are a growing structural program and a Level I Stemi center.
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 530830
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13126
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Cath Lab Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 06 2023 13:05:36
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=758967 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Springfield ;City=Springfield ;State=MO ;Zip=65804 ;Start=11/8/2023;End=2/7/2024;Duration=91;Cert=Cardiac Cath Lab Tech ;Specialty=Cardiac Cath Lab ;Unit=Mercy ;Shift=07:00-19:00;# of Postions=1;Type=Travel;BillRate=$95.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Unit: Cardiac Cath Lab - Mercy Hospital Springfield
+Specialty:
+Cath Lab/Vascular Radiology Technologist (THIS IS NOT AN XRAY TECH POSITION)Shift: Days,
+4x10, 0630-1700
+(hours may vary), with rotational Weeknight/Weekend/Holiday call
+Guaranteed Hours: 36
+
+Assignment Length: 13 weeksRequired Certifications:
+Radiology Technologist
+Required Experience:
+2 years
+Radiology Tech/Interventional VascularMust be willing to float when neededMUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsAssist with our 8 Cardiologist in our new Philips imaging procedure rooms and Hybrid suite. Work with a team of Nurses who will monitor and circulate cases. We are a growing structural program and a Level I Stemi center.
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/758967;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Mercy Hospital Springfield TRAVEL
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

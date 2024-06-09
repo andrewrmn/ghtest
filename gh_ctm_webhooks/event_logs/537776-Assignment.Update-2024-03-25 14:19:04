@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '54',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '947',
+  'Cf-Ray' => '869f88a6d7448795-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: End Date Change
+Ending 3/23/2024
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 537776
+    [workerID] => 195967
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13727
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => Cooley
+    [shiftNum] => 4
+    [workerFirstName] => Dana
+    [cert] => RN
+    [floorDesc] => 3E
+    [Subject] => 
+    [shiftEndTime] => 19:15
+    [whenmodified] => March, 25 2024 10:19:03
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$90lRS:135815lFTK:API
+OnCl:P$3/B$7
+FTK:  API no GH timesheets
+    [guaranteedMinimum] => 
+    [workerEmail] => sksmom14@hotmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Anderson Regional Medical Center TRAVEL MEDEFIS
+    [shiftDateEnd] => 2024-03-23
+    [shiftStartTime] => 06:45
+    [subjectID] => 
+)

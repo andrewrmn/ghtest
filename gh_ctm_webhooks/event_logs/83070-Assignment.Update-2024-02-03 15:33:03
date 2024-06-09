@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '53',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2012',
+  'Cf-Ray' => '84fbbaea477c7b12-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 09/10/2019 0930 MDTCerville Exavier					Must have a min of 2yrs exp in PICU. Children's hosp exp is strongly preferred. PALS req. ACLS a plus. OH and/or NICU exp a strong plus. Any RTO must be requested on profile and at time of submission. Traveler will ill float w/in crit care pedi units if needed. IVS to interview via montage. NM to make the final offer.
+    [sitename] => giftednurses
+    [spec] => PICU
+    [assignmentid] => 83070
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2478
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-11-18
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => February, 03 2024 10:32:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;ID=0;SourceID=8346200;Status=;Association=CCS WFS: Seton HealthCare Network;Client=AH: Dell Children's Medical Center;City=Austin;State=TX;Zip=78723;Start=9/30/2019;End=12/28/2019;Duration=90;Cert=RN;Specialty=PICU;Unit=DCMC Pediatric ICU;Shift=AM 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$70.23;OTRate= ;OTRules= ;ChargeRate= ;CallbackRate= ;CallbackRate= ;HolidayRate= ;OnCallRateDescription= ;Orientation= ;Description=09/10/2019 0930 MDTCerville Exavier					Must have a min of 2yrs exp in PICU. Children's hosp exp is strongly preferred. PALS req. ACLS a plus. OH and/or NICU exp a strong plus. Any RTO must be requested on profile and at time of submission. Traveler will ill float w/in crit care pedi units if needed. IVS to interview via montage. NM to make the final offer.;Buyer= ;VMSPositionType=  AvgHoursPerWeek=  InterviewRequired=False;WinterPlanNeed=;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70.23
+    [facilityName] => Dell Children's Medical Center
+    [shiftDateEnd] => 2020-02-15
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

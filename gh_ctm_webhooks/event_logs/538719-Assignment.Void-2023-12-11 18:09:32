@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1765',
+  'Cf-Ray' => '833fade2f0c51842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Labor and delivery, post-partum and mother and baby care in a Critical Access Hospital.  Epic experience.   Position Urgency:Quick Start Billing string = Vernon Memorial Healthcare
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 538719
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1402
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-25
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 11 2023 13:09:32
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=260521 ;Status=Open;Association=Vernon Memorial Healthcare ;Client=Vernon Memorial Healthcare ;City=Viroqua ;State=WI ;Zip=54665-2096 ;Start=11/6/2023;End=1/29/2024;Duration=84;Cert=Nursing ;Specialty=Post Partum, Labor and Delivery Nurse ;Unit=Post Partum, Labor and Delivery Nurse ;Shift=12 hour nights, 7p-7a, every 3rd weekend;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$85.00;OTRate=85 ;OTRules=By The Week, after 40, ;HolidayRate=85 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=Labor and delivery, post-partum and mother and baby care in a Critical Access Hospital.  Epic experience.   Position Urgency:Quick Start Billing string = Vernon Memorial Healthcare ;url=https://vms.medefis5.com/jobs/260521;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Vernon Memorial Hospital
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

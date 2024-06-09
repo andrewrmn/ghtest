@@ -1,0 +1,80 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2807',
+  'Cf-Ray' => '83615c4c87d377bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Pediatric Cardio Echo Tech 
+MUST HAVE Pediatric Cardio ECHO TECH experience. 
+CCI and ARDMS are fine (required send with submission)
+PALS is not required
+Shift - staggered start times between 7:00am and 9:00am; 8 hour shift Mon-Fri On call generally starts after first 30 days, depending upon ability to learn protocol. On call is one week (5 days). If on call is over the weekend, it starts Friday 5pm and ends Monday at 7am. Rotation frequency depends upon # staff (currently 4) so would occur approximately once every 5 weeks.
+CHRISTUS The Children s Hospital of San Antonio
+333 N Santa Rosa St, San Antonio, TX 78207
+Assignment Length: 13 Weeks
+EMR Used: Meditech
+Hours Guaranteed: 40
+    [sitename] => giftednurses
+    [spec] => Echocardiography
+    [assignmentid] => 546074
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 12782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Echo Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 15 2023 15:15:22
+    [daysPerWeek] => 4
+    [orderNote] => Source=StafferLink;SourceID=7952543 ;Status=O;Association=CHRISTUS Santa Rosa Health Care (STX) ;Client=CHRISTUS Santa Rosa Health Care (STX) ;City=San Antonio ;State=TX ;Zip=78207 ;Start=1/8/2024;End=4/6/2024;Duration=90;Cert=Echocardiogram Tech ;Specialty=Cardiology Non Inv 2615 / 502 ;Unit=Cardiology Non Inv 2615 / 502 ;Shift=07:00:00 - 17:00:00;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$125.00;Description=Pediatric Cardio Echo Tech 
+MUST HAVE Pediatric Cardio ECHO TECH experience.
+Experience with Fetal highly preferred.  Inpatient and outpatient experience with complex congenital cardiac anomalies. 
+CCI and ARDMS are fine (required send with submission)
+PALS is not required
+Shift - staggered start times between 7:00am and 9:00am; 8 hour shift Mon-Fri On call generally starts after first 30 days, depending upon ability to learn protocol. On call is one week (5 days). If on call is over the weekend, it starts Friday 5pm and ends Monday at 7am. Rotation frequency depends upon # staff (currently 5) so would occur approximately once every 5 weeks.
+CHRISTUS The Children s Hospital of San Antonio
+333 N Santa Rosa St, San Antonio, TX 78207
+Assignment Length: 13 Weeks
+EMR Used: Meditech
+Hours Guaranteed: 40 ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 125
+    [facilityName] => CHRISTUS Santa Rosa Hospital - Medical Center
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

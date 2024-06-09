@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3120',
+  'Cf-Ray' => '82925bbcd53a1834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DEPARTMENT DESCRIPTIONThe Intensive Care Unit provides direct care or influences care for acutely/critically ill patients who are at high risk for actual or potential life-threatening health problems. The ICU provides care through advanced knowledge and experience in a setting that provides intensive monitoring, assessments, and interventions.EXPERIENCE/EDUCATION/QUALIFICATIONSCurrent unencumbered Oregon RN license required upon submission.Healthcare Provider Level AHA BLS required upon submission.GSR ICU-CCU:ACLS, PALS and TNCC preferred with initial contract, required for extensions. Previous ICU experience preferred.Verification of high school diploma or equivalent required due to the College of American Pathologists (CAP) requirements for moderate complexity testing.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 545095
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5820
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-20
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 20 2023 12:19:31
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261917 ;Status=Open;Association=Samaritan Health Services ;Client=Good Samaritan Regional Medical Center ;City=Corvallis ;State=OR ;Zip=97330 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=Nursing ;Specialty=Intensive Care / Coronary Nurse (ICU) ;Unit=Intensive Care / Coronary Nurse (ICU) ;Shift=Nights (1900-0730) rotating weekends;# of Postions=3;Guaranteed Hours=36;Type=Travel;BillRate=$95.00;OTRate=105 ;OTRules=By The Week, after 40, ;CallbackRate=95 (All Inclusive Rate) ;HolidayRate=105 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=DEPARTMENT DESCRIPTIONThe Intensive Care Unit provides direct care or influences care for acutely/critically ill patients who are at high risk for actual or potential life-threatening health problems. The ICU provides care through advanced knowledge and experience in a setting that provides intensive monitoring, assessments, and interventions.EXPERIENCE/EDUCATION/QUALIFICATIONSCurrent unencumbered Oregon RN license required upon submission.Healthcare Provider Level AHA BLS required upon submission.GSR ICU-CCU:ACLS, PALS and TNCC preferred with initial contract, required for extensions. Previous ICU experience preferred.Verification of high school diploma or equivalent required due to the College of American Pathologists (CAP) requirements for moderate complexity testing.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261917;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Good Samaritan Regional Medical Center
+    [shiftDateEnd] => 2024-02-19
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

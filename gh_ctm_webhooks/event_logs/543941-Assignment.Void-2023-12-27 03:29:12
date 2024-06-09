@@ -1,0 +1,453 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6837',
+  'Cf-Ray' => '83be7a50e02c23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Any candidate going to Northwest must be fully vaccinated - declinations are not accepted.
+
+
+8:30PM-7AM
+ 
+7on 7 off  
+
+
+          
+Week 1
+         
+Week 2
+             
+Sun
+         
+Mon
+         
+Tue
+         
+Wed
+         
+Thu
+         
+Fri
+         
+Sat
+         
+Sun
+         
+Mon
+         
+Tue
+         
+Wed
+         
+Thu
+         
+Fri
+         
+Sat
+             
+Off
+         
+Off
+         
+Off
+         
+Off
+         
+ON
+         
+ON
+         
+ON
+         
+ON
+         
+ON
+         
+ON
+         
+ON
+         
+Off
+         
+Off
+         
+Off
+             
+0
+         
+0
+         
+0
+         
+0
+         
+10
+         
+10
+         
+10
+         
+10
+         
+10
+         
+10
+         
+10
+         
+0
+         
+0
+         
+0
+             
+30 total hours
+         
+40 total hours
+        
+
+
+
+Unit Information:
+
+CT
+
+Location:
+HCA Houston Healthcare Northwest
+
+Address:
+710 Cypress Creek Parkway, Houston, TX 77090
+
+Floor:
+1
+
+Building:
+main
+
+
+
+
+General Information
+
+Tell us about the unit(s):
+Number of Beds -
+
+417; 95-150 CT exams per dayNumber of Staff
+ 
+variesType of staff:Day Shift  
+when fully staffed, up to 5 + transporterNight Shift
+-
+
+when
+fully staffed 2 + transporterPatient
+Ratios
+ 
+n/aType of equipment
+ 
+GE Rev Evo 63 slice x 3EMR -
+Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+
+
+
+
+
+Must have:
+
+candidates without these skills will not be considered for the role.
+GE Scanner experienceExperience in both CT and CTA
+Preferred or nice to have:
+
+candidates with these skills will be considered first.
+
+Trauma & stroke experience
+
+List typical procedures performed on unit(s):
+
+
+
+
+CT & CTA head, body, neuro, extremity including run offs and PerfusionPolytrauma
+Panscans; CT/CTA/CTP for stroke
+
+
+Best personality Fit:
+
+Self-directed, communicative, hardworking, team player and ability to work independent
+REQUIRED CERTIFICATIONS:
+ARRT (CT) and BLS (American Red Cross or American Heart Association)
+Floating Area(s):
+
+
+Dress Code:
+Scrub Color/Attire
+-
+
+Hunter
+Green
+
+
+
+Unit Guidelines/Policies:
+Please feel free to attach unit policies and guidelines.
+
+
+
+
+
+Weekends and On
+call(if any)
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 543941
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 2515
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-15
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 06:30
+    [whenmodified] => December, 26 2023 22:29:11
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=769908 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA Houston Northwest ;City=Houston ;State=TX ;Zip=77090 ;Start=12/17/2023;End=3/17/2024;Duration=91;Cert=CT Tech ;Specialty=Radiology ;Unit=GULF COAST DIVISION (14) ;Shift=6:00PM - 6:30AM;# of Postions=1;Type=Travel;BillRate=$95.00;minBillRate=$95.00;OTRate=103 ;CallbackRate=103 ;HolidayRate=103 ;Orientation=0 ;Description=Description:Any candidate going to Northwest must be fully vaccinated - declinations are not accepted.
+
+
+8:30PM-7AM
+ 
+7on 7 off  
+
+
+          
+Week 1
+         
+Week 2
+             
+Sun
+         
+Mon
+         
+Tue
+         
+Wed
+         
+Thu
+         
+Fri
+         
+Sat
+         
+Sun
+         
+Mon
+         
+Tue
+         
+Wed
+         
+Thu
+         
+Fri
+         
+Sat
+             
+Off
+         
+Off
+         
+Off
+         
+Off
+         
+ON
+         
+ON
+         
+ON
+         
+ON
+         
+ON
+         
+ON
+         
+ON
+         
+Off
+         
+Off
+         
+Off
+             
+0
+         
+0
+         
+0
+         
+0
+         
+10
+         
+10
+         
+10
+         
+10
+         
+10
+         
+10
+         
+10
+         
+0
+         
+0
+         
+0
+             
+30 total hours
+         
+40 total hours
+        
+
+
+
+Unit Information:
+
+CT
+
+Location:
+HCA Houston Healthcare Northwest
+
+Address:
+710 Cypress Creek Parkway, Houston, TX 77090
+
+Floor:
+1
+
+Building:
+main
+
+
+
+
+General Information
+
+Tell us about the unit(s):
+Number of Beds -
+
+417; 95-150 CT exams per dayNumber of Staff
+ 
+variesType of staff:Day Shift  
+when fully staffed, up to 5 + transporterNight Shift
+-
+
+when
+fully staffed 2 + transporterPatient
+Ratios
+ 
+n/aType of equipment
+ 
+GE Rev Evo 63 slice x 3EMR -
+Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+
+
+
+
+
+Must have:
+
+candidates without these skills will not be considered for the role.
+GE Scanner experienceExperience in both CT and CTA
+Preferred or nice to have:
+
+candidates with these skills will be considered first.
+
+Trauma &amp; stroke experience
+
+List typical procedures performed on unit(s):
+
+
+
+
+CT &amp; CTA head, body, neuro, extremity including run offs and PerfusionPolytrauma
+Panscans; CT/CTA/CTP for stroke
+
+
+Best personality Fit:
+
+Self-directed, communicative, hardworking, team player and ability to work independent
+REQUIRED CERTIFICATIONS:
+ARRT (CT) and BLS (American Red Cross or American Heart Association)
+Floating Area(s):
+
+
+Dress Code:
+Scrub Color/Attire
+-
+
+Hunter
+Green
+
+
+
+Unit Guidelines/Policies:
+Please feel free to attach unit policies and guidelines.
+
+
+
+
+
+Weekends and On
+call(if any)
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/769908;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Houston Northwest Medical Center
+    [shiftDateEnd] => 2024-04-15
+    [shiftStartTime] => 18:00
+    [subjectID] => 
+)

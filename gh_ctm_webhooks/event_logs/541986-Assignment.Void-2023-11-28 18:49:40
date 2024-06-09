@@ -1,0 +1,425 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6532',
+  'Cf-Ray' => '82d4cacd420a1836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Unit Information:
+   Aventura MC   CT Tech (726)Location: 
+Aventura Hospital and Medical Center
+Address: 20900   Biscayne Blvd, Aventura, FL, 33180
+
+Floor:
+
+Building:
+
+
+
+General InformationTell us about the unit(s): 
+ 
+
+
+
+
+
+   Number of Beds - 18
+
+ 
+
+
+
+
+
+   Number of Staff   
+8
+
+ 
+
+
+
+
+
+   Type of staff: Radiologist,   radiologist techs, Ultrasound Techs, MRI Techs, CT Techs
+
+o
+
+   Day Shift   Director, Radiologist, 6-7   Techs
+
+o
+
+   Night Shift   Charge RN, On-call team,   3-4 Techs, varies on volume
+
+ 
+
+
+
+
+
+   Patient Ratios   1:1, 1:2, depending   on stability of patient
+
+ 
+
+
+
+
+
+   Type of equipment   ALL GE Equipment,   MRI Units, scanners, cameras, x-ray, fluoroscopy
+
+ 
+
+
+
+
+
+   EMR - Meditech
+Typical hiring profileSkill Set Most recruited for:
+   (Travel RNs, local CNAs and sitters)
+
+Must have:
+   candidates without these skills will not be considered for the role.
+
+ 
+
+
+
+
+
+ ARRT (CT) &amp; BLS 
+
+ 
+
+
+
+
+
+ Strongly prefer experience with GE and   Meditech
+
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+
+ 
+
+
+
+
+
+ RT (T), ASRT 
+
+ 
+
+
+
+
+
+ FASRT
+
+List typical procedures performed on unit(s): 
+
+
+ 
+
+
+
+
+
+ CT Scan, MRI, body scanner , X-Rays
+
+ 
+
+
+
+
+
+ Create pictures of bones, organs, tissues and   combine to create accurate picture assessment
+Best personality Fit:
+ 
+
+
+
+
+
+   Communications skills, medical and anatomical skills, mechanical   aptitude 
+
+ 
+
+
+
+
+
+   Ability to multi-task, work with variety of physicians,   radiologists, patients
+
+Dress Code: Include requirements, but most of   all not acceptable attire.
+
+ 
+
+
+
+
+
+   Scrub Color -
+ Navy Blue
+
+ 
+
+
+
+
+
+   
+
+Awards/Recognition: 
+Feel free to include items such as   links to videos that feature the department, outstanding department/team   awards, reigning annual chili cook-off winners, etc.
+ 
+ 
+
+
+
+
+
+   New 1.2 million state of the art   computed tomography scanner just added 
+
+ 
+
+
+
+
+
+   Certified comprehensive Stroke Center,   American Heart Gold Plus Achievement Award
+ General Comments
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 541986
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 2820
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 3
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 28 2023 13:49:40
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=766253 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA FLORIDA AVENTURA HOSPITAL ;City=AVENTURA ;State=FL ;Zip=33180 ;Start=11/13/2023;End=2/12/2024;Duration=91;Cert=CT Tech ;Specialty=Radiology ;Unit=EAST FLORIDA DIVISION (22) ;Shift=10:30PM - 7:00AM;# of Postions=1;Type=Travel;BillRate=$85.00;OTRate=93 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Unit Information:
+   Aventura MC   CT Tech (726)Location: 
+Aventura Hospital and Medical Center
+Address: 20900   Biscayne Blvd, Aventura, FL, 33180
+
+Floor:
+
+Building:
+
+
+
+General InformationTell us about the unit(s): 
+ 
+
+
+
+
+
+   Number of Beds - 18
+
+ 
+
+
+
+
+
+   Number of Staff   
+8
+
+ 
+
+
+
+
+
+   Type of staff: Radiologist,   radiologist techs, Ultrasound Techs, MRI Techs, CT Techs
+
+o
+
+   Day Shift   Director, Radiologist, 6-7   Techs
+
+o
+
+   Night Shift   Charge RN, On-call team,   3-4 Techs, varies on volume
+
+ 
+
+
+
+
+
+   Patient Ratios   1:1, 1:2, depending   on stability of patient
+
+ 
+
+
+
+
+
+   Type of equipment   ALL GE Equipment,   MRI Units, scanners, cameras, x-ray, fluoroscopy
+
+ 
+
+
+
+
+
+   EMR - Meditech
+Typical hiring profileSkill Set Most recruited for:
+   (Travel RNs, local CNAs and sitters)
+
+Must have:
+   candidates without these skills will not be considered for the role.
+
+ 
+
+
+
+
+
+ ARRT (CT) &amp; BLS 
+
+ 
+
+
+
+
+
+ Strongly prefer experience with GE and   Meditech
+
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+
+ 
+
+
+
+
+
+ RT (T), ASRT 
+
+ 
+
+
+
+
+
+ FASRT
+
+List typical procedures performed on unit(s): 
+
+
+ 
+
+
+
+
+
+ CT Scan, MRI, body scanner , X-Rays
+
+ 
+
+
+
+
+
+ Create pictures of bones, organs, tissues and   combine to create accurate picture assessment
+Best personality Fit:
+ 
+
+
+
+
+
+   Communications skills, medical and anatomical skills, mechanical   aptitude 
+
+ 
+
+
+
+
+
+   Ability to multi-task, work with variety of physicians,   radiologists, patients
+
+Dress Code: Include requirements, but most of   all not acceptable attire.
+
+ 
+
+
+
+
+
+   Scrub Color -
+ Navy Blue
+
+ 
+
+
+
+
+
+   
+
+Awards/Recognition: 
+Feel free to include items such as   links to videos that feature the department, outstanding department/team   awards, reigning annual chili cook-off winners, etc.
+ 
+ 
+
+
+
+
+
+   New 1.2 million state of the art   computed tomography scanner just added 
+
+ 
+
+
+
+
+
+   Certified comprehensive Stroke Center,   American Heart Gold Plus Achievement Award
+ General Comments
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/766253;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Aventura Hospital & Medical Center
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 22:30
+    [subjectID] => 
+)

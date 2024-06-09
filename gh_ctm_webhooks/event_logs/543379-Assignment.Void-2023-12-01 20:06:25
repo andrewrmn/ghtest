@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4386',
+  'Cf-Ray' => '82edf355b7e01464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => EXPERIENCE/EDUCATION/QUALIFICATIONSCurrent documentation of certification to practice surgical technology in Oregon required.Option 1Successful completion of a training program for surgical technologists in a branch of the armed forces of the United States or in the United States Public Health Service Commissioned Corp.Successful completion of 16 hours of continuing education every two (2) years relevant to the medical-surgical practice of surgical technology.Option 2Successful completion of a surgical technology education program accredited by the Commission on Accreditation of Allied Health Education Program (CAAHEP) or Accrediting Bureau of Health Education Schools (ABHES).Certification as a surgical technologist issued by the National Board of Surgical Technology and Surgical Assisting (NBSTSA) or successful completion of the CAAHEP or ABHES educational program within the past twelve months.Option 3Candidate has practiced surgical technology at least two (2) years between January 1, 2014 and January 1, 2017 in a hospital, ambulatory surgical center or as an employee of a federal government agency or institution.Successful completion of 16 hours of continuing education every two (2) years relevant to the medical-surgical practice of surgical technology.Healthcare Provider American Heart Association BLS required upon submission.Experience or training in computer applications preferred.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 543379
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5820
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:15
+    [whenmodified] => December, 01 2023 15:05:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261411 ;Status=Open;Association=Samaritan Health Services ;Client=Good Samaritan Regional Medical Center ;City=Corvallis ;State=OR ;Zip=97330 ;Start=11/9/2023;End=2/8/2024;Duration=91;Cert=Nursing ;Specialty=Surgical Technologist ;Unit=Surgical Technologist ;Shift=Days (0645-1730), rotating weekends;# of Postions=2;Guaranteed Hours=40;Type=Travel;BillRate=$80.00;OTRate=90 ;OTRules=By The Week, after 40, ;CallbackRate=80 (All Inclusive Rate) ;HolidayRate=90 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=EXPERIENCE/EDUCATION/QUALIFICATIONSCurrent documentation of certification to practice surgical technology in Oregon required.Option 1Successful completion of a training program for surgical technologists in a branch of the armed forces of the United States or in the United States Public Health Service Commissioned Corp.Successful completion of 16 hours of continuing education every two (2) years relevant to the medical-surgical practice of surgical technology.Option 2Successful completion of a surgical technology education program accredited by the Commission on Accreditation of Allied Health Education Program (CAAHEP) or Accrediting Bureau of Health Education Schools (ABHES).Certification as a surgical technologist issued by the National Board of Surgical Technology and Surgical Assisting (NBSTSA) or successful completion of the CAAHEP or ABHES educational program within the past twelve months.Option 3Candidate has practiced surgical technology at least two (2) years between January 1, 2014 and January 1, 2017 in a hospital, ambulatory surgical center or as an employee of a federal government agency or institution.Successful completion of 16 hours of continuing education every two (2) years relevant to the medical-surgical practice of surgical technology.Healthcare Provider American Heart Association BLS required upon submission.Experience or training in computer applications preferred.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261411;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Good Samaritan Regional Medical Center
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 06:45
+    [subjectID] => 
+)

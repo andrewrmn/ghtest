@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '963',
+  'Cf-Ray' => '82fd4e4c31da23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 546257
+    [workerID] => 149180
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => Approved Time Off: None.
+Special Notes: Will work every other weekend.
+    [status] => filled
+    [ordertype] => Extension Local
+    [hoursPerWeek] => 36
+    [facilityID] => 13733
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-02
+    [workerLastName] => Hendrix
+    [shiftNum] => 4
+    [workerFirstName] => Allison
+    [cert] => RN
+    [floorDesc] => Obs
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 03 2023 11:49:56
+    [daysPerWeek] => 3
+    [orderNote] => EXT-FTK: API no GH timesheets
+OnCl:P$3/B$5
+BR:$65
+    [guaranteedMinimum] => 
+    [workerEmail] => allison_hauer@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Anderson Regional Medical Center MEDEFIS
+    [shiftDateEnd] => 2024-02-24
+    [shiftStartTime] => 06:45
+    [subjectID] => 
+)

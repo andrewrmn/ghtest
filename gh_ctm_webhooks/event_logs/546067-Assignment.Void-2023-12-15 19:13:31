@@ -1,0 +1,67 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2132',
+  'Cf-Ray' => '8361011ca7221463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:$40 Bill RateShift 7a-7p36 Hours a Week, including weekendsRequired: High School Diploma or GEDRecommended: Surgical Technician Program GraduatePreferred: Surgical Technologist/Technician experience in a medical or hospital settingRequired: Current BLSPreferred: Certificate from Surgical Training Program
+ General CommentsPCR#1028-0029
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 546067
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2326
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 15 2023 14:13:31
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=778314 ;Status=Open;Association=Community Health Systems ;Client=Mountainview Regional Medical Center ;City=Las Cruces ;State=NM ;Zip=88011 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=CST/ORT ;Specialty=OR ;Unit=EXT-Other (911) ;Shift=07:00-19:00;# of Postions=1;Type=Travel;BillRate=$40.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:$40 Bill RateShift 7a-7p36 Hours a Week, including weekendsRequired: High School Diploma or GEDRecommended: Surgical Technician Program GraduatePreferred: Surgical Technologist/Technician experience in a medical or hospital settingRequired: Current BLSPreferred: Certificate from Surgical Training Program
+ General CommentsPCR#1028-0029
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/778314;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 40
+    [facilityName] => Mountainview Regional Medical Center
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

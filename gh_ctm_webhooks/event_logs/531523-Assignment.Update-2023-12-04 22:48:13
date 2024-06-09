@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '882',
+  'Cf-Ray' => '8307987cb5f71466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: End Date Change
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 531523
+    [workerID] => 177355
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13918
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-22
+    [workerLastName] => Marek
+    [shiftNum] => 5
+    [workerFirstName] => Tina
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 04 2023 17:48:13
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION 
+BR:$98lRS:134604lFTK:GiftTC(signed)
+    [guaranteedMinimum] => 
+    [workerEmail] => tmarek21@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 98
+    [facilityName] => Sweetwater Hospital Association TRAVEL
+    [shiftDateEnd] => 2023-12-15
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

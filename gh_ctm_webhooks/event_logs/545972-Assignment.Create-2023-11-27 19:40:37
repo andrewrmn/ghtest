@@ -1,0 +1,122 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3271',
+  'Cf-Ray' => '82ccd80cc4be23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => NO LOCAL CANDIDATES - Travelers will not be considered if working perm or per diem elsewhere
+
+Billable at 70% of the bill rate up to the first 36hrs
+
+RN Cath Lab
+CHRISTUS Highland Medical Center
+1453 E Bert Kouns Industrial Loop, Shreveport, LA, 71105
+
+Shift: 5-8hr Days - 6:45a-3:15p
+BR: $80
+EOW, EOH
+Guarantee: 40hrs
+Call: Yes & Weekends
+EMR: Meditech
+Scrubs: Provided
+Upcoming Ories: 12/18, 1/8
+
+REQUIRED at the time of submission
+Min 2yr of RN Cath Lab exp
+Travel exp required
+BLS thru AHA
+ACLS thru AHA
+EKG Exam (during on-boarding)
+
+Louisiana contractors   must obtain an additional background check for county and sex offender search in Louisiana within 45 days, (Preferred vendor used by CHRISTUS is Southern Research but other vendors accepted   refer to the LA State Police Authorized Agencies List for additional agencies)
+
+SUBMISSION REQUIREMENTS   in 1pdf file
+Filled out coversheet (blank coversheet attached)
+Resume/work history
+Skills checklist
+LIC Verification
+Certifications
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 545972
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 12829
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 27 2023 14:40:36
+    [daysPerWeek] => 5
+    [orderNote] => Source=StafferLink;SourceID=7943697 ;Status=O;Association=CHRISTUS Shreveport-Bossier (LA) ;Client=CHRISTUS Shreveport-Bossier (LA) ;City=Shreveport ;State=LA ;Zip=71105 ;Start=12/18/2023;End=3/16/2024;Duration=90;Cert=RN Cath Lab ;Specialty=Cardiology Cath 2605 / 491 ;Unit=Cardiology Cath 2605 / 491 ;Shift=06:45:00 - 15:15:00;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$80.00;Description=NO LOCAL CANDIDATES - Travelers will not be considered if working perm or per diem elsewhere
+
+Billable at 70% of the bill rate up to the first 36hrs
+
+RN Cath Lab
+CHRISTUS Highland Medical Center
+1453 E Bert Kouns Industrial Loop, Shreveport, LA, 71105
+
+Shift: 5-8hr Days - 6:45a-3:15p
+BR: $80
+EOW, EOH
+Guarantee: 40hrs
+Call: Yes & Weekends
+EMR: Meditech
+Scrubs: Provided
+Upcoming Ories: 12/18, 1/8
+
+REQUIRED at the time of submission
+Min 2yr of RN Cath Lab exp
+Travel exp required
+BLS thru AHA
+ACLS thru AHA
+EKG Exam (during on-boarding)
+
+Louisiana contractors   must obtain an additional background check for county and sex offender search in Louisiana within 45 days, (Preferred vendor used by CHRISTUS is Southern Research but other vendors accepted   refer to the LA State Police Authorized Agencies List for additional agencies)
+
+SUBMISSION REQUIREMENTS   in 1pdf file
+Filled out coversheet (blank coversheet attached)
+Resume/work history
+Skills checklist
+LIC Verification
+Certifications ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => CHRISTUS Highland Medical Center - Travel
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

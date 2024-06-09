@@ -1,0 +1,98 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4014',
+  'Cf-Ray' => '86f5afed944377ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 4E Medical Unit 
+Nights, 7p-730a
+Every 3rd weekend, every other holiday
+JOB SUMMARY 
+This position accepts the responsibility and accountability for the delivery of patient care with the multidisciplinary team while using the nursing process and maintaining professional nursing standards.   
+POSITION QUALIFICATIONS
+A.	Education
+           1. Current RN licensure in the state of Iowa, or qualified multistate licensure required.
+           2. Bachelor of Science in Nursing preferred.
+
+B.	Experience
+1.	Previous experience in acute care preferred.
+
+C.	Special Skills and Competencies: 
+1.	Preferred professional certification in related to clinical specialty (from the Magnet approved certifications)
+2.	Ability to work on multiple projects at one time and flexibility to meet department needs.
+3.	Self-motivated, detail oriented individual able to work with minimum supervision.
+4.	Must be able to read, write and/or speak English.
+5.     Must provide proof of Basic Life Support (BLS Provider-American Heart Association or Professional Rescuer-American Red Cross) prior to employment or within 30 days of hire and maintains current status.
+6.     Must provide proof of Mandatory Reporting for Child and Dependent Adult Abuse training prior to employment or within 6 months of hire and maintain current status per State of Iowa guidelines.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 536643
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12691
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-04-29
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => April, 04 2024 21:14:41
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=47437 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne North Iowa Medical Center ;City=Mason City ;State=IA ;Zip=50401 ;Start=4/8/2024;End=7/14/2024;Duration=97;Cert=RN Medical / Surgical ;Specialty=NSG - Medical (4E) ;Unit=*Registered Nurse-Med Surg-NSG - Medical (4E) ;Shift=1900-0730;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=104.00 ;ChargeRate=83.00 ;CallbackRate=104.00 ;HolidayRate=104.00 ;Description=4E Medical Unit 
+Nights, 7p-730a
+Every 3rd weekend, every other holiday
+JOB SUMMARY 
+This position accepts the responsibility and accountability for the delivery of patient care with the multidisciplinary team while using the nursing process and maintaining professional nursing standards.   
+POSITION QUALIFICATIONS
+A.	Education
+           1. Current RN licensure in the state of Iowa, or qualified multistate licensure required.
+           2. Bachelor of Science in Nursing preferred.
+
+B.	Experience
+1.	Previous experience in acute care preferred.
+
+C.	Special Skills and Competencies: 
+1.	Preferred professional certification in related to clinical specialty (from the Magnet approved certifications)
+2.	Ability to work on multiple projects at one time and flexibility to meet department needs.
+3.	Self-motivated, detail oriented individual able to work with minimum supervision.
+4.	Must be able to read, write and/or speak English.
+5.     Must provide proof of Basic Life Support (BLS Provider-American Heart Association or Professional Rescuer-American Red Cross) prior to employment or within 30 days of hire and maintains current status.
+6.     Must provide proof of Mandatory Reporting for Child and Dependent Adult Abuse training prior to employment or within 6 months of hire and maintain current status per State of Iowa guidelines. ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 
+    [offContractRate] => 80
+    [facilityName] => Mercy Medical Center - North Iowa East Travel
+    [shiftDateEnd] => 2024-08-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

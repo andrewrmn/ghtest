@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '28',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '9800',
+  'Cf-Ray' => '8304cb53937e495d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => **Traveler must include and/or meet all minimum requirements below to be consider.**Do not submit candidates who have or will have expiring licenses and/or certifications during time frame of entire assignment. Candidates will automatically be declined.**Only submit profile who can work schedule in posting and interested in the unit.We are seeking a Registered Nurse to:Nurses will provide intensive care to patients who are acutely ill from a neurological deficit.This unit specialized in subarachnoid hemorrhages, un-stables ischemic and hemorrhage strokes, traumatic brain and spinal cord injury. The Neuroscience ICU is a 16 bed ICU which provides ICP monitoring and hemodynamic monitoring of unstable patients. The Neuroscience ICU will provide nurses the opportunity to work with severe neurological, neurovascular and neurosurgical populations.Minimum Requirements:  Facility Requirement:    Traveler must have permanent address outside50mile radius of Madison (address must be included in       traveler's profile).  Experience:    Must have experience in ICP or ventric.ICU experience requiredTraveler must have completed two years of acute care experience       within last 3 years.   Traveler must have experience in an Academic Level 1 -       Trauma center or similar size hospital.   Successfully completed traveler assignment       (13 weeks).  Licensure and Certification:   Traveler must have WI nursing license or compact       license from their permanent address state.*Will consider candidates without WI or compact license       but must apply for a temporary license under the Wisconsin Act 10 order       within 48 hours of offer accepted and provide screenshot of application       submitted. Traveler must complete this requirement prior to being       cleared to start.   BLS and ACLS   must       be certified through American Heart Association ONLY  Reference   Needs 2 references from recent work       environment/assignments (supervisor or manager only).  Telemetry    Traveler must have Basic Arrhythmia experience. Will       be required to pass Telemetry test prior to arrival at UWHC. (Not for clinic       positions)   Telemetry Competency: (Please note the Inpatient/Outpatient       OR RN s do not complete telemetry)All agency travelers must demonstrate       competency in interpretation of cardiac rhythms before your orientation       begins. Previous completion of PALS, ACLS, etc. is not acceptable as a       demonstration of this competency. Instead, you will be expected to       satisfactorily complete a 20 question test which consists of multiple       choice questions and write-in rhythm identification. You must pass with       an overall score of 80% and correctly identify 100% of the 4 life-threatening       rhythms for your patient population (adult or peds). If there are any       questions, please refer to earlier communication from UWHC to your       agency.  Floating    Travelers are the first to float to       floors working with children up to 1 year of age. The Traveler may have       shifts scheduled in multiple units, depending on the current staffing       needs. During the traveler s assignment, if the primary unit no longer       has a need, shifts will be re-assigned to another unit in order to       complete contract. Location:University Hospital, 600 Highland Ave, Madison, WI 53792Parking:Permit required through UW Transportation. University Hospitalin Madison is a Magnet -designated facility that sranked Wisconsin s #1 hospitaland considered one of the nation's leading hospitals, teaching institutions and referral centers.   Additional Information: 	UW Health is moving away from using outdated file formats for Microsoft (Word, PowerPoint, and Excel). Profiles will need to be submitted in the following format: .docx, .xlsx and .pptx file types or our IS department will be blocking them and we will no longer receive the files nor able to forward internal to our hiring managers.-------------------------------------   	QuantiFERON/TSpot results will NOT be accepted for any reason   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 546276
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3538
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => December, 04 2023 09:38:38
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262274 ;Status=Open;Association=UW Health ;Client=UW Health University Hospital ;City=Madison ;State=WI ;Zip=53792 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Nursing ;Specialty=Neurology ICU, Intensive Care / Coronary Nurse (ICU) ;Unit=Neurology ICU, Intensive Care / Coronary Nurse (ICU) ;Shift=36 hrs/week, Day/Night, 12 hr shifts between 0700-1930, 1900-0730. Every other weekend rotation, some holidays.;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$112.00;OTRate=122 ;OTRules=By The Week, after 40, ;CallbackRate=112 (All Inclusive Rate) ;HolidayRate=122 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=**Traveler must include and/or meet all minimum requirements below to be consider.**Do not submit candidates who have or will have expiring licenses and/or certifications during time frame of entire assignment. Candidates will automatically be declined.**Only submit profile who can work schedule in posting and interested in the unit.We are seeking a Registered Nurse to:Nurses will provide intensive care to patients who are acutely ill from a neurological deficit.This unit specialized in subarachnoid hemorrhages, un-stables ischemic and hemorrhage strokes, traumatic brain and spinal cord injury. The Neuroscience ICU is a 16 bed ICU which provides ICP monitoring and hemodynamic monitoring of unstable patients. The Neuroscience ICU will provide nurses the opportunity to work with severe neurological, neurovascular and neurosurgical populations.Minimum Requirements:  Facility Requirement:    Traveler must have permanent address outside50mile radius of Madison (address must be included in       traveler's profile).  Experience:    Must have experience in ICP or ventric.ICU experience requiredTraveler must have completed two years of acute care experience       within last 3 years.   Traveler must have experience in an Academic Level 1 -       Trauma center or similar size hospital.   Successfully completed traveler assignment       (13 weeks).  Licensure and Certification:   Traveler must have WI nursing license or compact       license from their permanent address state.*Will consider candidates without WI or compact license       but must apply for a temporary license under the Wisconsin Act 10 order       within 48 hours of offer accepted and provide screenshot of application       submitted. Traveler must complete this requirement prior to being       cleared to start.   BLS and ACLS   must       be certified through American Heart Association ONLY  Reference   Needs 2 references from recent work       environment/assignments (supervisor or manager only).  Telemetry    Traveler must have Basic Arrhythmia experience. Will       be required to pass Telemetry test prior to arrival at UWHC. (Not for clinic       positions)   Telemetry Competency: (Please note the Inpatient/Outpatient       OR RN s do not complete telemetry)All agency travelers must demonstrate       competency in interpretation of cardiac rhythms before your orientation       begins. Previous completion of PALS, ACLS, etc. is not acceptable as a       demonstration of this competency. Instead, you will be expected to       satisfactorily complete a 20 question test which consists of multiple       choice questions and write-in rhythm identification. You must pass with       an overall score of 80% and correctly identify 100% of the 4 life-threatening       rhythms for your patient population (adult or peds). If there are any       questions, please refer to earlier communication from UWHC to your       agency.  Floating    Travelers are the first to float to       floors working with children up to 1 year of age. The Traveler may have       shifts scheduled in multiple units, depending on the current staffing       needs. During the traveler s assignment, if the primary unit no longer       has a need, shifts will be re-assigned to another unit in order to       complete contract. Location:University Hospital, 600 Highland Ave, Madison, WI 53792Parking:Permit required through UW Transportation. University Hospitalin Madison is a Magnet -designated facility that sranked Wisconsin s #1 hospitaland considered one of the nation's leading hospitals, teaching institutions and referral centers.   Additional Information: 	UW Health is moving away from using outdated file formats for Microsoft (Word, PowerPoint, and Excel). Profiles will need to be submitted in the following format: .docx, .xlsx and .pptx file types or our IS department will be blocking them and we will no longer receive the files nor able to forward internal to our hiring managers.-------------------------------------   	QuantiFERON/TSpot results will NOT be accepted for any reason   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262274;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 112
+    [facilityName] => University of Wisconsin Hospital and Clinics
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

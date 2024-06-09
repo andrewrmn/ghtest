@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2687',
+  'Cf-Ray' => '829af0cfe3751836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DEPARTMENT DESCRIPTIONThe LDRP team offers labor, delivery and recovery including post partum and newborn care by a highly trained team of nurses and medical staff in a family centered caring and medically safe environment. All sites are trained in GYN surgical care.EXPERIENCE/EDUCATION/QUALIFICATIONSCurrent unencumbered Oregon RN license required upon submission.Healthcare Provider Level AHA BLS required upon submission.PCH LDRP:Basic Fetal Monitoring skills required.NRP and STABLE preferred with initial contract, required for extensions.Previous experience in Labor and Delivery preferred.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 545392
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1358
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-26
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:15
+    [whenmodified] => November, 21 2023 13:19:23
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262007 ;Status=Open;Association=Samaritan Health Services ;Client=Samaritan Pacific Communities Hospital ;City=Newport ;State=OR ;Zip=97365 ;Start=1/26/2024;End=4/26/2024;Duration=91;Cert=Nursing ;Specialty=LDRP ;Unit=LDRP ;Shift=Days (0645-1915), every other weekend;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$110.00;OTRate=120 ;OTRules=By The Week, after 40, ;CallbackRate=110 (All Inclusive Rate) ;HolidayRate=120 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=DEPARTMENT DESCRIPTIONThe LDRP team offers labor, delivery and recovery including post partum and newborn care by a highly trained team of nurses and medical staff in a family centered caring and medically safe environment. All sites are trained in GYN surgical care.EXPERIENCE/EDUCATION/QUALIFICATIONSCurrent unencumbered Oregon RN license required upon submission.Healthcare Provider Level AHA BLS required upon submission.PCH LDRP:Basic Fetal Monitoring skills required.NRP and STABLE preferred with initial contract, required for extensions.Previous experience in Labor and Delivery preferred.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262007;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => Samaritan Pacific Communities Hospital
+    [shiftDateEnd] => 2024-04-26
+    [shiftStartTime] => 06:45
+    [subjectID] => 
+)

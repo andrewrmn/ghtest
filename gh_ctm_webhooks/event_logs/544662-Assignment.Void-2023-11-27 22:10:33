@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '22',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1853',
+  'Cf-Ray' => '82cdb3ace74d4945-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Certifications Needed  Specific Requirements: WA State Registered Nurse License and American Heart Association ACLS CardCoverage not needed on Christmas   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Endoscopy
+    [assignmentid] => 544662
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13430
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 27 2023 17:10:32
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261782 ;Status=Open;Association=Skagit Regional Health ;Client=Skagit Valley Hospital ;City=Mt Vernon ;State=WA ;Zip=98273 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Nursing ;Specialty=Endoscopy Nurse ;Unit=Endoscopy Nurse ;Shift=Variable Shift, 0700-1900, call required, floating as necessary. ;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$105.00;OTRate=115 ;OTRules=By The Week, after 40, ;CallbackRate=115 (All Inclusive Rate + $10) ;HolidayRate=115 (All Inclusive Rate + $10) ;OnCallRateDescription=$4 per hour pager ;Description=Certifications Needed  Specific Requirements: WA State Registered Nurse License and American Heart Association ACLS CardCoverage not needed on Christmas   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261782;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Skagit Valley Hospital
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

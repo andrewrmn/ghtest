@@ -1,0 +1,160 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '22',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2933',
+  'Cf-Ray' => '82a446e802454945-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name
+
+ICU-RN-Ada
+
+Facility
+
+Mercy
+
+Location
+
+Mercy Hospital Ada
+
+Unit
+
+Intensive Care Unit
+
+Cost Center
+
+404406123
+
+
+Shift
+Night
+Shifts per week
+
+3
+
+Hours per shift
+
+12
+
+Years of Experience 2+Specialties
+Critical Care
+-
+required
+
+REQUIRES EPIC EXPERIENCE
+Certifications AHA Only
+BLS
+-
+required
+ACLS
+-
+preferred
+NIHSS
+-
+required
+
+Overview The Registered Nurse, utilizing theoretical concepts as a basis for decisions in practice will assess, plan, implement and evaluate individualized nursing care in accordance with standards of nursing practice for adult/geriatric patients. Travelers must be willing to float to other areas within the scope of their competencies.
+ General Comments
+ No. of Positions: 2/2.
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 545732
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3240
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-25
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 22 2023 16:31:01
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=777795 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Ada ;City=Ada ;State=OK ;Zip=74820 ;Start=12/25/2023;End=3/25/2024;Duration=91;Cert=RN ;Specialty=ICU ;Unit=Mercy ;Shift=19:00-07:00;# of Postions=2;Type=Travel;BillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Name
+
+ICU-RN-Ada
+
+Facility
+
+Mercy
+
+Location
+
+Mercy Hospital Ada
+
+Unit
+
+Intensive Care Unit
+
+Cost Center
+
+404406123
+
+
+Shift
+Night
+Shifts per week
+
+3
+
+Hours per shift
+
+12
+
+Years of Experience 2+Specialties
+Critical Care
+-
+required
+
+REQUIRES EPIC EXPERIENCE
+Certifications AHA Only
+BLS
+-
+required
+ACLS
+-
+preferred
+NIHSS
+-
+required
+
+Overview The Registered Nurse, utilizing theoretical concepts as a basis for decisions in practice will assess, plan, implement and evaluate individualized nursing care in accordance with standards of nursing practice for adult/geriatric patients. Travelers must be willing to float to other areas within the scope of their competencies.
+ General Comments
+ No. of Positions: 2/2. ;url=https://vendor.healthtrustws.com/positions/777795;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital Ada-Travel
+    [shiftDateEnd] => 2024-03-25
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

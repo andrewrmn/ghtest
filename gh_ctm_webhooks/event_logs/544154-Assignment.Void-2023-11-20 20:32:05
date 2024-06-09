@@ -1,0 +1,99 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4047',
+  'Cf-Ray' => '829375cf37b61466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Porter Hospital
+Travel CST
+ Start: ASAP
+ Duration: 13 weeks
+ Shift: Days, 5x8hr, M-F, call rotation    **$75/hr rate approved**CPR certification required
+**Completion of an accredited surgical technology program required
+**Strong ortho, ortho-spine, neuro, general, robotics, gyne, urology &amp; cysto experience required
+
+Surgical technologists prepare the operating room, including the sterile field, setting up surgical equipment, supplies and solutions. During surgery, surgical technologists pass instruments, fluids and supplies to the surgeon and prepare and manage surgical equipment. Surgical technologists simultaneously manage the sterile field and specimens. Surgical technologists perform a count of sponges and supplies to prevent foreign retained objects. Surgical technologists are certified following successful completion of a CAAHEP-accredited program or other programmatically-accredited surgical technology program and the national Certified Surgical Technologist (CST) examination administered by the National Board of Surgical Technology and Surgical Assisting.
+ General Comments$75 Bill Rate
+
+Day Shift 5 8 hour shifts M-F call rotation
+
+13 weeks
+
+Completion of an accredited surgical technology program
+
+CPR certification
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 544154
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 10832
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 20 2023 15:32:04
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=775290 ;Status=Open;Association=Community Health Systems ;Client=Porter Hospital ;City=Valparaiso ;State=IN ;Zip=46383-0000 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=CST/ORT ;Specialty=OR ;Unit=EXT-Other (911) ;Shift=06:45-15:15;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Porter Hospital
+Travel CST
+ Start: ASAP
+ Duration: 13 weeks
+ Shift: Days, 5x8hr, M-F, call rotation    **$75/hr rate approved**CPR certification required
+**Completion of an accredited surgical technology program required
+**Strong ortho, ortho-spine, neuro, general, robotics, gyne, urology &amp; cysto experience required
+
+Surgical technologists prepare the operating room, including the sterile field, setting up surgical equipment, supplies and solutions. During surgery, surgical technologists pass instruments, fluids and supplies to the surgeon and prepare and manage surgical equipment. Surgical technologists simultaneously manage the sterile field and specimens. Surgical technologists perform a count of sponges and supplies to prevent foreign retained objects. Surgical technologists are certified following successful completion of a CAAHEP-accredited program or other programmatically-accredited surgical technology program and the national Certified Surgical Technologist (CST) examination administered by the National Board of Surgical Technology and Surgical Assisting.
+ General Comments$75 Bill Rate
+
+Day Shift 5 8 hour shifts M-F call rotation
+
+13 weeks
+
+Completion of an accredited surgical technology program
+
+CPR certification
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/775290;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Porter Hospital Travel
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

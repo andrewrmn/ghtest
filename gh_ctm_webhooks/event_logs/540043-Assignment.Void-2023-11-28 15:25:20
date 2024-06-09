@@ -1,0 +1,596 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7226',
+  'Cf-Ray' => '82d39f77468f23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN PCU13 WEEKS
+7:00AM - 7:00PM
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE VA LICENSE/COMPACT AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+   3West - MPCU             Location: LewisGale Medical Center             
+Address: 1900   Electric Road, Salem, VA 24153
+         
+Floor: 3 West
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds -
+ 32
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   1 Clinical Coordinator,   7-8 RN, 3 PCT, 1 Secretary
+   
+o
+
+
+   Night Shift   7-8 RN, 2 PCT
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   4 :1 or 5:1
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   GE heart monitors,   Welch Allyn Vital machines
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech
+   
+
+
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   Progressive   Care experience
+   
+ 
+
+
+
+
+
+
+
+   Work with   Cardiac drips / reading rhythm strips
+   
+ 
+
+
+
+
+
+
+
+   Some   experience with CVA patients
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   CVA   experience (dedicated CVA/TIA unit) 
+   
+ 
+
+
+
+
+
+
+
+   Bipap/   Cpap experience
+   
+ 
+
+
+
+
+
+
+
+   Ability   to multi-task, good time management skills
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   Easy going
+   
+ 
+
+
+
+
+
+
+
+   Enjoys or thrives in busy work environment
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   BLS, ACLS
+   
+ 
+
+
+
+
+
+
+
+   NIH
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   Other PCU
+   
+ 
+
+
+
+
+
+
+
+   MedSurg if needed
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire - Solid navy or   white. No prints
+   
+
+
+             
+Unit Guidelines/Policies: 
+   
+ 
+
+
+
+
+
+
+
+   Participation   in patient experience tools   bedside report, utilization of white board,   open communication with patient on plan of care
+   
+
+
+             Weekends and On call:   
+ 
+
+
+
+
+
+
+
+   Typically   every other weekend, unless requests additional weekends
+   
+ 
+
+
+
+
+
+
+
+   Night shift   weekend considerer Friday and Saturday night
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 540043
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7323
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 28 2023 10:25:19
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771035 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=LEWISGALE MEDICAL CENTER VA ;City=SALEM ;State=VA ;Zip=24153 ;Start=11/26/2023;End=2/25/2024;Duration=91;Cert=RN ;Specialty=PCU ;Unit=CAPITAL DIVISION (20) ;Shift=7A-7P;# of Postions=1;Type=Travel;BillRate=$88.00;OTRate=96 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL RN PCU13 WEEKS
+7:00AM - 7:00PM
+
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE VA LICENSE/COMPACT AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+   3West - MPCU             Location: LewisGale Medical Center             
+Address: 1900   Electric Road, Salem, VA 24153
+         
+Floor: 3 West
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds -
+ 32
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   1 Clinical Coordinator,   7-8 RN, 3 PCT, 1 Secretary
+   
+o
+
+
+   Night Shift   7-8 RN, 2 PCT
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   4 :1 or 5:1
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   GE heart monitors,   Welch Allyn Vital machines
+   
+ 
+
+
+
+
+
+
+
+   EMR   Meditech
+   
+
+
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   Progressive   Care experience
+   
+ 
+
+
+
+
+
+
+
+   Work with   Cardiac drips / reading rhythm strips
+   
+ 
+
+
+
+
+
+
+
+   Some   experience with CVA patients
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   CVA   experience (dedicated CVA/TIA unit) 
+   
+ 
+
+
+
+
+
+
+
+   Bipap/   Cpap experience
+   
+ 
+
+
+
+
+
+
+
+   Ability   to multi-task, good time management skills
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   Easy going
+   
+ 
+
+
+
+
+
+
+
+   Enjoys or thrives in busy work environment
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   BLS, ACLS
+   
+ 
+
+
+
+
+
+
+
+   NIH
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   Other PCU
+   
+ 
+
+
+
+
+
+
+
+   MedSurg if needed
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire - Solid navy or   white. No prints
+   
+
+
+             
+Unit Guidelines/Policies: 
+   
+ 
+
+
+
+
+
+
+
+   Participation   in patient experience tools   bedside report, utilization of white board,   open communication with patient on plan of care
+   
+
+
+             Weekends and On call:   
+ 
+
+
+
+
+
+
+
+   Typically   every other weekend, unless requests additional weekends
+   
+ 
+
+
+
+
+
+
+
+   Night shift   weekend considerer Friday and Saturday night
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/771035;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 88
+    [facilityName] => LewisGale Medical Center Salem Campus Travel
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

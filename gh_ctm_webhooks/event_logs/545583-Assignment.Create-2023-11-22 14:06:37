@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '22',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5214',
+  'Cf-Ray' => '82a1bbe7b6084945-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => JOB SUMMARYUnder the general direction of the Clinical Nurse Manager and the direct supervision of the Clinical Leader/Charge Nurse, the ST functions to facilitate the safe and effective outcome of intraoperative surgical procedures. The ST processes expertise in the theory and application of sterile and aseptic technique in accordance with the nursing practice standards established by the specific unit/department in accordance with the rules, and regulations and/or standards established by the State Board of Nursing, the Joint Commission for Accreditation of Health Care Organizations, AORN and AST and appropriate specialty organizations relevant to the patient population under care.JOB REQUIREMENTSEducation:  Associates degree in Surgical Technology  Surgical Technologist CertificationExperience  Clinical experience in acute care setting as a Surgical technologist preferredCore ValuesCompassionWe show respect, caring, and sensitivity towards all, honoring the dignity of each person, especially the poor, vulnerable, and suffering.IntegrityWe promote justice and ethical behavior and responsibly steward our human, financial and environmental resources.CollaborationWe work in partnership, dialogue, and shared purpose to create healthy communities.ExcellenceWe deliver all services with the highest level of quality while seeking creative innovation.We are an equal opportunity, affirmative action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, age, disability status, gender, sexual orientation, ancestry, protected veteran status, national origin, genetic information or any other legally protected status.   Additional Information:**Up to 16 hours of orientation is unpaid **St. Joseph has the right to cancel up to 3 shifts per 13 week contract   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 545583
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 9545
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-20
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 22 2023 09:06:36
+    [daysPerWeek] => 5
+    [orderNote] => Source=Medefis5;SourceID=259129 ;Status=Open;Association=St. Joseph Hospital - Nashua ;Client=St Joseph Hospital - Nashua ;City=Nashua ;State=NH ;Zip='03060 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=Nursing ;Specialty=Surgical Technologist, Scrub Technologist ;Unit=Surgical Technologist, Scrub Technologist ;Shift=7a-3p day shift;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$85.00;OTRate=85 ;OTRules=By The Week, after 40, ;CallbackRate=85 (All Inclusive Rate) ;HolidayRate=85 (All Inclusive Rate) ;OnCallRateDescription=$3 per hour pager ;Description=JOB SUMMARYUnder the general direction of the Clinical Nurse Manager and the direct supervision of the Clinical Leader/Charge Nurse, the ST functions to facilitate the safe and effective outcome of intraoperative surgical procedures. The ST processes expertise in the theory and application of sterile and aseptic technique in accordance with the nursing practice standards established by the specific unit/department in accordance with the rules, and regulations and/or standards established by the State Board of Nursing, the Joint Commission for Accreditation of Health Care Organizations, AORN and AST and appropriate specialty organizations relevant to the patient population under care.JOB REQUIREMENTSEducation:  Associates degree in Surgical Technology  Surgical Technologist CertificationExperience  Clinical experience in acute care setting as a Surgical technologist preferredCore ValuesCompassionWe show respect, caring, and sensitivity towards all, honoring the dignity of each person, especially the poor, vulnerable, and suffering.IntegrityWe promote justice and ethical behavior and responsibly steward our human, financial and environmental resources.CollaborationWe work in partnership, dialogue, and shared purpose to create healthy communities.ExcellenceWe deliver all services with the highest level of quality while seeking creative innovation.We are an equal opportunity, affirmative action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, age, disability status, gender, sexual orientation, ancestry, protected veteran status, national origin, genetic information or any other legally protected status.   Additional Information:**Up to 16 hours of orientation is unpaid **St. Joseph has the right to cancel up to 3 shifts per 13 week contract   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/259129;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => St. Joseph Hospital - Nashua
+    [shiftDateEnd] => 2024-02-19
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

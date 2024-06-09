@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '923',
+  'Cf-Ray' => '827af811814c6a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 544887
+    [workerID] => 98653
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3320
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => Kneipp
+    [shiftNum] => 4
+    [workerFirstName] => Alyssa
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:15
+    [whenmodified] => November, 17 2023 16:11:56
+    [daysPerWeek] => 3
+    [orderNote] => FTK: Vaya/SignCorrectionReq
+OnCl:P$2.50/B$5
+Ornt:$20/NB:8hrs;32hr70%NB
+POT:$40.02>40hrs
+BR:$105
+    [guaranteedMinimum] => 
+    [workerEmail] => Alyssakneipp@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Ochsner Medical Center- Main Campus Travel
+    [shiftDateEnd] => 2024-03-02
+    [shiftStartTime] => 06:45
+    [subjectID] => 
+)

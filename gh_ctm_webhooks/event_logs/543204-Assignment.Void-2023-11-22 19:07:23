@@ -1,0 +1,67 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '12298',
+  'Cf-Ray' => '82a3747ba1db23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description: POSITION SUMMARYThis position provides comprehensive care coordination for patients as assigned. This position assesses the patients plan of care and develops, implements, monitors and documents the utilization of resources and progress of the patient through their care, facilitating options and services to meet the patients health care needs. The intensity of care coordination provided is situational and appropriate based on patient need and payer requirements. This position is accountable for the quality of clinical services delivered by both them and others and identifies/resolves barriers which may hinder effective patient care.CORE FUNCTIONS1. Manages individual patients across the health care continuum to achieve the optimal clinical, financial, operational, and satisfaction outcomes.2. Acts in a leadership function with process improvement activities for populations of patients to achieve the optimal clinical, financial, operational, and satisfaction outcomes.3. Acts in a leadership function to collaboratively develop and manage the interdisciplinary patient discharge plan. Effectively communicates the plan across the continuum of care.4. Evaluates the medical necessity and appropriateness of care, optimizing patient outcomes. Assesses patient admissions and continued stay utilizing standard criteria. Identifies issues that may delay patient discharge and facilitates resolution of these issues.5. Establishes and promotes a collaborative relationship with physicians, payers, and other members of the health care team. Collects and communicates pertinent, timely information to payers and others to fulfill utilization and regulatory requirements.6. Educates internal members of the health care team on case management and managed care concepts. Facilitates integration of concepts into daily practice.7. May supervise other staff.8. Has freedom to determine how to best accomplish functions within established procedures. Confers with supervisor on any unusual situations. Positions are entity based with no budgetary responsibility. Internal customers: All levels of nursing management and staff, medical staff, and all other members of the interdisciplinary health care team. External Customers: Physicians and their office staff, payers, community agencies, provider networks, and regulatory agencies.Performs all functions according to established policies, procedures, regulatory and accreditation requirements, as well as applicable professional standards. Provides all customers of Banner Health with an excellent service experience by consistently demonstrating our core and leader behaviors each and every day.NOTE: The core functions are intended to describe the general content of and requirements of this position and are not intended to be an exhaustive statement of duties. Specific tasks or responsibilities will be documented as outlined by the incumbent's immediate manager.SUPERVISORY RESPONSIBILITIESDIRECTLY REPORTINGMay supervise other staff.MATRIX OR INDIRECT REPORTINGNoneTYPE OF SUPERVISORY RESPONSIBILITIESN/ABanner Health Leadership will strive to uphold the mission, values, and purpose of the organization. They will serve as role models for staff and act in a people-centered, service excellence-focused, and results-oriented manner.PHYSICAL DEMANDS/ENVIRONMENT FACTORSDP - Typical Direct Patient Care environment: (Nutrition Rep, Chaplain, RN)Able to stand, walk, bend, squat, reach, and stretch frequently.Possess physical agility and adequate reaction time to respond quickly and appropriately to unexpected patient care needs.Needs adequate hearing and visual acuity, including adequate color vision.Requires fine motor skills, adequate eye-hand coordination, and ability to grasp and handle objects.Able to use proper body mechanics to assist patients in ambulating, transferring in and out of bed, chair or wheelchair.May be required to lift up to 75 pounds.Must use standard precautions due to threat of exposure to blood and bodily fluids.Needs ability to communicate effectively through reading, writing, and speaking in person or on telephone.May require periodic use of personal computer.MINIMUM QUALIFICATIONSMust possess knowledge of case management or utilization review as normally obtained through the completion of a bachelor's degree in case management or health care.Requires current Registered Nurse (R.N.) license in state worked. For assignments in an acute care setting, Basic Life Support (BLS) certification is also required.Requires a proficiency level typically achieved with 3-5 years clinical experience. Must have a working knowledge of care management, acute care and/or home care environments, community resources and resource/utilization management. Must demonstrate critical thinking skills, problem-solving abilities, effective communication skills, and time management skills. Must demonstrate ability to work effectively in an interdisciplinary team format. For assignments in an acute care setting, must be able to work flexible hours and take rotating call after hours. Banner Registry and Travel positions require a minimum of one year experience in an acute care hospital and/or home care setting. Experience must include working in an acute care and/or home care setting within the past 12 months as a Case Manager in the specialty area.PREFERRED QUALIFICATIONSCCM (Certified Case Manager) preferredAdditional related education and/or experience preferred.
+ 
+DATE APPROVED  11/06/2016
+ Must have skills: 7001
+    [sitename] => giftednurses
+    [spec] => Case Mgmt
+    [assignmentid] => 543204
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 12643
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 22 2023 14:07:22
+    [daysPerWeek] => 5
+    [orderNote] => Source=VNDLYBanner;SourceID=10111 ;Status=Active;Client=BUMC Phoenix (1111 E McDowell Rd) ;City=Phoenix ;State=AZ ;Zip=85006 ;Start=11/20/2023;End=2/17/2024;Duration=89;Cert=Clinical Nursing ;Specialty=RN Case Manager NE ;Unit=Associate Director, Social Work Care Coordination (Kaylyn Clymer) ;Shift=8:00-16:30;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$100.00;Description=Description: POSITION SUMMARYThis position provides comprehensive care coordination for patients as assigned. This position assesses the patients plan of care and develops, implements, monitors and documents the utilization of resources and progress of the patient through their care, facilitating options and services to meet the patients health care needs. The intensity of care coordination provided is situational and appropriate based on patient need and payer requirements. This position is accountable for the quality of clinical services delivered by both them and others and identifies/resolves barriers which may hinder effective patient care.CORE FUNCTIONS1. Manages individual patients across the health care continuum to achieve the optimal clinical, financial, operational, and satisfaction outcomes.2. Acts in a leadership function with process improvement activities for populations of patients to achieve the optimal clinical, financial, operational, and satisfaction outcomes.3. Acts in a leadership function to collaboratively develop and manage the interdisciplinary patient discharge plan. Effectively communicates the plan across the continuum of care.4. Evaluates the medical necessity and appropriateness of care, optimizing patient outcomes. Assesses patient admissions and continued stay utilizing standard criteria. Identifies issues that may delay patient discharge and facilitates resolution of these issues.5. Establishes and promotes a collaborative relationship with physicians, payers, and other members of the health care team. Collects and communicates pertinent, timely information to payers and others to fulfill utilization and regulatory requirements.6. Educates internal members of the health care team on case management and managed care concepts. Facilitates integration of concepts into daily practice.7. May supervise other staff.8. Has freedom to determine how to best accomplish functions within established procedures. Confers with supervisor on any unusual situations. Positions are entity based with no budgetary responsibility. Internal customers: All levels of nursing management and staff, medical staff, and all other members of the interdisciplinary health care team. External Customers: Physicians and their office staff, payers, community agencies, provider networks, and regulatory agencies.Performs all functions according to established policies, procedures, regulatory and accreditation requirements, as well as applicable professional standards. Provides all customers of Banner Health with an excellent service experience by consistently demonstrating our core and leader behaviors each and every day.NOTE: The core functions are intended to describe the general content of and requirements of this position and are not intended to be an exhaustive statement of duties. Specific tasks or responsibilities will be documented as outlined by the incumbent's immediate manager.SUPERVISORY RESPONSIBILITIESDIRECTLY REPORTINGMay supervise other staff.MATRIX OR INDIRECT REPORTINGNoneTYPE OF SUPERVISORY RESPONSIBILITIESN/ABanner Health Leadership will strive to uphold the mission, values, and purpose of the organization. They will serve as role models for staff and act in a people-centered, service excellence-focused, and results-oriented manner.PHYSICAL DEMANDS/ENVIRONMENT FACTORSDP - Typical Direct Patient Care environment: (Nutrition Rep, Chaplain, RN)Able to stand, walk, bend, squat, reach, and stretch frequently.Possess physical agility and adequate reaction time to respond quickly and appropriately to unexpected patient care needs.Needs adequate hearing and visual acuity, including adequate color vision.Requires fine motor skills, adequate eye-hand coordination, and ability to grasp and handle objects.Able to use proper body mechanics to assist patients in ambulating, transferring in and out of bed, chair or wheelchair.May be required to lift up to 75 pounds.Must use standard precautions due to threat of exposure to blood and bodily fluids.Needs ability to communicate effectively through reading, writing, and speaking in person or on telephone.May require periodic use of personal computer.MINIMUM QUALIFICATIONSMust possess knowledge of case management or utilization review as normally obtained through the completion of a bachelor's degree in case management or health care.Requires current Registered Nurse (R.N.) license in state worked. For assignments in an acute care setting, Basic Life Support (BLS) certification is also required.Requires a proficiency level typically achieved with 3-5 years clinical experience. Must have a working knowledge of care management, acute care and/or home care environments, community resources and resource/utilization management. Must demonstrate critical thinking skills, problem-solving abilities, effective communication skills, and time management skills. Must demonstrate ability to work effectively in an interdisciplinary team format. For assignments in an acute care setting, must be able to work flexible hours and take rotating call after hours. Banner Registry and Travel positions require a minimum of one year experience in an acute care hospital and/or home care setting. Experience must include working in an acute care and/or home care setting within the past 12 months as a Case Manager in the specialty area.PREFERRED QUALIFICATIONSCCM (Certified Case Manager) preferredAdditional related education and/or experience preferred.
+ 
+DATE APPROVED  11/06/2016
+ Must have skills: 7001 ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Banner - University Medical Center Phoenix TRAVEL
+    [shiftDateEnd] => 2024-03-08
+    [shiftStartTime] => 08:00
+    [subjectID] => 
+)

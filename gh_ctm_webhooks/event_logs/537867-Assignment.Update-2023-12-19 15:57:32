@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '28',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '979',
+  'Cf-Ray' => '8380d7744060495d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By RN; Went Perm w Facility
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 537867
+    [workerID] => 79249
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13727
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-15
+    [workerLastName] => James
+    [shiftNum] => 5
+    [workerFirstName] => Alma
+    [cert] => RN
+    [floorDesc] => 2E
+    [Subject] => 
+    [shiftEndTime] => 07:15
+    [whenmodified] => December, 19 2023 10:57:29
+    [daysPerWeek] => 3
+    [orderNote] => BR:$80 lRS:135823					
+OnCl:P$3 /B$5			
+Orient:$20 All Billable
+FTK:API no GH timesheets
+    [guaranteedMinimum] => 
+    [workerEmail] => taj92474@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Anderson Regional Medical Center TRAVEL MEDEFIS
+    [shiftDateEnd] => 2023-12-18
+    [shiftStartTime] => 18:45
+    [subjectID] => 
+)

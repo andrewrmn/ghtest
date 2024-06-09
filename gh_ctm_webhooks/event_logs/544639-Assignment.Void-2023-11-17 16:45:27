@@ -1,0 +1,151 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3228',
+  'Cf-Ray' => '827971b7148b23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:MCH04235
+
+Name
+
+Outpatient Diagnostics - Mercy Oklahoma City - Endoscopy Tech - Mercy Hospital Oklahoma City
+
+Facility
+
+Mercy
+
+Location
+
+Mercy Hospital Oklahoma City
+
+Unit
+
+Outpatient Clinic
+
+Cost Center
+
+404006509
+
+
+Shift
+day
+Shifts per week
+
+4
+
+Hours per shift
+
+10
+
+
+Years of Experience
+2+
+Specialties
+
+GI
+-
+preferred
+
+
+Role/Title: Endoscopy Technician  Shift &amp; Hours: 4, 10 hours shifts. 0800-1830, plus call requirement one night every other week and every 6th or 7th weekend.  Qualifications: Endoscopy technician experience to include esophagogastroduodenoscopy, colonoscopy, flexible sigmoidoscopy, biopsy, polypectomy, PEG tube placement, hemostasis, dilations, foreign body removal, endoscope reprocessing. Provation experience preferred.  Certifications: None required.
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Endoscopy
+    [assignmentid] => 544639
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3231
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Endoscopy Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 17 2023 11:45:27
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=776255 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Oklahoma City ;City=Oklahoma City ;State=OK ;Zip=73120 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Endoscopy Tech ;Specialty=Endoscopy ;Unit=Mercy ;Shift=07:00-19:00;# of Postions=1;Type=Travel;BillRate=$60.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:MCH04235
+
+Name
+
+Outpatient Diagnostics - Mercy Oklahoma City - Endoscopy Tech - Mercy Hospital Oklahoma City
+
+Facility
+
+Mercy
+
+Location
+
+Mercy Hospital Oklahoma City
+
+Unit
+
+Outpatient Clinic
+
+Cost Center
+
+404006509
+
+
+Shift
+day
+Shifts per week
+
+4
+
+Hours per shift
+
+10
+
+
+Years of Experience
+2+
+Specialties
+
+GI
+-
+preferred
+
+
+Role/Title: Endoscopy Technician  Shift &amp; Hours: 4, 10 hours shifts. 0800-1830, plus call requirement one night every other week and every 6th or 7th weekend.  Qualifications: Endoscopy technician experience to include esophagogastroduodenoscopy, colonoscopy, flexible sigmoidoscopy, biopsy, polypectomy, PEG tube placement, hemostasis, dilations, foreign body removal, endoscope reprocessing. Provation experience preferred.  Certifications: None required.
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/776255;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 60
+    [facilityName] => Mercy Hospital Oklahoma City TRAVEL
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

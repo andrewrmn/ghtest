@@ -1,0 +1,128 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5648',
+  'Cf-Ray' => '82b30c16d66e6a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Summary of Services: Respiratory Therapist - Registered (RRT) are health care professionals who treat individuals with health care issues affecting the cardiopulmonary system.
+Initiate assessment based on the patients presenting problems or needs and the physicians medical diagnosis.Complete ongoing assessments according to policy and/or as determined by patient condition.Perform basic and advanced therapeutic interventions.Determine the impact of interventions on the patients condition and recognize the patients progress toward meeting desired outcomes.Document care based on standards of care and practice, patient acuity, and/or clinical priorities.Involve patient, family and/or other significant individuals in care decisions and in learning self-care skills preparing for transfer to subsequent care environments.Coordinate care between other professional disciplines as needed for patients with deficiencies and abnormalities associated with the cardiopulmonary system.Share essential information, through documentation and oral communication, with healthcare team members and other customers common to the unit/area(s) of assignment.Serve as a role model and mentor to new and less experienced staff and students in health professions.Perform other services as assigned. 
+ Schedule Notes:NIGHT
+
+Skills: Minimum qualifications required for services:Experience: 1+ year of relevant experience in the specialtyCertifications: Registered Respiratory Therapist credentials by National Board for Respiratory Care Current CPR Healthcare Provider certification***Idaho Certification Required***NICU RT EXPERIENCE REQUIREDCurrent BLS Current ACLSCurrent PALSCurrent NRP
+ Required
+	
+	  CPR
+	   ACLS
+	   DOCUMENTATION
+	   THERAPEUTIC
+	   MENTOR
+	    
+	
+	
+	
+	Additional
+	
+	            NRP
+
+Education: Bachelor's or Associate's accepted
+
+;Languages: 
+ 
+English
+&nbsp;Read
+&nbsp;Write
+&nbsp;Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: Clinical-Allied-Travel
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 537202
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3513
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RRT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 24 2023 11:32:13
+    [daysPerWeek] => 3
+    [orderNote] => Source=Wand;SourceID=26695802 ;Status=Pending;Client=St. Lukes Health System ;City=Meridian ;State=ID ;Zip=83642 ;Start=11/27/2023;End=2/24/2024;Duration=89;Cert=Clinical-Allied-Travel ;Specialty=Respiratory Therapist - Registered ;Unit=Respiratory Therapy Meridian Hospital Flr 1 						: 1612    		                Default Lvl 2 Respiratory Therapy Meridian Hospital Flr 1  : 1612   Default Lvl 2 ;Shift=NIGHT NIGHT 3x12 Hr;# of Postions=1;Guaranteed Hours=36.00;Type=Travel;BillRate=$80.00;HolidayRate=$108.00 ;Description=Summary of Services: Respiratory Therapist - Registered (RRT) are health care professionals who treat individuals with health care issues affecting the cardiopulmonary system.
+Initiate assessment based on the patients presenting problems or needs and the physicians medical diagnosis.Complete ongoing assessments according to policy and/or as determined by patient condition.Perform basic and advanced therapeutic interventions.Determine the impact of interventions on the patients condition and recognize the patients progress toward meeting desired outcomes.Document care based on standards of care and practice, patient acuity, and/or clinical priorities.Involve patient, family and/or other significant individuals in care decisions and in learning self-care skills preparing for transfer to subsequent care environments.Coordinate care between other professional disciplines as needed for patients with deficiencies and abnormalities associated with the cardiopulmonary system.Share essential information, through documentation and oral communication, with healthcare team members and other customers common to the unit/area(s) of assignment.Serve as a role model and mentor to new and less experienced staff and students in health professions.Perform other services as assigned. 
+ Schedule Notes:NIGHT
+
+Skills: Minimum qualifications required for services:Experience: 1+ year of relevant experience in the specialtyCertifications: Registered Respiratory Therapist credentials by National Board for Respiratory Care Current CPR Healthcare Provider certification***Idaho Certification Required***NICU RT EXPERIENCE REQUIREDCurrent BLS Current ACLSCurrent PALSCurrent NRP
+ Required
+	
+	  CPR
+	   ACLS
+	   DOCUMENTATION
+	   THERAPEUTIC
+	   MENTOR
+	    
+	
+	
+	
+	Additional
+	
+	            NRP
+
+Education: Bachelor's or Associate's accepted
+
+;Languages: 
+ 
+English
+&nbsp;Read
+&nbsp;Write
+&nbsp;Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: Clinical-Allied-Travel ;url=https://prowand.pro-unlimited.com/supplier/standard/requisition/req_geninfo_view.html?id=26695802&type=REQUISITION&reqProfile=true;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => St. Luke's Meridian Medical Center
+    [shiftDateEnd] => 2024-03-08
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

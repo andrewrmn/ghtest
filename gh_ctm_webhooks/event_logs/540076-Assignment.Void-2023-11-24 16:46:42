@@ -1,0 +1,593 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5791',
+  'Cf-Ray' => '82b3212aa0a31836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN PCU
+
+13 WEEKS
+DAYS
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTING
+BLS/ACLS REQUIRED
+ General CommentsUnit Information:
+
+Progressive Care Neuro TraumaLocation: Portsmouth Regional Hospital NH
+Address: 333 Borthwick Avenue, Portsmouth NH 03801
+
+Floor: 4th
+
+Building: Main
+
+
+
+General InformationTell us about the unit(s):
+ 
+
+
+
+
+
+
+
+
+Number of Beds - 23
+
+ 
+
+
+
+
+
+
+
+
+Number of Staff  
+
+9
+
+ 
+
+
+
+
+
+
+
+
+Type of staff:
+
+o
+
+
+
+Day Shift   6-7 RNs; 2 Aides
+
+o
+
+
+
+Night Shift - 6-7 RNs; 2 Aides
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios   4:1
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment   Bedside monitors, End tidal 02 monitoring, high flow, chronic vents, Subdural drains
+
+ 
+
+
+
+
+
+
+
+
+EMR   Meditech
+
+
+
+Typical hiring profileSkill Set Most recruited for:
+
+
+Must have:
+
+candidates without these skills will not be considered for the role.
+
+ 
+
+
+
+
+
+
+
+
+Telemetry
+
+ 
+
+
+
+
+
+
+
+
+Step-down Experience
+
+
+
+
+Preferred or nice to have:
+
+candidates with these skills will be considered first.
+
+ 
+
+
+
+
+
+
+
+
+
+Neuro experience
+
+ 
+
+
+
+
+
+
+
+
+
+Trauma Experience
+
+
+
+
+List typical procedures performed on unit(s):
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Chest tubes
+
+ 
+
+
+
+
+
+
+
+
+
+EEGs
+
+
+
+Best personality Fit:
+ 
+
+
+
+
+
+
+
+
+
+Team oriented
+REQUIRED CERTIFICATIONS:
+ 
+
+
+
+
+
+
+
+
+ACLS &amp; BLS
+
+ 
+
+
+
+
+
+
+
+
+Preferred: NHISS and TNCC
+Floating Area(s):
+ 
+
+
+
+
+
+
+
+
+All inpatient units including ICU, ED
+
+Dress Code:
+
+ 
+
+
+
+
+
+
+
+
+Scrub Color/Attire -
+
+No specific color, professional
+
+
+
+Weekends and On call:
+ 
+
+
+
+
+
+
+
+
+W/E every other; no on-call requirement
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 540076
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 24 2023 11:46:42
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771139 ;Status=Pending Approval;Association=HCA Healthcare (Parent) ;Client=PORTSMOUTH REGIONAL HOSPITAL NH ;City=PORTSMOUTH ;State=NH ;Zip='03801 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=RN ;Specialty=PCU ;Unit=CAPITAL DIVISION (20) ;Shift=7:00AM - 7:00PM;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=98 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:TRAVEL RN PCU
+
+13 WEEKS
+DAYS
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTING
+BLS/ACLS REQUIRED
+ General CommentsUnit Information:
+
+Progressive Care Neuro TraumaLocation: Portsmouth Regional Hospital NH
+Address: 333 Borthwick Avenue, Portsmouth NH 03801
+
+Floor: 4th
+
+Building: Main
+
+
+
+General InformationTell us about the unit(s):
+ 
+
+
+
+
+
+
+
+
+Number of Beds - 23
+
+ 
+
+
+
+
+
+
+
+
+Number of Staff  
+
+9
+
+ 
+
+
+
+
+
+
+
+
+Type of staff:
+
+o
+
+
+
+Day Shift   6-7 RNs; 2 Aides
+
+o
+
+
+
+Night Shift - 6-7 RNs; 2 Aides
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios   4:1
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment   Bedside monitors, End tidal 02 monitoring, high flow, chronic vents, Subdural drains
+
+ 
+
+
+
+
+
+
+
+
+EMR   Meditech
+
+
+
+Typical hiring profileSkill Set Most recruited for:
+
+
+Must have:
+
+candidates without these skills will not be considered for the role.
+
+ 
+
+
+
+
+
+
+
+
+Telemetry
+
+ 
+
+
+
+
+
+
+
+
+Step-down Experience
+
+
+
+
+Preferred or nice to have:
+
+candidates with these skills will be considered first.
+
+ 
+
+
+
+
+
+
+
+
+
+Neuro experience
+
+ 
+
+
+
+
+
+
+
+
+
+Trauma Experience
+
+
+
+
+List typical procedures performed on unit(s):
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Chest tubes
+
+ 
+
+
+
+
+
+
+
+
+
+EEGs
+
+
+
+Best personality Fit:
+ 
+
+
+
+
+
+
+
+
+
+Team oriented
+REQUIRED CERTIFICATIONS:
+ 
+
+
+
+
+
+
+
+
+ACLS &amp; BLS
+
+ 
+
+
+
+
+
+
+
+
+Preferred: NHISS and TNCC
+Floating Area(s):
+ 
+
+
+
+
+
+
+
+
+All inpatient units including ICU, ED
+
+Dress Code:
+
+ 
+
+
+
+
+
+
+
+
+Scrub Color/Attire -
+
+No specific color, professional
+
+
+
+Weekends and On call:
+ 
+
+
+
+
+
+
+
+
+W/E every other; no on-call requirement ;url=https://vendor.healthtrustws.com/positions/771139;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Portsmouth Regional Hospital
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

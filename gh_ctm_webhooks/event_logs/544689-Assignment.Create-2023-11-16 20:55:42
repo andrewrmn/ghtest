@@ -1,0 +1,150 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8220',
+  'Cf-Ray' => '8272a2e8f4551832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:Respiratory Therapist
+Complete Description:Respiratory Therapist provides quality patient care, providing intensive respiratory care and patient transport into and out of the facility as medically prescribed, within the scope of professional license and with minimal supervision.   Evaluates patient and recommends a treatment plan.
+                   
+Explains purpose and procedure of treatments, tests, and equipment to the patients, and provides necessary education upon discharging to home.
+                    
+Conducts physician prescribed treatments of a routine nature operating various ventilatory equipment, both invasive and non-invasive, various oxygen and aerosol devices, and various nebulizer devices in order to administer prescribed medications, humidification, ventilation and oxygenation to the patient.
+             
+Performs chest physiotherapy by operating various equipment to promote secretion clearance.
+              
+Performs suctioning of the patient by various methods (oropharyngeal, nasal and tracheal).
+          
+Performs oximetry and capnography monitoring according to policy.
+           
+Performs routine review of patient's chest x-rays to determine need for further evaluation.
+           
+Performs 12-Lead EKG and basic arrhythmia recognition.
+             
+Performs pulmonary function studies according to policy (i.e. NIF, VC etc.)
+      
+Assists with procedures relating to respiratory care according to policy (i.e. Bronchoscopy, Perc Trachs, Chest Tube placement, etc.).
+              
+Performs adequate drainage of chest via PleurX catheter or similar device where applicable.
+           
+Performs tracheostomy care according to policy, including insertion and removal of tracheostomy tubes (emergent and non-emergent).
+                 
+Performs arterial puncture according to policy and is able to determine efficiency of ventilation, as well as monitoring, recording and reporting of test results.
+               
+For hospitals with moderate complexity labs: Follows all policies and procedures related to laboratory testing including: specimen handling, use of equipment, documentation and reporting of results, quality controls and maintenance to include: Pre-analytic, Analytic, and Post-analytic phases of testing.
+             
+Performs cardiopulmonary resuscitation according to BLS and ACLS guidelines.
+         
+Performs insertion and removal of endotracheal tubes via free hand technique and/or video laryngoscope system.
+                                
+Performs set-up & self-test on all ventilatory equipment as required and operates, maintains and monitors mechanical ventilation on various types of equipment.
+          
+Assists in facilitating preventative maintenance and repair of equipment as needed.
+          
+Records all pertinent information of treatments, and patient response to treatments on respiratory care records and patient chart (including pre and post-assessment according to policy).
+      
+Communicates with attending and pulmonary physician's concerning the efficiency of therapy administered to the patient.
+               
+Reports all necessary information in hands-off communication during walking rounds for shift-to-shift.
+      
+Maintains accurate respiratory therapy charging, including data entry, verification and correction of errors.
+                  
+Performs other duties as assigned.
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 544689
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9500
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RRT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 16 2023 15:55:16
+    [daysPerWeek] => 3
+    [orderNote] => Source=PeopleFluent;SourceID=724902 ;Status=Open;Association=Select Specialty Hospital - South Dakota ;Client=Critical Illness and Rehab ;ASAP;Start=ASAP;End=;Duration=91;Cert=Respiratory Therapist ;Specialty=Respiratory Therapist - 4459 (Night) ;Unit=Respiratory Therapist - 4459 (Night) ;Shift=Night   3x12.0;# of Postions=1;Type=Travel;BillRate=$72.00;minBillRate=$60.00;Description=Short Description:Respiratory Therapist
+Complete Description:Respiratory Therapist provides quality patient care, providing intensive respiratory care and patient transport into and out of the facility as medically prescribed, within the scope of professional license and with minimal supervision.   Evaluates patient and recommends a treatment plan.
+                   
+Explains purpose and procedure of treatments, tests, and equipment to the patients, and provides necessary education upon discharging to home.
+                    
+Conducts physician prescribed treatments of a routine nature operating various ventilatory equipment, both invasive and non-invasive, various oxygen and aerosol devices, and various nebulizer devices in order to administer prescribed medications, humidification, ventilation and oxygenation to the patient.
+             
+Performs chest physiotherapy by operating various equipment to promote secretion clearance.
+              
+Performs suctioning of the patient by various methods (oropharyngeal, nasal and tracheal).
+          
+Performs oximetry and capnography monitoring according to policy.
+           
+Performs routine review of patient's chest x-rays to determine need for further evaluation.
+           
+Performs 12-Lead EKG and basic arrhythmia recognition.
+             
+Performs pulmonary function studies according to policy (i.e. NIF, VC etc.)
+      
+Assists with procedures relating to respiratory care according to policy (i.e. Bronchoscopy, Perc Trachs, Chest Tube placement, etc.).
+              
+Performs adequate drainage of chest via PleurX catheter or similar device where applicable.
+           
+Performs tracheostomy care according to policy, including insertion and removal of tracheostomy tubes (emergent and non-emergent).
+                 
+Performs arterial puncture according to policy and is able to determine efficiency of ventilation, as well as monitoring, recording and reporting of test results.
+               
+For hospitals with moderate complexity labs: Follows all policies and procedures related to laboratory testing including: specimen handling, use of equipment, documentation and reporting of results, quality controls and maintenance to include: Pre-analytic, Analytic, and Post-analytic phases of testing.
+             
+Performs cardiopulmonary resuscitation according to BLS and ACLS guidelines.
+         
+Performs insertion and removal of endotracheal tubes via free hand technique and/or video laryngoscope system.
+                                
+Performs set-up & self-test on all ventilatory equipment as required and operates, maintains and monitors mechanical ventilation on various types of equipment.
+          
+Assists in facilitating preventative maintenance and repair of equipment as needed.
+          
+Records all pertinent information of treatments, and patient response to treatments on respiratory care records and patient chart (including pre and post-assessment according to policy).
+      
+Communicates with attending and pulmonary physician's concerning the efficiency of therapy administered to the patient.
+               
+Reports all necessary information in hands-off communication during walking rounds for shift-to-shift.
+      
+Maintains accurate respiratory therapy charging, including data entry, verification and correction of errors.
+                  
+Performs other duties as assigned. ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=724902;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 72
+    [facilityName] => Select Specialty Hospital - Sioux Falls - Travel
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

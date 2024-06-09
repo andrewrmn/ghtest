@@ -1,0 +1,112 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '24',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '9237',
+  'Cf-Ray' => '829ad21d16ff494d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => NICU RN
+Start date will be 2-3 weeks from offer
+Shift:  manager will accepts 3x12 or 4x12 nights, 7p-7a. 4 weekend shifts per 4 week period, holiday rotation  (manager may be open to rotating shifts)
+Ratio: 1:2, 1:3, or 1:4
+First time travelers accepted-yes
+Years experience required: 1 year of NICU experience
+Experience required: Level III/Level IV NICU experience
+Certs REQ: BLS, NRP, South Carolina or Multi-State/Compact State RN License 
+Will clinician float within scope to meet facility needs?  yes-travelers do float first. They float to any unit that has "NICU appropriate" assignement.
+Open to accommodating block schedule?-per manager discretion
+Locals accepted:  What is the local radius rule? yes, 50 miles
+RTO Restrictions: All RTO must be provided at time of submission. Approval based on unit needs
+Guaranteed Hours:  Traveler may be cancelled/called off 1 shift per 2 week period
+
+
+The 82 bed Neonatal Intensive Care Unit is located in our MUSC Shawn Jenkins Children's Hospital. The Neonatal ICU is the regional referral center for this area, providing care to premature and sick neonates. The Neonatal ICU provides medical and surgical care with most common diagnoses including prematurity, respiratory distress, and neonatal surgical conditions. In addition to respiratory and nutritional support, the NICU provides ECMO/CRRT and surgical support. Pediatric Palliative care is available as needed. The Neonatal ICU is located on the 5th floor of the MUSC Shawn Jenkins Hospital. The Neonatal ICU also supports an infant home monitoring program for infants requiring monitoring upon discharge. All Neonatal ICU beds are monitored beds. Under general supervision, the Registered Nurse II provides individualized, goal-directed patient care to families and patients at the competent level utilizing the principles and practices of the nursing process; delivers safe and effective care and interacts with other members of the health care team to achieve desired results.
+
+*Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+
+
+ Modified Time:12/4/2023 5:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal radius: 50 miles. Locals accepted on a case by case basis at lower ratePerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+    [sitename] => giftednurses
+    [spec] => NICU 3
+    [assignmentid] => 544091
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15757
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 21 2023 12:58:25
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2309058 ;Status=Open;Association=Qualivis MSP ;Client=MUSC Health - Shawn Jenkins Children's Hospital ;City=Charleston ;State=SC ;Zip=29425 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Registered Nurse ;Specialty=NICU ;Unit=CHS NICU (Neonatal ICU) 5 (SJCH), CC000517 (Meduflex) ;Shift=Night 4x12-Hour (19:00 - 07:30);# of Postions=3;Type=Travel;BillRate=$73.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=NICU RN
+Start date will be 2-3 weeks from offer
+Shift:  manager will accepts 3x12 or 4x12 nights, 7p-7a. 4 weekend shifts per 4 week period, holiday rotation  (manager may be open to rotating shifts)
+Ratio: 1:2, 1:3, or 1:4
+First time travelers accepted-yes
+Years experience required: 1 year of NICU experience
+Experience required: Level III/Level IV NICU experience
+Certs REQ: BLS, NRP, South Carolina or Multi-State/Compact State RN License 
+Will clinician float within scope to meet facility needs?  yes-travelers do float first. They float to any unit that has "NICU appropriate" assignement.
+Open to accommodating block schedule?-per manager discretion
+Locals accepted:  What is the local radius rule? yes, 50 miles
+RTO Restrictions: All RTO must be provided at time of submission. Approval based on unit needs
+Guaranteed Hours:  Traveler may be cancelled/called off 1 shift per 2 week period
+
+
+The 82 bed Neonatal Intensive Care Unit is located in our MUSC Shawn Jenkins Children's Hospital. The Neonatal ICU is the regional referral center for this area, providing care to premature and sick neonates. The Neonatal ICU provides medical and surgical care with most common diagnoses including prematurity, respiratory distress, and neonatal surgical conditions. In addition to respiratory and nutritional support, the NICU provides ECMO/CRRT and surgical support. Pediatric Palliative care is available as needed. The Neonatal ICU is located on the 5th floor of the MUSC Shawn Jenkins Hospital. The Neonatal ICU also supports an infant home monitoring program for infants requiring monitoring upon discharge. All Neonatal ICU beds are monitored beds. Under general supervision, the Registered Nurse II provides individualized, goal-directed patient care to families and patients at the competent level utilizing the principles and practices of the nursing process; delivers safe and effective care and interacts with other members of the health care team to achieve desired results.
+
+*Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+
+
+ Modified Time:12/11/2023 12:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:High
+ Submittal Details: #Tier3 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal radius: 50 miles. Locals accepted on a case by case basis at lower ratePerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2309058/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 73
+    [facilityName] => MUSC Shawn Jenkins Children's Hospital
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

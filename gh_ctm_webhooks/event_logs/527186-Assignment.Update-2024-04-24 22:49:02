@@ -1,0 +1,480 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8504',
+  'Cf-Ray' => '8799a4ee81c96a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Unit Information:
+   3North             Location: Centennial Medical Center             
+Address: 2410 Patterson St
+         
+Floor: 3rd   Floor
+             
+Building: Sarah   Cannon
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+   Number of Beds -25
+   
+ 
+
+
+
+
+
+   Number of Staff   
+   
+ 
+
+
+
+
+
+   Type of staff:
+   
+o
+
+   Day Shift   1 charge, 6-8 RNs, 1 ACT
+   
+o
+
+   Night Shift   1 charge RN, 6-8 RNs
+   
+ 
+
+
+
+
+
+   Patient Ratios   4:1
+   
+ 
+
+
+
+
+
+   Type of equipment   mobilab, Welch   Allyn vital machine, Alaris IV pump
+   
+ 
+
+
+
+
+
+   EMR - Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+ candidates   without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+ 
+Med   surg
+   
+ 
+
+
+
+
+
+ 
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+ 
+Oncology
+   
+ 
+
+
+
+
+
+ 
+Bone   marrow transplant
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+ 
+
+High   dose chemotherapy, stem cell infusions
+   
+ 
+
+
+
+
+
+ 
+Blood   transfusions, electrolyte replacements; central line maintenance
+   Best personality Fit:   
+ 
+
+
+
+
+
+   
+Great teamwork, positive   outlook, quick learner, loves patient interaction because average length of   stay for patients is 14-21 days
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+   BLS
+   Floating Area(s):   
+ 
+
+
+
+
+
+   Other Oncology floors (3C and 4N), Main Tower Med surg
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+   Scrub Color/Attire - grey, black,   pink, navy blue, white
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+ CLABSI prevention is very important for   immunocompromised population (Scrub the hub, hand hygiene)
+             Weekends and On call(if any)   
+ 
+
+
+
+
+
+   2-3 weekend shifts per   4-week schedule period
+    
+ General CommentsTriStar Centennial Medical Center is a 657-bed comprehensive facility located in Nashville, Tennessee. The hospital's 43-acre campus is home to many noteworthy treatment centers, including a
+Sarah Cannon Cancer Institute, a
+Children's Hospital, and a
+Women's Hospital, among other
+service offerings.
+
+
+The facility's
+positive company culture
+stems from its strong emphasis on
+ICARE, short for
+Integrity,
+Compassion,
+A
+positive attitude,
+Respect, and
+Exceptional quality.
+Through living this philosophy each day, TriStar Centennial has earned many
+awards and accreditations, such as:
+An "A" Hospital Safety Score from the Leapfrog Group,Recognition as a Bariatric Surgery Center of Excellence by the American Society for Metabolic and Bariatric Surgery, andAn accreditation and Gold Seal of Approval from The Joint Commission.
+
+The facility's focus on exceptional care and meeting the needs of the surrounding community have made TriStar Centennial a leading healthcare provider in the Nashville area.
+ No. of Positions: 2/3.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 527186
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1297
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-05-13
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => April, 24 2024 18:49:01
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=753724 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=CENTENNIAL MEDICAL CENTER TN ;City=NASHVILLE ;State=TN ;Zip=37203 ;Start=11/21/2023;End=2/20/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=TRISTAR DIVISION (7) ;Shift=7:00PM – 7:00AM ;# of Postions=2;Type=Travel;BillRate=$73.00;minBillRate=$73.00;OTRate=81 ;CallbackRate=81 ;HolidayRate=81 ;Description=Description:Unit Information:
+   3North             Location: Centennial Medical Center             
+Address: 2410 Patterson St
+         
+Floor: 3rd   Floor
+             
+Building: Sarah   Cannon
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+   Number of Beds -25
+   
+ 
+
+
+
+
+
+   Number of Staff   
+   
+ 
+
+
+
+
+
+   Type of staff:
+   
+o
+
+   Day Shift   1 charge, 6-8 RNs, 1 ACT
+   
+o
+
+   Night Shift   1 charge RN, 6-8 RNs
+   
+ 
+
+
+
+
+
+   Patient Ratios   4:1
+   
+ 
+
+
+
+
+
+   Type of equipment   mobilab, Welch   Allyn vital machine, Alaris IV pump
+   
+ 
+
+
+
+
+
+   EMR - Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+ candidates   without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+ 
+Med   surg
+   
+ 
+
+
+
+
+
+ 
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+ 
+Oncology
+   
+ 
+
+
+
+
+
+ 
+Bone   marrow transplant
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+ 
+
+High   dose chemotherapy, stem cell infusions
+   
+ 
+
+
+
+
+
+ 
+Blood   transfusions, electrolyte replacements; central line maintenance
+   Best personality Fit:   
+ 
+
+
+
+
+
+   
+Great teamwork, positive   outlook, quick learner, loves patient interaction because average length of   stay for patients is 14-21 days
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+   BLS
+   Floating Area(s):   
+ 
+
+
+
+
+
+   Other Oncology floors (3C and 4N), Main Tower Med surg
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+   Scrub Color/Attire - grey, black,   pink, navy blue, white
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+ CLABSI prevention is very important for   immunocompromised population (Scrub the hub, hand hygiene)
+             Weekends and On call(if any)   
+ 
+
+
+
+
+
+   2-3 weekend shifts per   4-week schedule period
+    
+ General CommentsTriStar Centennial Medical Center is a 657-bed comprehensive facility located in Nashville, Tennessee. The hospital's 43-acre campus is home to many noteworthy treatment centers, including a
+Sarah Cannon Cancer Institute, a
+Children's Hospital, and a
+Women's Hospital, among other
+service offerings.
+
+
+The facility's
+positive company culture
+stems from its strong emphasis on
+ICARE, short for
+Integrity,
+Compassion,
+A
+positive attitude,
+Respect, and
+Exceptional quality.
+Through living this philosophy each day, TriStar Centennial has earned many
+awards and accreditations, such as:
+An "A" Hospital Safety Score from the Leapfrog Group,Recognition as a Bariatric Surgery Center of Excellence by the American Society for Metabolic and Bariatric Surgery, andAn accreditation and Gold Seal of Approval from The Joint Commission.
+
+The facility's focus on exceptional care and meeting the needs of the surrounding community have made TriStar Centennial a leading healthcare provider in the Nashville area.
+ No. of Positions: 2/3.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/753724;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 73
+    [facilityName] => Centennial Medical Center
+    [shiftDateEnd] => 2024-08-12
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

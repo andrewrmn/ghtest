@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '24',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2109',
+  'Cf-Ray' => '82ceb734929a494d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => No guaranteed hours 2 flex days per assignmentCall rotation required 4-10 hour day shiftsMinimum of 3-4 years of experience Able to handle minor ortho, general and gynExperience with holding, pacu and infusions   Position Urgency:Rapid Response Crisis Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Pre-Op
+    [assignmentid] => 546041
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 11818
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 27 2023 20:07:43
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=262186 ;Status=Open;Association=Arbor Healthcare Organization ;Client=Arbor Healthcare ;City=Morton ;State=WA ;Zip=98356 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Nursing ;Specialty=Pre-Op, Post Anesthesia Care Unit Nurse (PACU), Operating Room, Critical Access Hospital RN ;Unit=Pre-Op, Post Anesthesia Care Unit Nurse (PACU), Operating Room, Critical Access Hospital RN ;Shift=Monday - Thursday10 hour shifts Dayshift;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=90 ;OTRules=By The Week, after 40, ;CallbackRate=90 (All Inclusive Rate + $10) ;HolidayRate=90 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=No guaranteed hours 2 flex days per assignmentCall rotation required 4-10 hour day shiftsMinimum of 3-4 years of experience Able to handle minor ortho, general and gynExperience with holding, pacu and infusions   Position Urgency:Rapid Response Crisis Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262186;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Arbor Health Morton Hospital Travel
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

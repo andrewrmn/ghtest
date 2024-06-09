@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4267',
+  'Cf-Ray' => '82a4d104350923b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Patient-Centered Care Provides direct nursing care to patients according to the assignment and to individual needs of the patient; assesses health-related needs based on biological data, patient history, and other existing data, such as medical chart reports or computerized medical record.Provides age-appropriate care for the population(s) served. Possesses the ability to understand and react effectively to the unique needs of each population and to assess, treat and care for these patient groups. Generally, the age groups served are:            Rehabilitation/ Medical/Surgical   adolescents, adults, geriatrics.Provides care in a manner which enhances patient satisfaction and respects cultural diversity.Specifically responsible for proper care of assigned patients and is generally responsible for all patients on the unit or in the clinic/practice to which assigned; assists in maintaining a comfortable, orderly, clean and safe environment.Encourages patients to be actively engaged in their plan of care and participate in exercising their rights and responsibilities.Mandatory Licenses/Certifications: Graduate of an accredited school of professional nursing (or a program seeking accreditation).Current registered nurse licensure in the State of Ohio.Current AHA Basic Life Support for the healthcare provider 6mos - 1yr exp in Rehabilitation/LTAC/Spinal Cord/Stroke/TBI   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => LTAC
+    [assignmentid] => 537239
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15626
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-05
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 22 2023 18:05:18
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=260018 ;Status=Open;Association=The MetroHealth System ;Client=Old Brooklyn Medical Center ;City=Cleveland ;State=OH ;Zip=44109 ;Start=11/5/2023;End=1/28/2024;Duration=84;Cert=Nursing ;Specialty=Long Term Acute Care ;Unit=Long Term Acute Care ;Shift=Day and Night
+Every other weekend and holidays required;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=80 ;OTRules=By The Week, after 40, ;CallbackRate=80 (All Inclusive Rate) ;HolidayRate=80 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=Patient-Centered Care Provides direct nursing care to patients according to the assignment and to individual needs of the patient; assesses health-related needs based on biological data, patient history, and other existing data, such as medical chart reports or computerized medical record.Provides age-appropriate care for the population(s) served. Possesses the ability to understand and react effectively to the unique needs of each population and to assess, treat and care for these patient groups. Generally, the age groups served are:            Rehabilitation/ Medical/Surgical   adolescents, adults, geriatrics.Provides care in a manner which enhances patient satisfaction and respects cultural diversity.Specifically responsible for proper care of assigned patients and is generally responsible for all patients on the unit or in the clinic/practice to which assigned; assists in maintaining a comfortable, orderly, clean and safe environment.Encourages patients to be actively engaged in their plan of care and participate in exercising their rights and responsibilities.Mandatory Licenses/Certifications: Graduate of an accredited school of professional nursing (or a program seeking accreditation).Current registered nurse licensure in the State of Ohio.Current AHA Basic Life Support for the healthcare provider 6mos - 1yr exp in Rehabilitation/LTAC/Spinal Cord/Stroke/TBI   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260018;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => MetroHealth - Old Brooklyn Medical Center
+    [shiftDateEnd] => 2024-01-28
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

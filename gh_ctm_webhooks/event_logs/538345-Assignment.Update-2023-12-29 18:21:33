@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '896',
+  'Cf-Ray' => '83d41038e39277ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Cancellation: Behavioral Performance
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 538345
+    [workerID] => 199012
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3538
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => Garcia
+    [shiftNum] => 5
+    [workerFirstName] => Anthony
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => December, 29 2023 13:21:26
+    [daysPerWeek] => 3
+    [orderNote] => BR:$110lRS:135922
+Orient:$20lNonBill:0hrs
+    [guaranteedMinimum] => 
+    [workerEmail] => antflife@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => University of Wisconsin Hospital and Clinics
+    [shiftDateEnd] => 2023-12-22
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

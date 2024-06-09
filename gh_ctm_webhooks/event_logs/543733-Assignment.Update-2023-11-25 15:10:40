@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3183',
+  'Cf-Ray' => '82bad1d3b43423c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => ??JOB SUMMARY/PURPOSEThe Registered Nurse (RN) is accountable for utilizing the nursing process to provide safe, age-appropriate, direct and indirect patient care, while practicing within the scope of practice of the Oregon State Board of Nursing.DEPARTMENT DESCRIPTIONThe Medical Surgical unit specializes in the care of acutely ill adults and of those who require surgery both emergent and elective. Medical Surgical patients are given the highest standards of professional care by registered nurses and nurse assistants. Specialty certification in Medical Surgical Nursing is strongly encouraged and supported.EXPERIENCE/EDUCATION/QUALIFICATIONSCurrent unencumbered Oregon RN license required upon submission. AHA Healthcare Provider Level BLS required upon submission.GSR Med Surg:Orthopedic and Bariatric experience preferred.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543733
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5820
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 25 2023 10:10:37
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261524 ;Status=Open;Association=Samaritan Health Services ;Client=Good Samaritan Regional Medical Center ;City=Corvallis ;State=OR ;Zip=97330 ;Start=11/10/2023;End=2/9/2024;Duration=91;Cert=Nursing ;Specialty=Med-surg Adult ;Unit=Med-surg Adult ;Shift=Nights - 19:00 - 07:30 - Rotating Weekends ;# of Postions=6;Guaranteed Hours=36;Type=Travel;BillRate=$100.00;OTRate=110 ;OTRules=By The Week, after 40, ;CallbackRate=100 (All Inclusive Rate) ;HolidayRate=110 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=??JOB SUMMARY/PURPOSEThe Registered Nurse (RN) is accountable for utilizing the nursing process to provide safe, age-appropriate, direct and indirect patient care, while practicing within the scope of practice of the Oregon State Board of Nursing.DEPARTMENT DESCRIPTIONThe Medical Surgical unit specializes in the care of acutely ill adults and of those who require surgery both emergent and elective. Medical Surgical patients are given the highest standards of professional care by registered nurses and nurse assistants. Specialty certification in Medical Surgical Nursing is strongly encouraged and supported.EXPERIENCE/EDUCATION/QUALIFICATIONSCurrent unencumbered Oregon RN license required upon submission. AHA Healthcare Provider Level BLS required upon submission.GSR Med Surg:Orthopedic and Bariatric experience preferred.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261524;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Good Samaritan Regional Medical Center
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

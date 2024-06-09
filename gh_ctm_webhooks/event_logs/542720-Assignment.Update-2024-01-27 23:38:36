@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '925',
+  'Cf-Ray' => '84c4d488f20c77bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Last shift worked was 12-27-23
+    [sitename] => giftednurses
+    [spec] => Respiratory
+    [assignmentid] => 542720
+    [workerID] => 224437
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2288
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-12
+    [workerLastName] => Valenzuela
+    [shiftNum] => 5
+    [workerFirstName] => Yesica
+    [cert] => RRT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 27 2024 18:38:35
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+Bill:$110|RS:136380
+FTK: Gifted Timecard unsigned
+    [guaranteedMinimum] => 
+    [workerEmail] => Yesvalenzuela@hotmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => BHSF - Baptist Hospital of Miami Travel
+    [shiftDateEnd] => 2023-12-30
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

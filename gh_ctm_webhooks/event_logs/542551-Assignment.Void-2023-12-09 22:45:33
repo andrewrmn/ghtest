@@ -1,0 +1,595 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7106',
+  'Cf-Ray' => '8330c772c4171464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL - RN MED SURG7:00PM- 7:00AM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+   Trauma Telemetry             Location: CJW Chippenham Medical Center             
+Address:
+ 7101 Jahnke Road, Richmond, VA
+ 
+         
+Floor:
+ 4th floor
+             
+Building:
+ Chippenham Medical Center
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Level of Care: Medical Surgical,   Telemetry 
+   
+ 
+
+
+
+
+
+
+
+   Number of Beds -
+ 34 beds (private)
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+50
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   1 charge, 6 RNs, 3 Techs,   1 DA
+   
+o
+
+
+   Night Shift - 
+1 charge, 3
+   RNs, 3 techs 7p-11p, 1 tech 11p-7a
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   5-6:1
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   telemetry (bedside   monitors), vein finder, bladder scanner, EKG machine, Doppler, Hoyer Lift,   glucometer, pulse ox, scales, wound vac
+   
+ 
+
+
+
+
+
+
+
+   EMR -
+   Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+Medical Surgical Experience, BLS, RN license   
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+Trauma experience
+   
+ 
+
+
+
+
+
+
+
+   Telemetry   experience 
+   
+
+
+   Specialized aspects of care on unit /   management of:   
+ 
+
+
+
+
+
+
+
+   
+Complex wounds 
+   
+ 
+
+
+
+
+
+
+
+   
+Administration of blood products
+   
+ 
+
+
+
+
+
+
+
+   Pain   management 
+   
+ 
+
+
+
+
+
+
+
+   Tubes   &amp; drains   NG, PEG, feeding tubes, surgical drains
+   
+ 
+
+
+
+
+
+
+
+   Chest   tubs
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   Team player 
+   
+ 
+
+
+
+
+
+
+
+   Compassionate 
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   BLS
+   Floating Areas:   
+ 
+
+
+
+
+
+
+
+   Med Surg, telemetry (if certified) 
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ navy
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   Every other weekend, no call
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 542551
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8325
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 09 2023 17:45:32
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=759500 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=CJW MEDICAL CENTER CHIPPENHAM CAMPUS VA ;City=RICHMOND ;State=VA ;Zip=23225 ;Start=10/30/2023;End=1/29/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM - 7:00AM;# of Postions=2;Type=Travel;BillRate=$78.00;OTRate=86 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:TRAVEL - RN MED SURG7:00PM- 7:00AM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+   Trauma Telemetry             Location: CJW Chippenham Medical Center             
+Address:
+ 7101 Jahnke Road, Richmond, VA
+ 
+         
+Floor:
+ 4th floor
+             
+Building:
+ Chippenham Medical Center
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Level of Care: Medical Surgical,   Telemetry 
+   
+ 
+
+
+
+
+
+
+
+   Number of Beds -
+ 34 beds (private)
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+50
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   1 charge, 6 RNs, 3 Techs,   1 DA
+   
+o
+
+
+   Night Shift - 
+1 charge, 3
+   RNs, 3 techs 7p-11p, 1 tech 11p-7a
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   5-6:1
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   telemetry (bedside   monitors), vein finder, bladder scanner, EKG machine, Doppler, Hoyer Lift,   glucometer, pulse ox, scales, wound vac
+   
+ 
+
+
+
+
+
+
+
+   EMR -
+   Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   
+Medical Surgical Experience, BLS, RN license   
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   
+Trauma experience
+   
+ 
+
+
+
+
+
+
+
+   Telemetry   experience 
+   
+
+
+   Specialized aspects of care on unit /   management of:   
+ 
+
+
+
+
+
+
+
+   
+Complex wounds 
+   
+ 
+
+
+
+
+
+
+
+   
+Administration of blood products
+   
+ 
+
+
+
+
+
+
+
+   Pain   management 
+   
+ 
+
+
+
+
+
+
+
+   Tubes   &amp; drains   NG, PEG, feeding tubes, surgical drains
+   
+ 
+
+
+
+
+
+
+
+   Chest   tubs
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   Team player 
+   
+ 
+
+
+
+
+
+
+
+   Compassionate 
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   BLS
+   Floating Areas:   
+ 
+
+
+
+
+
+
+
+   Med Surg, telemetry (if certified) 
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ navy
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+
+
+   Every other weekend, no call ;url=https://vendor.healthtrustws.com/positions/759500;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 78
+    [facilityName] => Chippenham Medical Center
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

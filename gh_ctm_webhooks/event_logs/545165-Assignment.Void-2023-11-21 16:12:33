@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '29',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4566',
+  'Cf-Ray' => '829a370473a24961-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Certified Surgical Tech - 8 hour shifts (7a-3:30p) Samaritan Medical Center, Watertown, NY TRAVELER MUST BE NATIONALLY CERTIFIED-DO NOT SUBMIT CANDIDATES WHO ARE NOT PLEASE.    26week assignment. BLS required. Completion of a Certified Surgical Tech program. Certification by the Association of Surgical Technologistsrequired. Traveler should have previous OR experience, greater than 2 years  experience preferred. Traveler must have ability to complete Ortho, Ortho Trauma, ENT, GYN, General, Robotics and Urology cases at a minimum. If traveler is only trained in 1 or 2 of these service lines, they would be a good fit for our OR. Traveler should have completed at least 1 previous successful traveler assignment before. New travelers will NOT be considered. Previous Samaritan employees have to be gone at least 2 years and be eligible for rehire to be considered. (Contact facility for inquires) Permanent residence of traveler must be at least 60 miles away. Come work at Samaritan where travelers tell us they love doing their assignments. We are located in Northern NY in the beautiful Thousand Islands Region where lakes and rivers are a short 25 miles away. If you like the scenic areas, theAdirondack Mountains are 40 minutes away. Be a part of a great team!   Additional Information:Candidate must reside OUTSIDE of 60 miles. Cannot be a previous permanent employee unless been gone for 2 years. Can only be a traveler for the maximum of 1 year. MUST BE VACCINATED. Only medical declinations allowed in the state of NY   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 545165
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 1486
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:30
+    [whenmodified] => November, 21 2023 11:12:33
+    [daysPerWeek] => 5
+    [orderNote] => Source=Medefis5;SourceID=261947 ;Status=Open;Association=Samaritan Medical Center ;Client=Samaritan Medical Center ;City=Watertown ;State=NY ;Zip=13601 ;Start=11/20/2023;End=5/20/2024;Duration=182;Cert=Nursing ;Specialty=Operating Room, Surgical Technologist ;Unit=Operating Room, Surgical Technologist ;Shift=Days, 7a-3:30p;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$95.00;OTRate=100 ;OTRules=By The Week, after 40, ;HolidayRate=105 (All Inclusive Rate + $10) ;OnCallRateDescription=$4 per hour pager ;Description=Certified Surgical Tech - 8 hour shifts (7a-3:30p) Samaritan Medical Center, Watertown, NY TRAVELER MUST BE NATIONALLY CERTIFIED-DO NOT SUBMIT CANDIDATES WHO ARE NOT PLEASE.    26week assignment. BLS required. Completion of a Certified Surgical Tech program. Certification by the Association of Surgical Technologistsrequired. Traveler should have previous OR experience, greater than 2 years  experience preferred. Traveler must have ability to complete Ortho, Ortho Trauma, ENT, GYN, General, Robotics and Urology cases at a minimum. If traveler is only trained in 1 or 2 of these service lines, they would be a good fit for our OR. Traveler should have completed at least 1 previous successful traveler assignment before. New travelers will NOT be considered. Previous Samaritan employees have to be gone at least 2 years and be eligible for rehire to be considered. (Contact facility for inquires) Permanent residence of traveler must be at least 60 miles away. Come work at Samaritan where travelers tell us they love doing their assignments. We are located in Northern NY in the beautiful Thousand Islands Region where lakes and rivers are a short 25 miles away. If you like the scenic areas, theAdirondack Mountains are 40 minutes away. Be a part of a great team!   Additional Information:Candidate must reside OUTSIDE of 60 miles. Cannot be a previous permanent employee unless been gone for 2 years. Can only be a traveler for the maximum of 1 year. MUST BE VACCINATED. Only medical declinations allowed in the state of NY   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261947;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Samaritan Medical Center
+    [shiftDateEnd] => 2024-06-03
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

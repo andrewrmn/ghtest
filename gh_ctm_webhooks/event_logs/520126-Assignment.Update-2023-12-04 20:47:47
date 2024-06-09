@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '883',
+  'Cf-Ray' => '8306e810578723b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: End Date Change
+    [sitename] => giftednurses
+    [spec] => LTAC
+    [assignmentid] => 520126
+    [workerID] => 56840
+    [WorkerContactNo] => 937-543-1940
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 36
+    [facilityID] => 15654
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-08-25
+    [workerLastName] => Beckwith
+    [shiftNum] => 5
+    [workerFirstName] => Tariea
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 04 2023 15:47:13
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION 
+BR:$80lRS:132332lFTK:Kronos
+    [guaranteedMinimum] => 
+    [workerEmail] => tariea.beckwith@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Select Specialty Hospital - Pontiac
+    [shiftDateEnd] => 2023-11-13
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

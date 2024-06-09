@@ -1,0 +1,67 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '29',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1505',
+  'Cf-Ray' => '8330cee3101c4961-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 weeks
+40 hrs/wk
+8a-4:30p
+Call every 3rd  weekend and 1-2 nights per week
+    [sitename] => giftednurses
+    [spec] => Interventional Radiology
+    [assignmentid] => 542178
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13400
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 09 2023 17:50:36
+    [daysPerWeek] => 5
+    [orderNote] => Source=EinsteinTrinity;SourceID=48092 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne Siouxland Medical Center ;City=Sioux City ;State=IA ;Zip=51102 ;Start=11/26/2023;End=2/24/2024;Duration=90;Cert=Interventional Rad Tech ;Specialty=Interventional Radiology ;Unit=IA\MercyOne Siouxland\IR Tech ;Shift=08:00:00 - 16:30:00;# of Postions=1;Type=Travel;BillRate=$81.00;OTRate=105.30 ;ChargeRate=84.00 ;CallbackRate=105.30 ;HolidayRate=105.30 ;Orientation=0.00 ;Description=13 weeks
+40 hrs/wk
+8a-4:30p
+Call every 3rd  weekend and 1-2 nights per week ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 81
+    [facilityName] => Mercy Medical Center - Sioux City Travel
+    [shiftDateEnd] => 2024-03-23
+    [shiftStartTime] => 08:00
+    [subjectID] => 
+)

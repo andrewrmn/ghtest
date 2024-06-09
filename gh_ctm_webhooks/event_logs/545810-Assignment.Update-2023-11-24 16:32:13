@@ -1,0 +1,176 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4582',
+  'Cf-Ray' => '82b30bf4072623c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Data Collection:
+
+Unit Information:
+ MHS Resource System Float Pool
+
+Location: 
+MH 
+
+Address:
+
+Floor:
+
+Building:
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds -Number of Staff   Type of staff:Day Shift   (example 1 charge, 3 RN, 2 CNA, and 1-3 sitters)Night Shift - Patient Ratios   Type of equipment - EMR -
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+Must have:
+ candidates without these skills will not be considered for the role.
+2 Years of Tele/MS/PCU experience Reliable transportation
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+Pervious travel experience 
+Charge nurse experienceDischarge throughput experienceMediTech proficient
+
+ 
+List typical procedures performed on unit(s): 
+
+Admit/Discharge patients
+ 
+Inpatient holds in the emergency room
+Best personality Fit:
+Friendly, versatile and adaptable
+REQUIRED CERTIFICATIONS:
+ACLSBLSNIH
+Floating Area(s):
+Nurse will float to any of the 7 emergency rooms throughout the Methodist Healthcare system to care for inpatient holds in the ED you will not float to inpatient units. Nurse may have to float mid shift to another facility.
+Dress Code: 
+Scrub Color/Attire - Navy scrubs, under shirts or jackets can be black, white or navy.
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+
+
+Weekends and On call(if any)
+Rotating WeekendsNo On call.
+ General Comments
+ No. of Positions: 1/3.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 545810
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5314
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 24 2023 11:32:13
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=763470 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=METHODIST HOSPITAL ;City=SAN ANTONIO ;State=TX ;Zip=78229 ;Start=11/6/2023;End=2/5/2024;Duration=91;Cert=RN ;Specialty=ICU ;Unit=SAN ANTONIO DIVISION (39) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=90 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:Data Collection:
+
+Unit Information:
+ MHS Resource System Float Pool
+
+Location: 
+MH 
+
+Address:
+
+Floor:
+
+Building:
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds -Number of Staff   Type of staff:Day Shift   (example 1 charge, 3 RN, 2 CNA, and 1-3 sitters)Night Shift - Patient Ratios   Type of equipment - EMR -
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+Must have:
+ candidates without these skills will not be considered for the role.
+2 Years of Tele/MS/PCU experience Reliable transportation
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+Pervious travel experience 
+Charge nurse experienceDischarge throughput experienceMediTech proficient
+
+ 
+List typical procedures performed on unit(s): 
+
+Admit/Discharge patients
+ 
+Inpatient holds in the emergency room
+Best personality Fit:
+Friendly, versatile and adaptable
+REQUIRED CERTIFICATIONS:
+ACLSBLSNIH
+Floating Area(s):
+Nurse will float to any of the 7 emergency rooms throughout the Methodist Healthcare system to care for inpatient holds in the ED you will not float to inpatient units. Nurse may have to float mid shift to another facility.
+Dress Code: 
+Scrub Color/Attire - Navy scrubs, under shirts or jackets can be black, white or navy.
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+
+
+Weekends and On call(if any)
+Rotating WeekendsNo On call.
+ General Comments
+ No. of Positions: 1/3.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/763470;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Methodist Hospital - Main TRAVEL
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

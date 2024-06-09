@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '859',
+  'Cf-Ray' => '850c4a4e41211465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => School
+    [assignmentid] => 537019
+    [workerID] => 336209
+    [WorkerContactNo] => 704-862-8209
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 37.5
+    [facilityID] => 15724
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-30
+    [workerLastName] => Wallen
+    [shiftNum] => 1
+    [workerFirstName] => Kayla
+    [cert] => SLI
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => February, 05 2024 10:47:08
+    [daysPerWeek] => 5
+    [orderNote] => BR:$57lRS:135590
+FTK: GiftTS( NO Sign) Reg. 37.5
+    [guaranteedMinimum] => 
+    [workerEmail] => kaylamarie121997@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 57
+    [facilityName] => Gaston County Schools
+    [shiftDateEnd] => 2024-06-22
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

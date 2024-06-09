@@ -1,0 +1,229 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4153',
+  'Cf-Ray' => '82de65fe714723b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Data Collection:
+
+Unit Information:
+L&amp;D
+
+
+Location: Valley Regional
+ Medical Center
+
+
+
+
+Address:100 A. Alton Gloor
+
+Floor:Ist
+
+Building:
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   9 LDRs 8
+ OBsNumber of Staff   2 core and
+ 1 ob tech core staffing for
+
+ 7pm shiftType of staff:Day Shift   Night Shift - 
+Agency needed for
+ 7 pm shiftPatient Ratios   
+1:2
+ for Labor
+ patientType of equipment   GE CorometricsEMR   CPN, Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+
+Experienced
+ L&amp;D nurse
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+
+
+List typical procedures performed on unit(s): 
+
+
+
+
+Best personality Fit:
+
+
+REQUIRED CERTIFICATIONS: AWHONN Intermediate
+ Fetal Monitor
+ Course, NRP certification
+
+
+Floating Area(s):
+According
+ to
+ competency
+Dress Code: 
+Scrub Color/Attire -
+ Royal Blue
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+Follow hospital policies
+
+
+
+Weekends and On call(if any)
+2
+ weekends a month; on call schedule
+ General Comments
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 538239
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5410
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-05
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 29 2023 17:48:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=762859 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=VALLEY REGIONAL MEDICAL CENTER ;City=Brownsville ;State=TX ;Zip=78526 ;Start=11/5/2023;End=2/4/2024;Duration=91;Cert=RN ;Specialty=L&D ;Unit=GULF COAST DIVISION (14) ;Shift=7:00AM – 7:00PM ;# of Postions=1;Type=Travel;BillRate=$82.00;OTRate=90 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Data Collection:
+
+Unit Information:
+L&amp;D
+
+
+Location: Valley Regional
+ Medical Center
+
+
+
+
+Address:100 A. Alton Gloor
+
+Floor:Ist
+
+Building:
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds   9 LDRs 8
+ OBsNumber of Staff   2 core and
+ 1 ob tech core staffing for
+
+ 7pm shiftType of staff:Day Shift   Night Shift - 
+Agency needed for
+ 7 pm shiftPatient Ratios   
+1:2
+ for Labor
+ patientType of equipment   GE CorometricsEMR   CPN, Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+
+Experienced
+ L&amp;D nurse
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+
+
+List typical procedures performed on unit(s): 
+
+
+
+
+Best personality Fit:
+
+
+REQUIRED CERTIFICATIONS: AWHONN Intermediate
+ Fetal Monitor
+ Course, NRP certification
+
+
+Floating Area(s):
+According
+ to
+ competency
+Dress Code: 
+Scrub Color/Attire -
+ Royal Blue
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+Follow hospital policies
+
+
+
+Weekends and On call(if any)
+2
+ weekends a month; on call schedule
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/762859;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 82
+    [facilityName] => Valley Regional Medical Center - Travel
+    [shiftDateEnd] => 2024-02-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

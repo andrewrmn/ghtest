@@ -1,0 +1,72 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1894',
+  'Cf-Ray' => '8346c3eef5bd6a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 weeks
+36-40 hrs/wk
+Night Shift  600pm   630am 
+
+Help cover every 6th weekend, when the weekend tech is off and call as needed 
+Must be registered on ARDMS and VT certification preferred but not required
+Holiday (it will be whatever holiday is included in their contract unless request time off)
+    [sitename] => giftednurses
+    [spec] => Ultrasound Tech
+    [assignmentid] => 542567
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13402
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-31
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => Ultrasound Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 06:30
+    [whenmodified] => December, 12 2023 09:47:48
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48146 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne Dubuque Medical Center ;City=Dubuque ;State=IA ;Zip=52001 ;Start=12/10/2023;End=3/9/2024;Duration=90;Cert=Ultrasound Tech ;Specialty=Radiology ;Unit=IA\MercyOne Dubuque\US Tech ;Shift=18:00:00 - 06:30:00;# of Postions=1;Type=Travel;BillRate=$105.00;OTRate=136.50 ;ChargeRate=108.00 ;CallbackRate=136.50 ;HolidayRate=136.50 ;Orientation=0.00 ;Description=13 weeks
+36-40 hrs/wk
+Night Shift  600pm   630am 
+
+Help cover every 6th weekend, when the weekend tech is off and call as needed 
+Must be registered on ARDMS and VT certification preferred but not required
+Holiday (it will be whatever holiday is included in their contract unless request time off) ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Mercy Medical Center - Dubuque Travel
+    [shiftDateEnd] => 2024-03-30
+    [shiftStartTime] => 18:00
+    [subjectID] => 
+)

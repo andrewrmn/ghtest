@@ -1,0 +1,65 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2187',
+  'Cf-Ray' => '82734d9c35091842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => (VAYA OFFER) LEVEL ONE EXPERIENCE preferred. Required BLS, ACLS, PALS, NIH. (10 hour shifts with call required). 2 years IR experience required, 1 yr Neuro exp (or exp with Neuro in a general ICU). Will consider a candidate with 1 year IR if has prior experience in ICU. (BF for David Perlmutter JG) 
+ Critical Need: Disaster Critical 12
+VayaOffer = True
+    [sitename] => giftednurses
+    [spec] => Interventional Radiology
+    [assignmentid] => 544600
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 12923
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-19
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:30
+    [whenmodified] => November, 16 2023 17:52:13
+    [daysPerWeek] => 4
+    [orderNote] => Source=OptimizerVizient;SourceID=43785279 ;Status=CandidatesRequested;Association=University of Kentucky Hospital ;Client=University of Kentucky Hospital ;City=Lexington ;State=KY ;Zip=40536 ;Start=12/19/2023;End=3/23/2024;Duration=95;Cert=RN ;Specialty=RN - Interventional Radiology ;Unit=CH INTERVENTIONAL RADIOLOGY - 1058722350 ;Shift=7:00 AM - 5:30 PM;# of Postions=1;Guaranteed Hours=0;Type=Travel;BillRate=$110.00;OTRate=154.00 ;CallbackRate=154.00 ;HolidayRate=165.00 ;Orientation=77.00 ;Priority=Critical;Description=(VAYA OFFER) LEVEL ONE EXPERIENCE preferred. Required BLS, ACLS, PALS, NIH. (10 hour shifts with call required). 2 years IR experience required, 1 yr Neuro exp (or exp with Neuro in a general ICU). Will consider a candidate with 1 year IR if has prior experience in ICU. (BF for David Perlmutter JG) 
+ Critical Need: Disaster Critical 12
+VayaOffer = True ;url=https://optimizer.vayaworkforce.com/agency/job-requests/43785279;localRate=$105.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => University of Kentucky Hospital Travel
+    [shiftDateEnd] => 2024-03-23
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

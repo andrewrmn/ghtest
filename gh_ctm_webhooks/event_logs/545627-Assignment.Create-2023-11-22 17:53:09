@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '861',
+  'Cf-Ray' => '82a307c0f52a23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 545627
+    [workerID] => 129502
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 34.5
+    [facilityID] => 15899
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => Anyanaso
+    [shiftNum] => 4
+    [workerFirstName] => Vivian
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 20:30
+    [whenmodified] => November, 22 2023 12:53:08
+    [daysPerWeek] => 3
+    [orderNote] => EXT-FTK: Gifted Timecard/Kronos
+BR:$120
+    [guaranteedMinimum] => 
+    [workerEmail] => nnekamd@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 150
+    [facilityName] => Brookdale Hospital Medical Center (RS) TRAVEL
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 08:00
+    [subjectID] => 
+)

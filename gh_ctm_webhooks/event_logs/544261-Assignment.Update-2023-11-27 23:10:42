@@ -1,0 +1,82 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3726',
+  'Cf-Ray' => '82ce0bc9b1331463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => RN will work in the float pool to provide support to nursing units in which they have 
+competencies to independently deliver nursing care to patients. Key accountabilities include: Assesses, 
+plans, implements and evaluates patients  care and condition based upon observation, examination and 
+other pertinent information. Completes assessment in specified time frame. Identifies and consistently 
+recognizes changes in normal and abnormal parameters in the patient's physiological, psychological, 
+cultural, developmental, and spiritual needs. Implements nursing interventions to achieve progress 
+toward expected patient outcomes or to stabilize a patient's condition and/or prevent complications. 
+Evaluates and documents patients' response to nursing care and modifies or revises treatment plans, 
+and/or contacts physicians as circumstances require. Participates in interdisciplinary patient care 
+planning and evaluates patient progression in preparation for safe discharge. Identifies and completes 
+assessments of patient (family) educational needs. Provides education consistent with patient's level of 
+understanding using existing resources based on diagnosis, treatment plan or prescribed medical regimen.
+    [sitename] => giftednurses
+    [spec] => Stepdown
+    [assignmentid] => 544261
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12994
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 03:00
+    [whenmodified] => November, 27 2023 18:10:40
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48454 ;Status=Open;Association=Trinity Health ;Client=IA - Genesis Medical Center Davenport-East ;City=Davenport ;State=IA ;Zip=52803 ;Start=12/3/2023;End=3/2/2024;Duration=90;Cert=RN Step Down ;Specialty=Regional Referral Center ;Unit=E-RN-CSU FP-IA ;Shift=15:00:00 - 03:00:00;# of Postions=2;Type=Travel;BillRate=$100.00;OTRate=130.00 ;ChargeRate=103.00 ;CallbackRate=130.00 ;HolidayRate=130.00 ;Orientation=0.00 ;Description=RN will work in the float pool to provide support to nursing units in which they have 
+competencies to independently deliver nursing care to patients. Key accountabilities include: Assesses, 
+plans, implements and evaluates patients  care and condition based upon observation, examination and 
+other pertinent information. Completes assessment in specified time frame. Identifies and consistently 
+recognizes changes in normal and abnormal parameters in the patient's physiological, psychological, 
+cultural, developmental, and spiritual needs. Implements nursing interventions to achieve progress 
+toward expected patient outcomes or to stabilize a patient's condition and/or prevent complications. 
+Evaluates and documents patients' response to nursing care and modifies or revises treatment plans, 
+and/or contacts physicians as circumstances require. Participates in interdisciplinary patient care 
+planning and evaluates patient progression in preparation for safe discharge. Identifies and completes 
+assessments of patient (family) educational needs. Provides education consistent with patient's level of 
+understanding using existing resources based on diagnosis, treatment plan or prescribed medical regimen. ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Genesis Medical Center - Davenport
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

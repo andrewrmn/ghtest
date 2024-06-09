@@ -1,0 +1,74 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '28',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1757',
+  'Cf-Ray' => '83f425abe7d4495d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Qualivis PA:ER RN (RNSP3)
+7P-7A
+12 weeks
+Weekdays/ weekends/ holidays 
+
+Certs: BLS, ACLS, TNCC, NIH
+Skills: Telemetry, IV Start, Triage, Conscious Sedation
+Experience: 2+ years preferred
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 101541
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10628
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-02-03
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 02 2024 10:48:29
+    [daysPerWeek] => 3
+    [orderNote] => Source=Lotus;SourceID=891400;Status=Open;Association=Qualivis PA;Client=Ouachita County Medical Center;City=Camden;State=AR;Zip=71701;Start=2/3/2020;End=5/4/2020;Duration=91;Cert=Registered Nurse;Specialty=ER;Unit=ER;Shift=Night (12 Hours) 19:00 7:00;# of Postions=2;Type=Travel;OTRate= ;OTRules= ;ChargeRate= ;CallbackRate= ;CallbackRate= ;HolidayRate= ;OnCallRateDescription= ;Orientation= ;Description=Qualivis PA:ER RN (RNSP3)
+7P-7A
+12 weeks
+Weekdays/ weekends/ holidays 
+
+Certs: BLS, ACLS, TNCC, NIH
+Skills: Telemetry, IV Start, Triage, Conscious Sedation
+Experience: 2+ years preferred;Buyer= ;url=https://app.lotusconnect.com/webapi/api/VendorModule/Jobs?$filter=JobID%20eq%20891400&;VMSPositionType= AvgHoursPerWeek= InterviewRequired=False;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => Ouachita County Medical Center - TRAVEL
+    [shiftDateEnd] => 2020-05-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

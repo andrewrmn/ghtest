@@ -1,0 +1,121 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4050',
+  'Cf-Ray' => '8307bcdfb5b66a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:SRT RN Position # 111905062 | Staffing Ratios 1:5-6
+Complete Description:The UNC REX Staffing Response Team is our centralized staffing pool providing nursing care to patients across the hospital. Acute care nurses may float to all Med Surg acute care units based on skill sets.
+Requisition Comments:Local Rate: 10% Rate Reduction within 60 miles. 
+
+Lotus Offers - Fast Offers!
+Candidates will NOT interview.
+
+Must include RTO in submittal in order to be honored at time of offer!
+
+
+EPIC Required
+Scheduling Details:3x12's, Nights, 7p-7a
+
+EOW
+EOH 
+
+No Call
+
+No Holiday RTO will be approved
+
+Must be OK with floating to other units as required
+
+Must be OK possibly working with COVID patients
+
+No block scheduling
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544104
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10747
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 04 2023 18:12:31
+    [daysPerWeek] => 3
+    [orderNote] => Source=PeopleFluent;SourceID=724725 ;Status=Open;Association=5 HV- Cardiovascular Surgical Intensive Care Unit (CSICU), 103 - 110604 - 1100\r\n6 HV- Cardiovascular Surgical Stepdown Unit, 103 - 110928 - 1100\r\n7 HV - Cardiac Medicine Intermediate Care Unit, 103 - 110937 - 1100\r\n8 HV- Cardiac Intermediate Care Unit, 103 - 110945 - 1100\r\n3 East Medical Short Stay Unit, 103 - 110907 - 1100\r\n3 West- General Medicine, 103 - 110908 - 1100\r\n4 East Pulmonary/ Nephrology Intermediate Care, 103 - 110913 - 1100\r\n4 HV- Cardiovascular Intensive Care Unit, 103 - 110602 - 1100\r\n4 West - Surgical Short Stay Unit, 103 - 110914 - 1100\r\n6 East Surgical Observation, 103 - 110927 - 1100\r\n6 West Orthopedics, 103 - 110932 - 1100\r\n7 East Adult Bariatric and Thoracic Surgery, 103 - 110935 - 1100\r\n7 West General Surgery, 103 - 110940 - 1100\r\nEmergency Dept, 103 - 240216 - 1100\r\nStaffing Reponse Team, 103 - 110045 - 1100\r\n5 West Neuro, 103 - 110923 - 1100\r\n5 East Oncology, 103 - 110919 - 1100\r\n6 BT - Med/Surg/Intermediate- UNC Rex Holly Springs, 104 - 110974 - 1100\r\n5 BT- Med/Surg Overflow  - UNC Rex Holly Springs, 104 - 110998 - 1100 ;Client=UNC Health ;Start=12/11/2023;End=3/9/2024;Duration=89;Cert=RN ;Specialty=Med/Surg ;Unit=RN - Staffing Response Team - Med/Surg - Nights - UNC Rex ;Shift=3x12.0 3x12's, Nights, 7p-7a
+
+EOW
+EOH 
+
+No Call
+
+No Holiday RTO will be approved
+
+Must be OK with floating to other units as required
+
+Must be OK possibly working with COVID patients
+
+No block scheduling;# of Postions=1;Type=Travel;BillRate=$74.00;Description=Short Description:SRT RN Position # 111905062 | Staffing Ratios 1:5-6
+Complete Description:The UNC REX Staffing Response Team is our centralized staffing pool providing nursing care to patients across the hospital. Acute care nurses may float to all Med Surg acute care units based on skill sets.
+Requisition Comments:Local Rate: 10% Rate Reduction within 60 miles. 
+
+Lotus Offers - Fast Offers!
+Candidates will NOT interview.
+
+Must include RTO in submittal in order to be honored at time of offer!
+
+
+EPIC Required
+Scheduling Details:3x12's, Nights, 7p-7a
+
+EOW
+EOH 
+
+No Call
+
+No Holiday RTO will be approved
+
+Must be OK with floating to other units as required
+
+Must be OK possibly working with COVID patients
+
+No block scheduling ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=724725;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 74
+    [facilityName] => UNC REX Healthcare TRAVEL
+    [shiftDateEnd] => 2024-03-22
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

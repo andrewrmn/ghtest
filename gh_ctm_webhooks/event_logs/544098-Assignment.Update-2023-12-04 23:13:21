@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3147',
+  'Cf-Ray' => '8307bd4617b01838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Provide safe, competent nursing care for patients in accordance with facility policies, standards, and philosophy. Provides professional leadership and support to the healthcare team. Must be able to work nursery and postpartum, must be willing to float and take patients in other areas of the hospital when OB is slow or closed. Must have experience with Electronic Fetal Monitoring and IV Drips for Magnesium, Pitocin, and Insulin. S.T.A.B.L.E. certification preferred.   Additional Information:50 mile radius rule is in place. traveler's permanent address must be 50 miles or further from facility -------------All of the travelers documents must be in by 3pm Wednesday the week before the traveler starts. They will automatically be pushed out till the next orientation class.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 544098
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6081
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 04 2023 18:12:31
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261601 ;Status=Open;Association=CHI Hospital System ;Client=Mercy Medical Center Williston MBO 3800 ;City=Williston ;State=ND ;Zip=58801 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Nursing ;Specialty=Labor and Delivery Nurse ;Unit=Labor and Delivery Nurse ;Shift=Shift would be Rotating D/N- 12 hour shifts 7a-7p or 7p-7a.;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$95.00;OTRate=95 ;OTRules=By The Week, after 40, ;ChargeRate=2 (Charge Rate Differential) ;CallbackRate=95 (All Inclusive Rate) ;HolidayRate=95 (All Inclusive Rate) ;OnCallRateDescription=$7 per hour pager ;Description=Provide safe, competent nursing care for patients in accordance with facility policies, standards, and philosophy. Provides professional leadership and support to the healthcare team. Must be able to work nursery and postpartum, must be willing to float and take patients in other areas of the hospital when OB is slow or closed. Must have experience with Electronic Fetal Monitoring and IV Drips for Magnesium, Pitocin, and Insulin. S.T.A.B.L.E. certification preferred.   Additional Information:50 mile radius rule is in place. traveler's permanent address must be 50 miles or further from facility -------------All of the travelers documents must be in by 3pm Wednesday the week before the traveler starts. They will automatically be pushed out till the next orientation class.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261601;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => CHI St. Alexius Health Williston Medical Center
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

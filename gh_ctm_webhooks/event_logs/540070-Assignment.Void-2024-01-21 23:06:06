@@ -1,0 +1,459 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5424',
+  'Cf-Ray' => '849334a8f21a23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN PCU
+NIGHTS
+
+13 WEEKS
+
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+
+IVCU   Interventional Care UnitLocation: Portsmouth Regional Hospital
+Address: 333 Borthwick Avenue, Portsmouth, NH 03801
+
+Floor: 2nd
+Floor
+General InformationTell us about the unit(s):
+ 
+
+
+
+
+
+
+Number of Beds   18
+
+ 
+
+
+
+
+
+
+Number of Staff   6 nurses, 1 aide per shift
+
+ 
+
+
+
+
+
+
+Type of staff:
+
+o
+
+
+Day Shift   6 nurses, 1 aide per shift
+
+o
+
+
+Night Shift   6 nurses, 1 aide per shift
+
+ 
+
+
+
+
+
+
+Patient Ratios   typically 3 patients to 1 nurse. May see 4 patients to 1 nurse
+
+ 
+
+
+
+
+
+
+Type of equipment  
+
+telemetry monitor, Doppler, cardiac monitors, a-lines, TR bands, sheaths
+
+ 
+
+
+
+
+
+
+EMR   Meditech
+
+
+
+Hiring Profile
+
+Must have:
+
+
+ 
+
+
+
+
+
+
+Telemetry monitoring
+
+ 
+
+
+
+
+
+
+ACLS, BLS
+
+ 
+
+
+
+
+
+
+Cardiac nurse experience
+
+
+
+
+Preferred or nice to have:
+
+
+ 
+
+
+
+
+
+
+
+PCCN
+
+ 
+
+
+
+
+
+
+
+Pre and post nursing care for vascular surgery, cardiac surgery, cath lab
+
+
+
+
+List typical procedures performed on unit(s):
+
+
+
+ 
+
+
+
+
+
+
+
+Cardiac cath lab interventions, vascular surgery, 1 or 2 day post-op open heart
+
+ 
+
+
+
+
+
+
+
+STEMI, stroke
+
+
+
+Best personality Fit:
+ 
+
+
+
+
+
+
+
+Dependable, flexible, teamwork oriented, can do attitude, strong critical thinking
+Floating Area(s):
+ 
+
+
+
+
+
+
+IMCU, PCNT, Med-Surg
+Weekends and On call:
+ 
+
+
+
+
+
+
+Rotating weekends
+ No. of Positions: 2/2.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 540070
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-02-05
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 21 2024 18:06:05
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771150 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=PORTSMOUTH REGIONAL HOSPITAL NH ;City=PORTSMOUTH ;State=NH ;Zip='03801 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=RN ;Specialty=PCU ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM - 7:00AM;# of Postions=2;Type=Travel;BillRate=$110.00;minBillRate=$110.00;OTRate=118 ;CallbackRate=98 ;HolidayRate=98 ;Description=Description:TRAVEL RN PCU
+NIGHTS
+
+13 WEEKS
+
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+
+IVCU   Interventional Care UnitLocation: Portsmouth Regional Hospital
+Address: 333 Borthwick Avenue, Portsmouth, NH 03801
+
+Floor: 2nd
+Floor
+General InformationTell us about the unit(s):
+ 
+
+
+
+
+
+
+Number of Beds   18
+
+ 
+
+
+
+
+
+
+Number of Staff   6 nurses, 1 aide per shift
+
+ 
+
+
+
+
+
+
+Type of staff:
+
+o
+
+
+Day Shift   6 nurses, 1 aide per shift
+
+o
+
+
+Night Shift   6 nurses, 1 aide per shift
+
+ 
+
+
+
+
+
+
+Patient Ratios   typically 3 patients to 1 nurse. May see 4 patients to 1 nurse
+
+ 
+
+
+
+
+
+
+Type of equipment  
+
+telemetry monitor, Doppler, cardiac monitors, a-lines, TR bands, sheaths
+
+ 
+
+
+
+
+
+
+EMR   Meditech
+
+
+
+Hiring Profile
+
+Must have:
+
+
+ 
+
+
+
+
+
+
+Telemetry monitoring
+
+ 
+
+
+
+
+
+
+ACLS, BLS
+
+ 
+
+
+
+
+
+
+Cardiac nurse experience
+
+
+
+
+Preferred or nice to have:
+
+
+ 
+
+
+
+
+
+
+
+PCCN
+
+ 
+
+
+
+
+
+
+
+Pre and post nursing care for vascular surgery, cardiac surgery, cath lab
+
+
+
+
+List typical procedures performed on unit(s):
+
+
+
+ 
+
+
+
+
+
+
+
+Cardiac cath lab interventions, vascular surgery, 1 or 2 day post-op open heart
+
+ 
+
+
+
+
+
+
+
+STEMI, stroke
+
+
+
+Best personality Fit:
+ 
+
+
+
+
+
+
+
+Dependable, flexible, teamwork oriented, can do attitude, strong critical thinking
+Floating Area(s):
+ 
+
+
+
+
+
+
+IMCU, PCNT, Med-Surg
+Weekends and On call:
+ 
+
+
+
+
+
+
+Rotating weekends
+ No. of Positions: 2/2.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/771150;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => Portsmouth Regional Hospital
+    [shiftDateEnd] => 2024-05-06
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

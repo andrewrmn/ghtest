@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5187',
+  'Cf-Ray' => '8315c96f507123c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => General DescriptionThe RN is responsible for providing direct patient care within the scope of their practice.  The position is one of providing direct patient care to women in labor, through delivery, postpartum, and to provide direct care to the newborn.  Assuring all aspects of maternal childcare. ResponsibilityPerforming assessments, monitoring process of labor, preparing for C-sections, inductions, and proper documentation of nursing care.  Administer care during labor, post-delivery, and postpartum including infant care and providing patient education.  Prepares delivery room, provides emotional support, and coordinates transfers.  Administer IV medications, adhere to principles of infection control and general policies of OB department.  Knowledge and/or interest in obstetrics and equipment.AccountabilityThe RN reports directly to the New Beginnings Birth Center Manager. Special DemandsPhysical: Long periods of standing, walking, and heavy lifting.  Exposure to blood and body fluids, unpleasant sights, smells and infectious diseases possible. QualificationsEducation: RN graduate with current Colorado licensure. Must have current CPR certification.  Neonatal Resuscitation Certification and ACLS within one year of employment. Experience: 4 years experience in Obstetrics care preferred. Skills: Knowledge of or interest in learning labor, delivery, postpartum and nursing care essentials.  Principles of sterile technique and infection control. Skilled in technical aspects of mother/infant care. Able to perform effectively in highly stressful situations. Able to interact effectively with a wide variety of people and have good communication skills. Working EnvironmentFull Time working 36 hours per week, 7:00p to 7:00a.  May rotate shifts and areas as staffing and census requires On call required.   Position Urgency:Normal Billing string = Prowers Medical Center
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 544249
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5871
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 06 2023 11:08:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261663 ;Status=Open;Association=Prowers Medical Center ;Client=Prowers Medical Center ;City=Lamar ;State=CO ;Zip=81052 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Nursing ;Specialty=Obstetrics RN, Labor and Delivery Nurse ;Unit=Obstetrics RN, Labor and Delivery Nurse ;Shift=7:00pm-7:00am;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$118.00;OTRate=177 ;OTRules=By The Week, after 40, ;CallbackRate=128 (All Inclusive Rate + $10) ;HolidayRate=128 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=General DescriptionThe RN is responsible for providing direct patient care within the scope of their practice.  The position is one of providing direct patient care to women in labor, through delivery, postpartum, and to provide direct care to the newborn.  Assuring all aspects of maternal childcare. ResponsibilityPerforming assessments, monitoring process of labor, preparing for C-sections, inductions, and proper documentation of nursing care.  Administer care during labor, post-delivery, and postpartum including infant care and providing patient education.  Prepares delivery room, provides emotional support, and coordinates transfers.  Administer IV medications, adhere to principles of infection control and general policies of OB department.  Knowledge and/or interest in obstetrics and equipment.AccountabilityThe RN reports directly to the New Beginnings Birth Center Manager. Special DemandsPhysical: Long periods of standing, walking, and heavy lifting.  Exposure to blood and body fluids, unpleasant sights, smells and infectious diseases possible. QualificationsEducation: RN graduate with current Colorado licensure. Must have current CPR certification.  Neonatal Resuscitation Certification and ACLS within one year of employment. Experience: 4 years experience in Obstetrics care preferred. Skills: Knowledge of or interest in learning labor, delivery, postpartum and nursing care essentials.  Principles of sterile technique and infection control. Skilled in technical aspects of mother/infant care. Able to perform effectively in highly stressful situations. Able to interact effectively with a wide variety of people and have good communication skills. Working EnvironmentFull Time working 36 hours per week, 7:00p to 7:00a.  May rotate shifts and areas as staffing and census requires On call required.   Position Urgency:Normal Billing string = Prowers Medical Center ;url=https://vms.medefis5.com/jobs/261663;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 118
+    [facilityName] => Prowers Medical Center
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

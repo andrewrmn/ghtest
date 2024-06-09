@@ -1,0 +1,132 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5807',
+  'Cf-Ray' => '82b716d6161d1465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Facility will not book more than 4 weeks out.
+
+2 Years Min experience Required
+
+RTO: Limited to 5 Days Total
+
+NO BLOCKED SCHEDULING
+
+Certs: BLS, ACLS,  PALS, NIH , CPI Required
+
+Unit staffing: Patient care techs, Sitters, paramedics, USC. Charge nurses are usually offline but may have a patient assignment at times. Nurses do all labs sticks, EKG s, line starts.
+
+Type of equipment includes but is not limited to the following: Alaris IV Pumps, CADD PCA pumps, Servo I ventilators, Medtronic EVD Management Systems; Arctic Sun TMS; Spacelabs Bedside Monitors, Lucas CPR Device, Hill Rom Beds, Pyxis Medication Station; and Veratron Bladder Scanner.
+
+Scheduling requirements: 12-hour shifts, 36 hrs/week; Weekends: scheduled for   of the weekends per 4-week schedule (weekend shifts are considered Days:  Saturday and Sunday; Nights:  Friday, Saturday, Sunday).
+
+ Please note that we may still have Covid-19 patients and all nurses are expected to be able to take care of any isolation patient. Please know your N95 Mask size.
+
+ Scrubs: Teal, White, or Combo
+
+ Parking: one-time $40 fee.
+
+Charting: Meditech
+
+Locals: 75 Miles > Base Rate $70.00
+
+Please be advised that January 13th 2024, all clinicians working at Tulane campus will be transitioned over and will continue their assignments at East Jefferson campus.
+Location : 4200 Houma Blvd, Metairie, LA 70006
+
+
+ Modified Time:12/18/2023 6:00:00 AM
+ Account Manager: Chad Samuel
+ Account Manager Email: csamuel@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:High
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel.FLOAT REQUIREMENT   Everyone floats. If clinicians are floated to a unit outside their specialty, they will only be assigned lower acuity patients within their skillset. ICU will float down with lower patient ratios.
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 545856
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 16204
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => November, 24 2023 23:18:40
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2318840 ;Status=Open;Association=Vaya Legacy MSP (Connect) ;Client=Tulane Medical Center ;City=New Orleans ;State=LA ;Zip=70112 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Registered Nurse ;Specialty=ER ;Unit=ER RN | 78074 ;Shift=Day 3x12-Hour (07:00 - 19:30);# of Postions=0;Type=Travel;BillRate=$80.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Facility will not book more than 4 weeks out.
+
+2 Years Min experience Required
+
+RTO: Limited to 5 Days Total
+
+NO BLOCKED SCHEDULING
+
+Certs: BLS, ACLS,  PALS, NIH , CPI Required
+
+Unit staffing: Patient care techs, Sitters, paramedics, USC. Charge nurses are usually offline but may have a patient assignment at times. Nurses do all labs sticks, EKG s, line starts.
+
+Type of equipment includes but is not limited to the following: Alaris IV Pumps, CADD PCA pumps, Servo I ventilators, Medtronic EVD Management Systems; Arctic Sun TMS; Spacelabs Bedside Monitors, Lucas CPR Device, Hill Rom Beds, Pyxis Medication Station; and Veratron Bladder Scanner.
+
+Scheduling requirements: 12-hour shifts, 36 hrs/week; Weekends: scheduled for   of the weekends per 4-week schedule (weekend shifts are considered Days:  Saturday and Sunday; Nights:  Friday, Saturday, Sunday).
+
+ Please note that we may still have Covid-19 patients and all nurses are expected to be able to take care of any isolation patient. Please know your N95 Mask size.
+
+ Scrubs: Teal, White, or Combo
+
+ Parking: one-time $40 fee.
+
+Charting: Meditech
+
+Locals: 75 Miles > Base Rate $70.00
+
+Please be advised that January 13th 2024, all clinicians working at Tulane campus will be transitioned over and will continue their assignments at East Jefferson campus.
+Location : 4200 Houma Blvd, Metairie, LA 70006
+
+
+ Modified Time:12/18/2023 6:00:00 AM
+ Account Manager: Chad Samuel
+ Account Manager Email: csamuel@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:High
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel.FLOAT REQUIREMENT   Everyone floats. If clinicians are floated to a unit outside their specialty, they will only be assigned lower acuity patients within their skillset. ICU will float down with lower patient ratios. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2318840/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Tulane Medical Center-Travel
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

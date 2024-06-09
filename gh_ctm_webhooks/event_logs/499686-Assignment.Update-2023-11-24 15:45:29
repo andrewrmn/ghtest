@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '983',
+  'Cf-Ray' => '82b2c77c95bd1838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By Temp; Medical Leave
+End Date Change 10-30-2023
+Last shift worked was 10-27-23
+    [sitename] => giftednurses
+    [spec] => School
+    [assignmentid] => 499686
+    [workerID] => 259293
+    [WorkerContactNo] => 505-609-7787
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 37.5
+    [facilityID] => 13902
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-08-01
+    [workerLastName] => Sauer
+    [shiftNum] => 1
+    [workerFirstName] => Kendra
+    [cert] => COTA
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 24 2023 10:45:28
+    [daysPerWeek] => 5
+    [orderNote] => BR:$64lRS:128051
+FTK:GiftTC(Signed) Reg 37.5 hrs
+    [guaranteedMinimum] => 
+    [workerEmail] => kendralsauer@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 64
+    [facilityName] => Central Consolidated School District
+    [shiftDateEnd] => 2023-10-27
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

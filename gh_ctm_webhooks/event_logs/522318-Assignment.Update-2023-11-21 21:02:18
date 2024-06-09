@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '21',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '896',
+  'Cf-Ray' => '829bdf72b28f4941-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Start Date Change
+    [sitename] => giftednurses
+    [spec] => LTAC
+    [assignmentid] => 522318
+    [workerID] => 46472
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8180
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-09-11
+    [workerLastName] => Jones
+    [shiftNum] => 5
+    [workerFirstName] => Diane
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 21 2023 16:02:17
+    [daysPerWeek] => 3
+    [orderNote] => BR:$77lRS:132775lFTK:Kronos
+Orient:$20lNonBill:12hrs
+    [guaranteedMinimum] => 
+    [workerEmail] => dianejones20011@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 77
+    [facilityName] => Select Specialty Atlanta/Midtown - TRAVEL
+    [shiftDateEnd] => 2023-10-19
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

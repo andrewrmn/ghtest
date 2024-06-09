@@ -1,0 +1,531 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6508',
+  'Cf-Ray' => '828d6ae545db1830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN NEURO TELE7P - 7A13 WEEKS
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE VA LICENSE/COMPACT AT SUBMISSION
+BLS REQUIRED
+
+
+
+Unit Information:
+
+2 East Neuroscience UnitLocation: CJW Johnston-Willis Hospital
+Address: 1401 Johnston- Willis Drive
+
+Floor:2
+General InformationTell us about the unit(s):
+ 
+
+
+
+
+
+
+
+
+Number of Beds -23
+
+ 
+
+
+
+
+
+
+
+
+Type of staff:
+
+o
+
+
+
+Day Shift   1 Charge, 5 RN s, 2 CNA, 1 DA
+
+o
+
+
+
+Night Shift   1 Charge, 5 RN, 2 CAN, 1 DA
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios   4-5:1
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment   telemetry
+
+ 
+
+
+
+
+
+
+
+
+EMR - Meditech
+Typical hiring profileSkill Set Most recruited for:
+
+(Travel RNs, local CNAs and sitters)
+
+Must have:
+
+ 
+
+
+
+
+
+
+
+
+NIHSS competency
+
+ 
+
+
+
+
+
+
+
+
+Telemetry competencies
+
+Preferred or nice to have:
+
+
+ 
+
+
+
+
+
+
+
+
+Flexible schedule, could switch to day shift if asked in advance
+
+ 
+
+
+
+
+
+
+
+
+Weekend coverage
+
+List typical procedures performed on unit(s):
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Post op spine surgery, LP
+
+ 
+
+
+
+
+
+
+
+
+
+Epilepsy monitoring
+Best personality Fit:
+ 
+
+
+
+
+
+
+
+
+
+Team player
+
+ 
+
+
+
+
+
+
+
+
+
+Positive
+
+Dress Code:
+
+ 
+
+
+
+
+
+
+
+
+Scrub Color -
+
+navy
+ General CommentsUnit Information:
+ 2 East Neuroscience Unit
+
+Location: CJW Johnston-Willis Hospital
+
+Address: 1401 Johnston- Willis Drive
+
+Floor:2
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds -23Type of staff:Day Shift   1 Charge, 5 RN s, 2 CNA, 1 DANight Shift   1 Charge, 5 RN, 2 CAN, 1 DAPatient Ratios   4-5:1Type of equipment   telemetry EMR - Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ (Travel RNs, local CNAs and sitters)
+
+
+
+
+Must have: 
+NIHSS competencyTelemetry competencies
+Preferred or nice to have:
+ 
+Flexible schedule, could switch to day shift if asked in advanceWeekend coverage
+List typical procedures performed on unit(s): 
+
+
+Post op spine surgery, LP
+Epilepsy monitoring
+Best personality Fit:
+
+Team player
+Positive
+Dress Code: 
+Scrub Color -
+ navy
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 536771
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5508
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 19 2023 21:56:03
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=767407 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=CJW MEDICAL -JOHNSTON-WILLIS CAMPUS VA ;City=RICHMOND ;State=VA ;Zip=23235 ;Start=11/12/2023;End=2/11/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=CAPITAL DIVISION (20) ;Shift=7P - 7A;# of Postions=3;Type=Travel;BillRate=$85.00;OTRate=93 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL RN NEURO TELE7P - 7A13 WEEKS
+MUST HAVE 2 YEARS EXPERIENCE IN HOSPITAL SETTINGMUST HAVE VA LICENSE/COMPACT AT SUBMISSION
+BLS REQUIRED
+
+
+
+Unit Information:
+
+2 East Neuroscience UnitLocation: CJW Johnston-Willis Hospital
+Address: 1401 Johnston- Willis Drive
+
+Floor:2
+General InformationTell us about the unit(s):
+ 
+
+
+
+
+
+
+
+
+Number of Beds -23
+
+ 
+
+
+
+
+
+
+
+
+Type of staff:
+
+o
+
+
+
+Day Shift   1 Charge, 5 RN s, 2 CNA, 1 DA
+
+o
+
+
+
+Night Shift   1 Charge, 5 RN, 2 CAN, 1 DA
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios   4-5:1
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment   telemetry
+
+ 
+
+
+
+
+
+
+
+
+EMR - Meditech
+Typical hiring profileSkill Set Most recruited for:
+
+(Travel RNs, local CNAs and sitters)
+
+Must have:
+
+ 
+
+
+
+
+
+
+
+
+NIHSS competency
+
+ 
+
+
+
+
+
+
+
+
+Telemetry competencies
+
+Preferred or nice to have:
+
+
+ 
+
+
+
+
+
+
+
+
+Flexible schedule, could switch to day shift if asked in advance
+
+ 
+
+
+
+
+
+
+
+
+Weekend coverage
+
+List typical procedures performed on unit(s):
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Post op spine surgery, LP
+
+ 
+
+
+
+
+
+
+
+
+
+Epilepsy monitoring
+Best personality Fit:
+ 
+
+
+
+
+
+
+
+
+
+Team player
+
+ 
+
+
+
+
+
+
+
+
+
+Positive
+
+Dress Code:
+
+ 
+
+
+
+
+
+
+
+
+Scrub Color -
+
+navy
+ General CommentsUnit Information:
+ 2 East Neuroscience Unit
+
+Location: CJW Johnston-Willis Hospital
+
+Address: 1401 Johnston- Willis Drive
+
+Floor:2
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds -23Type of staff:Day Shift   1 Charge, 5 RN s, 2 CNA, 1 DANight Shift   1 Charge, 5 RN, 2 CAN, 1 DAPatient Ratios   4-5:1Type of equipment   telemetry EMR - Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ (Travel RNs, local CNAs and sitters)
+
+
+
+
+Must have: 
+NIHSS competencyTelemetry competencies
+Preferred or nice to have:
+ 
+Flexible schedule, could switch to day shift if asked in advanceWeekend coverage
+List typical procedures performed on unit(s): 
+
+
+Post op spine surgery, LP
+Epilepsy monitoring
+Best personality Fit:
+
+Team player
+Positive
+Dress Code: 
+Scrub Color -
+ navy ;url=https://vendor.healthtrustws.com/positions/767407;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => CJW Johnston-Willis Hospital
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

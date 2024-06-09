@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2023',
+  'Cf-Ray' => '82cd02bb66bc183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Required Education & Experience:Graduate of an accredited nursing program.Must be currently licensed to practice as an RN in the State of Colorado.ACLS required upon hire or within 6 months.BLS required. Two years PACU experience preferred.   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => PACU
+    [assignmentid] => 545967
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 2307
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 27 2023 15:09:43
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=261466 ;Status=Open;Association=Delta County Memorial Hospital ;Client=Delta County Memorial Hospital ;City=Delta ;State=CO ;Zip=81416 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Nursing ;Specialty=Post Anesthesia Care Unit Nurse (PACU) ;Unit=Post Anesthesia Care Unit Nurse (PACU) ;Shift=4-10hr shifts ;# of Postions=2;Guaranteed Hours=40;Type=Travel;BillRate=$93.00;OTRate=93 ;OTRules=By The Week, after 40, ;CallbackRate=103 (All Inclusive Rate + $10) ;HolidayRate=103 (All Inclusive Rate + $10) ;OnCallRateDescription=$4 per hour pager ;Description=Required Education & Experience:Graduate of an accredited nursing program.Must be currently licensed to practice as an RN in the State of Colorado.ACLS required upon hire or within 6 months.BLS required. Two years PACU experience preferred.   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261466;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 93
+    [facilityName] => Delta County Memorial Hospital Travel
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

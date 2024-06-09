@@ -1,0 +1,639 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '10618',
+  'Cf-Ray' => '82790ce0e38a23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Hospital:
+ Tristar   Stonecrest Medical Center              Location: Smyrna, TN             
+Address: 200   Stonecrest Blvd
+         
+Unit Name: Med-Surg
+             
+Building: Main   Hospital 
+         
+Cost Center:   610,613,614, &amp; 604
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds: 54; 11 beds on a busy   and dedicated ortho/spine unit
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios: 1:5-6 for RNs; 1:12-15   for PCTs; RN/LPN team would have 10 total. Each hall has 2-3 RNs/1 LPN (as   staffing/census allows) and 1-2 PCTs.
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description: Unit   secretaries until 8p during weekdays. Techs and Externs availability. RN/LPN   teams. 
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment: Alaris pumps,   remote telemetry, continuous pulse ox, specialty beds, transfer equipment, wound   vacs, chest tubes, NG and feeding tubes, etc. 
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech 
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: At least one   weekend within 4-week period. (May be split up) blocked scheduling case by   case basis. 
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: Floating within   unit s discretion. 
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements: At   least 1 year of RN experience. 
+   
+ 
+
+
+
+
+
+
+
+   Patient Break Down: all   medical-surgical patients, orthopedic and spine patients on the designated   floor, trauma patients, psych medical hold patients, etc.
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:   BLS, ACLS (optional), active RN license 
+             Hiring profile             
+Requested Skill Set: Punctual, time   management, organized, team player, positive attitude, effective   communicator, self-starter. 
+   
+   
+Must have: 1 year of M/S experience, ability to jump in   and learn quickly.
+   
+   
+Advanced skills needed: Thorough assessment skills, prioritization   skills, critical thinking, and time management. 
+   
+
+
+   
+Procedures performed on unit: 
+General   Medical/Surgical procedures and patient population including   post-catheterizations w/o intervention, lap appy/chole,   thoracentesis/paracentesis, special procedures performed by IR, dedicated   Spine and Joint Unit, stable traumas, HD/peritoneal dialysis, CBI, etc. 
+   
+
+
+   
+Certifications Required: BLS, ACLS (Optional)
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   
+Grey Scrubs
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   Provided upon   pre-boarding 
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards...
+    
+ 
+
+
+
+
+
+
+
+   ACS Certified
+   
+ 
+
+
+
+
+
+
+
+   Hernia Center of Excellence 
+   
+ 
+
+
+
+
+
+
+
+   Spine &amp; Joint Accredited
+   
+ 
+
+
+
+
+
+
+
+   Unit of Distinction Honorable Mention 2022
+   
+ 
+
+
+
+
+
+
+
+   Leapfrog Top 100 Hospital 
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+
+
+
+
+
+
+
+   Bladder   Scanners
+   
+ 
+
+
+
+
+
+
+
+   New easy to   use 12-Lead EKG machine. 
+   
+ 
+
+
+
+
+
+
+
+   Using   Teletracking for bed placement. 
+   
+ 
+
+
+
+
+
+
+
+   MobiLab 
+   
+ 
+
+
+
+
+
+
+
+   Patient   Keeper 
+   
+ 
+
+
+
+
+
+
+
+   Inspire App
+   
+ 
+
+
+
+
+
+
+
+   Wound   Capture 
+   
+ 
+
+
+
+
+
+
+
+   Very busy   Med-Surg and Ortho/Spine unit. Great culture and team work within Med-Surg   with a handful of nurses that have been here for many years. Supportive to   questions and willing to help each other out. Flexible scheduling and   consistent communication with department leadership. Opportunities for OT and   incentives as appropriate.
+ General Comments
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543080
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1299
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 17 2023 10:36:37
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771843 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=STONECREST MEDICAL CENTER TN ;City=SMYRNA ;State=TN ;Zip=37167 ;Start=11/12/2023;End=2/11/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=TRISTAR DIVISION (7) ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$73.00;OTRate=81 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Hospital:
+ Tristar   Stonecrest Medical Center              Location: Smyrna, TN             
+Address: 200   Stonecrest Blvd
+         
+Unit Name: Med-Surg
+             
+Building: Main   Hospital 
+         
+Cost Center:   610,613,614, &amp; 604
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds: 54; 11 beds on a busy   and dedicated ortho/spine unit
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios: 1:5-6 for RNs; 1:12-15   for PCTs; RN/LPN team would have 10 total. Each hall has 2-3 RNs/1 LPN (as   staffing/census allows) and 1-2 PCTs.
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description: Unit   secretaries until 8p during weekdays. Techs and Externs availability. RN/LPN   teams. 
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment: Alaris pumps,   remote telemetry, continuous pulse ox, specialty beds, transfer equipment, wound   vacs, chest tubes, NG and feeding tubes, etc. 
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech 
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: At least one   weekend within 4-week period. (May be split up) blocked scheduling case by   case basis. 
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: Floating within   unit s discretion. 
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements: At   least 1 year of RN experience. 
+   
+ 
+
+
+
+
+
+
+
+   Patient Break Down: all   medical-surgical patients, orthopedic and spine patients on the designated   floor, trauma patients, psych medical hold patients, etc.
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:   BLS, ACLS (optional), active RN license 
+             Hiring profile             
+Requested Skill Set: Punctual, time   management, organized, team player, positive attitude, effective   communicator, self-starter. 
+   
+   
+Must have: 1 year of M/S experience, ability to jump in   and learn quickly.
+   
+   
+Advanced skills needed: Thorough assessment skills, prioritization   skills, critical thinking, and time management. 
+   
+
+
+   
+Procedures performed on unit: 
+General   Medical/Surgical procedures and patient population including   post-catheterizations w/o intervention, lap appy/chole,   thoracentesis/paracentesis, special procedures performed by IR, dedicated   Spine and Joint Unit, stable traumas, HD/peritoneal dialysis, CBI, etc. 
+   
+
+
+   
+Certifications Required: BLS, ACLS (Optional)
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   
+Grey Scrubs
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   Provided upon   pre-boarding 
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards...
+    
+ 
+
+
+
+
+
+
+
+   ACS Certified
+   
+ 
+
+
+
+
+
+
+
+   Hernia Center of Excellence 
+   
+ 
+
+
+
+
+
+
+
+   Spine &amp; Joint Accredited
+   
+ 
+
+
+
+
+
+
+
+   Unit of Distinction Honorable Mention 2022
+   
+ 
+
+
+
+
+
+
+
+   Leapfrog Top 100 Hospital 
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+
+
+
+
+
+
+
+   Bladder   Scanners
+   
+ 
+
+
+
+
+
+
+
+   New easy to   use 12-Lead EKG machine. 
+   
+ 
+
+
+
+
+
+
+
+   Using   Teletracking for bed placement. 
+   
+ 
+
+
+
+
+
+
+
+   MobiLab 
+   
+ 
+
+
+
+
+
+
+
+   Patient   Keeper 
+   
+ 
+
+
+
+
+
+
+
+   Inspire App
+   
+ 
+
+
+
+
+
+
+
+   Wound   Capture 
+   
+ 
+
+
+
+
+
+
+
+   Very busy   Med-Surg and Ortho/Spine unit. Great culture and team work within Med-Surg   with a handful of nurses that have been here for many years. Supportive to   questions and willing to help each other out. Flexible scheduling and   consistent communication with department leadership. Opportunities for OT and   incentives as appropriate.
+ General Comments ;url=https://vendor.healthtrustws.com/positions/771843;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 73
+    [facilityName] => Stonecrest Medical Center 
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,104 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5964',
+  'Cf-Ray' => '829b9230b7d1183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 weeks ----- Candidates Must have strong PCU/ Tele experience. ***Best Candidates are proficient in Cardiac telemetry and Neuro. 
+
+Requires Arrhythmia testing BLS ACLS NIHSS. 36 or 48 Hours. 
+
+Nurse-Patient ratio is 1:5 
+Also we may need to float sometimes 
+And PCU gets patient s with trache, BiPaP/CPAP, monitor ETCO2. 
+
+NIHSS is required for everyone please.
+
+
+ Modified Time:12/11/2023 6:00:00 AM
+
+ Account Manager: Alyssa Mansfield-Reid Qualivis
+
+ Account Manager Email: alyssa.mansfieldreid@qualivis.com
+
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+
+ Flu Vaccine: Required - No Exemptions
+ Submittals:High
+
+ Submittal Details: #Tier3 Travel ComplianceWill consider nurses with 1+ years of recent experience in unit.Travelers must be  100 miles from every Prisma facility (regardless of where they are applying) to be eligible to travel in the system, unless they are one of the two exceptions below 90-99.9 miles are accepted at a 10% bill rate reduction100+ miles full bill rate Exception 1: Night shift travelers for below specialties must be 50+ miles ONLY from the contracted campus they re applying to. Full BR granted at 100+ miles away. 50.0-99.9 miles is 10% bill rate reduction. Under 50 miles is ineligible.Medical Surgical / Oncology / Ortho Adult Tele /  Observation Unit / Step Down / PCU Adult ICUs Emergency DepartmentsRRTException 2: The below specialties are accepted regardless of radius. They must be   50 miles from the relevant flagship hospital (Prisma Richland or Prisma Greenville) for full BR. 10% rate reduction if under 50 miles, but still eligible to apply. Operating Room (including allied and SPT)PACUCT / MRI / IR Techs / Echo Techs / X-RayCath Lab (including allied)MLTSLP / PT / OT / Dietician-Must send SOCIAL SECURITY NUMBER with submittal.-Orientation is every Monday.-Pre Assignment testing (all RN s) and modules required for all travelers to complete within 48 hours of receiving the login information (which usually comes within 24 hours of the nurse signing their contract). Travelers are eligible for reimbursement for hours spent completing modules (up to 16 hours) and time will be verified upon start of contract.-If you have any issues, please let the Account Manager or your CS know ASAP.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545374
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11312
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 21 2023 15:09:33
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2311341 ;Status=Open;Association=Qualivis MSP ;Client=Prisma Health Baptist Hospital ;City=Columbia ;State=SC ;Zip=29220 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Registered Nurse ;Specialty=MS/Tele ;Unit=Cardiac Telemetry (PCU), 25015206425 ;Shift=Night 4x12-Hour (19:00 - 07:00);# of Postions=1;Type=Travel;BillRate=$90.00;OTRules=40 total hours in 1 week : 1.35% ;Orientation=16 ;Description=13 weeks ----- Candidates Must have strong PCU/ Tele experience. ***Best Candidates are proficient in Cardiac telemetry and Neuro. 
+
+Requires Arrhythmia testing BLS ACLS NIHSS. 36 or 48 Hours. 
+
+Nurse-Patient ratio is 1:5 
+Also we may need to float sometimes 
+And PCU gets patient s with trache, BiPaP/CPAP, monitor ETCO2. 
+
+NIHSS is required for everyone please.
+
+
+ Modified Time:12/11/2023 6:00:00 AM
+
+ Account Manager: Alyssa Mansfield-Reid Qualivis
+
+ Account Manager Email: alyssa.mansfieldreid@qualivis.com
+
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+
+ Flu Vaccine: Required - No Exemptions
+ Submittals:High
+
+ Submittal Details: #Tier3 Travel ComplianceWill consider nurses with 1+ years of recent experience in unit.Travelers must be  100 miles from every Prisma facility (regardless of where they are applying) to be eligible to travel in the system, unless they are one of the two exceptions below 90-99.9 miles are accepted at a 10% bill rate reduction100+ miles full bill rate Exception 1: Night shift travelers for below specialties must be 50+ miles ONLY from the contracted campus they re applying to. Full BR granted at 100+ miles away. 50.0-99.9 miles is 10% bill rate reduction. Under 50 miles is ineligible.Medical Surgical / Oncology / Ortho Adult Tele /  Observation Unit / Step Down / PCU Adult ICUs Emergency DepartmentsRRTException 2: The below specialties are accepted regardless of radius. They must be   50 miles from the relevant flagship hospital (Prisma Richland or Prisma Greenville) for full BR. 10% rate reduction if under 50 miles, but still eligible to apply. Operating Room (including allied and SPT)PACUCT / MRI / IR Techs / Echo Techs / X-RayCath Lab (including allied)MLTSLP / PT / OT / Dietician-Must send SOCIAL SECURITY NUMBER with submittal.-Orientation is every Monday.-Pre Assignment testing (all RN s) and modules required for all travelers to complete within 48 hours of receiving the login information (which usually comes within 24 hours of the nurse signing their contract). Travelers are eligible for reimbursement for hours spent completing modules (up to 16 hours) and time will be verified upon start of contract.-If you have any issues, please let the Account Manager or your CS know ASAP. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2311341/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Prisma Health Baptist Hospital
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,80 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1511',
+  'Cf-Ray' => '83166af164511838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 543843
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 13566
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 1
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => 
+    [shiftNum] => 3
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 03:30
+    [whenmodified] => December, 06 2023 12:58:34
+    [daysPerWeek] => 3
+    [orderNote] => ER Nurse - days
+	BLS, TNCC, Current CPI training
+	1 year experience as a traveler in ER 
+	2 years total experience (will review 18 months as well)
+	No locals within 75 miles
+	36 hours with options to pick up 4th shifts!!
+	Kaweah Delta    CA        $95    2736/$3212    36/48    20.00%  131584
+
+
+OT after 8 hrs
+Min 18 months experience
+Quant or TSPOT within 90 or 2 TB skin
+Must be compliant by 4pm wed prior to start
+Scrubs - any color
+-EMR: Cerner but not required
+-13 weeks
+-No online modules prior to start
+-Monday at 2pm is Orientation for badges/instructions etc., 
+-Tuesday is clinical orientation
+-Nonbillable orientation up to 16 hours
+-Fit testing can be done at the facility.
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 95
+    [facilityName] => Kaweah Health Medical Center TRAVEL
+    [shiftDateEnd] => 2024-04-07
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

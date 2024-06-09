@@ -1,0 +1,253 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '13524',
+  'Cf-Ray' => '8351739735f7183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => General Description: 
+Under general supervision, provides nursing care in a hospital to a variety of patients with health problems ranging from simple to complex. 
+
+Essential Responsibilities: 
+Responsibilities listed in this section are core to the position.  Inability to perform these responsibilities with or without an accommodation may result in disqualification from the position.   
+Assumes responsibility for an assigned group of patients. 
+Documents patient responses to nursing interventions and prescribed medical treatments; notes all changes in physician order on assigned patients. 
+Assists physician in the examination of patients and in performing minor diagnostic procedures and treatment. 
+Obtains and monitors physiological data of patients, observes the physiological manifestations of patients and intervenes when necessary. 
+Administers medication as prescribed. Initiates, regulates and monitors intravenous infusions and blood products. 
+Delivers patient care competently. 
+Interacts with family and patient in sharing care plan while in the hospital and at time of discharge. 
+Informs patient and family of hospital procedures. 
+Makes referral regarding patient care needs to appropriate personnel. 
+Delegates tasks to support staff. 
+
+General Responsibilities: 
+Performs other duties as assigned. 
+ Schedule Notes:OU Health s Surgical Oncology is a 36-bed unit with 9 Step-Down and 27-Med-Surge beds. Surgical oncology is a fast-paced environment providing care to patients pre- and post-operatively in the gynecology, urology, colorectal, and surgery oncology specialties. The average length of stay for patients is 48-72 hours to one week. Our unit uses a collaborative care model approach to deliver patient-centered care. Nurses with experience in oncology, progressive postoperative care, chemotherapy administration, drain, ostomy, and wound management will appreciate the fast-paced environment of surgical oncology. 
+ 
+       Surgical Oncology cost center 61600
+       Available shifts include day shift (0645   1915) and night shift (1845   0715)
+       36 hours/guaranteed; 12-hour shifts.
+    On-call is NOT required
+       Every other weekend IS required; weekends are considered Saturday/Sunday for both day and night shifts.
+       Holiday(s) are required.
+       American Heart Association (AHA) BLS required.
+       ACLS (AHA) required to work in step-down.
+       ONS Chemotherapy certification preferred but NOT required.
+       Blocked scheduling available if unit needs are met.
+       RTO can be negotiated/approved.
+       Traveler agrees to make up any self-canceled shifts prior to completion of the contract.
+       Traveler agrees to float to other units within the OU Health system as needed.
+
+Skills: Experience: N/A 
+
+Knowledge, Skills and Abilities:    
+Knowledge of professional nursing theory, practices, techniques and procedures. 
+Ability to organize, plan, coordinate and evaluate nursing services and apply nursing techniques. 
+Ability to maintain good working relationships with other employees. 
+Good verbal and written communication skills. 
+Ability to respond effectively to cultural and language needs of patients and visitors. 
+Some computer skills.
+ Required
+	
+	  CHEMOTHERAPY
+	   ONCOLOGY
+	   RN
+	   PATIENT CARE
+	   RN LICENSE
+	    
+	
+	
+	
+	Additional
+	
+	            ACLS
+
+Education: Education:  
+Graduate from an accredited school of nursing required.  
+Bachelor of Science (or higher) in Nursing Board Approved Program preferred. 
+
+License(s)/Certification(s)/Registration(s) Required: 
+Current RN License issued by the Oklahoma State Board of Nursing, or a current multistate compact RN License (eNLC). 
+Current Basic Life Support issued by the American Heart Association required upon hire.  
+ACLS (American Heart Association) within 1 year of hire.
+
+Obtain Fundamentals of Chemotherapy Immunotherapy Administration - Oncology Nursing Society (ONS) within one year of hire. 
+Within three years of hire, obtain ONS/ONCC Chemotherapy Immunotherapy Certificate - Oncology Nursing Society (ONS) to replace Fundamentals of Chemotherapy Immunotherapy Administration - Oncology Nursing Society (ONS) certification.
+
+;Languages: 
+ 
+English
+&nbsp;Read
+&nbsp;Write
+&nbsp;Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: Registered Nurses Direct Care (SC1016)
+    [sitename] => giftednurses
+    [spec] => Oncol
+    [assignmentid] => 544002
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 16145
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 13 2023 16:55:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=Wand;SourceID=27895185 ;Status=Pending;Client=OU Health ;City=Oklahoma City ;State=OK ;Zip=73104 ;Start=12/4/2023;End=3/2/2024;Duration=89;Cert=Registered Nurses Direct Care (SC1016) ;Specialty=RN Oncology - Surgical - FS ;Unit=61600 :					 Surgical Oncology 61600 :  Surgical Oncology ;Shift=OU Health’s Surgical Oncology is a 36-bed unit with 9 Step-Down and 27-Med-Surge beds. Surgical oncology is a fast-paced environment providing care to patients pre- and post-operatively in the gynecology, urology, colorectal, and surgery oncology specialties. The average length of stay for patients is 48-72 hours to one week. Our unit uses a collaborative care model approach to deliver patient-centered care. Nurses with experience in oncology, progressive postoperative care, chemotherapy administration, drain, ostomy, and wound management will appreciate the fast-paced environment of surgical oncology. 
+ 
+•      Surgical Oncology cost center 61600
+•      Available shifts include day shift (0645 – 1915) and night shift (1845 – 0715)
+•      36 hours/guaranteed; 12-hour shifts.
+·   On-call is NOT required
+•      Every other weekend IS required; weekends are considered Saturday/Sunday for both day and night shifts.
+•      Holiday(s) are required.
+•      American Heart Association (AHA) BLS required.
+•      ACLS (AHA) required to work in step-down.
+•      ONS Chemotherapy certification preferred but NOT required.
+•      Blocked scheduling available if unit needs are met.
+•      RTO can be negotiated/approved.
+•      Traveler agrees to make up any self-canceled shifts prior to completion of the contract.
+•      Traveler agrees to float to other units within the OU Health system as needed. OU Health’s Surgical Oncology is a 36-bed unit with 9 Step-Down and 27-Med-Surge beds. Surgical oncology is a fast-paced environment providing care to patients pre- and post-operatively in the gynecology, urology, colorectal, and surgery oncology specialties. The average length of stay for patients is 48-72 hours to one week. Our unit uses a collaborative care model approach to deliver patient-centered care. Nurses with experience in oncology, progressive postoperative care, chemotherapy administration, drain, ostomy, and wound management will appreciate the fast-paced environment of surgical oncology. 
+ 
+•      Surgical Oncology cost center 61600
+•      Available shifts include day shift (0645 – 1915) and night shift (1845 – 0715)
+•      36 hours/guaranteed; 12-hour shifts.
+·   On-call is NOT required
+•      Every other weekend IS required; weekends are considered Saturday/Sunday for both day and night shifts.
+•      Holiday(s) are required.
+•      American Heart Association (AHA) BLS required.
+•      ACLS (AHA) required to work in step-down.
+•      ONS Chemotherapy certification preferred but NOT required.
+•      Blocked scheduling available if unit needs are met.
+•      RTO can be negotiated/approved.
+•      Traveler agrees to make up any self-canceled shifts prior to completion of the contract.
+•      Traveler agrees to float to other units within the OU Health system as needed. 3x12 Hr;# of Postions=1;Guaranteed Hours=36.00;Type=Travel;BillRate=$100.00;Description=General Description: 
+Under general supervision, provides nursing care in a hospital to a variety of patients with health problems ranging from simple to complex. 
+
+Essential Responsibilities: 
+Responsibilities listed in this section are core to the position.  Inability to perform these responsibilities with or without an accommodation may result in disqualification from the position.   
+Assumes responsibility for an assigned group of patients. 
+Documents patient responses to nursing interventions and prescribed medical treatments; notes all changes in physician order on assigned patients. 
+Assists physician in the examination of patients and in performing minor diagnostic procedures and treatment. 
+Obtains and monitors physiological data of patients, observes the physiological manifestations of patients and intervenes when necessary. 
+Administers medication as prescribed. Initiates, regulates and monitors intravenous infusions and blood products. 
+Delivers patient care competently. 
+Interacts with family and patient in sharing care plan while in the hospital and at time of discharge. 
+Informs patient and family of hospital procedures. 
+Makes referral regarding patient care needs to appropriate personnel. 
+Delegates tasks to support staff. 
+
+General Responsibilities: 
+Performs other duties as assigned. 
+ Schedule Notes:OU Health s Surgical Oncology is a 36-bed unit with 9 Step-Down and 27-Med-Surge beds. Surgical oncology is a fast-paced environment providing care to patients pre- and post-operatively in the gynecology, urology, colorectal, and surgery oncology specialties. The average length of stay for patients is 48-72 hours to one week. Our unit uses a collaborative care model approach to deliver patient-centered care. Nurses with experience in oncology, progressive postoperative care, chemotherapy administration, drain, ostomy, and wound management will appreciate the fast-paced environment of surgical oncology. 
+ 
+       Surgical Oncology cost center 61600
+       Available shifts include day shift (0645   1915) and night shift (1845   0715)
+       36 hours/guaranteed; 12-hour shifts.
+    On-call is NOT required
+       Every other weekend IS required; weekends are considered Saturday/Sunday for both day and night shifts.
+       Holiday(s) are required.
+       American Heart Association (AHA) BLS required.
+       ACLS (AHA) required to work in step-down.
+       ONS Chemotherapy certification preferred but NOT required.
+       Blocked scheduling available if unit needs are met.
+       RTO can be negotiated/approved.
+       Traveler agrees to make up any self-canceled shifts prior to completion of the contract.
+       Traveler agrees to float to other units within the OU Health system as needed.
+
+Skills: Experience: N/A 
+
+Knowledge, Skills and Abilities:    
+Knowledge of professional nursing theory, practices, techniques and procedures. 
+Ability to organize, plan, coordinate and evaluate nursing services and apply nursing techniques. 
+Ability to maintain good working relationships with other employees. 
+Good verbal and written communication skills. 
+Ability to respond effectively to cultural and language needs of patients and visitors. 
+Some computer skills.
+ Required
+	
+	  CHEMOTHERAPY
+	   ONCOLOGY
+	   RN
+	   PATIENT CARE
+	   RN LICENSE
+	    
+	
+	
+	
+	Additional
+	
+	            ACLS
+
+Education: Education:  
+Graduate from an accredited school of nursing required.  
+Bachelor of Science (or higher) in Nursing Board Approved Program preferred. 
+
+License(s)/Certification(s)/Registration(s) Required: 
+Current RN License issued by the Oklahoma State Board of Nursing, or a current multistate compact RN License (eNLC). 
+Current Basic Life Support issued by the American Heart Association required upon hire.  
+ACLS (American Heart Association) within 1 year of hire.
+
+Obtain Fundamentals of Chemotherapy Immunotherapy Administration - Oncology Nursing Society (ONS) within one year of hire. 
+Within three years of hire, obtain ONS/ONCC Chemotherapy Immunotherapy Certificate - Oncology Nursing Society (ONS) to replace Fundamentals of Chemotherapy Immunotherapy Administration - Oncology Nursing Society (ONS) certification.
+
+;Languages: 
+ 
+English
+&nbsp;Read
+&nbsp;Write
+&nbsp;Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: Registered Nurses Direct Care (SC1016) ;url=https://prowand.pro-unlimited.com/supplier/standard/requisition/req_geninfo_view.html?id=27895185&type=REQUISITION&reqProfile=true;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => OU Health University of Oklahoma Medical Center TRV (RS)
+    [shiftDateEnd] => 2024-03-22
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

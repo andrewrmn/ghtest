@@ -1,0 +1,89 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3269',
+  'Cf-Ray' => '82cd1deb157b6a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => The Johns Hopkins Cardiovascular IMC CVPCU (Zayed 10 W)
+
+	The CVPCU is the step-down unit forpostcardiac surgery patients.
+
+	CVPCU is a fast-pacedsurgicalstep-down unitmade up of a multidisciplinary team who primarily cares for patients recovering from cardiac and vascular surgeries.
+
+	Looking forRNs with experience taking care of patients who are 1+ days out from CABG, Valve repairs and Valve replacements,very heavy Cardiovascular Post-op step down
+
+	Experience:RN, BLS, 2 years Cardiac open heart recovery experience, at least 2 previous travel assignments;strong Surgical IMC experience, EPIC
+
+	Preferred: Critical Care Certification;ACLS
+
+	These clinicians specialize in caring for patients with Mechanical Circulatory Support devices like LVADs, as well as patients recovering from heart and lung transplants.
+
+	12 of the 32 beds are available for IMC monitoring and the other 20 are for telemetry or non-monitored levels of care.
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 541774
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1877
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 27 2023 15:28:18
+    [daysPerWeek] => 3
+    [orderNote] => Source=IntrastaffVMS;SourceID=303186 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Johns Hopkins Hospital ;Start=12/4/2023;End=3/2/2024;Duration=89;Cert=MSP RN Enhanced High Needs ;Specialty=Zayed 10W (CVPCU)  (4801337040) ;Unit=Zayed 10W (CVPCU)  (4801337040) ;Shift=Night 12 (7:00 PM - 7:30 AM);# of Postions=1;Type=Travel;BillRate=$95.00;minBillRate=$95.00;Description=The Johns Hopkins Cardiovascular IMC CVPCU (Zayed 10 W)
+
+	The CVPCU is the step-down unit forpostcardiac surgery patients.
+
+	CVPCU is a fast-pacedsurgicalstep-down unitmade up of a multidisciplinary team who primarily cares for patients recovering from cardiac and vascular surgeries.
+
+	Looking forRNs with experience taking care of patients who are 1+ days out from CABG, Valve repairs and Valve replacements,very heavy Cardiovascular Post-op step down
+
+	Experience:RN, BLS, 2 years Cardiac open heart recovery experience, at least 2 previous travel assignments;strong Surgical IMC experience, EPIC
+
+	Preferred: Critical Care Certification;ACLS
+
+	These clinicians specialize in caring for patients with Mechanical Circulatory Support devices like LVADs, as well as patients recovering from heart and lung transplants.
+
+	12 of the 32 beds are available for IMC monitoring and the other 20 are for telemetry or non-monitored levels of care. ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=nX7DxFuZWwE=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => The Johns Hopkins Hospital TRAVEL
+    [shiftDateEnd] => 2024-03-02
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

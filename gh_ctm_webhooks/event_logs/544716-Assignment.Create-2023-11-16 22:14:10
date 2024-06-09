@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '927',
+  'Cf-Ray' => '827315d8f69923b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => PACU
+    [assignmentid] => 544716
+    [workerID] => 337394
+    [WorkerContactNo] => 831-818-3460
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 1495
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => Davis
+    [shiftNum] => 4
+    [workerFirstName] => Kristin Elizabeth
+    [cert] => RN
+    [floorDesc] => PACU
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 16 2023 17:14:09
+    [daysPerWeek] => 3
+    [orderNote] => FTK: GH Unsigned Timesheet
+Chrg:P$1/B$3-OnCl:P$9/B$18
+Ornt:$20/NB:8hr
+BR:$140
+    [guaranteedMinimum] => 
+    [workerEmail] => kristin.davis.nusn@gmail.com
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 140
+    [facilityName] => Stanford Medicine Childrens Health TRAVEL
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

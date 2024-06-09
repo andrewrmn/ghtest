@@ -1,0 +1,131 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8706',
+  'Cf-Ray' => '82cd781de5851832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Provides professional nursing care for patients in assigned areas according to established procedures. Works within clinical setting of Cardiac Recovery Unit. To ensure maintenance of a high standard of patient care. Reports to CVR Nurse Manager.  Experience and Knowledge of hemodynamics, Arterial lines, Chest tubes, Pulmonary Catheters, Temporary Pacemakers, Ventilators, and Sedation and Pain management medications preferred.
+2 years min req. 
+Unit Description: Immediate post op recovery of Cardiac Surgery, Thoracic Surgery and Vascular Surgery patients.
+ License:Nursys - For Submission:False; For Onboard:True; Optional:False
+ License:License/Certificate Verification - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:COVID-19 Vaccine - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:MMR - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Fit Test - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Hepatitis B  - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Influenza Vaccine  - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:TB Test - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Health Statement - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Varicella - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Tdap - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Annual TB Questionnaire - For Submission:False; For Onboard:True; Optional:False
+ Professional:FMOLHS 2 Professional References - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Criminal Background Check Results - For Submission:False; For Onboard:True; Optional:False
+ Professional:FMOLHS Social Security Trace - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS OIG Search - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS EPLS - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS National Sex Offender - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Education Verification  - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Employment Verification - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Driving Record - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:FMOLHS Drug Screen - For Submission:False; For Onboard:True; Optional:False
+ Checklist/Testing:FMOLHS Skills Checklist - For Submission:False; For Onboard:True; Optional:False
+ Checklist/Testing:FMOLHS Competency Exam - For Submission:False; For Onboard:True; Optional:False
+ Checklist/Testing:FMOLHS Core Competencies - For Submission:False; For Onboard:True; Optional:False
+ Professional:FMOLHS Badge Photo - For Submission:False; For Onboard:True; Optional:False
+ Professional:FMOLHS MS Fingerprinting - RN ONLY - For Submission:False; For Onboard:True; Optional:False
+ Professional:FMOLHS Contract Annual Education - For Submission:False; For Onboard:True; Optional:False
+ Professional:FMOLHS Resume - For Submission:True; For Onboard:False; Optional:False
+ Professional:FMOLHS HRIS Form - For Submission:True; For Onboard:False; Optional:False
+ Order Requisition Reason Name:Open Need
+ Certifications:Nursys, License/Certificate Verification
+ Licenses:Nursys, License/Certificate Verification
+    [sitename] => giftednurses
+    [spec] => CVICU
+    [assignmentid] => 543136
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15884
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 27 2023 16:29:53
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinII;SourceID=FHS-585 ;Status=In progress;Association=Franciscan Missionaries of Our Lady Health System ;Client=St. Dominic Hospital ;City=Jackson ;State=MS ;Zip=39216 ;Start=11/28/2023;End=2/19/2024;Duration=83;Cert=RN CVICU ;Specialty=RN CVICU ;Unit=Cardiac Intensive Care-St Dominic Main Campus (208-2101-11316) ;Shift=06:30 AM-07:00 PM;# of Postions=1;Type=Travel;BillRate=$85.00;OTRate=127.5 ;OTRules=40 hrs ;ChargeRate=88 ;CallbackRate=127.5 ;HolidayRate=127.5 ;Description=Provides professional nursing care for patients in assigned areas according to established procedures. Works within clinical setting of Cardiac Recovery Unit. To ensure maintenance of a high standard of patient care. Reports to CVR Nurse Manager.  Experience and Knowledge of hemodynamics, Arterial lines, Chest tubes, Pulmonary Catheters, Temporary Pacemakers, Ventilators, and Sedation and Pain management medications preferred.
+2 years min req. 
+Unit Description: Immediate post op recovery of Cardiac Surgery, Thoracic Surgery and Vascular Surgery patients.
+ License:Nursys - For Submission:False; For Onboard:True; Optional:False
+ License:License/Certificate Verification - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:COVID-19 Vaccine - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:MMR - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Fit Test - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Hepatitis B  - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Influenza Vaccine  - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:TB Test - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Health Statement - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Varicella - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Tdap - For Submission:False; For Onboard:True; Optional:False
+ Personal Health History:Annual TB Questionnaire - For Submission:False; For Onboard:True; Optional:False
+ Professional:FMOLHS 2 Professional References - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Criminal Background Check Results - For Submission:False; For Onboard:True; Optional:False
+ Professional:FMOLHS Social Security Trace - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS OIG Search - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS EPLS - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS National Sex Offender - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Education Verification  - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Employment Verification - For Submission:False; For Onboard:False; Optional:True
+ Professional:FMOLHS Driving Record - For Submission:False; For Onboard:False; Optional:True
+ Personal Health History:FMOLHS Drug Screen - For Submission:False; For Onboard:True; Optional:False
+ Checklist/Testing:FMOLHS Skills Checklist - For Submission:False; For Onboard:True; Optional:False
+ Checklist/Testing:FMOLHS Competency Exam - For Submission:False; For Onboard:True; Optional:False
+ Checklist/Testing:FMOLHS Core Competencies - For Submission:False; For Onboard:True; Optional:False
+ Professional:FMOLHS Badge Photo - For Submission:False; For Onboard:True; Optional:False
+ Professional:FMOLHS MS Fingerprinting - RN ONLY - For Submission:False; For Onboard:True; Optional:False
+ Professional:FMOLHS Contract Annual Education - For Submission:False; For Onboard:True; Optional:False
+ Professional:FMOLHS Resume - For Submission:True; For Onboard:False; Optional:False
+ Professional:FMOLHS HRIS Form - For Submission:True; For Onboard:False; Optional:False
+ Order Requisition Reason Name:Open Need
+ Certifications:Nursys, License/Certificate Verification
+ Licenses:Nursys, License/Certificate Verification ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => St. Dominic's Hospital (HM) TRAVEL
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 06:30
+    [subjectID] => 
+)

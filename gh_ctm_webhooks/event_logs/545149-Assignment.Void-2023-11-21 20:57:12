@@ -1,0 +1,77 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '22',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3500',
+  'Cf-Ray' => '829bd7f9e45d4945-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Bill Rate $85.00
+Surgical technologists prepare the operating room, including the sterile field, setting up surgical equipment, supplies and solutions. During surgery, surgical technologists pass instruments, fluids and supplies to the surgeon and prepare and manage surgical equipment. Surgical technologists simultaneously manage the sterile field and specimens. Surgical technologists perform a count of sponges and supplies to prevent foreign retained objects. Surgical technologists are certified following successful completion of a CAAHEP-accredited program or other programmatically-accredited surgical technology program and the national Certified Surgical Technologist (CST) examination administered by the National Board of Surgical Technology and Surgical Assisting.
+ General CommentsShift times:  0630-1700
+
+On-Call requirements:  Call as assigned.
+
+Certifications and experience required for position:  Certified Surgical Tech Certification by NBSTSA or JCAHPO or NCCT.  Current BLS.
+ No. of Positions: 2/2.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 545149
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 10429
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-01
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 21 2023 15:57:11
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=776503 ;Status=Open;Association=QHCCS, LLC ;Client=McKenzie-Willamette Medical Center ;City=Springfield ;State=OR ;Zip=97477 ;Start=1/1/2024;End=3/31/2024;Duration=91;Cert=CST/ORT ;Specialty=OR ;Unit=EXT-Other (911) ;Shift=times:  0630-1700;# of Postions=2;Type=Travel;BillRate=$85.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Bill Rate $85.00
+Surgical technologists prepare the operating room, including the sterile field, setting up surgical equipment, supplies and solutions. During surgery, surgical technologists pass instruments, fluids and supplies to the surgeon and prepare and manage surgical equipment. Surgical technologists simultaneously manage the sterile field and specimens. Surgical technologists perform a count of sponges and supplies to prevent foreign retained objects. Surgical technologists are certified following successful completion of a CAAHEP-accredited program or other programmatically-accredited surgical technology program and the national Certified Surgical Technologist (CST) examination administered by the National Board of Surgical Technology and Surgical Assisting.
+ General CommentsShift times:  0630-1700
+
+On-Call requirements:  Call as assigned.
+
+Certifications and experience required for position:  Certified Surgical Tech Certification by NBSTSA or JCAHPO or NCCT.  Current BLS.
+ No. of Positions: 2/2.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/776503;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => McKenzie-Willamette Medical Center
+    [shiftDateEnd] => 2024-03-31
+    [shiftStartTime] => 06:30
+    [subjectID] => 
+)

@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '976',
+  'Cf-Ray' => '843f571db7861836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By Facility; Clinical Performance
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545345
+    [workerID] => 166696
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 14109
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => Hargrave
+    [shiftNum] => 4
+    [workerFirstName] => Breyona
+    [cert] => RN
+    [floorDesc] => 2 Pines
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 11 2024 13:49:32
+    [daysPerWeek] => 3
+    [orderNote] => FTK:GH Unsigned Timesheet
+Ornt:$20/NB:8hr-POT:$79.46>40hr
+BR:$95
+    [guaranteedMinimum] => 
+    [workerEmail] => hargravebreyona09@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => AtlantiCare Regional Medical Center - Mainland TRAVEL
+    [shiftDateEnd] => 2024-01-07
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

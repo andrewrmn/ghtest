@@ -1,0 +1,86 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2553',
+  'Cf-Ray' => '84fbbb0d930a183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 04/24/2020 1819 MDTCerville Exavier
+                            
+                            
+                                RESEREVED FOR A. NEAL
+                            
+                        
+                    
+                        
+                            
+                                04/24/2020 1820 MDTCerville Exavier
+                            
+                            
+                                91.00 biil rate approved
+ RatePlan:AH-STANDARD TRAVEL RATE
+    [sitename] => giftednurses
+    [spec] => PICU
+    [assignmentid] => 119767
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2478
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-05-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => February, 03 2024 10:32:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=Shiftwise;SourceID=8704520 ;Status=PENDING;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Dell Children's Medical Center ;City=Austin ;State=TX ;Zip=78723 ;Start=5/4/2020;End=5/30/2020;Duration=27;Cert=RN ;Specialty=PICU Cardiac ;Unit=DCMC CCU ;Shift=NOC 12.00 Hrs;# of Postions=1;Type=Travel;minBillRate=$72.58;OTRate=Multiplier 1.35 x Std1.350 ;OTRules=Multiplier 1.35 x Std1.350 ;ChargeRate=Additive Std + $4.004.000 ;CallbackRate=Multiplier 1.35 x Std1.350 ;HolidayRate=Multiplier 1.35 x Std1.350 ;OnCallRateDescription=Flat $6.006.000 ;Orientation=Flat $0.000.000 ;Description=04/24/2020 1819 MDTCerville Exavier
+                            
+                            
+                                RESEREVED FOR A. NEAL
+                            
+                        
+                    
+                        
+                            
+                                04/24/2020 1820 MDTCerville Exavier
+                            
+                            
+                                91.00 biil rate approved
+ RatePlan:AH-STANDARD TRAVEL RATE ;url=https://secure.shiftwise.net/esp/order.aspx?order_id=B4BB063383E0946417800ADD7DC7AF11;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 72.58
+    [facilityName] => Dell Children's Medical Center
+    [shiftDateEnd] => 2020-05-30
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

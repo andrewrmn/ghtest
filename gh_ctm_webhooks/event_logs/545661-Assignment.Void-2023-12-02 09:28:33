@@ -1,0 +1,125 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6926',
+  'Cf-Ray' => '82f28a5574cc183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Echo Tech  
+
+Start Date: Start date will be 2-3 weeks from offer 
+Shift: Will work a varying 5x8 hour shift from 7am-530pm
+Weekend REQ: 1-2 weekends/month Sat-Sun 8am-6pm 
+Is on-call REQ? On call weekday & weekend. Weekday call about 2-3x s/month, weekend call 2x/every other month 
+Open to accommodating block schedule? Approval prior to assignment, but not guaranteed. 
+Daily Caseload per tech: 6-7 for 8 hours, 8-9 or 10 hours 
+Years of experience REQ: 1 year 
+First-timers accepted: Yes 
+Floating Req to Sister Facilities: yes just downtown 
+Radius rule? Yes, 50 miles. Are locals accepted? Yes, at $4 less than the posted bill rate 
+Pending State License accepted: N/A 
+RTO Restrictions:  All RTO must be included at time of submission. Approval will be based on 
+Guaranteed Hours: Facility allowed to call off 1 shift per 2 weeks 
+
+Special Requirements: Required BLS, AGENCY MUST SUPPLY RADIATION BADGE 
+ 
+Hospital Highlights 
+Type of Facility: Teaching Hospital 
+Magnet / Teaching / Level Trauma: Magnet, Teaching and Level 1 Trauma 
+Total Staffed Beds: 865 
+Scrub Color: Navy Blue 
+Charting: Epic 
+Parking Cost: Nights and weekends only. Onetime payment of $20 for a parking pass.  
+
+ Modified Time:12/18/2023 5:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal radius: 50 miles. Locals accepted on a case by case basis at lower ratePerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September.
+    [sitename] => giftednurses
+    [spec] => Echocardiography
+    [assignmentid] => 545661
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3712
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Echo Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => December, 02 2023 04:28:32
+    [daysPerWeek] => 5
+    [orderNote] => Source=AYA;SourceID=2319727 ;Status=Open;Association=Qualivis MSP ;Client=MUSC Health Charleston ;City=Charleston ;State=SC ;Zip=29425 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Radiology / Cardiology ;Specialty=Echo Tech/Cardiac Sonographer ;Unit=CHS ECHO Adult (ART), CC000408 ;Shift=Day 5x8-Hour (07:00 - 17:30);# of Postions=3;Type=Travel;BillRate=$78.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Echo Tech  
+
+Start Date: Start date will be 2-3 weeks from offer 
+Shift: Will work a varying 5x8 hour shift from 7am-530pm
+Weekend REQ: 1-2 weekends/month Sat-Sun 8am-6pm 
+Is on-call REQ? On call weekday & weekend. Weekday call about 2-3x s/month, weekend call 2x/every other month 
+Open to accommodating block schedule? Approval prior to assignment, but not guaranteed. 
+Daily Caseload per tech: 6-7 for 8 hours, 8-9 or 10 hours 
+Years of experience REQ: 1 year 
+First-timers accepted: Yes 
+Floating Req to Sister Facilities: yes just downtown 
+Radius rule? Yes, 50 miles. Are locals accepted? Yes, at $4 less than the posted bill rate 
+Pending State License accepted: N/A 
+RTO Restrictions:  All RTO must be included at time of submission. Approval will be based on 
+Guaranteed Hours: Facility allowed to call off 1 shift per 2 weeks 
+
+Special Requirements: Required BLS, AGENCY MUST SUPPLY RADIATION BADGE 
+ 
+Hospital Highlights 
+Type of Facility: Teaching Hospital 
+Magnet / Teaching / Level Trauma: Magnet, Teaching and Level 1 Trauma 
+Total Staffed Beds: 865 
+Scrub Color: Navy Blue 
+Charting: Epic 
+Parking Cost: Nights and weekends only. Onetime payment of $20 for a parking pass.  
+
+ Modified Time:12/18/2023 5:00:00 AM
+ Account Manager: Nicole Newman Qualivis
+ Account Manager Email: Nicole.Newman@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier3 Travel ComplianceSSN is required to submit.&nbsp;Will not hire without a licenseWill not hire with pending licenseLocal radius: 50 miles. Locals accepted on a case by case basis at lower ratePerm staff(this includes PRN) must be separated from MUSC system for a full 6 months before traveling with any MUSC location.RN LICENSE: DO NOT NEED SOUTH CAROLINA LICENSE IN HAND, JUST NEED PROOF THEY HAVE APPLIED AT TIME OF SUBMISSION OR CONFIRMATION THAT THEY WILL WALK-THROUGH.RTO GUIDELINE FOR AUTO OFFERS: If a candidate is a clinical PASS, the account manager can auto offer a traveler that has 7 days or less of NON-HOLIDAY RTO. Any candidate that has 7+ days and/or includes holidays will have to be submitted to the facility for approval and can delay the processWe can only submit to one MUSC unit/campus at a time. If you do submit to multiple job IDs, please mention in the submission what their top choice is.Hurricane Season** Travelers should be aware that during hurricane season, all employees and contractors may be assigned to emergency response teams. If this is a problem, please ensure travelers do not confirm a new or ext assignment during the season. Hurricane season runs from June through November each year. The peak months for hurricane activity are August and September. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2319727/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 78
+    [facilityName] => MUSC- Medical Center
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

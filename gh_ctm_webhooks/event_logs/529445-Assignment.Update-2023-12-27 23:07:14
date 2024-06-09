@@ -1,0 +1,76 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1521',
+  'Cf-Ray' => '83c537f3441323c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 weeks
+36 hrs/wk
+7p-7:30a
+CA RN
+BLS
+ACLS
+PALS
+Previous Epic exp required
+Previous travel required
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 529445
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 1477
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-31
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => December, 27 2023 18:07:13
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=46326 ;Status=In-Progress (O);Association=Trinity Health ;Client=CA - Saint Agnes Medical Center ;City=Fresno ;State=CA ;Zip=93720 ;Start=12/31/2023;End=3/30/2024;Duration=90;Cert=RN Emergency Room ;Specialty=Emergency Department ;Unit=*Registered Nurse-ER-Emergency Department ;Shift=Night : 1900-0730;# of Postions=1;Type=Travel;BillRate=$94.00;OTRate=122.20 ;ChargeRate=97.00 ;CallbackRate=122.20 ;HolidayRate=122.20 ;Orientation=0.00 ;Description=13 weeks
+36 hrs/wk
+7p-7:30a
+CA RN
+BLS
+ACLS
+PALS
+Previous Epic exp required
+Previous travel required ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 94
+    [facilityName] => Saint Agnes Medical Center TRAVEL
+    [shiftDateEnd] => 2024-03-30
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

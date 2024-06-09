@@ -1,0 +1,312 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4948',
+  'Cf-Ray' => '8330d3c6e3ce183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Eastern Idaho Regional Medical CenterLength: 13 WeeksShift: nights, 7 on 7 off. Wednesday evening through Wednesday morning. (occasional on call available if wanted)start : ASAP
+ start date must be within 3 weeksScrubs:
+ black
+ General CommentsHospital:
+ EIRMC             Location: 
+Radiology             
+Address: 3100   Channing Way 
+         
+Unit Name: Radiology
+             
+
+
+         
+Cost Center:
+ 727/728
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+   Number of Beds : 158
+   
+ 
+
+
+
+
+
+   Patient Ratios :N/A
+   
+ 
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) : Med Sog 
+   
+ 
+
+
+
+
+
+   Type of equipment : GE logiq E9
+   
+ 
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+   Scheduling requirements: 7 on 7 off   Day/Evening with some call 
+   
+ 
+
+
+
+
+
+   Floating policy: N/A
+   
+ 
+
+
+
+
+
+   Patient Experience requirements: 2   years US
+   Hospital Specifics-   
+ 
+
+
+
+
+
+ Certifications: RDMS
+             Hiring profile             
+   
+Must have: 
+   
+General US, OB,   Procedures, and Vascular. 
+   
+
+
+   Advanced skills needed:    
+Experience with   Meditech GE Centricity 
+   
+   
+
+
+   Certifications Required:   RDMS/ARRT   BLS   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+ 
+Black scrubs
+ 
+             Weekends/Oncall (if any)   
+ 
+
+
+
+
+
+ Call and OT available if wanted
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 541847
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1261
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 09 2023 17:53:57
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=769309 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=Eastern Idaho Regional Medical Center ID ;City=IDAHO FALLS ;State=ID ;Zip=83404 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Rad Tech ;Specialty=Radiology ;Unit=MOUNTAIN DIVISION (15) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$85.00;minBillRate=$85.00;OTRate=93 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:Eastern Idaho Regional Medical CenterRadiology Tech
+
+Length: 13 WeeksShift: nights, 7 on 7 off. Wednesday evening through Wednesday morning. (occasional on call available if wanted)start : ASAP
+ start date must be within 3 weeksScrubs:
+ black
+ General CommentsHospital:
+ EIRMC             Location: 
+Radiology             
+Address: 3100   Channing Way 
+         
+Unit Name: Radiology
+             
+
+
+         
+Cost Center:
+ 727/728
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+   Number of Beds : 158
+   
+ 
+
+
+
+
+
+   Patient Ratios :N/A
+   
+ 
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) : Med Sog 
+   
+ 
+
+
+
+
+
+   Type of equipment : GE logiq E9
+   
+ 
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+   Scheduling requirements: 7 on 7 off   Day/Evening with some call 
+   
+ 
+
+
+
+
+
+   Floating policy: N/A
+   
+ 
+
+
+
+
+
+   Patient Experience requirements: 2   years US
+   Hospital Specifics-   
+ 
+
+
+
+
+
+ Certifications: RDMS
+             Hiring profile             
+   
+Must have: 
+   
+General US, OB,   Procedures, and Vascular. 
+   
+
+
+   Advanced skills needed:    
+Experience with   Meditech GE Centricity 
+   
+   
+
+
+   Certifications Required:   RDMS/ARRT   BLS   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+ 
+Black scrubs
+ 
+             Weekends/Oncall (if any)   
+ 
+
+
+
+
+
+ Call and OT available if wanted
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/769309;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Eastern Idaho Regional Med Center Parallon
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

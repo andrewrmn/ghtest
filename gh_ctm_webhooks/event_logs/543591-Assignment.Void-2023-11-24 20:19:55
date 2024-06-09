@@ -1,0 +1,77 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2199',
+  'Cf-Ray' => '82b45979e7be6a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:$80 Bill Rate
+Shift is 4-10's - 7:30p - 6:00a - Tue/Wed/Thu/Fri -
+Including On-Call Shifts
+Needs OR Experience
+Options of working extra shifts as needed, and/or holidays.Busy ED setting and inpatient portable exams will be the bulk of the workload.Teamwork encouraged to help CT and MR, if needed.
+Must have a current
+Arizona MRTBE Rad Tech license.
+ General CommentsPCR: 161-007
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 543591
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2354
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 08:00
+    [whenmodified] => November, 24 2023 15:19:37
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=774694 ;Status=Pending Approval;Association=Community Health Systems ;Client=Northwest Medical Center ;City=Tucson ;State=AZ ;Zip=85741 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=CT Tech ;Specialty=Radiology ;Unit=EXT-Other (911) ;Shift=19:30-06:00;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:$80 Bill Rate
+Shift is 4-10's - 7:30p - 6:00a - Tue/Wed/Thu/Fri -
+Including On-Call Shifts
+Needs OR Experience
+Options of working extra shifts as needed, and/or holidays.Busy ED setting and inpatient portable exams will be the bulk of the workload.Teamwork encouraged to help CT and MR, if needed.
+Must have a current
+Arizona MRTBE Rad Tech license.
+ General CommentsPCR: 161-007
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/774694;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Northwest Medical Center
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 19:30
+    [subjectID] => 
+)

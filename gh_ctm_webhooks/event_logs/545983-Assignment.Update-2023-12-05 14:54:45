@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '124',
+  'Ki-Request-Colo' => '612',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7518',
+  'Cf-Ray' => '830d2042f5ac232a-ORD',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => EDUCATION/EXPERIENCE Current Iowa licensure as a Registered Nurse Minimum of 2 year acute care experienceHealthcare Provider BLS certificationACLS certification preferred Mandatory Abuse Reporter Certification within 6 months of hire Ability to read, write, speak, and understand English well.BRIEF DESCRIPTION OF JOB Under limited supervision, provides direct patient care Plans, directs, and evaluates total nursing care for Med-Surg patients as directed Relates effectively with other shifts for continuity of care; maintains satisfactory relations with other departmentsESSENTIAL FUNCTIONS Ability to maintain confidentiality; and both a high standard of courtesy and cooperation in dealing with co-workers, patients, and visitors, and satisfactory job performance despite the stress of a hospital work environment. IncorporatesMission, Vision, and Core Values into department, and ensures departmental employees and self adhere to these. Regular and predictable work attendance Wears appropriate apparel for the position and displays nametag upon such apparel. Provides the best possible nursing care by planning, organizing, and directing the nursing functions of patients on the unit, including giving direct patient care Is resourceful and calm in emergencies Keeps physicians, nurses and other staff informed of patient needs, and problems on the unit as necessary Utilizes gathered data in determining priorities for patients  physical, psychological, educational and discharge needs in formulating the plan of care Identifies problems and guides personnel to their solution Creates a working climate that provides growth and job satisfaction of coworkers Administers medications and intravenous solutions skillfully and correctly Maintains the standards of accurate and complete recording and reporting Arranges to have needed supplies and equipment on hand Carries out nursing interventions safely and accurately utilizing knowledge, judgment and skill to implement physicians  orders and the nursing plan of care Evaluates patient/family responses to implementation of the plan of care and modifies plan of care based on these responses Prioritizes workload Performs documentation in the patient s record accurately, concisely and in a timely manner Demonstrates effective communication skills Supports and enforces infection control policies and procedures Participates in orientation and in-service training for personnel Maintains professional patient confidentiality Displays concern and initiative Observes and supports hospital policies, procedures, and skills Is prompt and efficient with minimal absences Cooperates and maintains good rapport with nursing staff, medical staff, other departments, patients, and visitors Works independently with limited direct supervision using the Nurse Practice Act, LCHC policies, nursing standards and professional judgment Works rotating shifts, weekends and holidays as scheduled Attend meetings and in-services as required. Other duties as assigned.   Position Urgency:Normal Billing string = Lucas County Health Center
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545983
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6024
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 06:30
+    [whenmodified] => December, 05 2023 09:54:35
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262165 ;Status=Open;Association=Lucas County Health Center ;Client=Lucas County Health Center ;City=Chariton ;State=IA ;Zip=50049 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Nursing ;Specialty=Registered Nurse ;Unit=Registered Nurse ;Shift=varied shifts 6pm-630am;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$85.00;OTRate=85 ;OTRules=By The Week, after 40, ;CallbackRate=85 (All Inclusive Rate) ;HolidayRate=85 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=EDUCATION/EXPERIENCE Current Iowa licensure as a Registered Nurse Minimum of 2 year acute care experienceHealthcare Provider BLS certificationACLS certification preferred Mandatory Abuse Reporter Certification within 6 months of hire Ability to read, write, speak, and understand English well.BRIEF DESCRIPTION OF JOB Under limited supervision, provides direct patient care Plans, directs, and evaluates total nursing care for Med-Surg patients as directed Relates effectively with other shifts for continuity of care; maintains satisfactory relations with other departmentsESSENTIAL FUNCTIONS Ability to maintain confidentiality; and both a high standard of courtesy and cooperation in dealing with co-workers, patients, and visitors, and satisfactory job performance despite the stress of a hospital work environment. IncorporatesMission, Vision, and Core Values into department, and ensures departmental employees and self adhere to these. Regular and predictable work attendance Wears appropriate apparel for the position and displays nametag upon such apparel. Provides the best possible nursing care by planning, organizing, and directing the nursing functions of patients on the unit, including giving direct patient care Is resourceful and calm in emergencies Keeps physicians, nurses and other staff informed of patient needs, and problems on the unit as necessary Utilizes gathered data in determining priorities for patients  physical, psychological, educational and discharge needs in formulating the plan of care Identifies problems and guides personnel to their solution Creates a working climate that provides growth and job satisfaction of coworkers Administers medications and intravenous solutions skillfully and correctly Maintains the standards of accurate and complete recording and reporting Arranges to have needed supplies and equipment on hand Carries out nursing interventions safely and accurately utilizing knowledge, judgment and skill to implement physicians  orders and the nursing plan of care Evaluates patient/family responses to implementation of the plan of care and modifies plan of care based on these responses Prioritizes workload Performs documentation in the patient s record accurately, concisely and in a timely manner Demonstrates effective communication skills Supports and enforces infection control policies and procedures Participates in orientation and in-service training for personnel Maintains professional patient confidentiality Displays concern and initiative Observes and supports hospital policies, procedures, and skills Is prompt and efficient with minimal absences Cooperates and maintains good rapport with nursing staff, medical staff, other departments, patients, and visitors Works independently with limited direct supervision using the Nurse Practice Act, LCHC policies, nursing standards and professional judgment Works rotating shifts, weekends and holidays as scheduled Attend meetings and in-services as required. Other duties as assigned.   Position Urgency:Normal Billing string = Lucas County Health Center ;url=https://vms.medefis5.com/jobs/262165;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Lucas County Health Center
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 18:00
+    [subjectID] => 
+)

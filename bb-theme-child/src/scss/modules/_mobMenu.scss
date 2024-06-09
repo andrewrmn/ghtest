@@ -1,0 +1,44 @@
+html.mob-menu-open{
+  overflow: hidden;
+
+  --siteHeader-color: #{$color-teal};
+  --siteHeader-logo-color: #{$color-teal};
+  --siteHeader-bg: white;
+}
+
+.mobMenu{
+  position: fixed;
+  z-index: 9999;
+  top: var(--siteHeader-height);
+  border-top: 1px solid #DCDCDC;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: white;
+  overflow: auto;
+  display: none;
+  transform-origin: top center;
+  animation: mobMenu 0.4s 0.2s ease both;
+
+  &.is-open{
+    display: block;
+  }
+
+  &__layout{
+    display: flex;
+    min-height: 100%;
+    flex-direction: column;
+  }
+
+  &__top{
+    flex-grow: 1;
+  }
+  &__bot{
+    padding: 48px 20px;
+  }
+}
+
+@keyframes mobMenu {
+  from{ opacity: 0; transform: scaleY(0.9); }
+  to{ opacity: 1; transform: scaleY(1); }
+}

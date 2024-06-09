@@ -1,0 +1,89 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '43',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3008',
+  'Cf-Ray' => '8273263fb29d1840-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 60mi Radius
+
+RN -Labor& Delivery 
+Schedule: Tuesday, Thursday, Friday Night 7p-7a 
+13 Weeks
+
+2 years exp
+
+ Modified Time:11/20/2023 5:00:00 AM
+ Account Manager: Jason Dellarusso
+ Account Manager Email: Jason.Dellarusso@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceSSNDOBRTO# of jobs in system we can sub   No cap that I am aware ofRequires specific amount of exp - 1 years  experience/ First time travelers okayValid State License (required at time of submission) - YesMile Radius Rule Applies   No ruleReferences RequiredLocal Rules   Prefer No locals   will make exceptions at times if the job is hard to fillCandidates will float within hospital or to an affiliate hospitals near by - NoCopy of Certifications
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 542419
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8481
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-20
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 16 2023 17:25:21
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2298186 ;Status=Open;Association=Qualivis EPA ;Client=Johnson Regional Medical Center ;City=Clarksville ;State=AR ;Zip=72830 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=Registered Nurse ;Specialty=Labor and Delivery ;Unit=L&D ;Shift=Night 3x12-Hour (19:00 - 07:00);# of Postions=1;Type=Travel;BillRate=$75.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=60mi Radius
+
+RN -Labor& Delivery 
+Schedule: Tuesday, Thursday, Friday Night 7p-7a 
+13 Weeks
+
+2 years exp
+
+ Modified Time:11/20/2023 5:00:00 AM
+ Account Manager: Jason Dellarusso
+ Account Manager Email: Jason.Dellarusso@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceSSNDOBRTO# of jobs in system we can sub   No cap that I am aware ofRequires specific amount of exp - 1 years  experience/ First time travelers okayValid State License (required at time of submission) - YesMile Radius Rule Applies   No ruleReferences RequiredLocal Rules   Prefer No locals   will make exceptions at times if the job is hard to fillCandidates will float within hospital or to an affiliate hospitals near by - NoCopy of Certifications ;url=https://app.ayaconnect.com/index.html#/vendor/job/2298186/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Johnson Regional Medical Center
+    [shiftDateEnd] => 2024-02-19
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

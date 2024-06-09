@@ -1,0 +1,139 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3832',
+  'Cf-Ray' => '83162abc127c23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name TCU - Mercy Hospital Joplin - RN - Mercy Hospital Joplin
+
+
+Organization
+Mercy
+
+
+Facility
+Mercy Hospital Joplin
+
+
+Unit
+Step Down Unit
+
+
+Cost Center
+50-456209
+
+SHIFT INFO
+Shift Nights
+
+Shifts per week
+3
+
+
+Hours per shift
+12
+
+EXPERIENCE
+
+Years of Experience
+Two Years Plus
+
+CERTIFICATIONS
+ACLS - RequiredBLS - Required
+
+DESCRIPTIONThe Registered Nurse works under the supervision of the Director, Manager and or Clinical Supervisor and is responsible for the delivery of efficient, safe patient care through the use of the nursing process, hospital policies and procedures. In addition, the Registered Nurse works closely with and acts as clinical expert for other professional and ancillary nursing personnel. Graduate of an accredited Nursing Program. RN Registered Nurse in Missouri. Excellent communication, analytical and organizational skills are required, and must be familiar with a variety of the field's concepts, practices, and procedures. Must be able to operate various types of office equipment, including a computer, fax machine, telephone, printer and copy machine.
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Stepdown
+    [assignmentid] => 544203
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8970
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => December, 06 2023 12:14:44
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=775545 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Joplin ;City=Joplin ;State=MO ;Zip=64804 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=RN ;Specialty=Step Down ;Unit=Mercy ;Shift=19:00-07:30;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Name TCU - Mercy Hospital Joplin - RN - Mercy Hospital Joplin
+
+
+Organization
+Mercy
+
+
+Facility
+Mercy Hospital Joplin
+
+
+Unit
+Step Down Unit
+
+
+Cost Center
+50-456209
+
+SHIFT INFO
+Shift Nights
+
+Shifts per week
+3
+
+
+Hours per shift
+12
+
+EXPERIENCE
+
+Years of Experience
+Two Years Plus
+
+CERTIFICATIONS
+ACLS - RequiredBLS - Required
+
+DESCRIPTIONThe Registered Nurse works under the supervision of the Director, Manager and or Clinical Supervisor and is responsible for the delivery of efficient, safe patient care through the use of the nursing process, hospital policies and procedures. In addition, the Registered Nurse works closely with and acts as clinical expert for other professional and ancillary nursing personnel. Graduate of an accredited Nursing Program. RN Registered Nurse in Missouri. Excellent communication, analytical and organizational skills are required, and must be familiar with a variety of the field's concepts, practices, and procedures. Must be able to operate various types of office equipment, including a computer, fax machine, telephone, printer and copy machine.
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/775545;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital Joplin - TRAVEL
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

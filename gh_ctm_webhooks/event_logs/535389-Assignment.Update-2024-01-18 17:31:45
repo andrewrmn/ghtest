@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '936',
+  'Cf-Ray' => '847892c7807e1836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: End Date Change
+New End: 2/24/2024
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 535389
+    [workerID] => 177583
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12271
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-30
+    [workerLastName] => Shults
+    [shiftNum] => 5
+    [workerFirstName] => Julie
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 08:00
+    [whenmodified] => January, 18 2024 12:31:44
+    [daysPerWeek] => 3
+    [orderNote] => BR:$90lRS:138795
+NO ORIENTATION NEEDED
+FTK: Gifted timecard
+    [guaranteedMinimum] => 
+    [workerEmail] => keith7130@att.net
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => AWS-Cherokee Nation W.W. Hastings Hospital TRAVEL - OK
+    [shiftDateEnd] => 2024-02-24
+    [shiftStartTime] => 19:30
+    [subjectID] => 
+)

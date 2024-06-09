@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1402',
+  'Cf-Ray' => '82caf41ca6361842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 3 months
+40/hrs/wk
+11p-8:30a Tue-Fri
+Epic Radiant
+BLS/ARRT
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 541713
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6418
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 10:00
+    [whenmodified] => November, 27 2023 09:10:14
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48008 ;Status=Open;Association=Trinity Health ;Client=IN - Saint Joseph HS,SB Campus ;City=Mishawaka ;State=IN ;Zip=46545 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=Radiology Tech ;Specialty=Radiology (Diagnostic) ;Unit=Radiology Tech ;Shift=22:00:00 - 08:30:00;# of Postions=1;Type=Travel;BillRate=$67.00;OTRate=87.10 ;ChargeRate=70.00 ;CallbackRate=87.10 ;HolidayRate=87.10 ;Orientation=0.00 ;Description=3 months
+40/hrs/wk
+11p-8:30a Tue-Fri
+Epic Radiant
+BLS/ARRT ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 67
+    [facilityName] => Saint Joseph Health - Mishawaka Medical Center TRAVEL
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 22:00
+    [subjectID] => 
+)

@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1011',
+  'Cf-Ray' => '835a3c69007f23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By Facility; No Longer Needed; Facility Withdrew Offer
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 528623
+    [workerID] => 166507
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3127
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-09-18
+    [workerLastName] => Jones
+    [shiftNum] => 5
+    [workerFirstName] => Danielle
+    [cert] => RN
+    [floorDesc] => General Medicine 6020
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 14 2023 18:30:39
+    [daysPerWeek] => 3
+    [orderNote] => BR:$85lRS:133999lFTK:API
+ChrgDiff:P$1/B$3lOnCl:P$10/B$18
+Orient:$20lNonBill:16hrs
+    [guaranteedMinimum] => 
+    [workerEmail] => danielle.a.jones@eagles.usm.edu
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => North Oaks Medical Center - Travel
+    [shiftDateEnd] => 2023-12-09
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,112 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4593',
+  'Cf-Ray' => '82a1b419a3311463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => **CT CERTIFICATION (ARRT (CT)) required***  
+
+
+Need ED, GE, Inpatient, & Outpatient experience required. Epic experience required. 
+
+
+2 years experience minimum required
+
+Unit does not accept first time travelers 
+
+ 
+
+BLS required 
+
+ 
+
+If workday falls on a holiday, then it is required to work that holiday. No call. 
+
+Backfill for A. Evans (13 Weeks) 
+
+ Modified Time:12/11/2023 12:00:00 AM
+ Account Manager: Ashley Belarmino
+ Account Manager Email: Ashley.Belarmino@vayaworkforce.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:High
+ Submittal Details: #Tier2 Travel ComplianceFacility does not accept local travelers. Must be over 65 miles (address on drivers license to site address)Must have 2 years  experience in specialty for all locations. (New Orleans operating room req. 3 years)**NO CALL IN!**RTO must be on profile and brought up in the interview or there is a high chance offer's will be rescinded.Compact or LA license in hand upon submittalOrientation held 5 days a weekReferences:&nbsp;Not required for submission, however 2 Manager/Supervisor references will be required to obtain clearance to start contract. Recruiter, please obtain Manager/Supervisor contact information prior to submission. Charge RNs are NOT acceptable. PDF formatAHA certifications are requiredAWHONN Intermediate is required for L&amp;D RNCPI required for all CNAER nurses must have CPI, or be able to get it before start. &nbsp;This cert is somewhat difficult to get, so please be prepared for this.
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 545571
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3320
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 21:00
+    [whenmodified] => November, 22 2023 09:01:16
+    [daysPerWeek] => 4
+    [orderNote] => Source=AYA;SourceID=2315005 ;Status=Open;Association=Vaya MSP ;Client=Ochsner Medical Center - New Orleans ;City=New Orleans ;State=LA ;Zip=70121-2484 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Radiology / Cardiology ;Specialty=CT Tech ;Unit=CT Scan SOSH JH07 - 1022020 - CT Technologist ;Shift=Day 4x10-Hour (11:00 - 21:30);# of Postions=1;Type=Travel;BillRate=$102.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=8 ;Description=**CT CERTIFICATION (ARRT (CT)) required***  
+
+
+Need ED, GE, Inpatient, & Outpatient experience required. Epic experience required. 
+
+
+2 years experience minimum required
+
+Unit does not accept first time travelers 
+
+ 
+
+BLS required 
+
+ 
+
+If workday falls on a holiday, then it is required to work that holiday. No call. 
+
+Backfill for A. Evans (13 Weeks) 
+
+ Modified Time:12/11/2023 12:00:00 AM
+ Account Manager: Ashley Belarmino
+ Account Manager Email: Ashley.Belarmino@vayaworkforce.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:High
+ Submittal Details: #Tier2 Travel ComplianceFacility does not accept local travelers. Must be over 65 miles (address on drivers license to site address)Must have 2 years  experience in specialty for all locations. (New Orleans operating room req. 3 years)**NO CALL IN!**RTO must be on profile and brought up in the interview or there is a high chance offer's will be rescinded.Compact or LA license in hand upon submittalOrientation held 5 days a weekReferences:&nbsp;Not required for submission, however 2 Manager/Supervisor references will be required to obtain clearance to start contract. Recruiter, please obtain Manager/Supervisor contact information prior to submission. Charge RNs are NOT acceptable. PDF formatAHA certifications are requiredAWHONN Intermediate is required for L&amp;D RNCPI required for all CNAER nurses must have CPI, or be able to get it before start. &nbsp;This cert is somewhat difficult to get, so please be prepared for this. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2315005/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 102
+    [facilityName] => Ochsner Medical Center- Main Campus Travel
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

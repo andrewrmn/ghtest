@@ -1,0 +1,439 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7021',
+  'Cf-Ray' => '85ecadd6c66a183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Hospital:
+ Skyline   Medical CenterLocation:
+   Nashville, TN
+Address:
+ 3441 Dickerson Road
+
+Unit Name: 3rd,   Neuro Med/Surg
+
+Building:
+ Main
+
+Cost Center:
+ 611
+General InformationUnit Specifics: 
+ 
+
+
+
+
+
+
+
+   Number of Beds :
+ 20
+
+ 
+
+
+
+
+
+
+
+   Patient Ratios :
+ 6:1
+
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit secretaries   and tech availability):
+ Tech support   on day shift and night shift.
+ Unit   secretary 7a-7p.
+
+ 
+
+
+
+
+
+
+
+   Type of equipment:
+ IV Pumps, Telemetry, SCD s, Continuous   Pulse Ox Machines, Feeding Pumps, PCA, EKG machines, bladder scanner, iMobile   communication technology
+
+ 
+
+
+
+
+
+
+
+   Documentation system:
+ Meditech
+
+ 
+
+
+
+
+
+
+
+   Scheduling requirements:
+ 3 12 hours shifts/week; 2 weekends (4   shifts) per 4 week schedule
+
+ 
+
+
+
+
+
+
+
+   Floating policy:
+ Contract labor is first to float; go by   rotation when there are multiple C/L staff scheduled
+
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements:
+ Expected to provide attentive and   compassionate care to patients/family members. Bedside shift report, ability   to make personal connections with patients and include them/family members in   their plan of care.
+ 
+Hospital Specifics-
+ 
+
+
+
+
+
+
+
+   Certifications:
+ Comprehensive Stroke, ACS Verified Level II   Trauma Center, Certified Chest Pain Center
+Hiring profileRequested Skill Set: 
+Med/Surg   Experience, ability to prioritize care, multitask, start IV s, basic wound   care, maintenance of surgical drains, nasogastric tubes, &amp; chest tubes.
+
+
+Must have:
+   Active RN license, BLS certification
+
+
+
+
+
+
+Advanced skills needed:
+ N/A
+
+
+
+
+
+Procedures performed on unit:
+ N/A 
+
+
+
+
+
+Certifications Required:
+
+ BLS
+
+
+
+
+Dress Code: (Required uniform)
+
+ 
+
+
+
+
+
+
+
+   
+Navy scrubs, tops and bottoms
+
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+
+ 
+
+
+
+
+
+
+
+   
+
+Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+ 
+ 
+
+
+
+
+
+
+
+   
+
+Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc. 
+ 
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 530084
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2835
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-03-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => March, 03 2024 16:21:55
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=753574 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=SKYLINE MEDICAL CENTER ;City=NASHVILLE ;State=TN ;Zip=37211 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=TRISTAR DIVISION (7) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$73.00;minBillRate=$73.00;OTRate=81 ;CallbackRate=81 ;HolidayRate=81 ;Orientation=0 ;Description=Description:Hospital:
+ Skyline   Medical CenterLocation:
+   Nashville, TN
+Address:
+ 3441 Dickerson Road
+
+Unit Name: 3rd,   Neuro Med/Surg
+
+Building:
+ Main
+
+Cost Center:
+ 611
+General InformationUnit Specifics: 
+ 
+
+
+
+
+
+
+
+   Number of Beds :
+ 20
+
+ 
+
+
+
+
+
+
+
+   Patient Ratios :
+ 6:1
+
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit secretaries   and tech availability):
+ Tech support   on day shift and night shift.
+ Unit   secretary 7a-7p.
+
+ 
+
+
+
+
+
+
+
+   Type of equipment:
+ IV Pumps, Telemetry, SCD s, Continuous   Pulse Ox Machines, Feeding Pumps, PCA, EKG machines, bladder scanner, iMobile   communication technology
+
+ 
+
+
+
+
+
+
+
+   Documentation system:
+ Meditech
+
+ 
+
+
+
+
+
+
+
+   Scheduling requirements:
+ 3 12 hours shifts/week; 2 weekends (4   shifts) per 4 week schedule
+
+ 
+
+
+
+
+
+
+
+   Floating policy:
+ Contract labor is first to float; go by   rotation when there are multiple C/L staff scheduled
+
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements:
+ Expected to provide attentive and   compassionate care to patients/family members. Bedside shift report, ability   to make personal connections with patients and include them/family members in   their plan of care.
+ 
+Hospital Specifics-
+ 
+
+
+
+
+
+
+
+   Certifications:
+ Comprehensive Stroke, ACS Verified Level II   Trauma Center, Certified Chest Pain Center
+Hiring profileRequested Skill Set: 
+Med/Surg   Experience, ability to prioritize care, multitask, start IV s, basic wound   care, maintenance of surgical drains, nasogastric tubes, &amp; chest tubes.
+
+
+Must have:
+   Active RN license, BLS certification
+
+
+
+
+
+
+Advanced skills needed:
+ N/A
+
+
+
+
+
+Procedures performed on unit:
+ N/A 
+
+
+
+
+
+Certifications Required:
+
+ BLS
+
+
+
+
+Dress Code: (Required uniform)
+
+ 
+
+
+
+
+
+
+
+   
+Navy scrubs, tops and bottoms
+
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+
+ 
+
+
+
+
+
+
+
+   
+
+Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+ 
+ 
+
+
+
+
+
+
+
+   
+
+Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc. 
+ 
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/753574;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 73
+    [facilityName] => Skyline Medical Center
+    [shiftDateEnd] => 2024-06-23
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

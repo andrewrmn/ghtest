@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1917',
+  'Cf-Ray' => '83f41ed3c73923c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 3 12-hr shifts per week, night shift 7p-7arepeating 3-week schedule:Monday, Tuesday, ThursdayMonday Friday SaturdaySunday, Wednesday, Thursday   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 433926
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3763
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-12-12
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 02 2024 10:43:52
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=233301 ;Status=Open;Association=Washington County Hospital and Clinics ;Client=Washington County Hospital and Clinics ;City=Washington ;State=IA ;Zip=52353 ;Start=10/1/2022;End=12/31/2022;Duration=91;Cert=Nursing ;Specialty=Telemetry Med / Surg, Skilled Nursing (SNF), Med-surg Adult, Registered Nurse ;Unit=Telemetry Med / Surg, Skilled Nursing (SNF), Med-surg Adult, Registered Nurse ;Shift=3 12-hr shifts per week,  night shift is 7p-7a;# of Postions=1;Type=Travel;BillRate=$110.00;minBillRate=$110.00;OTRate=110 ;OTRules=By The Week, after 40, ;CallbackRate=110 (All Inclusive Rate) ;HolidayRate=110 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=3 12-hr shifts per week, night shift 7p-7arepeating 3-week schedule:Monday, Tuesday, ThursdayMonday Friday SaturdaySunday, Wednesday, Thursday   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/233301;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => Washington County Hospital
+    [shiftDateEnd] => 2023-03-13
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

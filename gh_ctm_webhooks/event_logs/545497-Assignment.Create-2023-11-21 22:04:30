@@ -1,0 +1,66 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1773',
+  'Cf-Ray' => '829c3a8e70471463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => High School Diploma or equivalent
+Certified Registered Central Service Tech Preferred
+Cleans, packages, and sterilizes all reusable patient care instruments for the hospital
+Maintains all sterilization equipment and documentation
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 545497
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 12994
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-03
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => November, 21 2023 17:04:29
+    [daysPerWeek] => 5
+    [orderNote] => Source=EinsteinTrinity;SourceID=48607 ;Status=In-Progress (O);Association=Trinity Health ;Client=IA - Genesis Medical Center Davenport-East ;City=Davenport ;State=IA ;Zip=52803 ;Start=12/3/2023;End=3/2/2024;Duration=90;Cert=Sterile Processing Tech ;Specialty=Sterile Processing ;Unit=E-Sterile Processing-IA ;Shift=15:00:00 - 23:30:00;# of Postions=1;Type=Travel;BillRate=$50.00;OTRate=65.00 ;ChargeRate=53.00 ;CallbackRate=65.00 ;HolidayRate=65.00 ;Orientation=0.00 ;Description=High School Diploma or equivalent
+Certified Registered Central Service Tech Preferred
+Cleans, packages, and sterilizes all reusable patient care instruments for the hospital
+Maintains all sterilization equipment and documentation ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 50
+    [facilityName] => Genesis Medical Center - Davenport
+    [shiftDateEnd] => 2024-03-02
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

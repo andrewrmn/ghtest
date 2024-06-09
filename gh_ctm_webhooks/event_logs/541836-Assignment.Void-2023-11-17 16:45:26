@@ -1,0 +1,289 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '9873',
+  'Cf-Ray' => '827971ad947f1465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:3101 N Tarrant Pkwy
+Fort Worth, TX 76177
+
+Main Number:
+(817) 639-1000
+Your true health is measured in moments
+That's why our new full-service hospital, Medical City Alliance, is here. We'll keep you and your family in the best of health. Knowing how busy your life is, we've made scheduling, pre-registration and a patient portal all available online. The less time you spend managing health care, the more you spend with the moments that matter most.
+
+Medical City Alliance offers world class health care with a personalized approach. The hospital is conveniently located on the east side of Interstate 35W in Fort Worth near the intersection of U.S. 81 and 287. Medical City Alliance serves families from Fort Worth, Keller, Haslet, Saginaw and surrounding communities in Tarrant County.
+
+As a part of the Medical City Healthcare network of hospitals and specialists, patients are ensured access to leading medical specialists and advanced healthcare innovations across the network.
+ERMaternityRobotic SurgeryCardiologyFamily Health
+
+
+Exceptional Care
+Medical City Alliance is dedicated to high quality, compassionate care. Our nurses and physicians understand the importance of getting to know patients and their families. This helps us ensure the best treatment and outcomes possible. Our specialists work together to ensure a seamless transition of care, partnering with referring physicians and patients  support systems to work toward long-term health for the families we serve.
+
+To find out more about the Medical City Alliance, please click on the links below.
+THINGS TO DOEVENTSHOTELSTake a Look AroundMaps and Directions
+ General CommentsUnit Highlights: PLEASE READ CAREFULLY!
+
+Hospital:
+ Med City Alliance
+
+Location: Fort Worth, TX
+
+Unit: 
+Cardiac Cath Lab (746)
+
+Classification: Cath Lab Tech / RCIS OR ARRT - RN
+
+Shift Detail: DAYS M-F with call
+
+Building/Floor/Suite information of unit :
+ 
+
+General Information
+
+Shift Details- Please correct information below
+ if needed:
+
+
+
+Quantity: Bill Rate
+Assignment Length: 13 weeksShift/Workdays: DAYS   M-F w/ callWeekend   Weekends off (only call) 
+Discuss during the interviewCall Requirements: Yes Discuss during the interviewGuaranteed Hours: 40Special Skills/Experience required: 2 years +Other Helpful or Misc. Information:
+Primary PCI center. Use GE equipment with MACLAB 
+
+
+
+Unit Specifics - Information below is requested for better sourcing:
+
+
+
+Number of Beds: 75Unit staffing description: 3 nurses, 3 techs, 1 chest pain coord.Type of equipment :
+ GEDocumentation system: Meditech/ MACLABFloating policy: As needed
+
+
+
+Hospital Specifics:
+
+
+
+Certifications: AART and/or RCIS
+
+
+
+Hiring profile
+
+Requested Skill Set:
+
+
+ 
+
+
+
+
+Must have: (candidates without these skills will not be considered for the role)
+
+
+
+AART and/or RCISBLSACLS2+ years of Hospital experience 
+
+
+
+Preferred Skills/Advanced Skills Needed: (candidates with these skills will be considered first)
+ Experience with the following: 
+
+
+
+Meditech exp. Preferred 
+
+
+
+Specialty/Unit Certifications Required: cath lab tech
+
+
+
+ARRT OR RCIS ACTIVE TX RN LICENSE   temp license will not be accepted 
+
+
+
+
+
+
+Dress Code: Include requirements, but most of all not acceptable attire.
+Scrub Color: RN/Cath Lab Tech:
+ hospital scrubs providedNail Policy   Clean and Healthy, no artificial nails, gel, next gen, etc.Hair - hair should be neat and clean with no extreme styles or colors. Beards, mustaches and sideburns should be clean and neatly trimmed.
+ Hair must be pulled back if shoulder length or longer when working in the lab.Tattoos   Body art should be covered whenever possible. Body art that is not feasible to cover on a daily basis will be addressed individuallyPiercings   Visible piercings other than ears is prohibited.
+ This includes nose rings, tongue rings, etc. Other  
+ 
+Unit Guidelines/Policies: 
+Floating Guidelines:
+ Attendance Policies:
+ The company wide attendance policy will be followed.
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 541836
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 8278
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-20
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Cath Lab Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 17 2023 11:45:25
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=758262 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=MEDICAL CITY ALLIANCE (MCA) ;City=Fort Worth ;State=TX ;Zip=76177 ;Start=10/1/2023;End=12/31/2023;Duration=91;Cert=Cardiac Cath Lab Tech ;Specialty=Cardiac Cath Lab ;Unit=NORTH TEXAS DIVISION (17) ;Shift=7:00AM -5:00PM;# of Postions=1;Type=Travel;BillRate=$100.00;OTRate=108 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:3101 N Tarrant Pkwy
+Fort Worth, TX 76177
+
+Main Number:
+(817) 639-1000
+Your true health is measured in moments
+That's why our new full-service hospital, Medical City Alliance, is here. We'll keep you and your family in the best of health. Knowing how busy your life is, we've made scheduling, pre-registration and a patient portal all available online. The less time you spend managing health care, the more you spend with the moments that matter most.
+
+Medical City Alliance offers world class health care with a personalized approach. The hospital is conveniently located on the east side of Interstate 35W in Fort Worth near the intersection of U.S. 81 and 287. Medical City Alliance serves families from Fort Worth, Keller, Haslet, Saginaw and surrounding communities in Tarrant County.
+
+As a part of the Medical City Healthcare network of hospitals and specialists, patients are ensured access to leading medical specialists and advanced healthcare innovations across the network.
+ERMaternityRobotic SurgeryCardiologyFamily Health
+
+
+Exceptional Care
+Medical City Alliance is dedicated to high quality, compassionate care. Our nurses and physicians understand the importance of getting to know patients and their families. This helps us ensure the best treatment and outcomes possible. Our specialists work together to ensure a seamless transition of care, partnering with referring physicians and patients  support systems to work toward long-term health for the families we serve.
+
+To find out more about the Medical City Alliance, please click on the links below.
+THINGS TO DOEVENTSHOTELSTake a Look AroundMaps and Directions
+ General CommentsUnit Highlights: PLEASE READ CAREFULLY!
+
+Hospital:
+ Med City Alliance
+
+Location: Fort Worth, TX
+
+Unit: 
+Cardiac Cath Lab (746)
+
+Classification: Cath Lab Tech / RCIS OR ARRT - RN
+
+Shift Detail: DAYS M-F with call
+
+Building/Floor/Suite information of unit :
+ 
+
+General Information
+
+Shift Details- Please correct information below
+ if needed:
+
+
+
+Quantity: Bill Rate
+Assignment Length: 13 weeksShift/Workdays: DAYS   M-F w/ callWeekend   Weekends off (only call) 
+Discuss during the interviewCall Requirements: Yes Discuss during the interviewGuaranteed Hours: 40Special Skills/Experience required: 2 years +Other Helpful or Misc. Information:
+Primary PCI center. Use GE equipment with MACLAB 
+
+
+
+Unit Specifics - Information below is requested for better sourcing:
+
+
+
+Number of Beds: 75Unit staffing description: 3 nurses, 3 techs, 1 chest pain coord.Type of equipment :
+ GEDocumentation system: Meditech/ MACLABFloating policy: As needed
+
+
+
+Hospital Specifics:
+
+
+
+Certifications: AART and/or RCIS
+
+
+
+Hiring profile
+
+Requested Skill Set:
+
+
+ 
+
+
+
+
+Must have: (candidates without these skills will not be considered for the role)
+
+
+
+AART and/or RCISBLSACLS2+ years of Hospital experience 
+
+
+
+Preferred Skills/Advanced Skills Needed: (candidates with these skills will be considered first)
+ Experience with the following: 
+
+
+
+Meditech exp. Preferred 
+
+
+
+Specialty/Unit Certifications Required: cath lab tech
+
+
+
+ARRT OR RCIS ACTIVE TX RN LICENSE   temp license will not be accepted 
+
+
+
+
+
+
+Dress Code: Include requirements, but most of all not acceptable attire.
+Scrub Color: RN/Cath Lab Tech:
+ hospital scrubs providedNail Policy   Clean and Healthy, no artificial nails, gel, next gen, etc.Hair - hair should be neat and clean with no extreme styles or colors. Beards, mustaches and sideburns should be clean and neatly trimmed.
+ Hair must be pulled back if shoulder length or longer when working in the lab.Tattoos   Body art should be covered whenever possible. Body art that is not feasible to cover on a daily basis will be addressed individuallyPiercings   Visible piercings other than ears is prohibited.
+ This includes nose rings, tongue rings, etc. Other  
+ 
+Unit Guidelines/Policies: 
+Floating Guidelines:
+ Attendance Policies:
+ The company wide attendance policy will be followed. ;url=https://vendor.healthtrustws.com/positions/758262;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Medical City Alliance
+    [shiftDateEnd] => 2024-02-19
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

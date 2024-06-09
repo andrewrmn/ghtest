@@ -1,0 +1,448 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '21',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8205',
+  'Cf-Ray' => '82a2078bb1664941-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:MUST HAVE TNCC AND PALS ON SUBMISSION
+ 
+
+        Hospital:
+ HCA   Florida Orange park             Location: Orange Park Florida             
+Address: 2001   Kingsley Ave, Orange Park FL 32073 
+         
+Unit: Surgery
+             
+Building: 
+         
+
+
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds:
+ 10 ORs
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios : 1:1 
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) :
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment :
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling special requirements:   Charge RN - M, T Wed 7p-7a
+   
+ 
+
+
+
+
+
+
+
+   Floating policy:
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements:
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:   TNCC, PALS
+             Hiring profile             Years of Experience Required: 2 years min, 1 year Charge experience   
+   Requested Skill Set: Charge RN experience   
+   
+Must have: TNCC, BLS, ACLS, PALS
+   
+   
+
+
+   Advanced skills needed:   
+
+
+   
+   
+Procedures performed on unit: 
+Gen   Trauma, Ortho Trauma, Robotic, General, Urology, GYN, ENT, Orthopedics,   Podiatry, Maxillofacial, Hand, Vascular, Open Heart 
+   
+
+
+   
+
+
+   Certifications Required:   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   Ceil Blue scrubs 
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+ General CommentsOrange Park Medical Center is a 317-bed HCA Healthcare facility located in Northeast Florida. Featuring 170 private rooms, the hospital is known for its high-quality
+services, including
+cardiovascular care, a Level II
+NICU, and the only Level II
+trauma center
+in the county.
+
+
+The Center has earned many
+awards and accreditations, such as the Get With The Guidelines - Gold Plus
+Stroke
+Achievement Award and being recognized as a Top Performer on Quality Measures by The Joint Commission. Staff members
+enjoy
+working at Orange Park Medical Center because of its friendly culture, supportive management, and fast-paced environment.
+
+
+The hospital's location in Orange Park is about a 30 minute drive from
+Downtown Jacksonville.
+Orange Park is home to many outdoor activities, including
+golf courses,
+bike trails, and
+historic parks. Complete with its own
+Fall Festival, Orange Park has something for everyone.
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 544132
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5698
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 22 2023 09:58:14
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771443 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA Florida Orange Park Hospital ;City=Orange Park ;State=FL ;Zip=32073 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=RN ;Specialty=OR ;Unit=SOUTH ATLANTIC DIVISION (23) ;Shift=7:00PM - 7:00AM ;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=98 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:MUST HAVE TNCC AND PALS ON SUBMISSION
+ 
+
+        Hospital:
+ HCA   Florida Orange park             Location: Orange Park Florida             
+Address: 2001   Kingsley Ave, Orange Park FL 32073 
+         
+Unit: Surgery
+             
+Building: 
+         
+
+
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds:
+ 10 ORs
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios : 1:1 
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) :
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment :
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling special requirements:   Charge RN - M, T Wed 7p-7a
+   
+ 
+
+
+
+
+
+
+
+   Floating policy:
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements:
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:   TNCC, PALS
+             Hiring profile             Years of Experience Required: 2 years min, 1 year Charge experience   
+   Requested Skill Set: Charge RN experience   
+   
+Must have: TNCC, BLS, ACLS, PALS
+   
+   
+
+
+   Advanced skills needed:   
+
+
+   
+   
+Procedures performed on unit: 
+Gen   Trauma, Ortho Trauma, Robotic, General, Urology, GYN, ENT, Orthopedics,   Podiatry, Maxillofacial, Hand, Vascular, Open Heart 
+   
+
+
+   
+
+
+   Certifications Required:   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   Ceil Blue scrubs 
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+ General CommentsOrange Park Medical Center is a 317-bed HCA Healthcare facility located in Northeast Florida. Featuring 170 private rooms, the hospital is known for its high-quality
+services, including
+cardiovascular care, a Level II
+NICU, and the only Level II
+trauma center
+in the county.
+
+
+The Center has earned many
+awards and accreditations, such as the Get With The Guidelines - Gold Plus
+Stroke
+Achievement Award and being recognized as a Top Performer on Quality Measures by The Joint Commission. Staff members
+enjoy
+working at Orange Park Medical Center because of its friendly culture, supportive management, and fast-paced environment.
+
+
+The hospital's location in Orange Park is about a 30 minute drive from
+Downtown Jacksonville.
+Orange Park is home to many outdoor activities, including
+golf courses,
+bike trails, and
+historic parks. Complete with its own
+Fall Festival, Orange Park has something for everyone.
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/771443;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Orange Park Medical Center
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

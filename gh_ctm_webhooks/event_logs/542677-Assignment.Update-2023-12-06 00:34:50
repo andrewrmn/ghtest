@@ -1,0 +1,74 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1747',
+  'Cf-Ray' => '831071fe3728183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => General/Vascular Sonographer
+10 weeks
+40 hrs/wk
+8a-430p M-F
+Holiday Rotation
+On call every 3rd weekend   Friday   Sunday. I day each week, 1week per month would need 2 days of call.
+24hrs call Christmas Day.
+BLS/RDMS
+    [sitename] => giftednurses
+    [spec] => Ultrasound Tech
+    [assignmentid] => 542677
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 12747
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Ultrasound Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 05 2023 19:34:45
+    [daysPerWeek] => 5
+    [orderNote] => Source=EinsteinTrinity;SourceID=48180 ;Status=Open;Association=Trinity Health ;Client=GA - St. Mary&#39;s Sacred Heart Hospital ;City=Lavonia ;State=GA ;Zip=30553 ;Start=12/3/2023;End=2/10/2024;Duration=69;Cert=Sonographer ;Specialty=Radiology ;Unit=GA\St. Mary&#39;s Sacred Heart\Sonographer ;Shift=08:00:00 - 16:30:00;# of Postions=1;Type=Travel;BillRate=$62.00;OTRate=80.60 ;ChargeRate=65.00 ;CallbackRate=80.60 ;HolidayRate=80.60 ;Orientation=0.00 ;Description=General/Vascular Sonographer
+10 weeks
+40 hrs/wk
+8a-430p M-F
+Holiday Rotation
+On call every 3rd weekend   Friday   Sunday. I day each week, 1week per month would need 2 days of call.
+24hrs call Christmas Day.
+BLS/RDMS ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 62
+    [facilityName] => St. Mary's Sacred Heart Hospital TRAVEL
+    [shiftDateEnd] => 2024-03-02
+    [shiftStartTime] => 08:00
+    [subjectID] => 
+)

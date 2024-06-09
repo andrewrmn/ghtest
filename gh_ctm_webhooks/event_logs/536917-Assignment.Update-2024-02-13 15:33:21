@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '881',
+  'Cf-Ray' => '854e211630f01465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 536917
+    [workerID] => 141206
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5418
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => Miles
+    [shiftNum] => 5
+    [workerFirstName] => Liliane
+    [cert] => RN
+    [floorDesc] => PCU ST3
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => February, 13 2024 10:33:20
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$105|RS:135614
+OnCl:P$2/B$3|FTK:Kronos
+    [guaranteedMinimum] => 
+    [workerEmail] => lillypluiz@icloud.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Banner - Thunderbird Medical Center TRAVEL
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

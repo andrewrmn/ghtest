@@ -1,0 +1,107 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '29',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4351',
+  'Cf-Ray' => '834163e8f5e14961-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => OR Circulate RN for OR & PACU Needed, ASAP start date and for 13 weeks
+ 
+5x8 s 6:30a-3:30p, weekdays, some weekends, on call, holidays within contract
+
+Certs Required: BLS, ACLS, PALS required
+
+Skills Required: IV start, conscious sedation, charge exp, circulating, scrubbing in OR, PACU experience and able to take emergency call
+
+1 year experience required, travel experience preferred
+
+Meditech Charting (exp preferred, not required)
+
+Qualivis Cover Sheet and current NURSYS report required with submission. All RTO must be included with profile on Qualivis Cover Sheet.
+
+Subs to C. Nickel
+
+
+ Modified Time:12/18/2023 5:00:00 AM
+ Account Manager: Cora Saunders
+ Account Manager Email: Cora.Saunders@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceSSN (upon offer acceptance)DOB (upon offer acceptance)RTO (MUST be included on Qualivis Cover Sheet)Requires specific amount of exp (varies per job posting)Valid State License (must be at least pending with ETA clearly stated)References RequiredLocal Rules (Accepted at same rate)Candidates will float within hospital (varies per job posting)Copy of Required Certifications (preferred; If position requires per job posting)Meditech Charting Experience preferred, NOT RequiredQualivis Cover Sheet must include candidates email addressBackground Policy to be noted prior to submission (MUST be disclosed on profile/application)
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 546312
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3586
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => December, 11 2023 18:08:33
+    [daysPerWeek] => 5
+    [orderNote] => Source=AYA;SourceID=2324448 ;Status=Open;Association=Qualivis EPA ;Client=Great Plains Regional Medical Center ;City=Elk City ;State=OK ;Zip=73644 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Registered Nurse ;Specialty=Operating Room ;Unit=OR ;Shift=Day 5x8-Hour (06:30 - 15:30);# of Postions=1;Type=Travel;BillRate=$80.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=OR Circulate RN for OR & PACU Needed, ASAP start date and for 13 weeks
+ 
+5x8 s 6:30a-3:30p, weekdays, some weekends, on call, holidays within contract
+
+Certs Required: BLS, ACLS, PALS required
+
+Skills Required: IV start, conscious sedation, charge exp, circulating, scrubbing in OR, PACU experience and able to take emergency call
+
+1 year experience required, travel experience preferred
+
+Meditech Charting (exp preferred, not required)
+
+Qualivis Cover Sheet and current NURSYS report required with submission. All RTO must be included with profile on Qualivis Cover Sheet.
+
+Subs to C. Nickel
+
+
+ Modified Time:12/18/2023 5:00:00 AM
+ Account Manager: Cora Saunders
+ Account Manager Email: Cora.Saunders@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceSSN (upon offer acceptance)DOB (upon offer acceptance)RTO (MUST be included on Qualivis Cover Sheet)Requires specific amount of exp (varies per job posting)Valid State License (must be at least pending with ETA clearly stated)References RequiredLocal Rules (Accepted at same rate)Candidates will float within hospital (varies per job posting)Copy of Required Certifications (preferred; If position requires per job posting)Meditech Charting Experience preferred, NOT RequiredQualivis Cover Sheet must include candidates email addressBackground Policy to be noted prior to submission (MUST be disclosed on profile/application) ;url=https://app.ayaconnect.com/index.html#/vendor/job/2324448/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Great Plains Regional Medical Center Travel
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,492 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '21',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6521',
+  'Cf-Ray' => '829bd829d6a84941-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:CONTRACT - RN - TELE 4C (626) - 13 WEEKS - 7P-7A
+NO ON CALL REQ
+MUST HAVE TELE EXP.
+
+
+        Unit Information:
+   4 Central             Location: St. David s South Austin Medical   Center             
+Address: 901 Ben   White Blvd. Austin TX 78704
+         
+Floor: 4th
+             
+Building: 
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+   Number of Beds   32 private rooms
+   
+ 
+
+
+
+
+
+
+   Number of Staff   
+   
+ 
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+   Day Shift   Typical Shift is a Charge,   7 RNs, 3 PCT s, Unit Clerk
+   
+o
+
+   Night Shift   Typical Shift is a   Charge, 7 RNs, 3 PCT s
+   
+ 
+
+
+
+
+
+
+   Patient Ratios   5:1
+   
+ 
+
+
+
+
+
+
+   Type of equipment   
+GE Telemetry, Pyxis, Welch Allen Vital Sign   Monitors, GE B450 Bedside monitor
+   
+ 
+
+
+
+
+
+
+   EMR   Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+   
+Cardiac Rhythm Interpretation
+   
+ 
+
+
+
+
+
+
+   Respiratory   experience   advanced airways, oxygen management
+   
+ 
+
+
+
+
+
+
+   Cardiac   drips   not titrated
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+   
+ACLS/ALS
+   
+
+
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+   
+
+Stress tests, Heart Cath, CABG
+   
+ 
+
+
+
+
+
+
+   
+Paracentesis, Thoracetesis, Chest Tubes
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+   
+Team Players!
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+   CPR
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+   To Med Surg, Med Surg Telemetry, and ED holding for this level of   care
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+   Scrub Color/Attire   
+Navy
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+   
+
+   
+
+
+             Weekends and On call (if any):    
+
+
+
+
+
+
+   Every other weekend scheduling
+ General Comments
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Tele
+    [assignmentid] => 545449
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6727
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 21 2023 15:57:16
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=777334 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=SOUTH AUSTIN HOSPITAL TX ;City=AUSTIN ;State=TX ;Zip=78704 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=RN ;Specialty=Tele ;Unit=CENTRAL AND WEST TEXAS DIVISION (50) ;Shift=7P-7A;# of Postions=1;Type=Travel;BillRate=$70.00;OTRate=78 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:CONTRACT - RN - TELE 4C (626) - 13 WEEKS - 7P-7A
+NO ON CALL REQ
+MUST HAVE TELE EXP.
+
+
+        Unit Information:
+   4 Central             Location: St. David s South Austin Medical   Center             
+Address: 901 Ben   White Blvd. Austin TX 78704
+         
+Floor: 4th
+             
+Building: 
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+   Number of Beds   32 private rooms
+   
+ 
+
+
+
+
+
+
+   Number of Staff   
+   
+ 
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+   Day Shift   Typical Shift is a Charge,   7 RNs, 3 PCT s, Unit Clerk
+   
+o
+
+   Night Shift   Typical Shift is a   Charge, 7 RNs, 3 PCT s
+   
+ 
+
+
+
+
+
+
+   Patient Ratios   5:1
+   
+ 
+
+
+
+
+
+
+   Type of equipment   
+GE Telemetry, Pyxis, Welch Allen Vital Sign   Monitors, GE B450 Bedside monitor
+   
+ 
+
+
+
+
+
+
+   EMR   Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+   
+Cardiac Rhythm Interpretation
+   
+ 
+
+
+
+
+
+
+   Respiratory   experience   advanced airways, oxygen management
+   
+ 
+
+
+
+
+
+
+   Cardiac   drips   not titrated
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+   
+ACLS/ALS
+   
+
+
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+   
+
+Stress tests, Heart Cath, CABG
+   
+ 
+
+
+
+
+
+
+   
+Paracentesis, Thoracetesis, Chest Tubes
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+   
+Team Players!
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+   CPR
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+   To Med Surg, Med Surg Telemetry, and ED holding for this level of   care
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+   Scrub Color/Attire   
+Navy
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+   
+
+   
+
+
+             Weekends and On call (if any):    
+
+
+
+
+
+
+   Every other weekend scheduling
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/777334;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => St. David's South Austin Medical Center
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

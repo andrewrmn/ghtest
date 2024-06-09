@@ -1,0 +1,394 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8100',
+  'Cf-Ray' => '86c2f7a656cc1463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Hospital:
+              Location: Summit Medical Center             
+Address: 5655   Frist Boulevard
+         
+Unit Name: 
+PCU
+             
+Building: 
+         
+Cost Center:   630/633
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds : 630 has 34 beds/ 633   has 25
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios : 1:4 to 1:5 on days,   1:5 to 1:6 on nights
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) : 3 techs when full on 630 and 2 techs   when full on 633
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment : bipaps, high flow   o2, vapotherm, alaris pumps, cardiac drips, heparin drips, insulin drips,   peritoneal dialysis. Wound vacs in conjunction with wound care
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: every other   weekend requirement for contract, 3 12 hour shifts a week
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: may have to float in   between PCU units or float to med-surg floors
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements:   hourly rounding on days, every 2 hour rounding on nights, AIDET and keeping   up with communication boards on 7th floor. Dept 633 has tv   communication boards. 
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:   BLS, ACLS
+             Hiring profile             Requested Skill Set:   
+   
+Must have: Critical thinking skills, EKG rhythm   interpretation, cardiac drip, insulin drip and heparin drip experience.   Peritoneal dialysis experience preferred and peripheral iv skills. 
+   
+   
+
+
+   Advanced skills needed: ACLS. Experience with   bipaps, high flow 02 and multiple oxygen delivery systems. Experience with   stroke and post cardiac cath care.
+   Peritoneal dialysis experience preferred. Experience with tube   feedings and NG/dobhoff tubes.    
+
+
+   
+   
+Procedures performed on unit: 
+Peritoneal   dialysis, thoracentesis, paracentesis, chest tube insertions, dobhoff/NG tube   insertions, central line dressing changes. Trouble shooting wound vacs
+   
+
+
+   
+
+
+   Certifications Required: BLS, ACLS   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   
+Black Scrubs
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Unit does self scheduling.   Schedules are 4 weeks, and contract are required to work every other weekend.   Utilize techs to care for the patients and assist in care. Most travelers   extend after the first time on PCU. Care like family culture on PCU and great   teamwork
+ General Comments
+ No. of Positions: 1/2.
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 543067
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7587
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-04-15
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => March, 29 2024 17:31:27
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=765610 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=SUMMIT MEDICAL CENTER ;City=HERMITAGE ;State=TN ;Zip=37076 ;Start=12/12/2023;End=3/12/2024;Duration=91;Cert=RN ;Specialty=PCU ;Unit=TRISTAR DIVISION (7) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$83.00;minBillRate=$83.00;OTRate=91 ;CallbackRate=91 ;HolidayRate=91 ;Orientation=0 ;Description=Description:Hospital:
+              Location: Summit Medical Center             
+Address: 5655   Frist Boulevard
+         
+Unit Name: 
+PCU
+             
+Building: 
+         
+Cost Center:   630/633
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+
+
+   Number of Beds : 630 has 34 beds/ 633   has 25
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios : 1:4 to 1:5 on days,   1:5 to 1:6 on nights
+   
+ 
+
+
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) : 3 techs when full on 630 and 2 techs   when full on 633
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment : bipaps, high flow   o2, vapotherm, alaris pumps, cardiac drips, heparin drips, insulin drips,   peritoneal dialysis. Wound vacs in conjunction with wound care
+   
+ 
+
+
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+
+
+   Scheduling requirements: every other   weekend requirement for contract, 3 12 hour shifts a week
+   
+ 
+
+
+
+
+
+
+
+   Floating policy: may have to float in   between PCU units or float to med-surg floors
+   
+ 
+
+
+
+
+
+
+
+   Patient Experience requirements:   hourly rounding on days, every 2 hour rounding on nights, AIDET and keeping   up with communication boards on 7th floor. Dept 633 has tv   communication boards. 
+   Hospital Specifics-   
+ 
+
+
+
+
+
+
+
+   Certifications:   BLS, ACLS
+             Hiring profile             Requested Skill Set:   
+   
+Must have: Critical thinking skills, EKG rhythm   interpretation, cardiac drip, insulin drip and heparin drip experience.   Peritoneal dialysis experience preferred and peripheral iv skills. 
+   
+   
+
+
+   Advanced skills needed: ACLS. Experience with   bipaps, high flow 02 and multiple oxygen delivery systems. Experience with   stroke and post cardiac cath care.
+   Peritoneal dialysis experience preferred. Experience with tube   feedings and NG/dobhoff tubes.    
+
+
+   
+   
+Procedures performed on unit: 
+Peritoneal   dialysis, thoracentesis, paracentesis, chest tube insertions, dobhoff/NG tube   insertions, central line dressing changes. Trouble shooting wound vacs
+   
+
+
+   
+
+
+   Certifications Required: BLS, ACLS   
+   
+
+
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+
+
+   
+Black Scrubs
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+   
+
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Unit does self scheduling.   Schedules are 4 weeks, and contract are required to work every other weekend.   Utilize techs to care for the patients and assist in care. Most travelers   extend after the first time on PCU. Care like family culture on PCU and great   teamwork
+ General Comments
+ No. of Positions: 1/2. ;url=https://vendor.healthtrustws.com/positions/765610;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 83
+    [facilityName] => Summit Medical Center - TN
+    [shiftDateEnd] => 2024-07-15
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

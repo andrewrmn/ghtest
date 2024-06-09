@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '953',
+  'Cf-Ray' => '8362da3827b9183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Updated RS to 138042 on 12/15 to match OT bill after 40 hours
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 535181
+    [workerID] => 225872
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 16046
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-22
+    [workerLastName] => Parkes
+    [shiftNum] => 4
+    [workerFirstName] => Craig
+    [cert] => RN
+    [floorDesc] => ED
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 15 2023 19:36:29
+    [daysPerWeek] => 4
+    [orderNote] => EXTENSION
+BR:$110lRS:135214
+ChrgDf:P$1/B$3lOnCl:P$10/B$18
+FTK:API Reports
+    [guaranteedMinimum] => 
+    [workerEmail] => craig.parkes25@gmail.com
+    [HoursPerWeekOT] => 8
+    [offContractRate] => 110
+    [facilityName] => AHS - Morristown Medical Center
+    [shiftDateEnd] => 2024-01-20
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

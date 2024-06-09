@@ -1,0 +1,146 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '24',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4971',
+  'Cf-Ray' => '8307bcae627c494d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:MRI Tech
+$80/hr13 weeks
+Every Weekend:Friday 10a - 10:30pSaturday/Sunday 9a - 9:30p
+On Call Once per Week
+It is preferred but not required that the MRI Technologist is a graduate of an accredited AMA school and registered with the American Registry of Radiologic Technology (ARRT); has Magnetic Resonance Imaging Registry (MR) through ARRT and maintains a State License as a general radiographer.  The MRI Technologist is responsible for providing timely imaging services to both inpatient and outpatients under the direction of a Radiologist and departmental protocols.  Responsibilities include: ability to change imaging parameters to study soft tissue, arterial system, brain, spine, joints, and extremities with or without the use of contrast media.
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location:
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => MRI
+    [assignmentid] => 543612
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8294
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => MRI Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => December, 04 2023 18:12:31
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771099 ;Status=Open;Association=Community Health Systems ;Client=Lutheran Hospital ;City=Fort Wayne ;State=IN ;Zip=46804 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=MRI Tech ;Specialty=Radiology ;Unit=EXT-Other (911) ;Shift=10:00-22:30;# of Postions=1;Type=Travel;BillRate=$90.00;minBillRate=$90.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:MRI Tech
+$90/hr13 weeks
+Every Weekend:Friday 10a - 10:30pSaturday/Sunday 9a - 9:30p
+On Call Once per Week
+It is preferred but not required that the MRI Technologist is a graduate of an accredited AMA school and registered with the American Registry of Radiologic Technology (ARRT); has Magnetic Resonance Imaging Registry (MR) through ARRT and maintains a State License as a general radiographer.  The MRI Technologist is responsible for providing timely imaging services to both inpatient and outpatients under the direction of a Radiologist and departmental protocols.  Responsibilities include: ability to change imaging parameters to study soft tissue, arterial system, brain, spine, joints, and extremities with or without the use of contrast media.
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location:
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/771099;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Lutheran Hospital - Parallon Travel
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

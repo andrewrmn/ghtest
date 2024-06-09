@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4450',
+  'Cf-Ray' => '829ae426a09d1464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => RN Med-Surg Acute Care/OBSERVATION UNIT RN for Days. Our census is growing due to increase in Ortho surgery's this time of year, Hybrid Cath Lab procedures/surgery's and acute/chronic illnesses. Come help us out and play inthe Colorado Mountains!TheRegistered Nurse (RN) Acute Care/Med-Surg Adultisresponsible for providing the highest degree of quality nursing care to patients. The nurse will use their specialized knowledge and expertise related to critical disease states to plan, coordinate, implement, and evaluate patient care, utilizing the nursing process.SHIFT:??12-hour day shift includingweekend rotation; must agree to be in the call rotation and take 1 call shift per 2-week period (following VV s pay schedule) in place of guaranteed hours that week; if requested due to staffing needs.EXPERIENCE: Candidates must have a minimum of 2 years of Acute Care/Med Surge/Telemetry or similarRN experience REQUIRED.CERTS:Current RN License to work in Colorado.Current BLS issued by the American Heart Association, Current Flu Vaccine.Agency's please include the below when submitting candidates:???ResumeCopy of Nursys LicenseSkills SheetProof of Flu Vaccine.   Additional Information:  *RADIUS RULE* Traveler's permanent address must be at least 75 miles away from our facility to be considered for a travel assignment.   Position Urgency:Normal Billing string = Valley View Hospital
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543131
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6969
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 21 2023 13:10:44
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261326 ;Status=Open;Association=Valley View Hospital ;Client=Valley View Hospital ;City=Glenwood Springs ;State=CO ;Zip=81601 ;Start=11/8/2023;End=2/7/2024;Duration=91;Cert=Nursing ;Specialty=Med-surg Adult, Telemetry Med / Surg, Observation ;Unit=Med-surg Adult, Telemetry Med / Surg, Observation ;Shift=12 hr days including weekend rotation; must agree to be in the call rotation and take 1 call shift per 2-week period (following VV’s pay schedule) in place of guaranteed hours that week; if requested due to staffing needs.;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$100.00;OTRate=110 ;OTRules=By The Week, after 40, ;CallbackRate=105 (All Inclusive Rate + $5) ;HolidayRate=110 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=RN Med-Surg Acute Care/OBSERVATION UNIT RN for Days. Our census is growing due to increase in Ortho surgery's this time of year, Hybrid Cath Lab procedures/surgery's and acute/chronic illnesses. Come help us out and play inthe Colorado Mountains!TheRegistered Nurse (RN) Acute Care/Med-Surg Adultisresponsible for providing the highest degree of quality nursing care to patients. The nurse will use their specialized knowledge and expertise related to critical disease states to plan, coordinate, implement, and evaluate patient care, utilizing the nursing process.SHIFT:??12-hour day shift includingweekend rotation; must agree to be in the call rotation and take 1 call shift per 2-week period (following VV s pay schedule) in place of guaranteed hours that week; if requested due to staffing needs.EXPERIENCE: Candidates must have a minimum of 2 years of Acute Care/Med Surge/Telemetry or similarRN experience REQUIRED.CERTS:Current RN License to work in Colorado.Current BLS issued by the American Heart Association, Current Flu Vaccine.Agency's please include the below when submitting candidates:???ResumeCopy of Nursys LicenseSkills SheetProof of Flu Vaccine.   Additional Information:  *RADIUS RULE* Traveler's permanent address must be at least 75 miles away from our facility to be considered for a travel assignment.   Position Urgency:Normal Billing string = Valley View Hospital ;url=https://vms.medefis5.com/jobs/261326;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Valley View Hospital
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

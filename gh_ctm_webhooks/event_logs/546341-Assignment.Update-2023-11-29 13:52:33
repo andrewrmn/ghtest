@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1295',
+  'Cf-Ray' => '82db54f195341836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Bill only hours worked/ no bill of OT unless approved, Vacation and holidays or down time days are not billable. Vacation must be tracked on tracking sheet. See gov division for approval
+    [sitename] => giftednurses
+    [spec] => Phlebotomy
+    [assignmentid] => 546341
+    [workerID] => 45190
+    [WorkerContactNo] => 205-844-6910
+    [housingNote] => We will just move their extension date down as the facility approves- agreements are sent to end 12/31/23 on clinican side
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 32
+    [facilityID] => 7404
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-01
+    [workerLastName] => Taylor
+    [shiftNum] => 1
+    [workerFirstName] => Keisha
+    [cert] => Phlebotomist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 16:30
+    [whenmodified] => November, 29 2023 08:52:33
+    [daysPerWeek] => 4
+    [orderNote] => EXTENSION
+$4.37 hr taxable. Paid up to 40 hours for all paid hours including holiday, PTO. Do not pay for hours exceeding 40 hours (overtime). (Example 4.18 x 8 hours = 33.44)
+    [guaranteedMinimum] => 1
+    [workerEmail] => ktaylor950@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => BOP-FCI Aliceville
+    [shiftDateEnd] => 2024-12-27
+    [shiftStartTime] => 08:30
+    [subjectID] => 
+)

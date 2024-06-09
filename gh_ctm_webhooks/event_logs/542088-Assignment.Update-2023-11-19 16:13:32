@@ -1,0 +1,76 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3177',
+  'Cf-Ray' => '8289bdb1d0c31832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:The Post Partum Registered Nurse holds shift accountability for providing care to patients during the postpartum phase of Obstetrical care by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care
+Bill Rate $80
+1 - Night Shift 7p - 730a
+May be required to floatRequired:
+BLS, ACLS, NRP and STABLEMust have a NM or compact license that allows them to work in NM
+ General CommentsPCR# 1028-Traveler
+
+10280279641
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => Mother/Baby
+    [assignmentid] => 542088
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5112
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-03
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 19 2023 11:12:58
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771662 ;Status=Open;Association=Community Health Systems ;Client=Eastern New Mexico Medical Center ;City=Roswell ;State=NM ;Zip=88201 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=RN ;Specialty=Post Partum/Mom Baby ;Unit=EXT-Other (911) ;Shift=19:00-07:30;# of Postions=1;Type=Travel;BillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:The Post Partum Registered Nurse holds shift accountability for providing care to patients during the postpartum phase of Obstetrical care by utilizing the Nursing Process in accordance with the state Nurse Practice Act and Hospital policy and procedures. The registered nurse demonstrates critical thinking skills, scientific judgement and leadership in the anticipation and planning for safe delivery of care; maintains clinical competencies through continuing education; delegates patient care priorities commensurate with the education and experience of the staff available; provides direction and supervision of assigned personnel delivering patient care
+Bill Rate $80
+1 - Night Shift 7p - 730a
+May be required to floatRequired:
+BLS, ACLS, NRP and STABLEMust have a NM or compact license that allows them to work in NM
+ General CommentsPCR# 1028-Traveler
+
+10280279641
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/771662;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Eastern New Mexico Medical Center
+    [shiftDateEnd] => 2024-03-03
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

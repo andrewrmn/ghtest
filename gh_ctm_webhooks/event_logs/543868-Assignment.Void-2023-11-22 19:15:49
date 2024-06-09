@@ -1,0 +1,781 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '43',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8868',
+  'Cf-Ray' => '82a380d590841840-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN ICUDAYS13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS/ACLS REQUIRED
+ General CommentsUnit Information:
+
+LewisGale Hospital PulaskiLocation:
+
+Pulaski County
+Address:
+
+2400 Lee Highway, Pulaski, VA 24301
+
+Floor: ICU
+General InformationTell us about the unit(s):
+ 
+
+
+
+
+
+
+
+
+Number of Beds - 8
+
+ 
+
+
+
+
+
+
+
+
+Number of Staff  
+
+12
+
+ 
+
+
+
+
+
+
+
+
+Type of staff:
+
+o
+
+
+
+Day Shift   1 charge (charge nurse takes patients) and 2 nurses. No CNA s, no monitor techs.
+
+o
+
+
+
+Night Shift -1 charge (charge nurse takes patients) and 2 nurse. No CNA s, no monitor techs.
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios  
+
+2:1, at times 3:1
+
+( we do not have a PCU unit so we are often able to group 3 PCU pt s together)
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment -
+
+GE monitors, Pyxis medication administration, Sigma Spectrum IV pumps, Puritan Bennett Vents
+
+ 
+
+
+
+
+
+
+
+
+EMR   Meditech- assessments every 4 hours, notes every 2 hours, VS every 1 hour if not more often.
+Typical hiring profileSkill Set Most recruited for:
+
+(Travel RNs)
+
+Must have:
+
+candidates without these skills will not be considered for the role.
+
+ 
+
+
+
+
+
+
+
+
+At least 2 years of critical care experience, ACLS, BLS
+
+ 
+
+
+
+
+
+
+
+
+Willing to work OT
+
+ 
+
+
+
+
+
+
+
+
+Outstanding communication skills and has a true understanding of the patient experience
+
+
+Preferred or nice to have: candidates with these skills will be considered first.
+
+ 
+
+
+
+
+
+
+
+
+Wiliness to float to other units to help out (when the ICU census is low the staff in the ICU are floated to other departments, generally the Med-Surg dept)
+
+ 
+
+
+
+
+
+
+
+
+PALS
+
+List typical procedures performed on unit(s):
+
+
+
+ 
+
+
+
+
+
+
+
+
+Intubation
+
+ 
+
+
+
+
+
+
+
+
+CVP monitoring, Arterial line monitoring
+
+ 
+
+
+
+
+
+
+
+
+ETOH and opioid detox
+
+
+
+Best personality Fit:
+ 
+
+
+
+
+
+
+
+
+Enjoys working in a small rural hospital, willing to be flexible
+
+ 
+
+
+
+
+
+
+
+
+Compassionate and accountable
+
+Dress Code:
+
+ 
+
+
+
+
+
+
+
+
+Scrub Color -
+
+Navy
+
+ 
+
+
+
+
+
+
+
+
+No Patterns allowed
+
+Unit Guidelines/Policies:
+
+ 
+
+
+
+
+
+
+
+
+Must arrive on time for their shift. Report starts at 1845, must be in the unit by 1840
+
+ 
+
+
+
+
+
+
+
+
+Must have a positive attitude, negativity not allowed
+
+ 
+
+
+
+
+
+
+
+
+Must be willing to float to other units with a positive attitude
+
+ 
+
+
+
+
+
+
+
+
+Pt s are rounded on every hour utilizing the SAFETY Round acronym
+
+ 
+
+
+
+
+
+
+
+
+Bedside report is given at the change of the shift with the patient and family involved in the report process at the bedside
+
+ 
+
+
+
+
+
+
+
+
+Cannot leave the hospital for lunch. Must stay on hospital premises for lunch.
+
+ 
+
+
+
+
+
+
+
+
+Smoke free campus
+
+
+
+Awards/Recognition:
+
+
+ 
+
+
+
+
+
+
+
+
+Unit of Distinction honorable mention 2 years in a row
+
+
+
+ 
+
+
+
+
+
+
+
+
+Pathway recognized facility
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 543868
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7640
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 22 2023 14:15:48
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=770687 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=LEWISGALE HOSPITAL-PULASKI VA ;City=PULASKI ;State=VA ;Zip=24301 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=RN ;Specialty=ICU ;Unit=CAPITAL DIVISION (20) ;Shift=7:00AM - 7:00PM;# of Postions=1;Type=Travel;BillRate=$86.00;OTRate=94 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:TRAVEL RN ICUDAYS13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS/ACLS REQUIRED
+ General CommentsUnit Information:
+
+LewisGale Hospital PulaskiLocation:
+
+Pulaski County
+Address:
+
+2400 Lee Highway, Pulaski, VA 24301
+
+Floor: ICU
+General InformationTell us about the unit(s):
+ 
+
+
+
+
+
+
+
+
+Number of Beds - 8
+
+ 
+
+
+
+
+
+
+
+
+Number of Staff  
+
+12
+
+ 
+
+
+
+
+
+
+
+
+Type of staff:
+
+o
+
+
+
+Day Shift   1 charge (charge nurse takes patients) and 2 nurses. No CNA s, no monitor techs.
+
+o
+
+
+
+Night Shift -1 charge (charge nurse takes patients) and 2 nurse. No CNA s, no monitor techs.
+
+ 
+
+
+
+
+
+
+
+
+Patient Ratios  
+
+2:1, at times 3:1
+
+( we do not have a PCU unit so we are often able to group 3 PCU pt s together)
+
+ 
+
+
+
+
+
+
+
+
+Type of equipment -
+
+GE monitors, Pyxis medication administration, Sigma Spectrum IV pumps, Puritan Bennett Vents
+
+ 
+
+
+
+
+
+
+
+
+EMR   Meditech- assessments every 4 hours, notes every 2 hours, VS every 1 hour if not more often.
+Typical hiring profileSkill Set Most recruited for:
+
+(Travel RNs)
+
+Must have:
+
+candidates without these skills will not be considered for the role.
+
+ 
+
+
+
+
+
+
+
+
+At least 2 years of critical care experience, ACLS, BLS
+
+ 
+
+
+
+
+
+
+
+
+Willing to work OT
+
+ 
+
+
+
+
+
+
+
+
+Outstanding communication skills and has a true understanding of the patient experience
+
+
+Preferred or nice to have: candidates with these skills will be considered first.
+
+ 
+
+
+
+
+
+
+
+
+Wiliness to float to other units to help out (when the ICU census is low the staff in the ICU are floated to other departments, generally the Med-Surg dept)
+
+ 
+
+
+
+
+
+
+
+
+PALS
+
+List typical procedures performed on unit(s):
+
+
+
+ 
+
+
+
+
+
+
+
+
+Intubation
+
+ 
+
+
+
+
+
+
+
+
+CVP monitoring, Arterial line monitoring
+
+ 
+
+
+
+
+
+
+
+
+ETOH and opioid detox
+
+
+
+Best personality Fit:
+ 
+
+
+
+
+
+
+
+
+Enjoys working in a small rural hospital, willing to be flexible
+
+ 
+
+
+
+
+
+
+
+
+Compassionate and accountable
+
+Dress Code:
+
+ 
+
+
+
+
+
+
+
+
+Scrub Color -
+
+Navy
+
+ 
+
+
+
+
+
+
+
+
+No Patterns allowed
+
+Unit Guidelines/Policies:
+
+ 
+
+
+
+
+
+
+
+
+Must arrive on time for their shift. Report starts at 1845, must be in the unit by 1840
+
+ 
+
+
+
+
+
+
+
+
+Must have a positive attitude, negativity not allowed
+
+ 
+
+
+
+
+
+
+
+
+Must be willing to float to other units with a positive attitude
+
+ 
+
+
+
+
+
+
+
+
+Pt s are rounded on every hour utilizing the SAFETY Round acronym
+
+ 
+
+
+
+
+
+
+
+
+Bedside report is given at the change of the shift with the patient and family involved in the report process at the bedside
+
+ 
+
+
+
+
+
+
+
+
+Cannot leave the hospital for lunch. Must stay on hospital premises for lunch.
+
+ 
+
+
+
+
+
+
+
+
+Smoke free campus
+
+
+
+Awards/Recognition:
+
+
+ 
+
+
+
+
+
+
+
+
+Unit of Distinction honorable mention 2 years in a row
+
+
+
+ 
+
+
+
+
+
+
+
+
+Pathway recognized facility
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/770687;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 86
+    [facilityName] => Pulaski Community Hospital
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '20',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3188',
+  'Cf-Ray' => '82940a75276b493d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Certified Surgical Tech for Central Washington Hospital.Must have WA state registration Must have experience ingeneral surgery, Neuro surgery,, orthopedic surgery, vascular surgery, spine surgery, robotic surgery-Davinci.Call is mandatory.COVID-19 Vaccine medical and religious exemptions will be reviewed on an individual basis. With an approved accommodation travelers will be required to follow the current CH masking protocol.   Additional Information:PLEASE NOTE THAT CONFLUENCE HEALTH PARTICIPATES IN THE MEDEFIS CREDENTIAL SERVICE. PLEASE SUBMIT ALL CREDENTIALS THROUGH THE MEDEFIS PORTAL. THEY ALSO PARTICIPATE IN THE MEDEFIS INVOICING SERVICE OF WHICH KRONOS REPORTS ARE UPLOADED BIWEEKLY.  TRAVELERS ARE NOT TO USE PAPER TIMECARDS.  AGENCY MUST HAVE WA STATE NURSE POOL LICENSE IN ORDER TO HAVE TRAVELERS WORKING AT THIS FACILITY.   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 545261
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1368
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-20
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 20 2023 17:13:33
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=259011 ;Status=Open;Association=Confluence Health ;Client=Confluence Health Hospital - Central Campus ;City=Wenatchee ;State=WA ;Zip=98801 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=Nursing ;Specialty=Surgical Technologist ;Unit=Surgical Technologist ;Shift=D/E;# of Postions=5;Guaranteed Hours=36;Type=Travel;BillRate=$100.00;OTRate=110 ;OTRules=By The Week, after 40, ;CallbackRate=105 (All Inclusive Rate + $5) ;HolidayRate=110 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=Certified Surgical Tech for Central Washington Hospital.Must have WA state registration Must have experience ingeneral surgery, Neuro surgery,, orthopedic surgery, vascular surgery, spine surgery, robotic surgery-Davinci.Call is mandatory.COVID-19 Vaccine medical and religious exemptions will be reviewed on an individual basis. With an approved accommodation travelers will be required to follow the current CH masking protocol.   Additional Information:PLEASE NOTE THAT CONFLUENCE HEALTH PARTICIPATES IN THE MEDEFIS CREDENTIAL SERVICE. PLEASE SUBMIT ALL CREDENTIALS THROUGH THE MEDEFIS PORTAL. THEY ALSO PARTICIPATE IN THE MEDEFIS INVOICING SERVICE OF WHICH KRONOS REPORTS ARE UPLOADED BIWEEKLY.  TRAVELERS ARE NOT TO USE PAPER TIMECARDS.  AGENCY MUST HAVE WA STATE NURSE POOL LICENSE IN ORDER TO HAVE TRAVELERS WORKING AT THIS FACILITY.   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/259011;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Central Washington Hospital
+    [shiftDateEnd] => 2024-02-19
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

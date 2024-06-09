@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '28',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7847',
+  'Cf-Ray' => '828d73954699495d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => **Traveler must include and/or meet all minimum requirements below to be consider.**Do not submit candidates who have or will have expiring licenses and/or certifications during time frame of entire assignment. Candidates will automatically be declined.**Only submit profile who can work schedule in posting and interested in the unit.  Join the #1 hospital in Wisconsin!We are seeking aRegistered Nurseto:Join the      Cardiothoracic Surgery and Transplant team to provide high quality care to      patients on this acuity adaptable unit.  Ensure care is delivered with a mixture of      technological expertise and a positive commitment to meeting patient and      family needs.  Be an      integral part of a team that provides care for patients requiring      specialized care for cardiac and thoracic surgeries and procedures, heart      and/or lung transplants and various medical devices.Minimum Requirements:  Facility Requirement:    Traveler must have permanent address outside50mile radius of Madison (address must be included in       traveler's profile).  Experience:    CVICU experience requiredExperience and knowledge of NextStage CVVH machine requiredExperience in a Cardiothoracic Surgery and/or Acuity Adaptable area preferredTraveler must have completed two years of acute care experience       within last 3 years.   Traveler must have experience in an Academic Level 1 -       Trauma center or similar size hospital within the last year.   Successfully completed traveler assignment       (13 weeks).  Licensure and Certification:   Traveler must have WI nursing license or compact       license from their permanent address state.   BLS/ACLS   must       be certified through American Heart Association ONLY  Reference   Needs 2 references from recent work       environment/assignments (supervisor or manager only).  Telemetry    Traveler must have Basic Arrhythmia experience. Traveler will be required to pass UW Health Telemetry test prior to being cleared to start (not for clinic positions).UW Health Recruitment will send instructions to traveler 2-3 weeks prior to start date.  Floating    Travelers are the first to float to floors working with children up to 1 year of age and/or based on the traveler's competency skills/experience.The Traveler may have       shifts scheduled in multiple units, depending on the current staffing       needs. During the traveler s assignment, if the primary unit no longer       has a need, shifts will be re-assigned to another unit in order to       complete contract.   Location:University Hospital, 600 Highland Ave, Madison, WI 53792  Parking:Permit required through UW Transportation.   Additional Information: 	UW Health is moving away from using outdated file formats for Microsoft (Word, PowerPoint, and Excel). Profiles will need to be submitted in the following format: .docx, .xlsx and .pptx file types or our IS department will be blocking them and we will no longer receive the files nor able to forward internal to our hiring managers.-------------------------------------   	QuantiFERON/TSpot results will NOT be accepted for any reason   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => CVICU
+    [assignmentid] => 536040
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3538
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 19 2023 22:01:58
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=258512 ;Status=Open;Association=UW Health ;Client=UW Health University Hospital ;City=Madison ;State=WI ;Zip=53792 ;Start=10/9/2023;End=1/8/2024;Duration=91;Cert=Nursing ;Specialty=CVICU, Cardiovascular ICU ;Unit=CVICU, Cardiovascular ICU ;Shift=36 hrs/week, Night, 12 hr shift shifts,1900-0730. every other weekend rotation, and some holidays. ;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$110.00;OTRate=120 ;OTRules=By The Week, after 40, ;CallbackRate=110 (All Inclusive Rate) ;HolidayRate=120 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=**Traveler must include and/or meet all minimum requirements below to be consider.**Do not submit candidates who have or will have expiring licenses and/or certifications during time frame of entire assignment. Candidates will automatically be declined.**Only submit profile who can work schedule in posting and interested in the unit.  Join the #1 hospital in Wisconsin!We are seeking aRegistered Nurseto:Join the      Cardiothoracic Surgery and Transplant team to provide high quality care to      patients on this acuity adaptable unit.  Ensure care is delivered with a mixture of      technological expertise and a positive commitment to meeting patient and      family needs.  Be an      integral part of a team that provides care for patients requiring      specialized care for cardiac and thoracic surgeries and procedures, heart      and/or lung transplants and various medical devices.Minimum Requirements:  Facility Requirement:    Traveler must have permanent address outside50mile radius of Madison (address must be included in       traveler's profile).  Experience:    CVICU experience requiredExperience and knowledge of NextStage CVVH machine requiredExperience in a Cardiothoracic Surgery and/or Acuity Adaptable area preferredTraveler must have completed two years of acute care experience       within last 3 years.   Traveler must have experience in an Academic Level 1 -       Trauma center or similar size hospital within the last year.   Successfully completed traveler assignment       (13 weeks).  Licensure and Certification:   Traveler must have WI nursing license or compact       license from their permanent address state.   BLS/ACLS   must       be certified through American Heart Association ONLY  Reference   Needs 2 references from recent work       environment/assignments (supervisor or manager only).  Telemetry    Traveler must have Basic Arrhythmia experience. Traveler will be required to pass UW Health Telemetry test prior to being cleared to start (not for clinic positions).UW Health Recruitment will send instructions to traveler 2-3 weeks prior to start date.  Floating    Travelers are the first to float to floors working with children up to 1 year of age and/or based on the traveler's competency skills/experience.The Traveler may have       shifts scheduled in multiple units, depending on the current staffing       needs. During the traveler s assignment, if the primary unit no longer       has a need, shifts will be re-assigned to another unit in order to       complete contract.   Location:University Hospital, 600 Highland Ave, Madison, WI 53792  Parking:Permit required through UW Transportation.   Additional Information: 	UW Health is moving away from using outdated file formats for Microsoft (Word, PowerPoint, and Excel). Profiles will need to be submitted in the following format: .docx, .xlsx and .pptx file types or our IS department will be blocking them and we will no longer receive the files nor able to forward internal to our hiring managers.-------------------------------------   	QuantiFERON/TSpot results will NOT be accepted for any reason   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/258512;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 112
+    [facilityName] => University of Wisconsin Hospital and Clinics
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

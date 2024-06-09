@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6794',
+  'Cf-Ray' => '837b283eb3f41463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Job Summary:    Responsible for the delivery of care to patients utilizing the nursing process of assessment, planning, intervention, implementation, and evaluation; and effectively interacts with patient, significant others, and other health team members while maintaining standards of professional nursing.ESSENTIAL FUNCTIONS:  Utilize the nursing process by demonstrating appropriate assessment, planning, implementation, and evaluation of the patient's care, as evidenced by client/staff observation.  Teach patient/significant other appropriate health information in a timely manner and share written informational material.  Perform direct patient care, utilizing established procedures, policies, and standards.  Assist patients, family members or other clients with concern and empathy; respect their confidentiality and privacy and communicate with them in a courteous and respectful manner.  Assist in the orientation/training of new employees.  Assist other staff in the performance of their assignments.  Recognize the need for variations in staffing and volunteer to fill open shifts.  Take direction and initiate actions (cross/additional training) that will allow the assumption of cross-functional duties to ensure seamless patient care.   Demonstrate sound judgment by taking appropriate actions regarding questionable findings or concerns.ADDITIONAL RESPONSIBILITIES:    As assigned.KNOWLEDGE/SKILL/ABILITIES:  Basic computer.  Knowledgeable regarding the nursing process and its application, including the assessment, planning, implementation, and evaluation of nursing care.AGE-RELATED COMPETENCIES: Demonstrates the basic knowledge and skills necessary to identify age-specific patient needs appropriate for this position.Information Management: Treats all information and data within the scope of the position with appropriate confidentiality and security.Risk Management/Quality Management/Safety: Cooperates fully in all Risk Management, Quality Management, and Safety Activities and Investigations.MINIMUM POSITION QUALIFICATIONS:   Education   Graduate of an accredited School  of Nursing   Associate Degree or Diploma required.  Work Experience   One-year relevant experience, graduates accepted based upon position availability.  Training   N/A  License   Current New Mexico License required or RN License with Multistate Compact privileges.   Certification   BLS required. ACLS, PALS required or within 90 days of employment. TNCC and ENPC preferred. ENVIROMENTAL CONDITIONS: Work environment consists of daily patient contact, which may include exposure to blood, or other body fluids.   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 541468
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 11334
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-20
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:30
+    [whenmodified] => December, 18 2023 18:23:54
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=260724 ;Status=Open;Association=Artesia General Hospital ;Client=Artesia General Hospital ;City=Artesia ;State=NM ;Zip=88210 ;Start=10/30/2023;End=1/29/2024;Duration=91;Cert=Nursing ;Specialty=Operating Room / Circulate, Operating Room ;Unit=Operating Room / Circulate, Operating Room ;Shift=Days 5x8;# of Postions=2;Guaranteed Hours=40;Type=Travel;BillRate=$90.00;minBillRate=$28.71;OTRate=95 ;OTRules=By The Week, after 40, ;CallbackRate=95 (All Inclusive Rate + $5) ;HolidayRate=95 (All Inclusive Rate + $5) ;OnCallRateDescription=$2 per hour pager ;Description=Job Summary:    Responsible for the delivery of care to patients utilizing the nursing process of assessment, planning, intervention, implementation, and evaluation; and effectively interacts with patient, significant others, and other health team members while maintaining standards of professional nursing.ESSENTIAL FUNCTIONS:  Utilize the nursing process by demonstrating appropriate assessment, planning, implementation, and evaluation of the patient's care, as evidenced by client/staff observation.  Teach patient/significant other appropriate health information in a timely manner and share written informational material.  Perform direct patient care, utilizing established procedures, policies, and standards.  Assist patients, family members or other clients with concern and empathy; respect their confidentiality and privacy and communicate with them in a courteous and respectful manner.  Assist in the orientation/training of new employees.  Assist other staff in the performance of their assignments.  Recognize the need for variations in staffing and volunteer to fill open shifts.  Take direction and initiate actions (cross/additional training) that will allow the assumption of cross-functional duties to ensure seamless patient care.   Demonstrate sound judgment by taking appropriate actions regarding questionable findings or concerns.ADDITIONAL RESPONSIBILITIES:    As assigned.KNOWLEDGE/SKILL/ABILITIES:  Basic computer.  Knowledgeable regarding the nursing process and its application, including the assessment, planning, implementation, and evaluation of nursing care.AGE-RELATED COMPETENCIES: Demonstrates the basic knowledge and skills necessary to identify age-specific patient needs appropriate for this position.Information Management: Treats all information and data within the scope of the position with appropriate confidentiality and security.Risk Management/Quality Management/Safety: Cooperates fully in all Risk Management, Quality Management, and Safety Activities and Investigations.MINIMUM POSITION QUALIFICATIONS:   Education   Graduate of an accredited School  of Nursing   Associate Degree or Diploma required.  Work Experience   One-year relevant experience, graduates accepted based upon position availability.  Training   N/A  License   Current New Mexico License required or RN License with Multistate Compact privileges.   Certification   BLS required. ACLS, PALS required or within 90 days of employment. TNCC and ENPC preferred. ENVIROMENTAL CONDITIONS: Work environment consists of daily patient contact, which may include exposure to blood, or other body fluids.   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260724;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Artesia General Hospital
+    [shiftDateEnd] => 2024-02-19
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

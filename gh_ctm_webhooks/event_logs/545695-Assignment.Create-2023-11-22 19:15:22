@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1638',
+  'Cf-Ray' => '82a38033279523b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Emergency room nurse, night shift three 12s weekly, in a rural critical access facility   Position Urgency:Quick Start Billing string = Grace Cottage Hospital
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 545695
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9290
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 22 2023 14:15:22
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262109 ;Status=Open;Association=Grace Cottage Hospital ;Client=Grace Cottage Hospital ;City=Townshend ;State=VT ;Zip='05353 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Nursing ;Specialty=Emergency Room Nurse ;Unit=Emergency Room Nurse ;Shift=nights;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$100.00;OTRate=150 ;OTRules=By The Week, after 40, ;HolidayRate=150 (1.5 X All Inclusive Rate (Time & 1/2)) ;OnCallRateDescription=No Call ;Description=Emergency room nurse, night shift three 12s weekly, in a rural critical access facility   Position Urgency:Quick Start Billing string = Grace Cottage Hospital ;url=https://vms.medefis5.com/jobs/262109;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Grace Cottage Hospital
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

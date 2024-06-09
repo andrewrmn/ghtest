@@ -1,0 +1,115 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8481',
+  'Cf-Ray' => '82803ac235651463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => The Operating Room Technologist, under the guidance of the Registered Nurse, fulfills the role of the scrub person and plans ahead for each procedure so equipment needs and supplies are available to meet the needs of the planned surgery. The position is responsible and accountable for delivery of care in the Operating Room as a member of the surgical team. The position requires competency* in four of the following specialty services: Cardiac, ENT, Orthopedic, General, Gynecologic, Laparoscopic, Neurologic, Ophthalmic, Robotics, Urologic, and Vascular. *Competency is measured by ability to: identify four anatomical structures and their functions unique to the surgical specialty identify two drugs used during each specialty's procedures and state the action of each anticipate and meet the needs of the operating surgeons in a timely manner Displays an awareness of the patient's physiological and psychological needs including helping to create a sense of well-being for the patient. Knowledge of surgical techniques, procedures and terminology. Reviews the Operating Room schedule/preference cards and assembles necessary supplies, equipment and instruments for surgical intervention. Performs all task required of the scrub including but not limited to skin preparation, positioning assistance, gowning and gloving of self and others, draping, sterile field preparation, maintains accurate counts of sponges, needles and other items countable, safe passing of instrumentation, safe handling/disposition of sharps, accurate measure of fluids on the sterile field and safe care and handling in disassembly of surgical table and room. Properly handles implants and specimens according to department policy Demonstrates ability and willingness to precept others in all areas of specialty Assists in maintaining Preference Lists to reflect care to be given and supplies to be used Acts as an advocate in providing safe delivery of care Enhances professional growth and development through participation in educational programs, in-service meetings, and workshops Completes 12 CEUs per year Ability to work independently, interdependently and under supervision within department. Good verbal and non-verbal communication skills with surgical team. Assists with those circulating duties which are delegated by and directly supervised by the RN. Ability to function in an intermittently stressful environment. 
+ Schedule Notes:13-weeks, day shift, varied start times. float to san mateo as needed.
+
+Skills: BLS - Required Completion of accredited course for Surgical Technologists - Required Current experience working as a Surgical Technologist in an acute care hospital - Required Surg Tech Certificate - Highly desired
+ Required
+	
+	  BLS (CPR)
+	  
+	
+	
+	
+	Additional
+
+Education: High School Diploma - Required This is the pay range that RightSourcing (a part of Magnit) reasonably expects to pay someone for this position, however, as a supplier your expected pay range may vary and/or include certain benefits like: Stipends (for clinical traveler workers only), Medical, Dental, Vision, 401K [include any compulsory benefits such as commissions, incentive bonuses, etc. if applicable]. Pay range (USD)65 hrly - (USD)98 hrly
+
+;Languages: 
+ 
+English
+ Read
+ Write
+ Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: SBH-DPC-Allied-Travel
+    [sitename] => giftednurses
+    [spec] => ORT
+    [assignmentid] => 543577
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 24
+    [facilityID] => 2101
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => ORT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 18 2023 07:31:16
+    [daysPerWeek] => 3
+    [orderNote] => Source=Wand;SourceID=27699307 ;Status=Pending;Client=Sutter Health ;City=Burlingame ;State=CA ;Zip=94010 ;Start=12/4/2023;End=3/2/2024;Duration=89;Cert=SBH-DPC-Allied-Travel ;Specialty=OR Tech - Travel - MPMC ;Unit=Mills-Pen Health Svcs*OPERATING ROOM 						: 360*117420    		                Mills-Pen Health Svcs Mills-Pen Health Svcs*OPERATING ROOM  : 360*117420   Mills-Pen Health Svcs ;Shift=13-weeks, day shift, varied start times. float to san mateo as needed. 13-weeks, day shift, varied start times. float to san mateo as needed. 5x8 Hr;# of Postions=3;Guaranteed Hours=40.00;Type=Travel;BillRate=$84.53;Description=The Operating Room Technologist, under the guidance of the Registered Nurse, fulfills the role of the scrub person and plans ahead for each procedure so equipment needs and supplies are available to meet the needs of the planned surgery. The position is responsible and accountable for delivery of care in the Operating Room as a member of the surgical team. The position requires competency* in four of the following specialty services: Cardiac, ENT, Orthopedic, General, Gynecologic, Laparoscopic, Neurologic, Ophthalmic, Robotics, Urologic, and Vascular. *Competency is measured by ability to: identify four anatomical structures and their functions unique to the surgical specialty identify two drugs used during each specialty's procedures and state the action of each anticipate and meet the needs of the operating surgeons in a timely manner Displays an awareness of the patient's physiological and psychological needs including helping to create a sense of well-being for the patient. Knowledge of surgical techniques, procedures and terminology. Reviews the Operating Room schedule/preference cards and assembles necessary supplies, equipment and instruments for surgical intervention. Performs all task required of the scrub including but not limited to skin preparation, positioning assistance, gowning and gloving of self and others, draping, sterile field preparation, maintains accurate counts of sponges, needles and other items countable, safe passing of instrumentation, safe handling/disposition of sharps, accurate measure of fluids on the sterile field and safe care and handling in disassembly of surgical table and room. Properly handles implants and specimens according to department policy Demonstrates ability and willingness to precept others in all areas of specialty Assists in maintaining Preference Lists to reflect care to be given and supplies to be used Acts as an advocate in providing safe delivery of care Enhances professional growth and development through participation in educational programs, in-service meetings, and workshops Completes 12 CEUs per year Ability to work independently, interdependently and under supervision within department. Good verbal and non-verbal communication skills with surgical team. Assists with those circulating duties which are delegated by and directly supervised by the RN. Ability to function in an intermittently stressful environment. 
+ Schedule Notes:13-weeks, day shift, varied start times. float to san mateo as needed.
+
+Skills: BLS - Required Completion of accredited course for Surgical Technologists - Required Current experience working as a Surgical Technologist in an acute care hospital - Required Surg Tech Certificate - Highly desired
+ Required
+	
+	  BLS (CPR)
+	  
+	
+	
+	
+	Additional
+
+Education: High School Diploma - Required This is the pay range that RightSourcing (a part of Magnit) reasonably expects to pay someone for this position, however, as a supplier your expected pay range may vary and/or include certain benefits like: Stipends (for clinical traveler workers only), Medical, Dental, Vision, 401K [include any compulsory benefits such as commissions, incentive bonuses, etc. if applicable]. Pay range (USD)65 hrly - (USD)98 hrly
+
+;Languages: 
+ 
+English
+ Read
+ Write
+ Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: SBH-DPC-Allied-Travel ;url=https://prowand.pro-unlimited.com/supplier/standard/requisition/req_geninfo_view.html?id=27699307&type=REQUISITION&reqProfile=true;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 12
+    [offContractRate] => 84.53
+    [facilityName] => Mills-Peninsula Medical Center RS
+    [shiftDateEnd] => 2024-03-02
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

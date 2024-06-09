@@ -1,0 +1,126 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3292',
+  'Cf-Ray' => '83f40b0c81666a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => ER RN
+Nights
+3x12
+13 weeks
+Weekends
+*Possible to do every other weekend and rotate a Tuesday, Wednesday, Thursday.  
+
+SCREENING CRITERIA
+  BLS
+  ACLS
+  PALS
+  Airway management
+  Management of vented patients
+  Artline management
+  Management of dysrhythmias
+  Central line management
+  Management of IV drips
+  Isolation precautions
+  Triage skills (ER/ER Holding only)
+  Electronic charting experience
+  Nurse to patient ratios 1:1-2+
+  1 year of recent
+
+ Modified Time:3/21/2022 5:00:00 AM
+ Account Manager: Lisa Beebe
+ Account Manager Email: Lisa.Beebe@qualivis.com
+ Over Time Multiplier: 1.25x
+ Over Time Rule: Overtime after 48.00 Hours per week
+ Call Back: 1.00x
+ Charge: $3.00 Bump
+ Holiday: 1.25x
+ Submittal Details: #Tier1 Crisis ComplianceNeed  3 days at minimum lead time from BOOKING to START to account for crisis compliance
+ COVID-19 Vaccine: Unknown
+ Flu Vaccine: Unknown
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 358328
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10628
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2022-03-21
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 02 2024 10:30:22
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=1610513 ;Status=Open;Association=Qualivis EPA ;Client=Ouachita County Medical Center Crisis Response ;City=Camden ;State=AR ;Zip=71701 ;Start=3/21/2022;End=6/20/2022;Duration=91;Cert=Registered Nurse ;Specialty=ER ;Unit=ER ;Shift=Night (12 Hours) 19:00 7:00;# of Postions=1;Type=Travel;BillRate=$130.00;OTRate=1.25x ;OTRules=Overtime after 48.00 Hours per week ;ChargeRate=$3.00 Bump ;CallbackRate=1.00x ;HolidayRate=1.25x ;OnCallRateDescription=$5.00 ;Orientation=Non-Billable Orientation: 16 Hours ;Description=ER RN
+Nights
+3x12
+13 weeks
+Weekends
+*Possible to do every other weekend and rotate a Tuesday, Wednesday, Thursday.  
+
+SCREENING CRITERIA
+  BLS
+  ACLS
+  PALS
+  Airway management
+  Management of vented patients
+  Artline management
+  Management of dysrhythmias
+  Central line management
+  Management of IV drips
+  Isolation precautions
+  Triage skills (ER/ER Holding only)
+  Electronic charting experience
+  Nurse to patient ratios 1:1-2+
+  1 year of recent
+
+ Modified Time:3/21/2022 5:00:00 AM
+ Account Manager: Lisa Beebe
+ Account Manager Email: Lisa.Beebe@qualivis.com
+ Over Time Multiplier: 1.25x
+ Over Time Rule: Overtime after 48.00 Hours per week
+ Call Back: 1.00x
+ Charge: $3.00 Bump
+ Holiday: 1.25x
+ Submittal Details: #Tier1 Crisis ComplianceNeed  3 days at minimum lead time from BOOKING to START to account for crisis compliance
+ COVID-19 Vaccine: Unknown
+ Flu Vaccine: Unknown ;url=https://app.ayaconnect.com/index.html#/vendor/job/1610513/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 130
+    [facilityName] => Ouachita County Medical Center - TRAVEL
+    [shiftDateEnd] => 2022-06-20
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

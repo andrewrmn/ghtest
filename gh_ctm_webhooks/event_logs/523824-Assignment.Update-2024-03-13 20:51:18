@@ -1,0 +1,472 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6779',
+  'Cf-Ray' => '863ee6aed1e177bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN ICU7:00PM - 7:00AM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+   ICU             Location: Parkland Medical Center              
+Address: 1   Parkland Drive, Derry, NH
+         
+Floor: 2nd   
+             
+Building: 
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+   Number of Beds   8
+   
+ 
+
+
+
+
+
+   Number of Staff   
+4 RNs and we flex with volume
+   
+ 
+
+
+
+
+
+   Type of staff:
+   
+o
+
+   Day Shift   4 RNs
+   
+o
+
+   Night Shift   4 RNs
+   
+ 
+
+
+
+
+
+   Patient Ratios   2:1
+   
+ 
+
+
+
+
+
+   Type of equipment   
+GE cardiac monitoring, Hospira IV pumps,   Artic Sun cooling
+   
+ 
+
+
+
+
+
+   EMR   Expanse
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+ 
+IABP   experience (be able to manage with minimal support)
+   
+ 
+
+
+
+
+
+ 2 years ICU experience
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+ 
+Community   ICU/Level 3 ICU experience
+   
+ 
+
+
+
+
+
+ 
+Prior   HCA experience
+   
+List typical procedures performed on unit(s): 
+
+   
+ 
+
+
+
+
+
+ 
+
+Bedside   procedures for critically ill patients 
+   
+ 
+
+
+
+
+
+ 
+Bronchoscopy
+   Best personality Fit:   
+ 
+
+
+
+
+
+   
+Self-directed, confident,   positive even when faced with difficult circumstances, strong communication   skills, team player
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+   ACLS, BLS, NIAH
+   Floating Area(s):   
+ 
+
+
+
+
+
+   Progressive Care
+   
+ 
+
+
+
+
+
+   Emergency Department (for ED holds)
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+   Scrub Color/Attire   
+Professional.
+ No required color
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+ Will discuss during interview &amp; orientation
+   
+
+
+             Weekends and On call (if any):   
+ 
+
+
+
+
+
+ Every other weekend or the equivalent if   staffing needs require this
+ No. of Positions: 1/4.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 523824
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1399
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-03-25
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => March, 13 2024 16:50:56
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=741986 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=PARKLAND MEDICAL CENTER NH ;City=DERRY ;State=NH ;Zip='03038 ;Start=2/15/2024;End=5/16/2024;Duration=91;Cert=RN ;Specialty=ICU ;Unit=CAPITAL DIVISION (20) ;Shift=7:00PM-7:00AM;# of Postions=1;Type=Travel;BillRate=$85.00;minBillRate=$85.00;OTRate=93 ;CallbackRate=93 ;HolidayRate=93 ;Description=Description:TRAVEL RN ICU7:00PM - 7:00AM13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+   ICU             Location: Parkland Medical Center              
+Address: 1   Parkland Drive, Derry, NH
+         
+Floor: 2nd   
+             
+Building: 
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+   Number of Beds   8
+   
+ 
+
+
+
+
+
+   Number of Staff   
+4 RNs and we flex with volume
+   
+ 
+
+
+
+
+
+   Type of staff:
+   
+o
+
+   Day Shift   4 RNs
+   
+o
+
+   Night Shift   4 RNs
+   
+ 
+
+
+
+
+
+   Patient Ratios   2:1
+   
+ 
+
+
+
+
+
+   Type of equipment   
+GE cardiac monitoring, Hospira IV pumps,   Artic Sun cooling
+   
+ 
+
+
+
+
+
+   EMR   Expanse
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+ 
+IABP   experience (be able to manage with minimal support)
+   
+ 
+
+
+
+
+
+ 2 years ICU experience
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+ 
+Community   ICU/Level 3 ICU experience
+   
+ 
+
+
+
+
+
+ 
+Prior   HCA experience
+   
+List typical procedures performed on unit(s): 
+
+   
+ 
+
+
+
+
+
+ 
+
+Bedside   procedures for critically ill patients 
+   
+ 
+
+
+
+
+
+ 
+Bronchoscopy
+   Best personality Fit:   
+ 
+
+
+
+
+
+   
+Self-directed, confident,   positive even when faced with difficult circumstances, strong communication   skills, team player
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+   ACLS, BLS, NIAH
+   Floating Area(s):   
+ 
+
+
+
+
+
+   Progressive Care
+   
+ 
+
+
+
+
+
+   Emergency Department (for ED holds)
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+   Scrub Color/Attire   
+Professional.
+ No required color
+   
+
+
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+ Will discuss during interview &amp; orientation
+   
+
+
+             Weekends and On call (if any):   
+ 
+
+
+
+
+
+ Every other weekend or the equivalent if   staffing needs require this
+ No. of Positions: 1/4.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/741986;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Parkland Medical Center
+    [shiftDateEnd] => 2024-06-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

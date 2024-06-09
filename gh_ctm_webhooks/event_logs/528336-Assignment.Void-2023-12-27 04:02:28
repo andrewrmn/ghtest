@@ -1,0 +1,197 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '22',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '12210',
+  'Cf-Ray' => '83beab0fa0e54945-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 weeks
+40 hrs/wk
+Nights
+JOB SUMMARY 
+The Sonographer maintains all standards of the Sonography Area established by the Department of Radiology.  
+
+ORGANIZATIONAL SUMMARY      
+A.	Reports to:  Clinical Leads of In/Out Patient and Vascular/Vein/Regional Services
+B.	Supervises:  NA
+C.	Key Working Relationships: Radiologist, Nursing Units, Radiology Staff, Laboratory, Interpreting Physicians
+D.	Primary Customer Groups: General Public, Medical Staff, Patients, Vendors, Unit Nurses
+E.	Age/Population of Patients served:
+       
+	Neonatal		Adolescent		Geriatric
+	Pediatric		Adult	x	All Ages
+
+
+ESSENTIAL FUNCTIONS  
+A.	Schedules and completes all Ultrasound/Vascular procedures as described in the policy and procedure manual; assists in the coordination of procedures with the radiologist and interpreting physicians. 
+B.	Accurately identifies and transports patients to and from the department. 
+C.	Assumes responsibility for image management (PACS) and completes department related Hospital Information System (HIS) and Radiology Information System (RIS) functions. 
+D.	Responds to telephone inquiries and provides accurate information to customers of all age groups.
+E.	Instructs other radiological technologists, Sonographers and students in Ultrasound/Vascular procedures.
+F.	Maintains supplies in the Sonography Area.
+G.	Participates in the Ultrasound Ergonomic Program
+H.	Performs consent process with the patient and ensures all documents are completed prior to exam. 
+I.	Supervises the technical aspect of the Sonography Area in the absence of the Sonography Supervisor providing support and leadership skills. 
+J.	Maintains quality assurance program for the Ultrasound Area and coordinates preventative maintenance and service activities with the OEM service engineer and/or Bio-Med Department. 
+K.	Actively participates in departmental Commitment to Colleagues.  
+L.	Communicates with and performs duties following MercyOne North Iowa Service Excellence Standards of Behavior.
+M.	Technology).
+N.	Maintains required department confidentiality and abides by HIPPA regulations.
+O.	Provides competent patient care to the above indicated patient populations by obtaining and appropriately interpreting data, making appropriate decisions based on demonstrated knowledge of age-specific growth and development, and appropriately adapting procedures and treatments.
+P.	Takes an active role in enhancing ability to carry out job functions through personal and professional/job-related growth and development, and participates in medical center and/or departmental education programs.
+Q.	Communicates with and performs duties following the philosophy of MercyOne North Iowa and the Sisters of Mercy reflecting the organization s Mission, Values, and Cultural Beliefs.
+R.	Supports and abides by all medical center, departmental, and safety policies and procedures.  Proactively identifies safety concerns surrounding the work environment. 
+S.	Performs other responsibilities as requested by supervisor, manager or department head.
+
+
+ADDITIONAL FUNCTIONS 
+A.	 Assists the OB Department in scheduling and coordination of the Perinatology Clinic. 
+B.	 Completes comprehensive/complete OB sonography exams in the Perinatology Clinic.
+C.	Travels to network ultrasound sites and completes ultrasound procedures as described in the
+procedure manual.  
+D.	The Sonographer is prepared to assume responsibility for the ultrasound area in the absence of the Sonography Supervisor, providing support and leadership skills.
+E.	 Assists in clinical/didactic training of Ultrasound Interns. Assumes the role of Program Director in his/her absence
+
+POSITION QUALIFICATIONS
+A.	Education [formal]: 
+1.	Must be board eligible by the American Registry of Diagnostic Medical Sonographers (ARDMS) as a Diagnostic Medical Sonographer required at hire/transfer. 
+2.	Must be certified as a RDMS in ABD, OB/GYN, Breast and RVT (Registered Vascular Technologist) with in a 2-year period.                
+B.	Experience:  
+          1.   Demonstrated competence in Sonography is preferred 	
+
+C.	Special Skills and Competencies: 
+         1.   Must be able to take call.
+         2.   May be required to alternate shifts.
+         3.   Must possess a valid Driver s License if performing as Mobile Sonographer.
+         4.   Must be able to read, write and/or speak English.
+
+
+
+x	Must provide proof of Basic Life Support (BLS Provider-American Heart Association or Professional Rescuer-American Red Cross) prior to employment or within 30 days of hire and maintains current status.
+x	Must provide proof of Mandatory Reporting for Child and Dependent Adult Abuse training prior to employment or within 6 months of hire and maintain current status per State of Iowa guidelines
+	Completes Advanced Cardiac Life Support (ACLS)   American Heart Association within 6 months of hire and maintains current status.
+	Completes Pediatric Advance Life Support (PALS)   American Heart Association within 6 months of hire and maintains current status.
+	Completes Neonatal Resuscitation Program (NRP)   American Heart Association within 6 months of hire and maintains current status.
+	Completes MANDT Training within 6 months of hire and maintains current status.
+	Completes Trauma Nurse Core Course (TNCC) within 6 months of hire and maintains current status.
+    [sitename] => giftednurses
+    [spec] => Ultrasound Tech
+    [assignmentid] => 528336
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 12691
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => 
+    [shiftNum] => 3
+    [workerFirstName] => 
+    [cert] => Ultrasound Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => December, 26 2023 23:02:28
+    [daysPerWeek] => 5
+    [orderNote] => Source=EinsteinTrinity;SourceID=46491 ;Status=In-Progress (O);Association=Trinity Health ;Client=IA - MercyOne North Iowa Medical Center ;City=Mason City ;State=IA ;Zip=50401 ;Start=12/31/2023;End=3/30/2024;Duration=90;Cert=Sonographer ;Specialty=Ultrasound ;Unit=IA\MercyOne North\Sonographer ;Shift=23:00:00 - 07:30:00;# of Postions=1;Type=Travel;BillRate=$105.00;OTRate=136.50 ;ChargeRate=108.00 ;CallbackRate=136.50 ;HolidayRate=136.50 ;Orientation=0.00 ;Description=13 weeks
+40 hrs/wk
+Nights
+JOB SUMMARY 
+The Sonographer maintains all standards of the Sonography Area established by the Department of Radiology.  
+
+ORGANIZATIONAL SUMMARY      
+A.	Reports to:  Clinical Leads of In/Out Patient and Vascular/Vein/Regional Services
+B.	Supervises:  NA
+C.	Key Working Relationships: Radiologist, Nursing Units, Radiology Staff, Laboratory, Interpreting Physicians
+D.	Primary Customer Groups: General Public, Medical Staff, Patients, Vendors, Unit Nurses
+E.	Age/Population of Patients served:
+       
+	Neonatal		Adolescent		Geriatric
+	Pediatric		Adult	x	All Ages
+
+
+ESSENTIAL FUNCTIONS  
+A.	Schedules and completes all Ultrasound/Vascular procedures as described in the policy and procedure manual; assists in the coordination of procedures with the radiologist and interpreting physicians. 
+B.	Accurately identifies and transports patients to and from the department. 
+C.	Assumes responsibility for image management (PACS) and completes department related Hospital Information System (HIS) and Radiology Information System (RIS) functions. 
+D.	Responds to telephone inquiries and provides accurate information to customers of all age groups.
+E.	Instructs other radiological technologists, Sonographers and students in Ultrasound/Vascular procedures.
+F.	Maintains supplies in the Sonography Area.
+G.	Participates in the Ultrasound Ergonomic Program
+H.	Performs consent process with the patient and ensures all documents are completed prior to exam. 
+I.	Supervises the technical aspect of the Sonography Area in the absence of the Sonography Supervisor providing support and leadership skills. 
+J.	Maintains quality assurance program for the Ultrasound Area and coordinates preventative maintenance and service activities with the OEM service engineer and/or Bio-Med Department. 
+K.	Actively participates in departmental Commitment to Colleagues.  
+L.	Communicates with and performs duties following MercyOne North Iowa Service Excellence Standards of Behavior.
+M.	Technology).
+N.	Maintains required department confidentiality and abides by HIPPA regulations.
+O.	Provides competent patient care to the above indicated patient populations by obtaining and appropriately interpreting data, making appropriate decisions based on demonstrated knowledge of age-specific growth and development, and appropriately adapting procedures and treatments.
+P.	Takes an active role in enhancing ability to carry out job functions through personal and professional/job-related growth and development, and participates in medical center and/or departmental education programs.
+Q.	Communicates with and performs duties following the philosophy of MercyOne North Iowa and the Sisters of Mercy reflecting the organization s Mission, Values, and Cultural Beliefs.
+R.	Supports and abides by all medical center, departmental, and safety policies and procedures.  Proactively identifies safety concerns surrounding the work environment. 
+S.	Performs other responsibilities as requested by supervisor, manager or department head.
+
+
+ADDITIONAL FUNCTIONS 
+A.	 Assists the OB Department in scheduling and coordination of the Perinatology Clinic. 
+B.	 Completes comprehensive/complete OB sonography exams in the Perinatology Clinic.
+C.	Travels to network ultrasound sites and completes ultrasound procedures as described in the
+procedure manual.  
+D.	The Sonographer is prepared to assume responsibility for the ultrasound area in the absence of the Sonography Supervisor, providing support and leadership skills.
+E.	 Assists in clinical/didactic training of Ultrasound Interns. Assumes the role of Program Director in his/her absence
+
+POSITION QUALIFICATIONS
+A.	Education [formal]: 
+1.	Must be board eligible by the American Registry of Diagnostic Medical Sonographers (ARDMS) as a Diagnostic Medical Sonographer required at hire/transfer. 
+2.	Must be certified as a RDMS in ABD, OB/GYN, Breast and RVT (Registered Vascular Technologist) with in a 2-year period.                
+B.	Experience:  
+          1.   Demonstrated competence in Sonography is preferred 	
+
+C.	Special Skills and Competencies: 
+         1.   Must be able to take call.
+         2.   May be required to alternate shifts.
+         3.   Must possess a valid Driver s License if performing as Mobile Sonographer.
+         4.   Must be able to read, write and/or speak English.
+
+
+
+x	Must provide proof of Basic Life Support (BLS Provider-American Heart Association or Professional Rescuer-American Red Cross) prior to employment or within 30 days of hire and maintains current status.
+x	Must provide proof of Mandatory Reporting for Child and Dependent Adult Abuse training prior to employment or within 6 months of hire and maintain current status per State of Iowa guidelines
+	Completes Advanced Cardiac Life Support (ACLS)   American Heart Association within 6 months of hire and maintains current status.
+	Completes Pediatric Advance Life Support (PALS)   American Heart Association within 6 months of hire and maintains current status.
+	Completes Neonatal Resuscitation Program (NRP)   American Heart Association within 6 months of hire and maintains current status.
+	Completes MANDT Training within 6 months of hire and maintains current status.
+	Completes Trauma Nurse Core Course (TNCC) within 6 months of hire and maintains current status. ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Mercy Medical Center - North Iowa East Travel
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 23:00
+    [subjectID] => 
+)

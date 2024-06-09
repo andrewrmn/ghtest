@@ -1,0 +1,40 @@
+/*
+Retirar opciones no deseadas
+ */
+
+#wp-toolbar{
+  #wp-admin-bar-wp-logo,
+  #wp-admin-bar-updates,
+  #wp-admin-bar-comments,
+  #wp-admin-bar-new-content,
+  #wp-admin-bar-customize{
+    display: none;
+  }
+}
+
+/*
+Retraer la barra de administración en Front End
+ */
+
+
+#wpadminbar{
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  -ms-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+
+  top: -26px;
+  opacity: 0.4;
+
+  &:hover{
+    top: 0;
+    opacity: 1;
+  }
+}
+
+#wpcontent #wpadminbar{
+  top: 0;
+  opacity: 1;
+}
+

@@ -1,0 +1,93 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8795',
+  'Cf-Ray' => '829bce7cf14a23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => A.	Assesses and evaluates the patient s physical, psychosocial, environmental, spiritual, social and education needs and documents patient/family responses to nursing interventions while working collaboratively with the multidisciplinary team to achieve desired patient care outcomes. (Adherence to policy, Problem Solving, Teamwork) Develops and implements patient s plan of care, including the discharge plan, based on standards of nursing practice, health center policy, and patient/family needs using clinical/critical thinking skills Reviews and updates the plan of care based on changes in patient s condition ((Problem identification, Problem solving).  ).
+B.	Guides and directs patient care activities for the above-indicated population, by utilizing clinical/critical thinking skills and evidence-based practice (Problem Solving, Problem Identification).
+C.	Provides daily direction and guidance to Licensed Practical Nurse and Nurse Assistant
+D.	Provides, facilitates, and/or implements learning opportunities to meet the educational needs of patient/family by assessing the learning needs and formulating and initiating a teaching plan to meet those needs (Initiative, Adherence to Policy)
+E.	Effectively communicates pertinent patient changes/conditions to colleagues and to multidisciplinary caregivers (Teamwork, Communication).
+F.	Attends and participates in departmental/organizational meetings, in-services and educational opportunities. Department meeting attendance requirement: 80% with 50% in person if department meetings are available by webinar. (Communication/Adherence to Policy)
+G.	Serves as a steward for the hospital s human and material resources.  Meets productivity expectations of unit/department as defined by unit manager.  Utilizes and maintains appropriate supplies in department.  Supports staffing needs for patient care in multiple units, as needed, while being flexible with schedule and hours.  (Teamwork, Adherence to Policy, Adaptability)
+H.	Adapts positively to the ever-changing health care environment by supporting technology and process changes. Willing to learn new things, is open to change and maintains a calm positive manner under stressful conditions (Self-Aware, Initiative, Adaptability).
+I.	Identifies and takes action to solve problems, supports process improvement teams, which influence customer satisfaction, clinical outcomes and financial stability.  (Problem Identification, Problem Solving).
+J.	Documents patient information in the electronic/paper medical record in an accurate, timely manner. (Adherence to Policy)
+K.	Delegates/supervises appropriately based on patient needs and the scope of practice. (Communication, Teamwork)
+L.	Maintains required department confidentiality and abides by HIPPA regulations.
+M.	Provides competent patient care to the above indicated patient populations by obtaining and appropriately interpreting data, making appropriate decisions based on demonstrated knowledge of age-specific growth and development, and appropriately adapting procedures and treatments.
+N.	Takes an active role in enhancing ability to carry out job functions through personal and professional/job-related growth and development and participates in medical center and/or departmental education programs.
+O.	Communicates with and performs duties following the philosophy of MercyOne North Iowa and the Sisters of Mercy reflecting the organization s Mission, Values, and Cultural Beliefs.
+P.	Supports and abides by all medical center, departmental, and safety policies and procedures.  Proactively identifies safety concerns surrounding the work environment. 
+Q.	Performs other responsibilities as requested by supervisor, manager or department head.
+    [sitename] => giftednurses
+    [spec] => Peds
+    [assignmentid] => 536639
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12691
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 21 2023 15:50:43
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=47441 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne North Iowa Medical Center ;City=Mason City ;State=IA ;Zip=50401 ;Start=11/5/2023;End=2/3/2024;Duration=90;Cert=RN Pediatrics ;Specialty=Pediatrics ;Unit=*Registered Nurse-Pediatrics-Pediatrics ;Shift=1900-0730;# of Postions=1;Type=Travel;BillRate=$78.00;OTRate=101.40 ;ChargeRate=81.00 ;CallbackRate=101.40 ;HolidayRate=101.40 ;Description=A.	Assesses and evaluates the patient s physical, psychosocial, environmental, spiritual, social and education needs and documents patient/family responses to nursing interventions while working collaboratively with the multidisciplinary team to achieve desired patient care outcomes. (Adherence to policy, Problem Solving, Teamwork) Develops and implements patient s plan of care, including the discharge plan, based on standards of nursing practice, health center policy, and patient/family needs using clinical/critical thinking skills Reviews and updates the plan of care based on changes in patient s condition ((Problem identification, Problem solving).  ).
+B.	Guides and directs patient care activities for the above-indicated population, by utilizing clinical/critical thinking skills and evidence-based practice (Problem Solving, Problem Identification).
+C.	Provides daily direction and guidance to Licensed Practical Nurse and Nurse Assistant
+D.	Provides, facilitates, and/or implements learning opportunities to meet the educational needs of patient/family by assessing the learning needs and formulating and initiating a teaching plan to meet those needs (Initiative, Adherence to Policy)
+E.	Effectively communicates pertinent patient changes/conditions to colleagues and to multidisciplinary caregivers (Teamwork, Communication).
+F.	Attends and participates in departmental/organizational meetings, in-services and educational opportunities. Department meeting attendance requirement: 80% with 50% in person if department meetings are available by webinar. (Communication/Adherence to Policy)
+G.	Serves as a steward for the hospital s human and material resources.  Meets productivity expectations of unit/department as defined by unit manager.  Utilizes and maintains appropriate supplies in department.  Supports staffing needs for patient care in multiple units, as needed, while being flexible with schedule and hours.  (Teamwork, Adherence to Policy, Adaptability)
+H.	Adapts positively to the ever-changing health care environment by supporting technology and process changes. Willing to learn new things, is open to change and maintains a calm positive manner under stressful conditions (Self-Aware, Initiative, Adaptability).
+I.	Identifies and takes action to solve problems, supports process improvement teams, which influence customer satisfaction, clinical outcomes and financial stability.  (Problem Identification, Problem Solving).
+J.	Documents patient information in the electronic/paper medical record in an accurate, timely manner. (Adherence to Policy)
+K.	Delegates/supervises appropriately based on patient needs and the scope of practice. (Communication, Teamwork)
+L.	Maintains required department confidentiality and abides by HIPPA regulations.
+M.	Provides competent patient care to the above indicated patient populations by obtaining and appropriately interpreting data, making appropriate decisions based on demonstrated knowledge of age-specific growth and development, and appropriately adapting procedures and treatments.
+N.	Takes an active role in enhancing ability to carry out job functions through personal and professional/job-related growth and development and participates in medical center and/or departmental education programs.
+O.	Communicates with and performs duties following the philosophy of MercyOne North Iowa and the Sisters of Mercy reflecting the organization s Mission, Values, and Cultural Beliefs.
+P.	Supports and abides by all medical center, departmental, and safety policies and procedures.  Proactively identifies safety concerns surrounding the work environment. 
+Q.	Performs other responsibilities as requested by supervisor, manager or department head. ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 78
+    [facilityName] => Mercy Medical Center - North Iowa East Travel
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

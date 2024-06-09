@@ -1,0 +1,99 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '24',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4850',
+  'Cf-Ray' => '82a446df430d494d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Unit: Medical ICU
+- Mercy Hospital Ardmore
+Specialty: ICU
+Role/Title: RN
+Shift: Days, 1900-0700
+Guaranteed Hours: 36
+Assignment Length: 13 weeksALL CONTINGENCY REQUESTS MUST BE ON THE SUBMISSION FORM
+Required Licensure:
+Current RN
+License (Meets the criteria to be eligible for licensure in state of Oklahoma or currently licensed in the state of
+Oklahoma.)
+Required Certifications:
+BLS and ACLS from AHA only
+Required Experience:
+2 years ICU/Critical Care
+
+Must be willing to float when needed
+MUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsCritical Care Registered nurses are accountable for the provision of nursing care assigned patients in all phases of care in ICU. They are responsible for the prescribing of nursing interventions, the coordination of patient activities, and delegation of those aspects of care, which may be provided by other members of interdisciplinary team. Basic to the accomplishment of this goal is individual professional accountability through adherence to standards of nursing care of critically ill, and through a commitment to act in accordance with ethical principles. The nurse will perform all work in accord to the mission, vision and values of Mercy.
+Other: Demonstrates competence by completion of the Critical Care Orientation checklist within the first three months of employment. Successful completion of a critical care course. Able to communicate effectively in English, both verbally and in writing. Basic computer knowledge.Responsible for utilizing the Institute of Medicine's "6 Quality Improvement Aims" as an organized approach to creating service excellence in care/services (Safe, Timely, Efficient, Effective, Equitable, and Patient Centered.
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 542621
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3392
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 22 2023 16:31:00
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=763191 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Ardmore ;City=Ardmore ;State=OK ;Zip=73401 ;Start=10/30/2023;End=1/29/2024;Duration=91;Cert=RN ;Specialty=ICU ;Unit=Mercy ;Shift=19:00-07:00;# of Postions=2;Type=Travel;BillRate=$80.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Unit: Medical ICU
+- Mercy Hospital Ardmore
+Specialty: ICU
+Role/Title: RN
+Shift: Days, 1900-0700
+Guaranteed Hours: 36
+Assignment Length: 13 weeksALL CONTINGENCY REQUESTS MUST BE ON THE SUBMISSION FORM
+Required Licensure:
+Current RN
+License (Meets the criteria to be eligible for licensure in state of Oklahoma or currently licensed in the state of
+Oklahoma.)
+Required Certifications:
+BLS and ACLS from AHA only
+Required Experience:
+2 years ICU/Critical Care
+
+Must be willing to float when needed
+MUST BE FULLY COVID AND FLU VACCINATED TO BE SUBMITTED - NO EXCEPTIONS
+ General CommentsCritical Care Registered nurses are accountable for the provision of nursing care assigned patients in all phases of care in ICU. They are responsible for the prescribing of nursing interventions, the coordination of patient activities, and delegation of those aspects of care, which may be provided by other members of interdisciplinary team. Basic to the accomplishment of this goal is individual professional accountability through adherence to standards of nursing care of critically ill, and through a commitment to act in accordance with ethical principles. The nurse will perform all work in accord to the mission, vision and values of Mercy.
+Other: Demonstrates competence by completion of the Critical Care Orientation checklist within the first three months of employment. Successful completion of a critical care course. Able to communicate effectively in English, both verbally and in writing. Basic computer knowledge.Responsible for utilizing the Institute of Medicine's "6 Quality Improvement Aims" as an organized approach to creating service excellence in care/services (Safe, Timely, Efficient, Effective, Equitable, and Patient Centered. ;url=https://vendor.healthtrustws.com/positions/763191;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Mercy Hospital Ardmore TRAVEL
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

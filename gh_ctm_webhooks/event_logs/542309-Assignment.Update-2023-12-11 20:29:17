@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '973',
+  'Cf-Ray' => '83407a94a064183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Start/End Date Change
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 542309
+    [workerID] => 323583
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8932
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => Davis
+    [shiftNum] => 5
+    [workerFirstName] => Shawna
+    [cert] => CST
+    [floorDesc] => OR
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 11 2023 15:29:16
+    [daysPerWeek] => 3
+    [orderNote] => BR:$110lRS:136335
+OnCl:P$10/B$18
+Orient:$20lNonBill:8hrs
+FTK: GH Unsigned Timesheet
+    [guaranteedMinimum] => 
+    [workerEmail] => shawnahddrr@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => AtlantiCare Regional Medical Center - Atlantic City TRAVEL
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '928',
+  'Cf-Ray' => '8347ba1a83c223c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By Facility; No Call/No Show a Shift
+    [sitename] => giftednurses
+    [spec] => LTC
+    [assignmentid] => 528172
+    [workerID] => 238426
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 40
+    [facilityID] => 15907
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-15
+    [workerLastName] => Louesy
+    [shiftNum] => 3
+    [workerFirstName] => Ducas
+    [cert] => CNA
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 12 2023 12:35:58
+    [daysPerWeek] => 5
+    [orderNote] => EXTENSION
+BR:$55lRS:133920lFTK:Kronos/ GiftTC(unsigned)
+    [guaranteedMinimum] => 
+    [workerEmail] => mducas12@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 55
+    [facilityName] => Schulman & Schachne Institute (RS)
+    [shiftDateEnd] => 2023-10-19
+    [shiftStartTime] => 23:00
+    [subjectID] => 
+)

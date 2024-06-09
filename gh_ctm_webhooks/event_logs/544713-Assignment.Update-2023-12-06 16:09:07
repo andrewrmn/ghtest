@@ -1,0 +1,168 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '12661',
+  'Cf-Ray' => '8315ca8fd0d81830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:The Registered Nurse (RN) maintains the delivery of quality care by assuring the nursing care plan is followed.  The RN supervises Licensed Practical Nurses, Certified Nursing Assistants, and orientees.
+
+7:00p - 7:30a
+Complete Description:Initiates an on-going systematic assessment of the physical, emotional, social, educational, and functional needs of the patients/families through interview, observation, and physical examination. Receives admissions and/or transfers to the unit.  Completes nursing database within 24 hours.
+    
+Interprets assessment data and information to develop a nursing care plan which contains problem identification, nursing diagnosis, nursing orders, approaches, interventions, short/long term goals, and discharge planning.  Develops nursing care plan utilizing nursing diagnosis.  Assesses safety and fall risk levels for patients.   
+      
+Teaches and counsels patients/families, and makes referrals to appropriate resource personnel when needed.  Demonstrates documentation for functional training visit.  Documents patient, family, and significant other teaching.
+         
+Participates as a productive member of the interdisciplinary team in assessment, planning, implementation and evaluation of rehabilitation goals.
+                 
+Assures that medical orders are transcribed and processed accurately, and integrates the medical care plan into the provision of nursing care.
+                  
+Assures that medication/I.V. administration is correct and according to the established nursing policies and procedures.  Looks up unfamiliar medications.  Administers medications as ordered.  Evaluates effectiveness of PRN medications.  Verbalizes process for self-administered medications.  Verbalizes patient education on identified medications.  Verbalizes standing orders.  Verbalizes policy and procedure for maintenance and care of central line catheters.  Identifies critical drip medications; able to locate critical drip policies and administers according to policies after completing critical drip competency training.  Regulates drip rates as ordered.  Administers I.V. drugs.
+             
+Provides for and assures personal and environmental safety in accordance with hospital and nursing policies and procedures.        
+
+Demonstrates skills in handling emergency and life-threatening situations.  Locates and uses crash cart items.  Calls Code Blue and Medical Emergency.  Initiates CPR.  Follows P&P and DNR.
+    
+Assures that documents in the medical record are complete, factual, accurate and timely. Documents materials and equipment used. Verbalizes method to noting orders.  Documents discharge in chart. Initiates and updates care plan as appropriate.  Provides discharge instructions.  Completes interagency transfer form.
+                       
+Provides nursing care to meet patient's needs.  Performs a complete head-to-toe assessment of each assigned patient per shift using proper documentation tools.  Acts promptly on changes in patient condition, utilizing SBAR method.  Reviews lab and test results, notifying physician of abnormal and critical results. Performs wound care in accordance with policy, utilizing proper documentation tools.  Performs basic ventilator management and trouble-shooting.
+                  
+Provides direction and leadership in patient care to assigned personnel.    
+
+Prioritizes activities and plans for effective use of time and staff in meeting patient needs.  
+
+Communicates the plan of nursing care for each patient through reports, conferences, rounds, and patient care records. Shift to shift report and shift huddle with LPNs and aides. Delegates tasks to LPNs and aides; monitors to make sure delegated tasks are completed appropriately.    
+           
+Participates in the quality improvement activities of nursing.
+            
+Communicates identified learning needs of self and others to the CNO.                 
+Adheres to established policies and procedures of the hospital and Nursing Department.
+     
+Takes initiative in upgrading and maintaining skills necessary to provide quality care to patients and leadership to assigned staff.
+               
+Acquires continuing education sufficient to maintain licensure and certification.  Maintains current nursing licensure.            
+              
+Demonstrates competency in a variety of nursing skills as demonstrated and evaluated on at least an annual basis.
+             
+Displays a  customer service  attitude toward patients, visitors, and other staff members at all times.  Demonstrates basic telephone skills (how to answer, place on hold, and transfer a call.)  Utilizes intercom.  Demonstrates how to page physicians or others on call.     
+
+Abides by all safety, infection control, and other guidelines as required. Follows guidelines for caring for patients in isolation.  Utilizes hand-washing techniques. Cleans equipment between patient usage.  Reports personal symptoms of suspected illness or contagious disease to the Employee Health Nurse. Demonstrates knowledge of universal blood and body fluid precautions.
+              
+Promotes a work ethic of continuous quality improvement in all matters associated with the position, and documents specific quality improvement implementation.
+             
+Performs other duties as assigned.
+Skills
+|  Skill | SkillTypeDescription | Duration | ExpertiseRatingDescription |
+|  BLS Certification Required Prior to First Shift
+ | Required | 0  |  |
+|  ACLS Required Prior to First Shift
+ | Required | 0  |  |
+|  Minimum Two (2) Years Bedside Clinical Experience
+ | Highly desired | 0  |  |
+    [sitename] => giftednurses
+    [spec] => LTAC
+    [assignmentid] => 544713
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3863
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 06 2023 11:09:03
+    [daysPerWeek] => 3
+    [orderNote] => Source=PeopleFluent;SourceID=724978 ;Status=Open;Association=RHC Northwest Indiana - Porter County ;Client=Critical Illness and Rehab ;ASAP;Start=ASAP;End=;Duration=91;Cert=Registered Nurse ;Specialty=Registered Nurse - 4552 (Night) ;Unit=Registered Nurse - 4552 (Night) ;Shift=Night   3x12.0;# of Postions=2;Type=Travel;BillRate=$84.00;minBillRate=$65.00;Description=Short Description:The Registered Nurse (RN) maintains the delivery of quality care by assuring the nursing care plan is followed.  The RN supervises Licensed Practical Nurses, Certified Nursing Assistants, and orientees.
+
+7:00p - 7:30a
+Complete Description:Initiates an on-going systematic assessment of the physical, emotional, social, educational, and functional needs of the patients/families through interview, observation, and physical examination. Receives admissions and/or transfers to the unit.  Completes nursing database within 24 hours.
+    
+Interprets assessment data and information to develop a nursing care plan which contains problem identification, nursing diagnosis, nursing orders, approaches, interventions, short/long term goals, and discharge planning.  Develops nursing care plan utilizing nursing diagnosis.  Assesses safety and fall risk levels for patients.   
+      
+Teaches and counsels patients/families, and makes referrals to appropriate resource personnel when needed.  Demonstrates documentation for functional training visit.  Documents patient, family, and significant other teaching.
+         
+Participates as a productive member of the interdisciplinary team in assessment, planning, implementation and evaluation of rehabilitation goals.
+                 
+Assures that medical orders are transcribed and processed accurately, and integrates the medical care plan into the provision of nursing care.
+                  
+Assures that medication/I.V. administration is correct and according to the established nursing policies and procedures.  Looks up unfamiliar medications.  Administers medications as ordered.  Evaluates effectiveness of PRN medications.  Verbalizes process for self-administered medications.  Verbalizes patient education on identified medications.  Verbalizes standing orders.  Verbalizes policy and procedure for maintenance and care of central line catheters.  Identifies critical drip medications; able to locate critical drip policies and administers according to policies after completing critical drip competency training.  Regulates drip rates as ordered.  Administers I.V. drugs.
+             
+Provides for and assures personal and environmental safety in accordance with hospital and nursing policies and procedures.        
+
+Demonstrates skills in handling emergency and life-threatening situations.  Locates and uses crash cart items.  Calls Code Blue and Medical Emergency.  Initiates CPR.  Follows P&P and DNR.
+    
+Assures that documents in the medical record are complete, factual, accurate and timely. Documents materials and equipment used. Verbalizes method to noting orders.  Documents discharge in chart. Initiates and updates care plan as appropriate.  Provides discharge instructions.  Completes interagency transfer form.
+                       
+Provides nursing care to meet patient's needs.  Performs a complete head-to-toe assessment of each assigned patient per shift using proper documentation tools.  Acts promptly on changes in patient condition, utilizing SBAR method.  Reviews lab and test results, notifying physician of abnormal and critical results. Performs wound care in accordance with policy, utilizing proper documentation tools.  Performs basic ventilator management and trouble-shooting.
+                  
+Provides direction and leadership in patient care to assigned personnel.    
+
+Prioritizes activities and plans for effective use of time and staff in meeting patient needs.  
+
+Communicates the plan of nursing care for each patient through reports, conferences, rounds, and patient care records. Shift to shift report and shift huddle with LPNs and aides. Delegates tasks to LPNs and aides; monitors to make sure delegated tasks are completed appropriately.    
+           
+Participates in the quality improvement activities of nursing.
+            
+Communicates identified learning needs of self and others to the CNO.                 
+Adheres to established policies and procedures of the hospital and Nursing Department.
+     
+Takes initiative in upgrading and maintaining skills necessary to provide quality care to patients and leadership to assigned staff.
+               
+Acquires continuing education sufficient to maintain licensure and certification.  Maintains current nursing licensure.            
+              
+Demonstrates competency in a variety of nursing skills as demonstrated and evaluated on at least an annual basis.
+             
+Displays a  customer service  attitude toward patients, visitors, and other staff members at all times.  Demonstrates basic telephone skills (how to answer, place on hold, and transfer a call.)  Utilizes intercom.  Demonstrates how to page physicians or others on call.     
+
+Abides by all safety, infection control, and other guidelines as required. Follows guidelines for caring for patients in isolation.  Utilizes hand-washing techniques. Cleans equipment between patient usage.  Reports personal symptoms of suspected illness or contagious disease to the Employee Health Nurse. Demonstrates knowledge of universal blood and body fluid precautions.
+              
+Promotes a work ethic of continuous quality improvement in all matters associated with the position, and documents specific quality improvement implementation.
+             
+Performs other duties as assigned.
+Skills
+|  Skill | SkillTypeDescription | Duration | ExpertiseRatingDescription |
+|  BLS Certification Required Prior to First Shift
+ | Required | 0  |  |
+|  ACLS Required Prior to First Shift
+ | Required | 0  |  |
+|  Minimum Two (2) Years Bedside Clinical Experience
+ | Highly desired | 0  |  | ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=724978;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 84
+    [facilityName] => Regency Hospital - Porter County-TRAVEL
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

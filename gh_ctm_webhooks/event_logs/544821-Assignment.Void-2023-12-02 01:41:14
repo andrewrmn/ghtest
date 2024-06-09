@@ -1,0 +1,65 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '43',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2066',
+  'Cf-Ray' => '82efddcd25081840-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 2 years of level 1 trauma center experience is required. Must have experience with trauma cases. BLS certified. Must submit a CV and general Skills checklist. No RTO approved 12/24 or 12/25 (BF for Lisa McKannan, TL) 
+ Critical Need: Disaster Critical 11
+VayaOffer = False
+    [sitename] => giftednurses
+    [spec] => Sterile Processing Tech 
+    [assignmentid] => 544821
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12923
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Sterile Processing Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:30
+    [whenmodified] => December, 01 2023 20:41:13
+    [daysPerWeek] => 3
+    [orderNote] => Source=OptimizerVizient;SourceID=28540553 ;Status=CandidatesRequested;Association=University of Kentucky Hospital ;Client=University of Kentucky Hospital ;City=Lexington ;State=KY ;Zip=40536 ;Start=12/18/2023;End=3/23/2024;Duration=96;Cert=Surgical Tech ;Specialty=Surgical Tech - Cardiovascular Operating Room ;Unit=CH OR Room Pav A - 1058729250 ;Shift=11:00 AM - 11:30 PM;# of Postions=1;Guaranteed Hours=0;Type=Travel;BillRate=$100.00;OTRate=140.00 ;CallbackRate=140.00 ;HolidayRate=150.00 ;Orientation=70.00 ;Priority=Critical;Description=2 years of level 1 trauma center experience is required. Must have experience with trauma cases. BLS certified. Must submit a CV and general Skills checklist. No RTO approved 12/24 or 12/25 (BF for Lisa McKannan, TL) 
+ Critical Need: Disaster Critical 11
+VayaOffer = False ;url=https://optimizer.vayaworkforce.com/agency/job-requests/28540553;localRate=$95.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => University of Kentucky Hospital Travel
+    [shiftDateEnd] => 2024-03-23
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

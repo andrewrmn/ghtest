@@ -1,0 +1,84 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '20',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3704',
+  'Cf-Ray' => '83812d02f268493d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:The Operating Room Nurse demonstrates critical thinking skills, scientific judgment and leadership in the anticipation and planning for the care of the patient in the operating room.  As a member of the surgical team the RN works with the Surgeons, Anesthesiologists, ORT s and other personnel to provide patient care in the Operating Room according to State Nurse Practice Act, AORN and regulatory standards, physician orders, policies and procedures of the Hospital and the Surgical Department. Responsibilities include but are not limited to: ensuring supplies, timeliness of cases, communication with families, updating of physician preference cards, scrubbing and assisting physicians during surgical cases, and supervision of personnel delivering patient care.
+$80 Bill Rate
+2 Shifts Needed:
+1) 3/12's start times-0630--varies depending on surgery
+schedule w/ oncall
+2) 4/10's start times-0630--varies depending on surgery
+schedule w/ oncallMust have
+at least
+2 years of Ortho and general surgical experience.
+Must have Cerner experience.
+ General CommentsPCR # 2111-001 &amp; 2111-029
+ No. of Positions: 2/2.
+ Position creation reason:Coverage for Leave
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 545580
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 2355
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 19 2023 11:55:50
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=776261 ;Status=Open;Association=Community Health Systems ;Client=Oro Valley Hospital ;City=Oro Valley ;State=AZ ;Zip=85755 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=RN ;Specialty=OR ;Unit=EXT-Other (911) ;Shift=;# of Postions=2;Type=Travel;BillRate=$75.00;minBillRate=$75.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:The Operating Room Nurse demonstrates critical thinking skills, scientific judgment and leadership in the anticipation and planning for the care of the patient in the operating room.  As a member of the surgical team the RN works with the Surgeons, Anesthesiologists, ORT s and other personnel to provide patient care in the Operating Room according to State Nurse Practice Act, AORN and regulatory standards, physician orders, policies and procedures of the Hospital and the Surgical Department. Responsibilities include but are not limited to: ensuring supplies, timeliness of cases, communication with families, updating of physician preference cards, scrubbing and assisting physicians during surgical cases, and supervision of personnel delivering patient care.
+$75 Updated Bill Rate
+2 Shifts Needed:
+1) 3/12's start times-0630--varies depending on surgery
+schedule w/ oncall
+2) 4/10's start times-0630--varies depending on surgery
+schedule w/ oncallMust have
+at least
+2 years of Ortho and general surgical experience.
+Must have experience in general robotic surgical procedures.Must have Cerner experience.
+ General CommentsPCR # 2111-001 &amp; 2111-029
+ No. of Positions: 2/2.
+ Position creation reason:Coverage for Leave ;url=https://vendor.healthtrustws.com/positions/776261;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Northwest Medical Center of Oro Valley
+    [shiftDateEnd] => 2024-04-07
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

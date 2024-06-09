@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '982',
+  'Cf-Ray' => '83d2f8be52b01832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: End Date Change
+6 Weeks.
+DISPO: End date changed back to 1/20
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 535339
+    [workerID] => 81038
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3127
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 1
+    [bonus] => 
+    [shiftDateStart] => 2023-11-26
+    [workerLastName] => Nichols
+    [shiftNum] => 4
+    [workerFirstName] => Chaquita
+    [cert] => RN
+    [floorDesc] => General Medicine 6020
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 29 2023 10:10:45
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$85|RS:135245|FTK:API
+ChrgDf:P$1/B$3|OnCl:P$10/B$18
+    [guaranteedMinimum] => 
+    [workerEmail] => chaquitanichols@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => North Oaks Medical Center - Travel
+    [shiftDateEnd] => 2024-01-20
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

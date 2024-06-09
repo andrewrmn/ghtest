@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '905',
+  'Cf-Ray' => '86373b43179b1832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 537442
+    [workerID] => 84136
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13727
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => Rutland
+    [shiftNum] => 5
+    [workerFirstName] => Madison
+    [cert] => RN
+    [floorDesc] => Emergency Room
+    [Subject] => 
+    [shiftEndTime] => 07:15
+    [whenmodified] => March, 12 2024 18:30:54
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$92|RS:135667
+OnCl:P$3/B$7|FTK:API no GH timesheets
+    [guaranteedMinimum] => 
+    [workerEmail] => loflinmadison@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 92
+    [facilityName] => Anderson Regional Medical Center TRAVEL MEDEFIS
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 18:45
+    [subjectID] => 
+)

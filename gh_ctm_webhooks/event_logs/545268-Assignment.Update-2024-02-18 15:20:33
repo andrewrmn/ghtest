@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '102',
+  'Ki-Request-Colo' => '735',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '898',
+  'Cf-Ray' => '8577413a35066187-ORD',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Verbiage/Special Notes Change
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 545268
+    [workerID] => 203339
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12923
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-02-13
+    [workerLastName] => Blevins
+    [shiftNum] => 5
+    [workerFirstName] => Kyle
+    [cert] => RN
+    [floorDesc] => Stepdown
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => February, 18 2024 10:20:33
+    [daysPerWeek] => 3
+    [orderNote] => EXT-FTK: Kronos 
+POT:$65
+BR:$98
+    [guaranteedMinimum] => 
+    [workerEmail] => Kyle.blevins3939@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 98
+    [facilityName] => University of Kentucky Hospital Travel
+    [shiftDateEnd] => 2024-05-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

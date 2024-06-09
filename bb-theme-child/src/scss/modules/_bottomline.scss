@@ -1,0 +1,40 @@
+.bottomline{
+  @include resetFont;
+  background: $color-dark-teal;
+  color: white;
+  font-size: 14px;
+  padding: 27px 0 24px;
+
+  a{
+    color: white !important;
+  }
+
+  &__top{
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+
+    .sep{
+      display: block;
+      border-left: 1px solid white;
+    }
+  }
+
+  &__bottom{
+    font-size: 12px;
+    line-height: 1.2;
+    margin-top: 16px;
+  }
+
+  @media screen and (max-width: 736px){
+    &__copyright{
+      width: 100%;
+    }
+    &__top{
+      .sep.desktop{
+        display: none;
+      }
+    }
+  }
+
+}

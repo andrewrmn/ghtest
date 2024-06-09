@@ -1,0 +1,92 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2058',
+  'Cf-Ray' => '82a34c8e23d51466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 weeks
+
+	OBS (Observation unit)
+
+	Every Other Weekend
+
+	Holiday as needed
+
+	Float: OBS and OBS overflow-1N
+
+	NO On Call
+
+	REQUIRED CERTS: BLS, ACLS, NIHSS
+
+	Patient Population: Observation patients, cardiac, surgical, stroke, behavioral emergencies
+
+	RN experience/background should include: Cardiac Telemetry, eyrs ED, Stemi, stroke
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545657
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2907
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => November, 22 2023 13:40:07
+    [daysPerWeek] => 3
+    [orderNote] => Source=IntrastaffVMS;SourceID=305114 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Howard CNTY General Hospital ;Start=12/18/2023;End=3/16/2024;Duration=89;Cert=MSP RN Enhanced High Needs ;Specialty=1 N OBSERVATION UNIT (6407440000) ;Unit=1 N OBSERVATION UNIT (6407440000) ;Shift=Day 12 (7:00 AM - 7:30 PM);# of Postions=1;Type=Travel;BillRate=$85.00;minBillRate=$85.00;Description=13 weeks
+
+	OBS (Observation unit)
+
+	Every Other Weekend
+
+	Holiday as needed
+
+	Float: OBS and OBS overflow-1N
+
+	NO On Call
+
+	REQUIRED CERTS: BLS, ACLS, NIHSS
+
+	Patient Population: Observation patients, cardiac, surgical, stroke, behavioral emergencies
+
+	RN experience/background should include: Cardiac Telemetry, eyrs ED, Stemi, stroke ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=KeYfGthliWw=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => JHHS Howard County General Hospital
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,70 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4112',
+  'Cf-Ray' => '82b30cde526123b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+None ProvidedparseGeneralComments Comments
+.bd_title                                   {                                          font-weight: bold;                                   }
+Reason for opening (special, internal vacancy, leave coverage) 2 Day Shift - 7A to 7P2 Night Shift - 7P to 7A             *******************************************************************************              How long has it been open?              Will position be required to float to other units? May potentially float to COIVD unit             Number of beds in your facility? 365; 33 in the ICU unit             Years of experience required?              Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)              Willing to review clinicians with pending state license?              Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift)
+2 Day Shift - 7A to 7P
+2 Night Shift - 7P to 7A    EMR for your facility:              Scrub colors / dress code: Navy scrubs    Parking location:  Contact: CHS MSP HOUSE Resource Manager: Suhani Desai OT Rate:Custom Rate
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 126813
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9491
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-07-13
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 24 2023 11:32:48
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=364728 ;Status=Open;Client=DeTar Healthcare System ;City=Victoria ;State=TX ;Zip=77904 ;Start=7/13/2020;End=10/12/2020;Duration=91;Cert=Registered Nurse (RN) ;Specialty=ICU ;Unit=INTENSIVE CARE UNIT ;Shift=for this position? (days needed, hours or shift) 2 Day Shift - 7A to 7P 2 Night Shift - 7P to 7A    EMR for your facility:              Scrub colors / dress code: Navy scrubs    Parking location:;# of Postions=4;Guaranteed Hours=?;Type=Travel;BillRate=$66.40;OTRate=?/? ;OTRules=1.00x (OT), 1.00x (DT) ;CallbackRate=?/? ;HolidayRate=?/? ;Description=Position Description
+None ProvidedparseGeneralComments Comments
+.bd_title                                   {                                          font-weight: bold;                                   }
+Reason for opening (special, internal vacancy, leave coverage) 2 Day Shift - 7A to 7P2 Night Shift - 7P to 7A             *******************************************************************************              How long has it been open?              Will position be required to float to other units? May potentially float to COIVD unit             Number of beds in your facility? 365; 33 in the ICU unit             Years of experience required?              Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)              Willing to review clinicians with pending state license?              Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift)
+2 Day Shift - 7A to 7P
+2 Night Shift - 7P to 7A    EMR for your facility:              Scrub colors / dress code: Navy scrubs    Parking location:  Contact: CHS MSP HOUSE Resource Manager: Suhani Desai OT Rate:Custom Rate ;Buyer=CHS MSP HOUSE ;url=https://workforce.healthtrustws.com/Pages/position/manage.aspx?refid=364728&null;VMSPositionType=Travel maxPayRate=$66.40;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 66.4
+    [facilityName] => DeTar Hospital - North 
+    [shiftDateEnd] => 2020-10-12
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

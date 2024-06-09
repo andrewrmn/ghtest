@@ -1,0 +1,424 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '10931',
+  'Cf-Ray' => '831d7667810d1842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TriStar Centennial Medical Center is a 657-bed comprehensive facility located in Nashville, Tennessee. The hospital's 43-acre campus is home to many noteworthy treatment centers, including a
+Sarah Cannon Cancer Institute, a
+Children's Hospital, and a
+Women's Hospital, among other
+service offerings.
+
+
+The facility's
+positive company culture
+stems from its strong emphasis on
+ICARE, short for
+Integrity,
+Compassion,
+A
+positive attitude,
+Respect, and
+Exceptional quality.
+Through living this philosophy each day, TriStar Centennial has earned many
+awards and accreditations, such as:
+An "A" Hospital Safety Score from the Leapfrog Group,Recognition as a Bariatric Surgery Center of Excellence by the American Society for Metabolic and Bariatric Surgery, andAn accreditation and Gold Seal of Approval from The Joint Commission.
+
+The facility's focus on exceptional care and meeting the needs of the surrounding community have made TriStar Centennial a leading healthcare provider in the Nashville area.
+
+
+Nashville lives up to its nickname of
+Music City
+by featuring more than 100 live music venues, including the famous
+Grand Ole Opry. The city is also home to the
+Frist Art Museum, the
+Country Music Hall of Fame and Museum, a
+booming food scene, and
+so much more. For a truly unique experience, the city holds an annual
+Tomato Art Festival
+that you need to see to believe.
+ General CommentsHospital:
+ Centennial Medical Center
+             
+Location: Nashville, TN
+             
+Address: 2300   Patterson St. Nashville, TN 37203
+         
+Unit Name: CVICU
+             
+Building: Tower
+         
+Cost Center: 653/64125
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+   Number of Beds : 16
+   
+ 
+
+
+
+
+
+   Patient Ratios : 1:2, 1:1 for certain   device patients
+   
+ 
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) : Free floating charge nurse to assist   staff. Unit secretary and Administrative Care Tech M-F 0730-1530. Student   Nurse Externs on variable shifts that assist nurses by performing tech duties.
+   
+ 
+
+
+
+
+
+   Type of equipment : Phillips bedside   telemetry monitors, Hill-Rom beds, Alaris IV pumps
+   
+ 
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+   Scheduling requirements: 2   weekends/month, 1 summer holiday (Memorial Day, July 4th, Labor   Day), 2 Winter Holidays (Thanksgiving, Christmas Eve, Christmas Day, New   Years Eve, New Years Day)
+   
+ 
+
+
+
+
+
+   Floating policy: C/L employees float as   needed, typically to other ICU s but can include other floors.
+   
+ 
+
+
+
+
+
+   Patient Experience requirements: None   specific
+   Hospital Specifics-   
+ 
+
+
+
+
+
+ Certifications: BLS
+             Hiring profile             Requested Skill Set:   
+   
+Must have: Strong critical care experience, including   CVICU experience
+   
+   
+Advanced skills needed: Skills with PA catheter and hemodynamic   monitoring required, preferred experience with IABP, Impella, and CRRT. 
+   
+
+
+   
+Procedures performed on unit: Provide care to immediate post-operative   cardiac surgery patients, including ECMO, Centrimags, and HM3 LVADS. Perform   central line insertion, swan insertion, intubations, etc. on unit. 
+   
+
+
+   
+Certifications Required: ACLS, BLS
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+ 
+Scrubs   black, red, or   galaxy blue, scrub jackets/vests only
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+ See Attached
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+   HCA Unit of Distinction Award Winner
+   
+ 
+
+
+
+
+
+   Daisy Award Recipient
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+
+
+
+
+
+ 16 bed CVICU with 5 full time surgeons   performing high volume and advanced cardiac surgeries. Specialize in   post-operative cardiac surgery care and devices. Intensivist assigned to unit   24/7. Strong driven team of nurses with excellent teamwork.
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 529635
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1297
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 07 2023 09:29:43
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=744152 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=CENTENNIAL MEDICAL CENTER TN ;City=NASHVILLE ;State=TN ;Zip=37203 ;Start=11/21/2023;End=2/20/2024;Duration=91;Cert=RN ;Specialty=ICU ;Unit=TRISTAR DIVISION (7) ;Shift=7:00AM - 7:00PM;# of Postions=1;Type=Travel;BillRate=$70.00;minBillRate=$70.00;OTRate=78 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TriStar Centennial Medical Center is a 657-bed comprehensive facility located in Nashville, Tennessee. The hospital's 43-acre campus is home to many noteworthy treatment centers, including a
+Sarah Cannon Cancer Institute, a
+Children's Hospital, and a
+Women's Hospital, among other
+service offerings.
+
+
+The facility's
+positive company culture
+stems from its strong emphasis on
+ICARE, short for
+Integrity,
+Compassion,
+A
+positive attitude,
+Respect, and
+Exceptional quality.
+Through living this philosophy each day, TriStar Centennial has earned many
+awards and accreditations, such as:
+An "A" Hospital Safety Score from the Leapfrog Group,Recognition as a Bariatric Surgery Center of Excellence by the American Society for Metabolic and Bariatric Surgery, andAn accreditation and Gold Seal of Approval from The Joint Commission.
+
+The facility's focus on exceptional care and meeting the needs of the surrounding community have made TriStar Centennial a leading healthcare provider in the Nashville area.
+
+
+Nashville lives up to its nickname of
+Music City
+by featuring more than 100 live music venues, including the famous
+Grand Ole Opry. The city is also home to the
+Frist Art Museum, the
+Country Music Hall of Fame and Museum, a
+booming food scene, and
+so much more. For a truly unique experience, the city holds an annual
+Tomato Art Festival
+that you need to see to believe.
+ General CommentsHospital:
+ Centennial Medical Center
+             
+Location: Nashville, TN
+             
+Address: 2300   Patterson St. Nashville, TN 37203
+         
+Unit Name: CVICU
+             
+Building: Tower
+         
+Cost Center: 653/64125
+             General Information             Unit Specifics:    
+ 
+
+
+
+
+
+   Number of Beds : 16
+   
+ 
+
+
+
+
+
+   Patient Ratios : 1:2, 1:1 for certain   device patients
+   
+ 
+
+
+
+
+
+   Unit staffing description- (unit   secretaries and tech availability) : Free floating charge nurse to assist   staff. Unit secretary and Administrative Care Tech M-F 07:00PM-7:00AM. Student   Nurse Externs on variable shifts that assist nurses by performing tech duties.
+   
+ 
+
+
+
+
+
+   Type of equipment : Phillips bedside   telemetry monitors, Hill-Rom beds, Alaris IV pumps
+   
+ 
+
+
+
+
+
+   Documentation system: Meditech
+   
+ 
+
+
+
+
+
+   Scheduling requirements: 2   weekends/month, 1 summer holiday (Memorial Day, July 4th, Labor   Day), 2 Winter Holidays (Thanksgiving, Christmas Eve, Christmas Day, New   Years Eve, New Years Day)
+   
+ 
+
+
+
+
+
+   Floating policy: C/L employees float as   needed, typically to other ICU s but can include other floors.
+   
+ 
+
+
+
+
+
+   Patient Experience requirements: None   specific
+   Hospital Specifics-   
+ 
+
+
+
+
+
+ Certifications: BLS
+             Hiring profile             Requested Skill Set:   
+   
+Must have: Strong critical care experience, including   CVICU experience
+   
+   
+Advanced skills needed: Skills with PA catheter and hemodynamic   monitoring required, preferred experience with IABP, Impella, and CRRT. 
+   
+
+
+   
+Procedures performed on unit: Provide care to immediate post-operative   cardiac surgery patients, including ECMO, Centrimags, and HM3 LVADS. Perform   central line insertion, swan insertion, intubations, etc. on unit. 
+   
+
+
+   
+Certifications Required: ACLS, BLS
+             
+Dress Code: (Required uniform)
+   
+ 
+
+
+
+
+
+ 
+Scrubs   black, red, or   galaxy blue, scrub jackets/vests only
+             
+Unit Guidelines/Policies: Please attach   unit specific policies and guidelines.
+   
+ 
+
+
+
+
+
+ See Attached
+             Awards/Recognition: 
+Please include anything that you would   like prospective candidates to be aware of, such as, links to videos that   feature the department, outstanding department/team awards..
+    
+ 
+
+
+
+
+
+   HCA Unit of Distinction Award Winner
+   
+ 
+
+
+
+
+
+   Daisy Award Recipient
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.    
+ 
+
+
+
+
+
+ 16 bed CVICU with 5 full time surgeons   performing high volume and advanced cardiac surgeries. Specialize in   post-operative cardiac surgery care and devices. Intensivist assigned to unit   24/7. Strong driven team of nurses with excellent teamwork.
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/744152;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Centennial Medical Center
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

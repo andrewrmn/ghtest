@@ -1,0 +1,113 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '47',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3436',
+  'Cf-Ray' => '8273263c14486a20-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => CT Contract Need
+3p-1a M-F (30 minute lunch break)
+Rotating every 5 weeks on weekend.  
+The weekends the tech would work would allow them to be off two days through the week.
+
+Equipment: CT Siemens Definition 20 Slice & CT Siemens Definition 60 Slice  (Experience STRONGLY preferred, but not required)
+ 
+50 mile radius restriction
+
+3 years of experience required
+Not willing to consider 1st time travelers
+
+Must be vaccinated
+
+
+ Modified Time:12/4/2023 5:00:00 AM
+
+ Account Manager: Ashley Feick
+
+ Account Manager Email: Ashley.Feick@qualivis.com
+
+ COVID-19 Vaccine: Required - No Exemptions
+
+ Flu Vaccine: Unknown
+ Submittals:Low
+
+ Submittal Details: #Tier2 Travel ComplianceNeed 2 weeks/ 14 calendar days + (confirm with CL if Quick Starts are okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance.If candidate uses client-provided housing the BR will be reducedDoes not accept local contract staff   specifically those that live in Sampson County
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 544308
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3587
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 01:00
+    [whenmodified] => November, 16 2023 17:25:21
+    [daysPerWeek] => 4
+    [orderNote] => Source=AYA;SourceID=2310577 ;Status=Open;Association=Qualivis EPA ;Client=Sampson Regional Medical Center ;City=Clinton ;State=NC ;Zip=28328-2697 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Radiology / Cardiology ;Specialty=CT Tech ;Unit=Radiology ;Shift=Mid 4x10-Hour (15:00 - 01:00);# of Postions=1;Type=Travel;BillRate=$90.00;OTRules=48 total hours in 1 week : 1.25% ;Orientation=16 ;Description=CT Contract Need
+3p-1a M-F (30 minute lunch break)
+Rotating every 5 weeks on weekend.  
+The weekends the tech would work would allow them to be off two days through the week.
+
+Equipment: CT Siemens Definition 20 Slice & CT Siemens Definition 60 Slice  (Experience STRONGLY preferred, but not required)
+ 
+50 mile radius restriction
+
+3 years of experience required
+Not willing to consider 1st time travelers
+
+Must be vaccinated
+
+
+ Modified Time:12/4/2023 5:00:00 AM
+
+ Account Manager: Ashley Feick
+
+ Account Manager Email: Ashley.Feick@qualivis.com
+
+ COVID-19 Vaccine: Required - No Exemptions
+
+ Flu Vaccine: Unknown
+ Submittals:Low
+
+ Submittal Details: #Tier2 Travel ComplianceNeed 2 weeks/ 14 calendar days + (confirm with CL if Quick Starts are okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance.If candidate uses client-provided housing the BR will be reducedDoes not accept local contract staff   specifically those that live in Sampson County ;url=https://app.ayaconnect.com/index.html#/vendor/job/2310577/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Sampson Regional Medical Center
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

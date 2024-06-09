@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '935',
+  'Cf-Ray' => '829248d9c06c23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Updated End: 12/2/2023
+Switching to Per Diem for remainder of assignment.
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 517179
+    [workerID] => 197035
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 36
+    [facilityID] => 7236
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 1
+    [bonus] => 
+    [shiftDateStart] => 2023-08-27
+    [workerLastName] => Hamilton
+    [shiftNum] => 5
+    [workerFirstName] => Whitney
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 20 2023 12:06:37
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$120|RS:131212|FTK:Gifted timecard
+    [guaranteedMinimum] => 
+    [workerEmail] => wksasusaku@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 140
+    [facilityName] => Chickasaw Nation Medical Center
+    [shiftDateEnd] => 2023-12-02
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

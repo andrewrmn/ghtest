@@ -1,0 +1,173 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4719',
+  'Cf-Ray' => '83f40b0d459477bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => AUTO OFFER
+
+ICU RN
+13-weeks
+Option for 36 or 48hrs/week
+7p-7a
+Every other weekend
+COVID: Yes
+
+Specialty/Unit: 8 bed ICU with telemetry.
+Specialty Requirements/Years of Experience: ICU (with cardiac experience if possible)
+Licensure: Arkansas or compact state in good standing
+Certifications: ACLS, BLS
+Patient Ratio: 2;1
+EMR: MedHost (experience not required)
+Weekend Requirement (Y/N) please specify: yes, every other weekend
+On Call Requirements: no
+Floating Requirements: Possible float to ER if ICU census are down.
+First Time Traveler: Travel preferred
+Scrub Color: any color ( except denim or camouflage)
+98-bed small community hospital (not critical access)
+
+**SCREENING CRITERIA**
+  BLS
+  ACLS
+  PALS (ER only)
+  Airway management
+  Management of vented patients
+  Artline management
+  Management of dysrhythmias
+  Central line management
+  Management of IV drips
+  Isolation precautions
+  Electronic charting experience
+  Nurse to patient ratios 1:1-2+
+  1 year of recent experience
+
+CRISIS TERMS:
+ Waived non-billable orientation hours
+ Option for 48hrs/week contracts
+ Clinical screening & Auto offers
+ Truncated compliance
+
+
+
+ Modified Time:8/16/2021 5:08:17 PM
+
+ Account Manager: Heather Ryan
+
+ Account Manager Email: Heather.Ryan@qualivis.com
+
+ Over Time Multiplier: 1.25x
+
+ Over Time Rule: Overtime after 48.00 Hours per week
+
+ Call Back: 1.00x
+
+ Charge: $3.00 Bump
+
+ Holiday: 1.25x
+
+ Submittal Details: #Tier1 Crisis ComplianceNeed  3 days at minimum lead time from BOOKING to START to account for crisis compliance
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 265523
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10628
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 1
+    [bonus] => 
+    [shiftDateStart] => 2021-11-15
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 02 2024 10:30:22
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=1428096 ;Status=Open;Association=Qualivis Enhanced PA ;Client=Ouachita County Medical Center Crisis Response ;City=Camden ;State=AR ;Zip=71701 ;Start=11/15/2021;End=2/14/2022;Duration=91;Cert=Registered Nurse ;Specialty=ICU ;Unit= ;Shift=Night (12 Hours) 19:00 7:00;# of Postions=1;Type=Travel;BillRate=$135.00;OTRate=1.25x ;OTRules=Overtime after 48.00 Hours per week ;ChargeRate=$3.00 Bump ;CallbackRate=1.00x ;HolidayRate=1.25x ;OnCallRateDescription=$5.00 ;Orientation=Non-Billable Orientation: 16 Hours ;Description=AUTO OFFER
+
+ICU RN
+13-weeks
+Option for 36 or 48hrs/week
+7p-7a
+Every other weekend
+COVID: Yes
+
+Specialty/Unit: 8 bed ICU with telemetry.
+Specialty Requirements/Years of Experience: ICU (with cardiac experience if possible)
+Licensure: Arkansas or compact state in good standing
+Certifications: ACLS, BLS
+Patient Ratio: 2;1
+EMR: MedHost (experience not required)
+Weekend Requirement (Y/N) please specify: yes, every other weekend
+On Call Requirements: no
+Floating Requirements: Possible float to ER if ICU census are down.
+First Time Traveler: Travel preferred
+Scrub Color: any color ( except denim or camouflage)
+98-bed small community hospital (not critical access)
+
+**SCREENING CRITERIA**
+  BLS
+  ACLS
+  PALS (ER only)
+  Airway management
+  Management of vented patients
+  Artline management
+  Management of dysrhythmias
+  Central line management
+  Management of IV drips
+  Isolation precautions
+  Electronic charting experience
+  Nurse to patient ratios 1:1-2+
+  1 year of recent experience
+
+CRISIS TERMS:
+ Waived non-billable orientation hours
+ Option for 48hrs/week contracts
+ Clinical screening & Auto offers
+ Truncated compliance
+
+
+ Modified Time:11/15/2021 12:00:00 AM
+ Account Manager: Lisa Beebe
+ Account Manager Email: Lisa.Beebe@qualivis.com
+ Over Time Multiplier: 1.25x
+ Over Time Rule: Overtime after 48.00 Hours per week
+ Call Back: 1.00x
+ Charge: $3.00 Bump
+ Holiday: 1.25x
+ Submittal Details: #Tier1 Crisis ComplianceNeed  3 days at minimum lead time from BOOKING to START to account for crisis compliance ;url=https://app.ayaconnect.com/index.html#/vendor/job/1428096/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 135
+    [facilityName] => Ouachita County Medical Center - TRAVEL
+    [shiftDateEnd] => 2022-02-14
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

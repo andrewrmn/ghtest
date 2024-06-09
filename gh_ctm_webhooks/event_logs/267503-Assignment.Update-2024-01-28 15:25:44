@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '20',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2961',
+  'Cf-Ray' => '84ca3ff013f6493d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 08/12/2021 1219 MDTJackie Pittmann
+                            
+                            
+                                Bill rate $165 - Please make sure your candidates are aware of this ***THIS IMC UNIT IS EXPERIENCING VERY HIGH ACUITY AND RN s CAN SEE ICU PATIENTS DUE TO THE CURRENT HIGH ACUITY.  MUST HAVE VENT EXP!!!!*** choice of 36 or 48 hours. if 2+ yrs exp and limited time off we may be able to auto offer. Some without Vent exp will need to be approved by Seton. Those wil less tahn 2 yrs exp and/or time off that exceeds one week will need to be approved by seton. Cerner exp a plus. Candidates must be willing to float to otehr facilities only when necesaary. if they are not willing don't sub!!!!!
+ RatePlan:AH-CRISIS RN rates (8/2/2021)
+    [sitename] => giftednurses
+    [spec] => IMC
+    [assignmentid] => 267503
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13445
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 1
+    [bonus] => 
+    [shiftDateStart] => 2021-10-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 28 2024 10:25:06
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;SourceID=9390356 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Medical Center ;City=Austin ;State=TX ;Zip=78701 ;Start=9/6/2021;End=12/5/2021;Duration=91;Cert=RN ;Specialty=Intermediate Care ;Unit=SMC Intermediate Care ;Shift=NOC 12.00 Hrs;# of Postions=1;Type=Travel;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=08/12/2021 1219 MDTJackie Pittmann
+                            
+                            
+                                Bill rate $165 - Please make sure your candidates are aware of this ***THIS IMC UNIT IS EXPERIENCING VERY HIGH ACUITY AND RN s CAN SEE ICU PATIENTS DUE TO THE CURRENT HIGH ACUITY.  MUST HAVE VENT EXP!!!!*** choice of 36 or 48 hours. if 2+ yrs exp and limited time off we may be able to auto offer. Some without Vent exp will need to be approved by Seton. Those wil less tahn 2 yrs exp and/or time off that exceeds one week will need to be approved by seton. Cerner exp a plus. Candidates must be willing to float to otehr facilities only when necesaary. if they are not willing don't sub!!!!!
+ RatePlan:AH-CRISIS RN rates (8/2/2021) ;url=https://automated.shiftwise.net/esp/order.aspx?order_id=86EF88EF9EB40EE1D5BBF0CC83D0B81D;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 165
+    [facilityName] => Ascension Seton Medical Center Austin
+    [shiftDateEnd] => 2022-01-02
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

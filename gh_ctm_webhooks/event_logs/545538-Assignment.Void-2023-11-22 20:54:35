@@ -1,0 +1,69 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2780',
+  'Cf-Ray' => '82a4118330b923c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:PICU UNCMC RN Position # 118575062
+Complete Description:The Pediatric Intensive Care Unit is part of the Level 1 Pediatric Trauma Center. It is a 20 bed comprehensive pediatric intensive care unit providing care to age 0 to 21, both medical and surgical patients. Specialty care for general surgery, cardiothoracic surgery, neurosurgery, ENT, oncology, solid organ transplants, burns and various medical specialties.
+Requisition Comments:Lotus Offer
+Must include RTO in submittal to be honored at time of submittal
+Scheduling Details:3-12 Hour Shifts; D/N Rotation (rotating will start out as every 3 weeks). 4 weekend shifts required per every 6 weeks; no call
+    [sitename] => giftednurses
+    [spec] => PICU
+    [assignmentid] => 545538
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13245
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 22 2023 15:54:34
+    [daysPerWeek] => 3
+    [orderNote] => Source=PeopleFluent;SourceID=725264 ;Status=Open;Association=Pediatric Intensive Care Unit (PICU), 100 - 110613 - 1000 ;Client=UNC Health ;Start=12/4/2023;End=3/3/2024;Duration=90;Cert=RN ;Specialty=PICU ;Unit=RN - Pediatric Intensive Care Unit - Rotation - UNC Medical Center ;Shift=3x12.0 3-12 Hour Shifts; D/N Rotation (rotating will start out as every 3 weeks). 4 weekend shifts required per every 6 weeks; no call;# of Postions=1;Type=Travel;BillRate=$82.00;Description=Short Description:PICU UNCMC RN Position # 118575062
+Complete Description:The Pediatric Intensive Care Unit is part of the Level 1 Pediatric Trauma Center. It is a 20 bed comprehensive pediatric intensive care unit providing care to age 0 to 21, both medical and surgical patients. Specialty care for general surgery, cardiothoracic surgery, neurosurgery, ENT, oncology, solid organ transplants, burns and various medical specialties.
+Requisition Comments:Lotus Offer
+Must include RTO in submittal to be honored at time of submittal
+Scheduling Details:3-12 Hour Shifts; D/N Rotation (rotating will start out as every 3 weeks). 4 weekend shifts required per every 6 weeks; no call ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=725264;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 82
+    [facilityName] => UNC Medical Center TRAVEL
+    [shiftDateEnd] => 2024-03-03
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

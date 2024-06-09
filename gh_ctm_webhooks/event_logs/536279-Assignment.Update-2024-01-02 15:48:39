@@ -1,0 +1,84 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2242',
+  'Cf-Ray' => '83f425bdf63e77bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => ER RN needed Days 0700-1900
+
+Minimum 1 year exp
+
+BLS/ACLS/PALS required, TNCC preferred 
+
+ Modified Time:10/30/2023 4:00:00 AM
+ Account Manager: Amanda Rebholz
+ Account Manager Email: Amanda.Rebholz@qualivis.com
+ COVID-19 Vaccine: Unknown
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel Compliance Need 1.5 weeks/10 calendar days + (Quick Starts okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance.
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 536279
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 10628
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-30
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 02 2024 10:48:29
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2270097 ;Status=Open;Association=Qualivis EPA ;Client=Ouachita County Medical Center ;City=Camden ;State=AR ;Zip=71701 ;Start=10/30/2023;End=1/29/2024;Duration=91;Cert=Registered Nurse ;Specialty=ER ;Unit=Emergency Room, 760 ;Shift=Day 3x12-Hour (07:00 - 19:00);# of Postions=2;Type=Travel;BillRate=$100.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=ER RN needed Days 0700-1900
+
+Minimum 1 year exp
+
+BLS/ACLS/PALS required, TNCC preferred 
+
+ Modified Time:10/30/2023 4:00:00 AM
+ Account Manager: Amanda Rebholz
+ Account Manager Email: Amanda.Rebholz@qualivis.com
+ COVID-19 Vaccine: Unknown
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel Compliance Need 1.5 weeks/10 calendar days + (Quick Starts okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2270097/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Ouachita County Medical Center - TRAVEL
+    [shiftDateEnd] => 2024-01-29
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

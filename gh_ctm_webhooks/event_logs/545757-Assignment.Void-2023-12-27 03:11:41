@@ -1,0 +1,95 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5090',
+  'Cf-Ray' => '83be60abc6d31830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => PCU RN (12 West)
+ASAP start, 13 weeks
+3x12 hour nights, 7P-7A 
+
+12 West is a telemetry PCU specializing in the care and management of hospitalist medicine patients including stroke and neurology patients. This Stroke/Neuroscience unit of CRMH is a Joint Commission certified primary stroke center.
+
+BLS, ACLS required
+
+Virginia or compact state license required
+
+
+ Modified Time:12/18/2023 12:00:00 AM
+ Account Manager: Danielle Thornton
+ Account Manager Email: Danielle.Thornton@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceActive license requiredTravelers are required to work at least 1 holiday per season (2 winter holidays - Thanksgiving, Christmas, New Years)Compliance docs due Wednesday prior to Monday start*Local candidates are candidates who live within 100 miles of the facility. Local candidates not accepted.*Once an inpatient RN at Roanoke Memorial Hospital hits one year of travel with them, they have to leave for a minimum of six months in order to be able to considered for a travel position again.Every other weekend required for all Inpatient Nursing positions at Carilion Roanoke Memorial Hospital. Facility reserves the right to require makeup shifts for any missed weekend shifts.Return Travelers: Previous employees (both per diem and permanent) must be gone for a minimum of one year before returning to work as a traveler.Modules: Inpatient RN's at Carilion Clinic may be required to complete orientation modules and/ or Epic Fast Track modules prior to starting. Facility allows 5.5 hours for orientation modules and 2 hours for Epic. This time will count toward the facility's 24 hours of non-billable orientation and will be added automatically to the traveler's timesheet.&nbsp;
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 545757
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3557
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-15
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 26 2023 22:11:40
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2303393 ;Status=Open;Association=Qualivis MSP ;Client=Carilion Roanoke Memorial Hospital ;City=Roanoke ;State=VA ;Zip=24014-1838 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Registered Nurse ;Specialty=PCU ;Unit=12W, 0101-6027 ;Shift=Night 3x12-Hour (19:00 - 07:00);# of Postions=4;Type=Travel;BillRate=$90.00;OTRules=48 total hours in 1 week : 1.25% ;Orientation=24 ;Description=PCU RN (12 West)
+ASAP start, 13 weeks
+3x12 hour nights, 7P-7A 
+
+12 West is a telemetry PCU specializing in the care and management of hospitalist medicine patients including stroke and neurology patients. This Stroke/Neuroscience unit of CRMH is a Joint Commission certified primary stroke center.
+
+BLS, ACLS required
+
+Virginia or compact state license required
+
+
+ Modified Time:12/18/2023 12:00:00 AM
+ Account Manager: Danielle Thornton
+ Account Manager Email: Danielle.Thornton@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceActive license requiredTravelers are required to work at least 1 holiday per season (2 winter holidays - Thanksgiving, Christmas, New Years)Compliance docs due Wednesday prior to Monday start*Local candidates are candidates who live within 100 miles of the facility. Local candidates not accepted.*Once an inpatient RN at Roanoke Memorial Hospital hits one year of travel with them, they have to leave for a minimum of six months in order to be able to considered for a travel position again.Every other weekend required for all Inpatient Nursing positions at Carilion Roanoke Memorial Hospital. Facility reserves the right to require makeup shifts for any missed weekend shifts.Return Travelers: Previous employees (both per diem and permanent) must be gone for a minimum of one year before returning to work as a traveler.Modules: Inpatient RN's at Carilion Clinic may be required to complete orientation modules and/ or Epic Fast Track modules prior to starting. Facility allows 5.5 hours for orientation modules and 2 hours for Epic. This time will count toward the facility's 24 hours of non-billable orientation and will be added automatically to the traveler's timesheet.&nbsp; ;url=https://app.ayaconnect.com/index.html#/vendor/job/2303393/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Carilion Roanoke Memorial Hospital Travel
+    [shiftDateEnd] => 2024-04-15
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

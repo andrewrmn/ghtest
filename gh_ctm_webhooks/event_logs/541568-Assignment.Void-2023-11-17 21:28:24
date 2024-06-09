@@ -1,0 +1,290 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7138',
+  'Cf-Ray' => '827b102d57bf1830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Unit Profile
+
+
+
+
+Hospital:
+ Memorial Health University Medical Center
+
+Location: Savannah Georgia
+
+Address: 4700 Waters Ave., Savannah, GA
+ 31324
+
+Unit: 
+
+Building: 
+
+
+
+
+General Information
+
+Unit Specifics: 
+Number of Beds :
+ 650Patient Ratios :Unit staffing description- (unit secretaries and tech availability) :
+ 3 technologists on evening shiftType of equipment :
+ Toshiba and GEDocumentation system:
+ EPICScheduling requirements:
+ 2:00PM - 2:30AMFloating policy: N/APatient Experience requirements:
+ 
+Hospital Specifics-
+Certifications:
+ ARRT (CT)
+Hiring profile
+
+Requested Skill Set:
+
+
+
+
+Must have: 
+
+ARRT (CT) registry
+
+
+
+
+Advanced skills needed:
+ Critical Thinking skills
+
+
+
+
+
+
+
+Procedures performed on unit: 
+All CT examinations are possible
+
+
+
+
+
+
+
+Certifications Required:
+ BLS and ARRT
+
+
+
+
+
+
+
+Dress Code: (Required uniform)
+
+Medium gray/pewter preferred 
+Unit Guidelines/Policies: Please attach unit specific policies and guidelines.
+
+
+Awards/Recognition: 
+Please include anything that you would like prospective candidates to be aware of, such as, links to videos that feature the department, outstanding department/team awards..
+ 
+ACR certified
+Any additional information that would entice a worker to select your unit for their assignment: 
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc. 
+Great team with positive attitude. A great place to work.
+ General CommentsMemorial Health University Medical Center is a 612-bed HCA Healthcare facility in Savannah, Georgia. The hospital is known for having the only Level I
+trauma center
+and only
+children's hospital
+in the region.
+
+
+The facility offers a variety of comprehensive
+services, including
+cancer care,
+cardiovascular care, and
+women's services. The quality of these
+services
+have earned the hospital many
+awards and accreditations, such as recognition as a
+Top Performer on Key Quality Measures
+and as an Advanced Primary
+Stroke
+Center by The Joint Commission. Staff members
+say
+that Memorial Health University Medical Center is a great place to work because of its family-like atmosphere, supportive management, and opportunities for growth.
+
+Savannah
+is a coastal city near the Georgia-South Carolina border. The city's
+Historic District, the largest National Historic Landmark District in the country, is home to many museums like the
+Telfair Museums of Art
+and the
+Georgia State Railroad Museum. For a city that combines southern charm with its own unique vibe, look no further than Savannah.
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 541568
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2084
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-20
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 17 2023 16:28:23
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=759660 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=Memorial Health University Medical Center - Savannah ;City=Savannah ;State=GA ;Zip=31404 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=CT Tech ;Specialty=Radiology ;Unit=SOUTH ATLANTIC DIVISION (23) ;Shift=6:30PM - 7:00AM;# of Postions=1;Type=Travel;BillRate=$85.00;OTRate=93 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Unit Profile
+
+
+
+
+Hospital:
+ Memorial Health University Medical Center
+
+Location: Savannah Georgia
+
+Address: 4700 Waters Ave., Savannah, GA
+ 31324
+
+Unit: 
+
+Building: 
+
+
+
+
+General Information
+
+Unit Specifics: 
+Number of Beds :
+ 650Patient Ratios :Unit staffing description- (unit secretaries and tech availability) :
+ 3 technologists on evening shiftType of equipment :
+ Toshiba and GEDocumentation system:
+ EPICScheduling requirements:
+ 2:00PM - 2:30AMFloating policy: N/APatient Experience requirements:
+ 
+Hospital Specifics-
+Certifications:
+ ARRT (CT)
+Hiring profile
+
+Requested Skill Set:
+
+
+
+
+Must have: 
+
+ARRT (CT) registry
+
+
+
+
+Advanced skills needed:
+ Critical Thinking skills
+
+
+
+
+
+
+
+Procedures performed on unit: 
+All CT examinations are possible
+
+
+
+
+
+
+
+Certifications Required:
+ BLS and ARRT
+
+
+
+
+
+
+
+Dress Code: (Required uniform)
+
+Medium gray/pewter preferred 
+Unit Guidelines/Policies: Please attach unit specific policies and guidelines.
+
+
+Awards/Recognition: 
+Please include anything that you would like prospective candidates to be aware of, such as, links to videos that feature the department, outstanding department/team awards..
+ 
+ACR certified
+Any additional information that would entice a worker to select your unit for their assignment: 
+Consider items such as new equipment or technology, tenure and experience of staff, schedule options, etc. 
+Great team with positive attitude. A great place to work.
+ General CommentsMemorial Health University Medical Center is a 612-bed HCA Healthcare facility in Savannah, Georgia. The hospital is known for having the only Level I
+trauma center
+and only
+children's hospital
+in the region.
+
+
+The facility offers a variety of comprehensive
+services, including
+cancer care,
+cardiovascular care, and
+women's services. The quality of these
+services
+have earned the hospital many
+awards and accreditations, such as recognition as a
+Top Performer on Key Quality Measures
+and as an Advanced Primary
+Stroke
+Center by The Joint Commission. Staff members
+say
+that Memorial Health University Medical Center is a great place to work because of its family-like atmosphere, supportive management, and opportunities for growth.
+
+Savannah
+is a coastal city near the Georgia-South Carolina border. The city's
+Historic District, the largest National Historic Landmark District in the country, is home to many museums like the
+Telfair Museums of Art
+and the
+Georgia State Railroad Museum. For a city that combines southern charm with its own unique vibe, look no further than Savannah.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/759660;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Memorial University Medical Center Travel
+    [shiftDateEnd] => 2024-02-19
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

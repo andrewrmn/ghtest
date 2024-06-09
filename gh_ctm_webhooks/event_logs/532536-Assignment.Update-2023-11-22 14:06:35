@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4201',
+  'Cf-Ray' => '82a1bbe065286a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => "Extremely low Nurse to patient ratios at our rural facility. Very supportive nurse management team. Duties include medication pass for 10 Residents and skin checks. Lots of time to focus on 1:1 activities and outdoor garden time with Residents."Assesses, plans and implements the nursing care of residents within the patient care unit settings with the supervision of a Registered Nurse. Responsible for ensuring continuity of care of the residents between shifts by providing direct care as well as supervising the care given by NAC s and supportive staff members. Participates in resident and family teaching as determined in scope of license. Maintains role as patient advocate with a focus on the district s mission.   Normal   0   false   false   false   EN-US   X-NONE   X-NONE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => LTC
+    [assignmentid] => 532536
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3544
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-09-27
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 20:30
+    [whenmodified] => November, 22 2023 09:06:35
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=258810 ;Status=Open;Association=Ferry County Health ;Client=Ferry County Health ;City=Republic ;State=WA ;Zip=99166 ;Start=9/27/2023;End=12/27/2023;Duration=91;Cert=Nursing ;Specialty=Long Term Care (LTC) ;Unit=Long Term Care (LTC) ;Shift=0800-2030;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$60.00;OTRate=90 ;OTRules=By The Week, after 40, ;CallbackRate=60 (All Inclusive Rate) ;HolidayRate=60 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description="Extremely low Nurse to patient ratios at our rural facility. Very supportive nurse management team. Duties include medication pass for 10 Residents and skin checks. Lots of time to focus on 1:1 activities and outdoor garden time with Residents."Assesses, plans and implements the nursing care of residents within the patient care unit settings with the supervision of a Registered Nurse. Responsible for ensuring continuity of care of the residents between shifts by providing direct care as well as supervising the care given by NAC s and supportive staff members. Participates in resident and family teaching as determined in scope of license. Maintains role as patient advocate with a focus on the district s mission.   Normal   0   false   false   false   EN-US   X-NONE   X-NONE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/258810;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 60
+    [facilityName] => Washington Registry- Ferry County Memorial Hospital
+    [shiftDateEnd] => 2023-12-27
+    [shiftStartTime] => 08:00
+    [subjectID] => 
+)

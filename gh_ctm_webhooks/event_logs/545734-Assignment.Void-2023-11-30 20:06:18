@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '26',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3185',
+  'Cf-Ray' => '82e5b5cb13cb4955-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Critical Access hospital is looking for an ER RN with a minimum of 2 years of ER experience. BLS, ACLS, PALS, and TNCC required. (Please verify the certifications will not expire during assignment.) We are looking for a strong ER RN that is a team player. Day/Mid shift primarily but shifts may be adjusted to cover. Must be willing to take call. Shifts: 7A-7P, 12A-12P, 7P-7A.  *housing provided* Must have COVID and FLU vaccines  ALL TRAVELERS ARE REQUIRED TO SHOW PROOF OF COMPLETED COVID VACCINATIONS AND RECOMMENDED BOOSTERS??. FLU VACCINES ARE ALSO REQUIRED AND EXEMPTIONS WILL NOT BE ACCEPTED.   Additional Information:ALL TRAVELERS ARE REQUIRED TO SHOW PROOF OF COMPLETED COVID VACCINATIONS PLUS BOOSTER??. FLU VACCINES ARE ALSO REQUIRED AND EXEMPTIONS WILL NOT BE ACCEPTED.   Position Urgency:Normal Billing string = Norton Sound Regional Hospital
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 545734
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1360
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 30 2023 15:06:17
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262121 ;Status=Open;Association=Norton Sound Regional Hospital ;Client=Norton Sound Regional Hospital ;City=Nome ;State=AK ;Zip=99762 ;Start=11/22/2023;End=2/21/2024;Duration=91;Cert=Nursing ;Specialty=Emergency Room Nurse ;Unit=Emergency Room Nurse ;Shift=Day, but may vary in order to staff appropriately.;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$130.00;OTRate=140 ;OTRules=By The Week, after 40, ;ChargeRate=2 (Charge Rate Differential) ;CallbackRate=130 (All Inclusive Rate) ;HolidayRate=130 (All Inclusive Rate) ;OnCallRateDescription=$2 per hour pager ;Description=Critical Access hospital is looking for an ER RN with a minimum of 2 years of ER experience. BLS, ACLS, PALS, and TNCC required. (Please verify the certifications will not expire during assignment.) We are looking for a strong ER RN that is a team player. Day/Mid shift primarily but shifts may be adjusted to cover. Must be willing to take call. Shifts: 7A-7P, 12A-12P, 7P-7A.  *housing provided* Must have COVID and FLU vaccines  ALL TRAVELERS ARE REQUIRED TO SHOW PROOF OF COMPLETED COVID VACCINATIONS AND RECOMMENDED BOOSTERS??. FLU VACCINES ARE ALSO REQUIRED AND EXEMPTIONS WILL NOT BE ACCEPTED.   Additional Information:ALL TRAVELERS ARE REQUIRED TO SHOW PROOF OF COMPLETED COVID VACCINATIONS PLUS BOOSTER??. FLU VACCINES ARE ALSO REQUIRED AND EXEMPTIONS WILL NOT BE ACCEPTED.   Position Urgency:Normal Billing string = Norton Sound Regional Hospital ;url=https://vms.medefis5.com/jobs/262121;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 130
+    [facilityName] => Norton Sound Regional
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

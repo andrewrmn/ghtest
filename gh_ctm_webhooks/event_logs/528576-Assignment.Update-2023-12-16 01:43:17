@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '910',
+  'Cf-Ray' => '83633c0a10e623c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Last shift worked was 11-09-23
+    [sitename] => giftednurses
+    [spec] => LTAC
+    [assignmentid] => 528576
+    [workerID] => 149534
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 36
+    [facilityID] => 11727
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-09-29
+    [workerLastName] => Stallworth
+    [shiftNum] => 5
+    [workerFirstName] => Vaneshia
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 15 2023 20:43:16
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$75lRS:133921lFTK:Kronos
+No Orientation Needed
+    [guaranteedMinimum] => 
+    [workerEmail] => vstallworth0507@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Select Specialty Birmingham
+    [shiftDateEnd] => 2023-11-11
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

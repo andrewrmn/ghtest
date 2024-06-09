@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '48',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2327',
+  'Cf-Ray' => '82cc02fa84626a21-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => To assist perioperative RNs in decontaminating, cleaning, maintaining, handling, storing, and sterilizing surgical instruments and power equipment.Providing a safe, clean, and decontaminated environment for the surgical patient according to AORN guidelines and recommended practices.  Guaranteed 36 hours per week, no nights, weekends, call, or holidays. These are not 12-hour shifts.   Position Urgency:Normal Billing string = Yuma District Hospital
+    [sitename] => giftednurses
+    [spec] => Sterile Processing Tech 
+    [assignmentid] => 543287
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5121
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Sterile Processing Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 27 2023 12:15:09
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261371 ;Status=Open;Association=Yuma District Hospital ;Client=Yuma District Hospital ;City=Yuma ;State=CO ;Zip=80759 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Nursing ;Specialty=Sterile Processing Technologist ;Unit=Sterile Processing Technologist ;Shift=Guaranteed 36 hours per week, no nights, weekends, call, or holidays. These are not 12-hour shifts.;# of Postions=1;Type=Travel;BillRate=$53.00;OTRate=63 ;OTRules=By The Week, after 40, ;OnCallRateDescription=No Call ;Description=To assist perioperative RNs in decontaminating, cleaning, maintaining, handling, storing, and sterilizing surgical instruments and power equipment.Providing a safe, clean, and decontaminated environment for the surgical patient according to AORN guidelines and recommended practices.  Guaranteed 36 hours per week, no nights, weekends, call, or holidays. These are not 12-hour shifts.   Position Urgency:Normal Billing string = Yuma District Hospital ;url=https://vms.medefis5.com/jobs/261371;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 53
+    [facilityName] => Yuma District Hospital Travel
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

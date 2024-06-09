@@ -1,0 +1,606 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6265',
+  'Cf-Ray' => '82dca47457e123c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Data Collection:
+          Unit Information: HCA Houston   Southeast
+
+Rehab             Location: HCA Southeast             
+Address: 4801 East Sam Houston Parkway South
+Pasadena,   TX
+         
+Floor: 
+             
+Building:
+         
+
+
+             General Information             Tell us about the unit(s):   
+ 
+
+
+
+
+
+
+
+
+Number   of Beds - 19
+   
+ 
+
+
+
+
+
+
+
+
+Number   of Staff  
+
+
+   
+ 
+
+
+
+
+
+
+
+
+Type   of staff:
+   
+o
+
+
+
+Day Shift   1 charge, 2-3 RN/LVN   1-2 PCT
+   
+o
+
+
+
+Night Shift   1 charge, 2-3   RN/LVN 1-2 PCT
+   
+ 
+
+
+
+
+
+
+
+
+Patient   Ratios  
+
+1:5/6
+   
+ 
+
+
+
+
+
+
+
+
+Type   of equipment   Hoyer
+   
+ 
+
+
+
+
+
+
+
+
+EMR   - Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+   
+   
+Must have:
+
+candidates without   these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+
+Med   Surg Experience
+   
+ 
+
+
+
+
+
+
+
+
+
+
+   
+Preferred or nice to have:
+
+candidates   with these skills will be considered first.
+   
+ 
+
+
+
+
+
+
+
+
+
+Inpatient   Rehab
+   
+ 
+
+
+
+
+
+
+
+
+
+CRRN
+   
+List typical procedures performed on unit(s):
+
+
+   
+ 
+
+
+
+
+
+
+
+
+
+
+Patient   transfers
+   
+ 
+
+
+
+
+
+
+
+
+I   and O cathing
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+
+
+Flexible
+   
+ 
+
+
+
+
+
+
+
+
+Teamwork   oriented
+   REQUIRED CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+
+
+
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+
+Med   Surg, Med Tele, Neuro Ortho, ER Holding
+             
+Dress Code:
+   
+ 
+
+
+
+
+
+
+
+
+Scrub   Color/Attire -
+
+   
+
+
+             
+Unit Guidelines/Policies:
+Please feel free   to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+
+Hospital   policies
+   
+
+
+             Weekends and On call(if any)   
+ 
+
+
+
+
+
+
+
+
+Every   other weekend commitment
+ General Commentsauto fill 1 additional need:
+1.
+    [sitename] => giftednurses
+    [spec] => Rehab
+    [assignmentid] => 542759
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9167
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 29 2023 12:41:35
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=769161 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA HOUSTON SOUTHEAST ;City=Pasadena ;State=TX ;Zip=77504 ;Start=11/13/2023;End=2/12/2024;Duration=91;Cert=RN ;Specialty=Rehab ;Unit=GULF COAST DIVISION (14) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$60.00;OTRate=68 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Data Collection:
+          Unit Information: HCA Houston   Southeast
+
+Rehab             Location: HCA Southeast             
+Address: 4801 East Sam Houston Parkway South
+Pasadena,   TX
+         
+Floor: 
+             
+Building:
+         
+
+
+             General Information             Tell us about the unit(s):   
+ 
+
+
+
+
+
+
+
+
+Number   of Beds - 19
+   
+ 
+
+
+
+
+
+
+
+
+Number   of Staff  
+
+
+   
+ 
+
+
+
+
+
+
+
+
+Type   of staff:
+   
+o
+
+
+
+Day Shift   1 charge, 2-3 RN/LVN   1-2 PCT
+   
+o
+
+
+
+Night Shift   1 charge, 2-3   RN/LVN 1-2 PCT
+   
+ 
+
+
+
+
+
+
+
+
+Patient   Ratios  
+
+1:5/6
+   
+ 
+
+
+
+
+
+
+
+
+Type   of equipment   Hoyer
+   
+ 
+
+
+
+
+
+
+
+
+EMR   - Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+   
+   
+Must have:
+
+candidates without   these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+
+Med   Surg Experience
+   
+ 
+
+
+
+
+
+
+
+
+
+
+   
+Preferred or nice to have:
+
+candidates   with these skills will be considered first.
+   
+ 
+
+
+
+
+
+
+
+
+
+Inpatient   Rehab
+   
+ 
+
+
+
+
+
+
+
+
+
+CRRN
+   
+List typical procedures performed on unit(s):
+
+
+   
+ 
+
+
+
+
+
+
+
+
+
+
+Patient   transfers
+   
+ 
+
+
+
+
+
+
+
+
+I   and O cathing
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+
+
+Flexible
+   
+ 
+
+
+
+
+
+
+
+
+Teamwork   oriented
+   REQUIRED CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+
+
+
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+
+Med   Surg, Med Tele, Neuro Ortho, ER Holding
+             
+Dress Code:
+   
+ 
+
+
+
+
+
+
+
+
+Scrub   Color/Attire -
+
+   
+
+
+             
+Unit Guidelines/Policies:
+Please feel free   to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+
+
+Hospital   policies
+   
+
+
+             Weekends and On call(if any)   
+ 
+
+
+
+
+
+
+
+
+Every   other weekend commitment
+ General CommentsLocal FIll
+2946775
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/769161;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 60
+    [facilityName] => Bayshore Medical Center
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

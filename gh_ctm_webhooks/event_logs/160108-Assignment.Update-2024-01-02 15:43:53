@@ -1,0 +1,96 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '24',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3658',
+  'Cf-Ray' => '83f41ec1757e494d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => This position is is expected to provide patient care via therapeutic use of self, the nursing process, the environment/instrumentation, and other health team members by delegation of responsibilities to self, other RNs, Paramedics, ER techs/aides, EMT's, and students.
+  
+          Graduate from an accredited school of nursing
+  
+          Have a current license as a registered nurse issued by the State of Iowa or is eligible for reciprocity or has a work permit issued by the State of Iowa
+  
+          Knowledge of theory, principles, techniques, and practice of professional nursing; of scientific principles and nursing research; of preparation, administration, and actions of medications; of treatments and medical procedures; of counseling and teaching techniques; of medical equipment as it relates to patient care.
+  
+          Ability to demonstrate clinical competence and maintain current knowledge in caring for pediatric to geriatric patients.
+  
+          ACLS certified 
+  
+          TNCC certified 
+  
+          ENPC/PALS preferred.
+  
+          Two-four years clinical experience preferred.
+  
+ Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 160108
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 12.5
+    [facilityID] => 3763
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-11-20
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 06:30
+    [whenmodified] => January, 02 2024 10:43:52
+    [daysPerWeek] => 1
+    [orderNote] => Source=Medefis5;SourceID=164270 ;Status=Open;Client=Washington County Hospital and Clinics ;City=Washington ;State=IA ;Zip=52353 ;Start=11/20/2020;End=2/19/2021;Duration=91;Cert=Nursing ;Specialty=Emergency Room Nurse ;Unit=Emergency Room Nurse ;Shift=5p-5a;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$65.00;OTRules=By The Week, after 40, N/A ;HolidayRate=65 (All Inclusive Rate) ;OnCallRateDescription=No Call ;Description=This position is is expected to provide patient care via therapeutic use of self, the nursing process, the environment/instrumentation, and other health team members by delegation of responsibilities to self, other RNs, Paramedics, ER techs/aides, EMT's, and students.
+  
+          Graduate from an accredited school of nursing
+  
+          Have a current license as a registered nurse issued by the State of Iowa or is eligible for reciprocity or has a work permit issued by the State of Iowa
+  
+          Knowledge of theory, principles, techniques, and practice of professional nursing; of scientific principles and nursing research; of preparation, administration, and actions of medications; of treatments and medical procedures; of counseling and teaching techniques; of medical equipment as it relates to patient care.
+  
+          Ability to demonstrate clinical competence and maintain current knowledge in caring for pediatric to geriatric patients.
+  
+          ACLS certified 
+  
+          TNCC certified 
+  
+          ENPC/PALS preferred.
+  
+          Two-four years clinical experience preferred.
+  
+ Billing string = Medefis ;url=https://vms.medefis5.com/jobs/164270;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Washington County Hospital
+    [shiftDateEnd] => 2021-02-19
+    [shiftStartTime] => 18:00
+    [subjectID] => 
+)

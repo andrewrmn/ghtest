@@ -1,0 +1,144 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5644',
+  'Cf-Ray' => '82c31d5ae7521464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:CEDAR PARK REGIONAL MEDICAL CENTER
+START ASAPBILL RATE: $75.00SHIFT: MIDS, 1000-1830 (MONDAY-FRIDAY) PLUS CALLDURATION: 13 WEEKSREQUIREMENTS: BLS, ACLS, CPIROBOTICS, (ORTHO) TOTAL JOINT REPLACEMENT EXPERIENCE REQUIRED2+ YEARS' EXPERIENCE
+PLEASE INCLUDE PERMANENT HOME ADDRESS ON THE SUBMISSIONMUST BE GREATER THAN 50 MILES FROM THE FACILITY
+The Operating Room Nurse demonstrates critical thinking skills, scientific judgment and leadership in the anticipation and planning for the care of the patient in the operating room.  As a member of the surgical team the RN works with the Surgeons, Anesthesiologists, ORT s and other personnel to provide patient care in the Operating Room according to State Nurse Practice Act, AORN and regulatory standards, physician orders, policies and procedures of the Hospital and the Surgical Department. Responsibilities include but are not limited to: ensuring supplies, timeliness of cases, communication with families, updating of physician preference cards, scrubbing and assisting physicians during surgical cases, and supervision of personnel delivering patient care.
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location:
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 544899
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 4
+    [facilityID] => 8782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 14:30
+    [whenmodified] => November, 26 2023 10:20:18
+    [daysPerWeek] => 1
+    [orderNote] => Source=HealthTrust;SourceID=775256 ;Status=Open;Association=Community Health Systems ;Client=Cedar Park Regional Medical Center ;City=Cedar Park ;State=TX ;Zip=78613 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=RN ;Specialty=OR ;Unit=EXT-Other (911) ;Shift=MIDS, 1000-1830;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:CEDAR PARK REGIONAL MEDICAL CENTER
+START ASAPBILL RATE: $75.00SHIFT: MIDS, 1000-1830 (MONDAY-FRIDAY) PLUS CALLDURATION: 13 WEEKSREQUIREMENTS: BLS, ACLS, CPIROBOTICS, (ORTHO) TOTAL JOINT REPLACEMENT EXPERIENCE REQUIRED2+ YEARS' EXPERIENCE
+PLEASE INCLUDE PERMANENT HOME ADDRESS ON THE SUBMISSIONMUST BE GREATER THAN 50 MILES FROM THE FACILITY
+The Operating Room Nurse demonstrates critical thinking skills, scientific judgment and leadership in the anticipation and planning for the care of the patient in the operating room.  As a member of the surgical team the RN works with the Surgeons, Anesthesiologists, ORT s and other personnel to provide patient care in the Operating Room according to State Nurse Practice Act, AORN and regulatory standards, physician orders, policies and procedures of the Hospital and the Surgical Department. Responsibilities include but are not limited to: ensuring supplies, timeliness of cases, communication with families, updating of physician preference cards, scrubbing and assisting physicians during surgical cases, and supervision of personnel delivering patient care.
+ General CommentsReason for opening (special, internal vacancy, leave coverage)
+
+
+             *******************************************************************************
+
+
+             How long has it been open?
+
+
+             Will position be required to float to other units?
+
+
+             Number of beds in your facility?
+
+
+             Years of experience required?
+
+
+             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address)
+
+
+             Willing to review clinicians with pending state license?
+
+
+             Is there anyone in the past that has worked for you that you would consider rehiring?
+
+
+             What is the work schedule for this position? (days needed, hours or shift)
+
+
+    EMR for your facility:
+
+
+             Scrub colors / dress code:
+
+
+    Parking location:
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/775256;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Cedar Park Regional Medical Center
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 10:00
+    [subjectID] => 
+)

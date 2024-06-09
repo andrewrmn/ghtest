@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5436',
+  'Cf-Ray' => '83f45115445f1830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Rural clinic in one of the most beautiful places in all of Alaska is looking for a Registered Nurse for 13 weeks. Haines is the only medical facility within 158 miles via the road system and 90 miles via air transport looking for a Registered nurse with experience and knowledge of nursing care principles, practice and procedures required to assess and care for patients of all ages and conditions. Our clinic provides, primary, urgent and emergent care, and after hours on call care. Primary care experience is a must; emergency or trauma experience is a plus. Must have BLS, ACLS, PALS, a background in Emergency/Critical Care Nursing a plus.Nursing duties include, but are not limited to:         Observes, assesses, recognizes, identifies and interprets the patient condition.          Documents observations, nursing interventions, health teaching, therapeutic measures, and the coordinated activities between nursing and other professional disciplines.          Ability to develop or coordinate a multi-disciplinary outpatient care plan. Ability to recognize adverse signs and react appropriately         Nursing staff is responsible for the weekend, on-call, and secondary coverage of the moderate complexity lab which includes but not limited to: phlebotomy, QA/QI of instrumentation, testing of lab specimens, documenting of lab specimens, proficiency testing, and shipping of lab specimens.          Nursing is responsible for respiratory therapy functions such as: pulmonary function testing, peak flow test, 12 lead EKG s, Nebulizer treatments, and oxygen therapy.          There may be some on-call Skills:         Professional nursing skills.         Professional skill in operating and monitoring a variety of specialized medical equipment and assisting with procedures.         Interpersonal communication skills.         Skill in operating and monitoring equipment necessary for patient diagnosis and care.****Must have Valid Alaska RN License****Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 62751
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11746
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-06-17
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 02 2024 11:18:13
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;ID=0;SourceID=140045;Status=;Client=Haines Health Center;City=Sitka;State=AK;Zip=99835;Start=5/21/2019;End=8/20/2019;Duration=91;Cert=Nursing;Specialty=Clinic, Emergency Room Nurse, Fast Track / Triage, Triage / Fast Track, Urgent Care;Unit=Clinic, Emergency Room Nurse, Fast Track / Triage, Triage / Fast Track, Urgent Care;Shift=Discussed at Interview;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$80.00;OTRate=90 ;OTRules=All Inclusive Rate + $10 ;ChargeRate= ;CallbackRate=90All Inclusive Rate + $10 ;CallbackRate=90All Inclusive Rate + $10 ;HolidayRate=$4 per hour pager ;OnCallRateDescription= ;Orientation= ;Description=Rural clinic in one of the most beautiful places in all of Alaska is looking for a Registered Nurse for 13 weeks. Haines is the only medical facility within 158 miles via the road system and 90 miles via air transport looking for a Registered nurse with experience and knowledge of nursing care principles, practice and procedures required to assess and care for patients of all ages and conditions. Our clinic provides, primary, urgent and emergent care, and after hours on call care. Primary care experience is a must; emergency or trauma experience is a plus. Must have BLS, ACLS, PALS, a background in Emergency/Critical Care Nursing a plus.Nursing duties include, but are not limited to:         Observes, assesses, recognizes, identifies and interprets the patient condition.          Documents observations, nursing interventions, health teaching, therapeutic measures, and the coordinated activities between nursing and other professional disciplines.          Ability to develop or coordinate a multi-disciplinary outpatient care plan. Ability to recognize adverse signs and react appropriately         Nursing staff is responsible for the weekend, on-call, and secondary coverage of the moderate complexity lab which includes but not limited to: phlebotomy, QA/QI of instrumentation, testing of lab specimens, documenting of lab specimens, proficiency testing, and shipping of lab specimens.          Nursing is responsible for respiratory therapy functions such as: pulmonary function testing, peak flow test, 12 lead EKG s, Nebulizer treatments, and oxygen therapy.          There may be some on-call Skills:         Professional nursing skills.         Professional skill in operating and monitoring a variety of specialized medical equipment and assisting with procedures.         Interpersonal communication skills.         Skill in operating and monitoring equipment necessary for patient diagnosis and care.****Must have Valid Alaska RN License****Billing string = Medefis;VMSPositionType=  AvgHoursPerWeek=  InterviewRequired=False;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Haines Health Center
+    [shiftDateEnd] => 2019-09-16
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

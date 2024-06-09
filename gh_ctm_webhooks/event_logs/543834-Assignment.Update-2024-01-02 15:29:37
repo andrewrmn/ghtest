@@ -1,0 +1,82 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '22',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1533',
+  'Cf-Ray' => '83f409de017a4945-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => School
+    [assignmentid] => 543834
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Contract
+    [hoursPerWeek] => 37.5
+    [facilityID] => 14217
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-22
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => OT
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => January, 02 2024 10:29:36
+    [daysPerWeek] => 5
+    [orderNote] => Materials: Vendor shall provide laptops, no information regarding materials, kits.
+
+Walter P. Carter #134
+820 E. 43rd Street 21212
+9:15am-3:55pm
+This is a general education school, with multiple programs in it (life skills, early learning, etc)
+37 kids on direct caseload; 9 students on indirect caseload
+ 
+The REACH Partnership School #341
+2555 Harford Road 21218
+8:45am-3:45pm
+This is a general education school with a life skills program in it
+2 kids on direct caseload; 5 kids on indirect
+ 
+Baltimore Collegiate School for Boys  #375
+2525 Kirk Avenue 21218
+7:30am  2:10pm
+1 student on indirect services
+ 
+Lilli May Carroll Jackson #371
+2200 Sinclair Lane 21213
+8:00am  4:00pm
+1 direct student on caseload
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 68
+    [facilityName] => Baltimore City Public Schools
+    [shiftDateEnd] => 2024-06-07
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

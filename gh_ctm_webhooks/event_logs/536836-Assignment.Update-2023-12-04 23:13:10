@@ -1,0 +1,178 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4434',
+  'Cf-Ray' => '8307bd03a5ce183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name
+
+Echocardiography - Mercy Hospital South - Medical Sonographer - Mercy Hospital South
+
+Organization
+
+Mercy
+
+Facility
+
+Mercy Hospital South
+
+Unit
+
+Radiology
+
+Cost Center
+
+15-446518
+
+
+
+
+Shift
+
+day
+
+Shifts per week
+
+4
+
+Hours per shift
+
+10
+EXPERIENCE
+Years of Experience
+
+Two Years Plus
+
+Specialties
+
+Cardiac
+-
+preferred
+
+
+Technologies
+CERTIFICATIONS
+Certifications
+
+BLS
+-
+preferred
+RDCS
+-
+preferred
+
+DESCRIPTION
+Shift -  5-eights or 4- tens- Possible alternating weekends (Every 4th) Years of experience - (0-5+)- 2 + Certifications (preferred or required) - BLS/ RDCS or CCI Registered Specialty experience (preferred or required) N/A- Brief description of role-  The Cardiac Sonographer is a skilled person qualified by technological education to provide patient services using diagnostic ultrasound to gather necessary data to determine cardiac conditions of patients.  Must have a current American Heart Association BLS Heart saver Card or obtain within probationary period and RDCS or CCI registered. Other: Working Conditions, Mental and Physical Requirements: This individual must be capable of walking long distances, transporting ultrasound equipment and assist in lifting patients. Equipment Used: Ultrasound equipment.  Candidate may perform Cardiac stress test and/or assist with Transesophageal Echocardiograms but not mandatory. Performs related duties as assigned.
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Ultrasound Tech
+    [assignmentid] => 536836
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15624
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Ultrasound Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => December, 04 2023 18:12:08
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=767564 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital South ;City=Saint Louis ;State=MO ;Zip=63128 ;Start=11/6/2023;End=2/5/2024;Duration=91;Cert=Ultrasound Tech/Sonographer ;Specialty=Radiology ;Unit=Mercy ;Shift=07:00-19:00;# of Postions=1;Type=Travel;BillRate=$65.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Name
+
+Echocardiography - Mercy Hospital South - Medical Sonographer - Mercy Hospital South
+
+Organization
+
+Mercy
+
+Facility
+
+Mercy Hospital South
+
+Unit
+
+Radiology
+
+Cost Center
+
+15-446518
+
+
+
+
+Shift
+
+day
+
+Shifts per week
+
+4
+
+Hours per shift
+
+10
+EXPERIENCE
+Years of Experience
+
+Two Years Plus
+
+Specialties
+
+Cardiac
+-
+preferred
+
+
+Technologies
+CERTIFICATIONS
+Certifications
+
+BLS
+-
+preferred
+RDCS
+-
+preferred
+
+DESCRIPTION
+Shift -  5-eights or 4- tens- Possible alternating weekends (Every 4th) Years of experience - (0-5+)- 2 + Certifications (preferred or required) - BLS/ RDCS or CCI Registered Specialty experience (preferred or required) N/A- Brief description of role-  The Cardiac Sonographer is a skilled person qualified by technological education to provide patient services using diagnostic ultrasound to gather necessary data to determine cardiac conditions of patients.  Must have a current American Heart Association BLS Heart saver Card or obtain within probationary period and RDCS or CCI registered. Other: Working Conditions, Mental and Physical Requirements: This individual must be capable of walking long distances, transporting ultrasound equipment and assist in lifting patients. Equipment Used: Ultrasound equipment.  Candidate may perform Cardiac stress test and/or assist with Transesophageal Echocardiograms but not mandatory. Performs related duties as assigned.
+ General Comments ;url=https://vendor.healthtrustws.com/positions/767564;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Mercy Hospital South - Travel
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

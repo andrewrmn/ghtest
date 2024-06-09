@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '955',
+  'Cf-Ray' => '82e6458ab5fa23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA
+By RN; Not Willing to Return (Rate)
+    [sitename] => giftednurses
+    [spec] => LTC
+    [assignmentid] => 543741
+    [workerID] => 238539
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Extension Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 15908
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-13
+    [workerLastName] => Cayo
+    [shiftNum] => 1
+    [workerFirstName] => Gaelle
+    [cert] => LPN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 30 2023 16:44:25
+    [daysPerWeek] => 5
+    [orderNote] => EXTENSION 
+BR:$65lRS:136587
+FTK: Kronos & Unsigned Gifted Timecard
+    [guaranteedMinimum] => 
+    [workerEmail] => Cayoelle@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Schulman & Schachne Institute (RS) TRAVEL
+    [shiftDateEnd] => 2024-02-10
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2127',
+  'Cf-Ray' => '84ca4532919e77bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 06/22/2021 1506 MDTJackie Pittmann
+                            
+                            
+                                Rate $115 2 years of experience, prefer they have Cerner experience. IVS to interview and extend offer. Must be willing to float to other facilities as needed. 7a-7p
+ RatePlan:AH-Rapid Response (Covid19) FEB 28
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 242104
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9548
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 1
+    [bonus] => 
+    [shiftDateStart] => 2021-07-26
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 28 2024 10:29:16
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;SourceID=9301295 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Hays Medical Center ;City=Kyle ;State=TX ;Zip=78640 ;Start=7/26/2021;End=10/24/2021;Duration=91;Cert=RN ;Specialty=ER I ;Unit=SMCH Emergency Room ;Shift=NOC 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$115.00;minBillRate=$115.00;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=06/22/2021 1506 MDTJackie Pittmann
+                            
+                            
+                                Rate $115 2 years of experience, prefer they have Cerner experience. IVS to interview and extend offer. Must be willing to float to other facilities as needed. 7a-7p
+ RatePlan:AH-Rapid Response (Covid19) FEB 28 ;url=https://automated.shiftwise.net/esp/order.aspx?order_id=1D75AB8E2B75E79D8440B7C10E75AC87;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 115
+    [facilityName] => Ascension Seton Hays
+    [shiftDateEnd] => 2021-10-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

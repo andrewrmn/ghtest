@@ -1,0 +1,73 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3364',
+  'Cf-Ray' => '82d6015210c623b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Travel Operating Room RN
+Start: ASAP
+Duration: 13 weeks
+Shift: Days, 7a-7p**PALS, ACLS, BLS required**Call required: 2-3 shifts per month, 11p-7a**$90/hr rate approved
+ General CommentsThe Operating Room Nurse demonstrates critical thinking skills, scientific judgment and leadership in the anticipation and planning for the care of the patient in the operating room. As a member of the surgical team the RN works with the Surgeons, Anesthesiologists, ORT s and other personnel to provide patient care in the Operating Room according to State Nurse Practice Act, AORN and regulatory standards, physician orders, policies and procedures of the Hospital and the Surgical Department. Responsibilities include but are not limited to: ensuring supplies, timeliness of cases, communication with families, updating of physician preference cards, scrubbing and assisting physicians during surgical cases, and supervision of personnel delivering patient care.
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 545088
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2412
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 28 2023 17:21:39
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=776919 ;Status=Open;Association=Community Health Systems ;Client=Wilkes-Barre General Hospital ;City=Kingston ;State=PA ;Zip=18740 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=RN ;Specialty=OR ;Unit=EXT-Other (911) ;Shift=07:00-19:00;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Travel Operating Room RN
+Start: ASAP
+Duration: 13 weeks
+Shift: Days, 7a-7p**PALS, ACLS, BLS required**Call required: 2-3 shifts per month, 11p-7a**$90/hr rate approved
+ General CommentsThe Operating Room Nurse demonstrates critical thinking skills, scientific judgment and leadership in the anticipation and planning for the care of the patient in the operating room. As a member of the surgical team the RN works with the Surgeons, Anesthesiologists, ORT s and other personnel to provide patient care in the Operating Room according to State Nurse Practice Act, AORN and regulatory standards, physician orders, policies and procedures of the Hospital and the Surgical Department. Responsibilities include but are not limited to: ensuring supplies, timeliness of cases, communication with families, updating of physician preference cards, scrubbing and assisting physicians during surgical cases, and supervision of personnel delivering patient care.
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/776919;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Wilkes-Barre General Hospital
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

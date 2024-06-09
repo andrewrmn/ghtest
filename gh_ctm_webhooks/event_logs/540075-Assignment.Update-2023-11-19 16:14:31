@@ -1,0 +1,150 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4487',
+  'Cf-Ray' => '8289bf1f61cf1836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN PCU7A - 7P13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+ PCU
+
+Location: Lewis-Gale Hospital - Montgomery
+
+Address: 3700 South Main Street, Blacksburg, VA 24060
+
+Floor: 2nd
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds - 29Number of Staff   36Type of staff:Day Shift  skills mix 
+RN, LPN, C.N.A. Clinical Coordinator 7 days a weekNight Shift   RN, LPN, C.N.A. Clinical Team Leads 7 nights a weekPatient Ratios   1:5, occasional 1:6 if in critical staffing shortage and all resources utilized. Non-typical. Type of equipment   Hill Rom beds, Baxter IV pumps, SCD pumps etc EMR   Meditech 
+Typical hiring profile
+
+Skill Set Most recruited for:
+ (Travel RNs, local CNAs and sitters)
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+BLS &amp; ACLSTELEMETRY EXPERIENCE 
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+CHARGE EXPERIENCE 
+List typical procedures performed on unit(s): 
+
+CENTRAL LINE PLACEMENT Most procedures done in procedural area s or if patient upgraded to ICU will be performed there. 
+Best personality Fit:
+Team oriented and very close staff on unit. 
+Dress Code: 
+Scrub Color -
+ Professional scrubs, patterns and colors okay.
+
+
+
+Awards/Recognition: 
+
+
+Several staff members with over 20 years of service, very well rounded with new/experienced staff.
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 540075
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5926
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 11:14:01
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771064 ;Status=Pending Approval;Association=HCA Healthcare (Parent) ;Client=LEWISGALE HOSPITAL-MONTGOMERY ;City=BLACKSBURG ;State=VA ;Zip=24060 ;Start=11/26/2023;End=2/25/2024;Duration=91;Cert=RN ;Specialty=PCU ;Unit=CAPITAL DIVISION (20) ;Shift=7A-7P;# of Postions=1;Type=Travel;BillRate=$85.00;OTRate=93 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL RN PCU7A - 7P13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS REQUIRED
+ General CommentsUnit Information:
+ PCU
+
+Location: Lewis-Gale Hospital - Montgomery
+
+Address: 3700 South Main Street, Blacksburg, VA 24060
+
+Floor: 2nd
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds - 29Number of Staff   36Type of staff:Day Shift  skills mix 
+RN, LPN, C.N.A. Clinical Coordinator 7 days a weekNight Shift   RN, LPN, C.N.A. Clinical Team Leads 7 nights a weekPatient Ratios   1:5, occasional 1:6 if in critical staffing shortage and all resources utilized. Non-typical. Type of equipment   Hill Rom beds, Baxter IV pumps, SCD pumps etc EMR   Meditech 
+Typical hiring profile
+
+Skill Set Most recruited for:
+ (Travel RNs, local CNAs and sitters)
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+BLS &amp; ACLSTELEMETRY EXPERIENCE 
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+CHARGE EXPERIENCE 
+List typical procedures performed on unit(s): 
+
+CENTRAL LINE PLACEMENT Most procedures done in procedural area s or if patient upgraded to ICU will be performed there. 
+Best personality Fit:
+Team oriented and very close staff on unit. 
+Dress Code: 
+Scrub Color -
+ Professional scrubs, patterns and colors okay.
+
+
+
+Awards/Recognition: 
+
+
+Several staff members with over 20 years of service, very well rounded with new/experienced staff. ;url=https://vendor.healthtrustws.com/positions/771064;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => LewisGale Hospital-Montgomery
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

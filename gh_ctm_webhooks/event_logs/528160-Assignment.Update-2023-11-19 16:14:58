@@ -1,0 +1,80 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2512',
+  'Cf-Ray' => '8289bfd0d02423b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:$75 Bill Rate
+Echo technicians, also known as echocardiography technicians, create 2-D and 3-D pictures of patients' hearts, though the use of high frequency sound waves and special equipment.
+-Perform cardiac ultrasound examinations including stress echocardiograms
+-Use array of ultrasound systems including GE, Siemens, and Philips
+-Perform electrocardiograms and apply holter monitors
+-Work collaboratively with physicians and fellow sonographers
+
+   8-hour   days; 8am to 5pm, M-F.
+ 1-2 weeks of   on-call per month
+ General Comments
+    [sitename] => giftednurses
+    [spec] => Echocardiography
+    [assignmentid] => 528160
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 2326
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Echo Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 19 2023 11:14:58
+    [daysPerWeek] => 5
+    [orderNote] => Source=HealthTrust;SourceID=754977 ;Status=Open;Association=Community Health Systems ;Client=Mountainview Regional Medical Center ;City=Las Cruces ;State=NM ;Zip=88011 ;Start=9/25/2023;End=12/25/2023;Duration=91;Cert=Echo Tech ;Specialty=Radiology ;Unit=EXT-Other (911) ;Shift=08:00-17:00;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:$75 Bill Rate
+Echo technicians, also known as echocardiography technicians, create 2-D and 3-D pictures of patients' hearts, though the use of high frequency sound waves and special equipment.
+-Perform cardiac ultrasound examinations including stress echocardiograms
+-Use array of ultrasound systems including GE, Siemens, and Philips
+-Perform electrocardiograms and apply holter monitors
+-Work collaboratively with physicians and fellow sonographers
+
+   8-hour   days; 8am to 5pm, M-F.
+ 1-2 weeks of   on-call per month
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/754977;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Mountainview Regional Medical Center
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 08:00
+    [subjectID] => 
+)

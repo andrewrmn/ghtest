@@ -1,0 +1,195 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '20',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4278',
+  'Cf-Ray' => '8326e579b7fd493d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Data Collection:
+
+Unit Information:
+ (insert name)
+
+Location: 5 Heart Tower
+
+Address:
+
+Floor: 5th Floor
+ Heart Hospital
+
+Building: Clear Lake Heart Hospital
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds - 36Number of Staff   96Type of staff:Day Shift   1 Charge 6 nurses 3 techs sitters as neededNight Shift   1 charge, 6 nurses, 3 techs. Sitters as neededPatient Ratios   1:5-6Type of equipment - EMR - Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+
+Medical/Surgical, IMC experience
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+
+
+List typical procedures performed on unit(s): 
+
+Telemetry, medical, surgical, patient care
+ 
+
+Best personality Fit:
+We have a very diverse nursing staff and patient population that all work very well together. Great teamwork and professionalism. 
+
+REQUIRED CERTIFICATIONS:
+BLS
+Floating Area(s):
+Medical/Surgical 
+Dress Code: 
+Scrub Color/Attire -
+ Royal Blue
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+
+
+
+
+
+Weekends and On call(if any)
+Rotating weekends with no call.
+ General Comments1.
+Auto backfill 1 additional need.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 536994
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5531
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 08 2023 12:58:25
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=762882 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HCA HOUSTON CLEAR LAKE ;City=Webster ;State=TX ;Zip=77598 ;Start=10/23/2023;End=1/22/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=GULF COAST DIVISION (14) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$65.00;OTRate=73 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Data Collection:
+
+Unit Information:
+ (insert name)
+
+Location: 5 Heart Tower
+
+Address:
+
+Floor: 5th Floor
+ Heart Hospital
+
+Building: Clear Lake Heart Hospital
+
+
+
+
+General Information
+
+Tell us about the unit(s): 
+Number of Beds - 36Number of Staff   96Type of staff:Day Shift   1 Charge 6 nurses 3 techs sitters as neededNight Shift   1 charge, 6 nurses, 3 techs. Sitters as neededPatient Ratios   1:5-6Type of equipment - EMR - Meditech
+Typical hiring profile
+
+Skill Set Most recruited for:
+ 
+
+
+
+
+Must have:
+ candidates without these skills will not be considered for the role.
+
+Medical/Surgical, IMC experience
+
+Preferred or nice to have:
+ candidates with these skills will be considered first. 
+
+
+
+List typical procedures performed on unit(s): 
+
+Telemetry, medical, surgical, patient care
+ 
+
+Best personality Fit:
+We have a very diverse nursing staff and patient population that all work very well together. Great teamwork and professionalism. 
+
+REQUIRED CERTIFICATIONS:
+BLS
+Floating Area(s):
+Medical/Surgical 
+Dress Code: 
+Scrub Color/Attire -
+ Royal Blue
+
+
+
+Unit Guidelines/Policies: Please feel free to attach unit policies and guidelines.
+
+
+
+
+
+Weekends and On call(if any)
+Rotating weekends with no call.
+ General Comments1.Local Fill
+2951155
+Auto backfill 1 additional need.
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/762882;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Clear Lake Regional Medical Center-Travel
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,94 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4472',
+  'Cf-Ray' => '8388dfd2873577bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 Week contract |2 years of experience | BLS, Scrub experience, EKG certification required | Integris requires contractors to know floating may be a requirement. 
+
+DRIVER'S LICENSE MUST BE INCLUDED WITH SUBMISSION 
+
+NO MORE THAN 5 DAYS OF RTO WILL BE ACCEPTED 
+
+Req:
+93110
+93109
+
+
+ Modified Time:1/9/2024 8:00:00 AM
+ Account Manager: Jennifer Davis
+ Account Manager Email: Jennifer.Davis@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceRN &amp; Allied Travelers - A copy of traveler s valid State Issued Driver s License or State ID MUST be attached to ALL submittalsRN candidates only - Must have compact license to applyAmerican Heart Association certs requiredNo more than&nbsp;5&nbsp;days of RTO will be accepted per every 13 weeks (NO HOLIDAY RTO at all)Floating: All candidates must be willing to float to other areas   even if that is another Integris facility, up to 75 miles.&nbsp; Do not sub unless the traveler is aware and willing to float.Traveler must have a minimum of 1 year separation from INTEGRIS as an employee to be eligible for submissionCandidates within&nbsp;75 miles&nbsp;are considered local travelers and are&nbsp;NOT&nbsp;eligible to apply at Integris.ER candidates only: $32 for ESI certification not included in the BROrientation - held every OTHER Tuesday: 11/14/23, 11/28/23, 12/5/23, 12/19/23, 1/9/24, 1/24/24, etc.DOES NOT ACCEPT TRAVEL PAIRS
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 546139
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 7044
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-23
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Cath Lab Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 20 2023 10:21:18
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2320658 ;Status=Open;Association=Vaya Legacy MSP (Connect) ;Client=INTEGRIS Health Edmond - OK ;City=Edmond ;State=OK ;Zip=73034 ;Start=1/23/2024;End=4/23/2024;Duration=91;Cert=Registered Nurse ;Specialty=Cath Lab ;Unit=1854140 - Cath Lab/Angiography ;Shift=Day 4x10-Hour (07:30 - 18:00);# of Postions=1;Type=Travel;BillRate=$105.00;OTRules=40 total hours in 1 week : 1.4% ;Orientation=8 ;Description=New opening| 13 weeks| 2 years of experience| BLS, ACLS, PALS| Integris requires contractors to know floating may be a requirement. 
+
+DRIVER'S LICENSE MUST BE INCLUDED WITH SUBMISSION 
+
+NO MORE THAN 5 DAYS OF RTO WILL BE ACCEPTED 
+
+Req:
+93110
+93109
+
+
+ Modified Time:1/23/2024 12:00:00 AM
+ Account Manager: Jennifer Davis
+ Account Manager Email: Jennifer.Davis@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:High
+ Submittal Details: #Tier2 Travel ComplianceA copy of traveler s valid State Issued Driver s License or State ID MUST be attached to each submittalMust have compact license to applyAmerican Heart Association certs requiredNo more than&nbsp;5&nbsp;days of RTO will be accepted per every 13 weeks (NO HOLIDAY RTO at all)No BLOCK SCHEDULING REQUESTS will be guaranteedAny gaps in traveler s profile (3 months or more) REQUIRE an explanationFloating: All candidates must be willing to float to other areas   even if that is another Integris facility, up to 75 miles.&nbsp; Do not sub unless the traveler is aware and willing to float.Traveler must have a minimum of 1 year separation from INTEGRIS as an employee to be eligible for submissionCandidates within&nbsp;75 miles&nbsp;are considered local travelers and are&nbsp;NOT&nbsp;eligible to apply at Integris.ER candidates only: $32 for ESI certification not included in the BROrientation - held every OTHER Tuesday: 11/14/23, 11/28/23, 12/5/23, 12/19/23, 1/9/24, 1/23/24, etc.DOES NOT ACCEPT TRAVEL PAIRS ;url=https://app.ayaconnect.com/index.html#/vendor/job/2320658/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Integris Health Edmond Travel
+    [shiftDateEnd] => 2024-04-23
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

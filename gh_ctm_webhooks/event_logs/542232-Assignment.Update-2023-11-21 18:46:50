@@ -1,0 +1,112 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3816',
+  'Cf-Ray' => '829b1905a49e1838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:Onslow Memorial Hospital is located at 317 Western Blvd, Jacksonville NC 28546. A community hospital that has joint commission and AHA Primary Stroke Center Certification.  Our ED treat patients with anything from the common cold to cardiac arrest.
+Complete Description:Onslow Memorial ED-  39 Bed ED, sees about 170-200 pts/day. Must float to all areas of the ED. 
+Triage
+POD 1&2 Nurse ratio 1:4-5, tech ratio 1:12- hardwire monitors all rooms. Critical patients  
+Pod 4 Behavior Health nurse ratio1:7 with 2 pt safety monitors- Medically cleared pts waiting on placement. No testing or cardiac monitoring.  
+POD 5 No cardiac monitor, general ED complaints. May close at 1am depending on census.
+Urgent Care- Level 4&5--Sick call, physician visit type patients. Swing times open 11a-1a. May change as needed. 
+Labs and resp. tx are done by ED staff.
+Requisition Comments:Lotus Offers - Fast Offers!
+Candidates will NOT interview.
+
+Must include RTO in submittal in order to be honored at time of offer!
+
+Traveler is expected to float to like acuities or less if needed
+Scheduling Details:3x12's, Nights, 7p-730a
+
+Weekends and holidays required 
+
+No Call 
+
+Meditech Required
+
+No locals - 100 mile radius
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 542232
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3580
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 21 2023 13:46:50
+    [daysPerWeek] => 3
+    [orderNote] => Source=PeopleFluent;SourceID=724225 ;Status=Open;Association=Emergency Department ;Client=UNC Health ;Start=12/11/2023;End=3/9/2024;Duration=89;Cert=RN ;Specialty=ER ;Unit=RN - Emergency Dept - Nights - Onslow Memorial Hospital ;Shift=3x12.0 3x12's, Nights, 7p-730a
+
+Weekends and holidays required 
+
+No Call 
+
+Meditech Required
+
+No locals - 100 mile radius;# of Postions=1;Type=Travel;BillRate=$90.00;Description=Short Description:Onslow Memorial Hospital is located at 317 Western Blvd, Jacksonville NC 28546. A community hospital that has joint commission and AHA Primary Stroke Center Certification.  Our ED treat patients with anything from the common cold to cardiac arrest.
+Complete Description:Onslow Memorial ED-  39 Bed ED, sees about 170-200 pts/day. Must float to all areas of the ED. 
+Triage
+POD 1&2 Nurse ratio 1:4-5, tech ratio 1:12- hardwire monitors all rooms. Critical patients  
+Pod 4 Behavior Health nurse ratio1:7 with 2 pt safety monitors- Medically cleared pts waiting on placement. No testing or cardiac monitoring.  
+POD 5 No cardiac monitor, general ED complaints. May close at 1am depending on census.
+Urgent Care- Level 4&5--Sick call, physician visit type patients. Swing times open 11a-1a. May change as needed. 
+Labs and resp. tx are done by ED staff.
+Requisition Comments:Lotus Offers - Fast Offers!
+Candidates will NOT interview.
+
+Must include RTO in submittal in order to be honored at time of offer!
+
+Traveler is expected to float to like acuities or less if needed
+Scheduling Details:3x12's, Nights, 7p-730a
+
+Weekends and holidays required 
+
+No Call 
+
+Meditech Required
+
+No locals - 100 mile radius ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=724225;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Onslow Memorial Hospital
+    [shiftDateEnd] => 2024-03-09
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

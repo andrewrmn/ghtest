@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '934',
+  'Cf-Ray' => '82e48c7541c31830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: End Date Change
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 532365
+    [workerID] => 153189
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 16048
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-16
+    [workerLastName] => Dumas-Pierre
+    [shiftNum] => 5
+    [workerFirstName] => Valery
+    [cert] => RN
+    [floorDesc] => 3 North
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 30 2023 11:43:18
+    [daysPerWeek] => 3
+    [orderNote] => BR:$100lRS:134771lFTK:API
+ChrgDiff:P$1/B$3lOnCl:P$10/B$18
+Orient:$20lNonBill:12hrs
+    [guaranteedMinimum] => 
+    [workerEmail] => vunet2000@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => AHS - Hackettstown Medical Center
+    [shiftDateEnd] => 2023-12-20
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

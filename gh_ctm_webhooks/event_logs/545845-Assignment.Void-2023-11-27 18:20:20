@@ -1,0 +1,79 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3542',
+  'Cf-Ray' => '82cc627087ec1842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 3/2/24 END DATE - Backfill: G | Weekend Requirements: Yes | Call Requirement: Yes | Holiday Requirement: 2 major and 1 minor | Required Experience: Carto/St. Jude to include pacing, scrubbing/documentation on Phillips equipment, Interventional Radiology cases, Structural heart specific to Watchman and TAVR, Neuro intervention experience, Thrombectomy specific to Inari, Pnumbra, & EKOS, Baloon pump, Impella, PFO, and CTO experience
+
+
+ Modified Time:12/18/2023 6:00:00 AM
+ Account Manager: Shannon Steely
+ Account Manager Email: Ssteely@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel.
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 545845
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 13888
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:30
+    [whenmodified] => November, 27 2023 13:19:23
+    [daysPerWeek] => 4
+    [orderNote] => Source=AYA;SourceID=2318378 ;Status=Open;Association=Vaya Legacy MSP (Connect) ;Client=LCMC Health Touro Infirmary ;City=New Orleans ;State=LA ;Zip=70115 ;Start=12/18/2023;End=3/4/2024;Duration=77;Cert=Registered Nurse ;Specialty=Cath Lab ;Unit=30064 - TOURO Cardiac Cath Services - Cath Lab ;Shift=Day 4x10-Hour (07:00 - 17:30);# of Postions=1;Type=Travel;BillRate=$115.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=3/2/24 END DATE - Backfill: G | Weekend Requirements: Yes | Call Requirement: Yes | Holiday Requirement: 2 major and 1 minor | Required Experience: Carto/St. Jude to include pacing, scrubbing/documentation on Phillips equipment, Interventional Radiology cases, Structural heart specific to Watchman and TAVR, Neuro intervention experience, Thrombectomy specific to Inari, Pnumbra, & EKOS, Baloon pump, Impella, PFO, and CTO experience
+
+
+ Modified Time:12/18/2023 6:00:00 AM
+ Account Manager: Shannon Steely
+ Account Manager Email: Ssteely@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2318378/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 115
+    [facilityName] => Touro Infirmary TRV VAYA
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

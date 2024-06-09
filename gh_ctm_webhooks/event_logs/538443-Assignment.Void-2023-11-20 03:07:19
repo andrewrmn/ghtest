@@ -1,0 +1,521 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6795',
+  'Cf-Ray' => '828d7b63412f23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Eastern Idaho Regional Medical Center
+Need: MRI Tech
+ 
+ 
+  Cost Center: 734
+Unit: Radiology
+Shift: 7:00PM-7:00AM/ 7 Days on Then 7 Days Off.
+Start Date: start within 3 weeks
+Assignment Length: 13 Weeks
+
+
+        Unit Information:
+   MRI 734             Location: EIRMC             
+Address: 3100   Channing Way, Idaho Falls, Idaho
+         
+Floor: Main
+             
+Building: Main   Campus
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   2 MRI suites
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+4 Full time staff members
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   3 techs, hours of   operation 0730-2230 
+   
+o
+
+
+   Night Shift   call coverage only   2230-0730
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   GE Signa HDxT 23x   and GE Signa 15x 
+   
+ 
+
+
+
+
+
+
+
+   EMR - Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   GE   experience
+   
+ 
+
+
+
+
+
+
+
+   Neuro,   MSK, Abdominal, MRA, Arthrograms
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   GE PACS   and Meditech experience 
+   
+ 
+
+
+
+
+
+
+
+   Breast,   Cardiac Imaging
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+Neuro, MSK, Abdominal, MRA, Arthrograms,   Breast, Cardiac
+   
+ 
+
+
+
+
+
+
+
+   
+MRI Anesthesia cases   pediatric and adult 
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Flexible, positive, high   energy
+   REQUIRED CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   ARRT   (MR)
+   
+ 
+
+
+
+
+
+
+
+   BLS
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   May be asked to work in other areas of Imaging as Operations   Support, Transport
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ Black scrub top and bottom
+   
+
+
+             Weekends and On call(if any)   
+ 
+
+
+
+
+
+
+
+   Staff every   other weekend or every third weekend; On call average 2-3 nights per week
+ General Comments
+    [sitename] => giftednurses
+    [spec] => MRI
+    [assignmentid] => 538443
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1261
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-04
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => MRI Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 19 2023 22:07:18
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=769254 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=Eastern Idaho Regional Medical Center ID ;City=IDAHO FALLS ;State=ID ;Zip=83404 ;Start=11/20/2023;End=2/19/2024;Duration=91;Cert=MRI Tech ;Specialty=Radiology ;Unit=MOUNTAIN DIVISION (15) ;Shift=7:00PM – 7:00AM ;# of Postions=1;Type=Travel;BillRate=$85.00;OTRate=93 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Eastern Idaho Regional Medical Center
+Need: MRI Tech
+ 
+ 
+  Cost Center: 734
+Unit: Radiology
+Shift: 7:00PM-7:00AM/ 7 Days on Then 7 Days Off.
+Start Date: start within 3 weeks
+Assignment Length: 13 Weeks
+
+
+        Unit Information:
+   MRI 734             Location: EIRMC             
+Address: 3100   Channing Way, Idaho Falls, Idaho
+         
+Floor: Main
+             
+Building: Main   Campus
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+
+   Number of Beds   2 MRI suites
+   
+ 
+
+
+
+
+
+
+
+   Number of Staff   
+4 Full time staff members
+   
+ 
+
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+
+   Day Shift   3 techs, hours of   operation 0730-2230 
+   
+o
+
+
+   Night Shift   call coverage only   2230-0730
+   
+ 
+
+
+
+
+
+
+
+   Patient Ratios   
+   
+ 
+
+
+
+
+
+
+
+   Type of equipment   GE Signa HDxT 23x   and GE Signa 15x 
+   
+ 
+
+
+
+
+
+
+
+   EMR - Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+
+
+   GE   experience
+   
+ 
+
+
+
+
+
+
+
+   Neuro,   MSK, Abdominal, MRA, Arthrograms
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+
+   GE PACS   and Meditech experience 
+   
+ 
+
+
+
+
+
+
+
+   Breast,   Cardiac Imaging
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+
+   
+Neuro, MSK, Abdominal, MRA, Arthrograms,   Breast, Cardiac
+   
+ 
+
+
+
+
+
+
+
+   
+MRI Anesthesia cases   pediatric and adult 
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+
+   
+Flexible, positive, high   energy
+   REQUIRED CERTIFICATIONS:   
+ 
+
+
+
+
+
+
+
+   ARRT   (MR)
+   
+ 
+
+
+
+
+
+
+
+   BLS
+   Floating Area(s):   
+ 
+
+
+
+
+
+
+
+   May be asked to work in other areas of Imaging as Operations   Support, Transport
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+
+
+   Scrub Color/Attire -
+ Black scrub top and bottom
+   
+
+
+             Weekends and On call(if any)   
+ 
+
+
+
+
+
+
+
+   Staff every   other weekend or every third weekend; On call average 2-3 nights per week
+ General Comments ;url=https://vendor.healthtrustws.com/positions/769254;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Eastern Idaho Regional Med Center Parallon
+    [shiftDateEnd] => 2024-03-04
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

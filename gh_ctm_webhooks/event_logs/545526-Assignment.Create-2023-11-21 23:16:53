@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2731',
+  'Cf-Ray' => '829ca49b16a51842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Need an inpatient Med/Surg/ER RN with PEDS (preferred) needed for critical access hospital in Nome AK.  Min 2 years M/S exp.  RN may lend a hand in tele, peds.  Please note that shared housing is paid for and provided by the facility.  We are willing to consider 8 or 13 week contracts. COVID and Flu vaccines are required.   Additional Information:ALL TRAVELERS ARE REQUIRED TO SHOW PROOF OF COMPLETED COVID VACCINATIONS PLUS BOOSTER??. FLU VACCINES ARE ALSO REQUIRED AND EXEMPTIONS WILL NOT BE ACCEPTED.   Position Urgency:Quick Start Billing string = Norton Sound Regional Hospital
+    [sitename] => giftednurses
+    [spec] => Psych
+    [assignmentid] => 545526
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1360
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 21 2023 18:16:51
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=262067 ;Status=Open;Association=Norton Sound Regional Hospital ;Client=Norton Sound Regional Hospital ;City=Nome ;State=AK ;Zip=99762 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Nursing ;Specialty=Registered Nurse, Psychiatric Peds, Psychiatric Adult, Critical Access Hospital RN, Med-surg Adult, Med-surg Peds ;Unit=Registered Nurse, Psychiatric Peds, Psychiatric Adult, Critical Access Hospital RN, Med-surg Adult, Med-surg Peds ;Shift=Days/Nights;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$115.00;OTRate=125 ;OTRules=By The Week, after 40, ;CallbackRate=115 (All Inclusive Rate) ;HolidayRate=125 (All Inclusive Rate + $10) ;OnCallRateDescription=$2 per hour pager ;Description=Need an inpatient Med/Surg/ER RN with PEDS (preferred) needed for critical access hospital in Nome AK.  Min 2 years M/S exp.  RN may lend a hand in tele, peds.  Please note that shared housing is paid for and provided by the facility.  We are willing to consider 8 or 13 week contracts. COVID and Flu vaccines are required.   Additional Information:ALL TRAVELERS ARE REQUIRED TO SHOW PROOF OF COMPLETED COVID VACCINATIONS PLUS BOOSTER??. FLU VACCINES ARE ALSO REQUIRED AND EXEMPTIONS WILL NOT BE ACCEPTED.   Position Urgency:Quick Start Billing string = Norton Sound Regional Hospital ;url=https://vms.medefis5.com/jobs/262067;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 115
+    [facilityName] => Norton Sound Regional
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

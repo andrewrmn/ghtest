@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '29',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3421',
+  'Cf-Ray' => '82930cd1d1b04961-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Endoscopy RN plans, coordinates and delivers safe nursing care in Endoscopy.    We currently have a full-time (40 hours/week) traveler position available.   ??CERTS: Current Colorado RN license or ability to obtain * Current BLS through the American Heart Association * Current ACLS through the American Heart AssociationEXPERIENCE:  We are looking for an RN that have both Endo Pre/Post  and Scrub/Tech experience with Endo procedures.SHIFTS: Days - Includes evening, night and weekend call rotation.EXPERIENCE: 2 years RN experience in Endoscopy. Experience with pre/post and scrub/tech with Scrub/Tech experience with Endo Procedures is required.AGENCY:  Please submit with each submission: Resume, Copy of RN license, Copy of AHA BLS and ACLS, Skills Sheet, Proof of Flu Vaccine   Additional Information:  *RADIUS RULE* Traveler's permanent address must be at least 75 miles away from our facility to be considered for a travel assignment.   Position Urgency:Normal Billing string = Valley View Hospital
+    [sitename] => giftednurses
+    [spec] => Endoscopy
+    [assignmentid] => 545143
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 6969
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-05
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 20 2023 14:20:24
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=261933 ;Status=Open;Association=Valley View Hospital ;Client=Valley View Hospital ;City=Glenwood Springs ;State=CO ;Zip=81601 ;Start=12/5/2023;End=3/5/2024;Duration=91;Cert=Nursing ;Specialty=Endoscopy Nurse ;Unit=Endoscopy Nurse ;Shift=4-10 hour day shifts with rotating night/weekend call;# of Postions=1;Guaranteed Hours=40;Type=Travel;BillRate=$105.00;OTRate=115 ;OTRules=By The Week, after 40, ;CallbackRate=110 (All Inclusive Rate + $5) ;HolidayRate=115 (All Inclusive Rate + $10) ;OnCallRateDescription=$3 per hour pager ;Description=Endoscopy RN plans, coordinates and delivers safe nursing care in Endoscopy.    We currently have a full-time (40 hours/week) traveler position available.   ??CERTS: Current Colorado RN license or ability to obtain * Current BLS through the American Heart Association * Current ACLS through the American Heart AssociationEXPERIENCE:  We are looking for an RN that have both Endo Pre/Post  and Scrub/Tech experience with Endo procedures.SHIFTS: Days - Includes evening, night and weekend call rotation.EXPERIENCE: 2 years RN experience in Endoscopy. Experience with pre/post and scrub/tech with Scrub/Tech experience with Endo Procedures is required.AGENCY:  Please submit with each submission: Resume, Copy of RN license, Copy of AHA BLS and ACLS, Skills Sheet, Proof of Flu Vaccine   Additional Information:  *RADIUS RULE* Traveler's permanent address must be at least 75 miles away from our facility to be considered for a travel assignment.   Position Urgency:Normal Billing string = Valley View Hospital ;url=https://vms.medefis5.com/jobs/261933;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Valley View Hospital
+    [shiftDateEnd] => 2024-03-05
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1927',
+  'Cf-Ray' => '82cb6b12e074183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 11/27/2023 0915 CSTKristen Robertson
+                            
+                            
+                                3X12s, Days, varied M-F, 1 12hr night shift call/week, 1 48hr weekend call/mo, 1 holiday,
+ RatePlan:
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 545916
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3496
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 27 2023 10:31:27
+    [daysPerWeek] => 3
+    [orderNote] => Source=ShiftWise;SourceID=10650926 ;Status=Open;Association=Orlando Health ;Client=Orlando Regional Medical Center ;City=Orlando ;State=FL ;Zip=32856 ;Start=12/18/2023;End=3/18/2024;Duration=92;Cert=Surgical Technician ;Specialty=Technician ;Unit=ORMC Cardio OR ;Shift=AM 12.00 Hrs;# of Postions=1;Type=Travel;BillRate=$75.00;minBillRate=$75.00;OTRate=Additive 10.000 ;OTRules=Additive 10.000 ;ChargeRate=Additive 3.000 ;CallbackRate=Multiplier 1.000 ;HolidayRate=Additive 10.000 ;Orientation=Multiplier 1.000 ;Description=11/27/2023 0915 CSTKristen Robertson
+                            
+                            
+                                3X12s, Days, varied M-F, 1 12hr night shift call/week, 1 48hr weekend call/mo, 1 holiday,
+ RatePlan: ;url=https://secure.shiftwise.net/esp/order.aspx?order_id=DB6664D3F4BB4BBB65CCB46191CB6F29;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Orlando Health-Orlando Regional Medical Center
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

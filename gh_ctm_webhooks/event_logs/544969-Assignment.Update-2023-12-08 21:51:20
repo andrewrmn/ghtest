@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2752',
+  'Cf-Ray' => '83283aa5a03323b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => The RN plans and provides professional nursing care to the patient from admission to discharge.  He/She coordinates care with other disciplines, consults with the family or significant others, and collaborates with the physician on the patient's behalf.  The RN assesses, implements, and evaluates nursing care.  The RN is responsible for supervision of PCTs and Support Assistants.  The medical surgical RN provides care in a 23 private room unit.  This unit cares for patients with a variety of medical and surgical diagnosis including but not limited to congestive heart failure, cardiac arrhythmias, pneumonia, diabetes, COPD, abdominal surgeries, total joint replacements, hospice, orthopedics, skilled rehabilitation and infusion care.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544969
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15849
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 08 2023 16:51:18
+    [daysPerWeek] => 3
+    [orderNote] => Source=EinsteinTrinity;SourceID=48474 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne Newton Medical Center ;City=Newton ;State=IA ;Zip=50208 ;Start=12/24/2023;End=3/23/2024;Duration=90;Cert=RN Medical / Surgical ;Specialty=Medical/Surgical ;Unit=*Registered Nurse-Med Surg-Medical/Surgical NIghts ;Shift=7p7a;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=117.00 ;ChargeRate=93.00 ;CallbackRate=117.00 ;HolidayRate=117.00 ;Description=The RN plans and provides professional nursing care to the patient from admission to discharge.  He/She coordinates care with other disciplines, consults with the family or significant others, and collaborates with the physician on the patient's behalf.  The RN assesses, implements, and evaluates nursing care.  The RN is responsible for supervision of PCTs and Support Assistants.  The medical surgical RN provides care in a 23 private room unit.  This unit cares for patients with a variety of medical and surgical diagnosis including but not limited to congestive heart failure, cardiac arrhythmias, pneumonia, diabetes, COPD, abdominal surgeries, total joint replacements, hospice, orthopedics, skilled rehabilitation and infusion care. ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => MercyOne Newton Medical Center TRAVEL
+    [shiftDateEnd] => 2024-03-23
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

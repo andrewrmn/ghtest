@@ -1,0 +1,109 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7189',
+  'Cf-Ray' => '8279e51b263e1463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Short Description:Maintains knowledge concerning radiation protection and safety in addition to general and electrical safety, infection control, TB and standard precautions. Assist Radiologist in completion of intricate procedures. Prepares and administers contrast.
+
+Complete Description:1. Demonstrates a thorough knowledge of all aspects of General Diagnostic Radiology, is familiar with and adheres to Departmental Protocols and Policy and Procedures of UNC Healthcare System, obtains RT(R) credentials and maintains """"Active Status"""", using technical knowledge and ability to assist in actively troubleshooting work unit problems with respect to equipment and protocols, enthusiastically shares knowledge with employees and students in the work unit.
+2. Ensures that patient demographic, emulsion markers, and examination requested are correct, critiques, orients and saves all pertinent images, transmits QA-ed images to PACS, ensures that all images reach PACS, documents completion and/or cancellation of all procedures in RIS, documenting comments when appropriate, maintains image
+management equipment, reporting any equipment problem to appropriate resources, utilizes PACS and HIS system for obtaining additional study data.
+3. Performs work in a timely manner, performs quality radiographic images on a consistent and on-going basis,
+analyzes request and draws appropriate conclusions for examination and action plan, reviews radiographic orders and images and correlates patient demographic information, ensuring accuracy of information, reviews daily schedule and/or status of patients waiting in department for examinations, maintains a clean and safe work environment, documents incidents and advises area supervisor of improvement opportunities for the work unit.
+4. Uses RIS,CIS,PACS and SMS effectively and appropriately to access information and document status of
+procedures, modifies all necessary orders for appropriateness, completes exam in RIS System, QC's and transmits information to PACS, verifies that all information has arrive properly into PACS.
+5. Verifies patient identity, obtains patient history relevant to examination order, verifies pregnancy status before
+administering ionizing radiation, assesses patients physical condition and develops an action plan for performing examination, assesses patients condition to determine if additionally medical personnel and or equipment is needed and takes appropriate action, assists patients that require extra attention, reacts to emergency situations, insures patient safety.
+Requisition Comments:Client Offer! Candidate will be reviewed/interviewed by MGR
+
+Must include RTO in submittal to be considered at time of offer
+
+Traveler is expected to float to like acuities or less if needed
+Scheduling Details:4x9's, Nights, 2300-830
+
+Monday - Thursday
+
+Occasional weekends possible
+
+No call
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 542311
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11020
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 3
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => November, 17 2023 13:04:13
+    [daysPerWeek] => 4
+    [orderNote] => Source=PeopleFluent;SourceID=724235 ;Status=Open;Association=Radiology, 107 - 330421 - 1300 ;Client=UNC Health ;Start=12/11/2023;End=4/6/2024;Duration=117;Cert=Radiology Tech ;Specialty=Radiology Tech ;Unit=Radiology Tech - Nights - UNC Caldwell ;Shift=4x9.0 4x9's, Nights, 2300-830
+
+Monday - Thursday
+
+Occasional weekends possible
+
+No call;# of Postions=1;Type=Travel;BillRate=$80.00;Description=Short Description:Maintains knowledge concerning radiation protection and safety in addition to general and electrical safety, infection control, TB and standard precautions. Assist Radiologist in completion of intricate procedures. Prepares and administers contrast.
+Complete Description:1. Demonstrates a thorough knowledge of all aspects of General Diagnostic Radiology, is familiar with and adheres to Departmental Protocols and Policy and Procedures of UNC Healthcare System, obtains RT(R) credentials and maintains """"Active Status"""", using technical knowledge and ability to assist in actively troubleshooting work unit problems with respect to equipment and protocols, enthusiastically shares knowledge with employees and students in the work unit.
+2. Ensures that patient demographic, emulsion markers, and examination requested are correct, critiques, orients and saves all pertinent images, transmits QA-ed images to PACS, ensures that all images reach PACS, documents completion and/or cancellation of all procedures in RIS, documenting comments when appropriate, maintains image
+management equipment, reporting any equipment problem to appropriate resources, utilizes PACS and HIS system for obtaining additional study data.
+3. Performs work in a timely manner, performs quality radiographic images on a consistent and on-going basis,
+analyzes request and draws appropriate conclusions for examination and action plan, reviews radiographic orders and images and correlates patient demographic information, ensuring accuracy of information, reviews daily schedule and/or status of patients waiting in department for examinations, maintains a clean and safe work environment, documents incidents and advises area supervisor of improvement opportunities for the work unit.
+4. Uses RIS,CIS,PACS and SMS effectively and appropriately to access information and document status of
+procedures, modifies all necessary orders for appropriateness, completes exam in RIS System, QC's and transmits information to PACS, verifies that all information has arrive properly into PACS.
+5. Verifies patient identity, obtains patient history relevant to examination order, verifies pregnancy status before
+administering ionizing radiation, assesses patients physical condition and develops an action plan for performing examination, assesses patients condition to determine if additionally medical personnel and or equipment is needed and takes appropriate action, assists patients that require extra attention, reacts to emergency situations, insures patient safety.
+Requisition Comments:Client Offer! Candidate will be reviewed/interviewed by MGR
+
+Must include RTO in submittal to be considered at time of offer
+
+Traveler is expected to float to like acuities or less if needed
+Scheduling Details:4x9's, Nights, 2300-830
+
+Monday - Thursday
+
+Occasional weekends possible
+
+No call ;url=https://vms.vectorvms.com/7000/tabReqDetails.aspx?req_cls_id=&org_id=&cpy_req_id=&resubmit=&req_id=724235;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Caldwell UNC Health Care TRAVEL
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 23:00
+    [subjectID] => 
+)

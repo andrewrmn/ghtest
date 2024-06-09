@@ -1,0 +1,143 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4900',
+  'Cf-Ray' => '82a3e4b8f186183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name Psych Acute Adult 2A - Mercy Hospital South - RN - Mercy Hospital South
+  
+Organization Mercy
+  
+Facility Mercy Hospital South
+  
+Unit Psychiatric Unit
+  
+Cost Center 15-446197
+  
+
+
+  
+
+
+  SHIFT INFO  
+Shift day
+  
+Shifts per week 3
+  
+Hours per shift 12
+  EXPERIENCE  
+Years of Experience One Year Plus
+  
+Specialties
+  
+Technologies
+  CERTIFICATIONS  
+Certifications
+  
+BLS
+-
+required
+  DESCRIPTION  
+Qualifications: RN, Position requires individuals to push, pull, and/or lift 50 pounds on a regular basis. Position requires prolonged standing and walking each shift. Position requires the ability to grip, reach, bend, kneel, twist, and squat to perform duties. 
+  
+Certifications: CPR Graduate of an accredited registered professional nursing program is personally responsible for obtaining, and maintaining, a current RN license with the hiring state and/or compact licensure in which nursing duties are performed and must meet all state board of nursing requirements. Basic life support certification through the American Heart Association or successful completion of course within 30 days of hire. 
+  
+Job Summary: Utilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care for the assigned patients. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Performs duties and responsibilities in a manner consistent with our mission, values, and mercy service standards.
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position
+    [sitename] => giftednurses
+    [spec] => Psych
+    [assignmentid] => 545599
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15624
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 22 2023 15:23:56
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=777598 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital South ;City=Saint Louis ;State=MO ;Zip=63128 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=RN ;Specialty=Psychiatry ;Unit=Mercy ;Shift=07:00-19:00;# of Postions=1;Type=Travel;BillRate=$75.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Name Psych Acute Adult 2A - Mercy Hospital South - RN - Mercy Hospital South
+  
+Organization Mercy
+  
+Facility Mercy Hospital South
+  
+Unit Psychiatric Unit
+  
+Cost Center 15-446197
+  
+
+
+  
+
+
+  SHIFT INFO  
+Shift day
+  
+Shifts per week 3
+  
+Hours per shift 12
+  EXPERIENCE  
+Years of Experience One Year Plus
+  
+Specialties
+  
+Technologies
+  CERTIFICATIONS  
+Certifications
+  
+BLS
+-
+required
+  DESCRIPTION  
+Qualifications: RN, Position requires individuals to push, pull, and/or lift 50 pounds on a regular basis. Position requires prolonged standing and walking each shift. Position requires the ability to grip, reach, bend, kneel, twist, and squat to perform duties. 
+  
+Certifications: CPR Graduate of an accredited registered professional nursing program is personally responsible for obtaining, and maintaining, a current RN license with the hiring state and/or compact licensure in which nursing duties are performed and must meet all state board of nursing requirements. Basic life support certification through the American Heart Association or successful completion of course within 30 days of hire. 
+  
+Job Summary: Utilizes the nursing process to provide patient care. Maintains professional accountability for provision of patient care for the assigned patients. Evaluates the overall effectiveness of care provided by other direct care givers. Coordinates the patient care in conjunction with other departments. Maintains patient rights and confidentiality of patient information. Performs duties and responsibilities in a manner consistent with our mission, values, and mercy service standards.
+ General Comments
+ No. of Positions: 1/1.
+ Position creation reason:Vacant Position ;url=https://vendor.healthtrustws.com/positions/777598;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Mercy Hospital South - Travel
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

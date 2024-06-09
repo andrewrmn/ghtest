@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '27',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5652',
+  'Cf-Ray' => '83f4216b90644959-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 1.	Provides technical guidance to one or more nursing personnel in providing direct nursing care, monitoring the completion, quality and charting of nursing tasks. 2.	Observes documents in the medical record and reports on care given to patients by nursing team personnel and on incidents improving patients, employees and visitors. 3.	Encourages patients to help themselves within their capabilities, provides emotional support, displaying empathy and interest in their progress, allaying their fears. 4.	Accurately deliver medications to residents observes the 5 rights to this process. 5.	Assist in the development and implementation of an individualized treatment plan for each patient. 6.	Comply with evaluation, treatment documentation guidelines. 7.	Complete required documentation in an accurate and timely manner. 8.	Oversee care deliveries by the C.N.A. and C.M.A. 9.	Act in compliance with hospital, regulatory and professional standards and guidelines. 10.	Adheres to facility policies and procedures.11.	Demonstrates a current working knowledge and proficiency in use of equipment, instumentation and medications. 12.	Communicates patient plan of care and significant changes to all members of interdisciplinary team and to the patient, family and/or significant others. 13.	Successfully demonstrates competency in clinical skills necessary for implementation of ordered nursing care. 14.	Exercises informed judgement and uses individual competence and qualifications as criteria for prioritizing patient needs, seeking consultation, and performing duties to accomplish expected outcomes. 15.	Perform duties within facility policy and procedures, physician orders and standards of nursing practice. 16.	Able to recognize symptoms and signs in the patient that requires intervention and/or physician attention. 17.	Able to make rational and unconstrained decisions and acts in a calm manner and applies nursing skills and judgement in emergency situation. 18.	Assist patients with emotional and psychological issues and provide support to facilitate patient comfort and well being. Billing string = Washington County Hospital and Clinics 
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 61908
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 11300
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-07-01
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 02 2024 10:45:18
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;ID=0;SourceID=139711;Status=;Client=Washington County Hospital and Clinics;City=Washington;State=IA;Zip=52353;Start=7/1/2019;End=9/30/2019;Duration=91;Cert=Nursing;Specialty=Med-surg Adult;Unit=Med-surg Adult;Shift=days;# of Postions=1;Type=Travel;BillRate=$64.00;OTRate=74 ;OTRules=All Inclusive Rate + $10 ;ChargeRate= ;CallbackRate=74All Inclusive Rate + $10 ;CallbackRate=74All Inclusive Rate + $10 ;HolidayRate=No Call ;OnCallRateDescription= ;Orientation= ;Description=1.	Provides technical guidance to one or more nursing personnel in providing direct nursing care, monitoring the completion, quality and charting of nursing tasks. 2.	Observes documents in the medical record and reports on care given to patients by nursing team personnel and on incidents improving patients, employees and visitors. 3.	Encourages patients to help themselves within their capabilities, provides emotional support, displaying empathy and interest in their progress, allaying their fears. 4.	Accurately deliver medications to residents observes the 5 rights to this process. 5.	Assist in the development and implementation of an individualized treatment plan for each patient. 6.	Comply with evaluation, treatment documentation guidelines. 7.	Complete required documentation in an accurate and timely manner. 8.	Oversee care deliveries by the C.N.A. and C.M.A. 9.	Act in compliance with hospital, regulatory and professional standards and guidelines. 10.	Adheres to facility policies and procedures.11.	Demonstrates a current working knowledge and proficiency in use of equipment, instumentation and medications. 12.	Communicates patient plan of care and significant changes to all members of interdisciplinary team and to the patient, family and/or significant others. 13.	Successfully demonstrates competency in clinical skills necessary for implementation of ordered nursing care. 14.	Exercises informed judgement and uses individual competence and qualifications as criteria for prioritizing patient needs, seeking consultation, and performing duties to accomplish expected outcomes. 15.	Perform duties within facility policy and procedures, physician orders and standards of nursing practice. 16.	Able to recognize symptoms and signs in the patient that requires intervention and/or physician attention. 17.	Able to make rational and unconstrained decisions and acts in a calm manner and applies nursing skills and judgement in emergency situation. 18.	Assist patients with emotional and psychological issues and provide support to facilitate patient comfort and well being. Billing string = Washington County Hospital and Clinics;VMSPositionType=  AvgHoursPerWeek=  InterviewRequired=False;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 64
+    [facilityName] => Washington County Hospital and Clinics
+    [shiftDateEnd] => 2019-09-30
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

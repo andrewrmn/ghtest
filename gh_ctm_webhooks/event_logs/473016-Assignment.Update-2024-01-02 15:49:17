@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '22',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '9579',
+  'Cf-Ray' => '83f426b026bf4945-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+ Methodist Hospital South1905 Hwy 97 EastJourdanton, TX 78026Telephone: (830) 769-3515  About Methodist Hospital SouthOn July 1, 2017, South Texas Regional Medical Center became part of the Methodist Healthcare System family, the most preferred and respected healthcare provider in the area. With this change of ownership, we are now known as Methodist Hospital South. Even though our name has changed, the heart of our hospital remains; it just got a little bigger. The foundation we now stand on is faith-based and driven by our commitment to  Serving Humanity to Honor God .Our clinical team is comprised of healthcare professionals with years of training and experience. These doctors, nurses, technicians, and support team members also bring compassion to their work. They are committed to working together to help ensure that your medical needs are anticipated and addressed.We consider you and your family our teammates in this journey. You are our friends and our neighbors. And we remain your hometown hospital. On behalf of everyone at Methodist Hospital South, we thank you. We value your trust and will work tirelessly to exceed your expectations.For the second consecutive period, Methodist Hospital South received a Hospital Safety Grade of  A  from independent safety watchdog organization The Leapfrog Group for our efforts to protect patients from harm and provide quality health care. Honors and CertificationsTo find out more about Methodist Hospital South, please click on the links below.Hospital HighlightsFast Facts Browse nearbyRestaurantsNightlifeShopping   Unit Highlights: PLEASE READ EXPERIENCE FULLY!Hospital:  Methodist Hospital SouthLocation: Jourdanton , TXUnit: M/S (613)Classification: RN-M/SShift Detail: 7A-7:30P / 7P-7:30ABuilding/Floor/Suite information of unit :General InformationShift Details- Please correct information below  if needed: Quantity: 1Bill Rate: $66.00Assignment Length: 13 weeksShift/Workdays: 7A-7:30P / 7P-7:30AWeekend  RotatingCall Requirements: Discuss during the interviewGuaranteed Hours: 36 Special Skills/Experience required: 2 years  ***All travelers are required to float, while on the interview please inform traveler of the Methodist Floating Policy*** Unit Specifics - Information below is requested for better sourcing: Number of Beds: 51Patient Ratios: 1:6Unit staffing description- (unit secretaries and tech availability) : 1 CNAType of equipment : Alaris IV Pumps, PYXISDocumentation system: MeditechScheduling requirements: Every other weekendFloating policy: As needed Hospital Specifics: Certifications: BLS Hiring profileRequested Skill Set: Must have: (candidates without these skills will not be considered for the role) BLS Required2  Years of Hosp/Specialty ExperienceAbility to prioritize and implement an efficient nursing plan of care.Ability to perform a comprehensive, timely, and ongoing focused physical, psychosocial and pain assessments.I-CARE Values (Integrity, Compassion, Accountability, Respect, Excellence) Preferred Skills/Advanced Skills Needed: (candidates with these skills will be considered first) Competent in the use of electronic medical record documentationMeditech experience preferred Specialty/Unit Certifications Required: (RN) Active TX RN License ONLY- temp License will not be accepted Patient Experience Required: Understand the principles of the Studor group and AIDET Dress Code: Include requirements, but most of all not acceptable attire.Scrub ColorRN: Navy-scrub top and pant, Navy or white scrub jacketNail Policy   Clean and HealthyHair - hair should be neat and clean with no extreme styles or colors. Beards, mustaches and sideburns should be clean and neatly trimmedTattoos   Body art should be covered whenever possible. Body art that is not feasible to cover on a daily basis will be addressed individuallyPiercings   Visible piercings other than ears, is prohibitedOther  Unit Guidelines/Policies: Floating GuidelinesMethodist Acknowledgement FormAttendance Policies parseGeneralComments Comments
+N/A Contact: Jenester Outten Resource Manager: Jenester Outten
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 473016
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13775
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-01-30
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 02 2024 10:49:08
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=682767 ;Status=Open;Association=HWS ;Client=Methodist Hospital Atascosa ;City=Jourdanton ;State=TX ;Zip=78026 ;Start=ASAP;End=;Duration=91;Cert=Contract-RN-Med-surg(613)-7A-7P/13 weeks (682767) ;Specialty=Med/surg Unit (613) ;Unit=Med/surg Unit ;Shift=7:00 AM - 7:00 PM;# of Postions=1;Type=Travel;BillRate=$66.00;minBillRate=$66.00;Description=Position Description
+ Methodist Hospital South1905 Hwy 97 EastJourdanton, TX 78026Telephone: (830) 769-3515  About Methodist Hospital SouthOn July 1, 2017, South Texas Regional Medical Center became part of the Methodist Healthcare System family, the most preferred and respected healthcare provider in the area. With this change of ownership, we are now known as Methodist Hospital South. Even though our name has changed, the heart of our hospital remains; it just got a little bigger. The foundation we now stand on is faith-based and driven by our commitment to  Serving Humanity to Honor God .Our clinical team is comprised of healthcare professionals with years of training and experience. These doctors, nurses, technicians, and support team members also bring compassion to their work. They are committed to working together to help ensure that your medical needs are anticipated and addressed.We consider you and your family our teammates in this journey. You are our friends and our neighbors. And we remain your hometown hospital. On behalf of everyone at Methodist Hospital South, we thank you. We value your trust and will work tirelessly to exceed your expectations.For the second consecutive period, Methodist Hospital South received a Hospital Safety Grade of  A  from independent safety watchdog organization The Leapfrog Group for our efforts to protect patients from harm and provide quality health care. Honors and CertificationsTo find out more about Methodist Hospital South, please click on the links below.Hospital HighlightsFast Facts Browse nearbyRestaurantsNightlifeShopping   Unit Highlights: PLEASE READ EXPERIENCE FULLY!Hospital:  Methodist Hospital SouthLocation: Jourdanton , TXUnit: M/S (613)Classification: RN-M/SShift Detail: 7A-7:30P / 7P-7:30ABuilding/Floor/Suite information of unit :General InformationShift Details- Please correct information below  if needed: Quantity: 1Bill Rate: $66.00Assignment Length: 13 weeksShift/Workdays: 7A-7:30P / 7P-7:30AWeekend  RotatingCall Requirements: Discuss during the interviewGuaranteed Hours: 36 Special Skills/Experience required: 2 years  ***All travelers are required to float, while on the interview please inform traveler of the Methodist Floating Policy*** Unit Specifics - Information below is requested for better sourcing: Number of Beds: 51Patient Ratios: 1:6Unit staffing description- (unit secretaries and tech availability) : 1 CNAType of equipment : Alaris IV Pumps, PYXISDocumentation system: MeditechScheduling requirements: Every other weekendFloating policy: As needed Hospital Specifics: Certifications: BLS Hiring profileRequested Skill Set: Must have: (candidates without these skills will not be considered for the role) BLS Required2  Years of Hosp/Specialty ExperienceAbility to prioritize and implement an efficient nursing plan of care.Ability to perform a comprehensive, timely, and ongoing focused physical, psychosocial and pain assessments.I-CARE Values (Integrity, Compassion, Accountability, Respect, Excellence) Preferred Skills/Advanced Skills Needed: (candidates with these skills will be considered first) Competent in the use of electronic medical record documentationMeditech experience preferred Specialty/Unit Certifications Required: (RN) Active TX RN License ONLY- temp License will not be accepted Patient Experience Required: Understand the principles of the Studor group and AIDET Dress Code: Include requirements, but most of all not acceptable attire.Scrub ColorRN: Navy-scrub top and pant, Navy or white scrub jacketNail Policy   Clean and HealthyHair - hair should be neat and clean with no extreme styles or colors. Beards, mustaches and sideburns should be clean and neatly trimmedTattoos   Body art should be covered whenever possible. Body art that is not feasible to cover on a daily basis will be addressed individuallyPiercings   Visible piercings other than ears, is prohibitedOther  Unit Guidelines/Policies: Floating GuidelinesMethodist Acknowledgement FormAttendance Policies parseGeneralComments Comments
+N/A Contact: Jenester Outten Resource Manager: Jenester Outten ;Buyer=Jenester Outten ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=682767#!/position/manage/682767;VMSPositionType=Travel minPayRate=$66.00;maxPayRate=$66.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 66
+    [facilityName] => Methodist Hospital Atascosa
+    [shiftDateEnd] => 2023-05-01
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

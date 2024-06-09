@@ -1,0 +1,462 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '38',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6299',
+  'Cf-Ray' => '8307b8db30ef1836-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:TRAVEL RN CSU7P - 7A13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS/ACLS REQUIRED
+ General CommentsUnit Information:
+   CSU (Cardiac Stepdown Unit)             Location: Henrico- Forest              
+Address: 1602   Skipwith Drive, Richmond, VA 23229
+         
+Floor: 4th
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+   Number of Beds   18
+   
+ 
+
+
+
+
+
+   Number of Staff   38 total
+   
+ 
+
+
+
+
+
+   Type of staff:
+   
+o
+
+   Day Shift   5 RN 1 CC and 2 PCT   (ideal)
+   
+o
+
+   Night Shift   5 nurses and 1 pct
+   
+ 
+
+
+
+
+
+   Patient Ratios   4:1
+   
+ 
+
+
+
+
+
+   Type of equipment   central lines,   pca, foley, chest tubes, pacer wires, telemetry, drains
+   
+ 
+
+
+
+
+
+   EMR   Meditech
+   
+
+
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+ Able to read cardiac monitor
+   
+ 
+
+
+
+
+
+ Able to give narcotics
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+ Stepdown experience 
+
+   
+ 
+
+
+
+
+
+ Cardiac knowledge
+   
+
+
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+ CABG, valve replacement, TAVR, Mitral clip,   thoracotomy, Afib, CHF, MI
+   
+ 
+
+
+
+
+
+ Cardiac drips (popular Cardizem amiodarone,   heparin, nitro)
+ 
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+   
+Team player   critical   thinking   kind and compassionate
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+   BLS, ACLS
+   Floating Area(s):   
+ 
+
+
+
+
+
+   Tele and med surg
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+   Scrub Color/Attire   all navy 
+   
+
+
+             
+Unit Guidelines/Policies:
+   
+ 
+
+
+
+
+
+   VS and   assessments q4h 
+   
+ 
+
+
+
+
+
+   Rhythm   interpretation q4h
+   
+
+
+             Weekends and On call:   
+ 
+
+
+
+
+
+ Every other weekend   overtime available
+    [sitename] => giftednurses
+    [spec] => PCU
+    [assignmentid] => 541263
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5469
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 04 2023 18:10:12
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=771078 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HENRICO DOCTORS HOSPITAL-FOREST VA ;City=RICHMOND ;State=VA ;Zip=23229 ;Start=11/26/2023;End=2/25/2024;Duration=91;Cert=RN ;Specialty=PCU ;Unit=CAPITAL DIVISION (20) ;Shift=7P - 7A;# of Postions=1;Type=Travel;BillRate=$85.00;OTRate=93 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:TRAVEL RN CSU7P - 7A13 WEEKS
+2 YEARS EXPERIENCE IN A HOPSITAL SETTING REQUIREDMUST HAVE ACTIVE COMPACT LICENSE AT SUBMISSION
+BLS/ACLS REQUIRED
+ General CommentsUnit Information:
+   CSU (Cardiac Stepdown Unit)             Location: Henrico- Forest              
+Address: 1602   Skipwith Drive, Richmond, VA 23229
+         
+Floor: 4th
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+   Number of Beds   18
+   
+ 
+
+
+
+
+
+   Number of Staff   38 total
+   
+ 
+
+
+
+
+
+   Type of staff:
+   
+o
+
+   Day Shift   5 RN 1 CC and 2 PCT   (ideal)
+   
+o
+
+   Night Shift   5 nurses and 1 pct
+   
+ 
+
+
+
+
+
+   Patient Ratios   4:1
+   
+ 
+
+
+
+
+
+   Type of equipment   central lines,   pca, foley, chest tubes, pacer wires, telemetry, drains
+   
+ 
+
+
+
+
+
+   EMR   Meditech
+   
+
+
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+   candidates without these skills will not be considered for the role.
+   
+ 
+
+
+
+
+
+ Able to read cardiac monitor
+   
+ 
+
+
+
+
+
+ Able to give narcotics
+   
+
+
+   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+ Stepdown experience 
+
+   
+ 
+
+
+
+
+
+ Cardiac knowledge
+   
+
+
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+ CABG, valve replacement, TAVR, Mitral clip,   thoracotomy, Afib, CHF, MI
+   
+ 
+
+
+
+
+
+ Cardiac drips (popular Cardizem amiodarone,   heparin, nitro)
+ 
+   
+
+
+   Best personality Fit:   
+ 
+
+
+
+
+
+   
+Team player   critical   thinking   kind and compassionate
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+   BLS, ACLS
+   Floating Area(s):   
+ 
+
+
+
+
+
+   Tele and med surg
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+   Scrub Color/Attire   all navy 
+   
+
+
+             
+Unit Guidelines/Policies:
+   
+ 
+
+
+
+
+
+   VS and   assessments q4h 
+   
+ 
+
+
+
+
+
+   Rhythm   interpretation q4h
+   
+
+
+             Weekends and On call:   
+ 
+
+
+
+
+
+ Every other weekend   overtime available ;url=https://vendor.healthtrustws.com/positions/771078;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Henrico Doctors' Hospital Travel- Forest Campus
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,68 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2257',
+  'Cf-Ray' => '84ca458b22dd23c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 03/24/2021 1419 MDTJackie Pittmann
+                            
+                            
+                                10:30am-9pm These techs would be expected to participate in the monthly call rotation. This consists of 1-2 24 hour weekend calls and 4-6 weekday (11p-7a) call shifts per month. NM to review profile, interview, extend offer.
+ RatePlan:AH-Rapid Response (Covid19) MAY 1
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 221212
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 9547
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-05-31
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => January, 28 2024 10:29:28
+    [daysPerWeek] => 5
+    [orderNote] => Source=ShiftWise;SourceID=9168717 ;Status=Open;Association=CCS WFS: Seton HealthCare Network ;Client=AH: Seton Medical Center - Williamson ;City=Round Rock ;State=TX ;Zip=78665 ;Start=5/31/2021;End=8/30/2021;Duration=92;Cert=Surgical Technician ;Specialty=OR ;Unit=SMCW Surgery ;Shift=NOC 8.00 Hrs;# of Postions=1;Type=Travel;OTRate=Multiplier 1.350 ;OTRules=Multiplier 1.350 ;ChargeRate=Additive 4.000 ;CallbackRate=Multiplier 1.350 ;HolidayRate=Multiplier 1.350 ;OnCallRateDescription=Flat 6.000 ;Orientation=Flat 0.000 ;Description=03/24/2021 1419 MDTJackie Pittmann
+                            
+                            
+                                10:30am-9pm These techs would be expected to participate in the monthly call rotation. This consists of 1-2 24 hour weekend calls and 4-6 weekday (11p-7a) call shifts per month. NM to review profile, interview, extend offer.
+ RatePlan:AH-Rapid Response (Covid19) MAY 1 ;url=https://automated.shiftwise.net/esp/order.aspx?order_id=71845C7263FB6A72E25172180816F662;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => Ascension Seton Williamson Hospital
+    [shiftDateEnd] => 2021-08-30
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

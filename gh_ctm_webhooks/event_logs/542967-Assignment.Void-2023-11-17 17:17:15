@@ -1,0 +1,67 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '10355',
+  'Cf-Ray' => '8279a04bb21f1464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => **Traveler must meet all minimum requirements below to be consider.**Do not submit traveler who have or will have expiring licenses and/or certifications during time frame of entire assignment. Traveler will automatically be declined.**Only submit traveler who can work schedule in posting and interested in the unit.
+Join the #1 hospital in Wisconsin!
+
+We are seeking a  Registered Nurse:Work on a 16- bed unit with both general and intermediate level patients.Care for medical cardiovascular patient populations.Nurses who work as a team and help one another succeed.Nurses who participate in shared governance, with a unit-based council to help support and drive quality improvement initiatives and lead practice change.Nurses who are highly engaged in acquiring new skills and integrating evidence-based nursing practices into the unit cultureAn environment that is patient and family focused including daily care team visits with the entire team but most important the patient as an active participant.Minimum Requirements:  Facility Requirement:    Traveler must have permanent address outside50mile radius of Madison (address must be included in       traveler's profile).  Experience:    IMCexperiencerequiredCardiologyexperiencepreferredTraveler must have completed two years of acute care       experience within last 3 years.   Traveler must have experience in an Academic Level 1 -       Trauma center or similar size hospital.   Successfully completed traveler assignment       (13 weeks) preferred.  Licensure and Certification:   Traveler must have WI nursing license or compact       license from their permanent address state.*Will consider candidates without WI or compact license       but must apply for a temporary license under the Wisconsin Act 10 order       within 48 hours of offer accepted and provide screenshot of application       submitted. Traveler must complete this requirement prior to being       cleared to start.   BLS and ACLS   must       be certified through American Heart Association ONLY  Reference   Needs 2 references from recent work       environment/assignments (supervisor or manager only).  Telemetry    Traveler must have Basic Arrhythmia experience. Will       be required to pass Telemetry test prior to arrival at UWHC. (Not for       clinic positions)   Telemetry Competency: (Please note the       Inpatient/Outpatient OR RN s do not complete telemetry)All agency       travelers must demonstrate competency in interpretation of cardiac       rhythms before your orientation begins. Previous completion of PALS,       ACLS, etc. is not acceptable as a demonstration of this competency.       Instead, you will be expected to satisfactorily complete a 20 question       test which consists of multiple choice questions and write-in rhythm       identification. You must pass with an overall score of 80% and correctly       identify 100% of the 4 life-threatening rhythms for your patient       population (adult or peds). If there are any questions, please refer to       earlier communication from UWHC to your agency.  Floating    Travelers       are the first to float to floors working with children up to 1 year of       age and/or based on the traveler's competency skills/experience. The Traveler may       have shifts scheduled in multiple units, depending on the current       staffing needs and/or different locations within the       organization.       During the traveler s assignment, if the primary unit no longer has a       need, shifts will be re-assigned to another unit in order to complete       contract. Location:University Hospital, 600 Highland Ave, Madison, WI 53792Parking:Permit required through UW Transportation. University Hospitalin Madison is a Magnet -designated facility that sranked Wisconsin s #1 hospitaland considered one of the nation's leading hospitals, teaching institutions and referral centers.   Additional Information: 	UW Health is moving away from using outdated file formats for Microsoft (Word, PowerPoint, and Excel). Profiles will need to be submitted in the following format: .docx, .xlsx and .pptx file types or our IS department will be blocking them and we will no longer receive the files nor able to forward internal to our hiring managers.-------------------------------------   	QuantiFERON/TSpot results will NOT be accepted for any reason   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => IMC
+    [assignmentid] => 542967
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3538
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 17 2023 12:17:15
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261241 ;Status=Open;Association=UW Health ;Client=UW Health University Hospital ;City=Madison ;State=WI ;Zip=53792 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Nursing ;Specialty=IMC (Intermediate Care), Cardiology ;Unit=IMC (Intermediate Care), Cardiology ;Shift=36 hrs/week, Evening/Night, primarily 1900-0730. Every other weekend, some holidays, no call.;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$108.00;OTRate=118 ;OTRules=By The Week, after 40, ;CallbackRate=108 (All Inclusive Rate) ;HolidayRate=118 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=**Traveler must meet all minimum requirements below to be consider.**Do not submit traveler who have or will have expiring licenses and/or certifications during time frame of entire assignment. Traveler will automatically be declined.**Only submit traveler who can work schedule in posting and interested in the unit.
+Join the #1 hospital in Wisconsin!
+
+We are seeking a  Registered Nurse:Work on a 16- bed unit with both general and intermediate level patients.Care for medical cardiovascular patient populations.Nurses who work as a team and help one another succeed.Nurses who participate in shared governance, with a unit-based council to help support and drive quality improvement initiatives and lead practice change.Nurses who are highly engaged in acquiring new skills and integrating evidence-based nursing practices into the unit cultureAn environment that is patient and family focused including daily care team visits with the entire team but most important the patient as an active participant.Minimum Requirements:  Facility Requirement:    Traveler must have permanent address outside50mile radius of Madison (address must be included in       traveler's profile).  Experience:    IMCexperiencerequiredCardiologyexperiencepreferredTraveler must have completed two years of acute care       experience within last 3 years.   Traveler must have experience in an Academic Level 1 -       Trauma center or similar size hospital.   Successfully completed traveler assignment       (13 weeks) preferred.  Licensure and Certification:   Traveler must have WI nursing license or compact       license from their permanent address state.*Will consider candidates without WI or compact license       but must apply for a temporary license under the Wisconsin Act 10 order       within 48 hours of offer accepted and provide screenshot of application       submitted. Traveler must complete this requirement prior to being       cleared to start.   BLS and ACLS   must       be certified through American Heart Association ONLY  Reference   Needs 2 references from recent work       environment/assignments (supervisor or manager only).  Telemetry    Traveler must have Basic Arrhythmia experience. Will       be required to pass Telemetry test prior to arrival at UWHC. (Not for       clinic positions)   Telemetry Competency: (Please note the       Inpatient/Outpatient OR RN s do not complete telemetry)All agency       travelers must demonstrate competency in interpretation of cardiac       rhythms before your orientation begins. Previous completion of PALS,       ACLS, etc. is not acceptable as a demonstration of this competency.       Instead, you will be expected to satisfactorily complete a 20 question       test which consists of multiple choice questions and write-in rhythm       identification. You must pass with an overall score of 80% and correctly       identify 100% of the 4 life-threatening rhythms for your patient       population (adult or peds). If there are any questions, please refer to       earlier communication from UWHC to your agency.  Floating    Travelers       are the first to float to floors working with children up to 1 year of       age and/or based on the traveler's competency skills/experience. The Traveler may       have shifts scheduled in multiple units, depending on the current       staffing needs and/or different locations within the       organization.       During the traveler s assignment, if the primary unit no longer has a       need, shifts will be re-assigned to another unit in order to complete       contract. Location:University Hospital, 600 Highland Ave, Madison, WI 53792Parking:Permit required through UW Transportation. University Hospitalin Madison is a Magnet -designated facility that sranked Wisconsin s #1 hospitaland considered one of the nation's leading hospitals, teaching institutions and referral centers.   Additional Information: 	UW Health is moving away from using outdated file formats for Microsoft (Word, PowerPoint, and Excel). Profiles will need to be submitted in the following format: .docx, .xlsx and .pptx file types or our IS department will be blocking them and we will no longer receive the files nor able to forward internal to our hiring managers.-------------------------------------   	QuantiFERON/TSpot results will NOT be accepted for any reason   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261241;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 108
+    [facilityName] => University of Wisconsin Hospital and Clinics
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,96 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3114',
+  'Cf-Ray' => '8307b7c3c5fe1465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position: PICU
+Number of Needs: 1
+Unit/Cost Center: PICU
+Start Date: ASAP
+Assignment Duration: 13 weeks
+Specialty Requirements/Years of Experience: minimum 2 years experience
+Certifications: BLS, PALS, ACLS
+Weekend/On Call Requirements: every other weekend required
+Floating Requirements: Floating required to Med Surg floor if no pediatric patients, would not take assignment but  tasks 
+First Time Traveler (Y/N): Y
+Scrub Color: Navy Blue
+
+ Modified Time:12/4/2023 5:00:00 AM
+ Account Manager: Jason Dellarusso
+ Account Manager Email: Jason.Dellarusso@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceNeed 1.5 weeks/10 calendar days + (Quick Starts okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance.
+    [sitename] => giftednurses
+    [spec] => PICU
+    [assignmentid] => 545587
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12679
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 04 2023 18:09:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2315907 ;Status=Open;Association=Qualivis EPA ;Client=Lake Charles Memorial Hospital ;City=Lake Charles ;State=LA ;Zip=70601 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Registered Nurse ;Specialty=PICU ;Unit=PEDI ICU, 6505 ;Shift=Night 3x12-Hour (19:00 - 07:00);# of Postions=1;Type=Travel;BillRate=$100.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Position: PICU
+Number of Needs: 1
+Unit/Cost Center: PICU
+Start Date: ASAP
+Assignment Duration: 13 weeks
+Specialty Requirements/Years of Experience: minimum 2 years experience
+Certifications: BLS, PALS, ACLS
+Weekend/On Call Requirements: every other weekend required
+Floating Requirements: Floating required to Med Surg floor if no pediatric patients, would not take assignment but  tasks 
+First Time Traveler (Y/N): Y
+Scrub Color: Navy Blue
+
+ Modified Time:12/4/2023 5:00:00 AM
+ Account Manager: Jason Dellarusso
+ Account Manager Email: Jason.Dellarusso@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceNeed 1.5 weeks/10 calendar days + (Quick Starts okay) at minimum lead time from Booking to Start to account for Credentialing/Compliance. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2315907/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => Lake Charles Memorial Hospital-Travel
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

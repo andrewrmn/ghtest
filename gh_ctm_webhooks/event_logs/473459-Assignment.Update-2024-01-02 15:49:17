@@ -1,0 +1,64 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7335',
+  'Cf-Ray' => '83f426abb4ab183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+ About Methodist Hospital SouthOn July 1, 2017, South Texas Regional Medical Center became part of the Methodist Healthcare System family, the most preferred and respected healthcare provider in the area. With this change of ownership, we are now known as Methodist Hospital South. Even though our name has changed, the heart of our hospital remains; it just got a little bigger. The foundation we now stand on is faith-based and driven by our commitment to  Serving Humanity to Honor God .       Unit Highlights:Hospital:  Methodist Hospital SouthLocation: Jourdanton, TXUnit: ICU (650)Classification: RN-ICUShift Detail:  6:00A   6:30P / 6P   6:30ABuilding/Floor/Suite information of unit: Main HospitalGeneral InformationShift Details- Please correct information below  if needed: Quantity: _Rate $70.00 Assignment Length: 13 weeksShift/Workdays: 6:00A   6:30P / 6P   6:30A Weekend   Every other Call Requirements: YesGuaranteed Hours: 36 Special Skills/Experience required: 2 Years  Other Helpful or Misc. Information: ***All travelers are required to float, while on the interview please inform traveler of the Methodist Floating Policy*** Tell us about the unit(s): Number of Beds -6Number of Staff   6Type of staff: Day Shift   1 charge, and 1Monitor TechNight Shift - 1 charge, and 1Monitor TechPatient Ratios   2 or 3:1Type of equipment  Monitors, vents other ICU equipmentEMR  HMSDocumentation system: MeditechFloating policy: As needed Typical hiring profileRequested Skill Set:  (Travel RNs) Must have:  candidates without these skills will not be considered for the role. ACLSPALS2  yrs. ICU experienceBe willing to float a medical surgical telemetry unit during low census. Experience with assisting with TEE / CardioversionExperience in caring for patients receiving cardiac drips, diuretic drips along with patients on ventilators, BiPAP, C-PAP, CVP and ART line management Preferred Skills/Advanced Skills Needed: (candidates with these skills will be considered first)   Dobutamine and Lexiscan Stress tests Meditech Experience Preferred  Specialty/Unit Certifications Required: (RN) Active TX RN License   Temp license will NOT be accepted  Procedures performed on unit:     Patients receiving cardiac drips, Diuretic drips patients on ventilators, BiPAP, C-PAPThoracentesis; paracentesis,  Dress Code: Include requirements, but most of all not acceptable attire.Scrub ColorRN: Navy-scrub top and pant, Navy or white scrub jacketNail Policy   Clean and HealthyHair - hair should be neat and clean with no extreme styles or colors. Beards, mustaches and sideburns should be clean and neatly trimmedTattoos   Body art should be covered whenever possible. Body art that is not feasible to cover on a daily basis will be addressed individuallyPiercings   Visible piercings other than ears, is prohibitedUnit Guidelines/Policies: Floating GuidelinesMethodist Acknowledgement FormAttendance Policies   parseGeneralComments Comments
+N/A Contact: Jenester Outten Resource Manager: Jenester Outten
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 473459
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13775
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-02-06
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => January, 02 2024 10:49:08
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=682789 ;Status=Open;Association=HWS ;Client=Methodist Hospital Atascosa ;City=Jourdanton ;State=TX ;Zip=78026 ;Start=ASAP;End=;Duration=91;Cert=Contract-RN-ICU(650)-7P-7A/13 weeks (682789) ;Specialty=ICU (650) ;Unit=ICU ;Shift=7:00 PM - 7:00 AM;# of Postions=1;Type=Travel;BillRate=$87.00;Description=Position Description
+ About Methodist Hospital SouthOn July 1, 2017, South Texas Regional Medical Center became part of the Methodist Healthcare System family, the most preferred and respected healthcare provider in the area. With this change of ownership, we are now known as Methodist Hospital South. Even though our name has changed, the heart of our hospital remains; it just got a little bigger. The foundation we now stand on is faith-based and driven by our commitment to  Serving Humanity to Honor God .       Unit Highlights:Hospital:  Methodist Hospital SouthLocation: Jourdanton, TXUnit: ICU (650)Classification: RN-ICUShift Detail:  6:00A   6:30P / 6P   6:30ABuilding/Floor/Suite information of unit: Main HospitalGeneral InformationShift Details- Please correct information below  if needed: Quantity: _Rate $70.00 Assignment Length: 13 weeksShift/Workdays: 6:00A   6:30P / 6P   6:30A Weekend   Every other Call Requirements: YesGuaranteed Hours: 36 Special Skills/Experience required: 2 Years  Other Helpful or Misc. Information: ***All travelers are required to float, while on the interview please inform traveler of the Methodist Floating Policy*** Tell us about the unit(s): Number of Beds -6Number of Staff   6Type of staff: Day Shift   1 charge, and 1Monitor TechNight Shift - 1 charge, and 1Monitor TechPatient Ratios   2 or 3:1Type of equipment  Monitors, vents other ICU equipmentEMR  HMSDocumentation system: MeditechFloating policy: As needed Typical hiring profileRequested Skill Set:  (Travel RNs) Must have:  candidates without these skills will not be considered for the role. ACLSPALS2  yrs. ICU experienceBe willing to float a medical surgical telemetry unit during low census. Experience with assisting with TEE / CardioversionExperience in caring for patients receiving cardiac drips, diuretic drips along with patients on ventilators, BiPAP, C-PAP, CVP and ART line management Preferred Skills/Advanced Skills Needed: (candidates with these skills will be considered first)   Dobutamine and Lexiscan Stress tests Meditech Experience Preferred  Specialty/Unit Certifications Required: (RN) Active TX RN License   Temp license will NOT be accepted  Procedures performed on unit:     Patients receiving cardiac drips, Diuretic drips patients on ventilators, BiPAP, C-PAPThoracentesis; paracentesis,  Dress Code: Include requirements, but most of all not acceptable attire.Scrub ColorRN: Navy-scrub top and pant, Navy or white scrub jacketNail Policy   Clean and HealthyHair - hair should be neat and clean with no extreme styles or colors. Beards, mustaches and sideburns should be clean and neatly trimmedTattoos   Body art should be covered whenever possible. Body art that is not feasible to cover on a daily basis will be addressed individuallyPiercings   Visible piercings other than ears, is prohibitedUnit Guidelines/Policies: Floating GuidelinesMethodist Acknowledgement FormAttendance Policies   parseGeneralComments Comments
+N/A Contact: Jenester Outten Resource Manager: Jenester Outten ;Buyer=Jenester Outten ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=682789#!/position/manage/682789;VMSPositionType=Travel InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 87
+    [facilityName] => Methodist Hospital Atascosa
+    [shiftDateEnd] => 2023-05-08
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

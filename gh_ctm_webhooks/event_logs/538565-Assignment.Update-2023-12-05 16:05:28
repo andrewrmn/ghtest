@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '216',
+  'Ki-Request-Colo' => '658',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6215',
+  'Cf-Ray' => '830d87dd16a81259-ORD',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Overview:The Registered Nurse coordinates the plan of care, provides direct age appropriate nursing interventions and patient education, by collaborating with ancillary, nursing and other patient team personnel. Directs the team of CNA s, LPN s and Ward Secretaries. Works under the supervision of the nurse manager and/or house supervisor.Essential Functions:a) Uses acceptable standards of practice based on nursing process and theory to help theindividual/family/group, with complex and unpredictable needs, identify and meet basic age-appropriate health needs. The nurse coordinates care of the individual/family/group using a multidisciplinary holistic approach.b) Promotes a climate in which consumers can act in their own interest or intervenes when they are unable to do so.c) Uses the nursing process and theory to provide age-appropriate individual/family/guardian/designated surrogate education using a wide range of teaching activities to promote health.d) Works to achieve desired health care outcomes by effectively utilizing human and material resources.e) Is accountable for the ethical, legal and professional responsibilities related to nursing practice across all the roles, within the scope of practice.Physical Demands and Working Conditions:Physical Demands: Ability to lift twenty (20) pounds. Moving, lifting or transferring of patients may involve lifting of up to fifty (50) pounds,as well as assist with weights of more than one-hundred (100) pounds. Ability to stand for extended periods. Fine motor skills. Visual acuity.Qualifications  Skills:a)Education: Graduation from an accredited nursing program with an Associates, diploma or Bachelor s degree.b)Training and Experience: Experience is preferred, but may not be required. Orientation is based on previous knowledge and experience. Additional education/training in related fields is considered on an individual basis. BCLS required.c)Job Knowledge: Encompass a wide range of nursing, psycho-social and medical information which includes nursing process, communications, problem-solving, critical thinking skills, assessment, and prioritizing skills.   Additional Information:Traveler's perm address must be at least 75 miles away from our facility. No local travelers will be considered. **Colorado Adult Protective Services (CAPS) check REQUIRED** https://www.colorado.gov/ccu   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 538565
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 2315
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 05 2023 11:05:20
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=260458 ;Status=Open;Association=Montrose Memorial Hospital ;Client=Montrose Memorial Hospital ;City=Montrose ;State=CO ;Zip=81401 ;Start=11/6/2023;End=2/5/2024;Duration=91;Cert=Nursing ;Specialty=Med-surg Adult ;Unit=Med-surg Adult ;Shift=Nights, Weekends 3 - 12's;# of Postions=2;Guaranteed Hours=36;Type=Travel;BillRate=$80.00;OTRate=90 ;OTRules=By The Week, after 40, ;ChargeRate=2 (Charge Rate Differential) ;HolidayRate=90 (All Inclusive Rate + $10) ;OnCallRateDescription=No Call ;Description=Position Overview:The Registered Nurse coordinates the plan of care, provides direct age appropriate nursing interventions and patient education, by collaborating with ancillary, nursing and other patient team personnel. Directs the team of CNA s, LPN s and Ward Secretaries. Works under the supervision of the nurse manager and/or house supervisor.Essential Functions:a) Uses acceptable standards of practice based on nursing process and theory to help theindividual/family/group, with complex and unpredictable needs, identify and meet basic age-appropriate health needs. The nurse coordinates care of the individual/family/group using a multidisciplinary holistic approach.b) Promotes a climate in which consumers can act in their own interest or intervenes when they are unable to do so.c) Uses the nursing process and theory to provide age-appropriate individual/family/guardian/designated surrogate education using a wide range of teaching activities to promote health.d) Works to achieve desired health care outcomes by effectively utilizing human and material resources.e) Is accountable for the ethical, legal and professional responsibilities related to nursing practice across all the roles, within the scope of practice.Physical Demands and Working Conditions:Physical Demands: Ability to lift twenty (20) pounds. Moving, lifting or transferring of patients may involve lifting of up to fifty (50) pounds,as well as assist with weights of more than one-hundred (100) pounds. Ability to stand for extended periods. Fine motor skills. Visual acuity.Qualifications  Skills:a)Education: Graduation from an accredited nursing program with an Associates, diploma or Bachelor s degree.b)Training and Experience: Experience is preferred, but may not be required. Orientation is based on previous knowledge and experience. Additional education/training in related fields is considered on an individual basis. BCLS required.c)Job Knowledge: Encompass a wide range of nursing, psycho-social and medical information which includes nursing process, communications, problem-solving, critical thinking skills, assessment, and prioritizing skills.   Additional Information:Traveler's perm address must be at least 75 miles away from our facility. No local travelers will be considered. **Colorado Adult Protective Services (CAPS) check REQUIRED** https://www.colorado.gov/ccu   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260458;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => Montrose Memorial Hospital Travel
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

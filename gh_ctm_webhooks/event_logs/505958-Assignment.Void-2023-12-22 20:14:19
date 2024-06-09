@@ -1,0 +1,67 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1528',
+  'Cf-Ray' => '839b07cd03531832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 8 weeks +
+40 hrs/wk
+M-Fr 7:30a-4p
+On call self-scheduling 8-10 days a month which includes at least 1 weekend.
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 505958
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13400
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-01-07
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 16:30
+    [whenmodified] => December, 22 2023 15:14:19
+    [daysPerWeek] => 4
+    [orderNote] => Source=EinsteinTrinity;SourceID=43710 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne Siouxland Medical Center ;City=Sioux City ;State=IA ;Zip=51102 ;Start=12/17/2023;End=2/10/2024;Duration=55;Cert=RN Cath lab ;Specialty=Cardiac Cath Lab ;Unit=*Registered Nurse-Cath Lab-Cardiac Cath Lab ;Shift=07:30:00 - 16:00:00;# of Postions=1;Type=Travel;BillRate=$89.00;OTRate=115.70 ;ChargeRate=92.00 ;CallbackRate=115.70 ;HolidayRate=115.70 ;Description=8 weeks +
+40 hrs/wk
+M-Fr 7:30a-4p
+On call self-scheduling 8-10 days a month which includes at least 1 weekend. ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 89
+    [facilityName] => Mercy Medical Center - Sioux City Travel
+    [shiftDateEnd] => 2024-03-02
+    [shiftStartTime] => 07:30
+    [subjectID] => 
+)

@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '22',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '8251',
+  'Cf-Ray' => '83468eafe1444945-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Escape the hustle and bustle of the big city and embark on a thrilling adventure in the breathtaking state of Vermont. Immerse yourself in the natural beauty of the Northeast Kingdom, where outdoor enthusiasts thrive with endless opportunities for excitement!Discover the exhilaration of skiing at Burke Mountain or conquer the trails at Kingdom Trails, perfect for both fat biking and snowshoeing. Explore the wonders of Vermont and indulge in a multitude of thrilling activities. Vermont's Northeast Kingdom is an outdoor wonderland, offering a paradise of adventures for you to enjoy!The RN charge nurse/clinical coordinator is responsible for the organization of the unit to help staff provide quality care to the patients. The charge nurse/Clinical Coordinator serves as a clinical resource person and takes a leadership role in managing and coordinating patient care for patients during their hospital stay. Assesses, plans, delegates and evaluates care delivered to the Med/Surg/Pedi patients during the assigned shift by directing and supervising care provided; interprets the standards of care for the unit and performs duties in any nursing capacity as needed.We prioritize holistic care, ensuring that patients' age, physiological, spiritual, psychosocial, and developmental needs are met with compassion and proficiency. You will be accountable to the Unit Director and work closely with the Nursing Supervisor during your shift, fostering a collaborative and supportive environment.To join our team, we require a minimum of three years' acute care experience, with preference given to candidates with Meditech familiarity. Possessing a current Vermont RN or multi state licensure, BCLS and ALCS certifications are essential, while Med Surg certification is highly desired. Patients on our Med Surg unit are of all ages. Nestled in the heart of Vermont's historic Northeast Kingdom, NVRH is a cherished 25-bed independent and nonprofit critical access hospital. Renowned for its unspoiled beauty and year-round recreational activities, this region is a haven for those seeking a vibrant and fulfilling lifestyle. At NVRH, we deliver primary and preventive care, surgical and specialty services, inpatient and outpatient care, and round-the-clock emergency services manned by our dedicated board-certified physicians.We understand the importance of a seamless onboarding process, and therefore, we request that all required credentials be uploaded three business days prior to your start date. This ensures a prompt and hassle-free integration into our remarkable team.In addition to this incredible opportunity, we also offer housing options conveniently located a mere 10 minutes from NVRH. Enjoy the comfort of a private dorm room and share common spaces with fellow professionals. All utilities are included, and the premises are located on a high school campus. Please note we have a limited number of dorms and one may not always be available but we do have a wait list. For more housing information, or to reserve a dorm room, please reach out to Erin Unsworth at e.unsworth@nvrh.org. Join us at NVRH, where excitement meets exceptional healthcare in the captivating realm of Vermont's Northeast Kingdom!   Additional Information:**Orientation will be the 2nd and 4th Monday of the month**   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 541874
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9983
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-25
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 12 2023 09:11:29
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=260874 ;Status=Open;Association=Northeastern Vermont Regional Hospital ;Client=Northeastern Vermont Regional Hospital ;City=St Johnsbury ;State=VT ;Zip='05819 ;Start=12/10/2023;End=3/10/2024;Duration=91;Cert=Nursing ;Specialty=Med-surg Peds, Med-Surg Ortho, Med-surg Adult ;Unit=Med-surg Peds, Med-Surg Ortho, Med-surg Adult ;Shift=Varied 8 and 12 hour night shifts.;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$90.00;OTRate=100 ;OTRules=By The Week, after 40, ;ChargeRate=2 (Charge Rate Differential) ;CallbackRate=95 (All Inclusive Rate + $5) ;HolidayRate=100 (All Inclusive Rate + $10) ;OnCallRateDescription=$4 per hour pager ;Description=Escape the hustle and bustle of the big city and embark on a thrilling adventure in the breathtaking state of Vermont. Immerse yourself in the natural beauty of the Northeast Kingdom, where outdoor enthusiasts thrive with endless opportunities for excitement!Discover the exhilaration of skiing at Burke Mountain or conquer the trails at Kingdom Trails, perfect for both fat biking and snowshoeing. Explore the wonders of Vermont and indulge in a multitude of thrilling activities. Vermont's Northeast Kingdom is an outdoor wonderland, offering a paradise of adventures for you to enjoy!The RN charge nurse/clinical coordinator is responsible for the organization of the unit to help staff provide quality care to the patients. The charge nurse/Clinical Coordinator serves as a clinical resource person and takes a leadership role in managing and coordinating patient care for patients during their hospital stay. Assesses, plans, delegates and evaluates care delivered to the Med/Surg/Pedi patients during the assigned shift by directing and supervising care provided; interprets the standards of care for the unit and performs duties in any nursing capacity as needed.We prioritize holistic care, ensuring that patients' age, physiological, spiritual, psychosocial, and developmental needs are met with compassion and proficiency. You will be accountable to the Unit Director and work closely with the Nursing Supervisor during your shift, fostering a collaborative and supportive environment.To join our team, we require a minimum of three years' acute care experience, with preference given to candidates with Meditech familiarity. Possessing a current Vermont RN or multi state licensure, BCLS and ALCS certifications are essential, while Med Surg certification is highly desired. Patients on our Med Surg unit are of all ages. Nestled in the heart of Vermont's historic Northeast Kingdom, NVRH is a cherished 25-bed independent and nonprofit critical access hospital. Renowned for its unspoiled beauty and year-round recreational activities, this region is a haven for those seeking a vibrant and fulfilling lifestyle. At NVRH, we deliver primary and preventive care, surgical and specialty services, inpatient and outpatient care, and round-the-clock emergency services manned by our dedicated board-certified physicians.We understand the importance of a seamless onboarding process, and therefore, we request that all required credentials be uploaded three business days prior to your start date. This ensures a prompt and hassle-free integration into our remarkable team.In addition to this incredible opportunity, we also offer housing options conveniently located a mere 10 minutes from NVRH. Enjoy the comfort of a private dorm room and share common spaces with fellow professionals. All utilities are included, and the premises are located on a high school campus. Please note we have a limited number of dorms and one may not always be available but we do have a wait list. For more housing information, or to reserve a dorm room, please reach out to Erin Unsworth at e.unsworth@nvrh.org. Join us at NVRH, where excitement meets exceptional healthcare in the captivating realm of Vermont's Northeast Kingdom!   Additional Information:**Orientation will be the 2nd and 4th Monday of the month**   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/260874;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Northeastern Vermont Regional Hospital 
+    [shiftDateEnd] => 2024-03-25
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

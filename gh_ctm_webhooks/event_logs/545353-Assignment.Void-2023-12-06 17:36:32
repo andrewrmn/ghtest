@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4781',
+  'Cf-Ray' => '83164aa560091842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => All candidates will need to complete a virtual interview for this role, and offers will be made based on that interview. Please ensure that all candidates have a full skills checklist with their detailed resume combined on one document.Boone Health now requires that all nurse candidates provide current CEU documentation during the interview processsFloating to other MS units is requiredVariety of surgical cases; Care team rounds to assist discharge planning; Bedside Shift Report; Great Teamwork!Ortho is the  sister  unit and clinician s MUST be willing to float between the 2 unitsNumber of Beds/Cases: 32Nurse Patient Ratio: Nights 1:6Top 10 Diagnosis/Procedures:Robotic Hysterectomy, Robotic Prostatectomy, Colon Resection, Mastectomy, Thyroidectomy, Open Hysterectomy, Bariatric Surgery, Leg Revascularization, Lower Extremity Amputation, Wound ManagementCommon Medications used on the unit:IV antibiotics, Pain Control Meds, Nause Medications, Heparin, LovenoxCommon Equipment:Alaris IV Pumps, CADD PCA, Bard Mini-Infusers, Pyxis, Ceiling or EVA lift, Wound Manager VacRequired Skills:IV Insertion,PICC/Central Line Management,Vascular Device Access/Care   Additional Information:For roles with a guarantee, Boone Health can call off staff for up to 36 hours in a contract ---------------------------------------------  For Boone Health RN, LPN's and RRT Requests  *A VIRTUAL INTERVIEW WILL BE SENT TO YOUR CANDIDATE TO COMPLETE PRIOR TO SUBMITTING TO THE HOSPTIAL FOR CONSIDERATION**  **PLEASE BE SURE TO HAVE A COMPLETE PACKET OR YOUR CANDIDATE WILL BE DENIED**  **CHECKLIST IS ATTACHED AND MUST BE THE FIRST PAGE OF THE SUBMISSION PACKET**   Position Urgency:Quick Start Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545353
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9740
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 06 2023 12:36:31
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=261990 ;Status=Open;Association=Boone Health ;Client=Boone Health ;City=Columbia ;State=MO ;Zip=65201 ;Start=11/21/2023;End=2/20/2024;Duration=91;Cert=Nursing ;Specialty=Med-surg Adult ;Unit=Med-surg Adult ;Shift=Nights 7p-7a;# of Postions=2;Guaranteed Hours=48;Type=Travel;BillRate=$95.00;OTRate=105 ;OTRules=By The Week, after 48, ;CallbackRate=105 (All Inclusive Rate + $10) ;HolidayRate=105 (All Inclusive Rate + $10) ;OnCallRateDescription=$5 per hour pager ;Description=All candidates will need to complete a virtual interview for this role, and offers will be made based on that interview. Please ensure that all candidates have a full skills checklist with their detailed resume combined on one document.Boone Health now requires that all nurse candidates provide current CEU documentation during the interview processsFloating to other MS units is requiredVariety of surgical cases; Care team rounds to assist discharge planning; Bedside Shift Report; Great Teamwork!Ortho is the  sister  unit and clinician s MUST be willing to float between the 2 unitsNumber of Beds/Cases: 32Nurse Patient Ratio: Nights 1:6Top 10 Diagnosis/Procedures:Robotic Hysterectomy, Robotic Prostatectomy, Colon Resection, Mastectomy, Thyroidectomy, Open Hysterectomy, Bariatric Surgery, Leg Revascularization, Lower Extremity Amputation, Wound ManagementCommon Medications used on the unit:IV antibiotics, Pain Control Meds, Nause Medications, Heparin, LovenoxCommon Equipment:Alaris IV Pumps, CADD PCA, Bard Mini-Infusers, Pyxis, Ceiling or EVA lift, Wound Manager VacRequired Skills:IV Insertion,PICC/Central Line Management,Vascular Device Access/Care   Additional Information:For roles with a guarantee, Boone Health can call off staff for up to 36 hours in a contract ---------------------------------------------  For Boone Health RN, LPN's and RRT Requests  *A VIRTUAL INTERVIEW WILL BE SENT TO YOUR CANDIDATE TO COMPLETE PRIOR TO SUBMITTING TO THE HOSPTIAL FOR CONSIDERATION**  **PLEASE BE SURE TO HAVE A COMPLETE PACKET OR YOUR CANDIDATE WILL BE DENIED**  **CHECKLIST IS ATTACHED AND MUST BE THE FIRST PAGE OF THE SUBMISSION PACKET**   Position Urgency:Quick Start Billing string = Medefis ;url=https://vms.medefis5.com/jobs/261990;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Boone Hospital Center
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,81 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '30',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3816',
+  'Cf-Ray' => '82d4cac003791463-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Shift/ Hours: 7p-7a/ Nights
+
+
+
+CPR
+-
+preferred
+
+
+Qualifications: Education: Minimum 2 year AMA approved program in Radiologic Technology, associate or baccalaureate degree  Licensure: Certification with ARRT. CT and/or X-ray registered. Must have Arkansas State Radiologic Technologist License  Certifications: ARRT CT and/or X-ray registered. CPR certified  Job Summary: Under the supervision of the CT Supervisor and the Radiologist, performs CT examinations. Perform CT examinations utilizing established protocols of technical factors, patient positioning, and computer manipulation. The Computed Tomography (CT) Technologist uses specialized computerized x-ray equipment to produce cross sectional images of the human anatomy. The CT Tech should have a personable demeanor and a strong understanding of anatomy and computerized tomography. The CT Technologist will prepare patients for procedures by providing clear instructions and answering questions to reduce anxiety. The CT Technologist is responsible for providing and applying principles of radiation protection during exams, patient services, and continuous quality improvement. This position also involves performing diagnostic x-rays and laboratory tests.
+ General Comments
+    [sitename] => giftednurses
+    [spec] => CT Tech
+    [assignmentid] => 538563
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 15727
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => CT Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 28 2023 13:49:38
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=769534 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital Paris ;City=Paris ;State=AR ;Zip=72855 ;Start=10/23/2023;End=2/12/2024;Duration=112;Cert=CT Tech ;Specialty=Radiology ;Unit=Mercy ;Shift=19:00-07:00;# of Postions=1;Type=Travel;BillRate=$65.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:Shift/ Hours: 7p-7a/ Nights
+
+
+
+CPR
+-
+preferred
+
+
+Qualifications: Education: Minimum 2 year AMA approved program in Radiologic Technology, associate or baccalaureate degree  Licensure: Certification with ARRT. CT and/or X-ray registered. Must have Arkansas State Radiologic Technologist License  Certifications: ARRT CT and/or X-ray registered. CPR certified  Job Summary: Under the supervision of the CT Supervisor and the Radiologist, performs CT examinations. Perform CT examinations utilizing established protocols of technical factors, patient positioning, and computer manipulation. The Computed Tomography (CT) Technologist uses specialized computerized x-ray equipment to produce cross sectional images of the human anatomy. The CT Tech should have a personable demeanor and a strong understanding of anatomy and computerized tomography. The CT Technologist will prepare patients for procedures by providing clear instructions and answering questions to reduce anxiety. The CT Technologist is responsible for providing and applying principles of radiation protection during exams, patient services, and continuous quality improvement. This position also involves performing diagnostic x-rays and laboratory tests.
+ General Comments ;url=https://vendor.healthtrustws.com/positions/769534;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Mercy Hospital Paris - Travel
+    [shiftDateEnd] => 2024-04-07
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

@@ -1,0 +1,72 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '51',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1585',
+  'Cf-Ray' => '83367b0ce30977ba-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 4 plus weeks
+40 hours a week FT
+M-F 730-4p + on call days
+7:30a-4p
+Every 3rd or 4th weekend on call
+Holiday Rotation-
+Every 4th Holiday
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 538524
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13400
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Cath Lab Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 16:30
+    [whenmodified] => December, 10 2023 10:21:53
+    [daysPerWeek] => 4
+    [orderNote] => Source=EinsteinTrinity;SourceID=47897 ;Status=Open;Association=Trinity Health ;Client=IA - MercyOne Siouxland Medical Center ;City=Sioux City ;State=IA ;Zip=51102 ;Start=11/19/2023;End=12/16/2023;Duration=27;Cert=Cardiac Cath Technologist ;Specialty=Cardiac Cath Lab ;Unit=IA\MercyOne Siouxland\CV Tech ;Shift=07:30:00 - 16:00:00;# of Postions=1;Type=Travel;BillRate=$71.00;OTRate=92.30 ;ChargeRate=74.00 ;CallbackRate=92.30 ;HolidayRate=92.30 ;Orientation=0.00 ;Description=4 plus weeks
+40 hours a week FT
+M-F 730-4p + on call days
+7:30a-4p
+Every 3rd or 4th weekend on call
+Holiday Rotation-
+Every 4th Holiday ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 71
+    [facilityName] => Mercy Medical Center - Sioux City Travel
+    [shiftDateEnd] => 2024-01-20
+    [shiftStartTime] => 07:30
+    [subjectID] => 
+)

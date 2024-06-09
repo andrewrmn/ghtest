@@ -1,0 +1,77 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '39',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1993',
+  'Cf-Ray' => '82e41ae2b6181838-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => JHH - Cardiac OR - Main Campus
+
+	Must have currentCARDIAC ORexperience  SCRUB experiience
+
+	Work hours: 7a-7:30pm(block/set schedule will not be accommodated)
+
+	5+ years OR experience,Must have SCRUB experience,MD licensure, EPIC, +BLS
+
+	Will do call:On call 5-6 weekday and 1 weekend/holiday per 6 week schedule
+    [sitename] => giftednurses
+    [spec] => CVOR
+    [assignmentid] => 546138
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1877
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-02
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => November, 30 2023 10:25:46
+    [daysPerWeek] => 3
+    [orderNote] => Source=IntrastaffVMS;SourceID=305364 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Johns Hopkins Hospital ;Start=1/2/2024;End=3/30/2024;Duration=88;Cert=MSP RN Enhanced High Needs ;Specialty=ZBOR - Cardiac  (4801357243) ;Unit=ZBOR - Cardiac  (4801357243) ;Shift=Day 12 (7:00 AM - 7:30 PM);# of Postions=1;Type=Travel;BillRate=$110.00;minBillRate=$110.00;Description=JHH - Cardiac OR - Main Campus
+
+	Must have currentCARDIAC ORexperience  SCRUB experiience
+
+	Work hours: 7a-7:30pm(block/set schedule will not be accommodated)
+
+	5+ years OR experience,Must have SCRUB experience,MD licensure, EPIC, +BLS
+
+	Will do call:On call 5-6 weekday and 1 weekend/holiday per 6 week schedule ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=vZOSkRolwwo=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => The Johns Hopkins Hospital TRAVEL
+    [shiftDateEnd] => 2024-03-30
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

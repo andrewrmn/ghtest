@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '53',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '883',
+  'Cf-Ray' => '853dece164897b12-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 544704
+    [workerID] => 194026
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 40
+    [facilityID] => 10745
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => Slone
+    [shiftNum] => 4
+    [workerFirstName] => Casey
+    [cert] => RN
+    [floorDesc] => Ortho Surgical
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => February, 11 2024 11:21:30
+    [daysPerWeek] => 4
+    [orderNote] => FTK: GTC
+Chrg:P$1/B$3-OnCl:P$10/B$18
+Ornt:$25.77/NB:8hr
+BR:$80
+    [guaranteedMinimum] => 
+    [workerEmail] => cj_slo@yahoo.com
+    [HoursPerWeekOT] => 8
+    [offContractRate] => 80
+    [facilityName] => Pikeville Medical Center
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

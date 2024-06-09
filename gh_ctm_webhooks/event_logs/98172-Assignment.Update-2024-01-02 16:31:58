@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1671',
+  'Cf-Ray' => '83f4653671c423c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 12hr/Day Shift/36hr wk  guarantee . We want the traveler to start 1/6/20. PRE BOOKED JOB, do not submit.
+Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 98172
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3544
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-02-17
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => January, 02 2024 11:31:57
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;ID=0;SourceID=149538;Status=Open;Client=Ferry County Health;City=Republic;State=WA;Zip=99166;Start=1/6/2020;End=4/6/2020;Duration=91;Cert=Nursing;Specialty=Med-surg Adult;Unit=Med-surg Adult;Shift=Days / 12 hour;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$75.00;OTRate=85 ;OTRules=All Inclusive Rate + $10 ;ChargeRate= ;CallbackRate=N/A ;CallbackRate=N/A ;HolidayRate=85All Inclusive Rate + $10 ;OnCallRateDescription=$5 per hour pager ;Orientation= ;Description=12hr/Day Shift/36hr wk  guarantee . We want the traveler to start 1/6/20. PRE BOOKED JOB, do not submit.
+Billing string = Medefis;Buyer= ;url=https://api.medefis5.com/Job/GetJobInfo/149538;VMSPositionType= AvgHoursPerWeek= InterviewRequired=False;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Washington Registry- Ferry County Memorial Hospital
+    [shiftDateEnd] => 2020-05-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

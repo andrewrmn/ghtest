@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '32',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2773',
+  'Cf-Ray' => '8273269394931465-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Responsible for providing integrated, holistic, professional nursing services to patient in coordination with other health care team members. Provides for safe, efficient and caring nursing services that focus on priority health needs of the individual. Provides nursing care that utilizes education and active participation with the patient and family to enable them to attain and maintain optimum health. Practices professional nursing that meets and exceeds standards outlined by Montana s state and the national Nurse Practice Acts.Must have current Montana License. Must have experience in Labor and Delivery.   Position Urgency:Normal Billing string = Central Montana Med Ctr
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 534501
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5849
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-11-27
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 16 2023 17:25:35
+    [daysPerWeek] => 3
+    [orderNote] => Source=Medefis5;SourceID=259076 ;Status=Open;Association=Central Montana Med Ctr ;Client=Central Montana Med Ctr ;City=Lewistown ;State=MT ;Zip=59457 ;Start=11/1/2023;End=1/31/2024;Duration=91;Cert=RN ;Specialty=Labor and Delivery Nurse ;Unit=Labor and Delivery Nurse ;Shift=nights, (3) 12 hours shifts;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$90.00;OTRate=95 ;OTRules=By The Week, after 40, ;CallbackRate=90 (All Inclusive Rate) ;HolidayRate=95 (All Inclusive Rate + $5) ;OnCallRateDescription=$2 per hour pager ;Description=Responsible for providing integrated, holistic, professional nursing services to patient in coordination with other health care team members. Provides for safe, efficient and caring nursing services that focus on priority health needs of the individual. Provides nursing care that utilizes education and active participation with the patient and family to enable them to attain and maintain optimum health. Practices professional nursing that meets and exceeds standards outlined by Montana s state and the national Nurse Practice Acts.Must have current Montana License. Must have experience in Labor and Delivery.   Position Urgency:Normal Billing string = Central Montana Med Ctr ;url=https://vms.medefis5.com/jobs/259076;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Central Montana Medical Center
+    [shiftDateEnd] => 2024-02-26
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

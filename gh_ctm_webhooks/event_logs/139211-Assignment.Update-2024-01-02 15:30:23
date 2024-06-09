@@ -1,0 +1,92 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4694',
+  'Cf-Ray' => '83f40b01135777bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Qualivis Enhanced PA:LDRP RN (Labor and Delivery, Post-Partum)
+ASAP start, 13 weeks
+3x12 hour days, 0645-1915
+
+13-bed unit - 5 LDRP RN's + 3 Physicians who deliver
+
+2+ years L&D experience required
+BLS, ACLS, AWHONN required 
+
+MedHost/ Centricity Perinatal experience required 
+
+ Modified Time:8/10/2020 3:44:30 PM
+ Over Time Multiplier: 1.25x
+ Over Time Rule: Overtime after 40 Hours per week
+ Call Back: 1.00x
+ Charge: $3.00 Bump
+ Holiday: 1.25x
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 139211
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 37.5
+    [facilityID] => 10628
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2020-09-14
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:15
+    [whenmodified] => January, 02 2024 10:30:22
+    [daysPerWeek] => 3
+    [orderNote] => Source=Lotus;SourceID=897958 ;Status=Open;Association=Qualivis Enhanced PA ;Client=Ouachita County Medical Center EPA ;City=Camden ;State=AR ;Zip=71701 ;Start=9/14/2020;End=12/14/2020;Duration=91;Cert=Registered Nurse ;Specialty=Labor and Delivery ;Unit=Labor and Delivery ;Shift=Day (12 Hours) 6:45 19:15;# of Postions=1;Type=Travel;BillRate=$70.00;OTRate=1.25x ;OTRules=Overtime after 40 Hours per week ;ChargeRate=$3.00 Bump ;CallbackRate=1.00x ;HolidayRate=1.25x ;OnCallRateDescription=$5.00 ;Orientation=Non-Billable Orientation: 16 Hours If requested by Client, or as otherwise mutually agreed upon in writing between Agency and Client, Agency shall provide to Client an invoice credit for an Agency Staff orientation in accordance with the pertinent schedule:i) up to sixteen (16) hours for Travel / Contract Agency Staff;ii) up to eight (8) hours for Local, Per Diem, Critical, and Rapid Response Agency Staff;iii) for categories of Agency Staff not listed in this subsection as mutually agreed upon in writing between Agency and Client.Clients often offer CPR, ACLS, etc. classes. Should an Agency Staff voluntarily attend a hospital class, the Client will not be billed for the hours spent in class; however, notwithstanding the foregoing, Agency shall be responsible for compensating Agency Staff for all hours worked, including overtime hours, in accordance with applicable federal and state wage and hour law, and Agency shall have the responsibility for compensation of Agency Staff in accordance with applicable law. If a Client requires an Agency Staff attendance at a class, then the Client will be billed for the hours spent in class.From Schedule A1: Regardless of the method of orientation, and at the Client s discretion, Agency shall provide Client with an invoice credit of up to sixteen (16) hours, or as otherwise may be negotiated between Agency and Client, for contract/travel Staff at non-overtime rates for orientation time on Agency s next invoice to Client. Orientation hours may include time spent by Agency Staff in completion of Client-mandated pre-start testing or other compliance requirements. Agency acknowledges that Agency Staff will be appropriately oriented for each Client unit or department.Notwithstanding the foregoing, Agency shall be responsible for compensating for all hours worked by an Agency Staff candidate who prepares for and attends any such orientation in accordance with applicable federal and state wage and hour law. Non-clinical placements, such as environmental services, warehouse staff, administrative services and other similar specialties that are not in direct patient care, may not be subject to orientation hours.In any event, Agency shall be responsible to assure each Agency Staff placed with a Client complies with such Client s orientation requirements. ;Description=Qualivis Enhanced PA:LDRP RN (Labor and Delivery, Post-Partum)
+ASAP start, 13 weeks
+3x12 hour days, 0645-1915
+
+13-bed unit - 5 LDRP RN's + 3 Physicians who deliver
+
+2+ years L&D experience required
+BLS, ACLS, AWHONN required 
+
+MedHost/ Centricity Perinatal experience required 
+
+ Modified Time:8/27/2020 8:41:26 PM
+ Over Time Multiplier: 1.25x
+ Over Time Rule: Overtime after 40 Hours per week
+ Call Back: 1.00x
+ Charge: $3.00 Bump
+ Holiday: 1.25x ;url=https://app.lotusconnect.com/webapi/api/VendorModule/Jobs?$filter=JobID%20eq%20897958&;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Ouachita County Medical Center - TRAVEL
+    [shiftDateEnd] => 2020-12-14
+    [shiftStartTime] => 06:45
+    [subjectID] => 
+)

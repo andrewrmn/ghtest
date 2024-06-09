@@ -1,0 +1,92 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5910',
+  'Cf-Ray' => '829c81f070c423b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Rate- $95/HrASAP STARTSHIFT- Days- 3x12 hrs-
+7a-7p-
+Friday, Saturday, SundayNo Call, No HolidaysTraveler may need to train in the day during the week.*2 years experience needed
+*Epic experience needed
+*Could care for Covid patients
+*Could float as needed
+*Minimum Education:
+Associate's Degree
+*Required Certification:
+ARRT; ARMRIT; Must have MRI certification; Basic Life Support (BLS) certification required
+*Required Courses:
+Accredited program in radiologic technology and training in MRI proceduresClinical Checklist*Do not submit local candidates to these travel positions. Contact the PMO team for the local rate first. If candidate accepts the lower local rate, submit the profile which clearly notates candidate is local and aware local rates are lower.*As of 1/5/2022 all travelers must be fully vaccinated for COVID-19.**Any traveler declining the COVID-19 vaccine, must be approved for a medical/religious exemption by their agency
+It is preferred but not required that the MRI Technologist is a graduate of an accredited AMA school and registered with the American Registry of Radiologic Technology (ARRT); has Magnetic Resonance Imaging Registry (MR) through ARRT and maintains a State License as a general radiographer. The MRI Technologist is responsible for providing timely imaging services to both inpatient and outpatients under the direction of a Radiologist and departmental protocols. Responsibilities include: ability to change imaging parameters to study soft tissue, arterial system, brain, spine, joints, and extremities with or without the use of contrast media.
+ General Comments*Nicotine-free facility   ALL FORMS OF NICOTINE   ASSIGNMENT WILL BE CANCELED &amp; NOT ELIGIBLE FOR REHIRE FOR 12 MONTHS IF THERE IS A POSITIVE RESULT FOR ANY REASON*
+*WELLSPAN WILL NOT CONSIDER CANDIDATES THAT HAVE HAD LICENSE SUSPENDED ANYTIME IN THE PAST - DO NOT SUBMIT THESE PROFILES*All time off and/or scheduling requests must be included in the submissionCandidates cannot be considered if they have been employed as a perm hire at any WellSpan site within the year.WellSpan requires the flu vaccine from September 7 - April 30. Please ensure your traveler is willing to obtain prior to submitting
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement
+    [sitename] => giftednurses
+    [spec] => MRI
+    [assignmentid] => 545513
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3816
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => MRI Technologist
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 21 2023 17:53:13
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=777332 ;Status=Open;Association=WellSpan Health ;Client=WellSpan York Hospital ;City=York ;State=PA ;Zip=17403 ;Start=12/11/2023;End=3/10/2024;Duration=91;Cert=MRI Tech ;Specialty=Radiology ;Unit=EXT-Allspire (525) ;Shift=7a-7p;# of Postions=1;Type=Travel;BillRate=$95.00;OTRate=0 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:Rate- $95/HrASAP STARTSHIFT- Days- 3x12 hrs-
+7a-7p-
+Friday, Saturday, SundayNo Call, No HolidaysTraveler may need to train in the day during the week.*2 years experience needed
+*Epic experience needed
+*Could care for Covid patients
+*Could float as needed
+*Minimum Education:
+Associate's Degree
+*Required Certification:
+ARRT; ARMRIT; Must have MRI certification; Basic Life Support (BLS) certification required
+*Required Courses:
+Accredited program in radiologic technology and training in MRI proceduresClinical Checklist*Do not submit local candidates to these travel positions. Contact the PMO team for the local rate first. If candidate accepts the lower local rate, submit the profile which clearly notates candidate is local and aware local rates are lower.*As of 1/5/2022 all travelers must be fully vaccinated for COVID-19.**Any traveler declining the COVID-19 vaccine, must be approved for a medical/religious exemption by their agency
+It is preferred but not required that the MRI Technologist is a graduate of an accredited AMA school and registered with the American Registry of Radiologic Technology (ARRT); has Magnetic Resonance Imaging Registry (MR) through ARRT and maintains a State License as a general radiographer. The MRI Technologist is responsible for providing timely imaging services to both inpatient and outpatients under the direction of a Radiologist and departmental protocols. Responsibilities include: ability to change imaging parameters to study soft tissue, arterial system, brain, spine, joints, and extremities with or without the use of contrast media.
+ General Comments*Nicotine-free facility   ALL FORMS OF NICOTINE   ASSIGNMENT WILL BE CANCELED &amp; NOT ELIGIBLE FOR REHIRE FOR 12 MONTHS IF THERE IS A POSITIVE RESULT FOR ANY REASON*
+*WELLSPAN WILL NOT CONSIDER CANDIDATES THAT HAVE HAD LICENSE SUSPENDED ANYTIME IN THE PAST - DO NOT SUBMIT THESE PROFILES*All time off and/or scheduling requests must be included in the submissionCandidates cannot be considered if they have been employed as a perm hire at any WellSpan site within the year.WellSpan requires the flu vaccine from September 7 - April 30. Please ensure your traveler is willing to obtain prior to submitting
+ No. of Positions: 1/1.
+ Position creation reason:Contractor Replacement ;url=https://vendor.healthtrustws.com/positions/777332;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 95
+    [facilityName] => Wellspan York Hospital
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

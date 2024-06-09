@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '45',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '973',
+  'Cf-Ray' => '82b2cf9661af23b6-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Last day worked was 10-27-23
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 514783
+    [workerID] => 57610
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3615
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-07-31
+    [workerLastName] => Frank
+    [shiftNum] => 4
+    [workerFirstName] => Adrian
+    [cert] => RN
+    [floorDesc] => 9 West 9 Heart
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 24 2023 10:51:00
+    [daysPerWeek] => 3
+    [orderNote] => BR:$97lRS:130915lFTK:Facility sends KRONOS (Gifted TC-unsigned)
+OnCl:P$5/B$10
+Orient:$20lNonBill:16hrs
+    [guaranteedMinimum] => 
+    [workerEmail] => hopeinhim8870@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 97
+    [facilityName] => University of Tennessee Medical Center TRAVEL
+    [shiftDateEnd] => 2023-10-28
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

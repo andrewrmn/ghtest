@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4114',
+  'Cf-Ray' => '83279f56603377bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => We are seeking a Surgical Assistant with a minimum of 2 years of Surgical Assistant experience with Ortho experience.4   10 hour shifts with 1 overnight call per week and be on call every 5th weekend.Primary responsibility involves performance of specific tasks, as a Surgical Assistant, during surgical procedures to permit the surgeon to perform an efficient and safe operation. Assists with identifying anatomy within the operative field. Maintains positive customer relations. Shall demonstrate competency and possess the technical skills appropriate for his/her assigned cases and utilizes that knowledge in assisting others. Performs various duties within his/her scope of responsibility and is accountable to the manager of the Surgical Assistants.Extensive knowledge of anatomy and physiology, excellent eye-hand coordination, and ability to stand for long periods.Sound judgment and knowledge of scientific principles must be used.EDUCATION: 2 years college or specialty school in surgical assisting. Licenses Registrations /or Certifications:NSAA, CFA in the AST, AA-C in the AAPA, or CRNFA in the ONAOR, BLS.Surgical Techs will not be considered.                  Additional Information:Agency staff will be the first to float based on facility census and needs.   Position Urgency:Normal Billing string = The Christ Hospital
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 546193
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 9945
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 08 2023 15:05:18
+    [daysPerWeek] => 4
+    [orderNote] => Source=Medefis5;SourceID=262250 ;Status=Open;Association=The Christ Hospital ;Client=The Christ Hospital ;City=Cincinnati ;State=OH ;Zip=45219 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Nursing ;Specialty=Operating Room ;Unit=Operating Room ;Shift=Days 4 – 10 hour shifts with 1 overnight call per week and be on call every 5th weekend;# of Postions=3;Guaranteed Hours=40;Type=Travel;BillRate=$85.00;OTRate=90 ;OTRules=By The Week, after 40, ;CallbackRate=85 (All Inclusive Rate) ;OnCallRateDescription=$4 per hour pager ;Description=We are seeking a Surgical Assistant with a minimum of 2 years of Surgical Assistant experience with Ortho experience.4   10 hour shifts with 1 overnight call per week and be on call every 5th weekend.Primary responsibility involves performance of specific tasks, as a Surgical Assistant, during surgical procedures to permit the surgeon to perform an efficient and safe operation. Assists with identifying anatomy within the operative field. Maintains positive customer relations. Shall demonstrate competency and possess the technical skills appropriate for his/her assigned cases and utilizes that knowledge in assisting others. Performs various duties within his/her scope of responsibility and is accountable to the manager of the Surgical Assistants.Extensive knowledge of anatomy and physiology, excellent eye-hand coordination, and ability to stand for long periods.Sound judgment and knowledge of scientific principles must be used.EDUCATION: 2 years college or specialty school in surgical assisting. Licenses Registrations /or Certifications:NSAA, CFA in the AST, AA-C in the AAPA, or CRNFA in the ONAOR, BLS.Surgical Techs will not be considered.                  Additional Information:Agency staff will be the first to float based on facility census and needs.   Position Urgency:Normal Billing string = The Christ Hospital ;url=https://vms.medefis5.com/jobs/262250;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Christ Hospital System (AKA the Christ Hospital Health Network)
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

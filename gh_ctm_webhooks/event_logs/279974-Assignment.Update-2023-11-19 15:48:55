@@ -1,0 +1,74 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '36',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4037',
+  'Cf-Ray' => '828999a4d1f81832-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+TRAVEL RN ICU
+Start Date: ASAP
+Duration: 13 WEEKS
+Shift: DAYS [1 opening] or NIGHTS [2 openings]
+Approved Rate: $175/HrparseGeneralComments Comments
+.bd_title { font-weight: bold }
+Reason for opening (special, internal vacancy, leave coverage) Backfills for agency              *******************************************************************************              How long has it been open?              Will position be required to float to other units? Potentially based on unit needs and RN competencies             Number of beds in your facility? 126             Years of experience required? At least one year of acute care ICU experience             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) Jennifer LeBlanc, jennifer_leblanc@cedarparkregional.com             Willing to review clinicians with pending state license?              Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift) 1 day, 2 nights    EMR for your facility: HMS Med/Host             Scrub colors / dress code: Navy Blue    Parking location:  Contact: Christopher Stearns Resource Manager: Christopher Stearns
+    [sitename] => giftednurses
+    [spec] => ICU
+    [assignmentid] => 279974
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2021-09-27
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:48:41
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;SourceID=515374 ;Status=Open;Association=CHS ;Client=Cedar Park Regional Medical Center ;City=Cedar Park ;State=TX ;Zip=78613 ;Start=ASAP;End=;Duration=91;Cert=Registered Nurse (RN) ;Specialty=ICU ;Unit=INTENSIVE CARE UNIT ;Shift=DAYS [1 opening] or NIGHTS [2 openings];# of Postions=3;Type=Travel;BillRate=$175.00;minBillRate=$175.00;Description=Position Description
+TRAVEL RN ICU
+Start Date: ASAP
+Duration: 13 WEEKS
+Shift: DAYS [1 opening] or NIGHTS [2 openings]
+Approved Rate: $175/HrparseGeneralComments Comments
+.bd_title { font-weight: bold }
+Reason for opening (special, internal vacancy, leave coverage) Backfills for agency              *******************************************************************************              How long has it been open?              Will position be required to float to other units? Potentially based on unit needs and RN competencies             Number of beds in your facility? 126             Years of experience required? At least one year of acute care ICU experience             Who else in your organization will be involved in the interview or selection process? (Please include name, phone number and email address) Jennifer LeBlanc, jennifer_leblanc@cedarparkregional.com             Willing to review clinicians with pending state license?              Is there anyone in the past that has worked for you that you would consider rehiring?              What is the work schedule for this position? (days needed, hours or shift) 1 day, 2 nights    EMR for your facility: HMS Med/Host             Scrub colors / dress code: Navy Blue    Parking location:  Contact: Christopher Stearns Resource Manager: Christopher Stearns ;Buyer=Christopher Stearns ;url=https://workforce.healthtrustws.com/Vendor/?op1=position&op2=manage&op3=515374#!/position/manage/515374;VMSPositionType=Travel minPayRate=$175.00;maxPayRate=$175.00;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 175
+    [facilityName] => Cedar Park Regional Medical Center
+    [shiftDateEnd] => 2021-12-27
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

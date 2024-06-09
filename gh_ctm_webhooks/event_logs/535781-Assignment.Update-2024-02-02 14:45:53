@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '37',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '943',
+  'Cf-Ray' => '84f3386f44c71834-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => BR Adjust: $100 ($150 OT BR) - 2.2.24 SEJ
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 535781
+    [workerID] => 160064
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 16050
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-03
+    [workerLastName] => Martinez
+    [shiftNum] => 4
+    [workerFirstName] => Tamiko
+    [cert] => RN
+    [floorDesc] => 10CD
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => February, 02 2024 09:45:52
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION 
+BR:$100lRS:135155
+ChrgDf:P$1/B$3lOnCl:P$10/B$18
+FTK:API Reports
+    [guaranteedMinimum] => 
+    [workerEmail] => tamiko.martinez@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => AHS - Overlook Medical Center
+    [shiftDateEnd] => 2024-03-02
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

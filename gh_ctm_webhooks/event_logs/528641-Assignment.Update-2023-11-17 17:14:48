@@ -1,0 +1,62 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '22',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '913',
+  'Cf-Ray' => '82799cb625604945-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => MOVING TO RIGHTSOURCING Eff. 12/3/2023
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 528641
+    [workerID] => 101770
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 6630
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-09-24
+    [workerLastName] => Nance
+    [shiftNum] => 4
+    [workerFirstName] => Linda
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 17 2023 12:14:48
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$90lRS:134011lFTK:Kronos
+ChrgDiff:P$1/B$2lOnCl:P$2/B$4
+    [guaranteedMinimum] => 
+    [workerEmail] => lkchn@hotmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => OU Medical Center Travel - OK
+    [shiftDateEnd] => 2023-12-02
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

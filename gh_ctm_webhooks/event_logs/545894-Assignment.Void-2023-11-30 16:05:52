@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5192',
+  'Cf-Ray' => '82e4558ef43e6a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => JOB SUMMARYResponsible to the CSR Coordinator and Operational Business Manager for the accurate and efficient completion of the assigned daily tasks in support of Surgical Services. CSR Tech can rotate responsibilities from CSR to Operating Room as Unit Aide when needed or required. Every St. Joseph Hospital employee is required to abide by the Standards of Conduct and to report any activity that appears to violate the Standards of Conduct.  Performs all decontamination duties, utilizing proper personal protection.  Performs duties associated with the preparation and packing of items to be sterilized or cleaned for reuse accurately and timely.  Operates all departmental equipment.  Processes linens.  Maintains patient care equipment in clean working order.  Delivers and retrieves clean and/or soiled supplies from user areas accurately.  Other duties as assigned.  Perform all assigned duties in a manner which reflects the Mission  Core Values of St. Joseph Hospital, and Standards of Excellence (Policy HR-48)  When required, assumes functions and responsibilities of O.R. "HOT" team member.JOB REQUIREMENTSEducation:  High School diploma or equivalent preferred.  Possess or obtain Registered CSR Tech- Certified C.S. Technician status preferred.Experience:  1 - 3 years Central Sterile Supply or related experience preferred.We are an equal opportunity, affirmative action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, age, disability status, gender, sexual orientation, ancestry, protected veteran status, national origin, genetic information or any other legally protected status.   Additional Information:**Up to 16 hours of orientation is unpaid **St. Joseph has the right to cancel up to 3 shifts per 13 week contract   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Sterile Processing Tech 
+    [assignmentid] => 545894
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 9545
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Sterile Processing Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 15:00
+    [whenmodified] => November, 30 2023 11:05:50
+    [daysPerWeek] => 5
+    [orderNote] => Source=Medefis5;SourceID=262141 ;Status=Open;Association=St. Joseph Hospital - Nashua ;Client=St Joseph Hospital - Nashua ;City=Nashua ;State=NH ;Zip='03060 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Nursing ;Specialty=Sterile Processing Technologist ;Unit=Sterile Processing Technologist ;Shift=Days 7am - 3pm;# of Postions=1;Guaranteed Hours=36;Type=Travel;BillRate=$50.00;OTRate=50 ;OTRules=By The Week, after 40, ;CallbackRate=50 (All Inclusive Rate) ;HolidayRate=50 (All Inclusive Rate) ;OnCallRateDescription=$2 per hour pager ;Description=JOB SUMMARYResponsible to the CSR Coordinator and Operational Business Manager for the accurate and efficient completion of the assigned daily tasks in support of Surgical Services. CSR Tech can rotate responsibilities from CSR to Operating Room as Unit Aide when needed or required. Every St. Joseph Hospital employee is required to abide by the Standards of Conduct and to report any activity that appears to violate the Standards of Conduct.  Performs all decontamination duties, utilizing proper personal protection.  Performs duties associated with the preparation and packing of items to be sterilized or cleaned for reuse accurately and timely.  Operates all departmental equipment.  Processes linens.  Maintains patient care equipment in clean working order.  Delivers and retrieves clean and/or soiled supplies from user areas accurately.  Other duties as assigned.  Perform all assigned duties in a manner which reflects the Mission  Core Values of St. Joseph Hospital, and Standards of Excellence (Policy HR-48)  When required, assumes functions and responsibilities of O.R. "HOT" team member.JOB REQUIREMENTSEducation:  High School diploma or equivalent preferred.  Possess or obtain Registered CSR Tech- Certified C.S. Technician status preferred.Experience:  1 - 3 years Central Sterile Supply or related experience preferred.We are an equal opportunity, affirmative action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, age, disability status, gender, sexual orientation, ancestry, protected veteran status, national origin, genetic information or any other legally protected status.   Additional Information:**Up to 16 hours of orientation is unpaid **St. Joseph has the right to cancel up to 3 shifts per 13 week contract   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/262141;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 50
+    [facilityName] => St. Joseph Hospital - Nashua
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

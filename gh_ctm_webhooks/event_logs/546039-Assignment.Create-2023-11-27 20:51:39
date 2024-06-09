@@ -1,0 +1,90 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2816',
+  'Cf-Ray' => '82cd401ab45d6a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Unit: Emergency Department
+Schedule: 3x12 Nights
+Start date: ASAP
+Contract length: 13 weeks
+Shift dates: Weekdays, some weekends, holidays
+Certs required: BLS, TNCC, WA license
+Experience required: 1+ year
+Travel experience: Not required, first time travelers allowed
+
+ Modified Time:12/18/2023 6:00:00 AM
+ Account Manager: Amber Neal
+ Account Manager Email: Amber.neal@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceRTORequires specific amount of exp. - 2 yearsValid State License (required at time of submission) - preferredReferences Required - 2 years in specialty being submitted for.Return Staff Policy: gone 1 year to return as a traveler
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 546039
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 9014
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 27 2023 15:51:39
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2321412 ;Status=Open;Association=Qualivis EPA ;Client=Ocean Beach Hospital ;City=Ilwaco ;State=WA ;Zip=98624 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Registered Nurse ;Specialty=ER ;Unit=Emergency ;Shift=Night 3x12-Hour (19:00 - 07:00);# of Postions=1;Type=Travel;BillRate=$86.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=Unit: Emergency Department
+Schedule: 3x12 Nights
+Start date: ASAP
+Contract length: 13 weeks
+Shift dates: Weekdays, some weekends, holidays
+Certs required: BLS, TNCC, WA license
+Experience required: 1+ year
+Travel experience: Not required, first time travelers allowed
+
+ Modified Time:12/18/2023 6:00:00 AM
+ Account Manager: Amber Neal
+ Account Manager Email: Amber.neal@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Unknown
+ Submittals:Low
+ Submittal Details: #Tier1 Travel ComplianceRTORequires specific amount of exp. - 2 yearsValid State License (required at time of submission) - preferredReferences Required - 2 years in specialty being submitted for.Return Staff Policy: gone 1 year to return as a traveler ;url=https://app.ayaconnect.com/index.html#/vendor/job/2321412/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 86
+    [facilityName] => Ocean Beach Hospital TRAVEL
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

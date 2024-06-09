@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '41',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '882',
+  'Cf-Ray' => '82dd1c1662a3183c-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 
+    [sitename] => giftednurses
+    [spec] => LTAC
+    [assignmentid] => 538499
+    [workerID] => 191958
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3420
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-11-17
+    [workerLastName] => Waller
+    [shiftNum] => 4
+    [workerFirstName] => Ramona
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 29 2023 14:02:52
+    [daysPerWeek] => 3
+    [orderNote] => BR:$75lRS:135971
+ChrgDf:P$3/B$4
+Orient:$20lNonBill:12hrs
+FTK: Kronos
+    [guaranteedMinimum] => 
+    [workerEmail] => rwaller.rn@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 75
+    [facilityName] => Select Specialty Jackson-TRAVEL
+    [shiftDateEnd] => 2024-02-15
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

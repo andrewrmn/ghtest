@@ -1,0 +1,89 @@
+@at-root :root{
+  --ghButton-bg: #{$color-red};
+  --ghButton-bg-hover: #{darken( $color-red, 5% )};
+  --ghButton-color: white;
+  --ghButton-color-hover: white;
+  --ghButton-border-color: #{$color-red};
+  --ghButton-border-color-hover: #{$color-red};
+  --ghButton-padding: 9px 14px;
+  --ghButton-font-size: 15px;
+  --ghButton-font-weight: bold;
+}
+.ghButton{
+  font-family: futura-pt, sans-serif;
+  display: inline-flex;
+  padding: var(--ghButton-padding);
+  background: var(--ghButton-bg);
+  color: var(--ghButton-color);
+  font-weight: var(--ghButton-font-weight);
+  font-size: var(--ghButton-font-size);
+  line-height: 1;
+  letter-spacing: 0.01em;
+  transition: all 0.2s ease;
+  border-radius: 8px;
+  border-color: var(--ghButton-border-color);
+  border: 2px solid var(--ghButton-border-color) !important;
+  align-items: center;
+  gap: 8px;
+
+  i{
+    font-size: 120%;
+    line-height: 0.7;
+  }
+
+  @media (hover: hover) {
+
+    &:hover{
+      background: var(--ghButton-bg-hover);
+      color: var(--ghButton-color-hover);
+      border-color: var(--ghButton-border-color-hover) !important;
+      text-decoration: none;
+    }
+
+  }
+
+  &.active{
+    background: var(--ghButton-bg-hover);
+    color: var(--ghButton-color-hover);
+    border-color: var(--ghButton-border-color-hover) !important;
+    text-decoration: none;
+  }
+
+
+  &--mid{
+    --ghButton-font-size: 17px;
+    --ghButton-padding: 17px 38px;
+  }
+  &--large{
+    --ghButton-font-size: 17px;
+    --ghButton-padding: 20px 38px;
+
+    @media screen and (max-width: 700px){
+      --ghButton-padding: 16px 38px;
+    }
+  }
+
+  &--hollow{
+    --ghButton-bg: transparent;
+    --ghButton-color: #{$color-teal};
+    --ghButton-border-color: #{$color-teal};
+    --ghButton-bg-hover: transparent;
+    --ghButton-color-hover: #{$color-dark-teal};
+    --ghButton-border-color-hover: #{$color-dark-teal};
+  }
+
+  &--teal{
+    --ghButton-bg: #{$color-teal};
+    --ghButton-color: white;
+    --ghButton-border-color: #{$color-teal};
+    --ghButton-bg-hover: #{$color-dark-teal};
+    --ghButton-color-hover: white;
+    --ghButton-border-color-hover: #{$color-dark-teal};
+  }
+
+  &--block{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
+}

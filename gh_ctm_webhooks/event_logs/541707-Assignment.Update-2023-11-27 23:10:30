@@ -1,0 +1,123 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '29',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5285',
+  'Cf-Ray' => '82ce0b7db5d24961-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:SEASONAL - TRAVEL - RN - PICU (645) - Wesley MC - 7A - 7P
+
+****48 hour guarantee is an option if requested****
+          Unit Information:
+ (PICU/645)             Location: Wesley Children s   Hospital             
+Address: 550 N Hillside   Wichita, KS 67030
+         
+Floor:1T
+             
+Building:4
+         
+
+
+             General Information             Tell us   about the unit(s):
+ Level II Trauma       Number        of Beds -15    Number        of Staff  38    Type        of staff:         Day         Shift  Intensivist, RN, Desk Tech, RT, Dietary, Case Management     Night         Shift - Intensivist, RN, Desk Tech, RT        Patient        Ratios  2:1    Type        of equipment   General CR Monitoring, CRRT, TPT placements,    EMR        -Meditech                Typical hiring profile             Skill Set   Most recruited for:
+ (Travel   RNs, local CNAs and sitters)   
+   
+Must have:
+ candidates without these   skills will not be considered for the role.
+       Works        well under pressure    Great        Assessment Skills      
+Preferred   or nice to have:
+   candidates with these skills will be considered first.
+       CRRT        Experience    APHON      List   typical procedures performed on unit(s):       IV        starts, blood draws    TPT        placement      Best   personality Fit:       Attention        to Detail; Docs are willing to train on new skills    Works        well with a teaching hospital                
+Unit Guidelines/Policies: Please feel free to attach unit   policies and guidelines.
+       
+      
+
+
+             Any   additional information that would entice a worker to select your unit for   their assignment: 
+Consider   items such as new equipment or technology, tenure and experience of staff,   schedule options, etc.
+ *Remember   it is a very competitive market any information you can provide will   help attract talent.
+ General Comments
+    [sitename] => giftednurses
+    [spec] => PICU
+    [assignmentid] => 541707
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1282
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 27 2023 18:10:28
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=763418 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=WESLEY MEDICAL CENTER KS ;City=WICHITA ;State=KS ;Zip=67214 ;Start=11/30/2023;End=2/29/2024;Duration=91;Cert=RN ;Specialty=PICU ;Unit=CONTINENTAL DIVISION (10) ;Shift=7:00AM - 7:00PM;# of Postions=1;Type=Travel;BillRate=$70.00;OTRate=78 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:SEASONAL - TRAVEL - RN - PICU (645) - Wesley MC - 7A - 7P
+
+****48 hour guarantee is an option if requested****
+          Unit Information:
+ (PICU/645)             Location: Wesley Children s   Hospital             
+Address: 550 N Hillside   Wichita, KS 67030
+         
+Floor:1T
+             
+Building:4
+         
+
+
+             General Information             Tell us   about the unit(s):
+ Level II Trauma       Number        of Beds -15    Number        of Staff  38    Type        of staff:         Day         Shift  Intensivist, RN, Desk Tech, RT, Dietary, Case Management     Night         Shift - Intensivist, RN, Desk Tech, RT        Patient        Ratios  2:1    Type        of equipment   General CR Monitoring, CRRT, TPT placements,    EMR        -Meditech                Typical hiring profile             Skill Set   Most recruited for:
+ (Travel   RNs, local CNAs and sitters)   
+   
+Must have:
+ candidates without these   skills will not be considered for the role.
+       Works        well under pressure    Great        Assessment Skills      
+Preferred   or nice to have:
+   candidates with these skills will be considered first.
+       CRRT        Experience    APHON      List   typical procedures performed on unit(s):       IV        starts, blood draws    TPT        placement      Best   personality Fit:       Attention        to Detail; Docs are willing to train on new skills    Works        well with a teaching hospital                
+Unit Guidelines/Policies: Please feel free to attach unit   policies and guidelines.
+       
+      
+
+
+             Any   additional information that would entice a worker to select your unit for   their assignment: 
+Consider   items such as new equipment or technology, tenure and experience of staff,   schedule options, etc.
+ *Remember   it is a very competitive market any information you can provide will   help attract talent.
+ General Comments
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/763418;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 70
+    [facilityName] => Wesley Medical Center Travel
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

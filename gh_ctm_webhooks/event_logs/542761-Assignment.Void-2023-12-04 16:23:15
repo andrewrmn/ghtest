@@ -1,0 +1,65 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '35',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1396',
+  'Cf-Ray' => '8305649151071830-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 4-10 hr days Mon-Thurs
+ACLS, TNCC, BLS, PALS
+Registered Nurse
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 542761
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 12995
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => December, 04 2023 11:23:15
+    [daysPerWeek] => 5
+    [orderNote] => Source=EinsteinTrinity;SourceID=48192 ;Status=In-Progress (O);Association=Trinity Health ;Client=IA - Genesis Medical Center-DeWitt ;City=DeWitt ;State=IA ;Zip=52742 ;Start=12/17/2023;End=3/16/2024;Duration=90;Cert=RN Emergency Room ;Specialty=Emergency Department ;Unit=D-RN-ED-IA ;Shift=3p11;# of Postions=1;Type=Travel;BillRate=$88.00;OTRate=114.40 ;ChargeRate=91.00 ;CallbackRate=114.40 ;HolidayRate=114.40 ;Orientation=0.00 ;Description=4-10 hr days Mon-Thurs
+ACLS, TNCC, BLS, PALS
+Registered Nurse ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 88
+    [facilityName] => Genesis Medical Center - DeWitt
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

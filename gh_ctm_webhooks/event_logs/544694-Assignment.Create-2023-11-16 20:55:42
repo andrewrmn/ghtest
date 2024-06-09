@@ -1,0 +1,106 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '6438',
+  'Cf-Ray' => '8272a2e7c6821464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Must have active BLS, SCRQSA and ARRT certs
+Equipment in the fixed rooms is Philips and AGFA and the portables are AGFA and Siemens.
+
+Shift will include every other weekend. 
+
+Start: 3 Weeks after signed contract
+Shift: 4x10 Evenings
+Locals accepted: YES if over 100 miles
+Pending License accepted: No
+RTO Restrictions: ALL RTO must be included at time of submission. Approval will be based on facility's needs.
+Guaranteed Hours: Facility allowed to call off 1 shift per 2 weeks
+Experience: 1+ yr
+Hospital Highlights
+Staffing Ratios 1:19 (Days); 1:8 (nights); 1:9 (Weekends)
+Charting: EPIC
+Parking Cost: Free Parking!
+
+ Modified Time:12/11/2023 5:00:00 AM
+ Account Manager: Reenada Khair
+ Account Manager Email: Reenada.Khair@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:High
+ Submittal Details: #Tier3 Travel ComplianceWill consider nurses with 1+ years of recent experience in unit.Travelers must be  100 miles from every Prisma facility (regardless of where they are applying) to be eligible to travel in the system, unless they are one of the two exceptions below&nbsp;90-99.9 miles are accepted at a 10% bill rate reduction100+ miles full bill rate&nbsp;Exception 1: Night shift travelers for below specialties must be 50+ miles ONLY from the contracted campus they re applying to. Full BR granted at 100+ miles away. 50.0-99.9 miles is 10% bill rate reduction. Under 50 miles is ineligible.Medical Surgical / Oncology / Ortho&nbsp;Adult Tele /&nbsp; Observation Unit / Step Down / PCU&nbsp;Adult ICUs&nbsp;Emergency DepartmentsRRTException 2: The below specialties are accepted regardless of radius. They must be   50 miles from the relevant flagship hospital (Prisma Richland or Prisma Greenville) for full BR. 10% rate reduction if under 50 miles, but still eligible to apply.&nbsp;Operating Room (including allied and SPT)PACUCT / MRI / IR Techs / Echo Techs / X-RayCath Lab (including allied)MLTSLP / PT / OT / Dietician-Must send SOCIAL SECURITY NUMBER&nbsp;with submittal.-Orientation is every Monday.-Pre Assignment testing (all RN s) and modules required for all travelers to complete within 48 hours of receiving the login information (which usually comes within 24 hours of the nurse signing their contract). Travelers are eligible for reimbursement for hours spent completing modules (up to 16 hours) and time will be verified upon start of contract.-If you have any issues, please let the Account Manager or your CS know ASAP.
+    [sitename] => giftednurses
+    [spec] => X-Ray
+    [assignmentid] => 544694
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 3670
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-11
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => November, 16 2023 15:55:23
+    [daysPerWeek] => 5
+    [orderNote] => Source=AYA;SourceID=2313244 ;Status=Open;Association=Qualivis MSP ;Client=Prisma Health Greenville Memorial Hospital ;City=Greenville ;State=SC ;Zip=29605 ;Start=12/11/2023;End=3/11/2024;Duration=91;Cert=Radiology / Cardiology ;Specialty=X-Ray Tech ;Unit=XRAY - RAD TECH, 11010087120 ;Shift=Mid 5x8-Hour (15:30 - 23:30);# of Postions=2;Type=Travel;BillRate=$79.00;OTRules=40 total hours in 1 week : 1.35% ;Orientation=16 ;Description=Must have active BLS, SCRQSA and ARRT certs
+Equipment in the fixed rooms is Philips and AGFA and the portables are AGFA and Siemens.
+
+Shift will include every other weekend. 
+
+Start: 3 Weeks after signed contract
+Shift: 4x10 Evenings
+Locals accepted: YES if over 100 miles
+Pending License accepted: No
+RTO Restrictions: ALL RTO must be included at time of submission. Approval will be based on facility's needs.
+Guaranteed Hours: Facility allowed to call off 1 shift per 2 weeks
+Experience: 1+ yr
+Hospital Highlights
+Staffing Ratios 1:19 (Days); 1:8 (nights); 1:9 (Weekends)
+Charting: EPIC
+Parking Cost: Free Parking!
+
+ Modified Time:12/11/2023 5:00:00 AM
+ Account Manager: Reenada Khair
+ Account Manager Email: Reenada.Khair@qualivis.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:High
+ Submittal Details: #Tier3 Travel ComplianceWill consider nurses with 1+ years of recent experience in unit.Travelers must be  100 miles from every Prisma facility (regardless of where they are applying) to be eligible to travel in the system, unless they are one of the two exceptions below&nbsp;90-99.9 miles are accepted at a 10% bill rate reduction100+ miles full bill rate&nbsp;Exception 1: Night shift travelers for below specialties must be 50+ miles ONLY from the contracted campus they re applying to. Full BR granted at 100+ miles away. 50.0-99.9 miles is 10% bill rate reduction. Under 50 miles is ineligible.Medical Surgical / Oncology / Ortho&nbsp;Adult Tele /&nbsp; Observation Unit / Step Down / PCU&nbsp;Adult ICUs&nbsp;Emergency DepartmentsRRTException 2: The below specialties are accepted regardless of radius. They must be   50 miles from the relevant flagship hospital (Prisma Richland or Prisma Greenville) for full BR. 10% rate reduction if under 50 miles, but still eligible to apply.&nbsp;Operating Room (including allied and SPT)PACUCT / MRI / IR Techs / Echo Techs / X-RayCath Lab (including allied)MLTSLP / PT / OT / Dietician-Must send SOCIAL SECURITY NUMBER&nbsp;with submittal.-Orientation is every Monday.-Pre Assignment testing (all RN s) and modules required for all travelers to complete within 48 hours of receiving the login information (which usually comes within 24 hours of the nurse signing their contract). Travelers are eligible for reimbursement for hours spent completing modules (up to 16 hours) and time will be verified upon start of contract.-If you have any issues, please let the Account Manager or your CS know ASAP. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2313244/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 79
+    [facilityName] => Greenville Memorial Hospital
+    [shiftDateEnd] => 2024-03-11
+    [shiftStartTime] => 15:00
+    [subjectID] => 
+)

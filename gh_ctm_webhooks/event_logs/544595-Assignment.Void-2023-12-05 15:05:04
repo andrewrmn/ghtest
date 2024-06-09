@@ -1,0 +1,286 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '19',
+  'Ki-Request-Colo' => '612',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4992',
+  'Cf-Ray' => '830d2f66b3f22234-ORD',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:CONTRACT - CATH LAB TECH (746) - 13 WEEKS - 6:30A-5:30P
+ON CALL REQUIRED
+REQUIRED:
+ARRT OR RCIS
+ General Comments
+ No. of Positions: 1/2.
+    [sitename] => giftednurses
+    [spec] => Cath Lab
+    [assignmentid] => 544595
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 5517
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Cath Lab Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 05 2023 10:05:03
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=749505 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=HEART HOSPITAL OF AUSTIN ;City=Austin ;State=TX ;Zip=78756 ;Start=9/11/2023;End=12/11/2023;Duration=91;Cert=Cardiac Cath Lab Tech ;Specialty=Cardiac Cath Lab ;Unit=CENTRAL AND WEST TEXAS DIVISION (50) ;Shift=6:30AM-5:30PM;# of Postions=1;Type=Travel;BillRate=$90.00;OTRate=98 ;CallbackRate=0 ;HolidayRate=0 ;Orientation=0 ;Description=Description:CONTRACT - CATH LAB TECH (746) - 13 WEEKS - 6:30A-5:30P
+ON CALL REQUIRED
+
+
+The purpose of a unit profile is to help provide an exceptional understanding of the unit.
+ Profiles will include location, number of beds, patient rations, and other unique details to assist recruiting professional in effectively and efficiently identifying highly qualified staff. 
+
+Below you will find a data collection tool to help you identify essential data needed to complete your profile.
+ 
+  
+
+
+  
+Data Collection:
+          Unit Information:
+   Cath Lab             Location: HHOA             
+Building:
+         
+Floor:1st
+             Order Detail:             Facility Department   Number: 74668   Discipline:   Quantity:   Target Start Date:   Shift:    Call Requirements Average   9 days per month   Weekends: Average 1   weekend per month             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+
+   Number of Beds   3 labs
+   
+ 
+
+
+
+
+
+
+   Number of Staff   3 staff per   procedure
+   
+ 
+
+
+
+
+
+
+   Type of staff:
+   
+o
+
+   Day Shift   9 plus supervisor
+   
+o
+
+   Night Shift   3 person call team
+   
+ 
+
+
+
+
+
+
+   Patient Ratios   1:1
+   
+ 
+
+
+
+
+
+
+   Type of equipment - Philips
+   
+ 
+
+
+
+
+
+
+   EMR -Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+   (Travel RNs, local CNAs and sitters)   
+   Must have:
+   candidates without these skills will not be considered for the role.    
+
+
+
+
+
+
+   Minimum 2   yrs experience    
+
+
+
+
+
+
+   Tech to   have ARRT or RCIS   
+Preferred or nice to have:
+   candidates with these skills will be considered first. 
+   
+ 
+
+
+
+
+
+
+   
+2+ yrs experience
+    
+
+
+
+
+
+
+   
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+
+   
+
+Standard diagnostic, complex interventional   cases. High volume.
+    
+
+
+
+
+
+
+   
+   Best personality Fit:   
+ 
+
+
+
+
+
+
+   
+Very busy lab. Sense of   urgency.
+   
+ 
+
+
+
+
+
+
+   
+
+             
+Dress Code: Include requirements, but most of   all not acceptable attire.
+   
+ 
+
+
+
+
+
+
+   Scrub Color -
+ Scrubs provided by hospital.
+    
+
+
+
+
+
+
+   
+             
+Unit Guidelines/Policies: Please feel   free to attach unit policies and guidelines.
+   
+ 
+
+
+
+
+
+
+   
+
+   
+
+
+             Awards/Recognition: 
+Feel free to include items such as   links to videos that feature the department, outstanding department/team   awards, reigning annual chili cook-off winners, etc.
+    
+ 
+
+
+
+
+
+
+   
+4nd highest engagement score in   hospital. Great team to work with!
+   
+ 
+
+
+
+
+
+
+   
+
+             Any additional information that would entice a worker to select your   unit for their assignment: 
+Consider items such as new   equipment or technology, tenure and experience of staff, schedule options,   etc.
+ *Remember it is a very   competitive market any information you can provide will help attract talent.
+ General Comments
+ No. of Positions: 1/2. ;url=https://vendor.healthtrustws.com/positions/749505;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 90
+    [facilityName] => Heart Hospital of Austin
+    [shiftDateEnd] => 2024-03-17
+    [shiftStartTime] => 06:30
+    [subjectID] => 
+)

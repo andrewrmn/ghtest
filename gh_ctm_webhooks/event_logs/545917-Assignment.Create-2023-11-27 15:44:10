@@ -1,0 +1,100 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4165',
+  'Cf-Ray' => '82cb7db153581466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position ER Nights
+Shift 3x12 hour nights , EVERY other weekend is required
+Start: ASAP Tuesday Orientation
+Duration: 13 weeks
+Experience: 2 years' experience
+License: MO RN or Compact
+Charting System: Cerner
+MUST have: American Heart Association- ACLS,BLS, PALS, TNCC
+
+
+** NKCH will not accept Staff RN's coming from St. Luke's Health System (KS/MO region)
+
+ 
+
+ Modified Time:12/18/2023 12:00:00 AM
+ Account Manager: Amber Lawrence Qualivis
+ Account Manager Email: amber.lawrence@qualivis.com
+ COVID-19 Vaccine: Required - No Exemptions
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:High
+ Submittal Details: #Tier2 Travel ComplianceSSN   requiredDOB  requiredRTO  required# of jobs in system we can sub   one at timeRequires specific amount of exp.  at least 1 year of experienceValid MO or compact required at time of submissionReferences Required   at least one reference required to submitNo local radius ruleLocal Rules   locals accepted at same rateCandidates will float within hospital or to an affiliate hospitals near by   candidates will float to all competent units within one facilityCopy of Certifications   required with submissionNo specific charting exp. requiredBill rate (for hospitals that use bidding system)   rate postedBackground Policy to be noted prior to submission  client approves BG hits on a case by case basisReturn Staff Policy   must be gone for at least 1 year
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 545917
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5325
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => November, 27 2023 10:43:50
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2300535 ;Status=Open;Association=Qualivis MSP ;Client=North Kansas City Hospital ;City=North Kansas City ;State=MO ;Zip=64116 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Registered Nurse ;Specialty=ER ;Unit=ER ;Shift=Night 3x12-Hour (18:45 - 07:15);# of Postions=1;Type=Travel;BillRate=$80.00;OTRules=40 total hours in 1 week : 1.3% ;Orientation=12 ;Description=Position ER Nights
+Shift 3x12 hour nights , EVERY other weekend is required
+Start: ASAP Tuesday Orientation
+Duration: 13 weeks
+Experience: 2 years' experience
+License: MO RN or Compact
+Charting System: Cerner
+MUST have: American Heart Association- ACLS,BLS, PALS, TNCC
+
+
+** NKCH will not accept Staff RN's coming from St. Luke's Health System (KS/MO region)
+
+ 
+
+ Modified Time:12/18/2023 12:00:00 AM
+ Account Manager: Amber Lawrence Qualivis
+ Account Manager Email: amber.lawrence@qualivis.com
+ COVID-19 Vaccine: Required - No Exemptions
+ Flu Vaccine: Required - Medical/Religious Exemptions Only
+ Submittals:High
+ Submittal Details: #Tier2 Travel ComplianceSSN   requiredDOB  requiredRTO  required# of jobs in system we can sub   one at timeRequires specific amount of exp.  at least 1 year of experienceValid MO or compact required at time of submissionReferences Required   at least one reference required to submitNo local radius ruleLocal Rules   locals accepted at same rateCandidates will float within hospital or to an affiliate hospitals near by   candidates will float to all competent units within one facilityCopy of Certifications   required with submissionNo specific charting exp. requiredBill rate (for hospitals that use bidding system)   rate postedBackground Policy to be noted prior to submission  client approves BG hits on a case by case basisReturn Staff Policy   must be gone for at least 1 year ;url=https://app.ayaconnect.com/index.html#/vendor/job/2300535/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => North Kansas City Hospital Travel
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

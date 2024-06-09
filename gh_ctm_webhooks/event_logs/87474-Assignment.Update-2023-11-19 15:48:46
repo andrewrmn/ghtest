@@ -1,0 +1,124 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '22',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3403',
+  'Cf-Ray' => '8289996c00d14945-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Position Description
+L&D RN (DAY SHIFT) ** 8 WEEK CONTRACT **
+IMMEDIATE START DATE
+REQUIRED
+** WE WILL CONSIDER EITHER
+A MOTHER/BABY OR  L&D RN **
+ 
+RATE
+$60.00 Local (< 50
+miles from facility)
+$65.00 Travel (>
+50 miles from facility)
+** RATES ARE FLEXIBLE FOR STRONG CANDIDATE **
+ 
+- Day Shift 7a   7p
+- Must have Texas RN
+license (or compact license) with no restrictions
+- Certifications: AHA
+approved BLS, ACLS and NRP required
+- Must be able to
+proficiently circulate for caesarian deliveries without assistance
+- Ability to float to
+Mother/Baby, Nursery and Antepartum strongly preferred
+- Scrubs: Eggplant
+Purple
+ 
+** All submissions MUST
+include the bill rate, skills checklist and a minimum of 2 references to be
+considered **parseGeneralComments Comments
+.bd_title
+                                  {
+                                         font-weight: bold;
+                                  } Contact: Suhani Desai Resource Manager: Suhani Desai OT Rate:Custom Rate
+    [sitename] => giftednurses
+    [spec] => L&D
+    [assignmentid] => 87474
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8782
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2019-11-11
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 10:48:41
+    [daysPerWeek] => 3
+    [orderNote] => Source=Parallon;ID=0;SourceID=315110;Status=Open;Client=Cedar Park Regional Medical Center;City=Cedar Park;State=TX;Zip=78613;Start=11/11/2019;End=1/6/2020;Duration=56;Cert=Registered Nurse (RN);Specialty=Labor & Delivery;Unit=LABOR AND DELIVERY;Shift=7a   7p;# of Postions=1;Guaranteed Hours=?;Type=Travel;BillRate=$65.00;OTRate=?/$91.00 ;OTRules=1.00x (OT), 1.00x (DT) ;ChargeRate= ;CallbackRate=?/$91.00 ;CallbackRate=?/$91.00 ;HolidayRate=?/$97.50 ;OnCallRateDescription= ;Orientation= ;Description=Position Description
+L&D RN (DAY SHIFT) ** 8 WEEK CONTRACT **
+IMMEDIATE START DATE
+REQUIRED
+** WE WILL CONSIDER EITHER
+A MOTHER/BABY OR  L&D RN **
+ 
+RATE
+$60.00 Local (< 50
+miles from facility)
+$65.00 Travel (>
+50 miles from facility)
+** RATES ARE FLEXIBLE FOR STRONG CANDIDATE **
+ 
+- Day Shift 7a   7p
+- Must have Texas RN
+license (or compact license) with no restrictions
+- Certifications: AHA
+approved BLS, ACLS and NRP required
+- Must be able to
+proficiently circulate for caesarian deliveries without assistance
+- Ability to float to
+Mother/Baby, Nursery and Antepartum strongly preferred
+- Scrubs: Eggplant
+Purple
+ 
+** All submissions MUST
+include the bill rate, skills checklist and a minimum of 2 references to be
+considered **parseGeneralComments Comments
+.bd_title
+                                  {
+                                         font-weight: bold;
+                                  } Contact: Suhani Desai Resource Manager: Suhani Desai OT Rate:Custom Rate;Buyer=Suhani Desai ;VMSPositionType=Travel AvgHoursPerWeek= maxPayRate=$65.00;InterviewRequired=False;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 65
+    [facilityName] => Cedar Park Regional Medical Center
+    [shiftDateEnd] => 2020-01-06
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

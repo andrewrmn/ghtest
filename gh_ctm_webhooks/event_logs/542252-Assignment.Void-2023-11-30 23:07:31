@@ -1,0 +1,207 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '33',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '12036',
+  'Cf-Ray' => '82e6bf3f47da1466-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => General Description: 
+Under general supervision in the capacity of a Surgical Technician II, provides technical assistance to operating room physicians and nurses performing difficult and complex surgical procedures. Surgical Technician II will have a primary designated service line. They will have expertise and competencies specific to the service line. 
+
+Essential Responsibilities: 
+Utilizes physician s preference cards to assist in preparing the operating room for the surgical procedure. 
+Assists in maintaining and updating preference cards. 
+Maintains an adequate supply of instruments and supplies to meet the patient s changing needs. 
+Scrubs in and sets up instruments and supplies prior to procedure. 
+Prepares sterile field by obtaining, opening, and arranging instruments and supplies anticipated for the procedure. 
+Assists in draping the patient and operative area. 
+With nurse, opens and prepares the sterile field. 
+Assists the nurse in correct identification of operative specimens for laboratory analysis. 
+Remains attentive during surgery and provides additional instruments, supplies or other items as needed. 
+Remains attentive to sterile field and recognizes and corrects breaks in sterile technique. 
+Delivers medications to the surgeon. 
+Participates in sponge, needle and instrument counts as directed by policy. 
+Reports all drains, packs, implants, etc., to the circulating nurse and assists with application of dressings. 
+Informs appropriate personnel of any potential problems regarding patient or procedure. 
+Takes emergency action as required. 
+Assists with post-operative processing of instruments and equipment. 
+Cleans operating room areas and disposes of sharps from sterile field according to policy. 
+Participates in evaluation of new products, methods or equipment to determine quality. 
+Serves as clinical resource for physicians and for staff in other departments. 
+Conducts daily discussions with the Supervisor regarding service line needs. 
+This may include equipment issues, instrument needs and supply shortages. 
+Acts as a liaison between physicians and Supervisor regarding instruments and supplies. 
+Works with other departments and vendors to learn about new equipment and ensure that tools and supplies are updated. 
+Assists in the training of Surgical Technicians.  
+Assists with patient transport as needed. 
+Performs related work as required. 
+
+Physical Requirements (with or without accommodation): 
+Must be able to climb, kneel and perform duties under stressful situations.  May involve lifting and carrying of objects.  Requires considerable walking, standing, pushing and pulling. Requires ability to stand for up to 6 hours per day. Requires excellent manual dexterity in order to handle instruments and equipment. Requires sufficient visual acuity to perform required tasks. Occasional requirement to push/pull up to 100 pounds. Requires ability to move or position patients. Very frequent exposure to needles and other sharp objects. Very frequent exposure to blood, body fluids and communicable disease. 
+ Schedule Notes:Call required.  Level 1 trauma experience.
+
+Skills: Minimum Qualifications: 
+
+Experience: 1 year of relevant experience. 
+License(s)/Certification(s)/Registration(s) Required: Service line competency achievement. Current Basic Life Support issued by the American Heart Association required upon hire. 
+
+Knowledge, Skills and Abilities:   
+Knowledge of medical asepsis as it applies to the operating room; of various instruments used for each type of surgical procedures; of proper set-up of operating room; of correct method of handling instruments and supplies to surgeon; of proper handling of tissue specimens, cultures and smears; of inventory methods.  
+Skill in maintaining an effective working relationship with others; in following technical written and verbal instructions; in scrubbing for all specialty areas. 
+Surgical Technician II must demonstrate the knowledge and skills necessary to provide care appropriate to the age of the patients served by his or her service.  
+The Surgical Technician II must demonstrate knowledge of the principles of growth and development over the life span and possess the ability to assess data reflective of the patient s status; and to interpret the appropriate information needed to identify each patient s requirements relative to his or her age-specific needs; and to provide the care needed by the appropriate patient age group (neonate, pediatric, adolescent, adult, geriatric). 
+Must have sufficient computer skills to check and respond to emails and edit preference cards.
+ Required
+	
+	  STERILE
+	      
+	
+	
+	
+	Additional
+	
+	    INVENTORY
+	   TECHNICAL ASSISTANCE
+
+Education: Education: 
+Graduation from an accredited school/program for Surgical Technicians OR Substitute a minimum of 1 year related experience and competencies in specialties required by assignments.
+
+;Languages: 
+ 
+English
+&nbsp;Read
+&nbsp;Write
+&nbsp;Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: Clinical Technicians (SC1015)
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 542252
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 16145
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => November, 30 2023 18:07:30
+    [daysPerWeek] => 4
+    [orderNote] => Source=Wand;SourceID=27495070 ;Status=Pending;Client=OU Health ;City=Oklahoma City ;State=OK ;Zip=73104 ;Start=11/13/2023;End=2/10/2024;Duration=89;Cert=Clinical Technicians (SC1015) ;Specialty=Surgical Technician II Adult - FS ;Unit=70100 :					 Adult Surgery 70100 :  Adult Surgery ;Shift=Call required.  Level 1 trauma experience. Call required.  Level 1 trauma experience. 4x10 Hr;# of Postions=1;Guaranteed Hours=40.00;Type=Travel;BillRate=$80.00;Description=General Description: 
+Under general supervision in the capacity of a Surgical Technician II, provides technical assistance to operating room physicians and nurses performing difficult and complex surgical procedures. Surgical Technician II will have a primary designated service line. They will have expertise and competencies specific to the service line. 
+
+Essential Responsibilities: 
+Utilizes physician s preference cards to assist in preparing the operating room for the surgical procedure. 
+Assists in maintaining and updating preference cards. 
+Maintains an adequate supply of instruments and supplies to meet the patient s changing needs. 
+Scrubs in and sets up instruments and supplies prior to procedure. 
+Prepares sterile field by obtaining, opening, and arranging instruments and supplies anticipated for the procedure. 
+Assists in draping the patient and operative area. 
+With nurse, opens and prepares the sterile field. 
+Assists the nurse in correct identification of operative specimens for laboratory analysis. 
+Remains attentive during surgery and provides additional instruments, supplies or other items as needed. 
+Remains attentive to sterile field and recognizes and corrects breaks in sterile technique. 
+Delivers medications to the surgeon. 
+Participates in sponge, needle and instrument counts as directed by policy. 
+Reports all drains, packs, implants, etc., to the circulating nurse and assists with application of dressings. 
+Informs appropriate personnel of any potential problems regarding patient or procedure. 
+Takes emergency action as required. 
+Assists with post-operative processing of instruments and equipment. 
+Cleans operating room areas and disposes of sharps from sterile field according to policy. 
+Participates in evaluation of new products, methods or equipment to determine quality. 
+Serves as clinical resource for physicians and for staff in other departments. 
+Conducts daily discussions with the Supervisor regarding service line needs. 
+This may include equipment issues, instrument needs and supply shortages. 
+Acts as a liaison between physicians and Supervisor regarding instruments and supplies. 
+Works with other departments and vendors to learn about new equipment and ensure that tools and supplies are updated. 
+Assists in the training of Surgical Technicians.  
+Assists with patient transport as needed. 
+Performs related work as required. 
+
+Physical Requirements (with or without accommodation): 
+Must be able to climb, kneel and perform duties under stressful situations.  May involve lifting and carrying of objects.  Requires considerable walking, standing, pushing and pulling. Requires ability to stand for up to 6 hours per day. Requires excellent manual dexterity in order to handle instruments and equipment. Requires sufficient visual acuity to perform required tasks. Occasional requirement to push/pull up to 100 pounds. Requires ability to move or position patients. Very frequent exposure to needles and other sharp objects. Very frequent exposure to blood, body fluids and communicable disease. 
+ Schedule Notes:Call required.  Level 1 trauma experience.
+
+Skills: Minimum Qualifications: 
+
+Experience: 1 year of relevant experience. 
+License(s)/Certification(s)/Registration(s) Required: Service line competency achievement. Current Basic Life Support issued by the American Heart Association required upon hire. 
+
+Knowledge, Skills and Abilities:   
+Knowledge of medical asepsis as it applies to the operating room; of various instruments used for each type of surgical procedures; of proper set-up of operating room; of correct method of handling instruments and supplies to surgeon; of proper handling of tissue specimens, cultures and smears; of inventory methods.  
+Skill in maintaining an effective working relationship with others; in following technical written and verbal instructions; in scrubbing for all specialty areas. 
+Surgical Technician II must demonstrate the knowledge and skills necessary to provide care appropriate to the age of the patients served by his or her service.  
+The Surgical Technician II must demonstrate knowledge of the principles of growth and development over the life span and possess the ability to assess data reflective of the patient s status; and to interpret the appropriate information needed to identify each patient s requirements relative to his or her age-specific needs; and to provide the care needed by the appropriate patient age group (neonate, pediatric, adolescent, adult, geriatric). 
+Must have sufficient computer skills to check and respond to emails and edit preference cards.
+ Required
+	
+	  STERILE
+	      
+	
+	
+	
+	Additional
+	
+	    INVENTORY
+	   TECHNICAL ASSISTANCE
+
+Education: Education: 
+Graduation from an accredited school/program for Surgical Technicians OR Substitute a minimum of 1 year related experience and competencies in specialties required by assignments.
+
+;Languages: 
+ 
+English
+&nbsp;Read
+&nbsp;Write
+&nbsp;Speak
+
+ 
+ English(
+Speak ,  Read ,  Write
+)
+
+Job Category: Clinical Technicians (SC1015) ;url=https://prowand.pro-unlimited.com/supplier/standard/requisition/req_geninfo_view.html?id=27495070&type=REQUISITION&reqProfile=true;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => OU Health University of Oklahoma Medical Center TRV (RS)
+    [shiftDateEnd] => 2024-03-08
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

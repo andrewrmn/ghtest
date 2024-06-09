@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '40',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2263',
+  'Cf-Ray' => '8289bfd3d3ee183a-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Recent previous travel experience preferred, please send 2 recent references_**MUST HAVE CST CERTIFICATION**_  ** MUST HAVE CVOR EXPERIENCE AND TO PASS AND ASSIST WITH OPEN HEARTS**Traveler must live 150 miles or more  from our facilities in order to be considered   Additional Information:Traveler must live 150 miles or more  from our facilities in order to be considered   Position Urgency:Normal Billing string = Medefis
+    [sitename] => giftednurses
+    [spec] => Certified Surgical Tech
+    [assignmentid] => 530960
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 2475
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-10
+    [workerLastName] => 
+    [shiftNum] => 2
+    [workerFirstName] => 
+    [cert] => CST
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 19 2023 11:14:58
+    [daysPerWeek] => 5
+    [orderNote] => Source=Medefis5;SourceID=258282 ;Status=Open;Association=Hendrick Health System ;Client=Hendrick Health System ;City=Abilene ;State=TX ;Zip=79601 ;Start=11/27/2023;End=2/26/2024;Duration=91;Cert=Nursing ;Specialty=Surgical Technologist ;Unit=Surgical Technologist ;Shift=Mon - Fri 1030 - 1930 plus call;# of Postions=4;Guaranteed Hours=36;Type=Travel;BillRate=$110.00;OTRate=120 ;OTRules=By The Week, after 40, ;CallbackRate=120 (All Inclusive Rate + $10) ;HolidayRate=120 (All Inclusive Rate + $10) ;OnCallRateDescription=$5 per hour pager ;Description=Recent previous travel experience preferred, please send 2 recent references_**MUST HAVE CST CERTIFICATION**_  ** MUST HAVE CVOR EXPERIENCE AND TO PASS AND ASSIST WITH OPEN HEARTS**Traveler must live 150 miles or more  from our facilities in order to be considered   Additional Information:Traveler must live 150 miles or more  from our facilities in order to be considered   Position Urgency:Normal Billing string = Medefis ;url=https://vms.medefis5.com/jobs/258282;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 110
+    [facilityName] => Hendrick Medical Center Travel
+    [shiftDateEnd] => 2024-03-10
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

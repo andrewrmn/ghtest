@@ -1,0 +1,63 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '52',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '936',
+  'Cf-Ray' => '83416cd2d4f377bd-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => DISPO: Cancellation-CA 
+By RN; Clinician Not Willing to Return
+    [sitename] => giftednurses
+    [spec] => ER
+    [assignmentid] => 532620
+    [workerID] => 225729
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 36
+    [facilityID] => 13965
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-29
+    [workerLastName] => Cunningham
+    [shiftNum] => 5
+    [workerFirstName] => Donna
+    [cert] => LPN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:00
+    [whenmodified] => December, 11 2023 18:14:38
+    [daysPerWeek] => 3
+    [orderNote] => EXTENSION
+BR:$74lRS:134888
+FTK:Signed GH Timesheet
+    [guaranteedMinimum] => 
+    [workerEmail] => markethealth914@gmail.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 74
+    [facilityName] => Sweetwater Hospital Association
+    [shiftDateEnd] => 2023-12-07
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

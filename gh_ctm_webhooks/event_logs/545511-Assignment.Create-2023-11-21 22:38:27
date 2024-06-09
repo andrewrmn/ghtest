@@ -1,0 +1,80 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '44',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1991',
+  'Cf-Ray' => '829c6c4b008d1842-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Thurs/Friday/Sat/Sun 10a-8:30p
+
+	
+
+	RDMS (AB, OB/GYN) and CPR via AHA.
+
+	Vascular experience is preferred e.g. Experience performing liver duplex, lower and upper extremity venous and transplant imaging.
+
+	1 year exp.
+
+	High school diploma and successful completion of an approved curriculum in diagnostic sonography.
+    [sitename] => giftednurses
+    [spec] => Ultrasound Tech
+    [assignmentid] => 545511
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1877
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-17
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => Ultrasound Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 23:00
+    [whenmodified] => November, 21 2023 17:38:26
+    [daysPerWeek] => 3
+    [orderNote] => Source=IntrastaffVMS;SourceID=305023 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Johns Hopkins Hospital ;Start=12/17/2023;End=3/16/2024;Duration=90;Cert=Ultrasound Tech ;Specialty=ULTRASOUND (4803617431) ;Unit=ULTRASOUND (4803617431) ;Shift=Day 12 (11:00 AM - 11:00 PM);# of Postions=1;Type=Travel;BillRate=$115.00;minBillRate=$115.00;Description=Thurs/Friday/Sat/Sun 10a-8:30p
+
+	
+
+	RDMS (AB, OB/GYN) and CPR via AHA.
+
+	Vascular experience is preferred e.g. Experience performing liver duplex, lower and upper extremity venous and transplant imaging.
+
+	1 year exp.
+
+	High school diploma and successful completion of an approved curriculum in diagnostic sonography. ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=OBrjzMNCSJ4=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 115
+    [facilityName] => The Johns Hopkins Hospital TRAVEL
+    [shiftDateEnd] => 2024-03-16
+    [shiftStartTime] => 11:00
+    [subjectID] => 
+)

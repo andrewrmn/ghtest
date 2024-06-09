@@ -1,0 +1,107 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '23',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '7302',
+  'Cf-Ray' => '833f9ec3270e4949-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Night shift, 3 -12 hour shifts, 7pm-7am
+Minimum of 18 months recent Med/Surg Telemetry experience.
+MUST HAVE PERM OHIO LICENSE OR COMPACT STATE IN HAND
+AHA BLS & ACLS required, MUST be willing to obtain NIHSS prior to start
+*TWO recent references from a manager, ANM, supervisor or director in the specialty applying for are REQUIRED to qualify for submission. References must be from assignments worked in the past 12 months. Charge RN refs accepted!
+
+Orientation time (32-40hrs) will be paid at 50% of base hourly rate
+PBDS Assessment   waived
+ECG rhythm recognition test and safeMedicate will be completed during orientation, an acceptable score on both assessments is required
+Qualivis   Lotus will be used for submitting hours worked
+
+
+ Modified Time:12/15/2023 5:00:00 AM
+
+ Account Manager: Taylor Minton
+
+ Account Manager Email: Taylor.Minton@qualivis.com
+
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+
+ Flu Vaccine: Unknown
+ Submittals:Low
+
+ Submittal Details: #Tier3 Travel ComplianceStandard Qualivis Cover Sheet completed and filled in; please submit candidate's interview availability within cover sheet in the notes section.All RTO to be discussed during interview and must be included at time of submissionTravelers may be submitted for 1 job at a time within the Cleveland Clinic Health System Minimum of 18 months PERMANENT experience in SPECIALTY applying for prior to travel.Must have a PERMANENT Ohio license in hand at time of submission. Compact licenses are accepted for any starts 1/1/23 and forward.*TWO references from a manager, ANM, supervisor or director in the specialty applying for are REQUIRED to qualify for submission. Please no co-worker references, these will not be considered, and profile will be rejected. References must be from assignments worked in the past 12 months.Required certifications need to be ACTIVE with nothing pending. PBDS Assessment is waived. ECG rhythm recognition test and safeMedicate will be completed during orientation, an acceptable score on both assessments is required. Traveler will receive 2 attempts maximum to pass, otherwise will be canceled.BG hits of any kind are reviewed by the facility but will not accept any traveler with an open caseFacility does not accept any license hits.EFFECTIVE 9/30/22: Nurses and CSTs are EXEMPT from Nicotine Free Facility Requirements. Exemption is temporary and will be honored until further notice. All other travelers (aside from Nurses and CSTs) MUST BE NICOTINE FREE - Negative 10 Panel + Nicotine (Cotinine) Drug screen required within 12 months of start. Must be updated annually.Permanent and per diem candidates cannot return to Cleveland Clinic hospitals for 1 year from their previous end date.IMPORTANT - BCI/FBI prints are time Sensitive - Must completed within 48 Hours of signing contract.Please submit profiles to: Taylor.Minton@Qualivis.com and cc Reanna.Calpin@Qualivis.com
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 543959
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 3525
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 5
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 07:30
+    [whenmodified] => December, 11 2023 12:59:12
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2307656 ;Status=Open;Association=Qualivis Ohio ;Client=Cleveland Clinic Fairview Hospital ;City=Cleveland ;State=OH ;Zip=44111 ;Start=12/15/2023;End=3/15/2024;Duration=91;Cert=Registered Nurse ;Specialty=MS/Tele ;Unit=Parkview 1, 2100-2100-31331 ;Shift=Night 3x12-Hour (19:00 - 07:30);# of Postions=2;Type=Travel;BillRate=$105.00;OTRules=40 total hours in 1 week : 1.3% ;Orientation=40 ;Description=Night shift, 3 -12 hour shifts, 7pm-7am
+Minimum of 18 months recent Med/Surg Telemetry experience.
+MUST HAVE PERM OHIO LICENSE OR COMPACT STATE IN HAND
+AHA BLS & ACLS required, MUST be willing to obtain NIHSS prior to start
+*TWO recent references from a manager, ANM, supervisor or director in the specialty applying for are REQUIRED to qualify for submission. References must be from assignments worked in the past 12 months. Charge RN refs accepted!
+
+Orientation time (32-40hrs) will be paid at 50% of base hourly rate
+PBDS Assessment   waived
+ECG rhythm recognition test and safeMedicate will be completed during orientation, an acceptable score on both assessments is required
+Qualivis   Lotus will be used for submitting hours worked
+
+
+ Modified Time:12/15/2023 5:00:00 AM
+
+ Account Manager: Taylor Minton
+
+ Account Manager Email: Taylor.Minton@qualivis.com
+
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+
+ Flu Vaccine: Unknown
+ Submittals:Low
+
+ Submittal Details: #Tier3 Travel ComplianceStandard Qualivis Cover Sheet completed and filled in; please submit candidate's interview availability within cover sheet in the notes section.All RTO to be discussed during interview and must be included at time of submissionTravelers may be submitted for 1 job at a time within the Cleveland Clinic Health System Minimum of 18 months PERMANENT experience in SPECIALTY applying for prior to travel.Must have a PERMANENT Ohio license in hand at time of submission. Compact licenses are accepted for any starts 1/1/23 and forward.*TWO references from a manager, ANM, supervisor or director in the specialty applying for are REQUIRED to qualify for submission. Please no co-worker references, these will not be considered, and profile will be rejected. References must be from assignments worked in the past 12 months.Required certifications need to be ACTIVE with nothing pending. PBDS Assessment is waived. ECG rhythm recognition test and safeMedicate will be completed during orientation, an acceptable score on both assessments is required. Traveler will receive 2 attempts maximum to pass, otherwise will be canceled.BG hits of any kind are reviewed by the facility but will not accept any traveler with an open caseFacility does not accept any license hits.EFFECTIVE 9/30/22: Nurses and CSTs are EXEMPT from Nicotine Free Facility Requirements. Exemption is temporary and will be honored until further notice. All other travelers (aside from Nurses and CSTs) MUST BE NICOTINE FREE - Negative 10 Panel + Nicotine (Cotinine) Drug screen required within 12 months of start. Must be updated annually.Permanent and per diem candidates cannot return to Cleveland Clinic hospitals for 1 year from their previous end date.IMPORTANT - BCI/FBI prints are time Sensitive - Must completed within 48 Hours of signing contract.Please submit profiles to: Taylor.Minton@Qualivis.com and cc Reanna.Calpin@Qualivis.com ;url=https://app.ayaconnect.com/index.html#/vendor/job/2307656/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 105
+    [facilityName] => Cleveland Clinic - Fairview Hospital
+    [shiftDateEnd] => 2024-03-24
+    [shiftStartTime] => 19:00
+    [subjectID] => 
+)

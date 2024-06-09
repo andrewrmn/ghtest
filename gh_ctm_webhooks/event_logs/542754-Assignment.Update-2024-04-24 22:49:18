@@ -1,0 +1,150 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '42',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4092',
+  'Cf-Ray' => '8799a5496248183e-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Name Interventional Radiology-Special Procedures Tech-St. Louis
+  
+Facility Mercy
+  
+Location Mercy Hospital St. Louis
+  
+Unit Interventional Radiology
+  
+Cost Center 154007149
+  
+Shift day
+  
+Shifts per week
+4
+  
+Hours per shift 10
+  EXPERIENCE  
+Years of Experience
+  
+One Year Plus
+  
+Specialties
+  
+Radiology
+-
+required
+ Neuro
+-
+preferred
+ Stroke
+ 
+preferred
+  
+  
+
+
+  
+FLU VAC REQUIRED-
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.
+  
+Technologies
+  
+CERTIFICATIONS  BLS and ACLS RequiredPrefer ARRT (VI)
+ General CommentsDESCRIPTION
+Role: Special Procedures Tech Location: East Facility: St. Louis Shift: 4x10s and rotating call Description: Performs Interventional Radiology and special procedure examinations requiring knowledge and special skills in the operation of a variety of specialized imaging equipment, radiation safety devices and procedural equipment. Works directly with physician to provide care while maintaining radiation safe practices, a sterile environment and teamwork. Includes: Body, Neuro and Vascular-Interventional Care with rotating call expectations. Experience: require Interventional Radiology experience, prefer neuro-stroke experience Certifications: Prefer ARRT (VI)
+ No. of Positions: 1/1.
+    [sitename] => giftednurses
+    [spec] => Rad Tech
+    [assignmentid] => 542754
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 8384
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2024-05-13
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Rad Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:30
+    [whenmodified] => April, 24 2024 18:49:01
+    [daysPerWeek] => 4
+    [orderNote] => Source=HealthTrust;SourceID=773339 ;Status=Open;Association=Mercy Health ;Client=Mercy Hospital St Louis ;City=Saint Louis ;State=MO ;Zip=63141 ;Start=12/4/2023;End=3/4/2024;Duration=91;Cert=Special Procedures Tech ;Specialty=Radiology ;Unit=Mercy ;Shift=08:00-18:00;# of Postions=1;Type=Travel;BillRate=$85.00;minBillRate=$85.00;OTRate=93 ;CallbackRate=93 ;HolidayRate=93 ;Orientation=0 ;Description=Description:Name Interventional Radiology-Special Procedures Tech-St. Louis
+  
+Facility Mercy
+  
+Location Mercy Hospital St. Louis
+  
+Unit Interventional Radiology
+  
+Cost Center 154007149
+  
+Shift day
+  
+Shifts per week
+4
+  
+Hours per shift 10
+  EXPERIENCE  
+Years of Experience
+  
+One Year Plus
+  
+Specialties
+  
+Radiology
+-
+required
+ Neuro
+-
+preferred
+ Stroke
+ 
+preferred
+  
+  
+
+
+  
+FLU VAC REQUIRED-
+All travelers must be completely vaccinated PRIOR TO START. There are no exceptions.
+  
+Technologies
+  
+CERTIFICATIONS  BLS and ACLS RequiredPrefer ARRT (VI)
+ General CommentsDESCRIPTION
+Role: Special Procedures Tech Location: East Facility: St. Louis Shift: 4x10s and rotating call Description: Performs Interventional Radiology and special procedure examinations requiring knowledge and special skills in the operation of a variety of specialized imaging equipment, radiation safety devices and procedural equipment. Works directly with physician to provide care while maintaining radiation safe practices, a sterile environment and teamwork. Includes: Body, Neuro and Vascular-Interventional Care with rotating call expectations. Experience: require Interventional Radiology experience, prefer neuro-stroke experience Certifications: Prefer ARRT (VI)
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/773339;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => Mercy Hospital St. Louis - HT
+    [shiftDateEnd] => 2024-08-12
+    [shiftStartTime] => 08:00
+    [subjectID] => 
+)

@@ -1,0 +1,88 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '49',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2253',
+  'Cf-Ray' => '82d3cb6a64f56a22-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => The Johns Hopkins Hospital
+
+	Surgical ICU (SICU) -in the Department of Surgery
+
+	Current Surgical ICU Experience- 2 years, at least 2 previous travel assignments
+
+	Recovery of post-surgical patients
+
+	Patient population: trauma, transplant, vascular, GI, Ortho-spine, oncology
+
+	Required:BLS, strong Surgical ICU experience;
+
+	Preferred: Critical Care Certification, trauma course,EPIC, ACLS
+
+	Float as needed to area of like skill set.
+    [sitename] => giftednurses
+    [spec] => SICU
+    [assignmentid] => 546167
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1877
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-08
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 28 2023 10:55:19
+    [daysPerWeek] => 3
+    [orderNote] => Source=IntrastaffVMS;SourceID=305400 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Johns Hopkins Hospital ;Start=1/8/2024;End=4/6/2024;Duration=89;Cert=MSP RN Enhanced High Needs ;Specialty=Zayed 9E (SICU/IMC)  (4801337142) ;Unit=Zayed 9E (SICU/IMC)  (4801337142) ;Shift=ROTATING 7A/7P (12:00 AM - 12:00 AM);# of Postions=1;Type=Travel;BillRate=$100.00;minBillRate=$100.00;Description=The Johns Hopkins Hospital
+
+	Surgical ICU (SICU) -in the Department of Surgery
+
+	Current Surgical ICU Experience- 2 years, at least 2 previous travel assignments
+
+	Recovery of post-surgical patients
+
+	Patient population: trauma, transplant, vascular, GI, Ortho-spine, oncology
+
+	Required:BLS, strong Surgical ICU experience;
+
+	Preferred: Critical Care Certification, trauma course,EPIC, ACLS
+
+	Float as needed to area of like skill set. ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=24F0yOiw*y8=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 100
+    [facilityName] => The Johns Hopkins Hospital TRAVEL
+    [shiftDateEnd] => 2024-04-06
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

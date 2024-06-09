@@ -1,0 +1,84 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '46',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '4737',
+  'Cf-Ray' => '82c80aec574023c1-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => 13 weeks
+3 12s 7a-730p
+Days with 3 nights of call in a 6 week schedule
+Can submit with license pending
+Fresenius machine experience preferred
+
+ Modified Time:12/18/2023 12:00:00 AM
+ Account Manager: Christian Brown
+ Account Manager Email: Christian.Brown@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceRTO - Travelers are only guaranteed up to 40 hours of RTO per 13-week contract.&nbsp; The facility will try to accommodate any additional time off that exceeds the allotted 40 hours.If traveler has any vacation plans during the period between Sign Date and Start Date, this must be communicated to the Account Manager at the time of submission to ensure a realistic start date may be requestedExperience - Please refer to the job description for required experience.Valid State License - Will accept pending licenses, but must have license in-hand the Wednesday before start date.&nbsp; However, RRT travelers must have license in-hand at time of submissionMile Radius Rule - No rule.References Required - YesFloat Requirements - Candidates will be asked to float within their scope of practice within the facility.Copy of Certification - Please include copy of certification(s) that are required in the job description with submissions.Required Charting Exp. - SRO Float Pool and Inpatient Units need Epic ExperienceBackground Policy - If aware of background hit(s), please inform Account Manager.Return Staff Policy - 12 months must pass to return as traveler.&nbsp; Please inform Account Manager if previously employed at UVA as permanent staff member or traveler.BSN preferred
+    [sitename] => giftednurses
+    [spec] => Dialysis
+    [assignmentid] => 545883
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 12555
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Create
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-18
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => November, 27 2023 00:41:32
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2307384 ;Status=Open;Association=Qualivis MSP ;Client=University of Virginia Medical Center ;City=Charlottesville ;State=VA ;Zip=22908-0001 ;Start=12/18/2023;End=3/18/2024;Duration=91;Cert=Registered Nurse ;Specialty=Dialysis ;Unit=Inpatient Renal/Dialysis Unit - 2361 ;Shift=Day 3x12-Hour (07:00 - 19:30);# of Postions=2;Type=Travel;BillRate=$80.00;OTRules=48 total hours in 1 week : 10 ;Orientation=16 ;Description=13 weeks
+3 12s 7a-730p
+Days with 3 nights of call in a 6 week schedule
+Can submit with license pending
+Fresenius machine experience preferred
+
+ Modified Time:12/18/2023 12:00:00 AM
+ Account Manager: Christian Brown
+ Account Manager Email: Christian.Brown@qualivis.com
+ COVID-19 Vaccine: Not Required
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceRTO - Travelers are only guaranteed up to 40 hours of RTO per 13-week contract.&nbsp; The facility will try to accommodate any additional time off that exceeds the allotted 40 hours.If traveler has any vacation plans during the period between Sign Date and Start Date, this must be communicated to the Account Manager at the time of submission to ensure a realistic start date may be requestedExperience - Please refer to the job description for required experience.Valid State License - Will accept pending licenses, but must have license in-hand the Wednesday before start date.&nbsp; However, RRT travelers must have license in-hand at time of submissionMile Radius Rule - No rule.References Required - YesFloat Requirements - Candidates will be asked to float within their scope of practice within the facility.Copy of Certification - Please include copy of certification(s) that are required in the job description with submissions.Required Charting Exp. - SRO Float Pool and Inpatient Units need Epic ExperienceBackground Policy - If aware of background hit(s), please inform Account Manager.Return Staff Policy - 12 months must pass to return as traveler.&nbsp; Please inform Account Manager if previously employed at UVA as permanent staff member or traveler.BSN preferred ;url=https://app.ayaconnect.com/index.html#/vendor/job/2307384/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => University of Virginia Medical Center Travel
+    [shiftDateEnd] => 2024-03-18
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

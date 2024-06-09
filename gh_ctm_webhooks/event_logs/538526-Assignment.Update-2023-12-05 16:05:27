@@ -1,0 +1,60 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '121',
+  'Ki-Request-Colo' => '612',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '1345',
+  'Cf-Ray' => '830d87d9c6a62326-ORD',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => US Techs needed to work evening shift 800-630pm
+    [sitename] => giftednurses
+    [spec] => Ultrasound Tech
+    [assignmentid] => 538526
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 40
+    [facilityID] => 1209
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-12-24
+    [workerLastName] => 
+    [shiftNum] => 1
+    [workerFirstName] => 
+    [cert] => Ultrasound Tech
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => December, 05 2023 11:05:20
+    [daysPerWeek] => 4
+    [orderNote] => Source=EinsteinTrinity;SourceID=47891 ;Status=Open;Association=Trinity Health ;Client=MD - Holy Cross Hospital_MD ;City=Silver Spring ;State=MD ;Zip=20910 ;Start=11/12/2023;End=2/10/2024;Duration=90;Cert=Ultrasound Tech ;Specialty=Ultrasound ;Unit=SS_US Tech ;Shift=08:00:00 - 18:30:00;# of Postions=1;Type=Travel;BillRate=$76.00;OTRate=98.80 ;ChargeRate=79.00 ;CallbackRate=98.80 ;HolidayRate=98.80 ;Orientation=0.00 ;Description=US Techs needed to work evening shift 800-630pm ;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 76
+    [facilityName] => Holy Cross Hospital TRAVEL
+    [shiftDateEnd] => 2024-03-23
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

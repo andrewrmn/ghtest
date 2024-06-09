@@ -1,0 +1,414 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '20',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '5179',
+  'Cf-Ray' => '82a2bb74e091493d-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Description:Unit Information:
+   3 West Medical Telemetry             Location:              
+Address: 100 E.   Alton Gloor Blvd
+         
+Floor: 3 west
+             
+Building: Main
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+   Number of Beds - 43
+   
+ 
+
+
+
+
+
+   Number of Staff   
+   
+ 
+
+
+
+
+
+   Type of staff:
+   
+o
+
+   Day Shift  2 charge, 6 RN, 5 CNA, 
+   
+o
+
+   Night Shift - 2 charge, 3 RN, 5 CNA,
+   
+ 
+
+
+
+
+
+   Patient Ratios   7:1
+   
+ 
+
+
+
+
+
+   Type of equipment   Standard   equipment, 
+   
+ 
+
+
+
+
+
+   EMR -Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+ Professional   license, BLS, medical experience
+    
+
+
+
+
+
+ 
+   
+ 
+
+
+
+
+
+ 
+
+   
+Preferred or nice to have:
+ ACLS/   MED/SURG CERT. 
+    
+
+
+
+
+
+ 
+    
+
+
+
+
+
+ 
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+ PARA ,THORA,
+   BONE MARROW BX, MIDLINE/PICC LINES
+   
+   
+   Best personality Fit:   
+ 
+
+
+
+
+
+   
+Patient satisfaction driven
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+   N/A
+   Floating Area(s):   
+ 
+
+
+
+
+
+   Medical / surgical/ Neuro
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+   Scrub Royal Blue -
+ 
+   
+
+
+             
+Unit Guidelines/Policies: See facility   policies.
+   
+ 
+
+
+
+
+
+ 
+
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+ Every other   weekend and some and 3 major holidays
+ General Comments
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 537324
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 5410
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-10-30
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:00
+    [whenmodified] => November, 22 2023 12:00:45
+    [daysPerWeek] => 3
+    [orderNote] => Source=HealthTrust;SourceID=763069 ;Status=Open;Association=HCA Healthcare (Parent) ;Client=VALLEY REGIONAL MEDICAL CENTER ;City=Brownsville ;State=TX ;Zip=78526 ;Start=10/30/2023;End=1/29/2024;Duration=91;Cert=RN ;Specialty=Med Surg ;Unit=GULF COAST DIVISION (14) ;Shift=7:00AM – 7:00PM ;# of Postions=1;Type=Travel;BillRate=$60.00;OTRate=68 ;CallbackRate=0 ;HolidayRate=0 ;Description=Description:Unit Information:
+   3 West Medical Telemetry             Location:              
+Address: 100 E.   Alton Gloor Blvd
+         
+Floor: 3 west
+             
+Building: Main
+         
+
+
+             General Information             Tell us about the unit(s):    
+ 
+
+
+
+
+
+   Number of Beds - 43
+   
+ 
+
+
+
+
+
+   Number of Staff   
+   
+ 
+
+
+
+
+
+   Type of staff:
+   
+o
+
+   Day Shift  2 charge, 6 RN, 5 CNA, 
+   
+o
+
+   Night Shift - 2 charge, 3 RN, 5 CNA,
+   
+ 
+
+
+
+
+
+   Patient Ratios   7:1
+   
+ 
+
+
+
+
+
+   Type of equipment   Standard   equipment, 
+   
+ 
+
+
+
+
+
+   EMR -Meditech
+             Typical hiring profile             Skill Set Most recruited for:
+      
+   
+Must have:
+ Professional   license, BLS, medical experience
+    
+
+
+
+
+
+ 
+   
+ 
+
+
+
+
+
+ 
+
+   
+Preferred or nice to have:
+ ACLS/   MED/SURG CERT. 
+    
+
+
+
+
+
+ 
+    
+
+
+
+
+
+ 
+   List typical procedures performed on unit(s): 
+   
+ 
+
+
+
+
+
+ PARA ,THORA,
+   BONE MARROW BX, MIDLINE/PICC LINES
+   
+   
+   Best personality Fit:   
+ 
+
+
+
+
+
+   
+Patient satisfaction driven
+   REQUIRED   CERTIFICATIONS:   
+ 
+
+
+
+
+
+   N/A
+   Floating Area(s):   
+ 
+
+
+
+
+
+   Medical / surgical/ Neuro
+             
+Dress Code: 
+   
+ 
+
+
+
+
+
+   Scrub Royal Blue -
+ 
+   
+
+
+             
+Unit Guidelines/Policies: See facility   policies.
+   
+ 
+
+
+
+
+
+ 
+
+   
+
+
+             Weekends and On call(if any)    
+
+
+
+
+
+ Every other   weekend and some and 3 major holidays
+ General Commentsauto backfill for position: 757971
+1.
+ No. of Positions: 1/1. ;url=https://vendor.healthtrustws.com/positions/763069;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 60
+    [facilityName] => Valley Regional Medical Center - Travel
+    [shiftDateEnd] => 2024-01-29
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

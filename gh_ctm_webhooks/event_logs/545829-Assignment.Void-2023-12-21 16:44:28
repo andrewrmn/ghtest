@@ -1,0 +1,85 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '50',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '2244',
+  'Cf-Ray' => '83919703c47e6a23-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => The Johns Hopkins Hospital - Zayed 3 ORs
+
+	Surg Tech for the Zayed Trauma ORs ----TRAUMA/TRANSPLANT
+
+	OR experience: specialties neurosurgery, trauma, ortho --Need TRANSPLANT EXP
+
+	Required: CPR;must have completed a surg tech program-certification is NOT required
+
+	5+ years OR surg tech experience, +BLS, +EPIC
+
+	No Block scheduling - No set Schedule
+
+	Will do call:On call 5-6 weekday and 1 weekend/holiday per 6 week schedule
+    [sitename] => giftednurses
+    [spec] => OR
+    [assignmentid] => 545829
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => void
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 1877
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Void
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2024-01-02
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => December, 21 2023 11:44:27
+    [daysPerWeek] => 3
+    [orderNote] => Source=IntrastaffVMS;SourceID=305195 ;Status=Open for Requests;Association=Johns Hopkins Health System ;Client=Johns Hopkins Hospital ;Start=1/2/2024;End=3/30/2024;Duration=88;Cert=MSP RN Enhanced High Needs ;Specialty=ZBOR - Neurosurgery  (4801357242) ;Unit=ZBOR - Neurosurgery  (4801357242) ;Shift=Day 12 (7:00 AM - 7:30 PM);# of Postions=1;Type=Travel;BillRate=$80.00;minBillRate=$80.00;Description=The Johns Hopkins Hospital - Zayed 3 ORs
+
+	Surg Tech for the Zayed Trauma ORs ----TRAUMA/TRANSPLANT
+
+	OR experience: specialties neurosurgery, trauma, ortho --Need TRANSPLANT EXP
+
+	Required: CPR;must have completed a surg tech program-certification is NOT required
+
+	5+ years OR surg tech experience, +BLS, +EPIC
+
+	No Block scheduling - No set Schedule
+
+	Will do call:On call 5-6 weekday and 1 weekend/holiday per 6 week schedule ;url=https://intrastaffvms.b4health.net/Agency/ContractAssignments/ViewContractAssignment.aspx?orig=CS&ID=qmQ3lgsqoSQ=;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [hasadvancedtravel] => true
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 80
+    [facilityName] => The Johns Hopkins Hospital TRAVEL
+    [shiftDateEnd] => 2024-03-30
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

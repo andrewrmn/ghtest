@@ -1,0 +1,80 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '21',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '3685',
+  'Cf-Ray' => '82e6c09e07654941-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => MS TELE NEURO UNIT 
+Backfill: J. Thomas | Ratio- 1:6 | Weekend Requirement: Yes |  No On-Call | Float: Yes | Holidays: Every Other | Epic experience | Unit Info: Neuro / Stroke patient population, Vascular surgeries, Multi-level back surgeries, CABG, ECMO | Required Skills: Interpretation & Management of dysrhythmias, CVA, Pre/Post Neuro Surgery, Spinal cord injuries, Traumatic Brain injury | Min 2 yrs MS Tele/ Neuro | Required Cert: ACLS, NIH | Preferred Cert: CCRN | RTO <5 days or add time to end of contract 
+
+
+ Modified Time:12/19/2023 6:00:00 AM
+ Account Manager: Shannon Steely
+ Account Manager Email: Ssteely@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Low
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel.
+    [sitename] => giftednurses
+    [spec] => MedSurg
+    [assignmentid] => 545786
+    [workerID] => 
+    [WorkerContactNo] => 
+    [housingNote] => 
+    [status] => open
+    [ordertype] => Travel
+    [hoursPerWeek] => 36
+    [facilityID] => 13892
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => ClearConnect
+    [hotOrder] => 0
+    [bonus] => 
+    [shiftDateStart] => 2023-12-19
+    [workerLastName] => 
+    [shiftNum] => 4
+    [workerFirstName] => 
+    [cert] => RN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 19:30
+    [whenmodified] => November, 30 2023 18:07:43
+    [daysPerWeek] => 3
+    [orderNote] => Source=AYA;SourceID=2316358 ;Status=Open;Association=Vaya Legacy MSP (Connect) ;Client=LCMC Health West Jefferson Medical Center ;City=Marrero ;State=LA ;Zip=70072 ;Start=12/19/2023;End=3/19/2024;Duration=91;Cert=Registered Nurse ;Specialty=MS/Tele ;Unit=Vaya - 7 South Neuro 60179 ;Shift=Day 3x12-Hour (07:00 - 19:30);# of Postions=1;Type=Travel;BillRate=$85.00;OTRules=40 total hours in 1 week : 1.25% ;Orientation=16 ;Description=MS TELE NEURO UNIT 
+Backfill: J. Thomas | Ratio- 1:6 | Weekend Requirement: Yes |  No On-Call | Float: Yes | Holidays: Every Other | Epic experience | Unit Info: Neuro / Stroke patient population, Vascular surgeries, Multi-level back surgeries, CABG, ECMO | Required Skills: Interpretation & Management of dysrhythmias, CVA, Pre/Post Neuro Surgery, Spinal cord injuries, Traumatic Brain injury | Min 2 yrs MS Tele/ Neuro | Required Cert: ACLS, NIH | Preferred Cert: CCRN | RTO <5 days or add time to end of contract 
+
+
+ Modified Time:12/19/2023 6:00:00 AM
+ Account Manager: Shannon Steely
+ Account Manager Email: Ssteely@ayahealthcare.com
+ COVID-19 Vaccine: Required - Medical/Religious Exemptions Only
+ Flu Vaccine: Required - No Exemptions
+ Submittals:Med
+ Submittal Details: #Tier2 Travel ComplianceDL/ ID IS REQUIRED WITH SUBMISSION. ADDRESS ON DL/ID IS USED TO VERIFY LOCAL/TRAVELER STATUSValid LA License (required at time of submission)RN must live more than 75 miles away from facility or it is a "local rate" - please confirm local rate with AMAny Permanent Employee at any LCMC facility must be gone for at least 1 year to be considered for travel. ;url=https://app.ayaconnect.com/index.html#/vendor/job/2316358/;InterviewRequired=False ;WinterPlanNeed=No;
+    [guaranteedMinimum] => 0
+    [workerEmail] => 
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 85
+    [facilityName] => West Jefferson Medical Center TRV VAYA
+    [shiftDateEnd] => 2024-03-19
+    [shiftStartTime] => 07:00
+    [subjectID] => 
+)

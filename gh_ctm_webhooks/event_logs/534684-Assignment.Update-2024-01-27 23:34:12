@@ -1,0 +1,61 @@
+SERVER global:
+array (
+  'X-Kinsta-Edge-Lb' => 'KCW',
+  'X-Kinsta-Edge-Incomingip' => '216.58.240.204',
+  'Ki-Request-Metal' => '31',
+  'Ki-Request-Colo' => '94',
+  'Cf-Device-Type' => 'desktop',
+  'Cf-Connecting-Ip' => '216.58.240.204',
+  'User-Agent' => 'Lucee (CFML Engine)',
+  'Cdn-Loop' => 'cloudflare; subreqs=1',
+  'Cf-Ew-Via' => '15',
+  'Content-Type' => 'application/json',
+  'Cf-Visitor' => '{"scheme":"https"}',
+  'X-Forwarded-Proto' => 'https',
+  'Content-Length' => '900',
+  'Cf-Ray' => '84c4ce13f6d81464-STL',
+  'X-Forwarded-For' => '216.58.240.204',
+  'Accept-Encoding' => 'gzip, br',
+  'Cf-Ipcountry' => 'US',
+  'Cf-Worker' => 'kinsta.cloud',
+  'Host' => 'giftedhealthcare.com',
+)Payload:
+Array
+(
+    [transportationNote] => Last shift worked was 12-29-23
+    [sitename] => giftednurses
+    [spec] => Clinic
+    [assignmentid] => 534684
+    [workerID] => 39521
+    [WorkerContactNo] => Cell_Phone
+    [housingNote] => 
+    [status] => filled
+    [ordertype] => Contract
+    [hoursPerWeek] => 40
+    [facilityID] => 7927
+    [mpsmessagetype] => Assignment
+    [eventname] => Assignment.Update
+    [originatedfrom] => Staffing
+    [hotOrder] => 
+    [bonus] => 
+    [shiftDateStart] => 2023-10-01
+    [workerLastName] => Crile
+    [shiftNum] => 1
+    [workerFirstName] => Bridgett
+    [cert] => LPN
+    [floorDesc] => 
+    [Subject] => 
+    [shiftEndTime] => 17:00
+    [whenmodified] => January, 27 2024 18:34:11
+    [daysPerWeek] => 5
+    [orderNote] => State facility no federal benefits
+RTO : None
+    [guaranteedMinimum] => 
+    [workerEmail] => bridgett.crile@yahoo.com
+    [HoursPerWeekOT] => 0
+    [offContractRate] => 0
+    [facilityName] => OU Wayman Tisdale Specialty Health Clinic
+    [shiftDateEnd] => 2023-12-30
+    [shiftStartTime] => 08:00
+    [subjectID] => 
+)
